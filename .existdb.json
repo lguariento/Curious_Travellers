@@ -8,8 +8,8 @@
     },
     "sync": {
         "server": "localhost",
-        "root": "",
-        "active": false,
+        "root": "/db/apps/ct_editions",
+        "active": true,
         "ignore": [
             ".existdb.json",
             ".git/**",
