@@ -18,47 +18,47 @@ declare function local:hrefToDoc($node as node()) {
 };
 
 
-    if(request:get-parameter('selected', ()) = "2") then( 
-    
-    for $doc in collection("/db/apps/app-ct/data/documents")/tei:TEI/tei:teiHeader[@type eq 's']
+    if(request:get-parameter('selected', ()) = "2") then(
+
+    for $doc in collection("/db/apps/ct_editions/data/documents")/tei:TEI/tei:teiHeader[@type eq 's']
     let $id := substring-before(local:getDocName($doc), '.xml')
     let $title := $doc//tei:titleStmt/tei:title/node()[not(self::tei:date)]
     let $year := string($doc//tei:titleStmt/tei:title/tei:date)
-    
+
     return
         <tr>
-            
+
             <td>{$year}</td>
             <td><a href="/doc/{$id}">{$title}</a></td>
-            
-        
+
+
         </tr>)
 
-else if(request:get-parameter('selected', ()) = "3") then( 
-    
-    for $doc in collection("/db/apps/app-ct/data/documents")/tei:TEI/tei:teiHeader[@type eq 'w']
+else if(request:get-parameter('selected', ()) = "3") then(
+
+    for $doc in collection("/db/apps/ct_editions/data/documents")/tei:TEI/tei:teiHeader[@type eq 'w']
     let $id := substring-before(local:getDocName($doc), '.xml')
     let $title := $doc//tei:titleStmt/tei:title/node()[not(self::tei:date)]
     let $year := string($doc//tei:titleStmt/tei:title/tei:date)
-    
+
     return
         <tr>
-            
+
             <td>{$year}</td>
             <td><a href="/doc/{$id}">{$title}</a></td>
-            
-        
+
+
         </tr>)
-        
-        else (for $doc in collection("/db/apps/app-ct/data/documents")/tei:TEI[xs:integer(substring(@xml:id, 3)) < 0100]
+
+        else (for $doc in collection("/db/apps/ct_editions/data/documents")/tei:TEI[xs:integer(substring(@xml:id, 3)) < 0100]
     let $id := substring-before(local:getDocName($doc), '.xml')
     let $title := $doc//tei:titleStmt/tei:title/node()[not(self::tei:date)]
     let $year := string($doc//tei:titleStmt/tei:title/tei:date)
-    
+
     return
         <tr>
             <td>{$year}</td>
             <td><a href="/doc/{$id}">{$title}</a></td>
-            
-        
+
+
         </tr>)

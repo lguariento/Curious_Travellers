@@ -15,9 +15,9 @@ declare option exist:serialize "method=html media-type=text/html";
 declare function app:checkPresence($node as node(), $model as map(*), $searchkey as xs:string?)
 
 {
-    
+
     let $message :=
-    for $hit in collection('/db/apps/app-ct/data/documents/')//tei:TEI[.//tei:bibl[@ref = $searchkey]]
+    for $hit in collection('/db/apps/ct_editions/data/documents/')//tei:TEI[.//tei:bibl[@ref = $searchkey]]
     return
         if ($hit = "") then
             ("No docs linked")
@@ -33,16 +33,16 @@ declare function local:get-id($xml-id as xs:string) as xs:integer {
 };
 
 declare function app:countLetters($node as node(), $model as map(*)) {
-    
-    let $count_letters := count(collection("/db/apps/app-ct/data/documents")/tei:TEI[xs:integer(substring(@xml:id, 3)) > 0100])
+
+    let $count_letters := count(collection("/db/apps/ct_editions/data/documents")/tei:TEI[xs:integer(substring(@xml:id, 3)) > 0100])
     return
         $count_letters
 
 };
 
 declare function app:countTours($node as node(), $model as map(*)) {
-    
-    let $count_tours := count(collection("/db/apps/app-ct/data/documents")/tei:TEI[xs:integer(substring(@xml:id, 3)) < 0100])
+
+    let $count_tours := count(collection("/db/apps/ct_editions/data/documents")/tei:TEI[xs:integer(substring(@xml:id, 3)) < 0100])
     return
         $count_tours
 
@@ -60,15 +60,15 @@ declare function app:hrefToDoc($node as node()) {
         $href
 };
 
-(: The transform (in the http://exist-db.org/xquery/transform function namespace) module 
-provides functions for directly applying an XSL stylesheet 
+(: The transform (in the http://exist-db.org/xquery/transform function namespace) module
+provides functions for directly applying an XSL stylesheet
 to an XML fragment within an XQuery script.:)
 
 declare function app:XMLtoHTML($node as node(), $model as map(*)) {
     let $ref := xs:string(request:get-parameter("document", ""))
     let $xmlPath := concat(xs:string(request:get-parameter("directory", "documents")), '/')
-    let $xml := doc(replace(concat("/db/apps/app-ct/data/", $xmlPath, $ref), '/exist', '/db/'))
-    
+    let $xml := doc(replace(concat("/db/apps/ct_editions/data/", $xmlPath, $ref), '/exist', '/db/'))
+
     let $xslPath := concat(xs:string(request:get-parameter("stylesheet", "xmlToHtml")), '.xsl')
     let $xsl := doc(replace(concat("/db/apps/ct_editions/resources/xslt/", $xslPath), '/exist', '/db/'))
     (: get a list of all the URL parameters that are not either xml= or xslt= :)
@@ -84,41 +84,41 @@ declare function app:XMLtoHTML($node as node(), $model as map(*)) {
                     value="{$val}"/>
         }
     </parameters>
-    
+
     return
         transform:transform($xml, $xsl, $params),
-    
+
     (: navigation within the Pennant-Bull corpus :)
-    
+
     let $currentID := xs:integer(substring-before(request:get-parameter("document", ''), '.xml'))
     let $thisid := "ct" || substring-before(request:get-parameter("document", ''), '.xml')
-    
+
     let $nextdoc :=
-    (for $doc in collection("/db/apps/app-ct/data/documents")//tei:TEI[@xml:id gt $thisid]
+    (for $doc in collection("/db/apps/ct_editions/data/documents")//tei:TEI[@xml:id gt $thisid]
     let $sent := $doc//tei:correspAction[@type eq "sent"]/tei:persName
     let $received1 := $doc//tei:correspAction[@type eq "received"]/tei:persName[1]
     let $received2 := $doc//tei:correspAction[@type eq "received"]/tei:persName[2]
-        
+
         where
         $sent/@ref eq "pe0313" or $sent/@ref eq "pe0232" and ($received1/@ref eq "pe0313" or $received1/@ref eq "pe0232")
         order by $doc/@xml:id
     return
         (: concat(substring(string($doc//@xml:id), 3), '.xml'))[1] :)
         substring(string($doc//@xml:id), 3))[1]
-        
+
     let $prevdoc :=
-    (for $doc in collection("/db/apps/app-ct/data/documents")//tei:TEI[@xml:id lt $thisid]
+    (for $doc in collection("/db/apps/ct_editions/data/documents")//tei:TEI[@xml:id lt $thisid]
     let $sent := $doc//tei:correspAction[@type eq "sent"]/tei:persName
     let $received1 := $doc//tei:correspAction[@type eq "received"]/tei:persName[1]
     let $received2 := $doc//tei:correspAction[@type eq "received"]/tei:persName[2]
-        
+
         where
         ($sent/@ref eq "pe0313" or $sent/@ref eq "pe0232") and ($received1/@ref eq "pe0313" or $received1/@ref eq "pe0232")
         order by $doc/@xml:id descending
     return
         (: concat(substring(string($doc//@xml:id), 3), '.xml'))[1] :)
         substring(string($doc//@xml:id), 3))[1]
-    
+
     return
         if ($currentID gt 0999 and $currentID lt 1270) then
             (
@@ -148,9 +148,9 @@ declare function app:XMLtoHTML($node as node(), $model as map(*)) {
 (:~ : creates a basic table of content derived from the documents stored in '/data/documents' :)
 
 declare function app:tocLettersBull($node as node(), $model as map(*)) {
-    for $doc in collection("/db/apps/app-ct/data/documents")/tei:TEI[xs:integer(substring(@xml:id, 3)) > 0100]
+    for $doc in collection("/db/apps/ct_editions/data/documents")/tei:TEI[xs:integer(substring(@xml:id, 3)) > 0100]
     let $id := substring-before(app:getDocName($doc), '.xml')
-    (:let $from := string($doc//tei:correspAction[@type = "sent"]/tei:persName):) 
+    (:let $from := string($doc//tei:correspAction[@type = "sent"]/tei:persName):)
     let $fromID := string($doc//tei:correspAction[@type = "sent"]/tei:persName/@ref)
     let $recipients := count($doc//tei:correspAction[@type = "received"]/tei:persName)
     let $to := for $recipient at $i in $doc//tei:correspAction[@type = "received"]/tei:persName
@@ -168,9 +168,9 @@ declare function app:tocLettersBull($node as node(), $model as map(*)) {
     let $date := if (data($doc//tei:correspAction[@type = "sent"]/tei:date/@when)) then ($year || ' ' || $month || ' ' || $day) else $doc//tei:date/string()
         where (($fromID = "pe0313") or ($fromID = "pe0232")) and (contains($toID, "pe0313") or (contains($toID, "pe0232")))
     return
-        
+
         <tr>
-            
+
             <th
                 scope="row"><a
                     href="/doc/{$doc}">{$id}</a></th>
@@ -183,7 +183,7 @@ declare function app:tocLettersBull($node as node(), $model as map(*)) {
 };
 
 declare function app:tocLettersPaton($node as node(), $model as map(*)) {
-    for $doc in collection("/db/apps/app-ct/data/documents")/tei:TEI[xs:integer(substring(@xml:id, 3)) > 0100]
+    for $doc in collection("/db/apps/ct_editions/data/documents")/tei:TEI[xs:integer(substring(@xml:id, 3)) > 0100]
     let $id := substring-before(app:getDocName($doc), '.xml')
     let $from := string($doc//tei:correspAction[@type = "sent"]/tei:persName)
     let $fromID := string($doc//tei:correspAction[@type = "sent"]/tei:persName/@ref)
@@ -203,9 +203,9 @@ declare function app:tocLettersPaton($node as node(), $model as map(*)) {
     let $date := $year || ' ' || $month || ' ' || $day
         where (($fromID = "pe0228") or ($fromID = "pe0232")) and (contains($toID, "pe0228") or (contains($toID, "pe0232")))
     return
-        
+
         <tr>
-            
+
             <th
                 scope="row"><a
                     href="/doc/{$doc}">{$id}</a></th>
@@ -218,7 +218,7 @@ declare function app:tocLettersPaton($node as node(), $model as map(*)) {
 };
 
 declare function app:tocLettersScottish($node as node(), $model as map(*)) {
-    for $doc in collection("/db/apps/app-ct/data/documents")/tei:TEI[xs:integer(substring(@xml:id, 3)) > 0100]
+    for $doc in collection("/db/apps/ct_editions/data/documents")/tei:TEI[xs:integer(substring(@xml:id, 3)) > 0100]
     let $id := substring-before(app:getDocName($doc), '.xml')
     let $from := string($doc//tei:correspAction[@type = "sent"]/tei:persName)
     let $fromID := string($doc//tei:correspAction[@type = "sent"]/tei:persName/@ref)
@@ -241,9 +241,9 @@ declare function app:tocLettersScottish($node as node(), $model as map(*)) {
         and not(contains($toID, "pe0228"))
         and not(contains($toID, "pe0313"))
     return
-        
+
         <tr>
-            
+
             <th
                 scope="row"><a
                     href="/doc/{$doc}">{$id}</a></th>
@@ -257,45 +257,45 @@ declare function app:tocLettersScottish($node as node(), $model as map(*)) {
 
 (: NOT USED! The XHR call is used instead (handlerTours.xq) :)
 declare function app:tocTours($node as node(), $model as map(*)) {
-    
-    for $doc in collection("/db/apps/app-ct/data/documents")/tei:TEI[xs:integer(substring(@xml:id, 3)) < 0100]
+
+    for $doc in collection("/db/apps/ct_editions/data/documents")/tei:TEI[xs:integer(substring(@xml:id, 3)) < 0100]
     let $id := substring-before(app:getDocName($doc), '.xml')
     let $title := string($doc//tei:titleStmt/tei:title)
     let $year := string($doc/tei:titleStmt/tei:title/tei:date)
-    
+
     return
         (<tr>
-            
+
             <td><a
                     href="/doc/{$doc}">{$title}</a></td>
             <td>{$year}</td>
-        
+
         </tr>)
 
 };
 
 
 declare function app:number($node as node(), $model as map(*)) {
-    
+
     let $par := fn:current-dateTime()
-    
+
     return
-        
+
         $par
 
 };
 
 declare function app:listPers($node as node(), $model as map(*)) {
-    
+
     let $hitHtml := "hits.html?searchkey="
-    for $person at $i in doc("/db/apps/app-ct/data/indices/pedb.xml")//tei:listPerson/tei:person
+    for $person at $i in doc("/db/apps/ct_editions/data/indices/pedb.xml")//tei:listPerson/tei:person
     let $forename := $person/tei:persName/tei:forename
     let $surname := $person/tei:persName/tei:surname
     let $akas := $person/tei:persName/tei:addName
     let $akas_n := count($akas)
         order by $surname
     return
-    
+
     (:<div
             class="card" data-ref="{$person/@xml:id}">
             <div
@@ -336,7 +336,7 @@ declare function app:listPers($node as node(), $model as map(*)) {
                     </button>
                 </h5>
             </div>
-            
+
             <div
                 id="collapse{$i}"
                 class="collapse"
@@ -344,10 +344,10 @@ declare function app:listPers($node as node(), $model as map(*)) {
                 data-parent="#listULPersons">
                 <div
                     class="card-body" id="details">
-                    
+
                         Info about the person
-                    
-                    
+
+
                     </div></div></div>:)
 
             (<div data-ref="{$person/@xml:id}" class="accordion-item">
@@ -383,7 +383,7 @@ declare function app:listPers($node as node(), $model as map(*)) {
                 </div>
             </div>)
 
-        
+
         (:<li><a
                 href="{concat($hitHtml, data($person/@xml:id))}">
                 {
@@ -411,15 +411,15 @@ declare function app:listPers($node as node(), $model as map(*)) {
 };
 
 declare function app:listPlaces($node as node(), $model as map(*)) {
-    
+
     let $hitHtml := "hits.html?searchkey="
-    for $place at $i in doc("/db/apps/app-ct/data/indices/pldb.xml")//tei:listPlace/tei:place
+    for $place at $i in doc("/db/apps/ct_editions/data/indices/pldb.xml")//tei:listPlace/tei:place
     let $geogName := $place/tei:placeName/tei:geogName
     let $addNames := $place/tei:placeName/tei:addName
     let $addNames_n := count($addNames)
         order by $geogName
     return
-    
+
     (<div class="accordion-item">
                 <div data-ref="{$place/@xml:id}" id="place-{$place/@xml:id}" class="accordion-heading">
                 <h6>{
@@ -447,8 +447,8 @@ declare function app:listPlaces($node as node(), $model as map(*)) {
                 <div style="height: 30em !important; overflow: auto;" id="details-{$place/@xml:id}"/>
                 </div>
                 </div>)
-    
-    
+
+
     (:<div
             class="card">
             <div
@@ -487,7 +487,7 @@ declare function app:listPlaces($node as node(), $model as map(*)) {
                 data-parent="#listULPlaces">
                 <div
                     class="card-body"> Info about the place </div></div></div>:)
-        
+
         (:<li><a
                 href="{concat($hitHtml, data($place/@xml:id))}">
                 {
@@ -511,11 +511,11 @@ declare function app:listPlaces($node as node(), $model as map(*)) {
 
 
 declare function app:listArtworks($node as node(), $model as map(*)) {
-    
+
     let $hitHtml := "hitsartworks.html?searchkey="
-    for $artwork at $i in doc('/db/apps/app-ct/data/indices/ardb.xml')/tei:TEI/tei:text/tei:body/tei:list/tei:item/tei:rs
+    for $artwork at $i in doc('/db/apps/ct_editions/data/indices/ardb.xml')/tei:TEI/tei:text/tei:body/tei:list/tei:item/tei:rs
     return
-    
+
     (:<div
             class="card">
             <div
@@ -547,7 +547,7 @@ declare function app:listArtworks($node as node(), $model as map(*)) {
                 data-parent="#listULArtworks">
                 <div
                     class="card-body"> Info about the artwork </div></div></div>:)
-                    
+
                     ((<div class="accordion-item">
                 <div data-ref="{$artwork/@xml:id}" id="artwork-{$artwork/@xml:id}" class="accordion-heading">
                 <h6>{string($artwork/tei:title)}
@@ -567,8 +567,8 @@ declare function app:listArtworks($node as node(), $model as map(*)) {
                 <div style="height: 30em !important; overflow: auto;" id="details-{$artwork/@xml:id}"/>
                 </div>
                 </div>))
-                    
-        
+
+
         (:<li><a
                 href="{concat($hitHtml, data($artwork/@xml:id))}">{string($artwork/tei:title)}
                 {
@@ -585,17 +585,17 @@ declare function app:listArtworks($node as node(), $model as map(*)) {
 };
 
 declare function app:listBooks($node as node(), $model as map(*)) {
-    
+
     let $hitHtml := "hitsbooks.html?searchkey="
-    for $book at $i in doc('/db/apps/app-ct/data/indices/bidb.xml')/tei:TEI/tei:text/tei:body/tei:listBibl/tei:bibl
-    
+    for $book at $i in doc('/db/apps/ct_editions/data/indices/bidb.xml')/tei:TEI/tei:text/tei:body/tei:listBibl/tei:bibl
+
     return
-        
+
         (:        <li><a
                     href="{concat($hitHtml, data($book/@xml:id))}">{string($book/tei:title)}
                     </a>
                     </li>:)
-        
+
         (:<div
             class="card">
             <div
@@ -615,7 +615,7 @@ declare function app:listBooks($node as node(), $model as map(*)) {
                     </button>
                 </h5>
             </div>
-            
+
             <div
                 id="collapse{$i}"
                 class="collapse"
@@ -641,13 +641,13 @@ declare function app:listBooks($node as node(), $model as map(*)) {
 declare function app:listPers_hits($node as node(), $model as map(*), $searchkey as xs:string?)
 
 {
-    
-    for $hit in collection("/db/apps/app-ct/data/documents/")//tei:TEI[.//tei:persName[@ref = $searchkey]]
+
+    for $hit in collection("/db/apps/ct_editions/data/documents/")//tei:TEI[.//tei:persName[@ref = $searchkey]]
     let $document := substring-before(app:getDocName($hit), '.xml')
     let $title := $hit//tei:titleStmt/tei:title
-    
+
     return
-        
+
         <tr>
             <td><a
                     href="/doc/{$document}">{$document}</a> ({string($title)})
@@ -658,12 +658,12 @@ declare function app:listPers_hits($node as node(), $model as map(*), $searchkey
 declare function app:listArtworks_hits($node as node(), $model as map(*), $searchkey as xs:string?)
 
 {
-    
-    for $hit in collection('/db/apps/app-ct/data/documents/')//tei:TEI[.//tei:rs[@ref = $searchkey]]
+
+    for $hit in collection('/db/apps/ct_editions/data/documents/')//tei:TEI[.//tei:rs[@ref = $searchkey]]
     let $document := substring-before(app:getDocName($hit), '.xml')
     let $title := $hit//tei:titleStmt/tei:title
     return
-        
+
         <tr>
             <td><a
                     href="/doc/{$document}">{$document}</a> ({string($title)})
@@ -674,12 +674,12 @@ declare function app:listArtworks_hits($node as node(), $model as map(*), $searc
 declare function app:listBooks_hits($node as node(), $model as map(*), $searchkey as xs:string?)
 
 {
-    
-    for $hit in collection('/db/apps/app-ct/data/documents/')//tei:TEI[.//tei:bibl/tei:title[@ref = $searchkey]]
+
+    for $hit in collection('/db/apps/ct_editions/data/documents/')//tei:TEI[.//tei:bibl/tei:title[@ref = $searchkey]]
     let $document := substring-before(app:getDocName($hit), '.xml')
     let $title := $hit//tei:titleStmt/tei:title
     return
-        
+
         <tr>
             <td><a
                     href="/doc/{$document}">{$document}</a> ({string($title)})
@@ -690,12 +690,12 @@ declare function app:listBooks_hits($node as node(), $model as map(*), $searchke
 declare function app:listPlace_hits($node as node(), $model as map(*), $searchkey as xs:string?)
 
 {
-    
-    for $hit in collection('/db/apps/app-ct/data/documents/')//tei:TEI[.//tei:placeName[@ref = $searchkey]]
+
+    for $hit in collection('/db/apps/ct_editions/data/documents/')//tei:TEI[.//tei:placeName[@ref = $searchkey]]
     let $document := substring-before(app:getDocName($hit), '.xml')
     let $title := $hit//tei:titleStmt/tei:title
     return
-        
+
         <tr>
             <td><a
                     href="/doc/{$document}">{$document}</a> ({string($title)})
@@ -706,11 +706,11 @@ declare function app:listPlace_hits($node as node(), $model as map(*), $searchke
 declare function app:persDetails($node as node(), $model as map(*), $searchkey as xs:string?)
 
 {
-    
-    let $note := doc('/db/apps/app-ct/data/indices/pedb.xml')//tei:listPerson/tei:person[@xml:id = $searchkey]/tei:persName/tei:note
-    let $forename := doc('/db/apps/app-ct/data/indices/pedb.xml')//tei:listPerson/tei:person[@xml:id = $searchkey]/tei:persName/tei:forename
+
+    let $note := doc('/db/apps/ct_editions/data/indices/pedb.xml')//tei:listPerson/tei:person[@xml:id = $searchkey]/tei:persName/tei:note
+    let $forename := doc('/db/apps/ct_editions/data/indices/pedb.xml')//tei:listPerson/tei:person[@xml:id = $searchkey]/tei:persName/tei:forename
     let $surname := doc('/db/apps/app-ct//data/indices/pedb.xml')//tei:listPerson/tei:person[@xml:id = $searchkey]/tei:persName/tei:surname
-    let $rolename := doc('/db/apps/app-ct/data/indices/pedb.xml')//tei:listPerson/tei:person[@xml:id = $searchkey]/tei:persName/tei:roleName
+    let $rolename := doc('/db/apps/ct_editions/data/indices/pedb.xml')//tei:listPerson/tei:person[@xml:id = $searchkey]/tei:persName/tei:roleName
     let $xsl := doc('../resources/xslt/xmlToHtml.xsl')
     (:let $xsl := (
     <xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:ct="www.curioustravellers.ac.uk/ns/namespace" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:functx="http://www.functx.com" xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="tei" version="3.0">
@@ -752,7 +752,7 @@ declare function app:persDetails($node as node(), $model as map(*), $searchkey a
                     value="{$val}"/>
         }
     </parameters>
-    let $addNames := doc('/db/apps/app-ct/data/indices/pedb.xml')//tei:listPerson/tei:person[@xml:id = $searchkey]/tei:persName/tei:addName
+    let $addNames := doc('/db/apps/ct_editions/data/indices/pedb.xml')//tei:listPerson/tei:person[@xml:id = $searchkey]/tei:persName/tei:addName
     let $nAddNames := count($addNames)
     let $variant :=
     for $addname at $i in $addNames
@@ -760,8 +760,8 @@ declare function app:persDetails($node as node(), $model as map(*), $searchkey a
         if ($nAddNames eq $i) then
         $addname else
             $addname || ', '
-       
-    
+
+
     return
         <div>
             <h2>Person details</h2>
@@ -792,7 +792,7 @@ declare function app:persDetails($node as node(), $model as map(*), $searchkey a
                     string($variant[$pos]) || "," else
                     string($variant[$pos]):)
                         }</p>)
-            
+
             }
             {
                 if ($rolename ne "") then
@@ -803,27 +803,27 @@ declare function app:persDetails($node as node(), $model as map(*), $searchkey a
             {
                 if ($note ne "") then
                 (<p>Notes: {
-                        
+
                         transform:transform($note, $xsl, $params)
-                    
+
                     }</p>)
                     else
                     ''
             }
-        
+
         </div>
 };
 
 declare function app:placeDetails($node as node(), $model as map(*), $searchkey as xs:string?)
 
 {
-    
-    let $note := doc('/db/apps/app-ct/data/indices/pldb.xml')//tei:listPlace/tei:place[@xml:id = $searchkey]/tei:placeName/tei:note
-    let $geogName := doc('/db/apps/app-ct/data/indices/pldb.xml')//tei:listPlace/tei:place[@xml:id = $searchkey]/tei:placeName/tei:geogName
+
+    let $note := doc('/db/apps/ct_editions/data/indices/pldb.xml')//tei:listPlace/tei:place[@xml:id = $searchkey]/tei:placeName/tei:note
+    let $geogName := doc('/db/apps/ct_editions/data/indices/pldb.xml')//tei:listPlace/tei:place[@xml:id = $searchkey]/tei:placeName/tei:geogName
     let $addnames := doc('/db/apps/app-ct//data/indices/pldb.xml')//tei:listPlace/tei:place[@xml:id = $searchkey]/tei:placeName/tei:addName
     let $xsl := doc('../resources/xslt/xmlToHtml.xsl')
-    
-    
+
+
     let $params :=
     <parameters>
         {
@@ -846,7 +846,7 @@ declare function app:placeDetails($node as node(), $model as map(*), $searchkey 
                 ()
             else
                 (", " || $addname)
-    
+
     return
         <div>
             <h2>Place details</h2>
@@ -864,37 +864,37 @@ declare function app:placeDetails($node as node(), $model as map(*), $searchkey 
                     string($variant[$pos]) || "," else
                     string($variant[$pos]):)
                         }</p>)
-            
+
             }
-            
+
             {
                 if ($note ne "") then
                 (<p>Notes: {
-                        
+
                         transform:transform($note, $xsl, $params)
-                    
+
                     }</p>)
                     else
                     ''
-                    
+
             }
-        
+
         </div>
 };
 
 declare function app:artworkDetails($node as node(), $model as map(*), $searchkey as xs:string?)
 
 {
-    
-    let $title := doc('/db/apps/app-ct/data/indices/ardb.xml')//tei:rs[@xml:id = $searchkey]/tei:title
-    let $geognameHist := doc('/db/apps/app-ct/data/indices/ardb.xml')//tei:rs[@xml:id = $searchkey]/tei:geogName[@type = "historic"]
-    let $geognameCurr := doc('/db/apps/app-ct/data/indices/ardb.xml')//tei:rs[@xml:id = $searchkey]/tei:geogName[@type = "current"]
-    let $note := doc('/db/apps/app-ct/data/indices/ardb.xml')//tei:rs[@xml:id = $searchkey]/tei:note
-    let $forename := doc('/db/apps/app-ct/data/indices/ardb.xml')//tei:rs[@xml:id = $searchkey]/tei:forename
-    let $surname := doc('/db/apps/app-ct/data/indices/ardb.xml')//tei:rs[@xml:id = $searchkey]/tei:surname
-    let $date := doc('/db/apps/app-ct/data/indices/ardb.xml')//tei:rs[@xml:id = $searchkey]/tei:date
-    let $addname := doc('/db/apps/app-ct/data//indices/ardb.xml')//tei:rs[@xml:id = $searchkey]/tei:addname
-    
+
+    let $title := doc('/db/apps/ct_editions/data/indices/ardb.xml')//tei:rs[@xml:id = $searchkey]/tei:title
+    let $geognameHist := doc('/db/apps/ct_editions/data/indices/ardb.xml')//tei:rs[@xml:id = $searchkey]/tei:geogName[@type = "historic"]
+    let $geognameCurr := doc('/db/apps/ct_editions/data/indices/ardb.xml')//tei:rs[@xml:id = $searchkey]/tei:geogName[@type = "current"]
+    let $note := doc('/db/apps/ct_editions/data/indices/ardb.xml')//tei:rs[@xml:id = $searchkey]/tei:note
+    let $forename := doc('/db/apps/ct_editions/data/indices/ardb.xml')//tei:rs[@xml:id = $searchkey]/tei:forename
+    let $surname := doc('/db/apps/ct_editions/data/indices/ardb.xml')//tei:rs[@xml:id = $searchkey]/tei:surname
+    let $date := doc('/db/apps/ct_editions/data/indices/ardb.xml')//tei:rs[@xml:id = $searchkey]/tei:date
+    let $addname := doc('/db/apps/ct_editions/data//indices/ardb.xml')//tei:rs[@xml:id = $searchkey]/tei:addname
+
     let $xsl := doc('../resources/xslt/xmlToHtml.xsl')
     let $params :=
     <parameters>
@@ -953,22 +953,22 @@ declare function app:artworkDetails($node as node(), $model as map(*), $searchke
                 else
                     ''
             }
-        
+
         </div>
 };
 
 declare function app:bookDetails($node as node(), $model as map(*), $searchkey as xs:string?)
 
 {
-    
-    let $title := doc('/db/apps/app-ct/data/indices/bidb.xml')//tei:bibl[@xml:id = $searchkey]/tei:title
-    let $pubPlace := doc('/db/apps/app-ct/data/indices/bidb.xml')//tei:bibl[@xml:id = $searchkey]/tei:pubPlace
-    let $publisher := doc('/db/apps/app-ct/data/indices/bidb.xml')//tei:bibl[@xml:id = $searchkey]/tei:publisher
-    let $note := doc('/db/apps/app-ct/data/indices/bidb.xml')//tei:bibl[@xml:id = $searchkey]/tei:note
-    let $date := doc('/db/apps/app-ct/data/indices/bidb.xml')//tei:bibl[@xml:id = $searchkey]/tei:date
-    let $forename := doc('/db/apps/app-ct/data/indices/bidb.xml')//tei:bibl[@xml:id = $searchkey]/tei:author/tei:forename
-    let $surname := doc('/db/apps/app-ct/data/indices/bidb.xml')//tei:bibl[@xml:id = $searchkey]/tei:author/tei:surname
-    let $addname := doc('/db/apps/app-ct/data/indices/bidb.xml')//tei:bibl[@xml:id = $searchkey]/tei:addname
+
+    let $title := doc('/db/apps/ct_editions/data/indices/bidb.xml')//tei:bibl[@xml:id = $searchkey]/tei:title
+    let $pubPlace := doc('/db/apps/ct_editions/data/indices/bidb.xml')//tei:bibl[@xml:id = $searchkey]/tei:pubPlace
+    let $publisher := doc('/db/apps/ct_editions/data/indices/bidb.xml')//tei:bibl[@xml:id = $searchkey]/tei:publisher
+    let $note := doc('/db/apps/ct_editions/data/indices/bidb.xml')//tei:bibl[@xml:id = $searchkey]/tei:note
+    let $date := doc('/db/apps/ct_editions/data/indices/bidb.xml')//tei:bibl[@xml:id = $searchkey]/tei:date
+    let $forename := doc('/db/apps/ct_editions/data/indices/bidb.xml')//tei:bibl[@xml:id = $searchkey]/tei:author/tei:forename
+    let $surname := doc('/db/apps/ct_editions/data/indices/bidb.xml')//tei:bibl[@xml:id = $searchkey]/tei:author/tei:surname
+    let $addname := doc('/db/apps/ct_editions/data/indices/bidb.xml')//tei:bibl[@xml:id = $searchkey]/tei:addname
     let $xsl := doc('../resources/xslt/xmlToHtml.xsl')
     let $params :=
     <parameters>
@@ -982,7 +982,7 @@ declare function app:bookDetails($node as node(), $model as map(*), $searchkey a
                     value="{$val}"/>
         }
     </parameters>
-    
+
     return
         <div>
             <h2>Book details</h2>
@@ -1027,14 +1027,14 @@ declare function app:bookDetails($node as node(), $model as map(*), $searchkey a
                 else
                     ''
             }
-        
+
         </div>
 };
 
 declare function app:ft_search($node as node(), $model as map(*)) {
     if (request:get-parameter("searchexpr", "") != "") then
         let $searchterm as xs:string := request:get-parameter("searchexpr", "")
-        for $hit in collection('/db/apps/app-ct/data/documents')//tei:p[ft:query(., $searchterm)]
+        for $hit in collection('/db/apps/ct_editions/data/documents')//tei:p[ft:query(., $searchterm)]
         (: passes the search term to the show.html so that we can highlight the search terms :)
         let $href := concat(app:hrefToDoc($hit), "&amp;searchexpr=", $searchterm)
         let $score as xs:float := ft:score($hit)
