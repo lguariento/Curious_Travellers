@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1313">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hugh Davies to Thomas Pennant, 10 August 1795</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR 2017/TP20/21</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                        
+                    </msContents>
+                                      
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent"><persName ref="pe0903">Hugh Davies</persName>
+                    <date when="1795-08-10">10 August 1795</date>
+                    <placeName ref="pl1595">Aber</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001"/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1314"/>
+                    <ref type="prev" target="ct1312"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="enclosed"> <p>
+                <table>
+                    <row>
+                        <cell><list><item><hi rend="underline">List of Aug<hi rend="superscript">t</hi>. 2<hi rend="superscript">d</hi>.</hi></item>
+                            <item/>
+                            <item/>
+                            <item>rare{</item>
+                            <item/>
+                            <item/>
+                            <item/>
+                            <item/>
+                            <item>not rare{</item>
+                            <item/>
+                            <item/>
+                            <item><hi rend="underline">List – P.S. of Aug<hi rend="superscript">t</hi>. 7<hi rend="superscript">th</hi></hi></item>
+                            <item/>
+                            <item/>
+                            <item/>
+                            <item/>
+                            <item/>
+                            <item>he refers to Roth: <bibl type="authorial"><title ref="bi0632"/>Flor. Germ.</bibl> 1. p. 314.  and to no other author.</item>
+                            
+                        </list></cell>
+                        <cell> <list>
+                            <item/>
+                            <item>Cistus hirsutus</item>
+                            <item>Anthoxanthum odoratum</item>
+                            <item>Cynosurus cristatus</item>
+                            <item>Festuca ovina<note type="editorial">For the 'Cistus hirsutus', 'Anthoxanthum odoratum', 'Cynosurus cristatus', and 
+                                'Festuca ovina', see the text of the main letter and accompanying notes.</note></item>
+                            <item/>
+                            <item>Plantago lanceolata<note type="editorial">'Plantago lanceolata', ribbed grass. <hi rend="italic">OED</hi> s.v. ribbed grass.</note></item>
+                            <item>Lotus corniculatus<note type="editorial">See T. Martyn, translating J.-J Rousseau (1785), where 'The wild species [=Lotus corniculatus]' 
+                                is named 'common Bird's-foot Trefoil'. <hi rend="italic">OED</hi> s.v. bird's-foot, bird-foot.</note></item>
+                            <item>Trifolium repens<note type="editorial">'Trifolium repens', white clover. <hi rend="italic">OED</hi> s.v. honeysuckle.</note></item>
+                            <item>Polygala vulgaris <note type="editorial">'Polygala vulgaris', rogation flower or the common milkwort, which was 'formerly made into garlands and carried 
+                                in processions on Rogation Days'. <hi rend="italic">OED</hi> s.v. rogation.</note></item>
+                            <item>Poterium sanguisorba<note type="editorial">'Poterium Sanguisorba', the common burnet or salad burnet, from its use in salads. 
+                                <hi rend="italic">OED</hi> s.v. salad, salad burnet.</note></item>
+                            <item/>
+                            <item>Agrostis canina<note type="editorial">See <hi rend="italic">OED</hi> s.v. bent, bent-grass, which quotes Lightfoot, <hi rend="italic">Flora Scotica</hi> 
+                                (1778) I, p. 93, '<hi rend="italic">Agrostis canina</hi>, Brown Bent-grass'.</note></item>
+                            <item>_________ stolonifera<note type="editorial">'Agrostis stolonifera', marsh bent-grass or creeping bent-grass, a variant of 'stolonifera' but 
+                                much taller and not matting to form a turf. <hi rend="italic">OED</hi> s.v. marsh, n.1, marsh bent.</note></item>
+                            <item>Avena flavescens<note type="editorial">'Avena flavescens', golden oat, or yellow oat-grass. <hi rend="italic">OED</hi> s.v. yellow, yellow 
+                                oat grass.</note></item>
+                            <item>Festuca duriuscula<note type="editorial">For images of specimens of the 'Festuca duriuscula', several collected in Switzerland, 
+                                see <ref type="http" target="http://linnean-online.org/cgi/search/simple?q=festuca+duriuscula%27+&amp;_action_search=Search&amp;_action_search=Search&amp;_order=bytitle&amp;basic_srchtype=ALL&amp;_satisfyall=ALL">here</ref>, 
+                                items 7–16 [accessed 12 August 2019].</note></item>
+                            <item>Trifolium flexuosum – Gmel <bibl type="authorial"><title ref="bi0631">Syst. Nat.</title></bibl><note type="editorial">For the reference to 'Trifolium flexuosum', 
+                                see Alberti Gvilielmi Rothii, <hi rend="italic">Tentamen florae Germanicae. Tomvs I.</hi> (Lipsiae, I. G. Mülleriano, 1788), p. 314.</note> p. 1142.</item>
+                            <item/>
+                            
+                        </list></cell>
+                    </row>
+                </table>
+            </p>
+                <p>As far as I can judge, all you can say of the above grasses is that <persName ref="pe0251">M<hi rend="superscript">r</hi>. Dickinson</persName> pointed those 
+                    species out as chiefly constituting the herbage of your lofty commons, although I suspect it an imperfect list, and that there must be several 
+                    other species of <hi rend="underline">Grass</hi>, and, I doubt not some species of <hi rend="underline">Juneus</hi><note type="editorial">'Junius' is a species of rush. See 
+                        <hi rend="italic">Atlas of Hawai'i</hi> (3rd edn., Honolulu: University of Hawai'i Press, 1998), p. 113.</note> and <hi rend="underline">Carex</hi><note type="editorial">'Carex', 
+                            a large genus of grassy-looking plants. <hi rend="italic">OED</hi> s.v. carex.</note> besides other plants.</p></div>
+                
+                
+                <div type="letter">
+                <opener>
+                    <salute>Dear Sir,</salute></opener>
+                
+                <p>I truly rejoice at the account you gave of yourself; I by no means intended you should yourself have taken any trouble about 
+                    <persName ref="pe0254">Ellis Richardson</persName>; and I wish he knew I should be sorry he should sell his Cow 
+                    <hi rend="underline">solely on my account</hi>; I had rather suffer a little myself than distress a fellow-creature, 
+                    particularly at such a time as this –</p>
+                
+                <p>I dined with <persName ref="pe0226">M<hi rend="superscript">r</hi>. Panton</persName> about ten days ago, he was in good spirits, 
+                    and looked much better than, from report, I expected to have seen him.</p>
+                
+                <p>I request you will not think me peevish, for I really am not; you will gain 
+                    <persName ref="pe0251">M<hi rend="superscript">r</hi>. Dickinson</persName><note type="editorial">A list headed 'Plants collected by 
+                        S. Dickinson July 21<hi rend="superscript">st</hi>. 1795' mentions several of the plants named in this letter from Hugh Davies to Pennant, 
+                        including in a category deemed 'Rare', the 'Cistus hirsutus', underneath which Pennant has noted in pencil a location of its growth known to him, 
+                        'Pen y Gelli'. CR2017/TP213/5.</note> no credit in saying that he pointed out to you as <hi rend="underline">rare</hi> <hi rend="underline">plants</hi> 
+                    <hi rend="underline">Anthoxanthum</hi> <hi rend="underline">odoratum</hi>,<note type="editorial">'Anthoxanthum odoratum', spring grass. 
+                        <hi rend="italic">OED</hi> s.v. spring grass.</note> <hi rend="underline">Cynosurus</hi> <hi rend="underline">cristatus</hi><note type="editorial">'Cynosurus cristatus', 
+                            dog's-tail grass. <hi rend="italic">OED</hi> s.v. dog grass.</note> &amp; 
+                    <hi rend="underline">Festuca</hi> <hi rend="underline">ovina</hi>;<note type="editorial">'Festuca ovina', listed as a 'social' plant on account of its growth 
+                        in clumps, patches or masses with other members of its species. It has been identified with 'coquioule' and possibly 'haver-grasse' [haver grass]. 
+                        <hi rend="italic">OED</hi> s.v. social; cockle, <hi rend="italic">n</hi>.1.</note> they and the remainder of your list of Aug<hi rend="superscript">t</hi>. 
+                    2<hi rend="superscript">d</hi>, together with those contained in your P.S. of Aug<hi rend="superscript">t</hi>. 7<hi rend="superscript">th</hi>.  
+                    are exceedingly common, and all of rather inferior rank in respect of utility: I shall indeed except 
+                    <hi rend="underline">Cistus</hi> <hi rend="underline">hirsutus</hi><note type="editorial">For the 'Cistus hirsutus' see see 
+                        <ref type="http" target="http://linnean-online.org/44208/">here</ref> [accessed 12 August 2019]. Hugh Davies pointed out an example to Pennant on Din Sylwy in Anglesey. 
+                        See <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), II, p. 254.</note> and 
+                    <hi rend="underline">Trifol</hi>: <hi rend="underline">flexuosum</hi><note type="editorial">For an essay on the 'Trifolium alpestre', which names the 'Trifol. flexuosum' 
+                        as a discovery of Nikolaus Joseph von Jacquin, see Adam Afzelius, 'The Botanical History of Trifolium alpestre, medium, and pratense', 
+                        <hi rend="italic">Transactions of the Linnean Society</hi>, I (1790), 202–248, esp. 210.</note> as a plant I do not know. (See the other page)</p>
+                
+                <p>Loth to put you to the expence of a double letter by <sic>transcrible</sic> both your lists; I shall however return your own 
+                    memorandum, when I have an opportunity to inclose.</p>
+                
+                <p>I beg my respects to <persName ref="pe0238">M<hi rend="superscript">rs</hi>. Pennant</persName> and am</p>
+                
+                
+                <closer><salute>Dear Sir<lb/> your most obliged &amp;<lb/> Obed<hi rend="superscript">t</hi>. Serv<hi rend="superscript">t</hi>.
+                    
+            </salute>
+                    <signed><persName ref="pe0903">Hugh Davies</persName>.</signed>
+                   
+                    <dateline><placeName ref="pl1595">Aber</placeName><lb/>
+                        Aug<hi rend="superscript">t</hi>. 10<hi rend="superscript">th</hi>. 1795.
+                        
+                    </dateline></closer>
+                <postscript><p>P.S.<lb/>
+                    A Catalogue of the Birds &amp; Plants of <placeName ref="pl1488">Priestholm Isle</placeName> <unclear>is</unclear> on your return. –
+                </p></postscript>
+            </div>
+            <div><p>
+                <stamp type="handstamp"><placeName ref="pl0799">BANGOR</placeName></stamp>
+            </p>
+                <p><address><addrLine><persName ref="pe0232">Thomas Pennant Esq<hi rend="superscript">r</hi>.</persName><lb/> <placeName ref="pl0001">Downing</placeName><lb/> 
+                    <placeName ref="pl1251">Holywell</placeName><lb/> <placeName ref="pl0702">Flintshire</placeName></addrLine></address></p></div>
+            
+        </body>
+    </text>
+</TEI>

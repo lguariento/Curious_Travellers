@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1012">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 14</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1781-07-13"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> July 13<hi rend="superscript">th</hi>. 1781.</dateline><salute>Dear
+                    Sir</salute></opener>
+                <p>The plague of attendance on the military government called militia has so
+                    engrossed me that I could not attend sooner to <choice>
+                        <abbr>y<hi rend="superscript">r</hi></abbr>
+                        <expan>your</expan>
+                    </choice> most obliging favor. my best thanks attend Miss Bulls<note type="editorial"><persName ref="pe0331">Elizabeth</persName> and <persName ref="pe0336">Catherine Bull</persName>, and, possibly, <persName ref="pe0346">Levinia Luther</persName>.</note> for their useful
+                    communication:<note type="editorial">A direct communication from Bull's
+                        daughters, Elizabeth and Catherine, regarding techniques of
+                        extra-illustration is suggested here, but it does not appear to have
+                        survived.</note><persName ref="pe0238"> M<hi rend="superscript">rs</hi> Pennant</persName> freely entrusts me to the tuition of 
+                            <abbr>y<hi rend="superscript">r</hi></abbr>
+                            <expan>your</expan>
+                        fair daughters &amp; I hope to profit by their lessons. </p>
+                <p><persName ref="pe0014">Moses</persName> is now on the point of becoming
+                    an absolute housekeeper &amp; to work on his own account unless when employed by
+                    me. he charges for the drawing of </p>
+                <p>
+                    <table>
+                        <row role="data">
+                            <cell role="data"> </cell>
+                            <cell role="data"> </cell>
+                            <cell role="data">s</cell>
+                            <cell role="data"/>
+                        </row>
+                        <row role="data">
+                            <cell role="data"><rs type="art" ref="ar0029">Bangor</rs></cell>
+                            <cell role="data">0.</cell>
+                            <cell role="data">8.</cell>
+                            <cell role="data">0</cell>
+                        </row>
+                        <row role="data">
+                            <cell role="data"><rs type="art" ref="ar0030">Owl</rs></cell>
+                            <cell role="data">0</cell>
+                            <cell role="data">2</cell>
+                            <cell role="data">6</cell>
+                        </row>
+                        <row role="data">
+                            <cell role="data"><rs type="art" ref="ar0031">Wynnstay</rs></cell>
+                            <cell role="data">0</cell>
+                            <cell role="data">5.</cell>
+                            <cell role="data">0</cell>
+                        </row>
+                        <row role="data">
+                            <cell role="data"><rs type="art" ref="ar0026">Arms</rs></cell>
+                            <cell role="data">0</cell>
+                            <cell role="data">1</cell>
+                            <cell role="data">6</cell>
+                        </row>
+                        <row role="data">
+                            <cell role="data"/>
+                            <cell role="data"/>
+                            <cell role="data">17.</cell>
+                            <cell role="data">0</cell>
+                        </row>
+                    </table></p>
+                <p>Things of more work he must have more for. single arms 14<hi rend="superscript">d</hi>. with quarters or coronets 18<hi rend="superscript">d</hi>. He shall
+                    observe all <choice>
+                        <abbr>y<hi rend="superscript">r</hi></abbr>
+                        <expan>your</expan>
+                    </choice> directions. </p>
+                <p>I should not sleep very easy over such materials for a powder plot as you do.<note type="editorial">This may refer to anxieties about a repeat of the
+                        Gordon Riots of June 1780, when London was subjected to six days of mob
+                        rule, before Lord George Gordon (1751–93), widely seen as leader of the
+                        protest, was arrested and charged with high treason. Hist P.</note> if you take a flight: the worst I wish that you &amp; yours
+                    may light safe before my door. I am </p>
+                <closer><salute>Dear Sir <lb/>most faithfully <choice>
+                        <abbr>y<hi rend="superscript">rs</hi></abbr>
+                        <expan>yours</expan>
+                    </choice></salute>
+                    <signed><persName ref="pe0232"><choice>
+                                <abbr>Th.</abbr>
+                                <expan>Thomas</expan>
+                            </choice> Pennant.</persName></signed></closer>
+                <postscript>
+                    <p><bibl type="authorial"><title ref="bi0013">Snowdon</title></bibl>
+                        arrived safely: &amp; will soon be made as fine as <persName ref="pe0014">moses</persName> can make it. <choice>
+                            <abbr>Y<hi rend="superscript">r</hi></abbr>
+                            <expan>your</expan>
+                        </choice> parcel was sent long ago. &amp; I hope you sent for it to
+                            <persName ref="pe0237">M<hi rend="superscript">rs</hi> Pennant</persName>
+                        <placeName ref="pl0798">upper grosvenour street</placeName></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

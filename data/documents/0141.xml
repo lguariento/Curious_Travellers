@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0141">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, requesting information on Scottish islands
+                    and annexed estates; includes a response from Robert Ramsay</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>62-63</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>The note below reveals that this letter was originally sent by Thomas Pennant to
+                            Robert Ramsay, who being unable to respond then forwarded it to George
+                            Paton.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1773-10-17"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0142"/>
+                    <ref type="prev" target="ct0140"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Among the various papers I received from the Clergy was one of <bibl type="authorial"><title ref="bi0588">the survey of the Highlands &amp; isles
+                            in 1760 by order of the general assembly</title></bibl>.<note type="editorial">Prior to his tour of Scotland in 1772, Pennant solicited
+                        local information through the publication of letters and questionnaires.
+                        These <bibl type="editorial"><title ref="bi0528">'Queries'</title></bibl>
+                        appeared as an appendix to the first edition of Pennant's <bibl type="editorial"><title ref="bi0001"><hi rend="italic">Tour in Scotland
+                                    1769</hi></title> (1771)</bibl>, and were 'Addressed to the
+                        Gentlemen and Clergy of North-Britain', pp.282-298. A note to Pennant's
+                            <bibl type="editorial"><title ref="bi0003"><hi rend="italic">Supplement
+                                    to the Tour in Scotland</hi></title></bibl>, (1772), states
+                        that: 'These queries were originally composed and printed by order of the
+                        Society of Antiquarians, and dispersed thro’ several parts of England. As
+                        the spirit of enquiry seems at present reviving, I took the liberty of
+                        reprinting them, in hopes of their meeting with better success than they did
+                        formerly; and that gentlemen may be induced, from them, either to form local
+                        histories, or to transmit them to so respectable a society such matters
+                        relating to the history of their country as will merit it’s attention.'
+                        pp.17-18. The 'Queries' also appeared in the <bibl type="editorial"><title ref="bi0188"><hi rend="italic">Scots Magazine</hi></title> 34 (April
+                            1772), 173-4</bibl>, accompanied by a letter (probably written by
+                            <persName ref="pe0022">Robert Ramsay</persName>), which commended them
+                        'to the curious in general, but more directly to the clergy of Scotland',
+                        and attempted to curry favour by quoting Pennant's 'encomium upon the
+                        established clergy of Scotland' in his <bibl type="editorial"><title ref="bi0001"><hi rend="italic">Tour in Scotland 1769</hi></title>
+                            (1771) pp.134-135</bibl>.</note> none was of more use in ascertaining
+                    the parishes to me; but unluckily it does not comprehend <placeName ref="pl0717">Ilay</placeName>, &amp; <placeName ref="pl0716">Jura</placeName> &amp; the
+                    little isles dependent on them. neither does it take in <placeName ref="pl0897">Cantyre</placeName>, nor the isles of <placeName ref="pl0636">Giga</placeName> &amp; <placeName ref="pl1187">Cara</placeName>:</p>
+                <p>Probably somebody has surveyed those also, therefore permit me to trouble you
+                    with obtaining the accounts of those parts as far as relates to the Parishes
+                    places of worship in them, the boundaries, number of inhabitants. perhaps these
+                    may be found in the <placeName ref="pl1188">office of the General
+                        assembly</placeName>.</p>
+                <p>Can you also tell me how the <persName ref="pe0086">D. of argyle</persName>
+                    obtained his share of <placeName ref="pl0729">Mull</placeName>; &amp; in what
+                    year. was it not by forfeiture?</p>
+                <p><persName ref="pe0019">M<hi rend="superscript">r</hi> Menzies</persName> sent me
+                    a general account of the annexed estates; which he says amount to 8000<hi rend="superscript">L</hi> per. an: but pray were there any other estates
+                    forfeited &amp; not annexed &amp; what might be their amount?</p>
+                <closer><salute>I am Dear Sir with true regard Y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>.
+                <dateline><placeName ref="pl0001">Downing</placeName> Oct<hi rend="superscript">r.</hi> 17<hi rend="superscript">th.</hi> 1773.</dateline></closer>
+            </div>
+            <div type="letter">
+                 <opener><dateline><handShift/><persName ref="pe0022">D<hi rend="superscript">r</hi>
+                        Ramsay</persName><lb/><placeName ref="pl0243">Queensferry</placeName>
+                    Tuesday Oct<hi rend="superscript">r.</hi> 26, <hi rend="underline">1773</hi></dateline>
+               <salute>Sir</salute></opener>
+                <p>I received this with the inclosed card for you two days ago but being obliged to
+                    attend <persName ref="pe0603">my father</persName> here who is very bad I have
+                    no time nor have I the proper means of answering <persName ref="pe0232">Mr.
+                        Pennants</persName> Questions, I therefore beg you will take the trouble to
+                    do it for me &amp; write to <persName ref="pe0232">Mr. Pennant</persName> as soon as
+                    possible — you may let him know the reason why I have neither answered this nor
+                    his former letter</p>
+                <closer><salute>I am <lb/>Sir <lb/>your most humble <gap reason="illegible" unit="letters" atLeast="3" atMost="10"/></salute>
+                    <signed><persName ref="pe0022">Robert Ramsay</persName></signed>
+                    <lb/>To <persName ref="pe0228">Mr. Paton</persName></closer>
+            </div>
+            <div>
+                <p>Downing</p>
+                <p>
+                    <address>
+                        <addrLine>Mr. George Paton</addrLine>
+                        <addrLine><hi rend="underline">at the Custom house</hi></addrLine>
+                    </address>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

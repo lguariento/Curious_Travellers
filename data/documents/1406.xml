@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1406">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>William Morris to Thomas Pennant, 5 February 1760</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>21558E</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0031">William Morris</persName>
+                    <date when="1760-02-05">5 February 1760</date>
+                    <placeName ref="pl1018">Holyhead</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1408"/>
+                    <ref type="prev" target="ct1405"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="enclosed">
+                <p>Supine<note type="editorial">This word labels a diagram of a fish, showing it lying on its back.</note><lb/>
+                    Prone<note type="editorial">This labels the same fish viewed lying on its belly. Note that in mentioning parts
+                    of the body in the text, William Morris refers to specific points in the diagram, with letter labels, given here as 'P', 'a', 'B'. See
+                    further below for Morris's own key to the diagrams.</note>
+                </p>
+                <p>Of this Size.<note type="editorial">The words refer to the diagram.</note></p>
+                <p>Taken in a Herring Net at<lb/>
+                    <placeName ref="pl1018">Holyh<hi rend="superscript">d</hi>.</placeName> 7 December 1759. –<lb/>
+                of a Dark yellowish Colour<lb/>
+                    with Brownish irregular Spots<lb/>
+                interspersd with beautiful<lb/>
+                streaks of light blue &amp; yellow<lb/>
+                the Body from the Anus to the<lb/>
+                    Tail all Transparent. the Vent<unclear unit="letters">2</unclear><add place="above">P</add><lb/>
+                perfectly white thence downward<lb/>
+                of a Dull white. the formost back fin<lb/>
+                whose membrane was yellow, <hi rend="underline">was</hi> most<lb/>
+                beautifully streakd with light blue –<lb/>
+                the Pupil of the Eye was perectly b<del>x</del>lack<lb/>
+                &amp; the Iris of a whitish Green with swelld<lb/>
+                or <del><gap reason="illegible" unit="letters" quantity="several"/></del><add place="above">vesicled</add> lids. blowing
+                in the foramens <add place="above">a</add><lb/>
+                would Swell the Gills.<add place="above">B</add> In the Ventricle<lb/>
+                was found pieces of the Rays of Stella lacert;<add place="above">a</add><note type="editorial">The 'Stella lacert' 
+                has not been identified. It seems unlikely that it is connected with the 'lacerta stellio', a lizard. See <hi rend="italic">OED</hi> s.v.
+                starry lizard.</note><lb/>
+                It had a large milt or Oil Vessel of a yellow<lb/>
+                    white Colour. It had no Scales &amp; was<lb/>
+                    Slippery. the fish when boild was firm<lb/>
+                   <del> &amp;</del> hard and Delicious –––––<lb/>
+                    It was Exactly of this Size &amp; Dimensions<lb/>
+                    x the Anus. t the Penis. none of the Fins prickly
+                </p>
+                <p>The Length of this Fish was 19½ f<hi rend="superscript">t</hi>. is drawn by a Scale of 16 to an Inch 
+                    (= 1<unclear unit="letters" quantity="several"/> of the Cartilaginous kind<lb/>
+                    The Skin of a Sooty (Cloudy) Colur. extream rough against the Grain resembling in some things 
+                    Dr. Grew's river whale
+                    in having <add place="above">small <del unit="letters" quantity="2"/> "Teeth</add><lb/>
+                    innumerable <del unit="letters" quantity="several"/> ^ standing like those in a Card. Gills descending almost from the Top of his
+                    <add place="above">Head</add> meet under his throat."<note type="editorial">William Morris quotes from Nehemiah Grew,
+                        <bibl type="authorial"><title ref="bi0112"><hi rend="italic">Musæum regalis societatis; or, A catalogue &amp; description of the natural and artificial rarities 
+                            belonging to the Royal Society and preserved at Gresham Colledge</hi></title></bibl>, p. 103. Grew's text refers to 'an innumerable
+                    company of prickly Teeth, standing like those in a <hi rend="italic">Card</hi> wherewith Women Comb Wool'. Morris adds an icon for the 
+                        teeth (given here as '^').</note> No Teeth<lb/>
+                    from x to x only a Socket like other whales, at <hi rend="italic">x</hi> a Small vent hole w<hi rend="superscript">ch</hi>. go downward
+                    to <sic>the roof the mouth</sic><add place="above">Qu Ears.</add> The mouth by reason of the Gills<lb/>
+                    being so long w<hi rend="superscript">d</hi>. open to a Surprizing wideness so that a child of 5 or 6 year Old might sit therein. The Bach 
+                    Fin p<note type="editorial">The letter 'p' here refers to a label in the drawing of the fish.</note>
+                    &amp;  part of the<lb/>
+                    Tail always appear above water <del>when the Fish</del> when the Fish Bask<del>ing</del> on the Surface which they
+                    do in great number on<lb/>
+                    a Sun Shiny day in Sum~er, are not Seen in winter. ––– One taken at <placeName ref="pl3336">Rhoscoly</placeName>n in Sept. 1759. 27 foot long
+                    <add place="above">i.e. 27</add><lb/>
+                    yeelded 190 odd Gallons of Oil. The male have 2 Penis's and the Female 2 Apertures answerable thereto. –––<lb/>
+                    It hath but one Gut. no Ventricle distinguishable. The <add place="above">2</add> Oil Vessels or Liver Surprizing large, no Blubber.
+                </p>
+                <p>x And a hollow for them in the Body of the Fish. the Edges<lb/>
+                of the Tail &amp; Fins of that some<add place="above">what</add> Jagg'd. The Two hind<lb/>
+                    Fins in that Opposite, The Fins nigh the Anus Small<lb/>
+                    x The Oil Vessel or liver very small.
+                </p>
+                <p>[<hi rend="italic">In Thomas Pennant's hand</hi>:] Does the vent Hole at <hi rend="italic">x</hi> go thro' into<lb/>
+                the mouth. [<hi rend="italic">in William Morris's hand</hi>:] it goeth downward that way. –</p>
+                
+                <p><persName ref="pe0163">Smith</persName> in His <bibl type="authorial"><title ref="bi0113">Nat Hist. of Cork</title></bibl> calls this<lb/>
+                "the Mola Sale. the Sun Fish but not the<lb/>
+                Mola Salviani w<hi rend="superscript">ch</hi>. Willoughby names the<lb/>
+                Sun Fish" –<note type="editorial">For the quotation, see Charles Smith, 
+                    <hi rend="italic">The antient and present state of the county and city of Cork</hi> (Dublin, 1750), p. 299; and for the naming of the Mola Salviani as 'The Sun-fish', see
+                Francis Willughby, <hi rend="italic">De historia piscium libri quatuor</hi> (Oxford, 1686), p. 151.</note> The Irish call it Herring 
+                    Hog.<note type="editorial">For citations of the name 'herring-hog', described as a dialect word meaning 'the grampus', see <hi rend="italic">OED</hi> s.v. herring.</note><lb/>
+                Some, Bottle Noses –––––</p>
+                <p>It differs from the Shark in many respects the teeth<lb/>
+                of the Shark <del unit="letters" quantity="2"/><add place="above">are</add> large &amp; three pointed &amp; in three rows<lb/>
+                    these here are not ¼ Inch long, round &amp; bent. the Gills<lb/>
+                of that reach not much above half way to the back<lb/>
+                these almost quite up, that <hi rend="underline">broad</hi><add place="above"><unclear unit="letters" quantity="several"/></add>
+                from the Small fins<lb/>
+                to the Tail, this almost round, that w<hi rend="superscript">th</hi>. a Sharp Snout<lb/>
+                this with a blunt round one. the Penis's much larger in that. x</p>
+            </div>
+            <div type="letter">
+                <opener><dateline><placeName ref="pl1018">Holyh<hi rend="superscript">d</hi></placeName>, February 
+                    5<hi rend="superscript">th</hi>. Feb<hi rend="superscript">y</hi>. 1760–</dateline>
+                    <salute>Good Sir.</salute></opener>
+                
+                <p>I Blush to see your kind Lre lying before me unanswer'd owing to my not having time to Copy the New Fish, and now
+                    <sic>its</sic> done have Comitted a blunder by putting the Description on the Same paper which I beg 
+                    y<hi rend="superscript">e</hi> will Excuse.<note type="editorial">For this material, see the enclosure to this letter.</note>
+                </p>
+                <p>In Answer to your Queries concerning the Large Fish, am to aquaint that they begin to Appear in the <placeName ref="pl1108">Irish Chanel</placeName>
+                    betwixt this &amp; <placeName ref="pl1673">Dublin</placeName> in the Sum~er months, July &amp; <del>August</del> June but dont come
+                    into the Bays till August &amp; Continue till about the beginning <del>or middle</del> of November when they Disap~ear. their Size from 
+                    18 f<hi rend="superscript">t</hi>. to 28 or 30, The large ones produce 190 odd Gallons of oil the Small ones 60 or 80 
+                    gall<hi rend="superscript">s</hi>. the Eye is Small in the Largest not much bigger than an Ox's but the Exact Size is exhibited in the 
+                    Figure.<note type="editorial">Note that William Morris sent
+                        a drawing of a fish judged by Pennant to be a nondescript – quite possibly the same as the one enclosed with this letter of the same date 
+                        to Pennant – with a letter of 5 February 1760 to his brother Lewis, asking for it to be returned
+                        as soon as possible, with its name on the back. See William Morris to Lewis Morris, 5 February 1760, in <hi rend="italic">ML</hi>, II, p. 171.
+                        For other occasions on which Lewis sent responses to queries by William about fish, see [Dafydd Wyn Wiliam], 'Wiliam Morris at Thomas Pennant 
+                        – Tri Llythyr: III', in <hi rend="italic">Tlysau'r Hen Oesoedd</hi>, no. 20 ([October] 2006), 5 n. 2; Lewis Morris to William Morris, 18 September 1757, 
+                        in <hi rend="italic">ML</hi>, II, pp. 15–16; Lewis Morris to 
+                    William Morris, 24 September 1757, in ibid., p. 21; and Lewis Morris to William Morris, 5 October 1757, in ibid., p. 24, where Lewis mentions that he 
+                    has completed a drawing of a large fish and written a dissertation about it to be read before the Cymmrodorion Society.</note>
+                    No food in the Stomach but a kind of thick Slimy matter. they dont seem to pursue The Herrings or any other Fish. The teeth are Set in 
+                    an irreg<del>l</del>ular mañer and not in Rows. As to the Fin<note type="editorial">A mark in the text here may have been intended to represent the fin
+                    under discussion.</note> I am in doubt about it, whether it should not be underneath. Pray examine 
+                    <bibl type="authorial"><title ref="bi0055">Willughby</title></bibl>, if any other fish hath such on their Sides it must be right. 
+                    <persName ref="pe0163">Smith</persName> in his 
+                    <bibl type="authorial"><title ref="bi0066">Nat. Hist<hi rend="superscript">o</hi>. Waterford</title></bibl> says that instead of Teeth 
+                    <del>it</del>this Fish is furnishd in the roof of the Mouth
+                    with horney bearded Laminæ, and seem in this respect to be somewhat of the Species which afford the Wholebone tho' unlike in other 
+                    respects –<note type="editorial">William Morris quotes from Charles Smith, <hi rend="italic">The antient and present state of the county and city
+                    of Waterford</hi>, p. 271, where two examples of 'Sun-fish' caught on the coast of Waterford in 1743 and 1744 are discussed: 'This fish instead of teeth is furnished
+                    in the roof of the mouth with several rows of horney bearded <hi rend="italic">Laminæ</hi>, and seem in this respect to be somewhat of the species which 
+                    affords the whalebone, though unlike it in other particulars.'</note><lb/>
+                    Vide Phil<hi rend="superscript">o</hi>. Trans. N<hi rend="superscript">o</hi>. 406 p. 243 for Jan. 40 where mention is made of one of these Fish 
+                    being brot. into Ply<hi rend="superscript">mo</hi>. June 29. 1734.–<note type="editorial">William Morris refers to 'A Paper concerning the Mola SALU.
+                    or Sun-fish, and a Glue made of it; communicated by the Rev. Mr. William Barlow to the President of the Royal Society', dated from 'Stoke-Dock near Plymouth,
+                    Devon, June 29. 1734', in <hi rend="italic">Philosophical Transactions</hi>, vol. 41 (1739–1741), 343–5, 
+                    see <ref type="http" target=" https://www.jstor.org/stable/104284">here</ref>.</note></p>
+                
+                <p>I am proud to find that the other is like to turn out a Non descript. How could I know whether it was good without eating of 
+                    it? –<note type="editorial">This comment is elucidated by William Morris's remarks to his brother Lewis regarding a fish which he 
+                        and his daughter ate, to the great consternation
+                        of Pennant. See [Wiliam], 'Wiliam Morris at Thomas Pennant – Tri Llythyr: III', 5 n. 4; and William Morris to Lewis Morris, 
+                        17 March 1760, in <hi rend="italic">ML</hi>, II, p. 184: 'Nid pysgodyn pigog gwenwynig oedd fy 'sgodyn i [Mine 
+                    was not a stinging poisonous fish]; all his fins
+                    were soft and pliable. Oni ddarfu i fy merch a minnau ei fwyta fo, er bod y Bennant agos a dymunaw na busai asgwrn yn glynu yn fy ngwddwg am 
+                    Esu Nondescript [Didn't my daughter and I eat it, although Pennant was almost wishing that a bone would stick in my throat 
+                    for [?eating] a nondescript]'.</note> I receivd the Two Books Safe and Sound &amp; shall return them anon in the Same Condition with 
+                    thanks<note type="editorial">The borrowed books cannot be identified; but for a reference to Pennant's lending of books to William Morris, see
+                        <ref target="1405.xml">1405</ref>, n. 4.</note> a Sight of <bibl type="authorial"><title ref="bi0069">Artedi</title></bibl> will 
+                    be Acceptable. am Sorry to find your Friend Linnæus is a Changeling. –<note type="editorial">William Morris, a keen botanist, may be referring to the 
+                    increasing attention given by Linnaeus to the animal kingdom in the tenth edition of <hi rend="italic">Systema Naturae</hi> (1758). </note>
+                </p>
+                <p>I am extream glad to hear that there is a Prospect of your having a Sucking Virtuoso,<note type="editorial">This refers to the 
+                    <persName ref="pe0164">firstborn</persName> of 
+                Thomas Pennant and his first wife, Elizabeth (née Falconer), who had already been born when William Morris wrote this letter.</note> the Sight would be extreamly 
+                    agreeable <add place="above">to</add> your humble Serv<hi rend="superscript">t</hi>. but I must not flatter my self with so great a 
+                happiness.<note type="editorial">William Morris's wife Jane (née Hughes) had died during 1750 and he remained single after that, although father 
+                    to two children from his marriage to her. See Dafydd Wyn Wiliam, <hi rend="italic">Cofiant William Morris (1705–63)</hi> (Llangefni: 
+                    Yr Awdur, 1995), pp. 96, 100–101, 102.</note> May you &amp; your <persName ref="pe0219">Lovely Spouse</persName> be blessd with it, 
+                    is the hearty wish of Good Sir</p> 
+                <closer><salute>Your most obliged &amp; most Obedient<lb/>humble Serv<hi rend="superscript">t</hi>. &amp; Pupil
+                    </salute>
+                    <signed><persName ref="pe0232">Will Morris
+                    </persName></signed>
+                    </closer>
+                <postscript><p>PS. I am at a loss for a Frank Have none of yours, I returnd one in Lieu of it. – Yonder is 
+                    <persName ref="pe0592">Ellis the Coralinist</persName> gone to rack &amp; ruin
+                    I tho<hi rend="superscript">t</hi>. Virtuosii were made of tougher matter, than it seems some of them are.<note type="editorial">John Ellis
+                    was bankrupted during 1759. <hi rend="italic">ODNB</hi>.</note><lb/>I must Hazzard this Pacq<hi rend="superscript">t</hi>. 
+                w<hi rend="superscript">th</hi>. a Guide for want of a Frank.–</p></postscript>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>

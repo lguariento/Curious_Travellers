@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0246">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton: on his neglect by the Scottish press;
+                    upcoming publications; a request for information on an antiquity</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>220-221</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1778-10-09"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0247"/>
+                    <ref type="prev" target="ct0245"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I rejoice at <persName ref="pe0022">D<hi rend="superscript">r</hi>
+                        Ramsays</persName> recovery &amp; hope to hear it confirmed by his own pen.
+                    I am also extremely glad to hear that <persName ref="pe0156">M<hi rend="superscript">r</hi> Low’s</persName>
+                    <bibl type="authorial"><title ref="bi0058">M.S.</title></bibl> is safe. I hope
+                    to help him with some materials for his historic part which shall pass thro’
+                        y<hi rend="superscript">r</hi> hands. As to <rs ref="ar0204">the
+                        drawings</rs> I keep them as his most valuable gift to me, to be used as
+                    occasion may require.<note type="editorial">Pennant would use several of Low's
+                        drawings as plates in his <bibl type="editorial"><title ref="bi0022"><hi rend="italic">Arctic Zoology</hi></title> (London:1784)</bibl>:
+                        see plates III-V.</note></p>
+                <p>You will oblige me much by calling with my complim<hi rend="superscript">ts</hi>
+                    on <persName ref="pe0157">M<hi rend="superscript">r</hi> Macgovan</persName>
+                    &amp; beg a sight of his celt see my <bibl type="authorial"><title ref="bi0010">Tour</title>
+                        <biblScope unit="page">p.241</biblScope></bibl>. &amp; observe if it had not
+                    been gilt as I say: for I find it doubted.<note type="editorial">On the above
+                        page of his <hi rend="italic">Tour in Scotland 1772 Part II</hi> (1776),
+                        Pennant describes an axehead or 'brazen celt finely gilt' that he had seen
+                        in a cabinet of curiosities belonging to Macgowan while in
+                    Edinburgh.</note></p>
+                <p>anything you are kind enough to send, must go to <persName ref="pe1261">M<hi rend="superscript">r</hi> Middleton’s</persName> chambers opposite the
+                    church in the <placeName ref="pl2002">Temple</placeName>
+                    <placeName ref="pl0699">London</placeName>.</p>
+                <p>I shall in the course of the year have occasion to consult <persName ref="pe0192">M<hi rend="superscript">r</hi> Elliot</persName> about a book of
+                    travels thro’ the remoter part of <placeName ref="pl0705">Scotland</placeName>
+                    illustrated with most curious prints, which I patronise for the benefit of the
+                        author.<note type="editorial">Charles Cordiner's <bibl type="editorial"><title ref="bi0250"><hi rend="italic">Antiquities and Scenery of
+                                    the North of Scotland, in a Series of Letters to Thomas
+                                    Pennant</hi></title> (London: 1780)</bibl>: see Pennant's
+                        previous letters of 17 January and 4 September.</note> I <unclear reason="illegible">wish</unclear> by the affected silence respecting me in
+                    the late publications by y<hi rend="superscript">r</hi> countrymen that my name
+                    grows unpopular. for I have seen of late more than one in which I am sure I had
+                    some clame of merit.</p>
+                <closer><salute>I am <lb/>Dear Sir <lb/>y<hi rend="superscript">r</hi> faithful
+                        humble Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                <dateline><placeName ref="pl0001">Downing</placeName> Oct<hi rend="superscript">r</hi> 9<hi rend="superscript">th</hi> 1778.</dateline></closer>
+                <postscript>
+                    <p>how go on the Scotch maps?<note type="editorial">Possibly a reference (among
+                            other works) to John Ainslie's <bibl type="editorial"><title ref="bi0277"><hi rend="italic">Travelling map of
+                                    Scotland</hi></title> (Edinburgh: 1783)</bibl>, which Pennant
+                            appears to acknowledge receiving a draft of in his following letter of
+                        <ref target="ct0247">18 October</ref>.</note></p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom house</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

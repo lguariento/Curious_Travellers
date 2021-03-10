@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0248">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton: on Robert Ramsay's health, unfavourable
+                    conditions for authors, and requesting clarification on an antiquity</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>224-225</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>After requesting further description of the celt or hatchet in the fourth
+                            paragraph below, Pennant includes a crude drawing of an axehead to
+                            clarify the object of his inquiry.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1778-11-06"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0249"/>
+                    <ref type="prev" target="ct0247"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> Nov<hi rend="superscript">r.</hi> 6<hi rend="superscript">th</hi> 1778</dateline>
+
+                <salute>Dear Sir</salute></opener>
+
+                <p>I truely lament the melancholly account you give of the health of my respected
+                    friend <persName ref="pe0022">D<hi rend="superscript">r</hi> Ramsay</persName>
+                    my earliest &amp; worthy acquaintance. I shall dread of y<hi rend="superscript">r</hi> future account. If a message is not improper, I beg the favor of you
+                    to make enquiry in my name as a token of my constant regard.</p>
+                <p>The state of affairs in general is truly deplorable. all Litterary Luxuries must
+                    cease; but no people will so severely feel the badness of the times as the
+                    artists who will be driven into great distress. As to myself an author I shall
+                    go on writing. if the days mend I may publish. if not I shall add no bad
+                    addition to my heir’s effect. What I hinted to you is an affair of honor &amp;
+                    shall be carried on. In a little time I shall explain it to you in a full
+                    manner.</p>
+                <p>I shall at present say nothing more of my complaints however justly founded.</p>
+                <p>It is not the little <rs ref="ar0065">naiad</rs> but a celt i.e. a hatchet like
+                    brass weapon. querie if gilt?<note type="editorial">See Pennant, <bibl type="editorial"><title ref="bi0010"><hi rend="italic">Tour in Scotland
+                                    1772 Part II</hi></title> (London: 1776),
+                                <biblScope>p.241</biblScope></bibl>, and Pennant's letter to Paton
+                        on 10 September 1772.</note></p>
+
+                <p>I thank you kindly for the Environs of y<hi rend="superscript">r</hi>
+                        capital<note type="editorial">Possibly John Laurie, <bibl type="editorial"><title ref="bi0279"><hi rend="italic">A plan of Edinburgh and places
+                                    adjacent</hi></title></bibl> (Edinburgh: 1766) or an unpublished
+                            draft of Alexander Kincaid's posthumous <bibl type="editorial"><title ref="bi0374"><hi rend="italic">A Plan of the city and suburbs of
+                                    Edinburgh</hi></title></bibl> (Edinburgh: 1784).</note> which
+                    reached me only a fortnight past.</p>
+                <closer><salute>I am Dear Sir <lb/>with true esteem <lb/>y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">T. Pennant</persName></signed></closer>
+
+                <postscript>
+                    <p>I never heard whether <persName ref="pe0133">M<hi rend="superscript">r</hi>
+                        Lautie</persName> had his <bibl type="authorial"><title ref="bi0012">Welsh
+                                Tour</title></bibl>.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom house.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

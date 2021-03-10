@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1302">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Daniel Lysons to Thomas Pennant, 26 September 1767</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>Warwickshire County Record Office</repository>
+                        <idno>CR 2017/TP294/3</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">Endorsement (in Thomas Pennant's hand)</hi>: answ<hi rend="superscript">d</hi> 
+                                oct<hi rend="superscript">r</hi>. 17<hi rend="superscript">th</hi>.</p>
+                  
+                                <p><hi rend="italic">Marginalia in <persName ref="pe0232">Thomas Pennant</persName>'s hand</hi>: <persName ref="pe2071">M<hi rend="superscript">r</hi> Farrington</persName> 
+                                has seen shads weigh 15lb.</p>
+                            <p><hi rend="italic">in pencil, in the hand of <persName ref="pe2070">Cecilia, Countess of Denbigh</persName></hi>: Found in <bibl type="authorial"><title ref="bi0694"/>Tessin's Nat Hist</bibl></p>
+                        </additions>
+                    </physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0408">Daniel Lysons</persName>
+                    <date when="1767-09-26">26 September 1767</date>
+                    <placeName ref="pl1276">Gloucester</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1303"/>
+                    <ref type="prev" target="ct1301"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0796">Bath</placeName> Sept: 26 1767
+                </dateline><salute>Dear Sir</salute></opener>
+                
+                <p>In my last I gave you an account of the Salmon, I shall now proceed with the other Inhabitants of the <placeName ref="pl1226">Severn</placeName>.</p>
+                
+                <p><add place="margin">2<hi rend="superscript">d</hi>.</add> The Shad is taken in the <placeName ref="pl1226">Severn</placeName>
+                    in the same manner as the Salmon. It makes its entrance into the <placeName ref="pl1226">Severn</placeName> 
+                    <add place="above">&amp; is taken</add> in the months of may &amp; June. A Shad never weighs more than 8 pounds, and rarely
+                    exceeds seven. Its most common size is 4 or 5<hi rend="superscript">lb</hi> but many weigh no more than two. The Shad makes its appearance in the 
+                    <placeName ref="pl1226">Severn</placeName> sooner or later as the weather is warm or cold, so that it sometimes comes in april, 
+                    &amp; is often retarded for some weeks in may.x <add place="margin">x At <placeName ref="pl1276">Glocester</placeName> a Shad 
+                        is reckoned 
+                    a very good fish &amp; usually sells dearer than Salmon.</add> As the shad leaves us it is succeeded by another in shape, &amp;
+                    appearance very like it, but less. This is calld a Twaite.</p>
+                
+                <p><add place="margin">3.</add> The Twaites weigh from two pounds to half a pound, and are taken in great numbers in the months of
+                    June and July. A large twaite differs from a small shad only in one or more round black spots on the sides. If there is only 
+                    one of these spots it is always near the gill, but there are commonly three or four of them one under another,<note type="editorial">
+                        The material in this paragraph up to this point is used almost verbatim in <hi rend="italic">British zoology</hi> 
+                        (2nd edn., 1768–70), III, p. 299. A note at the foot of the page acknowledges the debt to 'Doctor Lysons, of Gloucester, 
+                        for his communications relating to this fish, as well as to several other articles relating to those of the Severn'.
+                    </note>  whereas the
+                    Shad has more. This fish is taken in the <placeName ref="pl1389">Thames</placeName> about the same time of the year, &amp;
+                    calld at <placeName ref="pl0699">London</placeName> a shad; but I believe the true shad is never taken in the 
+                    <placeName ref="pl1389">Thames</placeName>. The Twaite is a bad fish, the flesh being dry, &amp; not in any degree equal in flavour
+                    to a shad. But the Twaites being at <placeName ref="pl0699">London</placeName> called Shads the Londoners have 
+                    <add place="above">a</add> bad opinion of the true shad, &amp; being in appearance so like the Twaite they can not think it a 
+                    different fish.<note type="editorial">Ibid., p. 298, discusses the 'Thames shad' and 'the variety called near Gloucester the Twaite', 
+                        clearly using the information provided by Lysons in this letter.</note> </p>
+                <p>It is by no means a settled point whether the Shads or Twaites come into the <placeName ref="pl1226">severn</placeName> to spawn.
+                    That the Salmon spawns upon the sands beyond <placeName ref="pl0740">shrewsbury</placeName> is certain from the accounts I have 
+                    received from people of that country who have seen them making their beds upon the shoals, as well as from the great number of 
+                    <sic>Samblets</sic> which come down the river in the month of March. But then the old ones are taken in their return after spawning, 
+                    greatly emaciated, and call’d old fish in opposition to those in Season which are calld new fish. The Shad is also in spawn when it 
+                    enters the River, &amp; in the month of July we have great numbers of Bleak, some of which are nearly as big as a 
+                    small <sic>hering</sic>. Many people think these fish the spawn of the Shad because they are taken about 
+                    <placeName ref="pl1276">Glocester</placeName> only in the Months of July and august, &amp; if I am not mistaken they come down, &amp;
+                    not up the <placeName ref="pl1226">Severn</placeName>. But on the other hand none of the old emaciated fish are taken in their return, 
+                    which one should think would be the case did they spawn towards the head of the River.</p>
+                <p><add place="margin">4.</add> The Lamprey weighs about three pounds, &amp; is taken <add place="above">chiefly</add> in the months
+                    of March, April, &amp; may. The sooner they are taken in the year the better they are, being much wasted &amp; flabby as the warm 
+                    weather approaches. They are taken in long nets in the same manner as the Salmon, &amp; Shad, &amp; together with them, &amp; also in
+                    wheels laid in the bottom <add place="above"><del>or sides</del></add> of the river. The Lamprey does not breed in the 
+                    <placeName ref="pl1226">Severn</placeName>, neither is there more than one Species of them.</p>
+                <p><add place="margin">5</add> The Lampern is in shape like a Lamprey, but of the colour of an Eel, having a black back, and white
+                    belly, whereas the Lamprey is yellow, or brown, variegated with black lines upon the back. The Lamperns appear in January, <del>and</del>
+                    and continue untill the weather becomes warm, when they <add place="above">waste &amp;</add> leave the River. They are all when in 
+                    season about the size of a small Eel, weighing ab<add place="above">o</add>ut two ounces, &amp; about 7 Inches long. They are never 
+                    taken in nets, but in wheels fixed to the sides of the banks before the tide comes in. They are potted in the same manner as Lampreys, 
+                    &amp; by some people preferrd to them as being milder.</p>
+                <p>There is a fish in the <placeName ref="pl1389">Thames</placeName> resembling the two last mentioned 
+                    <add place="above">in shape &amp; figure</add>, but different from both in colour, &amp; size. It is about the bigness of a 
+                    goose quill <del>but differing</del> and of a green colour. It is found in shallow water about <placeName ref="pl1347">oxford</placeName> 
+                    under stones, and is I think calld a stone Eel, though of quite a different Species from an Eel. I am told that great 
+                    quantities of Lamperns are taken about <placeName ref="pl0699">London</placeName>, but that few are eat there, being chiefly 
+                    bought up for baits in the Cod fishery.</p>
+                <p><add place="margin">6</add> Elvers are certainly the spawn of Eels, &amp; with great reason supposed to come from the great 
+                    conger Eel, which is often found in the salt water of the <placeName ref="pl1226">Severn</placeName> upon the Sands weighing 
+                    50lb. These elvers come from the salt water up the <placeName ref="pl1226">Severn</placeName> in prodigious numbers, and are 
+                    taken in a kind of <sic>seive</sic> made of hair cloth, &amp; fixed to a long pole. A man standing on the bank, &amp; drawing 
+                    his net in the water by the side of the bank as far <sic>is</sic> he can reach, whilst the tide is in, takes some at every 
+                    sweep, untill at last he shall, in the space of one tide, take as many as will fill a bushel. The Elvers usually preceed the 
+                    Shad, &amp; it is supposed that the Shads come up the River to prey upon them.</p>
+                <p>I have now given you the best answers I can to your enquiries, &amp; hope they will be satisfactory. The waters agree with me
+                    very well, &amp; I doubt not but I shall be perfectly well if I can possibly stay here a month. My Disorder is a constant 
+                    purging which reduced me very much I was something better than I have been before I came here which was three days ago, &amp; 
+                    am still better since I have been here. There is not a great deal of Company here yet but indeed the Season is not begun 
+                    the music comes to the pump Room on Monday next. <persName ref="pe2072">M<hi rend="superscript">r</hi>. Derrick</persName> has 
+                    had great opposition but has overcome it &amp; remains M. C. upon the same footing as formerly.  Pray are the 
+                    Miss Pennants<note type="editorial"><persName ref="pe0237">Catherine</persName> and <persName ref="pe0807">Sarah Pennant</persName>.</note> 
+                    with you at <placeName ref="pl0001">Downing</placeName> or in attendance at <placeName ref="pl0699">London</placeName>. If with you 
+                    I beg my Compliments to them and am</p>
+                <closer><salute>Yours sincerely</salute>
+                    <signed><persName ref="pe0408">D. Lysons.</persName></signed>
+                    <dateline/></closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="handstamp"><placeName ref="pl0796">BATH</placeName></stamp>
+                </p>
+                <p>
+                    <address><addrLine>To <persName ref="pe0232">Thomas Pennant Esq<hi rend="superscript">r</hi></persName> at 
+                        <placeName ref="pl0001">Downing</placeName> near <placeName ref="pl1251">Holywell</placeName> 
+                        <placeName ref="pl0702">Flintshire</placeName></addrLine></address>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

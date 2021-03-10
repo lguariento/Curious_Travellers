@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1199">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>60</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">Endorsement in Thomas Pennant's hand</hi>:</p>
+                            <p>answ<hi rend="superscript">d</hi> march 8<hi rend="superscript">th</hi></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1797-03-03"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName> March 3. 1797</dateline></opener>
+                <p>I have just receiv’d yours, to which I send a few hasty lines in answer because some sort of apology is necessary to excuse my apparent neglect, in not writing 
+                    to you upon the death of your Valuable <persName ref="pe0237">Relation</persName>, whose character did honor to your name, and I don’t wonder to find her so much lamented by her family. I can’t help having satisfaction however in knowing, that eventualy, 
+                    it is likely to be so beneficial to you and yours, with respect to worldly Goods. I did not hear of this Event till within these few days, have<hi rend="superscript">g</hi>:
+                    been <hi rend="underline">seriously</hi> ill, and confin’d to my bed by a fever of Eleven days continuance, from which I am but now beginning to recover, and it has been only within these four days, that 
+                    <persName ref="pe0432">D<hi rend="superscript">r</hi>. Turton</persName>, would allow me to receive letters, or see news papers. (I am particularly urged to write a a few lines by this post, because the Park and tower Guns are now firing, and a 
+                    <hi rend="underline">naval</hi> friend of mine now at my elbow, says there is reason for rejoicing. <persName ref="pe1003">Sir John Jervis</persName>
+                    has fallen in with the Spanish fleet, and engag’d them with 15 Ships of the line against 23 of the Spaniards.<note type="editorial">A reference to the victory of the British Mediterranean fleet, commanded by John Jervis, earl of St Vincent (1735–1823), against the Spaniards, off Cape St Vincent in south-west Portugal on 14 February 1797. News of the victory reached London on 3 March 1797. <hi rend="italic">ODNB</hi> s.n. John Jervis, earl of St Vincent.</note>
+                    Particulars are not yet known at the Admiralty, but my friend says, the general belief is, that he has taken one Ship of 110 Guns, and two other three Deckers, and one of 74 Guns, together with 5 transports, full of Stores, arms, and provisions. the account is said to add, that the wind being against the Spaniards getting into 
+                    Cales,<note type="editorial">This probably refers to <placeName ref="pl1470">Cádiz</placeName> in southern Spain. The Spanish fleet was aiming for Cádiz but 
+                        had been blown by strong winds further out into the Atlantic than intended prior to the commencement of the battle of Cape St Vincent. <hi rend="italic">ODNB</hi> s.n. John Jervis, earl of St Vincent.</note> the Admiral was in hopes to have another brush with them in a day or two.) We wanted a little comforting news of this sort, for despondency seems the order of the day, when, (if ever,) Exertion is in a peculiar manner necessary. the 
+                    <hi rend="underline">Bank</hi> bill<note type="editorial">Following the French landing at Fishguard Pitt passed an act to make it possible for the Bank of England to issue notes of small value until 1 May, in order to prevent the possibility of a run on the bank. The right was extended to the country banks on 10 March and a new low-denomination copper coinage was also promised during the same month. <hi rend="italic">ODNB</hi> s.n. William Pitt [known as Pitt the younger] (1759–1806).</note>
+                    it is supposed, will cause a change of men, but no man ventures to name another Minister in <del>his</del> <add place="above"><persName ref="pe0500">Pitt</persName>’s</add><note type="editorial">A series of crises during the first half of 1797 led Pitt and others to question his position as prime minister, but a plot to replace him between mid-May and early June did not materialize. William Hague, <hi rend="italic">William Pitt the Younger</hi> (1st edn., 2004; London: Harper Perennial, 2005), pp. 407–10.</note>
+                    place. certainly the measure of enforcing payments in bank notes, is one of the strongest ever proposed by any set of men, and the seeming necessity will hardly excuse it. I know nothing more about 
+                    <persName ref="pe0398">Hastings</persName>, except what I pick up from newspapers; it is said he is lowering his menage very much, and has begun by selling his House in 
+                    <placeName ref="pl2581">Grosvenor Square</placeName>. the clandestine transaction betwixt him and <persName ref="pe0379">Chiswell</persName>
+                    which your enquiries seem to allude to, (I suppose) means the report now very prevalent, that <hi rend="superscript">£</hi>60,000,
+                    was standing in Chiswell and Muilmans<note type="editorial">This refers to Muilman &amp; Co., the merchant bankers run by <persName ref="pe0379">Richard Muilman Trent Chiswell</persName>. 
+                        The company became bankrupt following the latter's suicide in 1797. <hi rend="italic">ODNB</hi> s.n. Richard Muilman Trent Chiswell.</note> books in <del><gap unit="letters" quantity="3" reason="illegible"/></del>
+                    <placeName ref="pl1228">Holland</placeName>, in the name of <persName ref="pe1791">M<hi rend="superscript">rs</hi>: Hastings</persName>,
+                    and if true, what becomes of the oath He had taken, when the India company agreed to pay the Expenses of the Tryal, that all his possessions did not amount to more than £60000.</p>
+                <p>
+                    Whether <persName ref="pe0014">Moses</persName>, or <persName ref="pe0324">Ingleby</persName> finish my little paltry commissions is of no manner of consequence. my time here is now so short, and my days number’d,  that I look to such matters only as my Amusement, which I think I have a plea, even in a religious light, to encourage, as much, and as long as I can. poor 
+                    <persName ref="pe0434">Lord orford</persName> died yesterday Evening. <add place="above">march 2<hi rend="superscript">d</hi>.</add><note type="editorial">The date of Walpole's death is added in Thomas Pennant's hand.</note> 
+                    every day is productive of some loss to me, in friendships, or connections, but so it must be to persons, who like me, are unreasonable enough to live for ever.</p>
+                <p>
+                    a few days since brought me an account from <placeName ref="pl2582">S<hi rend="superscript">t</hi>. Domingo</placeName>, that a 
+                    <persName ref="pe1792">nephew of mine</persName> was dead of the yellow fever, and that his <persName ref="pe1793">brother</persName>
+                    is not likely to recover. in short there is a dismall back ground in every family picture just now, and in the political <unclear>tellet</unclear>
+                    every thing seems threatening indeed.</p>
+                <p>
+                    <persName ref="pe0331">My daugher</persName>, (I thank God who lets me live to see it) is growing better from time, and is not so averse to seeking for amusement, as She has been since her sad misfortune; but to recover it, is impossible either for me, or her to do, as long as memory holds her seat. I thought you would not dislike to hear this turn of good fortune in Politics, otherwise I should not have troubled you again so soon and in such a hurrying manner. our best good wishes always attend you, and your House.</p>
+                <closer>
+                    <salute>I am Dear Sir, very sincerely and affectionately Yours.</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark"><gap unit="letters" quantity="1" reason="illegible"/> M <gap unit="letters" quantity="1" reason="illegible"/> 3 97</stamp>
+                <stamp type="handstamp"><gap unit="words" quantity="1" reason="illegible"/></stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant</persName> Esq<hi rend="superscript">re</hi>: | <placeName ref="pl0001">Downing</placeName> | <placeName ref="pl0702"><hi rend="underline">Flintshire</hi></placeName> | <placeName ref="pl1221">N.W.</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

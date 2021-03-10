@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0407">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Donald MacQueen to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP297</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>1</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0069">Donald MacQueen</persName>
+                    <date when="1772-10-29"/>
+                    <placeName ref="pl0742">Kilmuir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0408"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Sir</salute></opener>
+                <p>I had the honour of your Letter on <add place="above">my</add> Arrival in
+                        <placeName ref="pl0742">Kilmuir</placeName>, inclosing Another from
+                        <persName ref="pe0109">Mr Archibald Macdonald</persName> to Whom I ow a
+                    great deal of Respect. Had I come home two days Sooner I would have the pleasure
+                    of Over takeing you near My Place and would have tryed to prevail with you to
+                    Stop a Litle to Survey further, the face of this Countrey, where you wou'd meet
+                    with some Natural Curiosities, the dismal dwellings of the first Inhabitants,
+                    Caves or Subterraneous houses, Several Danish Edifices, Many Inclosures of
+                    Different Forms, wh had been consecrated to Druidical Worship And Many More
+                    Christian Chapels where Service was performed by the Monks of the Monastery in
+                    My Neighbourhood on <placeName ref="pl1621">Columba's Lake</placeName>, the only
+                    one in the Island. You woud be the <del rend="overstrike"><unclear reason="illegible">only</unclear></del> proper Judge how far Any of
+                    these things deserved Any Regard or how far they were connected with your
+                    Design; I woud however have attempted to Write you something if I had not been
+                    some how Employed in a More disagreeable Way. In the Mean time, I would Chuse to
+                    know, whether you have picked up in your Travels or whether your own Countrey
+                    may not Afford the Elf-arrow or the Elf-spade, so Called; both of the flint kind
+                    of Stone. The former was surely the Point of An Arrow As the Later seems to have
+                    been Used in Smoothing Stone or Timber. I have Also found a stone in a Druid's
+                    house which from that Circumstance I conceive Might have been Used in their
+                    Sacrifice Operations for it is very Sharp at the broad End, Smooth And Oblong at
+                    the Other which was the handle. I take it that before the Discovery of Mettals
+                    our Ancestors were Under a Necessity of Useing some such tools from any hard
+                    stuff that offered itself. Superstitions And prejudice might Also give them an
+                    Immaginary Sanctity or value that would preserve them After better Materials<hi rend="superscript">+</hi><note type="authorial">+ <bibl type="authorial"><title ref="bi0067">Exod. 4.25</title></bibl></note><note type="editorial">A reference to a tool used in Biblical verse: 'Then
+                        Zipporah took a sharp stone, and cut off the foreskin of her son, and cast
+                            <hi rend="italic">it</hi> at his feet, and said, Surely a bloody husband
+                            <hi rend="italic">art</hi> thou to me.'</note> were discovered. In fact,
+                    Some of the Ignorant Farmers Amongst Us applyed these stones to the Cure of Some
+                    diseases when the help of man failed. And Whoever had the Arrow About him woud
+                    never be Elf-shot for Whoever dyed of an Apoplexy whether Man or beast was
+                    Supposed to be shot by the Fairies; which are Vulgar Errors that can be
+                    accounted for without Much difficulty from the Beliefs which prevailed in former
+                    Ages. If you have Any Taste for these stones I will take the first Occasion to
+                    Convey them to <persName ref="pe0978">Mr William Macdonald</persName> writer to
+                    the Signet <placeName ref="pl0076">Edin<hi rend="superscript">r.</hi></placeName>.</p>
+                <p>I will write some kind of answer to <bibl type="authorial"><title ref="bi0528">Your Printed Papper</title></bibl></p>
+                <closer>I am with Much Esteem Sir <lb/>Your Very Obedient and humble Servant
+                            <signed><persName ref="pe0069">Don: Macqueen</persName></signed>
+                    <dateline><placeName ref="pl0742">Kilmuir</placeName> Oct. 29<hi rend="superscript">th</hi>
+                        <lb/>1772.</dateline></closer>
+                <postscript>
+                    <p>If you are pleased to write direct for Me ––––– Minister in <placeName ref="pl0715">Sky</placeName>
+                        <lb/>by <placeName ref="pl0660">Sconsar</placeName>.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><handShift/><persName ref="pe0069">M<hi rend="superscript">r</hi>
+                        Macquin</persName>
+                    <lb/>oct. 29 1772.</p>
+                <p><handShift/><address>
+                        <addrLine>To</addrLine>
+                        <addrLine><persName ref="pe0232">Thomas Pennant Esqr.</persName></addrLine>
+                        <addrLine>to the care of <persName ref="pe0018">Mr
+                            Jackson</persName></addrLine>
+                        <addrLine>Secretary to the Post-Office</addrLine>
+                        <addrLine><placeName ref="pl0076">Edin<hi rend="superscript">r.</hi></placeName></addrLine>
+                    </address></p>
+                <p><stamp type="handstamp"><placeName ref="pl0660">SCONSER</placeName></stamp></p>
+                <p><handShift/>4</p>
+                <p><handShift/><persName ref="pe0069">M<hi rend="superscript">r</hi> M<hi rend="superscript">c</hi>Queen</persName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

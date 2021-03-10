@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0174">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on information and drawings related to
+                    Scotland; various matters of correspondence and expenses</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>107</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1774-12-22"/>
+                    <placeName ref="pl0699">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0175"/>
+                    <ref type="prev" target="ct0172"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0787">N<hi rend="superscript">o</hi> 9 vere
+                        street</placeName> Dec<hi rend="superscript">r</hi> 22<hi rend="superscript">d</hi> 1774</dateline>
+
+                <salute>Dear Sir</salute></opener>
+                <p>Y<hi rend="superscript">r</hi> favors of the <add place="above">5<hi rend="superscript">th.</hi></add> 9<hi rend="superscript">th</hi> 12<hi rend="superscript">th</hi> &amp; 15<hi rend="superscript">th.</hi> of this
+                    month lay me under great obligations. I shall be happy in a drawing of <persName ref="pe0157">M<hi rend="superscript">r</hi> Macgovans</persName> antiquity
+                    by any hand or any means he pleases. I shall stay here three weeks longer. I
+                    trust y<hi rend="superscript">r</hi>
+                    <placeName ref="pl0316">Dundee</placeName> packet will arrive in Time. My best
+                    thanks to y<hi rend="superscript">r</hi> friend for his trouble.</p>
+                <p>I never hear <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                        Low’s</persName> name without blushing at my seeming ingratitude. I had
+                    actually packed up some prints for him which were mislayed; but. they shall not
+                    be forgot, with proper interest the next year.</p>
+                <p>How comes it <persName ref="pe0103">M<hi rend="superscript">r</hi>
+                        Golborne</persName> had not both my volumes. he said he had only <bibl type="authorial"><title ref="bi0008">the voyage</title></bibl>.</p>
+                <p>I suppose <persName ref="pe0180">M<hi rend="superscript">r</hi> Balfour
+                    </persName>never sent my order to <persName ref="pe0026">M<hi rend="superscript">r</hi> White</persName>. but I shall enquire.</p>
+                <p>You should not get <bibl type="authorial"><title ref="bi0005">my
+                        appendix</title></bibl>: for the whole is <bibl><title>my Tour q<hi rend="superscript">to</hi> edition</title></bibl>.</p>
+                <p>The Map of <placeName ref="pl1141">Murray</placeName> had best be copied from
+                    <bibl type="authorial"><title ref="bi0126">Dorret</title></bibl>. The
+                        <persName ref="pe0556">D. of Cumberlands</persName> map is
+                        inaccessible.<note type="editorial">Probably a reference to <bibl type="editorial"><title ref="bi0211">William Roy's Military Survey of
+                                Scotland</title></bibl>, produced following the Jacobite Rebellion
+                        of 1745-1746, after Cumberland petitioned his father George II to commission
+                        an accurate map of Scotland for military use.</note></p>
+                <p>You sent me a drawing of Mcgovan cross.<note type="editorial">Possibly related to
+                        the <rs type="art" ref="ar0104">drawing of a cross</rs> Pennant mentions
+                        receiving from Paton in his letter of January 10<hi rend="superscript">th</hi> 1773.</note> Inclosed is a draft for my debt of <bibl type="authorial"><title ref="bi0064">the magazines</title></bibl>, &amp;
+                    advertising. Please to make me a regular list of all you expend for me: for pray
+                    remember charity begins at home.</p>
+                <closer><salute>I am Dear Sir <lb/>with truest regard yrs</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed></closer>
+
+                <postscript>
+                    <p>Did <persName ref="pe0076">D<hi rend="superscript">r</hi>
+                            Blinshall</persName> contribute anything to the acct of <placeName ref="pl0316">Dundee</placeName>.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

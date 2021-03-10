@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1033">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 35</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p>In 1803 but Q;<note type="editorial">Top of first page, in pencil.</note> ?<note type="editorial">The question mark is possibly in ink.</note></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0758">Stratton Street Piccadilly</placeName>
+                    <date>(undated)<note type="editorial">Mention in this letter of extra-illustrating <hi rend="italic">The journey from Chester to London</hi> and <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778) can be placed alongside references in nos. <ref target="1015.xml">1015</ref>, <ref target="1016.xml">1016</ref>, <ref target="1018.xml">1018</ref> and <ref target="1026.xml">1026</ref> (dated between 29 January 1782 and 6 July 1783). This suggests a date during either 1782 or 1783 (but cf. <ref target="1034.xml">1034</ref>, n. 3).</note></date>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p><persName ref="pe0014">Moses</persName> has done about 45 arms &amp; 12 tombs &amp; views in your &amp; my
+                    books.<note type="editorial">The fact that illustrations of both arms and tombs are a feature of Pennant's extra-illustrated <hi rend="italic">A tour in Wales</hi> makes it likely that he is referring here to work carried out on his own and Bull's copies of this tour.</note>
+                    I mean to have many more; but will not suffer him to proceed in yours till I hear farther from you. it is also his request to know whether you would chuse a Large paper copy of the
+                    <bibl type="authorial"><title ref="bi0032">journey to London</title></bibl>. they being his perquisite. He has made many additions to the
+                    <bibl type="authorial"><title ref="bi0012">first volume of my welsh Tour</title></bibl>, &amp; wishes to know
+                    whether it would be agreable to you to have them done so that you may paste them on the margin of your copy. I have only to receive your commands &amp; they shall be immediately executed.</p>
+                <p>We hear the distant roll of political thunder: without any great hopes of being bettered: &amp; we are happily in too low a situation to be hurt by it. I dread the bolt which may fall on our northern coast; &amp; which I fear can scarcely be prevented as we are so out-fleeted.<note type="editorial">Fears about the vulnerability of the British coast were common during the years of the American War of Independence. See, for example, <hi rend="italic">Leeds Intelligencer</hi>, 17 September 1782, which reports that 'Russia has offered Great Britain her whole naval force, if an invasion should be attempted by her enemies during the absence of her fleets.' The 'political thunder' to which Pennant refers may relate to early negotiations for peace between Britain and the United States of America, begun at Paris in April 1782 but not concluded until 3 September 1783.</note></p>
+            </div>
+            <div>
+                <p><stamp type="postmark">PENY POST PAID O <gap unit="letters" quantity="2" reason="illegible"/>; 
+                    <gap/><note type="editorial">A round stamp is incomplete and illegible.</note></stamp>
+                    <stamp>penny post;<note type="editorial">In Pennant's hand, in ink.</note></stamp><address>
+                    <addrLine>To <persName ref="pe0313">Richard Bull <choice><abbr>esq<hi rend="superscript">r</hi></abbr><expan>esquire</expan></choice></persName> | <placeName ref="pl0758">Stratton Street | Piccadilly</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

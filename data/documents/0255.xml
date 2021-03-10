@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0255">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on his Map of Scotland and George Low</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>191-92</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>In the archival binding this letter is incorrectly assigned a year of 1779 rather
+                            than 1777.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1777-03-29"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0536"/>
+                    <ref type="prev" target="ct0221"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dr Sir</salute></opener>
+                <p>The sooner y<hi rend="superscript">r</hi> corrections come the better for fear of
+                    the abolition of franks.</p>
+                <p>It was impossible to have a large scale for <bibl type="authorial"><title ref="bi0209">my map</title></bibl>. Pray cd you get (for my own use) the
+                    Eastern Coast put in right; if I sent you the map with that part omitted.
+                        <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> ought
+                    in Justice to send me his materials <rs ref="ar0204">drawings</rs> &amp;c if he
+                    does not mean to go on with his work. Hint it I beg to him. Please to forward
+                    the inclosed <hi rend="underline">Post Paid</hi>. I inclose y<hi rend="superscript">r</hi> old bill. Pray make a new one with the debt for
+                    the book you was so kind as to buy. &amp; the postage of the inclosed.</p>
+                <closer><salute>adieu <lb/>y<hi rend="superscript">rs</hi> truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                <dateline><placeName ref="pl0001">Downing</placeName> March 29<hi rend="superscript">th</hi> 1777.</dateline></closer>
+                <postscript>
+                    <p>I set out on Monday. inclose y<hi rend="superscript">r</hi> next <lb/>to
+                            <persName ref="pe0015">Sir Roger Mostyn. B<hi rend="superscript">t</hi></persName>
+                        <placeName ref="pl0734">Bruton Street</placeName>
+                        <lb/><placeName ref="pl0699">London</placeName>.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom House</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+                <p><handShift/>7/2</p>
+            </div>
+        </body>
+    </text>
+</TEI>

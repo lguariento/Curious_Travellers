@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0156">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on the delivery of various materials and a
+                    missing draft from George Low</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>82</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1774-04-07"/>
+                    <placeName ref="pl0699">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0157"/>
+                    <ref type="prev" target="ct0155"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Many thanks for y<hi rend="superscript">r</hi> favor &amp;c. as to <bibl><title ref="bi0103">the abercrombie</title></bibl>, <persName ref="pe0309"><unclear reason="illegible">yr</unclear> master of the ship</persName>
+                    will not deliver it. I am amazed that <persName ref="pe0156">M<hi rend="superscript">r</hi> Lows</persName> draft has not reached me. pray
+                    inform him of it by return of post, for if it does not come while I am here, I
+                    must find some other way of sending the promised aid. This is a point of honor.
+                    I would by no means fail in. If His draft does not come I will send him one,
+                    which I wish had been done at first.</p>
+                <p>Be so good to <bibl><title ref="bi0115">M<hi rend="superscript">r</hi> Ridpath’s
+                                <unclear reason="illegible">London</unclear> history</title></bibl>.
+                    I can find no bookseller here that knows of it. He only wants names.</p>
+                <closer><salute>I am Dear Sir your faithfull H.S.</salute>
+                    <signed><persName ref="pe0232">T Pennant.</persName></signed>
+                <dateline><placeName ref="pl0699">London</placeName> April 7<hi rend="superscript">th</hi>. 1774.</dateline></closer>
+
+                <postscript>
+                    <p>I stay here a little more than a fortnight.</p>
+                    <p>I have got a <bibl><title ref="bi0739">Regiam majestatem</title></bibl>. Y<hi rend="superscript">r</hi> Letter with the prints is just come. Y<hi rend="superscript">r</hi> printers take off Prints most wretchedly.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi>Paton</addrLine>
+                        <addrLine>Custom House</addrLine>
+                        <addrLine>Edenburgh</addrLine>
+                    </address></p>
+                <p>Free<gap reason="illegible" unit="words" quantity="1"/></p>
+                <p><stamp>FREE</stamp></p>
+                <p><stamp>7/AP</stamp></p>
+            </div>
+        </body>
+    </text>
+</TEI>

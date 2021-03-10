@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1152">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 105</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date>8 &amp; 9 May 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>many thanks for y<hi rend="superscript">r</hi> communication of <persName ref="pe0392">Lord Ossorys</persName>
+                    letter. I must endeavour to leave a card at his Lordship’s. To morrow I shall be absent the whole day. 
+                    on wednesday or Thursday I shall be most happy to see you at ½ past. 3. <hi rend="underline">I</hi> ought to wait on you but every 
+                    hour in each morn: is engaged. thanks for the drawing.</p>
+                <closer>
+                    <salute>Adieu
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T.P</persName></signed>
+                </closer>
+                <postscript>
+                    <p>Tuesday morn
+                        <lb/>May 8<hi rend="superscript">th</hi>. 1792<note type="editorial">The year appears to be added in a different hand.</note></p>
+                    <p>1792 but Q.<note type="editorial">This line at the bottom of the page is added in pencil in Richard Bull's hand.</note></p>
+                    <p>drawn have I been like a fool to see <rs type="art" ref="ar0309">Sir G. Yonges pictures</rs>:<note type="editorial">This may refer to Sir George Yonge, fifth baronet (1732–1812), politician and colonial governor. There is nothing to suggest that he had an interest in pictures in the biographies given in <hi rend="italic">ODNB</hi> and <hi rend="italic">Hist P</hi>, however.</note>
+                        &amp; that most reluctantly: came home at 35 m. past 3! name another hour at y<hi rend="superscript">r</hi> own house. may I come at ½ 
+                        <add place="above">past</add> 2 to morrow?</p>
+                    <p>Wednesday May. 9<hi rend="superscript">th</hi> 1802<note type="editorial">The year is added in a different hand.</note></p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> esq<hi rend="superscript">r</hi>. | <placeName ref="pl0759">Stratton Street</placeName> | <placeName ref="pl2035">Piccadilly</placeName></addrLine>
+                </address>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

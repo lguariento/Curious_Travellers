@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0245">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on Robert Ramsay's health; Pennant's
+                    patronage of a forthcoming work; George Low's manuscript; a dispute with
+                    Benjamin White </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>218-219</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1778-09-04"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0246"/>
+                    <ref type="prev" target="ct0244"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> Sept<hi rend="superscript">r</hi> 4<hi rend="superscript">th</hi> 1778.</dateline>
+
+                <salute>Dear Sir</salute></opener>
+
+                <p>I cannot express sufficiently the joy I feel at the good news you send respecting
+                        <persName ref="pe0022">D<hi rend="superscript">r</hi> Ramsay</persName> whom
+                    I truely value. I wait impatiently for a letter from him. I now promote &amp;
+                    patronise as far as the evil times will permit, a work relative to y<hi rend="superscript">r</hi> country, a tour undertaken three years ago at my
+                    expence intended as supplemental to my own &amp; to be illustrated with
+                    beautiful plates; of which I mean to send you specimens.<note type="editorial">Charles Cordiner's <bibl type="editorial"><title ref="bi0250"><hi rend="italic">Antiquities and Scenery of the North of Scotland,
+                                    in a Series of Letters to Thomas
+                        Pennant</hi></title> (London: 1780)</bibl>. See Pennant's letter to Paton on 17 January.</note></p>
+                <p>Have you yet got <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                        Low’s</persName>
+                    <bibl type="authorial"><title ref="bi0058">M.S.</title></bibl> which I sent so
+                    long ago to <persName ref="pe0043">M<hi rend="superscript">r</hi>
+                        Cadel</persName>. I shall be much grieved if it should miscarry.</p>
+                <p>I last winter in consideration of <persName ref="pe0026">White’s</persName> large
+                    family &amp; my long connection made up matters with him but I have just
+                    discovered in him such audacious misconduct that merits due punishment. more of
+                    this a few months hence.</p>
+                <closer><salute>I rest D<hi rend="superscript">r</hi> Sir <lb/>faithfully y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">T Pennant.</persName></signed></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom house</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1039">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 41</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1784-05-14"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> May 14<hi rend="superscript">th</hi> 1784.</dateline></opener>
+                <p>I cannot but regret the loss of you in <placeName ref="pl0699">Town</placeName> next winter. your absence is an aggravation of other similar misfortunes: 
+                    some by the irreparable one of death but I trust you &amp; yours will be safely restored to me. Be so good as to point out your route for
+                    <del>l</del>you can never be out of the way for my little views. I am sorry you had so much trouble about 
+                    <rs type="art" ref="ar0075"><persName ref="pe0058">M<hi rend="superscript">r</hi> Cordiners</persName> views</rs>.<note type="editorial">See <ref target="1038.xml">1038</ref>.</note>
+                    as they cannot be disposed of, Be so good as to cause them to be left at <persName ref="pe0143">M<hi rend="superscript">r</hi> Mazels</persName>
+                    <placeName ref="pl1051">N<hi rend="superscript">o</hi> 41. Drury Lane</placeName>. <persName ref="pe0014">Moses</persName>
+                    is laboring hard for you. Please to name the very last day <del><gap unit="letters" quantity="7" reason="illegible"/></del>
+                    you can permit him to keep the <bibl type="editorial"><title ref="bi0012">book</title></bibl>.<note type="editorial">This is probably Bull's copy of <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), discussed in <ref target="1038.xml">1038</ref>.</note>
+                    it shall be sent on y<hi rend="superscript">r</hi> order. <del><gap unit="letters" quantity="7" reason="illegible"/></del> You
+                    shall have a list of what is undone; that you may leave guards in y<hi rend="superscript">r</hi> books &amp; insert whatsoever you please, hereafter. 
+                    In your absence he shall work for you with the same zeal as if you was in <placeName ref="pl0775">England</placeName>.
+                    You, <persName ref="pe0323">M<hi rend="superscript">r</hi> Panton of <placeName ref="pl0782">Lincolns Inn</placeName></persName>
+                &amp; your humble serv<hi rend="superscript">t</hi> shall di<supplied>vide</supplied> him between us.</p>
+                <p>Considering the madness of the times, I wonder not that you leave this once too happy country.<note type="editorial">Bull and his daughters (see end of letter) were clearly planning a voyage abroad at this time.</note> I fear the event of th<del>is</del>e new parlement’s assembling.<note type="editorial">On 18 May 1784. See <ref target="1038.xml">1038</ref>.</note>
+                    Opposition is desperate, &amp; I fear passion will get the better of the love of Country: &amp; that we shall have endless confusion. I like not the zeal of the 
+                    scots for the old ministry.<note type="editorial">The Fox-North coalition.</note>
+                    <hi rend="underline">They snuff the musky air</hi> &amp; seem ready to join the birds of prey.</p>
+                <p>My best wishes &amp; complim<hi rend="superscript">ts</hi> attend Miss Bulls:<note type="editorial"><persName ref="pe0331">Elizabeth</persName> and <persName ref="pe0336">Catherine</persName> Bull.</note>
+                    may their voyage be happy &amp; prosperous!</p>
+                <closer>
+                    <salute>adieu
+                        <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>Be so good as to name &amp; return the inclosed prints.<note type="editorial">No enclosures survive with the manuscript letter.</note>
+                        Pray have you any useless prints of N. americans, Greenlandrs, eskimoan or Samoieds? excuse this &amp; the other inclosed.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

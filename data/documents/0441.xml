@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0441">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>George Paton to Thomas Pennant, 5 March 1778</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP4</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>23</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0228">George Paton</persName>
+                    <date when="1778-03-05"/>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0442"/>
+                    <ref type="prev" target="ct0237"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Your obliging Favours of 22<hi rend="superscript">d.</hi> past came to hand some
+                    days ago, when the one for <persName ref="pe0246">M<hi rend="superscript">r.</hi> Pope</persName> was forwarded as desired after paying the
+                    postage.</p>
+                <p><persName ref="pe0104">M<hi rend="superscript">r.</hi> Gough</persName> writes me
+                    of your visiting him and the promised indulgence to be allowed of
+                        <sic>seing</sic>
+                    <persName ref="pe0156">M<hi rend="superscript">r.</hi> Lows</persName>
+                    <bibl type="authorial"><title ref="bi0058">M.SS.</title></bibl> Your improved
+                        <unclear reason="illegible">Scheme</unclear> in altering part of his plan
+                    bids fairest for the publick reception, which shall be communicated to him in
+                    Course, to which he must most readily agree, I presume the chief reason of his
+                    referring to <bibl type="authorial"><title ref="bi0363"><hi rend="underline"><gap reason="damage" unit="letters" quantity="2"/>dson's Flora
+                                Angli.</hi></title></bibl> is because he had it by him &amp;
+                        <persName ref="pe0139">M<hi rend="superscript">r</hi> Lightfoots</persName>
+                    <bibl type="authorial"><title ref="bi0231">Flora Scotica</title></bibl> had not
+                    made it's appearance, but he can easily substitute the one in place of the
+                    other.</p>
+                <p>I am concerned at what you write of the base treatment <persName ref="pe0139">M<hi rend="superscript">r.</hi> Lightfoot</persName> has met with,<note type="editorial">In his letter of February 22 1778, Pennant had alluded to
+                        what he felt to be a dishonest review of Lightfoot's <hi rend="italic">Flora
+                            Scotica</hi> in the <hi rend="italic">Critical Review</hi>.</note> the
+                    avarice &amp; mean arts used by the Booksellers and other hackney scribblers in
+                    their pay is most detestable, their endeavours and attempts to blast the merits
+                    of the truly learned &amp; ingenious because they do not reap the real profits
+                    deserves the severest <sic>chatisement</sic>: how changed are they <del rend="overstrike">from</del>
+                    <add place="above">in</add> sentiments of <add place="above">those of</add>
+                    their branch of Employment in former times; as the Aldi &amp; Stephani<note type="editorial">The Aldi and Stephani were fifteenth-century families who
+                        established renowned printing houses in Venice and Paris respectively. They
+                        were thus credited by some with the promotion of classical literature in
+                        renaissance Europe.</note> &amp;<hi rend="superscript">c.</hi> published
+                    works for the Improvement of the world, while those of our days will exhibit
+                    nothing but what shall bring a full pocket &amp; that frequently to the hurt of
+                    the meritorious Author: Auri sacra fames!<note type="editorial">A Latin phrase
+                        from Virgil's <hi rend="italic">Aeneid</hi> (111, 56-57), meaning the
+                        'cursed hunger for gold'.</note></p>
+                <p><persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> has my Copy
+                    of <persName ref="pe1009">D<hi rend="superscript">r.</hi> Percy's</persName>
+                    translation of <bibl type="authorial"><title ref="bi0254">Mallet's northern
+                            Antiquities</title></bibl>, it has been by him these several
+                        Year<unclear reason="illegible">s</unclear> presume it may suffice what he
+                    may occasionaly want from <bibl type="authorial"><title ref="bi0259">the
+                            Edda</title></bibl>.</p>
+                <p>If you please to cause leave the M.S or what else (you incline to transmit for
+                        <persName ref="pe0156">M<hi rend="superscript">r.</hi> Low</persName>) at
+                        <persName ref="pe0043">M<hi rend="superscript">r</hi> Cadel's</persName>
+                    Bookseller <placeName ref="pl0699">London</placeName> it may be put up into any
+                    Parcel for his Correspondent Bookseller here, in this way all will safely reach
+                    me as I am known to the whole Trade here, and any are ready enough to oblige me:
+                    please let it be paper'd &amp; addrest to me.</p>
+                <p>It is with pleasure that you will receive the agreeable Intelligence that
+                        <persName ref="pe0022">D<hi rend="superscript">r.</hi> Ramsay</persName> is
+                    better this was the return I had to day of the message inquiring of his state of
+                    health, hope he will get better after this severe stormy weather blows over.</p>
+                <closer><salute>I am <lb/>Dear Sir <lb/>Your most obed<hi rend="superscript">t</hi>
+                            Serv<hi rend="superscript">t.</hi></salute><signed><persName ref="pe0228">GPaton</persName></signed>
+                    <dateline><placeName ref="pl0696">Custom house</placeName>
+                        <placeName ref="pl0076">Edinburgh</placeName>
+                        <lb/>5 March 1778.</dateline></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1220">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>68</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1798-05-14"/>
+                    <placeName ref="pl0759">Stratton street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName>. May 14. 1798</dateline></opener>
+                <p>I have been ill and confin’d, almost ever since I had the satisfaction of hearing from you last. the East winds as usual, brought me 
+                    <hi rend="underline">a very bad</hi> cough, and the west winds, as I expected, have taken it away again. I have receiv’d <rs type="art" ref="ar0452">Captain Preston's pretty chart of Schetland</rs>,
+                    and the <rs type="art" ref="ar0356">Drawing</rs> by <persName ref="pe1865">Pocock</persName>, but I don’t perfectly understand by the words of your letter, whether they were sent for my perusal only, or whether I may be allow’d to 
+                    keep them as my own; if the former, I am thankful for the pleasure they have given me, if the latter, I have much gratitude to add to those thanks. I have little to write about, but am asham’d to be silent any longer. the public papers 
+                    now a days, are so full of information, that nothing worth communicating, is left for private correspondence. <persName ref="pe1887">Sir Sidney Smith</persName>
+                    was in high luck to escape the Blood hounds of <placeName ref="pl0925">France</placeName>, but I believe no particulars are known, how it happen’d, except what have been detail’d in every newspaper. He is unwilling to enter into particulars, fearing (as it is said) to implicate some persons of consequence in 
+                    <placeName ref="pl0925">France</placeName>, who were instrumental to his safety, and had conceiv’d the plan of his deliverance. His desperate Gallantry won’t let him be long idle, and we shall soon hear of him again setting fire to other ships, in other harbours. I remember seeing a copy of 
+                    <persName ref="pe1888">Sir Gilbert Elliot</persName>'s letter after the affair of <placeName ref="pl2537">Toulon</placeName>, saying there was nothing wanting but a good Incendiary, and that they had found a <hi rend="underline">complete one</hi>, in <persName ref="pe1887">Sir Sidney Smith</persName>.</p>
+                <p>
+                    Time, that Edeax rerum,<note type="editorial">'devourer of all things'.</note> and that devourer, even of melancholy reflections, has been of some service to my poor 
+                    <persName ref="pe0331">daughter</persName>'s unhappiness, and She desires I would tell you so, because She thinks it will give you satisfaction to know it. not relishing a summer in 
+                    <placeName ref="pl0699">London</placeName>, and fearing an invasion on our minikin <placeName ref="pl1020">Island</placeName>, we had schemed a tour to all the 
+                    <placeName ref="pl1221">northern parts of Wales</placeName>, one great object whereof, was the calling upon you at <placeName ref="pl0001">Downing</placeName>,
+                    but after what has happen’d at <placeName ref="pl2643">S<hi rend="superscript">t</hi>. Marcou</placeName>,<note type="editorial">The uninhabited Îles Saint-Marcouf were used by the British navy as 
+                        a base for naval operations in the Channel. Even though the French had the larger force, their attempt to attack the British base on the islands 
+                        on 7 May 1798 was an abject failure. J. D. Davies, <hi rend="italic">Britannia's Dragon: A Naval History of Wales</hi> (Stroud, Gloucestershire: The History Press, 2013), p. 94; M. E. S. Laws, 
+                        'The Defence of St Marcouf', <hi rend="italic">Journal of the Royal Artillery</hi>, vol. LXXV, no. 4 (October 1948), 298–308.</note> the dread of french descents are too contemptible to scare <add place="above">even</add>
+                    a woman, and we shall shortly set out to enjoy our usual comforts in <placeName ref="pl1471">Hampshire</placeName>.</p>
+                <p>
+                    I have conversed with many captains of Frigates, and ask’d what they would do against, perhaps, 600 Gun boats; the general answer was, we should <add place="above">run</add>
+                    over ’em, and sink ’em, like so many <placeName ref="pl2644">Vaux=Hall</placeName> wherrys. It is generally believd, that could the Frigates have made way in the unlucky calm, that not a vessel of the enemy could have escaped. as it is, they have suffer’d extremely; enough to make ’em sick of Invasions. I give you joy of this success, and hope the tide is turning against our Savage Enemy.</p>
+                <closer>
+                    <salute>We join in every good wish to you, and all of the house of Pennant,
+                        and I am, as always, sincerely yours.</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark"><gap unit="letters" quantity="1" reason="illegible"/> MA 14 98; <hi rend="underline">Miss<hi rend="superscript">t</hi>. to <placeName ref="pl0799">Bangor</placeName></hi></stamp><note type="editorial">This information is written by hand.</note></p>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant</persName> Esq<hi rend="superscript">r</hi>. | <placeName ref="pl0001">Downing</placeName> | <hi rend="underline"><placeName ref="pl0702">Flintshire</placeName></hi>.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

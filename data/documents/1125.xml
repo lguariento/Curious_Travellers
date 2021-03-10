@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1125">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humphrey Minchin to Richard Bull; Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>7</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0412">Humphrey Minchin</persName>
+                    <date when="1791-02-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>My D<hi rend="superscript">r</hi>. <persName ref="pe0313">B.</persName></salute></opener>
+                <p>The Ladys,<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note> to whom we are much obliged for making our little Party. (the great ones being over for this year) said you wish’d to know something about 
+                    <placeName ref="pl1705">Southwick</placeName>, I am not qualify’d to tell you much. When or by whom built I do not know, but suppose it not difficult to learn – Whether 
+                    It was a Royal Seat, or only occasionally borrow’d, I cannot say, But <persName ref="pe0600">Charles 1<hi rend="superscript">st</hi>.</persName>
+                    was at Prayers in the Chapel there, when the account was brought of the Assassination of the <persName ref="pe1250">Duke of Buckingham</persName> by
+                    <persName ref="pe1251">Felton</persName> at <placeName ref="pl1357">Portsmouth</placeName>. <note type="editorial">in pencil:</note> ||
+                    <persName ref="pe1252">George the 1<hi rend="superscript">st</hi>.</persName> was entertain’d there by <persName ref="pe1253">Col. Norton</persName>,
+                    for some days; He attended the <persName ref="pe1252">King</persName> to the Limits of the <placeName ref="pl1582">Forest of Bere</placeName>,
+                    attended by sixty Keepers in Green Coats, <hi rend="underline">then</hi> rode Post to <placeName ref="pl0699">London</placeName>, &amp; was
+                    full dress’d at <placeName ref="pl1105">S<hi rend="superscript">t</hi>. James's Gate</placeName> to receive <persName ref="pe1252">his Majesty</persName>
+                    at his Arrival. <note type="editorial">underlined in pencil:</note> <hi rend="underline">I think the <persName ref="pe1252">K.</persName> was shabby, for I do not find that He ask’d him to Dinner, or gave him one in Return, for all he had receiv’d</hi>)
+                    This <persName ref="pe1253">Col. Norton</persName> by Will left <placeName ref="pl1705">Southwick</placeName>, &amp; all his Estates to the Parliament of 
+                    <placeName ref="pl0777">Great Britain</placeName>, in trust for the Poor, which will as suppos’d to proceed from Insanity, was set aside, &amp;
+                    the Estate went to his Heirs <del>by</del> and is now in the Family of the <persName ref="pe1080">Thistlewaite</persName>'s, who came
+                    into the Line of Succession, <note type="editorial">in pencil:</note> tho’ I do not know how. Further this Deponent saith not.</p>
+                <p>I write in a great Hurry being to go to the Land Revenue office. Secretary of State’s office Treasury then to send off a large Packet to 
+                    <placeName ref="pl0889">Ireland</placeName> then to the House on the Roman Catholic Bill <note type="editorial">The 1791 Relief Act allowed Catholics to declare a secular allegiance to the Hanoverian monarchy rather than insisting that they swore oaths of supremacy and a declaration against transubstantiation. OCRA s.v. Catholic emancipation.</note>
+                    but I thought if this Information was worth Notice you would like to send it in your Cover to <persName ref="pe0232">M<hi rend="superscript">r</hi>. Pennant</persName> to day</p>
+                <closer>
+                    <salute>Y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0412">H M.</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <opener><date>Monday -</date>D:S<hi rend="superscript">r</hi>.</opener>
+                <p>I hope to get you a more satisfactory account than this – I mean with respect to the buildings &amp;<hi rend="superscript">a</hi>:
+                    which are extremely large – the <hi rend="underline">great</hi> Room, call’d the old Playhouse, is of very ancient date, and must have history belonging 
+                    <del><gap unit="letters" quantity="2" reason="illegible"/></del> thereto, if we knew how to come at it. – had it been of much note in 
+                    <persName ref="pe0829">Edward VI</persName><hi rend="superscript">s</hi> days, he would certainly have <del>noted</del>
+                    mention’d i<del>n</del>t in his letters to <persName ref="pe1281">Barnaby Fitzpatrick</persName>, 
+                    as he does every other great house, in the neighborhood of <placeName ref="pl1357">Portsmouth</placeName>. My Volumes of 
+                    <bibl type="authorial"><title ref="bi0012">the Wales</title></bibl>, are all at the binders, and if I get them in 6 weeks I shall have better luck than I look for. I intend in the Spring to send 
+                    <persName ref="pe0014">Moses</persName> a list of all the drawings I have got in these books, and if he can furnish me 
+                    with others, upon thin paper, and not too large for my Margins, I shall be glad; I mean arms as well as views. – You never sent me any etchings of Birds, by 
+                    <persName ref="pe0014">Moses Griffyths</persName>. – you have already given me, (I believe) <hi rend="underline">all</hi> the etchings of the 
+                    <persName ref="pe0009">Barber of Edinburgh</persName>. – I dont hear any news of any kind, worth retailing.</p>
+                <closer>
+                    <salute>I am sincerely yours.</salute>
+                    <signed><persName ref="pe0313">RB. - </persName></signed>
+                </closer>            
+            </div>
+            <div>
+                <p><address>
+                    <addrLine><persName ref="pe0313">R. Bull</persName>  Esq<hi rend="superscript">re</hi>. <placeName ref="pl0759">Stratton Street</placeName> -</addrLine>
+                        <addrLine/>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

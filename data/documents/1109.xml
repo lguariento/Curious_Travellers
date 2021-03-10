@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1109">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 113</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1790-08-19"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Aug. 19<hi rend="superscript">th</hi> - 90<note type="editorial">The year '- 90' is added in a later hand.</note></dateline></opener>
+                <p>To shew that I am not quite pacified I must lay on a few more stripes but not in silence as in my last: more will follow in 
+                    a few posts: for being exhausted I must call in aid from the <placeName ref="pl0076">capital of north Britain</placeName>.</p>
+                <p>Inclosed is a specimen of writing by <persName ref="pe0998">my old secretary</persName>: <persName ref="pe0404">my young one</persName>
+                    has two years work of my own before him: If the former will please, he shall be set to his task without delay. His work shall be 
+                    perfect. If it stops at <placeName ref="pl1381">Dover</placeName> it may be intitled <bibl type="authorial"><title ref="bi0268">From London to Dover</title></bibl>.
+                    but it possibly will extend to the <bibl type="authorial"><title ref="bi0637">lands-end</title></bibl>. I think I told you that I 
+                    had reach the borders of <placeName ref="pl1471">Hampshire</placeName>: but was and am delayed for want of the new map.
+                    This has obliged me to make a long residence on the coasts of <placeName ref="pl1492">Barbary</placeName> &amp; 
+                    <placeName ref="pl1643">Morocco</placeName> &amp; now for the sake of the cool breezes have passed over to the 
+                    <placeName ref="pl1644">Canaries</placeName>, <placeName ref="pl1645">Madeira</placeName> &amp; <placeName ref="pl1646">azores</placeName>.</p>
+                <p>As a deep secret, there is going to the press a <bibl type="authorial"><title ref="bi0271">new Edition of my London</title></bibl>
+                    purged of the old errors &amp; much augmented. I let you into the secret that you may if you please wait ½ a year for another L.P.
+                    copy. This to yrself or it may <unclear>touch</unclear> poor <persName ref="pe0328">Faulder</persName>.</p>
+                <p>The <bibl type="authorial"><title ref="bi0041">litterary life</title></bibl> will be sent to <persName ref="pe0111">m<hi rend="superscript">r</hi> Hughs Turnstile</persName>
+                    where please to send for it in a fortnights time. may it be relished by you.</p>
+                <p>I think the <placeName ref="pl0925">french</placeName> are falling to pieces and much misery is awaiting that unhappy nations.
+                    Philosophers ever make wretched governors. As to <placeName ref="pl1202">spain</placeName> I have very little fear from that 
+                    quarter. They never could man their ships at any time; nor do I think them in better plight at present.<note type="editorial">A war between Britain and Spain was imminent in August 1790, with reports that the Spanish fleet had left Cadiz on 20 July and that the English fleet was currently 'under sail', and expected to give a good account of itself in view of its 'excellent state'. <hi rend="italic">Caledonian Mercury</hi>, 19 August 1790.</note></p>
+                <p>Pray what is become of the little head of our Palinurus <rs type="art" ref="ar0041">m<hi rend="superscript">r</hi> pitt</rs>,<note type="editorial">Pennant takes his name for Pitt from the proper name 'Palinurus', Aeneas's pilot in the <hi rend="italic">Aeneid</hi>. <hi rend="italic">OED</hi>.</note>
+                    which you so long flattered me with having.</p>
+                <p>In the course of my <bibl type="authorial"><title ref="bi0637">Tour 1787</title></bibl>. I saw on the stocks <note type="editorial">A list of the names of ships built upon the stocks at Woolwich, with the number of guns on each, is given in <hi rend="italic">From London to Dover</hi> (1801), p. 32.</note>
+                    at <placeName ref="pl0598">Woolwich</placeName> <del>&amp; <placeName ref="pl1648">Deptford</placeName></del>
+                    certain ships I forgot to take the number of Guns Pray fill the blanks of the inclosed &amp; return it.</p>
+                <closer>
+                    <salute>with my best wishes &amp; compliments to the <persName ref="pe0331 pe0336">Ladies</persName>: I rest Dear Sir
+                        <lb/>most truely y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Th. Pennant</persName></signed>
+                    <dateline><placeName ref=""/></dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

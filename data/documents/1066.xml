@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1066">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 59</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Along top of final page in Richard Bull's hand</hi>:</p>
+                            <p>
+                                <del>del <persName ref="pe0105">Gov<hi rend="superscript">r</hi>. Grosse</persName>.
+                            <lb/>Coffer to Gallies
+                            <lb/><gap unit="letters" quantity="7" reason="illegible"/> map. vid mem. book
+                                    <lb/><rs type="art" ref="ar0156">Luttrel arms</rs> - vid. <gap unit="letters" quantity="7" reason="illegible"/></del><note type="editorial">See <ref target="1095.xml">1095</ref>.</note></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date>16 September [1790]</date>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline><placeName ref="pl0001">Downing</placeName> Sept<hi rend="superscript">r</hi>. 16<hi rend="superscript">th</hi> 1787<note type="editorial">The year is added in pencil, possibly by Richard Bull.</note></dateline></opener>
+                <p>Your ever welcome Letter <del>of</del> came safe to hand. <persName ref="pe0014">Moses</persName> shall send
+                    the work at the time you desire. I will send you his bill: &amp; if you approve will settle it for you till 
+                    we meet in march. I shall then come to town to forward <persName ref="pe0065">David</persName> on his third &amp; 
+                    last tour to the continent.<note type="editorial">David Pennant's third continental tour did not take place until 1791–2, which makes it likely that this letter was written in September 1790.</note></p>
+                <p>The great <persName ref="pe0371">Alderman Boydel</persName> (a countryman of mine) called here last <del><gap unit="letters" quantity="1" reason="illegible"/></del>
+                    week &amp; passed some hours with me. He is going to publish a set of welsh views houses &amp;c, on the plan &amp; of the size of 
+                    <bibl type="authorial"><title ref="bi0296">Watts</title></bibl>. among others <placeName ref="pl0001">my house</placeName> with as much of its
+                    environs as he can take in. Is it not happy that at the age of seventy! or more he can have the spirit to attempt great 
+                    affairs.</p>
+                <p>never think of returning two trumpery sheets. they were never meant but for the amusement of y<hi rend="superscript">r</hi>
+                    moment. <persName ref="pe0377">Carter</persName> ought to have been at home etching for them so pray dismiss him as soon as 
+                    he he has done y<hi rend="superscript">r</hi> business.</p>
+                <p>I have <del>fin</del> almost finished <bibl type="authorial"><title ref="bi0266">my voyage fr<hi rend="superscript">m</hi> Calais
+                    to S<hi rend="superscript">t</hi> Jean de Luz</title></bibl>. This contains all the history 
+                    <placeName ref="pl0775">english</placeName> &amp; <placeName ref="pl0925">french</placeName>, I can introduce. <del><gap unit="letters" quantity="8" reason="illegible"/></del> All
+                    this to be wrote by a neighboring schoolmaster<note type="editorial">Pennant found a replacement scribe in January 1790. The schoolmaster mentioned here is unlikely to be the drunkard of whom Pennant complained to Bull in February 1791. See <ref target="1118.xml">1118</ref>.</note>
+                    into a large paper book in a rather fairer hand than my own; &amp; the margins to be illuminated by the hands of <persName ref="pe0014">Moses</persName>.
+                    You may see it if You will: But I am unwilling <quote><l>to shew y<hi rend="superscript">r</hi> eyes &amp; grieve your heart.<note type="editorial">Possibly adapting Shakespeare, <hi rend="italic">Macbeth</hi>, Act IV, scene 1, line 115: 'Show his eyes and grieve his heart'.</note></l></quote></p> 
+                <p><persName ref="pe0326">Sir Watkins</persName> ill circumstances seems entirely owing to gross impositions of stewards. &amp;c.
+                    It is also a bad thing to be in <add place="above">(political)</add> minorities so many hungry wolves are to be fed by the good 
+                    &amp; credulous. <persName ref="pe0326">Sir Watkin</persName> was on his first coming to his estate induced to alt<del><gap unit="letters" quantity="2" reason="illegible"/></del>er
+                    a house in which he might have spent 6000<hi rend="superscript">£</hi> per an. to make it a temporary house while 
+                    <placeName ref="pl0761">Wynnstay</placeName> was rebuilding into a palace. forsooth the other wanted a great room. He 
+                    built there stables, garden walls &amp;c &amp;c. took away some party walls insomuch that - the outer walls being ready 
+                    to meet, he was forced to pull all down &amp; after 13000<hi rend="superscript">£</hi> expence sell the materials. so I 
+                    give you one receit for making rich men poor.</p>
+                <p>Thanks for y<hi rend="superscript">r</hi> good wishes respecting <persName ref="pe0965">M<hi rend="superscript">rs</hi> Mostyn</persName>'s
+                    bequests. I am no monoplist: so rest quite content. <persName ref="pe0851">Lady Mary Ker</persName> will get about 12000<hi rend="superscript">£</hi>
+                    (<hi rend="underline">if</hi> the securities prove good) but I fear by the rascality of <persName ref="pe0965">M<hi rend="superscript">rs</hi> Mostyn</persName> s
+                    attorney. some are very doubtful. I mourn now for another ally, a relation of <persName ref="pe0219">my first wife</persName>;
+                        &amp; a very early friend, who I shall really miss.<note type="editorial">This relation has not been identified.</note> a misfortune old men must experience</p>
+                <p><persName ref="pe0039">Bruce</persName><note type="editorial">Bruce published his <hi rend="italic">Travels to Discover the Source of the Nile</hi> in five quarto volumes during 1790. <hi rend="italic">ODNB</hi>.</note> is printing at all rates at <placeName ref="pl0076">Edinburgh</placeName> <persName ref="pe0105">Grose</persName>
+                    writes me word he has supplied all my deficiencies in <placeName ref="pl0705">scotland</placeName>. I am glad so able a hand takes up my pen.</p>
+                <p>I inclose a news paper with a paragraph of mine. I do not often commit para<del><gap unit="letters" quantity="1" reason="illegible"/></del>graphy:
+                    but I was indignant at the conduct of Judge, Council &amp; Jury on a most flagrant affair.<note type="editorial">This newspaper publication has not been identified.</note>
+                    I have not done with them</p>
+                <p>Thanks for y<hi rend="superscript">r</hi> <placeName ref="pl0925">french</placeName> news. Pray continue it. for I greedily inhale all I can get from that interesting land.</p>
+                <closer>
+                    <salute>best wishes attend you &amp; yours. adieu says
+                    <lb/>Y<hi rend="superscript">r</hi> affec<hi rend="superscript">t</hi> friend</salute>
+                    <signed><persName ref="pe0232">Th. Pennant</persName></signed>
+                    <dateline><placeName ref=""/></dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

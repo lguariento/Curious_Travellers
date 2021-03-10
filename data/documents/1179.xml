@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1179">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>53</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <p><hi rend="italic">Endorsement in Thomas Pennant's hand</hi>:</p>
+                        <p>answ<hi rend="superscript">d</hi> Decr. 21. 1794</p>
+                        <p>Condition: slight tear to paper on third page of MS, caused by ripping of the seal.</p></physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1794-07-15"/>
+                    <placeName ref="pl1013">North Court</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir.</salute> <dateline><placeName ref="pl1013">North Court</placeName>. <placeName ref="pl1020">Isle of Wight</placeName>. July 15.. 1794.</dateline></opener>
+                <p>In hopes of getting a frank, a very simple excuse I must confess, I have neglected to answer a very kind letter of yours, receiv’d almost a month ago; but in truth I had no comfort to offer a Parent under such a heavy visitation as the loss of a 
+                    <persName ref="pe0235">child</persName>. it alters the course of nature, and I shudder at the very Idea, the more so perhaps <add place="above">because</add>
+                    it was so near being my own case not a year ago, but it is incumbent upon as all, to remember the blessings we receive from the hand of God, as well as the Afflictions. A better comforter than I am, has told us, 
+                    that submission is the only way of reasoning, between a Creature, and its maker, and that contentment in his will, is the greatest duty we can pretend to, and the best remedy we can apply to all our misfortunes. We are just now lamenting a simalar stroke which has most heavily fallen, upon a very valuable friend of ours, 
+                    <persName ref="pe0382">Lady Clarges</persName>, whose <persName ref="pe1671">Son</persName>, as promissing, and as amiable a Boy as ever was born, receiv’d his deaths wound on board the 
+                    Marlbro^, where the cool intrepidity of his behavior, had drawn upon him, the attention and applause of <persName ref="pe1745">Captain Berkeley</persName>,
+                    and all the Crew. after the action, He wrote to his mother, that He was never so frighten’d in all his life, for he had seen above twenty men killed in half an hour, but had come off luckily himself, with only a knock upon the pate; a dreadfull knock it turn’d out, for not long after his wretched mother, who travell’d from 
+                    <placeName ref="pl0462">Richmond</placeName> to <placeName ref="pl2539">Plymouth</placeName>, without quitting her chaise, arriv’d there, it was found necessary to trepan him, when a piece of shaggy iron, and several smaller bits of cruel, and unwarrantable instruments of death, being extracted from the skull,, the poor little fellow died in her arms, and She is return’d as miserable as you, and 
+                    <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName> know <hi rend="underline">too well</hi>, a fond Parent is capable of being made.</p>
+                <p>
+                    These savage Butchers of <placeName ref="pl0925">france</placeName>, in what a manner they make war! the Prisoners in the Captur’d Ships at <placeName ref="pl1357">Portsmouth</placeName>
+                    acknowledge that they had tin Canisters on board, fill’d with rusty nails, bits of knives, pieces of broken-glass, and what not, which they fired upon our brave and generous Countrymen, to the disgrace of humanity. Many of the Crew of the Sans Pareil,<note type="editorial">An 80-gun third rate ship of the line, captured from the French during the naval battle of 1 June 1794, and commissioned thereafter into the Royal Navy.</note>
+                    (which by the bye, is the finest Specimen of Naval Architecture ever beheld) say they were forc’d on board, never having been at sea before, and were kept at the Guns, by officers with pistols at their heads, and they add that a report was circulated throughout the fleet, that the English Admiral had given it out, in the order of the day, that every french-man was to be put to death as soon as taken, so they thought it was better to sink, than Strike. –</p>
+                <p>
+                    A friend of mine sent me an extract from the Journal of the Flora Frigate, – after her return from her last channel cruise, where She had captur’d some fishing vessels, the master of one of which, belong’d to
+                    <placeName ref="pl1655">Brest</placeName>, and was there when the Fleet return’d, after one of the proudest days, and the most fortunate, in all its probable consequences, that 
+                    <placeName ref="pl0775">England</placeName> has ever seen.<note type="editorial">Bull continues to refer to the 'Glorious First of June', 1794.</note>
+                    He reports that Commissioners had arrived at <placeName ref="pl1655">Brest</placeName>, who had condemn’d several of the officers to the Guillotine, as fast as they landed, and that He saw twenty six heads struck off, in Eleven minutes, which is more than two in a minute. 
+                    <add place="above">may</add> so perish the whole Convention, and its adherents; would to God they had but one head, and that I was order’d to cut it off! –  There has been an Idea at 
+                    <placeName ref="pl1608">Brighthelmston</placeName>, that a Party of Smuglers had engag’d to carry off the <persName ref="pe0393">Prince of Wales</persName>,
+                    and <supplied>as</supplied> many of the officers, as they could lay their hands on, and to land them in <placeName ref="pl0925">France</placeName>.
+                    I can’t tell you whether this report has any foundation in truth, but <persName ref="pe0412">Col: Minchin</persName>, who is on <supplied>duty</supplied>
+                    there, informs me, that the <persName ref="pe0407">Duke of Richmond</persName> has order’d an additional Guard in the camp, and placed Sentinels all over the town. possibly this scheme might not be 
+                    <hi rend="underline">so impracticable</hi> by a desperate set of Ruffians, as it seems at first sight, but at all events, his <persName ref="pe0393">Royal highness</persName> should pass his insignificant time some where else. 
+                    <persName ref="pe0384">Sir Henry Clinton</persName> is appointed Governor of <placeName ref="pl1010">Gibraltar</placeName>, but every good has its attendant evil; His 
+                    <persName ref="pe1746">son</persName>, who is aide de Camp to the <persName ref="pe0949">Duke of York</persName>, was wounded by a cannon Ball at the beginning of the Campaign, and bad consequences are apprehended. Our Relation –, young 
+                    <persName ref="pe0849">Bennett</persName>, after having his thigh Broken last year, was made Captain <del>Captain</del> of a Sloop of war, in reward for his gallant behavior, 
+                    <add place="above">⌘</add> has since been taken, and is now a Prisoner at <placeName ref="pl2540">Valence</placeName>, with a Stiff knee, for which he wishes to use the Baths of 
+                    <placeName ref="pl2541">Aix</placeName>, but the Barbarians refuse him that poor comfort. in short who is there this year that has not a child,  or some Relative to lament. I feel much oblig’d to you for what you say respecting 
+                    <persName ref="pe0404">your secretary</persName> being put upon my work at some convenient time, and I beg it may not be till you can spare him from your own Business. 
+                    <bibl type="editorial"><title ref="bi0269">that M.S.</title></bibl> will afford me as much pleasure as I am now able to enjoy, but I am so dead to pleasure that I find few things worth the anxiety of a wish. – all I have now to hope, is to live without pain, and to die without fear, but should your intended favor reach my hands before I am gone hence, and no more seen, I shall bequeath it to those, who will know how to value it, as highly as I shall myself. If I had the pleasure of seeing you here,, (and a very great pleasure, I do assure you, I should think it) you would suppose nothing was so little in my contemplation, as Dying, for we are pulling down, and building up, at an extravagant rate indeed, but our workmen are the poor, the  maim’d, 
+                    &amp; the halt, and I would willingly include the blind, if there were any in the parish; in short I pass my time in very busy Idleness, and my daughters<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>
+                    assist, and <del>encorage</del> encourage me; thank God they are both well, and both desire to join with me, in their best remembrances, &amp; all manner of good wishes, to you and all of the House of Pennant.</p>
+                <closer>
+                    <salute>I am Dear Sir, very truly, &amp; faithfully yours</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">O. JY. 16 94; <hi rend="underline">By <placeName ref="pl0699">London</placeName>.</hi><note type="editorial">The instruction 'By London' is handwritten.</note></stamp>
+                    <stamp type="handstamp">N <placeName ref="pl1020">ISLE OF WIGHT</placeName></stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant</persName> Esq<hi rend="superscript">re</hi>: | <placeName ref="pl0001">Downing</placeName> | <hi rend="underline"><placeName ref="pl0702">Flintshire</placeName></hi></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

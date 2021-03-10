@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0120">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, requesting information on paintings, Rosslyn
+                    Chapel and Sibbald manuscripts</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>33</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1772-11-29"/>
+                    <placeName ref="pl0725">Howey</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0531"/>
+                    <ref type="prev" target="ct0119"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline>Novr 29th 1772.</dateline>
+                <salute>Dear Sir</salute></opener>
+                <p>many thanks for y<hi rend="superscript">r</hi> Letter. I hope to borrow a <bibl type="authorial"><title ref="bi0050"><hi rend="underline">Sibbald.
+                                Baleen</hi></title></bibl>. as to Prints; the Porpess &amp; Dolphin
+                    from <bibl type="authorial"><title ref="bi0106">Borlase’s
+                        cornwall</title></bibl> may be reduced according to a size I shall send;
+                    &amp; <persName ref="pe0025">Roberston</persName> Whale in the <bibl type="authorial"><title ref="bi0051">Transactions</title></bibl> of last
+                    year.</p>
+                <p>I am much obliged for y<hi rend="superscript">r</hi> account of the woodcocks. I
+                    admired the paintings of the <rs ref="ar0001">Labors of Hercules</rs>. do you
+                    write the painter <persName ref="pe1562">manvire or manvize</persName> &amp; who
+                    was he?<note type="editorial">Likely the same artist and work, or works, that
+                        Pennant refers to in his description of the paintings of Holyrood Palace in
+                        his <hi rend="italic">Tour in Scotland, and voyage to the Hebrides 1772</hi>
+                        3rd edn. (London: 1790), pp.245-46: 'The life of <hi rend="italic">Hercules</hi>, in ten small pieces, highly finished, but with a stiff
+                        outline, like the manner of <hi rend="italic">Albert Durer</hi>. In the back
+                        ground are views of <hi rend="italic">Flemish</hi> houses; so probably these
+                        were the work of a <hi rend="italic">Flemish</hi> artist. Perhaps of <hi rend="italic">John de Mabeuse</hi>, who was in England in the time of
+                            <hi rend="italic">Henry</hi> VIII.' The 'manvire', 'manvize' or
+                        'Mauvise' mentioned here and in Paton's letter of December 3 1772, is
+                        probably the same John de Mabeuse, an alternative name of the Flemish artist
+                            <persName ref="pe1562">Jan Gossaert</persName> (c.1478-1532). <rs type="art" ref="ar0001"/></note> The first of the paintings at
+                        <placeName ref="pl0726">Penicuick</placeName> will be of no use to me.
+                        <persName ref="pe0104">M<hi rend="superscript">r</hi> Gough</persName> is
+                    lazy &amp; does not answer Letters: The weapon is saxon; &amp; I had a fine
+                    drawing of it speedily to be engraven, it was found at <placeName ref="pl0298">Comerie the upper end of Strath-earn</placeName>.</p>
+                <p>Do not hurry yourself about the measurements &amp;c of <placeName ref="pl0386">Rosslyn</placeName>: next summer will be time enough. I am ashamed not to
+                    find the chaise hire to <placeName ref="pl0386">Rosslyn</placeName> among my
+                    bills: I must insist on knowing what it is; &amp; that you would at the end of
+                    this year pay for the magazines &amp; let me know what all comes to. Pray excuse
+                    my writing in this cover for I have urgent occasion to send the inclosed to
+                        <persName ref="pe0022">Doctor Ramsay</persName>. I see that Sibbald mentions
+                    drawings of Animals in <bibl type="authorial"><title ref="bi0052">his 2<hi rend="superscript">d</hi> vol</title></bibl>. which is still in M.S.
+                    Pray where are those M.S.</p>
+                <p>If you see <persName ref="pe0021">M<hi rend="superscript">r</hi> Shairp of the
+                        R:Bank</persName>. Please to present my best thanks for his Letter &amp; for
+                    the <rs ref="ar0317">beautiful drawing</rs> of the nunnery at <placeName ref="pl0651">Columb-kill</placeName>.</p>
+                <closer><salute>I am Dear Sir y<hi rend="superscript">r</hi> obliged &amp; faithful
+                        humble Servt</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed>
+                    <placeName ref="pl0725">By Howey</placeName></closer>
+                <postscript>
+                    <p> Be so good as to call on <persName ref="pe0027">Yonge Newcastle
+                            carrier</persName> &amp; <add place="margin">{The Boxes 2. weight
+                                7.<unclear reason="illegible"><hi rend="superscript">lb</hi></unclear>3<gap reason="illegible" unit="letters" quantity="3"/> as marked the Book. 25<hi rend="superscript">th</hi>
+                                Sept<hi rend="superscript">r</hi>
+                            <unclear reason="illegible">lab<hi rend="superscript">d</hi></unclear>
+                            to the <placeName ref="pl0489">Manchester</placeName>
+                            <gap reason="illegible" unit="words" quantity="1"/> at <placeName ref="pl0057">Newcastle</placeName>
+                            <persName ref="pe0304">Packham</persName> of<gap reason="illegible" extent="several characters"/> Inn <unclear reason="illegible">can
+                                answer</unclear></add> tell him I never received the Box directed to
+                            M<hi rend="superscript">r</hi> Falconer<note type="editorial">Possible
+                            Thomas Pennant's friend, <persName ref="pe1119">Thomas
+                                Falconer</persName> of Chester.</note> at <persName ref="pe0028">M<hi rend="superscript">r</hi> Bells</persName>
+                        <placeName ref="pl0489">Manchester</placeName>. It was a small heavy box
+                        sent Sept<hi rend="superscript">r</hi> 24 or 25<hi rend="superscript">th</hi>. tell him I will certainly prosecute him if he does not produce
+                        it.</p>
+                </postscript>
+            </div>
+            <div>
+                <p>
+                    <address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>at the Custom house</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address>
+                </p>
+                <p><handShift/>
+                    <hi rend="superscript">Free</hi><persName ref="pe0015">RMostyn</persName></p>
+                <p><stamp><placeName ref="pl0703">NORTHOP</placeName></stamp></p>
+            </div>
+        </body>
+    </text>
+</TEI>

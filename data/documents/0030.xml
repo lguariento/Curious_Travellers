@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0030">
+    <teiHeader type="w">
+        <fileDesc>
+            <titleStmt>
+                <title>Catherine Hutton’s Tour of Wales: 1797
+                    <date>1797</date></title>
+                <respStmt>
+                    <name>Edited with an introduction by Mary-Ann Constantine</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>MS 19079C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+           <p> </p>
+                <p>Letter 10<note type="editorial">From this point onwards, the published ‘Letters’
+                        labelled 10-18 which appeared intermittently in the <hi rend="italic">Monthly Magazine</hi> from July 1816 to August 1819, offer a condensed,
+                        amalgamated and frequently depersonalized version of Hutton’s travels in
+                        1797, 1799 and 1800 as she described them in Letters 10-29, given in full
+                        here. While I have occasionally drawn attention to one or two significant
+                        alterations in the footnotes, I have not pursued a detailed comparison of
+                        the two texts; more information about the differences between the 29 letters
+                        in NLW MS 1907C and the 18 letters published in the <hi rend="italic">Monthly Magazine</hi> can be found in the Introduction above.</note>
+                </p>
+                <p style="right"><placeName ref="pl1533">Llanrwst</placeName> Aug 24 1797</p>
+                <p>My Dear Brother</p>
+                <p> </p>
+                <p>You will see me thus on my way to <placeName ref="pl1565">Caernarvon</placeName>.
+                    We have pursued the track of our return last year; <placeName ref="pl1260">Oswestry</placeName>, <placeName ref="pl0793">Llangollen</placeName>, and
+                        <placeName ref="pl1303">Corwen</placeName>, and from thence have kept the
+                    great road, instead of quitting at the <placeName ref="pl2463">Druid</placeName>, where we first entered it from <placeName ref="pl1669">Bala</placeName>.</p>
+                <p>Our road from the <placeName ref="pl2463">Druid</placeName> was good; up and down
+                    hills; but not great </p>
+                <pb n="p.40"/>
+                <fw>p.40</fw>
+                <p> </p>
+                <p>hills, the country diversified with fields and woods; a river running on our
+                    left. At two miles we ascended a longer hill than the others and found ourselves
+                    high above the bed of the river, on a terrace road, cut out of solid rock. The
+                    river, whose name I would give you if I could, after running peace<hi rend="subscript">^</hi><hi rend="superscript">a</hi>bly along the upper
+                    lands, approaches this defile between the mountains, and forces its way to the
+                    bottom, dashing over rocks and huge stones. A bridge, called <placeName ref="pl2829">Pont-y-Glyn</placeName>, the Bridge of the Glen, is thrown from
+                    rock to rock over the highest and principal fall, I was told at seventy or
+                    eighty feet above the water. [------]</p>
+                <p>The road is cut at a <sic>heighth</sic> which made me tremble to look down;
+                    though it is fenced by a high strong wall. The rocks rise perpendicularly above
+                    it, on the right. From a point near the farther end is <del>xxx</del>
+                    <hi rend="superscript">discovered</hi> the pont, of one noble lofty arch, and
+                    the torrent pouring down below it, between the woody mountains. This is the
+                    grandest sight I have seen in <placeName ref="pl0731">Wales</placeName>; and I
+                    should <hi rend="subscript">^</hi>
+                    <hi rend="superscript">think</hi> rocks, and woods, and water, can scarcely
+                    combine to form anything more beautiful.</p>
+                <p> </p>
+                <p>From <placeName ref="pl2829">Pont-y-Glyn</placeName> the country was no longer
+                    romantic, but hilly and wild. The road, which was excellent, lay along a valley
+                    though upon high ground, and wound round the bottoms of the hills, till it
+                    reached <placeName ref="pl3129">Cerrig-y-Druidion</placeName>, the Rock of the
+                    Druids, ten miles beyond <placeName ref="pl1303">Corwen</placeName>. In this
+                    bleak and elevated region, the small driving rain struck upon my face like
+                    needle points, and the wind was so high, that I frequently held fast, by both
+                    hands, to keep my-self upon my horse.</p>
+                <pb n="p.41"/>
+                <fw> p.41</fw>
+                <p> </p>
+                <p><placeName ref="pl3129">Cerrig y Druidion</placeName> is a considerable Welsh
+                    village, with a church, an inn, and a shop; but there is no rock to be seen, or
+                    Druid to be heard of. It was now the fair; and about two hundred home-spun coats
+                    and blue coats were assembled, in the midst of three or four stalls of cloth,
+                    two of earthen ware, and half a dozen of gingerbread and cakes, intermingled
+                    with a small number of cattle. About three or four men appeared in broadcloth
+                    coats; but not a silk hat or bonnet was to be seen among the women; or a cotton
+                    gown, except one upon a dirty trollop,<note type="editorial">This appears
+                        (perhaps unsurprisingly) in the published version as: ‘except for one dirty
+                        creature, who seemed to be the refuse of another country.’</note> who seemed
+                    the refuse of another country. Here, an old woman had a piece of striped woolen
+                    under her arm, for sale; there, another had a remnant of linen, or a pair of
+                    stockings, the produce of her own industry, and the overplus of the family
+                    apparel: but I saw very little buying and selling. Both men and women were
+                    chattering in small parties; and the women universally, were knitting. Two
+                    harpers and a fidler arrived; and I was <hi rend="subscript">^</hi>
+                    <hi rend="superscript">informed</hi>, that many of the people would dance all
+                    night, and some all the next day.</p>
+                <p>The public house was so crowded we could not enter it; and as for a stable for
+                    our horses, we should have been laughed at if we had asked it, for the keffils
+                    stood by fifties in little inclosures. Indeed this is a regular piece of Welsh
+                    economy; and each person pays a halfpenny for the standing of his horse, except
+                    on Sundays, when the churchyard commonly serves for that purpose. We remained
+                    therefore out of doors; the servant and horses drawn up at the horse-block,
+                    ourselves walking the fair of <placeName ref="pl3129">Cerrig-y-Druidion</placeName>, and making a part of the shew.</p>
+                <p> </p>
+                <p>[From <placeName ref="pl3129">Cerrig y Druidion</placeName> to <placeName ref="pl1576">Cernioge</placeName> is three miles; two and a half of which
+                    appear, at once, in a straight line, over dreary uninhabitable bogs. <placeName ref="pl1576">Cernioge</placeName>, though the epithet of Mawr, Great, is
+                    added </p>
+                <pb n="p.42"/>
+                <fw>p.42</fw>
+                <p> </p>
+                <p>to it, consists of nothing that I recollect, but the inn, which keeps one or more
+                    post-chaises. Its mistress, having attained some degree of refinement by living
+                    on the great road, had grafted a bedgown of beautiful printed cotton on the
+                    native woolen petticoat of the country, and crowned the whole with a costly,
+                    heavy cap of fine muslin and fine lace. The parlour, I believe the only parlour,
+                    was occupied, and we fancied the master did not make us very welcome to our post
+                    near the kitchen fire, where we took a sandwich and a pint of wine; so I armed
+                    myself with a resolution to proceed to <placeName ref="pl1533">Llanrwst</placeName>, eleven miles farther, and that resolution remained
+                    unshaken, though it rained when we set out, and unrepented of, though it
+                    continued every step of the way.<note type="editorial">For the Inn at Cernioge
+                        see <ref type="http" target="https://curioustravellers.ac.uk/en/the-cernioge-inn-a-forgotten-spot-on-the-welsh-tour/">Kirsty McHugh</ref> and <ref type="http" target="https://curioustravellers.ac.uk/en/further-notes-on-the-inn-at-cernioge/">Michael Freeman</ref>. </note></p>
+                <p> </p>
+                <p>The first eight miles of the road was over wild moors; up and down hill but all
+                    high ground. At two miles we passed through the village of <placeName ref="pl3119">Capel Voelas</placeName>, having a church, as its appellation,
+                    Capel, denotes. From these high moors I sometimes caught a glimpse of a
+                    mountain, as the clouds broke for a moment. Had the weather been clear, the
+                        <placeName ref="pl1183">Alps of Caernarvonshire</placeName> would have stood
+                    before me. At the end of the moors, we found ourselves hanging, at an immense
+                        h<hi rend="superscript">e</hi>ight over the Vale of Llanrwst]. </p>
+                <p>[-------]</p>
+                <p>The Vale of Llanrwst is composed of grass of the finest verdure, and corn of the
+                    richest yellow, divided by green hedges. The river <placeName ref="pl2384">Conwy</placeName>, not, like the <placeName ref="pl1138">Dee</placeName>,
+                    foaming over its rocky bed, but a placid, though a noble stream, moves
+                    majestically along it. White houses, of every description, from the cottage to
+                    the palace enliven it, and the town of <placeName ref="pl1533">Llanrwst</placeName>, with its elegant <placeName ref="pl1531">bridge</placeName>, appears towards the further end. The whole is encircled
+                    by hills, rocks, and woods. Magnificent mountains, with <placeName ref="pl2862">Snowdon</placeName> at their head, should have risen above these, on the
+                    left, if the atmosphere had so pleased. [The approach, over barren hills, and
+                    the </p>
+                <pb n="p.43"/>
+                <fw>p.43</fw>
+                <p> </p>
+                <p>sudden appearance of these beauties under our feet, add to the impression <hi rend="superscript">they make</hi>. Wonder-struck and frightened to see
+                    myself so high, I durst not sit upon my horse. It rained terribly! Wet I must
+                    be, and wet I chose be, on foot. Father shared my fate, fearing only for me,
+                    whilst I felt only for him; we passed three mile stones on the mountain, and a
+                    fourth before we reached <placeName ref="pl1533">Llanrwst</placeName>. An
+                    excellent greatcoat, with capes <hi rend="subscript">^</hi>
+                    <hi rend="superscript">to the elbows</hi>, kept the upper part of my person dry;
+                    but sure such petticoats were never seen. The water ran in rivulets over the
+                    road, and streamed from our cloaths, and by the time we arrived at <placeName ref="pl1533">Llanrwst</placeName> my greatcoat had imbibed so much I could
+                    scarcely carry it. I might have spared myself this heroic atchievement, if my
+                    nerves had not been overpowered at the top of the mountain, for the descent was
+                    both safe and easy. At <placeName ref="pl1533">Llanrwst</placeName> I [----] got
+                    between two good blankets, till a total change of habits could be provided].
+                        <note type="editorial">This description of the effects of the weather and
+                        the soaking petticoats – valuable information for the historian and full of
+                        touches of Hutton’s self-deprecating humour - is typical of the material
+                        omitted from the printed version.</note></p>
+                <p> </p>
+                <p>The inn at <placeName ref="pl1533">Llanrwst</placeName> is the best I have seen
+                    in the country. A Welsh harp welcomed our arrival [---], though we entered on
+                    foot, and dropping like the water-works at <placeName ref="pl1542">Chatsworth</placeName>.<note type="editorial">An extensive series of
+                        cascades, pools and fountains were developed in Chatsworth gardens from the
+                        seventeenth century. </note> The town is ill-looking, and ill-paved. The
+                        <placeName ref="pl1531">bridge</placeName>, of one large centre arch, and a
+                    smaller on each side, is the work of <persName ref="pe1159">Inigo
+                        Jones</persName>, and deservedly admired for its elegance and lightness. The
+                    workmanship is said to be so true, that if you lean against a large stone, in
+                    the centre of one of the parapet walls [---], while a person strikes a large
+                    stone in the centre of the other [---], you feel the shock. This I experienced.
+                    But the truth of the work will probably accelerate its destruction, for the
+                    stone has been so often struck that it has given way. The date of the bridge is
+                    1636.</p>
+                <p> </p>
+                <p>The largest of the white houses that spot the Vale of Llanrwst is <placeName ref="pl1532">Gwidir</placeName>, a fine old mansion, near the <placeName ref="pl1234">Caernarvonshire</placeName> foot of the bridge </p>
+                <pb n="p.44"/>
+                <fw>p.44</fw>
+                <p> </p>
+                <p>which gives the title of Baron to the former Sir <persName ref="pe0177">Peter
+                        Burrell</persName>. A lofty perpendicular rock, sprinkled with wood, river
+                    behind it.</p>
+                <p> </p>
+                <p>Letter 11</p>
+                <p style="right"><placeName ref="pl1565">Caernarvon</placeName> Aug 27 1797</p>
+                <p style="center">
+                    <note type="authorial">[see page 45]</note>
+                    <note type="editorial">Note written in Catherine Hutton's hand.</note>
+                </p>
+                <p>My Dear Brother,</p>
+                <p> </p>
+                <p>Having crossed the <placeName ref="pl2384">Conwy</placeName>, at leaving
+                        <placeName ref="pl1533">Llanrwst</placeName>, we travelled four or five mile
+                    along the vale, by its side, under stupendous mountains which rose abruptly on
+                    our left. Three torrents, made magnificent by the late rains, poured down from
+                    different lakes at top, and, crossing our road, under bridges, rushed into the
+                    river. Afterwards, we quitted the Vale of the Conwy and rode over high hills,
+                    the mountains <sic>receeding</sic> to the left, till the top of our last hill
+                    presented us with a sight wholly new to me: a town, surrounded by a wall, with
+                    battlements and towers, seemingly perfect; and, situated on the side of a
+                    sloping hill before us, we saw the whole at once. The beautiful <placeName ref="pl1530">castle of Conwy</placeName> rose upon a rock at one end. I
+                    viewed the scene with admiration, and could almost have imagined myself
+                    transported back to the days of <persName ref="pe0650">Edward the
+                        First</persName>.</p>
+                <p> </p>
+                <p>[<placeName ref="pl1049">Conwy</placeName> is only two miles from the sea, to
+                    which the river makes an opening; but its winding course, and the elevation of
+                    its banks, do not permit the sea to be seen.]<note type="editorial">Inserted on
+                        a separate slip of paper.</note></p>
+                <p> </p>
+                <p>There are only two entrances into the town of <placeName ref="pl1049">Conwy</placeName>, one from the land, and one from the water, both arched
+                    gateways in the wall. We had no sooner passed through the former of these than
+                    we were attacked by a sort of hostler who offered to conduct us to the inn; and,
+                    without further ceremony, laid hold of the bridle of one of the horses. I
+                    desired him to let go his hold, and supposing, from eagerness, that there were
+                    two inns, and remembering the old adage <hi rend="underline">Good wine needs no
+                        bush</hi> I determined not to be directed by him. As both were unknown to
+                    me, we enquired of a man we met in the street which was the best. Whether he had
+                    been bribed I know not, but he named the <placeName ref="pl1893">Bull</placeName>, the house the scout was sent from, and thither we went.
+                    We found a large </p>
+                <pb n="p.45"/>
+                <fw>p.45</fw>
+                <p> </p>
+                <p>house and a good dinner. With our lodging we had less reason to be satisfied, and
+                    if I go to <placeName ref="pl1049">Conwy</placeName> again, I shall try the
+                        <placeName ref="pl3124">Harp</placeName>.</p>
+                <p> </p>
+                <p>I am told that the <placeName ref="pl3124">Harp</placeName> is the old house, and
+                    the <placeName ref="pl1893">Bull</placeName>, the new; and that the <placeName ref="pl1893">Bull</placeName> has taken this extraordinary method of sending
+                    out its emissaries to forestall travellers, in order to supplant its rival. The
+                        <placeName ref="pl3124">Harp</placeName>, in its own defence, had adopted
+                    the same plan; and it has happened more than once, when the contending parties
+                    have met, that they have come to an engagement, and the vanquished obliged to
+                    retreat, with a black eye or bloody nose. It is even said, that the mistress of
+                    the <placeName ref="pl1893">Bull</placeName><note type="editorial">Possibly a
+                        Mrs Read, widow of the previous landlord, who had married Samuel Read in
+                        1778.</note> has defeated the chambermaid of the <placeName ref="pl3124">Harp</placeName> in single combat.</p>
+                <p> </p>
+                <p><placeName ref="pl1049">Conwy</placeName> was the first Welsh town in which I
+                    observed an air of industry, and a greater number of people appeared in its
+                    streets than any I had seen before; yet their staple article is the
+                    entertainment of travellers and its principal trade is to convey them across the
+                    river: I need not tell you that over that river lies the high road from
+                        <placeName ref="pl0699">London</placeName> to <placeName ref="pl1018">Holyhead</placeName>. At high water, it is nearly a mile in breadth.<note type="editorial">The <hi rend="italic">Monthly Magazine</hi> (Letter X,
+                        Volume 41, p. 504) relocates the section on mail-coaches from MS Letter 15
+                        (below), and inserts it here.</note></p>
+                <p> </p>
+                <p>The beauty of <placeName ref="pl1530">Conwy Castle</placeName>; the strength of
+                    its towers; the elegance of its turrets; the magnificence of its great hall; the
+                    wonder of the tower still standing, though its base, a mighty ruin, is long
+                    since prostrate on the shore; and its charming situation, viewed from either
+                    land or water, - have been often described. It is well they have, for I do not
+                    at present think of any words to do them justice.</p>
+                <p> </p>
+                <p>From <placeName ref="pl1533">Llanrwst</placeName> to <placeName ref="pl1049">Conwy</placeName> is twelve miles. Our course had been due north. Our road
+                    from thence to <placeName ref="pl0799">Bangor</placeName> and <placeName ref="pl1565">Caernarvon</placeName>, was at first west, and then inclining
+                    to the south; but insuperable mountains forbade our taking a nearer way. Two
+                    miles and a half of steep, hilly</p>
+                <pb n="p.46"/>
+                <fw>p.46</fw>
+                <p> </p>
+                <p>road, brought us from <placeName ref="pl1049">Conwy</placeName> to <placeName ref="pl2400">Sŷchnant</placeName>, the top of a pass over the mountains down
+                    to the <placeName ref="pl1564">straights of Menai</placeName>. From whence the
+                    sea, <placeName ref="pl1959">Puffin</placeName> or <placeName ref="pl1959">Priestholm Island</placeName>, and the Isle of <placeName ref="pl1093">Anglesey</placeName> opened upon us at once. The descent is steep, on the
+                    brink of a precipice, but secured by a wall. The smacking of a whip,
+                    reverberated by the opposite mountain, sounded like a shower of stones. </p>
+                <p> </p>
+                <p>From the bottom of this pass to <placeName ref="pl1565">Caernarfon</placeName>,
+                    the road lies on the shore of the <placeName ref="pl1564">Menai</placeName>, and
+                    is constantly up and down hill, though neither long together, except at
+                        <placeName ref="pl1338">Penmaen Mawr</placeName>. There is every where
+                    cultivated lands between the mountains and the straits, except, as before
+                    excepted, at <placeName ref="pl1338">Penmaen Mawr</placeName>, <del>which
+                        is</del> a huge promontory jutting into the sea, and the road climbs up its
+                    side. Much has been said of this tremendous road, and frightful, as well as
+                    dangerous, it must have been; as it runs very high above the sea, with a steep
+                    precipice on one hand, and an impenetrable rock on the other; but it is now
+                    fixed with a stone wall, which has the peculiar advantage of being cemented with
+                    mortar. In one place, however, it has given way, though arches are turned under
+                    the road to afford a passage for the water that comes down from the mountain.
+                    Pains are taken to remove the rocks that from time to time fall down upon the
+                    road, but I saw enough remaining, propped, or hanging by a thread, to make me
+                    wish to avoid travelling that way when they had been loosened by rain or
+                    frost.</p>
+                <p> </p>
+                <p>The sixth mile stone from <placeName ref="pl1049">Conwy</placeName> is above
+                        <placeName ref="pl1338">Penmaen Mawr</placeName>, and the whole of the road
+                    over it may be about a mile and a half. </p>
+                <p> </p>
+                <p>At nine miles from <placeName ref="pl1049">Conwy</placeName> we rode through
+                        <placeName ref="pl1595">Aber</placeName>, where is a Welsh inn,<note type="editorial">This is another Bull’s Head.</note> under the mountains. At
+                    thirteen miles we crossed the <placeName ref="pl2415">Ogwen</placeName>, and saw
+                    an opening on our left, through which that river comes down through the
+                    mountains. Before us, on a hill, was the <placeName ref="pl1971">church of
+                        Llandegai</placeName>, handsome </p>
+                <pb n="p.47"/>
+                <fw>p.47</fw>
+                <p> </p>
+                <p>for a village church, any where, but in <placeName ref="pl0731">Wales</placeName>
+                    a prodigy. On the right was the mansion of <persName ref="pe1198">Lord
+                        Penrhyn</persName>; all about it proclaiming the riches and taste of its
+                    noble owner. </p>
+                <p> </p>
+                <p><placeName ref="pl0799">Bangor</placeName>, six miles beyond <placeName ref="pl1595">Aber</placeName> and nine short of <placeName ref="pl1565">Caernarvon</placeName>, would only be noticed as a neat little Welsh town,
+                    if it were not an episcopal see, which, I suppose, confers upon it the rank of
+                    city. It is environed by hills that shut it out from the <placeName ref="pl1564">Menai</placeName>. The cathedral is respectable, though its tower steeple
+                    is low. A steeple of any kind, however, is a mark of dignity in this country.
+                    The <placeName ref="pl2026">Bishop’s palace</placeName> and the <placeName ref="pl3130">Deanery</placeName> are its accompaniments, and are a couple of
+                    snug, warm situations. The tombs are black stone of a remarkably fine texture,
+                    resembling Wedgwood’s tea-pots.<note type="editorial">Josiah Wedgwood had
+                        perfected a type of ‘black basalt ware’ by the late 1760s; in 1790 he
+                        produced a copy of the (Roman) Portland Vase in black jasperware. See <ref type="http" target="http://www.wedgwoodmuseum.org.uk/learning/discovery-packs/pack/classical/chapter/black-basalt">here.</ref></note> As the sculptor might have gone in vain to the
+                    Herald’s office, for the titles of the dead, he has gone to their occupations,
+                    and is content with informing the world, that one was a mercer, another a
+                    grocer, and another a taylor <del>of this parish</del>.</p>
+                <p> </p>
+                <p>At <placeName ref="pl1565">Caernarvon</placeName> the first thing one meets with
+                    is the <placeName ref="pl3112">Hotel</placeName>, a house built by <persName ref="pe1230">Lord Uxbridge</persName>, and such as his lordships self might
+                    live in. It is kept by an Englishman, and is frequented by all English
+                    travellers. The Welsh stick to a good old <placeName ref="pl1890">King’s
+                        Head</placeName> of their own, farther in the town.</p>
+                <p> </p>
+                <p><placeName ref="pl1566">Caernarvon Castle</placeName> is the finest I have seen.
+                    The guide who shewed it assured us it was the finest in <placeName ref="pl0777">Great Britain</placeName>. Whether he was qualified to make the assertion,
+                    I doubt, but xx I am not qualified to disprove it, <hi rend="subscript">^</hi><hi rend="superscript">and</hi> I see no reason why I may not
+                    implicitly believe it. The principal entrance is in the side next the town, and
+                    has the statue of <persName ref="pe0650">Edward the First</persName>, its
+                    founder, high above it.<note type="editorial">An additional line from the <hi rend="italic">Monthly Magazine</hi> has no equivalent anywhere in the
+                        manuscript, and is uncharacteristic of Hutton, who goes out of her way to
+                        paint the Welsh in a positive light. ‘It is said, that the features were
+                        perfect till very lately; when on the circumstance being noticed by an
+                        Englishman, one of the Welsh, in hatred to the memory of their conqueror,
+                        took the pains to climb up and deface them’. (July, 1816) 504-05.</note> The
+                    gate by which <persName ref="pe0136">Eleanor</persName> entered to give the
+                    Welsh a Welshman for their prince is at the end next to what is called the
+                    Castle Green, and the <placeName ref="pl2387">Eagle Tower</placeName>, where
+                    that prince was born, is at the opposite end. The walls of that tower are nine
+                    feet and a half in thickness; the whole must have been a place of prodigious
+                    strength. All the windows </p>
+                <p> </p>
+                <pb n="p.48"/>
+                <fw>p.48</fw>
+                <p> </p>
+                <p>that look towards the country or the sea, are slips through which the soldiers
+                    could point their arrows, without fear of annoyance in return: those within the
+                    castle walls are beautiful gothic windows, with frames of stone. One only
+                    remains intire. </p>
+                <p> </p>
+                <p>The town of <placeName ref="pl1565">Caernarfon</placeName>, like that of
+                        <placeName ref="pl1049">Conwy</placeName>, is surrounded by a wall. <del>The
+                        side of the <placeName ref="pl1566">castle</placeName> forms one end of the
+                        inclosure.</del> The inclosed space was not originally intended for its
+                    present purpose, but was an area belonging to the <placeName ref="pl1566">castle</placeName>; and the town was half-a-mile further up the country.
+                    When the <placeName ref="pl1566">castle</placeName> was no longer necessary to
+                    keep the Welsh in awe, <del>the walls that proceeded from it were thought by the
+                        inhabitants to be some security for</del> the town. <del>It
+                        accordingly</del> moved its station, and pitched in the castle yard, where
+                    it consists of one straight and tolerably wide street, with an arched gateway at
+                    each end [-----], and three or four smaller ones which cross it at right angles.
+                    A long irregular street, without the walls, is the high road, and a few mean
+                    ones proceed from it, towards the country. On the outside the wall, towards the
+                        <placeName ref="pl1564">Menai</placeName>, and close to it, is a beautiful
+                    gravel walk.</p>
+                <p> </p>
+                <p>The church disdained to follow the town in its peregrination. It remains near the
+                        <sic>scite</sic> of Old Caernarvon, which is plainly discernible, though
+                    there is not one stone left upon another. The church is called the <placeName ref="pl2020">church of Llanbeblic</placeName>. It is built in the form of a
+                    cross, and has a tower steeple, but the regularity of the edifice is destroyed
+                    by a chapel that runs out from the north side of the chancel which was erected
+                    to cover the remains of Griffith, lord of Vaenol. He and his lady, in white
+                    marble, lie on a tomb within, he in armour and trunk hose, she in the dress she
+                        wore.<note type="editorial">For the Vaynol monument, see <ref type="http" target="https://coflein.gov.uk/en/archive/6387978/details/504">here.</ref></note> The figures are well executed and I could not help
+                    admiring the neatness of the white marble mat on which they lay. The date, 1543,
+                    is still legible on the tomb, but the inscriptions, arms, and even </p>
+                <pb n="p.49"/>
+                <fw>p.49</fw>
+                <p> </p>
+                <p> the features are defaced, not only by the rude hand of time, but hands still
+                    more mischievous. Vaenol is on the shore of the <placeName ref="pl1564">Menai</placeName>, about four miles from <placeName ref="pl1565">Caernarvon</placeName>. The present lord is <persName ref="pe0944">Ashton
+                        Smith</persName> Esqr .</p>
+                <p> </p>
+                <p>Were I a great Welsh heiress, descended from the Madogs and Molwynogs of the
+                    country, I would not change my name for that of Oakley or Smith. If I could not,
+                    like <persName ref="pe2195">Lady Penrhyn</persName>, marry into my own family, I
+                    would, at least, give myself and my possessions to one of my countrymen. </p>
+                <p> </p>
+                <p> Letter 12 </p>
+                <p> </p>
+                <p style="right"><placeName ref="pl1565">Caernarvon</placeName>, Sept 13 1797</p>
+                <p>My Dear Brother,</p>
+                <p> </p>
+                <p>I am sorry <hi rend="subscript">^</hi><hi rend="superscript">that</hi> I must
+                    confine my good opinion of the people of <placeName ref="pl0731">Wales</placeName> to those who have had little intercourse with the
+                    English. Some years ago a few persons of taste and curiosity visited the noble
+                    scenery of <placeName ref="pl0731">Wales</placeName>. They found the inhabitants
+                    simple and honest; the accommodations very indifferent; and the roads almost
+                    impracticable. From the report of these, other tourists have followed; till they
+                    have come in swarms; and these chiefly the rich and the great. The consequence
+                    has been that the roads are improved; the farms are raised; money is introduced;
+                    and the people are rapacious. An honest Welsh clergyman lamented <hi rend="superscript">to me</hi> that the English Mountain-hunters ha<hi rend="superscript">ve</hi>d his country so dear that he <del>cannot</del>
+                    <hi rend="subscript">^</hi><hi rend="superscript">could</hi> not afford to live
+                    in it. Four or five of the principal inns on this road are kept by Englishmen,
+                    who set an example to the natives. They are only inferior to the English inns in
+                    convenience, accommodations, and attendance: not at all in expence. I am sorry
+                    for it; the English will improve the country and spoil the inhabitants.</p>
+                <p>One instance of that English magnificence which teaches the Welsh</p>
+                <pb n="p.50"/>
+                <fw>p.50</fw>
+                <p> </p>
+                <p>not to under rate their services, we heard from the poor old Barber who shews the
+                    castle. He had just gone over it with <hi rend="subscript">^</hi>
+                    <hi rend="superscript">a party of</hi> three gentlemen, who had given him three
+                    half crowns for his trouble. He would gladly have mowed the beards of ninety of
+                    his countrymen for the same sum! And an instance of their profiting by the
+                    lesson I had from a young man, who hired a sorry keffil at <placeName ref="pl1565">Caernarvon</placeName> for a day to visit <placeName ref="pl1518">Beddgelert</placeName>, twelve miles distant, and, on his
+                    return, in the evening, the owner charged him ten shillings. </p>
+                <p> </p>
+                <p><placeName ref="pl1565">Caernarvon</placeName>, though it seems to a stranger
+                    half Welsh and half English, is not so; there are few Englishmen reside in it,
+                    and still fewer women. All the trades-people, all the poor people, all the
+                    sailors, are Welsh. Many of the gentry are Irish. It was a matter of surprize to
+                    me, when I first came, to find so large a number of lodgings, and so <hi rend="subscript">^</hi>
+                    <hi rend="superscript">small a number</hi> of sea-bathers. But I understand that
+                    it is common for the Irish to live too fast in their own country, and to come
+                    here to live back again. They are, however, of such a social and convivial turn,
+                    that when a number of them meet, they dine drink, and play, and are obliged to
+                    quit <placeName ref="pl1565">Caernarvon</placeName>, for the same reason.</p>
+                <p> </p>
+                <p>The introduction of travellers and riches has made an odd jumble in the dress of
+                    the middling class of women here. They mingle the cotton manufacturers of
+                        <placeName ref="pl0489">Manchester</placeName> with their own wool, and
+                    often hold up a gown with all the colours of the rainbow to display a petticoat
+                    of the original striped woolen of the country. </p>
+                <p> </p>
+                <p>The poor people live in wretched huts, in the suburbs, though they join each
+                    other, and form a street. They have often but one room, which holds the family
+                    day and night. The floor is unpaved, or rudely laid with large stones, and the
+                    light is admitted by one shabby window, but the door is always open; and one
+                    sees the mother and frequently the grand</p>
+                <pb n="p.51"/>
+                <fw>p.51</fw>
+                <p> </p>
+                <p>mother spinning or knitting, and the finest rosy children that imagination can
+                    conceive playing around them. To say nothing of the pigs, for they are joint
+                    tenants, as well as free of the city. They are invariably clad (that is, not the
+                    pigs but the women) in a woolen bedgown and petticoat. Some have coarse shoes
+                    and no stockings; many have stockings that reach to the foot, and fasten by a
+                    loop round the second toe, and no shoes. Patched garments are often seen, ragged
+                    ones scarcely ever.</p>
+                <p> </p>
+                <p>I have already said that the Methodists of <placeName ref="pl1221">North
+                        Wales</placeName> are very numerous. They have a general meeting once a
+                    year, alternately at <placeName ref="pl1565">Caernarvon</placeName> and
+                        <placeName ref="pl3213">Pwllheli</placeName>; when they assemble out of
+                    doors; for no building could contain them. On these occasions their ministers
+                    preach to them successively, till they are wrought up to such a pitch of
+                    enthusiasm, that they first groan and distort their features; then throw their
+                    heads about; then their arms; and then they begin to jump; which they continue
+                    to do so long, and with such violence, that the women have been known to jump
+                    out of their hats, caps, and handkerchiefs, and, almost, out of their
+                    petticoats. [------------]</p>
+                <p> </p>
+                <p>The market at <placeName ref="pl1565">Caernarvon</placeName> is much crowded, but
+                    many of the articles of sale are not regularly supplied. They are brought by the
+                    country people round and are, as at the fair of <placeName ref="pl3129">Cerig y
+                        Druidion</placeName>, the overflowing of the family. One brings to market
+                    bread, another cheese, another oat cakes, <hi rend="subscript">^</hi>
+                    <hi rend="superscript">poultry</hi>, shoes, with wooden soles, a pair of woolen
+                    stockings, a remnant of linsey, a roll of flannel, vegetables, gooseberries,
+                    apples, or mats, halters or horse furniture, made of fine rushes. Buttermilk </p>
+                <pb n="p.52"/>
+                <fw>p.52</fw>
+                <p> </p>
+                <p>and potatoes never fail. Money will not purchase the whole of what you see. I
+                    once inquired the price of a basket of eggs. The woman wanted to barter them for
+                    yeast. Another basket was only to be exchanged for old linen to wrap a little
+                    stranger in, whom its owner expected soon to bring into the world.</p>
+                <p> </p>
+                <p>On market day the country people pour into <placeName ref="pl1565">Caernarvon</placeName> on horseback, six women at least, to one man.
+                    Sometimes the keffil carries wooden boxes, with covers, on each side; sometimes
+                    coarse wicker panniers, sometimes the woman <hi rend="subscript">^</hi>
+                    <hi rend="superscript">has</hi> only a basket on her arm; but I have a notion it
+                    often happens that the whole lading is not worth half-a-crown. If she be a poor
+                    woman, she turns her horse loose into a wide part of the street, from whence he
+                    is never known to stray; if one of the better sort, she pays a penny for his
+                    standing in a small paddock. In either case he waits for her ready bridled and
+                    saddled, till the afternoon if not the evening. Oats are a luxury the poor
+                    beasts never know, they are meat for their masters; and, I daresay, they are
+                    never indulged with a morsel of hay while it is possible for skin and bone to
+                    pick a scanty subsistence off the ground. The country people carry back
+                        <del>hats</del> the small part of their apparel <hi rend="subscript">^</hi>
+                    <hi rend="superscript">made of cotton</hi>, the few luxuries they can afford to
+                    purchase, and any of their neighbours who may chance to be on foot, for sparing
+                    the poor horse is an idea that never enters their heads.</p>
+                <p> </p>
+                <p>There is a printing press at <placeName ref="pl1565">Caernarvon</placeName>; I
+                    believe the only one in <placeName ref="pl1221">North Wales</placeName>,<note type="editorial">Written above this phrase in a later hand ‘See p.98’. The
+                        printing press in Caernarfon was very recent – set up in a room off the High
+                        Street in 1796 by Thomas Roberts, who had learned his craft in the religious
+                        community at Trefecca, near Talgarth in Breconshire. Hutton is right to
+                        suggest that the bulk of printing presses were based in south and mid-Wales,
+                        although Holywell and Mold had also seen new arrivals in 1796. See Ifano
+                        Jones, <hi rend="italic">Printing and Printers in Wales and
+                            Monmouthshire</hi> (William Lewis: Cardiff, 1925) 146-48.</note> except
+                    one at <placeName ref="pl0792">Wrexham</placeName>; and there are all sorts of
+                    shop-keepers, in a creditable style. But the grand article of commerce at
+                        <placeName ref="pl1565">Caernarvon</placeName> is the slates, which are
+                    brought down from the mountains and piled up by millions on the quay, waiting
+                    their turn to be shipped off. <placeName ref="pl1565">Caernarvon</placeName> is
+                    an encreasing town, and land for building upon, difficult to be got.</p>
+                <pb n="p.53"/>
+                <fw>p.53</fw>
+                <p> </p>
+                <p>The weather, since I have been here, has been one continued storm. You know I do
+                    not hope to climb mountains; for high places are as much forbidden to me now, as
+                    they were to the children of Israel of old. I look at those which form a chain
+                    near this place with awe, almost with reverence. I long to see the beautiful
+                    scenes they inclose, and have made two attempts to reach them; but have been
+                    glad to escape from approaching rain. There is a fatality attends my designs on
+                    the mountains, and such is the impression they have made on my mind, that I
+                    sometimes think I should not dare to look on them, if I were there. </p>
+                <p> </p>
+                <p><placeName ref="pl2862">Snowdon</placeName>, though only nine miles distant,
+                    cannot be seen from <placeName ref="pl1565">Caernarvon</placeName>, or any place
+                    in its immediate vicinity, being intercepted by a large round smooth mountain,
+                    called <placeName ref="pl3126">Moel Elian</placeName>. I pay my daily devotion
+                    to one of his sons from the top of a rocky hill, that rises at the back of the
+                    Hotel, and think myself very fortunate if I can see a small part of the object
+                    of my adoration, which emerges from behind that mountain; but in general, like
+                    other idolators, I worship in the dark.</p>
+                <p> </p>
+                <p> Letter 13 </p>
+                <p> </p>
+                <p style="right"><placeName ref="pl1565">Caernarvon</placeName>, Sept 22, 1797</p>
+                <p> </p>
+                <p>My Dear Brother,</p>
+                <p> </p>
+                <p>At last I have got among these mountains, so long the objects of my ardent
+                    curiosity. I have seen the Lakes of <sic>Llanberris</sic>, which fill the space
+                    between two of the most magnificent ranges of them, and I have been to
+                        <placeName ref="pl1518">Beddgelert</placeName> and <placeName ref="pl1525">Pont Aber Glaslyn</placeName>. In the first of these vales the foot of
+                        <placeName ref="pl2862">Snowdon</placeName> is close on the right hand; in
+                    the second, on the left. In my way to the Lakes of Llanberris, and about two
+                    miles from this place, I crossed the river which issues out of them, and into
+                    the sea here. By dint of inquiries I have found out that its true name is the St
+                        Helen’s<note type="editorial">A chapel to St Helen (Capel Elen) was situated
+                        on the banks of the Seiont; the saint/princess is associated in medieval
+                        Welsh texts with the building of a Roman road (Sarn Elen).</note></p>
+                <pb n="p.54"/>
+                <fw>p.54</fw>
+                <p> </p>
+                <p>and that it is vulgarly called the <placeName ref="pl3128">Seont</placeName>. In
+                    its short course it is crossed by three bridges. This is <placeName ref="pl3138">Pont Rûg</placeName>; the next, on the road to <placeName ref="pl1518">Beddgelert</placeName>, is <placeName ref="pl3139">Pont
+                        <sic>Newyd</sic></placeName>; and the third, on the road to <placeName ref="pl3213">Pwllheli</placeName>, is <placeName ref="pl3140">Pont
+                        Saint</placeName>. In the centre of Pont Rûg is an iron plate, with this
+                    inscription, <hi rend="underline">Harry Parry, the modern Inigo, erected this
+                        bridge 1770</hi><note type="editorial">Cf Peter Bayley Williams, ‘After
+                        travelling about a mile and a half from Carnarvon, we obtain a view of the
+                        River Seiont, and having proceeded along its banks a short way, we cross it,
+                        over a handsome Arch, built in 1769, by one Henry Parry, as appears by a
+                        stone in the Battlement, and where he is undeservedly denominated the modern
+                        Inigo’, <hi rend="italic">The Tourist’s Guide</hi> (1821) p. 107. </note>.
+                    The bridge has one noble arch, and for aught I know, the work of the modern
+                    Inigo may be worthy of the first.</p>
+                <p> </p>
+                <p>Between one and two miles farther, a gate opens into a large tract of rocky land,
+                    that has no barrier to divide it from the mountains, and the road across it is
+                    like a rugged, ill-paved street. You will here observe that, in this country,
+                    nature lets herself down softly. After producing tremendous mountains, she forms
+                    rocky hills, and then, rugged, broken ground, until she reaches the sea. A
+                    hollow in this range of hills, I now got over, and on the other side had a view
+                    of the Lakes of Llanberis. They were closely hemmed in by the mountains;
+                        <placeName ref="pl2862">Snowdon</placeName> distinguished from the rest by
+                    its summit being covered by a cloud. The place is called <placeName ref="pl3141">Cwm y Glo</placeName>: I believe, the Hollow of the Glowing Coal. For what
+                    reason I know not. It contains a few poor houses. </p>
+                <p>After another week of storms, I found a fine morning, and set out for <placeName ref="pl1518">Beddgelert</placeName> with Pennant’s description of the road,
+                    as far as <placeName ref="pl2862">Snowdon</placeName>, in my pocket, as well as
+                    my head; for, fearful of missing the grand object of my research, I transcribed
+                    it before I left home. I passed the <placeName ref="pl2020">church of
+                        Llanbeblic</placeName>, and after crossing the <placeName ref="pl3128">Seont</placeName> at <placeName ref="pl3139">Pont Newyd</placeName>, I
+                    passed <placeName ref="pl3142">Glandwna</placeName>, a house and estate lately
+                    purchased by an English gentleman, who is shewing the Welsh what English money
+                    and English skill can perform in agriculture.<note type="editorial">Thomas Lloyd
+                        of Shrewsbury; his daughter, Frances Williams (b. 1798) was an Anglesey
+                        artist, a co-founder of the Anglesey Lifeboat Association and the
+                        grandmother of the C20<hi rend="superscript">th</hi> Welsh artist Kyffin
+                        Williams.</note></p>
+                <p>The road keeps still ascending. At about three miles on the right is a large old
+                    uninhabited house so completely covered in ivy that <hi rend="italic">^</hi>
+                    <hi rend="superscript">it</hi> seems built of green leaves. Still ascending, I
+                    came to a continuation of the </p>
+                <pb n="p.55"/>
+                <fw>p.55</fw>
+                <p> </p>
+                <p>rocky open ground I had crossed on my way to the Lakes of Llanberis, and then
+                    went down into a valley where I found an excellent road between two green
+                    hedges, a river and a bridge. I now began to con my lesson. <hi rend="underline">Crossed the Fai or <placeName ref="pl3163">Gwyrfai</placeName> at
+                            <placeName ref="pl3165">Pont y Bettws</placeName></hi> (the Bridge of
+                    the Bead-house, or religious house). <hi rend="underline">Went through the
+                        village of Bettws. Under <placeName ref="pl3126">Moel Elian</placeName>, a
+                        round, smooth, stupendous mountain covered with smooth green turf. By the
+                            <placeName ref="pl1526">Lake Cwellyn</placeName>, which here almost
+                        fills the valley. Above, on the right, soars the magnificent
+                            <sic>Mynnydd</sic> Vawr, but the sides receeding inwards, exhibiting a
+                        tremendous precipice. Soon after the vale expands, and <placeName ref="pl2862">y Wyddfa</placeName> appears in full view.</hi> Nothing
+                    could be more correct than this description. I had passed the <placeName ref="pl3163">Gwyrfai</placeName> at <placeName ref="pl3165">Pont y
+                        Bettws</placeName>; I had passed through the village of <placeName ref="pl2855">Bettws</placeName>, which is situated directly under <placeName ref="pl3126">Moel Elian</placeName>, and consists of about half a dozen
+                    houses and a church. The road still proceeded along the bottom, and crossed
+                    innumerable little torrents, which, in this rainy season, rush down the
+                    mountains. On the right was a few starved meadows, now half under water, and
+                    beyond these, Mynnedd Vawr, well deserving the epithet Magnificent. In front, at
+                    the end of the vale, was <placeName ref="pl3166">Nant mill</placeName>, and a
+                    beautiful cascade, not high, but broad and rapid. At the mill the road wound
+                    suddenly to the left, and I entered the margin of <placeName ref="pl1526">Cwellyn Pool</placeName>. I rode more than a mile by its side. Having
+                    passed the lake I rode on; the vale instead of expanding became narrower. Where
+                    was <placeName ref="pl2862">y Wyddfa</placeName>? Mountains upon mountains could
+                    I see, but no <placeName ref="pl2862">Wyddfa</placeName>, though there was not a
+                    cloud in the atmosphere! [---] I had passed that too! I, who knew <placeName ref="pl2862">Snowdon</placeName> so well, who had seen it on two sides, and
+                    had contemplated it four days together on one of them when I was in
+                    Merionethshire, had ridden over its base, not without seeing it, but without
+                    knowing it was <placeName ref="pl2862">Snowdon</placeName>. To this error two or
+                    three circumstances might contribute. I now saw <placeName ref="pl2862">Snowdon</placeName> on a third side, where its appearance was</p>
+                <pb n="p.56"/>
+                <fw>p.56</fw>
+                <p> </p>
+                <p>different. It is a mighty mountain among others, which, from the bottom, appear
+                    almost as great. Had I been on the summit, it would have had no competitor. And,
+                    with due submission to Pennant, whom nobody admires more than myself, I think he
+                    helped to mislead me; for the Vale expands, and <placeName ref="pl2862">y
+                        Wyddfa</placeName> appears, not <hi rend="underline">after</hi> the
+                        <placeName ref="pl1526">Lake Cwellyn</placeName> but before it. The foot of
+                    the mountain <hi rend="underline">is</hi> the side of the lake, and the guide’s
+                    house is at the head of it; from whence the most common and most easy ascent
+                    begins. <hi rend="subscript">^</hi>
+                    <hi rend="superscript">It is three miles and three quarters to the summit</hi>.
+                    The lake was now a beautiful, still water, and the mountains reflected on it
+                    made almost its whole surface green. It is something less than a quarter of a
+                    mile in breadth. When I discovered <hi rend="subscript">^</hi>
+                    <hi rend="superscript">my error</hi> I was still descending with the <placeName ref="pl3167">River Colwyn</placeName> to <placeName ref="pl1518">Beddgelert</placeName>.</p>
+                <p> </p>
+                <p>From the moment we enter <placeName ref="pl2855">Bettws</placeName> there is no
+                    losing the way, no turning to the right or left. It is a continued defile
+                    between two ranges of mountains, that I believe never recede from each other
+                    half a mile. At the upper end of <placeName ref="pl1526">Cwellyn</placeName>
+                    there is a pass on the right called <placeName ref="pl3093">Drws y
+                        Coed</placeName>, but it is so insignificant I did not see it. It leads
+                    through the Nant or <placeName ref="pl3168">Vale of Nantlle</placeName>, passes
+                    by two small lakes in the vale, called <sic>Llyniau</sic> Nantlle, and ends at
+                    the village of <placeName ref="pl2034">Llanllyfni</placeName>, in the road from
+                        <placeName ref="pl1565">Caernarvon</placeName> to <placeName ref="pl1670">Penmorfa</placeName> and <placeName ref="pl1594">Criccaeth</placeName>. I
+                    believe it can only be explored on foot. In this unfrequented and almost
+                    inaccessible <placeName ref="pl3168">Vale of Nantlle</placeName> is a farm so
+                    considerable that it keeps three hundred goats, two thousand sheep, and a dairy
+                    of thirty cows; besides fourscore head of other cattle. It produces oats, but
+                    neither wheat nor barley will ripen.</p>
+                <p> </p>
+                <p>At <placeName ref="pl1518">Beddgelert</placeName> is the first visible opening in
+                    the mountains. It is the junction of three vales. The rivers <placeName ref="pl3167">Colwyn</placeName> and <placeName ref="pl3205">Glaslyn</placeName> make each one, and they join together to form a third.
+                    Two or three miles below, the united waters rush into the sea, at <placeName ref="pl1524">Traeth Mawr</placeName>.</p>
+                <pb n="p57"/>
+                <fw>p.57</fw>
+                <p> </p>
+                <p><placeName ref="pl1518">Beddgelert</placeName> is beautifully situated among a
+                    few fertile meadows, embosomed in lofty mountains. It contains a church and
+                    several houses, one of which is a decent inn. As I contemplated the tombstones
+                    in the churchyard, and considered the age of man, I found that, among the
+                    mountains, as in populous cities, his term is limited; the number of his years,
+                    which he cannot pass, and I have not been able to ascertain that local
+                    circumstances materially shorten or extend his days. </p>
+                <p> </p>
+                <p>The origin of the name <placeName ref="pl1518">Beddgelert</placeName> has been
+                    detailed in verse and prose. Such places are probably not to be found in
+                        <placeName ref="pl0731">Wales</placeName> alone; for I remember meeting with
+                    a similar story in the studies of my infancy. I think, in that famous book, The
+                    Seven Wise Masters.<note type="editorial">A widespread text originally deriving
+                        from India, which included the story of the faithful greyhound. There were
+                        several C18th editions which Hutton could have read, including <hi rend="italic">The Famous history of the seven wise masters of Rome</hi>
+                        (Printed and sold in Aldermar Church Yard, Bow-Lane, London [?1750]). It is
+                        also known as ‘The Seven Sages of Rome’.</note></p>
+                <p> </p>
+                <p>A Prince of <hi rend="superscript">Wales</hi>, on his return from hunting, was
+                    met by his favourite dog, who had been left behind: the <hi rend="superscript">animal</hi> expressed his joy, on seeing his master, by every means that
+                    eyes, and paws, and tail could devise. Not so the master. He observed that the
+                    dog was covered with blood, and he saw that the cradle of his only son was
+                    overturned on the floor. "Wretch!" cried he, "thou hast killed my son!" He drew
+                    his sword, and, as retributive justice demanded, killed the dog. He then did
+                    what he might as well have done before - he took up the cradle to examine into
+                    the particular circumstances of the fact, and found the boy unhurt, and a dead
+                    serpent lying near him. Concluding that the dog had slain the serpent in the
+                    child's defence, and touched with remorse for having destroyed the dog, he
+                    resolved to make him all the amends now in his power. He interred him
+                    honourably, and erected a church over his remains. It was called <hi rend="underline">Bedd</hi>, which to this day in Welsh signifies <hi rend="underline">Grave</hi>; and <hi rend="underline">Gelert</hi> was the
+                    name of the dog. </p>
+                <p> </p>
+                <p>From <placeName ref="pl1518">Beddgelert</placeName> I walked to <placeName ref="pl1525">Pont Aber Glaslyn</placeName>, a mile and a half </p>
+                <pb n="p.58"/>
+                <fw>p.58</fw>
+                <p> </p>
+                <p>distant, which is reckoned one of the wonders of <placeName ref="pl0731">Wales</placeName>. The bridge itself is not particularly striking, but the
+                    scenery above it forms the grandest spectacle I ever saw. The river descends in
+                    perpetual cascades, and foams among enormous rocks, through a chasm [-----]
+                    between mountains of a stupendous height. It fills the whole space, at the
+                    bottom; the road being cut out of the rock, a little above it. When I looked up,
+                    scarcely could my aching eyes reach the tops of the mountains; yet halfway up.
+                    On one side, was a man, reduced to a puppet, burning fern; a more dreadful trade
+                    than gathering samphire on Dover Cliff.<note type="editorial">‘Half way down/
+                        Hangs one that gathers samphire, dreadful trade’. Shakespeare, <hi rend="italic">King Lear</hi>, IV:vi. Bracken was used as animal bedding,
+                        and the ash in soap-making.</note></p>
+                <p> </p>
+                <p>If I were to form a comparison between <placeName ref="pl1525">Pont
+                        Aberglaslyn</placeName> and <placeName ref="pl2829">Pont y Glyn</placeName>,
+                    I should say, that one was wildly grand, the other exquisitely beautiful. The
+                    first is a dashing river, and the look <hi rend="subscript">^</hi>
+                    <hi rend="superscript">up</hi> is tremendous; the second is a smaller river, and
+                    the look down is to its narrow rocky channel, sprinkled, and sometime almost
+                    hidden, by wood.</p>
+                <p> </p>
+                <p>I stood upon <placeName ref="pl1525">Pont Aber Glaslyn</placeName> and
+                    congratulated myself on having seen that, and <placeName ref="pl1571">Tan y
+                        Bwlch</placeName>, without either passing the seven miles of rock road
+                    above, or fording the Traeth below, which divides them. [----] From the bridge I
+                    saw the beginnings of the sands of <placeName ref="pl1524">Traeth
+                        Mawr</placeName>. </p>
+                <p> </p>
+                <p>At <placeName ref="pl1518">Beddgelert</placeName> begins the <placeName ref="pl2901">Nant Gwynan</placeName>, from which the <placeName ref="pl3205">Glaslyn</placeName> comes down from its source on <placeName ref="pl2862">Snowdon</placeName>. It is reckoned the most picturesque vale in <placeName ref="pl0731">Wales</placeName>, and contains two lovely lakes. It is with
+                    sorrow I say I have not seen it. I would willingly have walked a few miles up
+                    it, but I was informed the beginning was not worth my pains, and the <hi rend="subscript">^</hi>
+                    <hi rend="superscript">beautiful</hi> part was out of my reach. The lakes are
+                    six or seven miles a</p>
+                <pb n="p.59"/>
+                <fw>p.59</fw>
+                <p> </p>
+                <p>bove <placeName ref="pl1518">Beddgelert</placeName>. I just looked into
+                        <placeName ref="pl2901">Nant Gwynan</placeName>, and saw a narrow glen
+                    between the mountains, with a road paved with stones from the size of an orange
+                    to that of a flag, laid in all directions, hills, and hollows, and grass growing
+                    out of every crevice. The Welsh horses travel it in safety, and I saw a man ride
+                    along it with a composure that I envied; but I believe no Englishman would even
+                    walk it, without looking, where he must next place his foot.</p>
+                <p> </p>
+                <p>A very worthy and intelligent <hi rend="superscript">gentle-</hi>man of
+                        <placeName ref="pl1565">Caernarvon</placeName>, whose profession leads him
+                    all over the county, and who never went the same road twice, while another
+                    remained that led to the same place, allows the road up <placeName ref="pl2901">Nant Gwynan</placeName> to be very bad, but says there is one over the
+                    mountains to the right of that vale, which goes to <placeName ref="pl3169">Dolwyddelan</placeName>, which is the worst he ever saw. On my return from
+                        <placeName ref="pl1518">Beddgelert</placeName> I saw <placeName ref="pl2862">Snowdon</placeName> in perfection; every atom of his vast surface was
+                    visible, and, to make amends for my former neglect, I looked at him as if I
+                    would get acquainted with every atom. </p>
+                <p> </p>
+                <p>I hope you are not so much fatigued with my excursion as I was. I was ten hours
+                    out, nine of which I was on foot, or on horseback. My stockings were shattered,
+                    my feet were blistered, and I was almost ready to prove, according to the
+                    opinion of some great philosophers, that man is a quadruped, by crawling on all
+                    fours. </p>
+                <p> </p>
+                <p> Letter 14 </p>
+                <p> </p>
+                <p style="right"><placeName ref="pl1565">Caernarvon</placeName>, Sept 29, 1797</p>
+                <p> </p>
+                <p>My Dear Brother,</p>
+                <p> </p>
+                <p>This is a gala day at <placeName ref="pl1565">Caernarvon</placeName>; a kind of
+                    city feast, at chusing the magistrates. But the city is saved the expence of it,
+                    by the liberality of a neighbouring nobleman, who out of gratitude for their not
+                    voting in direct opposition to his wishes at an election, indulges about a
+                    hundred Welshmen, once a year, with as much good eating as</p>
+                <pb n="p.60"/>
+                <fw>p.60</fw>
+                <p> </p>
+                <p>they can cram, and more good drinking than they can carry. The ladies have a
+                    ball.</p>
+                <p> </p>
+                <p>The shore at <placeName ref="pl1565">Caernarvon</placeName> is pebbles; but, as
+                    the descent is pretty quick, the bathers are soon in the water. What are called
+                    bathing machines on the English part of the coast are here, as well as at
+                        <placeName ref="pl1519">Barmouth</placeName>, with strict propriety, called
+                    bathing houses: for if the term machine imply motion, which I apprehend it does,
+                    these have no title to the name, though they have wheels. They are merely used
+                    for dressing and undressing, and the bathers have to walk from them <hi rend="underline">to</hi> the water, and <hi rend="underline">into</hi> the
+                    water, be the same more or less. On the flat shore of <placeName ref="pl1519">Barmouth</placeName>, it could not well be more, if one bathed at low
+                    water. At both places the nothing is regulated by the tide, to prevent the
+                    inconvenience of a long promenade. At <placeName ref="pl1519">Barmouth</placeName>, the sea-guide gives you a total immersion, if you
+                    chuse it, by pouring on your head a bucket full of salt water. I shall never
+                    forget my feelings on the occasion. I would have cried out for mercy, but I
+                    could not speak; and I would have run away but I could not move. I could only
+                    stand still and sob <del>violently</del> piteously.</p>
+                <p> </p>
+                <p>In fine weather the Welsh ladies frequently prefer undressing in the open air to
+                    being shut up in a bathing house. They sit down on the shore, and exchange their
+                    cloaths for the bathing dress, and the bathing dress for their cloaths, with a
+                    decency and dexterity that leaves them nothing to fear; as they do not fear
+                    catching cold.</p>
+                <p> </p>
+                <p>The civility of the Welsh bathing women it is unnecessary to mention. It is the
+                    trade of these people, everywhere, to be civil. And as most females look up to
+                    them for protection when they have their powerful element to contend with, it
+                    gives them an opportunity to throw in a little kindness. At <placeName ref="pl0043">Scarborough</placeName> they carry this to such a pitch that
+                    they call you my lady, my love, and my honey, in the same breath. </p>
+                <pb n="p.61"/>
+                <fw>p.61</fw>
+                <p> </p>
+                <p>At <placeName ref="pl1519">Barmouth</placeName> I asked our sea-guide,
+                        Gwinnah,<note type="editorial">Gwinnah appears as a character in Hutton’s
+                            novel,<hi rend="italic"> The Welsh Mountaineer</hi> (1817).</note> how
+                    old she was? She could have told me in Welsh, in a moment, but the question
+                    puzzled her English arithmetic. She hesitated, and answered: “Twelve above
+                    twenty, and two above that.” </p>
+                <p> </p>
+                <p>Accidents appear to me frequent at <placeName ref="pl1565">Caernarvon</placeName>. During my short stay, I have seen a mother led along
+                    the street, in agonies for her drowned child; and a number of sailors searching
+                    the sands, at low water, for the body of their drowned comrade. </p>
+                <p> </p>
+                <p>The <placeName ref="pl2020">church</placeName> at Llanbeblic is crowded with
+                    tombs, almost every poor person affording a slate, laid flat upon a little brick
+                    and mortar, to tell the passenger he lived and died. I saw only two inscriptions
+                    at all remarkable, and these only as they related to particular customs. The
+                    first was:</p>
+                <p> </p>
+                <p>Here lieth the body of Robert Ap Richard of <placeName ref="pl1565">Caernarvon</placeName>, Glazier, who died the 5 day of June 1703. Aged 44
+                    years.</p>
+                <p> </p>
+                <p>This was before the Welsh had fully obeyed the order to assume sirnames. <hi rend="underline">Ap</hi> Richard was the <hi rend="underline">son</hi> of
+                    Richard, and <hi rend="underline">his</hi> son probably took the sirname of
+                    Pritchard.</p>
+                <p> </p>
+                <p>The other was exactly as follows.</p>
+                <p> </p>
+                <p>Underneath</p>
+                <p>Lie the remains of Elizapeth</p>
+                <p>Piter wife of Ropert Rowland</p>
+                <p>Who departed this life April the 28<hi rend="superscript">th</hi> 1790 </p>
+                <p>Aged 80</p>
+                <p> </p>
+                <p>It should seem by this that the Welsh women, like the Scotch, do not always go by
+                    the names of their husbands. Elizabeth Peter was still so called, though the
+                    wife of Robert Rowland. Whether this is a general custom among the lower sort of
+                    people I know not.</p>
+                <p> </p>
+                <p>I do not give the latter inscription as a specimen of common Welsh orthography;
+                    for I have not, in <placeName ref="pl0731">Wales</placeName>, seen anything like
+                    it.</p>
+                <pb n="p.62"/>
+                <fw>p.62</fw>
+                <p> </p>
+                <p>The profession of the bard is not extinct in <placeName ref="pl1221">north
+                        Wales</placeName>; though I believe some other occupation is generally
+                    annexed to it, to procure a livelihood. The Welsh still have Bards, who compose
+                    extempore verses, and sing them to the harp; and, as one of the most celebrated
+                    of ancient times was denominated, <persName ref="pe2211">Rhys Coch yr
+                        Eiryri</persName>, Rhys the Red, of <placeName ref="pl2862">Snowdon</placeName>, so one of the most celebrated of the present day is
+                    called <persName ref="pe2212">Dafydd Dû</persName>, yr Amlwch, <hi rend="superscript">David the Black, of Amlwch</hi>;<note type="editorial">David Thomas (Dafydd Ddu Eryri, 1759-1822). In 1796 he had obtained the
+                        post of ‘Coal-Meter’ (measuring coal) at Amlwch copper mines on Anglesey;
+                        Hutton’s reference to him as Dafydd Du ‘of Amlwch’ is thus highly topical,
+                        since he did not remain in this role for long.</note> from their respective
+                    complexions, and places of residence. These Bards form themselves into
+                    societies, and elect a president; who, at their meetings, gives a subject, upon
+                    which each man present makes verses, without hesitation. Those which the
+                    president deems the best are intitled to a prize. The Welsh say, that some of
+                    these compositions of the moment have great merit; but that they lose much on
+                    being translated into English.</p>
+                <p> </p>
+                <p>On the opposite side of the river at <placeName ref="pl1565">Caernarvon</placeName> is a summer house, which crowns the top of a steep
+                    hill, covered with wood. It is, itself, a distinguished object and commands an
+                    extensive view both of sea and land. [xxxxxxxxxxxx].<note type="editorial">Seven
+                        lines are scored through here, and are illegible.</note> The place is called
+                    Coed Ellen, the Wood of Helen. If you have any desire to become acquainted with
+                    this female saint, the lady patroness of both wood and river, I must inform you
+                    that she is Helen, the mother of Constantine.</p>
+                <p> </p>
+                <p>But ask me no further I beseech you, lest I betray my ignorance; for though I
+                    have read</p>
+                <pb n="p.63"/>
+                <fw>p.63</fw>
+                <p> </p>
+                <p>I think of Helen, mother of the Emperor Constantine, I never heard of her travels
+                        <placeName ref="pl0731">Wales</placeName>.<note type="editorial">Helen
+                        mother of the Emperor Constantine, (246/248-c. 330) is frequently conflated
+                        with 'Elen Luydawc' ('Elen of the Hosts'), who appears in the Welsh medieval
+                        legend 'Macsen Wledig' as a princess of Segontium (Caernarfon), wife of
+                        Magnus Maximus (fourth century ruler of Britain).</note></p>
+                <p> </p>
+                <p>I have walked from the quay at <placeName ref="pl1565">Caernarvon</placeName>, by
+                    the side of the river, up to <placeName ref="pl3140">Pont Saint</placeName>, and
+                    from thence have accompanied it to <placeName ref="pl3139">Pont
+                        <sic>Newyd</sic></placeName>. I endeavoured to trace it up to <placeName ref="pl3138">Pont Rûg</placeName>, but bogs and impenetrable brushwood
+                    compelled me to return. Its banks are generally steep and woody, with now and
+                    then a meadow. A carriage road runs along the <placeName ref="pl2022">Coed
+                        Ellen</placeName> side of the river, and joins the <placeName ref="pl3213">Pwllheli</placeName> road at <placeName ref="pl3140">Pont
+                    Saint</placeName>. The end of the avenue is closed by a mill which is an object
+                    truly picturesque.</p>
+                <p> </p>
+                <p>We leave this place next Wednesday, and leave it with the pleasant conviction
+                    that <placeName ref="pl0731">Wales</placeName> is not always so inhospitable as
+                    we first found it. Settled fair weather is settled here also, but stormy weather
+                    falls with a tenfold vengeance. Numberless are the people that go to see
+                        <placeName ref="pl2862">Snowdon</placeName>; but it is the lot only of a few
+                    favoured mortals to say they <hi rend="underline">have</hi> seen it. Many, in
+                    climbing it, have been overtaken by torrents of rain and gusts of wind that have
+                    obliged them to creep on their hands and knees; or cling to the rock, or their
+                    guide, to prevent their being blown down the precipices. I believe the reasons
+                    of the imperfect accounts given of <placeName ref="pl2862">Snowdon</placeName>
+                    are, first, because few can see it when they get there; and, secondly, because
+                    the few that can think of nothing but how they can get down.</p>
+                <p> </p>
+                <p> Letter 15 </p>
+                <p style="right"><placeName ref="pl1477">Denbigh</placeName>, Oct 6th, 1797</p>
+                <p> </p>
+                <p>My Dear Brother,</p>
+                <p> </p>
+                <p>Our road as far as <placeName ref="pl1049">Conwy</placeName> was the same that
+                    brought us to <placeName ref="pl1565">Caernarvon</placeName>. At <placeName ref="pl1049">Conwy</placeName> we exchanged our accommodation for the
+                        <placeName ref="pl3124">Harp</placeName>, where we met with good
+                    accommodation and civil treatment from the honest Innkeeper, +its master.<note type="authorial">+ He was afterwards drowned in crossing his own
+                        river</note> The best Harper I have heard in <placeName ref="pl0731">Wales</placeName> made me afraid to use my teeth at dinner, lest they
+                    should interrupt the office of</p>
+                <pb n="p.64"/>
+                <fw>p.64</fw>
+                <p> </p>
+                <p>my ears. </p>
+                <p> </p>
+                <p>We intended yesterday morning to have sent our horses four miles higher up the
+                    river to the Pont at <placeName ref="pl1596">Tal y Cefn</placeName>, rather than
+                    have had them dragooned into the ferry boat at <placeName ref="pl1049">Conwy</placeName>, as they were wholly unaccustomed to the water. But
+                    moderate measures succeeded; they entered the ferry without much difficulty, and
+                    we followed in the mail boat.</p>
+                <p> </p>
+                <p>The mail boat is moored with a running rope, and is always afloat. The passengers
+                    cross the river in all weathers and at all tides, but persons who can wait
+                    seldom chuse to go at less than half flood, or more than half ebb, on account of
+                    the wet sands they would have to walk over.</p>
+                <p> </p>
+                <p>I look with admiration on the mechanism of the mail-coaches. Not on the
+                    construction of their wheels and springs, <del>though the motion produced by
+                        these is as easy as anything, except sailing</del>, but on the whole,
+                    considered as one grand machine, pervading every part of the kingdom, and
+                    governed by invariable laws. As an individual, I never tried them but once. I
+                    was then struck with the singularity of finding the horses or the dinner waiting
+                    our arrival at the different inns, according as we were to proceed, or refresh
+                    ourselves, instead of having them to bespeak. It reminded me of those scenes of
+                    enchantment, where the castle door stands open, and the table is spread, before
+                    the stranger has even time to signify his wishes. I own I was also struck with
+                    another circumstance – as decent people do, sometimes, travel in stage-coaches;
+                    and as all, probably, pay for what they eat and drink, I was surprised that they
+                    should be regarded, at inns, as vagrants, who were whipped from town to
+                    town.</p>
+                <p> </p>
+                <p>The <placeName ref="pl1018">Holyhead</placeName> mail-coach leaves <placeName ref="pl0699">London</placeName> at seven o clock in the evening, and reaches
+                        <placeName ref="pl1018">Holyhead</placeName> about the same hour next
+                    morning but</p>
+                <pb n="p.65"/>
+                <fw>p.65</fw>
+                <p> </p>
+                <p>one; performing a journey of two hundred and eighty two miles in forty-eight
+                    hours. The fare is five guineas each person for the whole way, or sixpence per
+                    mile for any part. Each passenger pays a shilling at <placeName ref="pl3075">Conwy ferry</placeName>, and the same at <placeName ref="pl1563">Bangor
+                        ferry</placeName>. The packets from <placeName ref="pl1018">Holyhead</placeName> to <placeName ref="pl1673">Dublin</placeName> are fine
+                    sloops of 70 tons burthen. I saw one at <placeName ref="pl1565">Caernarvon</placeName>, wainscoted with mahogany, elegantly fitted up and
+                    furnished. They can carry a hundred persons each, but they only have sixteen
+                    beds. They are each allowed fourteen hands, though four would be sufficient to
+                    navigate the vessel. They are fast sailors, and will live in any sea, provided
+                    they have room. Indeed I was told there never was an instance of one being lost.
+                    For if it happened that they could not make the post for which they were bound,
+                    they were always bound to run into some other. They undergo a thorough
+                    examination once a year, when every failing is repaired, and as far as possible,
+                    prevented. The passage to or from <placeName ref="pl1673">Dublin</placeName>, is
+                    a guinea.</p>
+                <p> </p>
+                <p>But I forget I had just crossed the river <placeName ref="pl2384">Conwy</placeName>.</p>
+                <p> </p>
+                <p>We rode a short way along the Denbighshire bank of the river, and then turned to
+                    the left, up a narrow marshy road. [<del>xxxxxx</del>] The old road continued
+                    along this vale till it ended in the Irish Sea, and then bore to the right,
+                    along a great promontory called <placeName ref="pl3170">Penmaen
+                    Rhos</placeName>, where it was more terrific and dangerous than over <placeName ref="pl1338">Penmaen Mawr</placeName> itself.<note type="editorial">Cf
+                        Thomas Pennant, ‘In my memory the traveller went along a narrow path cut on
+                        its front, like the road on Penmaen Mawr, but infinitely more terrible and
+                        dangerous; a fine coach-road has of late been formed far behind this
+                        precipice.’ <hi rend="italic">Tour in Wales</hi> (1784) II, 334.</note>
+                    Fortunately for us, the new <hi rend="subscript">^</hi>
+                    <hi rend="superscript">road</hi> turned to the right before we reached it. We
+                    wound round the hills, and crossed them at what might be termed a miniature
+                    bwlch, and reached the sea by a shorter, as well as an easier way.</p>
+                <p> </p>
+                <p>I believe <placeName ref="pl3170">Penmaen Rhos</placeName> to have been the place
+                    where the unfortunate <persName ref="pe2268">Richard the second</persName> was
+                    betrayed by the Earl of Northumberland, because I know no other [<del>xxx</del>]
+                    that answers that description.</p>
+                <p>History says that when Henry Duke of Hereford, who then assumed the</p>
+                <pb n="p.66"/>
+                <fw>p.66</fw>
+                <p> </p>
+                <p>title of Duke of Lancaster, and soon after, that of <persName ref="pe0667">Henry
+                        the fourth</persName>, had proceeded as far as <placeName ref="pl0002">Chester</placeName>, and when <persName ref="pe2268">Richard the
+                        second</persName>, abandoned by his troops and [xxx] followers, had fled for
+                    refuge to <placeName ref="pl1049">Conwy</placeName> castle; that <persName ref="pe2268">Richard</persName> sent two noblemen to Henry, offering to
+                    resign his crown, and retire to private life, if his person might be safe. His
+                    ambassadors were not suffered to return. The Archbishop of Canterbury
+                    represented to Henry that it would be very difficult to take the King in such a
+                    country as <placeName ref="pl0731">Wales</placeName> where the mountains
+                    afforded numerous retreats inaccessible to an army; and advised that he should
+                    decoy his fallen sovereign by treachery. The Earl of Northumberland was sent to
+                        <placeName ref="pl1530">Conwy Castle</placeName>, where he obtained an
+                    audience of the King, and swore, upon the sacrament, that if he would dismiss
+                    his evil counsellors, whom he named, and accompany him to <placeName ref="pl0002">Chester</placeName>; the Duke of Lancaster would fall on his
+                    knees and ask for mercy. He assured him also that the Duke had taken the same
+                    oath.</p>
+                <p> </p>
+                <p>In an evil hour <persName ref="pe2268">Richard</persName> quitted his castle,
+                    deemed impregnable, and his vessels, which might have conveyed him out of the
+                    reach of his revolted subjects, and crossed the <placeName ref="pl2384">Conwy</placeName>, with only sixteen followers. He had not ridden more than
+                    four miles when he saw a body of armed men under a rock. The King perceived the
+                    snare into which he had fallen, and upbraided Northumberland with the breach of
+                    his oath. The Earl endeavoured to excuse himself by saying he had appointed the
+                    soldiers to meet them, only to guard the king’s person. The king replied there
+                    needed not so many; and that by his oath he was bound not to have more than the
+                    five who had accompanied him to <placeName ref="pl1049">Conwy</placeName>.
+                    Northumberland then threw off the mask, and told the king that since he had him,
+                    he would keep him.</p>
+                <p> </p>
+                <p>The sea beat on one side of the ill-advised and ill-fated monarch; impenetrable
+                    rocks rose on the other; a thousand lances and archers stood before him; and to
+                    return was impossible. He came down from the rock</p>
+                <pb n="p.67"/>
+                <fw>p.67</fw>
+                <p> </p>
+                <p>and surrendered himself to the traitor, who obliged him to take a little wine and
+                    bread; took him to <placeName ref="pl1978">Rŷddlan castle</placeName> to dinner,
+                    and to <placeName ref="pl2418">Flint castle</placeName> to lodge; where, the
+                    next morning, he was met by his adversary. – My indignation is roused by the two
+                    first peers of the realm, spiritual and temporal, the one contriving, and the
+                    other executing, so base a trick!</p>
+                <p> </p>
+                <p>From the time we reached the sea till we arrived at <placeName ref="pl1203">Abergeleu</placeName>, our road was that of <persName ref="pe2268">Richard</persName>. I saw no rock likely to have been the scene of this
+                    infamous transaction. On the contrary, we had fields of corn and grass, and even
+                    trees, which did not seem to suffer by the sea breezes. <placeName ref="pl3170">Penmaen Rhos</placeName> is such a rock. There, the sea would beat on the
+                    king’s left, the mountain would rise on his right, and the soldiers might be
+                    hidden from his view, till they were just under him, by the projection of the
+                    rock.</p>
+                <p> </p>
+                <p>After passing over a steep hill the country diminished in beauty and at eight
+                    miles from <placeName ref="pl1049">Conwy</placeName> we came to a village, the
+                    name of which I inquired. The man answered, in English, "Black-and-Blue." We
+                    concluded that he was a Welsh wit, who had a mind to divert himself at our
+                    expence, and rode on. Not quite satisfied, however, we repeated our question to
+                    the next man, who answering <placeName ref="pl3171">Llandûlas</placeName>, we
+                    were convinced of the ingenuity of our first informer. On mentioning the
+                    circumstance at <placeName ref="pl1203">Abergeleu</placeName>, we were told that
+                    the name of the place was really <placeName ref="pl3171">Llandûlas</placeName>,
+                    the signification of which in English was the Parish of Black and Blue.<note type="editorial">‘Du’ is black; ‘glas’ is blue. Dulas appears relatively
+                        frequently in Welsh place-names, and can also mean dark blue or blackish
+                        blue.</note> We then found our Welshman, instead of his wit, only shewed his
+                    learning. If the village takes its name from a patron saint, as most of the
+                    Welsh villages do, it is reasonable to suppose that Dûlas must have been some
+                    distinguished pugilist.</p>
+                <p> </p>
+                <p>At eleven miles from <placeName ref="pl1049">Conwy</placeName> we came to
+                        <placeName ref="pl1203">Abergeleu</placeName> situated in a flat country,
+                    backed by hills that have lost all title to the name of mountains. The town is
+                    poor, but must be pleasant enough </p>
+                <pb n="p.68"/>
+                <fw>p.68</fw>
+                <p> </p>
+                <p>when enlivened by sea-bathers. The sea is a mile distant. The shore is low, but
+                    the view is grand. One seems to look upon the unlimited ocean from the centre of
+                    a capacious bay, formed by <placeName ref="pl3170">Penmaen Rhôs</placeName> on
+                    one hand and a headland which shoots out from the <placeName ref="pl1443">Vale
+                        of Clwyd</placeName>, on the other. The <placeName ref="pl1305">town</placeName> and <placeName ref="pl1978">castle</placeName> of Rhyddlan
+                    are plainly seen, under the latter, at the distance of four or five miles. The
+                    town looks pitiful, the castle respectable. Its circular towers resemble those
+                    of <placeName ref="pl1521">Harlech</placeName>.</p>
+                <p> </p>
+                <p>At <placeName ref="pl1203">Abergeleu</placeName> we quitted the coast, and passed
+                    through the village of <placeName ref="pl3172">Llansansior</placeName>, or Llan
+                    St George; the first English saint I have met with in <placeName ref="pl0731">Wales</placeName>. The Welsh have a calendar of their own. Soon after, we
+                    rode by <placeName ref="pl1976">Kinmael</placeName>, the seat of <persName ref="pe2165">Mr Hughes</persName>, beautifully situated on the side of a
+                    hill, and commanding half the <placeName ref="pl1443">Vale of
+                    Clwyd</placeName>.</p>
+                <p> </p>
+                <p>The <placeName ref="pl1443">Vale of Clwyd</placeName> is about twenty-six miles
+                    long, and six wide. It is bounded, at the upper end, by the mountains of
+                        <placeName ref="pl1211">Yale</placeName>, which separate it from the parish
+                    of <placeName ref="pl1303">Corwen</placeName>. At the lower, it is open to the
+                    sea. On each side it is inclosed by a continued chain of hills, not divided,
+                    like the mountains of <placeName ref="pl1234">Caernarvonshire</placeName>, but
+                    rising from one base, though with different summits. I am told that the whole
+                    eastern side has only one narrow outlet, without climbing the hills. There are
+                    four market towns in the <placeName ref="pl1443">Vale of Clwyd</placeName>: -
+                        <placeName ref="pl1305">Rhyddlan</placeName>, <placeName ref="pl1371">St
+                        Asaph</placeName>, <placeName ref="pl1477">Denbigh</placeName>, and
+                        <placeName ref="pl1246">Ruthin</placeName>. The remains of castles are still
+                    seen at all, except <placeName ref="pl1371">St Asaph</placeName>. The villages I
+                    cannot enumerate. Gentleman's houses, some of which wear the appearance of
+                    palaces, meet the eye every moment; and the dwellings of the farmers look
+                    comfortable and convenient. The fields are beautiful, the woods are fine; the
+                    surface of the ground is variegated, the soil is a rich dark mould.</p>
+                <p> </p>
+                <p>I am told that land in the <placeName ref="pl1443">Vale of Clwyd</placeName>
+                    lets, on an average, at 2l. [£2] an acre; that one large farm is even let for
+                    3l. 10s. and the occupier has made a fortune. Bold<note type="editorial">Reading
+                        uncertain.</note> pieces of land are frequently let as high as 6l. an acre;
+                    and when land of any description is to be let, it is sought after </p>
+                <p> </p>
+                <fw>p.69</fw>
+                <p> </p>
+                <p>with avidity, and obtained with difficulty. The inhabitants of the Vale [xxxx]
+                    consume about a sixteenth part of its produce. the hills that inclose it are
+                    cultivated to nearly two-thirds of their height. In one point only the
+                        <placeName ref="pl1443">Vale of Clwyd</placeName> is deficient, and in all
+                    other parts of <placeName ref="pl0731">Wales</placeName> that I have seen that
+                    deficiency is an exuberance; the vale itself is scantily watered, and the towns,
+                    being built on hills rising out of it, have no water at all.</p>
+                <p> </p>
+                <p><placeName ref="pl1305">Rhyddlan</placeName> I have seen only at a distance.</p>
+                <p> </p>
+                <p><placeName ref="pl1371">St Asaph</placeName> is the seat of an episcopal see; and
+                    poorer, and even smaller, than <placeName ref="pl0799">Bangor</placeName>. The
+                        <placeName ref="pl1561">cathedral</placeName> is full as good, and the choir
+                    neatly fitted up.</p>
+                <p> </p>
+                <p><placeName ref="pl1477">Denbigh</placeName>, the capital of the county, is a
+                    tolerably large and decent looking town, on the side of a steep rock. The
+                        <placeName ref="pl1880">castle</placeName> formerly occupied the summit, but
+                    part of the area is now a bowling green, from whence the view, comprehending all
+                    the lower, and much of the upper part of the <placeName ref="pl1443">Vale of
+                        Clwyd</placeName> is magnificent. The castle is in a very ruined state, but
+                    from the shapeless mass that remains, and the walls of prodigious thickness, it
+                    appears to have been a place of great strength. The entrance, a grand arch, is
+                    still intire, with the figure of <persName ref="pe1340">Henry Lacy</persName>,
+                    the founder, sculptured over it. A noble building, of slighter mould, and later
+                    date, with ten or twelve fine arched windows on each side, is said to have been
+                    intended for a church in the days of <persName ref="pe0357">Elizabeth</persName>, but never finished. </p>
+                <p> </p>
+                <p>Letter 16</p>
+                <p> </p>
+                <p style="right">
+                    <placeName ref="pl0002">Chester</placeName>, October 7th, 1797</p>
+                <p> </p>
+                <p>My dear Brother,</p>
+                <p> </p>
+                <p>At three miles beyond <placeName ref="pl1477">Denbigh</placeName> we passed
+                    through the village of Llanrhaiader, where a flaming King’s Head, a very
+                    uncommon object in <placeName ref="pl0731">Wales</placeName>, was placed against
+                    the wall of a <placeName ref="pl3173">house</placeName>. As I rode along I read
+                    the following lines, which I had no difficulty in remembering.</p>
+                <p> </p>
+                <pb n="p.70"/>
+                <fw>p.70</fw>
+                <p> </p>
+                <p>Within this place there is a vault</p>
+                <p>Where such good liquor’s fix’d</p>
+                <p>You’ll say that water, hops and malt</p>
+                <p>Were never better mix’d. </p>
+                <p> </p>
+                <p><del>These lines recalled to mind several other invitations to ale-houses, which
+                        I have met with in other parts of England; for, if I see two lines hang over
+                        my head, I always read them as I [run?], though I believe none will dispute
+                        the laurel with the Welsh poet. You would think me very vulgar if I were to
+                        repeat such compositions, perhaps? Never mind, you shall have them. The
+                        first is a sprightly widow in Yorkshire who cries:</del></p>
+                <p> </p>
+                <p>
+                    <del>Look up, Gentlemen, what do you think?</del></p>
+                <p><del>The Widow Waddington sells you drink!</del></p>
+                <p> </p>
+                <p><del>The two next are found upon their respective signs.The first is the sign of
+                        the shoemaker’s last, and the motto:</del></p>
+                <p> </p>
+                <p><del>All the long day I have sought for good ale</del></p>
+                <p><del>And at the last I’ve found it.</del></p>
+                <p> </p>
+                <p><del>The other is the sign of the Moon, and underneath is written</del></p>
+                <p> </p>
+                <p><del>Come in, my friends, and take a sup </del></p>
+                <p><del>And go home while the moon is up.</del></p>
+                <p> </p>
+                <p><del>The last I shall give you is in the style of my Welsh friend in
+                        Llanrhaiader:</del></p>
+                <p> </p>
+                <p><del>Halliday’s ale is stout and fine</del></p>
+                <p><del>Much care and pains he takes to brew it</del></p>
+                <p><del>If to taste it you incline</del></p>
+                <p><del>Turn down this lane, you’ll soon come to it.</del></p>
+                <p> </p>
+                <p>Pardon me for detaining you [<del>xxx</del>]at <hi rend="superscript">an</hi>
+                    ale-house door. We will now get on to <placeName ref="pl1246">Ruthin</placeName>.</p>
+                <p> </p>
+                <p><placeName ref="pl1246">Ruthin</placeName> is the last town in the <placeName ref="pl1443">Vale of Clwyd</placeName>, and the most flourish</p>
+                <pb n="p.71"/>
+                <fw>p.71</fw>
+                <p> </p>
+                <p> ing. It consists of three streets running up a hill, two along its top, and one
+                    down on the other side. They all meet in the centre, where an ancient, clumsy
+                    market house obstructs the way. But time has given it a kind of prescriptive
+                    right, which I should feel some scruples to invade. The left [<del>xx</del>]
+                    street at the top of the hill leads to the church. [<del>xxxxxx</del>]. The
+                    right [<del>xx</del>] street leads to the castle, of which little now remains
+                    but broken detached pieces of thick wall. When <persName ref="pe0495">Owen
+                        Glyndwr</persName> lived in <placeName ref="pl1258">Glyndwrdy</placeName> or
+                    the Vale of Dee, here lived <persName ref="pe1035">Lord Grey</persName> of
+                    Ruthin, and though ten miles distant, and separated by a natural barrier of
+                    mountains, the two chiefs were too powerful to be friends.</p>
+                <p> </p>
+                <p>The mountains which inclose the <placeName ref="pl1443">Vale of Clwyd</placeName>
+                    are respectable, though not sublime. Over the eastern range, and towards the
+                    head of the vale, we now had to climb, on our way to <placeName ref="pl1857">Mold</placeName> and in all my mountain hunting, such an escalade never
+                    fell to my lot. The ascent is two miles and very steep; it is cultivated high
+                    up, and there is even a gentleman’s house and park in a place where no wheel
+                    once set a-going could be stopped. Yet this is the road on which coal is carried
+                    to <placeName ref="pl1246">Ruthin</placeName>, and on it we met two loaded
+                    carts. The manner of conducting them is ingenious, but, to me, not very
+                    satisfactory; and they approached so near to ungovernable, that I was glad when
+                    they had passed. They were small and not heavily laden, drawn by one horse, in
+                    the shafts, led by a boy, and stopped by two horses, behind, pulled back by a
+                    man; and with all their holding back, crossing the road, and dexterity of
+                    steerage, I expected every moment that the carts and horses would escape from
+                    their pilots, and overwhelm men, horses, and everything else they found in their
+                    way.</p>
+                <p> </p>
+                <p>I rode up till I was not without some fears of sliding down over my horse’s tail;
+                    I then walked. The road now overhung a chasm or bwlch, called Bwlch Pen Barras;
+                    and, with much toil, I reached the top. On the right rose </p>
+                <p> </p>
+                <pb n="p.72"/>
+                <fw>p.72</fw>
+                <p> </p>
+                <p>the summit of the mountain, Pen Barras, from which the pass takes its name, and
+                    on the left, beyond the gulph, that of the still higher mountain, <placeName ref="pl3175">Moel Famma</placeName>. </p>
+                <p>From the top of <placeName ref="pl3174">Bwlch Pen Barras</placeName>, the sun
+                    shining in our faces, and the haziness of an October sky, prevented our seeing
+                    the whole of the <placeName ref="pl1443">Vale of Clwyd</placeName>, and, over
+                    the tops of its western hills, the towering mountains of <placeName ref="pl1183">Snowdonia</placeName>. We knew that such things were, but they were not for
+                    us. Our climate altered, as we travelled upwards. In the Vale, <del>it</del>
+                    <hi rend="subscript">^</hi>
+                    <hi rend="superscript">the air</hi> was calm and warm, but, before we gained the
+                    top of the pass, <del>the air</del>
+                    <hi rend="superscript">it</hi> was piercing, and the wind was high. When I hear
+                    the beating rain and roaring blast in my [<del>xxx</del>] chamber at home, I
+                    shall congratulate myself that I am not at top of <placeName ref="pl3174">Bwlch
+                        Pen Barras</placeName>. Indeed, I can conceive of nothing on land so
+                    dreadful, in a storm, as these Welsh bwlchs in the mountains.</p>
+                <p> </p>
+                <p>On the other side, the descent was trifling, but we had not only another climate;
+                    we had another world. We exchanged, in a moment, the rich landscapes of the
+                        <placeName ref="pl1443">Vale of Clwyd</placeName> for mountains covered with
+                    heath no longer purple, and fern already brown.</p>
+                <p>The cottages and their inhabitants partook of the poverty of the soil. We pursued
+                    our way, still environed by mountains, which now were rocky; one before us
+                    singularly so; rows of stone, one above another, encircling it round like walls.
+                    All was wild and dreary, and we could not guess, round, or over, which mountains
+                    our road must lie; when at a sudden turn, our man exclaimed, ‘There’s <placeName ref="pl0775">England</placeName>!’ I turned <hi rend="subscript">^</hi>
+                    <hi rend="superscript">my head</hi> and, between an opening of two mountains
+                    saw, <hi rend="subscript">^</hi>
+                    <hi rend="superscript">at a distance, and far below me</hi>, a level country,
+                    with inclosed fields. Though glad of such a prospect for my lodging, I looked
+                    with regret on the country I was leaving, perhaps for ever. One small scene of
+                    enchantment only remained; the village of <placeName ref="pl3176">Llanverras</placeName>, with a river, a bridge, and a mill, surrounded by
+                    mountains and hanging woods.</p>
+                <p> </p>
+                <p>If I had one spark of poetry within me, I would here address a pathetic far<hi rend="superscript">e</hi>well ode to the mountains, rocks, and glens of
+                        <placeName ref="pl0731">Wales</placeName>. In vain! I can feel; but I cannot
+                    write verse! My plodding, groveling genius can</p>
+                <p> </p>
+                <pb n="p.73"/>
+                <fw>p.73</fw>
+                <p> </p>
+                <p>not even reach the sublime heights of prose, for which some ladies are so much
+                    admired.</p>
+                <p> </p>
+                <p>Rugged hills brought us to a stone that divides the parishes of <placeName ref="pl3176">Llanverras</placeName> and <placeName ref="pl1857">Mold</placeName>, and the counties of Denbigh, and Flint, and a long
+                    descent brought us to the town of <placeName ref="pl1857">Mold</placeName>,
+                    situated <hi rend="subscript">^</hi>
+                    <hi rend="superscript">on a small hill</hi> in the flat country we had seen from
+                    the moun<hi rend="superscript">tains</hi>, and, like <placeName ref="pl1477">Denbigh</placeName> and <placeName ref="pl1371">St Asaph</placeName>,
+                    fetching all its water from the plain below. <placeName ref="pl1857">Mold</placeName> is a neat little town, less Welsh than English. Here has
+                    been a castle; the mount on which it stood is all that remains; and we were not
+                    allowed to visit it. </p>
+                <p> </p>
+                <p>Both the ancient and modern limits of <placeName ref="pl0775">England</placeName>
+                    and <placeName ref="pl0731">Wales</placeName> appear to me altogether arbitrary;
+                    they were probably fixed by the sword. The ancient dyke is about a mile and a
+                    half beyond <placeName ref="pl1857">Mold</placeName>; the stone that now marks
+                    the boundaries of the counties of Flint and Chester, and consequently the
+                    kingdom of <placeName ref="pl0775">England</placeName> and the principality of
+                        <placeName ref="pl0731">Wales</placeName>, is about a mile and a half before
+                    we reach <placeName ref="pl0002">Chester</placeName>, <del>that is, nine miles
+                        further</del> but the natural barrier is Mold Mountain. The last of our
+                    journey, and that we descended to <placeName ref="pl1857">Mold</placeName>.</p>
+                <p> </p>
+                <p>The twelve miles between <placeName ref="pl1857">Mold</placeName> and <placeName ref="pl0002">Chester</placeName> is over a flat, uninteresting country and a
+                    bad road one part of which is so notorious it is called the Dirty mile.<note type="editorial">A section of the A549 between Lane End and Dobs Hill is
+                        still called ‘Dirty Mile’.</note> The only objects worth notice were
+                        <placeName ref="pl0788">Hawarden castle</placeName>, and the estuary of the
+                        <placeName ref="pl1138">Dee</placeName>, with a multitude of vessels at
+                    anchor. The last mile and half of road, which was our entrance into <placeName ref="pl0775">England</placeName>, was the worst that ever <placeName ref="pl0775">England</placeName> offered to my view: it was spacious enough,
+                    but of soft sandy rock, that the coal carts had worn into holes sufficiently
+                    large to bury themselves in. We were frequently surrounded by a dozen, and
+                    sometimes by twenty of these carts; with each driver leading and pushing his
+                    draft horse, and exerting all his skill in cartmanship to avoid the holes. Had a
+                    wheel gotten into one of them, neither praying to </p>
+                <p> </p>
+                <pb n="p.74"/>
+                <fw>p.74</fw>
+                <p> </p>
+                <p>Hercules, as the carter did of old, or putting his shoulder to the wheel, as
+                    Hercules recommended, could have relieved him.<note type="editorial">Hercules
+                        and the Waggoner is a fable recorded towards the end of the first century
+                        AD, and later credited to Aesop. When the driver’s cart gets stuck, usually
+                        in mud, he calls on the god to help him. Hercules tells him to put his own
+                        shoulder to the wheel before asking for help, and the man frees the cart by
+                        himself.</note> His cart must have <hi rend="superscript">been</hi> dashed
+                    to pieces, in spite of men or gods. </p>
+                <p> </p>
+                <p>We crossed the <placeName ref="pl1138">Dee</placeName> into <placeName ref="pl0002">Chester</placeName>, which instead of the solemn, decayed city
+                    I expected to find it, looks busy, populous, and flourishing. Though as it is
+                    the eve of the fair, it may probably be raised something above its natural
+                    pitch.</p>
+                <p> </p>
+                <p> Letter 17 </p>
+                <p/>
+                <p style="right"><placeName ref="pl1361">Nantwich</placeName>, Oct 9, 1797</p>
+                <p>My Dear Brother, </p>
+                <p> </p>
+                <p>Do not be alarmed at seeing <placeName ref="pl1361">Nantwich</placeName> at the
+                    top of a letter, when only letters from <placeName ref="pl1221">North
+                        Wales</placeName> were promised you; or fancy that, like certain shy singers
+                    who cannot be stopped when they are once set a-going, I may continue writing
+                    across the island of <placeName ref="pl0777">Great Britain</placeName>. I give
+                    it under my hand and seal, that you shall be fairly quit of me at this place. </p>
+                <p> </p>
+                <p>The wall that surrounds <placeName ref="pl0002">Chester</placeName> is intire,
+                    and is one mile, three quarters, a hundred and one yards in circumference. Its
+                    top is a public walk, from four to six feet in width, paved with flat stones,
+                    and secured by a parapet, on each side, about four feet high. Where it crosses
+                    the principal outlets of the city, it runs over gateways, and the parapet walls
+                    have given way to iron rails. The views from hence down into the busy streets
+                    are singular. In some parts of the wall the prospect is excluded by buildings,
+                    which rise on either side the path; but where it is open to the river and the
+                    Welsh hills, it is delightful. The castle stands on a steep red rock, without
+                    the walls. It has a new appearance, though in the old style; and exhibits a pair
+                    of little cannon, to terrify whom they may concern. A row of paltry brick houses
+                    have had the assurance to place themselves; and a pompous <placeName ref="pl3177">prison</placeName> is rearing its head hard by.</p>
+                <p> </p>
+                <p>On each side the principal streets of <placeName ref="pl0002">Chester</placeName>
+                    are two <placeName ref="pl1537">rows</placeName> of shops, one above the other.
+                    Those level with the street project from the houses and their</p>
+                <p> </p>
+                <pb n="p.75"/>
+                <fw>p.75</fw>
+                <p> </p>
+                <p>flat roofs form a gallery which is the street to the shops above. It is a
+                    constant thoroughfare and communicates with the street below by flights of steps
+                    and the shopkeepers display their wares on its walls and balustrades. But
+                        <del>the shops must be dark and</del> I cannot conceive of the reason for
+                    placing the<del>m</del> shops on one another’s shoulders when God Almighty <hi rend="superscript">there is</hi> has given room enough for them all to stand
+                    on the ground – at least, if the security derived from the city walls was a
+                    reason it exists no longer.</p>
+                <p> </p>
+                <p>The most impressive object in <placeName ref="pl0002">Chester</placeName> is the
+                        <placeName ref="pl1853">Cathedral</placeName> which is massive and grand. It
+                    was originally built in the year 660, but as it now appears it is too wonderful
+                    a monument of wealth and taste for that early age. I did not go in at the
+                    principal entrance but at a smaller one, and found myself in a complete church,
+                    dirty, dark and shabby, with a carpet on the communion table that looked as if
+                    it had been several years trodden under foot at an inn. I exclaimed, what a
+                    cathedral! But observing a partition with a fastened door, I went out in search
+                    of another entrance and found that the precept in holy writ which enjoins us to
+                        <hi rend="underline">enter in at the strait gate</hi> does not apply to
+                        <placeName ref="pl1853">Chester cathedral</placeName>. I now entered in at
+                    the <hi rend="underline">wide gate</hi>, and saw a noble church, divided into
+                    three aisles, by two rows of pillars. The ornaments of the choir are extremely
+                    fine, but the Bishop’s throne, a curious kind of stone pulpit, adorned with
+                    arches, pinnacles, and small gilt statues of kings and queens of Mercia,
+                    particularly attracted my notice. </p>
+                <p> </p>
+                <p>I stayed the service in the <placeName ref="pl1853">cathedral</placeName>.
+                    Living, as I do, in a retired place <del>xxxx</del>
+                    <hi rend="superscript">in the country</hi>, the paraphernalia of religion was
+                    new to me, and impressed my mind with awe. The grandeur of the place, and above
+                    all the solemn sweetness of the voices, raised to celebrate the praise of
+                    Almighty God, elevated my soul to him, and my emotions bordered on tears. But
+                    when I saw the Dean, cloathed in scarlet</p>
+                <p> </p>
+                <pb n="p.76"/>
+                <fw>p.76</fw>
+                <p> </p>
+                <p>and fine linen, and <sic>preceeded</sic> by a silver mace, stalk along the
+                    cloisters, enter a door, and become invisible to a bowing and admiring crowd,
+                    the charm dissolved, and I perceived, with some indignation, that the creator
+                    was lost in the creature.</p>
+                <p> </p>
+                <p>The annual fair at <placeName ref="pl0002">Chester</placeName> lasts three weeks;
+                    but the principal business is transacted in one. As it is the great mart to
+                    which the Irish bring their linens, so it is their opportunity to supply
+                    themselves with the cottons of <placeName ref="pl1044">Lancashire</placeName>,
+                    the woolens of <placeName ref="pl0770">Yorkshire</placeName>, and the hardwares
+                    of <placeName ref="pl1293">Birmingham</placeName> and <placeName ref="pl2523">Sheffield</placeName>. I was told that Irish linens are sold at one fair to
+                    the amount of half a million sterling; and that a hundred thousand pounds worth
+                    have been sold in one day. During the fair, a glove is hung out at an ancient
+                    building called the <placeName ref="pl3179">Pentise</placeName>, to invite all
+                    strangers to bring their goods; and the concourse of people is so great, that
+                    most of the private houses let lodgings. </p>
+                <p> </p>
+                <p>The day the Mayor of Chester goes out of office is a day of anarchy. His
+                    authority is understood to cease in the morning; a bull is baited, all sorts of
+                    petty excesses are committed; and the greatest blackguard is master. At night
+                    the authority of the new mayor is acknowledged and all things are restored to
+                    order.</p>
+                <p> </p>
+                <p><placeName ref="pl0002">Chester</placeName> is forty miles from <placeName ref="pl0723">Liverpool</placeName> by land, as the first bridge over the
+                        <placeName ref="pl2906">Mersey</placeName> is at <placeName ref="pl0265">Warrington</placeName>. By water is a voyage of only three hours, with a
+                    favourable wind. A covered boat, with a cabin, sets out every day, and conveys
+                    passengers by a canal cut between the <placeName ref="pl1138">Dee</placeName>
+                    and the <placeName ref="pl2906">Mersey</placeName>, and a packet waits to carry
+                    them on to <placeName ref="pl0723">Liverpool</placeName> by sea.</p>
+                <p> </p>
+                <p>The whole country from <placeName ref="pl0002">Chester</placeName> to <placeName ref="pl1361">Nantwich</placeName>, a distance of nineteen miles, is a
+                    continued plain; but a considerable range of hills from a back ground to the
+                    left. For the first five miles, to the village of <placeName ref="pl0003">Tarvin</placeName>, the country is poor, and road a wretched pavement.
+                    Beyond through</p>
+                <p> </p>
+                <pb n="p.77"/>
+                <fw>p.77</fw>
+                <p> </p>
+                <p>the villages of <placeName ref="pl3180">Duddon</placeName> and <placeName ref="pl3181">Clotton</placeName>, I was gratified with the sight of fine
+                    pastures, variegated with wood, and large and neat balck and white farm houses
+                        [<del>xxxxx</del>]. Every thing wore the aspect of abundance. About three
+                    miles, on our right, stood <placeName ref="pl1536">Beeston Castle</placeName>,
+                    on the summit of a tall insulated rock, rising abruptly out of the plain, and
+                    said to be 365 feet in height. A number, perhaps, too singular to be exactly
+                    true.</p>
+                <p> </p>
+                <p>In answer to my enquiries concerning the dairies of <placeName ref="pl1362">Cheshire</placeName>, I was informed they are generally from thirty to
+                    sixty cows, and there are a few of fourscore. A dairy of fifty cows will make
+                    two cheeses a day, of fifty or sixty pounds weight each. Farms are let from
+                    thirty shillings to three pounds an acre, and the candidates for them are so
+                    numerous, that they are commonly let by auction. </p>
+                <p> </p>
+                <p>At ten miles from <placeName ref="pl0002">Chester</placeName> we came to
+                        <placeName ref="pl3182">Tarporley</placeName>, a small Market Town. I saw on
+                    a tomb, in the church, two ladies of the Crewe family, in the dress of the time
+                    of King William, whose towers<note type="editorial">OED sv ‘Tower’ (n.6.b) ‘A
+                        very high head-dress worn by women in the reigns of William III and Anne. It
+                        was built up in the form of a tower of pasteboard, muslin, lace, and
+                        ribbons’.</note> the statuary had plaited as neatly, in beautiful white
+                    marble, as it was possible for their own tire-women to have done, in fine
+                        lace.<note type="editorial">These are Jane Done (d. 1662) and Mary Crewe (d.
+                        1690), and her granddaughter Mary Knightley who died as a child in 1674. The
+                        monument comprises three figures in white marble on a black base, the women
+                        recumbent and the child with flowers standing.</note>
+                </p>
+                <p><placeName ref="pl1361">Nantwich</placeName> is a large town, and contains a
+                    greater number of fine old half-timbered houses, of about the days of Elizabeth,
+                    than I have remarked in any one place. The <placeName ref="pl3183">church</placeName>, both within and without, is in the cathedral style; and
+                    much it grieved me to see a part of it going to decay. The houses surround the
+                    churchyard, without any fence to make them keep at a proper distance, and the
+                    consequence has been that on one side they <hi rend="subscript">^</hi>
+                    <hi rend="superscript">have</hi> encroached on the view of this noble edifice;
+                    and on the other there is only a very narrow passage between.</p>
+                <p> </p>
+                <p>In the body of the <placeName ref="pl3183">church</placeName> in <placeName ref="pl1361">Nantwich</placeName> is a curious antique stone pulpit not now
+                    made use of; and two old carved pews, mounted up aloft. In one of the transepts
+                    is a coffin, without a lid, hollowed out of a solid block of wood, into the form
+                    of the body which has been placed in it. It </p>
+                <p> </p>
+                <pb n="p.78"/>
+                <fw>p.78</fw>
+                <p> </p>
+                <p>was found under the chancel, when the pavement was taken up to repair a drain. In
+                    the other transept is an unheeded, mutilated figure of a knight, perhaps a hero
+                    of the crusades;<note type="editorial">This may be the alabaster effigy of Sir
+                        David Craddock, (d. ca 1384), in the south transept.</note> a proof, if any
+                    proof were wanting, that men must die, and their productions must follow. The
+                    choir is very beautiful; its stalls are ornamented with carving.<note type="editorial">The church contains some 20 intricately carved misericords
+                        of the early C15<hi rend="superscript">th</hi>.</note> The roof exhibits,
+                    among its gothic ribs, a number of small tablets of stone, on which is
+                    sculptured the history of our Saviour; the floor is paved with little square
+                    bricks, that appear to have been painted. But Peter and Paul block up the
+                    window, and keep out the light; an office those worthy apostles were certainly
+                    never designed for. </p>
+                <p> </p>
+                <p>The people of <placeName ref="pl1361">Nantwich</placeName> take more care of
+                    their churchyard than of their <placeName ref="pl3183">church</placeName>. While
+                    the beautiful roof, and carved ornaments of the one are mouldering away, every
+                    grave that is made in the other is instantly levelled, so that it has no
+                    appearance of a cemetery. </p>
+                <p> </p>
+            </div>
+        </body>
+    </text>
+</TEI>

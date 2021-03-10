@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0051">
+    <teiHeader type="s">
+        <fileDesc>
+            <titleStmt>
+                <title>Anonymous, Tour in Scotland August 1794
+                    <date>1794</date></title>
+                <author>Anonymous</author>
+                <respStmt>
+                    <name>Edited with an Introduction by Alex Deans</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <date when="1794"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>Acc.8278</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab>
+                            <locus>1-86</locus>
+                        </ab>
+                    </msContents>
+                    <additional>
+                        <p>For ease of reading the author's unpaginated notes, given at the end of
+                            the manuscript journal, have been linked in this document to the
+                            passages to which they refer. The journal bears a bookplate with the
+                            name Leonard Clark. Folio numbers have been added to the journal in a
+                            modern hand. Some punctuation and corrections appear to have been
+                            inserted in a different ink; it is unclear whether these are later
+                            corrections by the original author or additions by a separate hand.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="gd">Gaelic</language>
+                <language ident="la">Latin</language>
+                <language ident="it">Italian</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p><pb n="f.1v"/> Tour in Scotland August 1794.</p>
+                <p><quote>
+                        <l>“Care Selve beate,</l>
+                        <l>E voi solinghi, et taciturni Horrori,</l>
+                        <l>Di Riposo e di Pace Alberghi veri,</l>
+                        <l>O quanto volontieri</l>
+                        <l>A rividervi I’ torno: e se le Stelle-</l>
+                        <l>M’ havesser dato in sorte</l>
+                        <l> viver à me stessa, e di far Vita</l>
+                        <l>Conforme a le mie voglie:</l>
+                        <l>Io già co’ Campi Elisi</l>
+                        <l>Fortunato Giardin de’ Semidei,</l>
+                        <l>La vostr’Ombra gentil non cangerei”</l>
+                    </quote><bibl type="authorial"><title ref="bi0163">Pastor Fido</title></bibl>
+                    Scena V.</p>
+                <p><quote>
+                        <l>“A tale of the Times of old! The Deeds of Days</l>
+                        <l>“of other Years. The murmur of thy Streams O</l>
+                        <l>“Lora brings back the memory of the past.</l>
+                        <l>“The sound of thy Woods, Garmallar, is loudly</l>
+                        <l>“in mine Ear.”</l></quote> Ossian’s Carthorn.<note type="editorial"><bibl>James Macpherson, <title ref="bi0569"><hi rend="italic">Fingal,
+                                    an ancient epic poem, in six books: together with several other
+                                    poems, composed by Ossian the son of Fingal</hi></title>
+                            (London: 1762), <biblScope unit="page">p.127</biblScope></bibl>.</note>
+                </p>
+                <p><pb n="f.2r"/>Thursday, <lb/>August 1<hi rend="superscript">st.</hi> Left
+                        <placeName ref="pl0699">London</placeName> at 1. O. clock in the afternoon,
+                    and were set down in <placeName ref="pl0253">Carlisle</placeName> on Saturday at
+                    2 P.M. This City is small, dirty and ill built: the Castle, in one of the Towers
+                    of which <persName ref="pe0527">Mary Queen of Scots</persName> was confined, is
+                    strong, but irregular, and without any Dignity or Symmetry of Parts; and the
+                    ramparts which surround the Town are of the same Description. The Town appears
+                    not to be populous or Commercial.</p>
+                <p>We left <placeName ref="pl0253">Carlisle</placeName> on Sunday 4<hi rend="superscript">th.</hi>, and soon came in sight of the Bor-<pb n="f.2v"/> ders form’d by an immense chain of Mountains, beginning at the West with the
+                    lofty hill of <placeName ref="pl1096">Scrawfell</placeName> rival of <placeName ref="pl1097">the great Skiddaw</placeName>, which with the range of
+                    Mountains bounding the Lakes of <placeName ref="pl0800">Cumberland</placeName>
+                    appear’d in view to a vast distance. We pass’d over <placeName ref="pl1098">the
+                        extensive Plain of the Solway</placeName>, formerly the Theatre of mutual
+                    Devastation, and the scene of many a bloody Encounter between the two Hostile
+                    Nations now so happily united. This Plain is celebrated for the extraordinary
+                    Eruption of the Moss. It issued from an aperture no larger than the Mouth of a
+                    common well. Being a solution of the Mossy Pulp in water, no obstacle which
+                    might have stopp’d or retarded <pb n="f.3r"/>the progress of a Solid Body could
+                    withstand it’s Course. This inconsiderable spring poured forth it’s Contents
+                    with such Copiousness and Rapidity, that in an Hour’s time it overwhelmed a
+                    Track of Country many Miles in all Directions, completely burying it under this
+                    extraordinary Lava. Many People were surprised in their Houses, and narrowly
+                    escaped with their Lives. It cover’d the Bridges and roads, and stopp’d the
+                    Course of a number of rivulets, rendering all communicati<add place="above">o</add>n between the different Parts of the Country impracticable. In the
+                    Course of Years it has been removed and thrown into the <pb n="f.3v"/>
+                    <placeName ref="pl0556">River Eske</placeName>, and so carried into the Sea, but
+                    there still remain many prominent Marks of the Devastation.<note type="authorial">In the Eruption of the Solway Moss a Cow-house in which
+                        there were 6 Cows was overwhelm’d, 5 of which perish’d. The other remain’d
+                        sunk up to the Head for 60 Hours without food. When liberated She ate
+                        heartily but shew’d the utmost horror when water was set before Her; until
+                        at length time or necessity cured her of this Aversion.</note>
+                    <note type="editorial">This account of the eruption of the Solway Moss appears
+                        to be based on that given by Thomas Pennant in <bibl type="editorial"><title ref="bi0008">A tour in Scotland 1772, part I</title></bibl> (1774),
+                        pp.75-76. Pennant gives the year of the eruption as that previous to his
+                        tour: 1771.</note> On passing <placeName ref="pl0557">the River
+                        Sark</placeName> we enter’d <placeName ref="pl0705">Scotland</placeName> by
+                        <placeName ref="pl0558">the celebrated village of Greatney</placeName>, and
+                    went on to <placeName ref="pl0587">Douglas Mill</placeName> where we slept.</p>
+
+                <p>Mnday 5<hi rend="superscript">th.</hi> Walked to <placeName ref="pl0590">Lanark</placeName> along a dreary and uncomfortable Country. Here we
+                    visited the Cotton Mills belonging to <persName ref="pe0528">Mr.
+                    Dale</persName>, in which no less than 1700 Persons are employ’d. There is an
+                    Institution forming part of this extensive Scheme which does Honour to the
+                    Proprietor, and which cannot be contemplated without Pleasure and Admiration.
+                    This Benevolent and truly Patriotick Man employs no less than 300 Boys and
+                    Girls, all of indigent Parents, who are brought <pb n="f.4r"/> up in the Mills,
+                    and are taught the art of spinning in the Cotton and the other branches of the
+                    Business. They are fed and cloath’d by Him for a certain term of Years, which
+                    being expired, He gives to each a Suit of Cloaths and 20 S. in money: and then
+                    they are at liberty to seek new Masters, or to remain in his service. But while
+                    they are thus acquiring early Habits of Diligence and Industry, and attaining
+                    that Skill in the Manufacture which is the Foundation of their future
+                    Independance in Life their Minds are by no means neglected. This munificent
+                    Patron maintains no less than 11 Masters for their Instruction in those useful
+                        <pb n="f.4v"/> Parts of Knowledge that are most appropriate to their
+                    situation in society; such as Reading, Writing and Arithemik; which are taught
+                    after the Termination of their daily Occupations in the Mills. We saw there 300
+                    sit down in a large Room each with his Cogue or Bason (no small one) of
+                    excellent Scotch Broth and their respective Rations of Oatmeal Bread. They
+                    appear’d to be stout, healthy children. In another large Room exceedingly well
+                    ventilated they sleep in large Beds containing 3 a piece. So extraordinary and
+                    ingeniously contrived is the Machinery of the Mills that all the operations,
+                    which are of amazing Variety and Complication, are perform’d by children under
+                    the age of 12 Years. <persName ref="pe0528">Mr. Dale</persName> the Proprietor
+                        <pb n="f.5r"/> is a singular Instance of the Effect which Industry and
+                    Prudence aided by Fortune may produce. Although some Years ago He was only a
+                    Journey-man weaver, He now gives bread to between 6 or 7000 People employ’d in
+                    the various Departments of his Business.</p>
+                <p>The Mills are situated about 2 Miles up the River from <placeName ref="pl0590">Lanark</placeName> and their first Appearance is very striking. They are
+                    built in a deep or rather profound Glen close to the <placeName ref="pl0600">Clyde</placeName>, which is hemm’d in on both sides by high and rugged
+                    Precipices, ---- rolling over 2 or 3 little Falls, and again broken by detach’d
+                    Fragments of Rock producing and Agitation attended with a continual murmuring
+                    Noise. The main Body of <pb n="f.5v"/> the Building is <sic>parallell</sic> to
+                    the River, and there is a large detach’d Wing to the westward of it: and in the
+                    middle is a very fine spacious Area. At a little distance from the Mills stands
+                    a small neat and regularly built Village belonging to <persName ref="pe0528">Mr.
+                        Dale</persName>, and built by Him for the residence of his Mechanics. At the
+                    brow of the Hill by which it is approach’d from <placeName ref="pl0590">Lanark</placeName> this whole scene suddenly opens to view: the first
+                    Object which immediately <add place="above">arrests</add> our attention is the
+                    Building of the Mills which <add place="above">being</add> very lofty, regular
+                    and entirely of Stone together with it’s Extent and the stature of it’s
+                    Situation, impresses <add place="above">us</add> with the Idea of the retreat of
+                    a Great Monarch rather than of a Place destin’d for the Exercise of mechanical
+                        <pb n="f.6r"/>Industry: and indeed the whole corresponds with every
+                    Suggestion which could proceed from the warm Imagination of a Poet.</p>
+                <p><persName ref="pe0528">Mr. Dale</persName> politely shew’d us the Works: but it
+                    is difficult to convey to those who have not seen them any precise Acquaintance
+                    with their Structure, the various Parts or their general Cooperation.</p>
+                <p>The whole is set in motion by one Wheel of amazing Dimensions suspended in the
+                    Center of the Building, it’s Axis on each side resting on the solid Rock, in
+                    which is cut or blown a chasm large enough to permit the Revolution of the
+                    wheel. The Stream which drives it runs through the Perforation of a solid <pb n="f.6v"/> Rock some hundred yards in length and it ends on a level with
+                    that part of the River’s Surface from which the Current into it is powr’d. The
+                    channel of this current runs <sic>parallell</sic> to the Course of the River
+                    with considerable rapidity: the Elevation from which it proceeds being about 50
+                    Feet above the bed of the Water at the Mills as the River descends from the
+                    aperture by 3 Falls: and it is made with that degree of declension requisite to
+                    give the Water it’s necessary proportion of Velocity and Force. In the center of
+                    the area there is a receptacle for the water of a circular Form, and being here
+                    collected, by means of sluices which can be raised and depress’d, is regulated
+                        <pb n="f.7r"/>the Quantity of Water which turns the great Wheel, and
+                    consequently the Quickness of Motion in the whole Machinery. This is measur’d by
+                    means of the Dial Plate of a Clock, the Hands of which are turn’d by the
+                    Revolutions of the great Wheel, which is compared with a Common Clock placed in
+                    the same Room (Counting House) : 20 Revolutions being fix’d as the Standard of a
+                    Minute, and occasionally as it becomes slower or faster the water is so
+                    regulated as to bring it within that medium.</p>
+                <p>The 1<hi rend="superscript">st.</hi> Operation is that of carding the Raw Cotton.
+                    It is placed on a flat Frame of Wood under a long round Piece of polish’d Iron:
+                    in this situation it is <pb n="f.7v"/>gradually taken in by the Revolution of a
+                    Cylindrical Carding Brush: from this it is caught by another of finer and closer
+                    Wires, and being brought up in the Course of the Revolution it is intercepted by
+                    the repeated and regular strokes of a straight single row of Teeth supported
+                    upon and acting by 2 Levers, which strikes it off the Cylinder, whence it is
+                    transmitted between two plain Pieces of wood which being round and continually
+                    revolving draws it out in shape of a long narrow Train of Cotton, and in this
+                    manner it is lodg’d in a Tin Case. By the same operation it is afterwards
+                    gradually reduced to a size fit for the Bobbin.</p>
+                <p>The fine Thread is produced by a curious Process. A Leathern strap attached to
+                    some of the larger secondary <pb n="f.8r"/> wheels which are put in motion by
+                    the Primary Movement goes round a certain number of smaller Dimensions ranged
+                    along a Frame: these last again have another strap each going round a certain
+                    number of Bobbins. — Large Bobbins of the coarse <del rend="overstrike">Thread</del> Thread being placed on the Top of the Machine arranged in a
+                    straight Line standing perpendicularly, and turning loosely on their axes the
+                    Thread is introduced: 1<hi rend="superscript">st</hi> between a wooden plain
+                    small Cylinder, and under it a fluted metal one, both turn’d by brass Wheels,
+                    which reduces it to a particular Size: 2<hi rend="superscript">d.</hi> it then
+                    succeeds to another viz: a Cylinder cover’d with fine Leather and another of
+                    Metal finer than the first and brought closer together, in order still farther
+                    to attenuate <pb n="f.8v"/>the Thread: 3<hi rend="superscript">d.</hi> it’s
+                    ultimate <sic>Finess</sic>
+                    <add place="above">is produced</add> by a third of the same Description,
+                    bringing out a Thread as even and uniform as that of a silk-worm. In this last
+                    stage it is wound round the lower set of Bobbins mention’d above: then are
+                    placed in 2 Rows (as likewise the larger ones) on a Frame, which in order that
+                    the Thread may be equally distributed along them is rais’d and depress’d by the
+                    revolution of a plain Elliptical Wheel: thus lifting up the Bobbins along with
+                    it, &amp; gradually letting them down again, so that every part has it’s due
+                    proportion of the Thread.</p>
+                <p>About ¾ of a Mile above the Mills are the two stupendous <placeName ref="pl0591">Falls of the Clyde</placeName> call’d the <placeName ref="pl0593">Bonniton-Lyn</placeName> and the <placeName ref="pl0592">Corallyn</placeName>. To these we are led by a walk in the <pb n="f.9r"/>
+                    Park of <persName ref="pe0512">Lady Ross</persName>, romantically winding along
+                    the Bank of the River, and awfully looking down on it’s deep dark and rug--ged
+                    Bed, flanked on each side by high and perpendicular Rocks. Of these Cascades the
+                        <placeName ref="pl0592">Corallyn</placeName> is by far the most
+                    considerable.</p>
+                <p>The Water is first collected in a round Bason in a vast Inclosure of the Rocks on
+                    each side, from which it moves with Majestick Slowness ‘till pitching on a
+                    craggy Bottom immediately below the Line of the Bason it is instantly broken and
+                    throw’n into the most furious Violence and Ebullition. It is carried on in this
+                    manner foaming and agitated for some way over a nearly horizontal surface, until
+                    it arrives at the brink of the first Fall <pb n="f.9v"/> (for there are properly
+                    two) over which it is precipitated with great force, and plunging into the Flood
+                    below, by the Rebound throws up it’s water in Pyramidical Columns to a
+                    considerable Height. Being here in a manner collected for the greatest onset it
+                    soon arrives at the last Fall which is much higher and of greater Expanse that
+                    the first: it rolls it’s mighty Volume over the shapeless Precipice with a
+                    resistless Force and thundering Sound, it’s terrifick appearance and the solemn
+                    Grandeur of the scene which surrounds it suspending every Power of the Mind in
+                    Astonishment and Awe. The Spray, at the same time, ascending like Clouds of
+                    Smoke to a vast Height <add place="above">and illuminated with the rays of the
+                        Sun</add> flings into the atmos-sphere all the vivid Clours of the Prism,
+                        <pb n="f.10r"/>
+                    <pb n="f.10v"/>
+                    <pb n="f.11r"/> and they are <del rend="overstrike">sometimes</del>
+                    <add place="above">often</add> exhibited in a circular Form, some Parts of the
+                    spray near the surface being thrown into a Revolutionary Motion. When it falls
+                    on the Rock below the foaming Whiteness immediately ceases as if the whole Body
+                    of the Water were swallow’d up in a gulf. When the Sun shines upon it, the Light
+                        <del rend="overstrike">from</del> on it’s surface is so strong as scarcely
+                    to be sustain’d by the Eye, and it gives to all the neighbouring Objects a
+                    sombrous and melancholy Aspect. Behind is seen the calm and glassy Surface of
+                    the Bason from which this tumultuous Scene proceeds buried in a deep and
+                    cavernous Obscurity; presenting to us the contrasted Representation of the most
+                    placid Tranquillity, and the most ungovernable Violence &amp; Disorder. <pb n="f.11v"/>
+                    <placeName ref="pl0593">Bonniton-Lyn</placeName> is much inferior to the last,
+                    and consists of one Stream thrown over a Rock.</p>
+                <p>At about 4 Miles down the River is the <placeName ref="pl0594">Fall of
+                        Stone-Byers</placeName>: it consists of 3 distinct Columns of Water, one
+                    above the other, thrown each from an amazing Height, in an immense Mass, and it
+                    exceeds by far the other two in Magnitude and Grandeur.<note type="authorial">On
+                        the 26<hi rend="superscript">th.</hi> January 1787. <placeName ref="pl0600">the Clyde</placeName> became suddenly dry above <placeName ref="pl0590">Lanark</placeName>, and stopp’d the Mills for 2 hours and afterwards
+                        flowed on as usual. This curious Phenomenon has happen’d to many other
+                        Rivers in <placeName ref="pl0705">Scotland</placeName> at different
+                        times.</note></p>
+
+                <p><placeName ref="pl0590">Lanark</placeName> is a pleasant little Town and situated
+                    in a charming Country.</p>
+                <p>Tuesday 6<hi rend="superscript">th.</hi> August. We walk’d from <placeName ref="pl0590">Lanark</placeName>, and arrived in <placeName ref="pl0229">Glasgow</placeName> late in the Evening after a fatiguing. March of 36
+                    Miles, and render’d vexatious by some cross accidents. The Road lay along the
+                    Banks of the <placeName ref="pl0600">Clyde</placeName>, and the country appear’d
+                    well cultivated and <pb n="f.12r"/> finely wooded. We stopp’d at <placeName ref="pl0597">Hamilton</placeName>, and saw <placeName ref="pl0232">Chatelherault</placeName><note type="authorial"><handShift/><placeName ref="pl0231">the Palace at H.</placeName></note> the residence of
+                        <persName ref="pe0250">the Duke of Hamilton</persName>. It is an old
+                    Mansion, &amp; has nothing to the exterior to recommend it, nor can much be said
+                    for the Furniture and internal Decorations. The grand room the only one worthy
+                    of remark is long and well proportion’d, but it is furnish’d in a manner which
+                    seems to betray the perverted Taste of a Voluptuary. In different Places there
+                    are Setees on the Floor “a la Turque”: in other <sic>Mattrasses</sic> and sofas
+                    with arm-chairs and Reading Desks so confusedly arranged as to give it strongly
+                    the air of an Upholsterer’s Warehouse. It contains however one invaluable
+                    Curiosity, <rs type="art" ref="ar0076">the Painting of Daniel in the Lions’ Den
+                        by Rubens</rs>. <pb n="f.12v"/> The Figure of Daniel in the middle is
+                    exquisitely painted. The admirable attitude, the exact anatomy, the Inflexions
+                    and Indentures of the Muscles so excellently express’d, and the clean fleshy
+                    colouring, all conspire to render it a perfect Production of Art. In the Eyes
+                    and Face turn’d up to Heaven we could almost imagine that we discern’d the
+                    carious Emotions then working on his Mind, were we not certain that it exceeds
+                    the Province of Painting to express at the same instant any Variety or
+                    Combination of them. The Lions are all admirably drawn, in different attitudes,
+                    and by their manner strongly impress us with the Idea of being restrain’d by a
+                    supernatural Power. In one of the rooms there is an Original <rs type="art" ref="ar0246">Painting of Mary Queen of Scots</rs>: it corresponds <pb n="f.13r"/> with the Testimony of Historians relating to the Beauty of that
+                    Unforunate and misguided Princess.</p>
+                <p>After leaving <placeName ref="pl0597">Hamilton</placeName> we pass’d over
+                        <placeName ref="pl0230">Bothwell Bridge</placeName> celebrated for the
+                    Defeat of the Covenanters by the <persName ref="pe0605">Marquis of
+                        Montrose</persName>. We visited the remains of <placeName ref="pl0599">the
+                        Castle</placeName> which is a Noble Ruin, standing on the Top of a Hill high
+                    and steep, and at the foot of it the <placeName ref="pl0600">Clyde</placeName>
+                    rolls it’s troubled Flood.</p>
+
+                <p>August 7<hi rend="superscript">th.</hi> and 8<hi rend="superscript">th.</hi>
+                    Stopp’d at <placeName ref="pl0229">Glasgow</placeName>. This large Commercial
+                    and Populous City is the best built of any in <placeName ref="pl0705">Scotland</placeName>: the Fronts of the Houses are chiefly of Stone, many
+                    of them having Collonades and Porticcos with other architectural ornaments; and
+                    being mostly detach’d from each other they have more the appearance <pb n="f.13v"/> of little Palaces than the Residence of Private Citizens. The
+                    High Street in particular is very magnificent, being built in a straight Line
+                    running to a great length, and the Houses on each side having regular and lofty
+                    Fronts. At the Top of it is the Toll-Booth and the Exchange, and under it the
+                    spacious and elegant Coffee House of the Tontine, to which the Merchants resort
+                    to transact Business.<note type="authorial"><placeName ref="pl0229">Glasgow</placeName> contains by the last Estimate 61,945 Inhabitants or
+                        about ¾ of the Population of <placeName ref="pl0076">Edinburgh</placeName>,
+                        to which in the Course of some Years it will probably be superior. It may be
+                        called the Capital of the West as <placeName ref="pl0076">Edinburgh</placeName> is of the East of <placeName ref="pl0705">Scotland</placeName>.</note></p>
+                <p><placeName ref="pl1059">The Cathedral</placeName> is a superb Gothick Struc-ture
+                    situated on the summit of an Eminence North of the City, and can be seen on all
+                    sides at a great Distance from <placeName ref="pl0229">Glasgow</placeName>. It
+                    is divided into 3 Parts the one Wing being set apart for the service of the
+                    Parish in which it stands: the other is call’d the Low-church: <pb n="f.14r"/>
+                    <pb n="f.14v"/>
+                    <pb n="f.15r"/> and the center is dignified with the Name of the High-Church.
+                    This Part is spacious, lofty, well-lighted, and the cluster’d Gothick Columns
+                    with their corresponding Arches are in the best proportions of that grand stile
+                    of architecture. That Aisle which is with great propriety call’d <add place="above">low</add> is exceedingly dark, and has more the appearance of
+                    the Dungeon of a Prison than a Place destined for the Exercise of a Religion
+                    which inspires Comfort, and awakens us to pleasing and serene Enjoyments. At the
+                    End of it there is a Cymetry a Place where is <q>no Light but rather Darkness
+                        visible</q><note type="editorial">John Milton, <bibl type="editorial"><title ref="bi0567"><hi rend="italic">Paradise Lost</hi></title><biblScope unit="line"/></bibl></note> and painted black in order to aggravate
+                    the Gloom: <pb n="f.15v"/> in short in every respect calculated to render our
+                    instinctive Dread of Death more horrible. These many leading Families in the
+                    Town have their particular Vaults.</p>
+                <p><placeName ref="pl1061">The College </placeName>is by no means remarkable: they
+                    have however begun a new Quadrangle which is to be built in consequence of a
+                    bequest of <persName ref="pe0529">John Hunter</persName> the late eminent
+                    Surgeon, and for the reception of his valuable Anatomical Preparations, which He
+                    has left to the society.</p>
+                <p>There is a singular Piece of Convenience which the People of <placeName ref="pl0229">Glasgow</placeName> enjoy, and to which I have seen nothing
+                    similar elsewhere. In a large Meadow extending along the <placeName ref="pl0600">Clyde</placeName>, called <placeName ref="pl1099">the Green</placeName>,
+                    there stands a low Quadrangular Building, in the <pb n="f.16r"/> inside divided
+                    into equal Portions or Compartments by means of small wooden Pillars, giving it
+                    the appearance of a small Piazza: in the middle is a large reservoir of water
+                    brought from the River and thrown into this Bason by forcing Pumps: in the
+                    Corners are Boilers for heating the water. All the washing Work of <placeName ref="pl0229">Glasgow</placeName> is perform’d in two Places of this kind,
+                    each of those Portions being let out indiscriminately to a certain Number of
+                    washer-women, who have the Advantage of being supplied with Hot and Cold water,
+                    and of drying their Linen on <placeName ref="pl1099">the Green</placeName> at
+                    the Rate of 3<hi rend="superscript">d.</hi> a day. We saw 200 Acres of Ground
+                    cover’d with <pb n="f.16v"/> washing Articles of every Description. <placeName ref="pl0600">The Clyde</placeName> where it runs by <placeName ref="pl0229">Glasgow</placeName> is broad but not navigable, being very shallow and it’s
+                    course broken by Fragments of the rock, over which it goes with a continual
+                    Noise. There are two light and elegant Bridges thrown over it here. Owing to
+                    this Impossibility of navigating the River so high the Trade of <placeName ref="pl0229">Glasgow</placeName> is carried on at <placeName ref="pl0603">Greenock</placeName> and <placeName ref="pl0602">Port Glasgow</placeName>
+                    near the Mouth of the River.</p>
+                <p>At 4 Miles from <placeName ref="pl0229">Glasgow</placeName> is the <placeName ref="pl1100">Vale of Kelvin</placeName> celebrated for the <placeName ref="pl1101">Stupendous Aqueduct</placeName> which conveys over it Part of
+                        <placeName ref="pl1102">the Grand Canal joi<add place="above">n</add>ing the
+                        Firths of the Forth and the Clyde</placeName>. It consists of 4 arches, the
+                    span of each appearing to be about 50 or 60 Feet <pb n="f.17r"/> and the Height
+                    including the Parapet between 70 and 80. The Descent of the Canal to it is by 5
+                    Locks closely succeeding each other, every one of them having under it a large
+                    circular Bason to supply the necessary waste of water. The Cut from the main
+                    Body to <placeName ref="pl0229">Glasgow</placeName> is 3 Miles in length: it is
+                    conducted over 3 Bridges of amazing Strength and Solidity, each consisting of a
+                    single Arch of about the same Dimensions as those of the Aqueduct: and ends at a
+                    Place called <placeName ref="pl1103">Port Dundass</placeName> greatly above the
+                    level of the Town. The great Level is 156 Feet above the Sea, and it descends on
+                    one side by 19 on the other by 20 Locks. It carries <pb n="f.17v"/>Vessels of
+                    150 Tons Burden being 8 Feet deep. The Expence of constructing it is stated at
+                    £250,000.</p>
+
+                <p>Friday 9<hi rend="superscript">th.</hi> August.</p>
+                <p>Sailed from <placeName ref="pl0229">Glasgow</placeName> down <placeName ref="pl0600">the Clyde</placeName> to <placeName ref="pl0226">Dunbarton</placeName>, and saw on each side a pleasant Country, but not
+                    striking or picturesque. <placeName ref="pl0226">The Town of
+                        Dunbarton</placeName> is built on a Flat, close to <placeName ref="pl1063">the River Leven</placeName>. It is a small Town and carries on an
+                    inconsiderable Trade with <placeName ref="pl0889">Ireland</placeName>. The Rock,
+                    on the Summit of which <placeName ref="pl1104">the Castle</placeName> is built,
+                    stands perfectly insulated on a Plain extending 2 Miles on all sides, exhibiting
+                    the curious and almost unparallell’d Phenomenon of a Height or Mountain totally
+                    aloof from any other Eminence. From the River or the Plain, even at <pb n="f.18r"/>a small distance it appears diminutive and almost contemptible,
+                    nor is but by a near Approach that we discover it’s great Extent, it’s Height
+                    and impracticable Abruptness. It is naturally divided into 2 Parts or Rocks
+                    nearly equal, between which in the inside there is a Passage by a Flight of
+                    Stairs overhung by large Pieces of the Rock which seem to be critically
+                    poised.</p>
+                <p><persName ref="pe0530">Captain Robertson</persName> a Brave Veteran, and a Man of
+                    the most obliging Politeness conducted us over <placeName ref="pl1104">the
+                        Castle</placeName>. From Him we learnt that it is 1 English Mile in
+                    Circumference, and the Rock 567½ Feet high. He shew’d us a spring almost at the
+                    highest Elevation suffici<hi rend="superscript">ent</hi>
+                    <pb n="f.18v"/> in case of a Siege to supply 1500 Men. In a Cistern supplied by
+                    another spring He shew’d us a Trout which has lived there for 20 Years. In a
+                    late repair order’d by Government in digging to the Foundation a small Piece of
+                    Artillery was discover’d of a singular Make. It is of a Calibre of 1 Pound, but
+                    in stead of Trunnions to mount it on a Carriage it has a long Handle each End of
+                    which joins the Barrel, and is just of Weight enough to be carried by a Strong
+                    Man according to the suppos’d Intention. In service it was most probably placed
+                    on the Ground or any other casual support that might offer itself. <add place="above">We saw here</add> the Sword of S<hi rend="superscript">r.</hi>
+                        W<hi rend="superscript">m.</hi> Wallace, <pb n="f.19r"/>justly esteem’d the
+                    Greatest of those Heroes whom Scotland has produced, and to whom the fond and
+                    hyperbolick Admiration of his Countrymen has ascribed Qualities which exist only
+                    in Fiction.</p>
+                <p>Some Parts of this Rock seem to possess a magnetical Property, for by making an
+                    Experiment with a Needle the North Pole was sometimes attracted and sometimes
+                    repell’d, and according to different Positions pointed to all <sic>Qarters</sic>
+                    of the Horizon: and this Variety of Effects took place within the Compass of a
+                    Yard.</p>
+                <p>To the North of the Castle there lies a Fragment fallen from the Rock for a time
+                    immemorial, the size of which <pb n="f.19v"/>is astonishing. It appears in bulk
+                    equal to the Hull o a 1<hi rend="superscript">st.</hi> Rate Line of Battle Ship,
+                    and the surface of it next to the Castle is an exact Duplicate of the
+                    perpendicular Face of the Rock at the foot of which it lies. Fragments of the
+                    Rock frequently loosen and are precipitated, and <placeName ref="pe0530">Captain
+                        Robertson</placeName> related to us two Accidents of that Kind, which were
+                    nearly attended with fatal Consequences. <persName ref="pe0531">Lord
+                        Cassilis</persName>, who was Governor about 60 Years ago, intending to take
+                    an Airing in his Carriage had it drawn up in the usual Place: (where the Rock is
+                    perfectly perpendicular): the servant had open’d the Door, and was holding it in
+                    that manner ready for his Lordship to enter, <pb n="f.20r"/>who was at the
+                    Instant at a small distance giving some Instructions to the People around Him,
+                    when in the Interval a prodigious Fragment flew from the summit of the Rock, and
+                    pitching on the Top of the Carriage dash’d it in pieces, the servant escaping
+                    unhurt. The second Instance is of his own Daughter, a Beautiful Young Woman, who
+                    passing near the same spot about 20 Pieces of Stone of the size of a Man’s Head
+                    came thundering down about 3 or 4 Yards behind Her.</p>
+                <p>The importance of his impregnable Rock during the Civil Discords in Scotland is
+                    sufficiently known, and <pb n="f.20v"/> accordingly it became the scene <add place="above">of one</add> of the most gallant Enterpri<del rend="overwritten">z</del>
+                    <add>s</add>es recorded in History.</p>
+                <p>When <persName ref="pe0532">Lennox</persName> was Regent of Scotland during the
+                    Minority of <persName ref="pe0533">James 1<hi rend="superscript">st.</hi></persName> and Deposition of <persName ref="pe0527">his
+                        Mother</persName> this Castle was then in the Hands of the Queen’s Partizans
+                    and <persName ref="pe0534">Lord Fleming</persName> was Governor. <persName ref="pe0535">Cap<hi rend="superscript">t.</hi> Crawford of Jordan
+                        Hill</persName> a Man of invincible Resolution and Enterpize form’d the
+                    desperate and seemingly impracticable Scheme of taking it by Surprize, being in
+                        <persName ref="pe0532">the Regent’s</persName> Interest. The Plan and
+                    Practicability of the Attempt were explain’d to Him by a Soldier who having
+                    serv’d in <pb n="f.21r"/> the Garrison was acquainted with it’s accesses, and
+                    was urged to this Piece of Treachery by Disgust and resentment arising from some
+                    ill wage which He had experienced in the Garrison. Accordingly towards the
+                    Evening of the 24<hi rend="superscript">th.</hi> March 1571 <persName ref="pe0535">Capt. Crawford</persName> left <placeName ref="pl0229">Glasgow</placeName> with a small by determind Band and reach’d <placeName ref="pl1104">the Rock</placeName> towards mid-night: the Moon was up but
+                    overcast with clouds and afforded them just light enough to lead them to their
+                    dreadful Purpose without hazard of Discovery. After having surmounted incredible
+                    Difficulties, and vanquish’d many unforeseen Accidents with great Presence of
+                    mind they arriv’d at the foot <pb n="f.21v"/> of a Pa<add place="above">r</add>apet wall 10 or 12 Feet high closer to the Guard House (<sic>whic</sic>
+                    is still standing) and which it was their Chief object to surprize when a
+                    trifling Accident had nearly disconcerted this daring Plot. The 1<hi rend="superscript">st.</hi> Man who ascended was seiz’d with a Fit while yet
+                    on the Ladder, but <persName ref="pe0535">Capt. Crawford</persName>, one of
+                    those whose Faculties are only sharpen’d by Danger tied Him fast and then turn’d
+                    up the other side. He led the way was seen by the Centinel as He mounted, whom
+                    He instantly cut down: his gallant Companions enter’d <placeName ref="pl1104">the Castle</placeName> with triumphant Shouts where they met with no
+                    resistance. He accomplish’d his Purpose without the Loss of a single man, and
+                    was rewarded with the Command of it. <persName ref="pe0534">Lord
+                        Fleming</persName> had just time to escape half naked in a Boat across the
+                        <placeName ref="pl0833">Clyde</placeName>.</p>
+                <p><pb n="f.22r"/> It may be mention’d among the Curiosities of this that <persName ref="pe0530">Cap<hi rend="superscript">t.</hi> Robertson</persName> who at
+                    present has the Command is in Countenance and Person extremely like <persName ref="pe0465">the Present King</persName>, and He tells a pleasant Story of
+                    his having been saluted by the Guard of <placeName ref="pl1105">S<hi rend="superscript">t.</hi> James’s</placeName> in consequence of being
+                    mistaken for Him.</p>
+
+                <p>Saturday 10<hi rend="superscript">th.</hi> August.</p>
+                <p>Walk’d to the delightful and romantick Village of <placeName ref="pl0224">Luss</placeName>, situated on <placeName ref="pl0223">Loch-Lomond</placeName> in a beautiful little Valley, having behind it a
+                    fine Skreen of Hills, exhibiting from the water a most lovely Scene. We walk’d
+                    for about 5 Miles along the Banks of the pleasing <placeName ref="pl1063">Stream
+                        of the Leven</placeName>, running through a <pb n="f.22v"/>rich verdant
+                    Valley which it fertilizes &amp; embellishes. All along this Track to the Mouth
+                    of the River issuing from <placeName ref="pl0223">L. Lomond</placeName> the
+                    Country is wonderfully pleasant, highly cultivated, and abounds with fine
+                    Plantations. The Road to <placeName ref="pl0224">Luss </placeName>is excellent
+                    being well shaded having the Appearance for some Miles of a delightful Avenue.
+                    About 2 Miles from <placeName ref="pl0226">Dunbarton</placeName> we meet with a
+                        <placeName ref="pl1064">Pillar</placeName> erected, at a Village called
+                        <placeName ref="pl1106">Rantyn</placeName>, by <persName ref="pe0537">M<hi rend="superscript">r.</hi> Smollet of Bonhill</persName> to the memory
+                    of the Celebrated <persName ref="pe0536">D<hi rend="superscript">r.</hi>
+                        Smollet</persName> who was born on this spot, so elegantly described by Him
+                    in <bibl type="authorial"><title ref="bi0568">one of his last Poetical
+                            Productions</title></bibl>. In this Vale and along the River’s side lies
+                    the pretty <placeName ref="pl0225">Village of Bonhill</placeName>, built in <pb n="f.23r"/> detached <sic>Clustres</sic>, and extending almost the whole
+                    length of the River: the Houses are small but neat and have slated roofs: close
+                    to them are numerous Bleaching Greens and other Indications of Population and
+                    Industry; and the whole Scene seems to be peculiarly the Seat of Competence and
+                    Ease. Near <placeName ref="pl0224">Luss</placeName> we pass’d by <placeName ref="pl1065">the Seat</placeName> of <persName ref="pe0508">S<hi rend="superscript">r.</hi> James Colquhoun</persName> standing in a most
+                    elegant Situation on the borders of <placeName ref="pl0223">the
+                    Loch</placeName>, and commanding and extensive View of it’s surface, many of
+                    it’s Islands, and the distant mountainous Boundaries. <placeName ref="pl0223">This Loch</placeName> is 35 English Miles in length: it’s greatest breadth
+                    is 8: but about 5 Miles from <pb n="f.23v"/><placeName ref="pl0224">Luss</placeName> it becomes very narrow, and continues so for 20 Miles. It
+                    is bounded on all sides by high Hills, and towards the North is seen the
+                    towering Height of <placeName ref="pl0609">Ben Lomond</placeName>: there are 24
+                    Islands, some of them 2 or 3 Miles in circumference, extremely well wooded, and
+                    adding greatly to the Beauty and Richness of the Scenery.</p>
+                <p>It is impossible by words to convey an adequate Idea of this enchanting
+                    Landscape: the Eye is bewilder’d in it’s numerous Mazes, and almost fatigued
+                    with the Variety of Objects presented to it, while the Fancy pleasingly
+                    exercised in contemplating the different Scenes exhibited to it is lost in <pb n="f.24r"/>their endless, and inexhaustible Combinations. Sometimes we see a
+                    broad Expanse of water with Rich and Verdant Isles beautifully grouped, and
+                    floating on the Surface of the Lake: at other times the Landscape covers almost
+                    it’s whole surface, which is only seen by glimpses, defining with it’s Silvery
+                    touch the Boundaries of the different Islands and Objects that enter into this
+                    grand Composition. — Sometimes when the Sun is setting behind the Mountains we
+                    see their shadows projecting to the very Verge of the Horizon &amp; spreading a
+                    dark Veil over the whole Landscape: and sometimes when his Rays shoot through
+                    the Vallies <pb n="f.24v"/>it gilds the Sides of the Mountains, shewing by
+                    contrast their black contiguous Ridges: and it terminates in the distant Hollows
+                    of the Mountains discovering their deep Defiles, their vast Cavities and
+                    immeasurable Bulk: but this Light is beautifully soften’d and diversified when
+                    it flows smoothly over the level Surface of the Scene, shedding a lambent Smile
+                    on the whole Face of this lovely Groupe.</p>
+
+                <p>I ascended to the Top of <placeName ref="pl0609">Ben Lomond</placeName> and saw a
+                    most extensive Prospect, from <placeName ref="pl1107">the German
+                        Ocean</placeName> at the Mouth of the <placeName ref="pl0083">Firth of
+                        Forth</placeName> to the <placeName ref="pl1108">Irish Sea</placeName>. The
+                    View was great, but not so pleasing as might be conjectur’d: for at that height
+                    all the <pb n="f.25r"/>
+                    <pb n="f.25v"/>
+                    <pb n="f.26r"/> Objects are too much under the Eye, and lose their grouping and
+                    comparative Dignity. It had more the appearance of a Map than a Landscape. I
+                    could trace the <placeName ref="pl1063">River Leven</placeName> from it’s Source
+                    at <placeName ref="pl0223">L. Lomond</placeName>, with all it’s Inflexions,
+                    until it falls into the <placeName ref="pl0600">Clyde</placeName> at <placeName ref="pl0226">Dunbarton</placeName>. The Day was in general very fine, but
+                    now and then a Mist or Scud passed over the Mountain, so that I saw this wide
+                    Prospect with alternate Splendor and Gloom. I could distinctly count all the
+                    Islands of the Loch the most considerable of which are <placeName ref="pl1109">InchMain</placeName>; <placeName ref="pl1110">Inch Calloch</placeName>,
+                    Carlin’s (Old Mans) Island so called from being the Burying Place of the M<hi rend="superscript">c</hi>Grigors;<note type="editorial">Possibly a
+                        mistranslation of the Island's Gaelic name <placeName ref="pl1110">Inchcailleach</placeName> (the island of the old women) — a reference
+                        to a community of nuns supposed to have inhabited the island.</note>
+                    <pb n="f.26v"/>
+                    <placeName ref="pl1112">Inch Lonach</placeName>, entirely cover’d with Yew Trees
+                    about 1500 in number: <placeName ref="pl1113">Devannah or Monk’s
+                        Island</placeName> where formerly there was a Monastery; and another call’d
+                    for what reason I know not, <placeName ref="pl1114">Luss Prison</placeName>.
+                        <placeName ref="pl0223">The Loch</placeName> itself was diminish’d in
+                    appearance to the size of a Pool, and it required my former Experience of it’s
+                    dimensions to assign it its proper rank in this grand assemblage. Towards the
+                    side of <placeName ref="pl0818">Argyleshire</placeName> I saw nothing but
+                    immense Ranges of Mountains hiding the champain Country from view. East-ward
+                    close to the Foot of the Mountain runs the Water of Alloa<note type="editorial">There is no river called Alloa — the author may be referring to the
+                            <placeName ref="pl1116">River Forth</placeName> or the <placeName ref="pl1115">River Teith</placeName>, both of which flow east from the
+                        base of <placeName ref="pl0609">Ben Lomond</placeName>.</note> through the
+                        <placeName ref="pl1117">Vale of Monteith</placeName>; a Region</p>
+                <p><quote><l>“Forlorn and Wild,</l>
+                        <l>“The Seat of Desolation void of Light”:</l></quote>
+                <note type="editorial">John Milton, <bibl type="editorial"><title ref="bi0567"><hi rend="italic">Paradise Lost</hi></title>, <biblScope unit="book">Book I</biblScope>, <biblScope unit="line">ll.180-81</biblScope></bibl>.</note></p>
+                <p><pb n="f.27r"/> and seemingly more fit for the Haunt of Dæmons and Wild Beasts
+                    than for the comfortable Abode of Human Beings. This Place was formerly the
+                    Residence of the murderous and vindictive Clan of the M<hi rend="superscript">c</hi>Grigors, a Name detestable to every Lover of Humanity. The opposite
+                    side of the Lake was inhabited by the Colquhouns, and between these and the M<hi rend="superscript">c</hi>Grigors there subsisted a mutual Jealousy &amp;
+                    perpetual Warfare. The Murder of the Colquhouns the fatal catastrophé that
+                    terminated those bloody Feuds is known to Every one the least conversant in
+                    Scotch History. It seems that the immediate Cause of this Massacre was owing to
+                        <pb n="f.27v"/> the Colquhouns’ having inflicted summary Execution on one of
+                    the M<hi rend="superscript">c</hi>Grigors who was detected in stealing a sheep.
+                    A Meeting was appointed to adjust this and various other Differences, to which
+                    the M<hi rend="superscript">c</hi>Grigors under their chief <persName ref="pe0538">Rob Roy M<hi rend="superscript">c</hi>Grigor</persName> came
+                    armed, surprised the Colquhouns, and made an undistinguishing Slaughter of Them:
+                    and to consummate this horrible Cruelty, they pursued and murder’d in cold <add place="above">blood</add> a number of People, chiefly Young Men from the
+                    College of <placeName ref="pl0226">Dunbarton</placeName> who were standing on
+                    the Top of a Hill, (which I saw) innocent spectators of the scene.</p>
+                <p>This infamous Atrocity was retaliated by a signal Act of Vengeance, and of a <pb n="f.28r"/> nature unprecedented in the History of Man.</p>
+                <p>No Decree ever issued by any Human Power was more severe, or follow’d up with a
+                    more merciless and merited Execution. All sympathy with Them as partaking of a
+                    Common Nature was declared to be dissolv’d: they were pronounced to be Enemies
+                    to their Species: their very Name as abhorrent to Human Nature was extinguish’d,
+                    and it was made Felony in any Clergyman to give it in Baptism. Orders were
+                    issued to pursue Them in all Directions and fall on them without mercy whereever
+                    they could be found, and the Murder of a M<hi rend="superscript">c.</hi> Grigor
+                    was not a Crime <pb n="f.28v"/>but a Merit. Such of Them as attempted to save
+                    Themselves by flying to the Hills which were inaccessible to Men, were track’d,
+                    hunted down like Wild Beasts, and tak’n or torn in pieces by Dogs of
+                    extraordinary Fierceness and Strength. The miserable Remnant who succeeded in
+                    saving Themselves went into the different Parts of the Country, and assumed the
+                    prevalent names in those Places where they settled. This salutary Act of Justice
+                    produced many beneficial Consequences by restraining that bloody Spirit of
+                    Revenge, the Consequence of Hereditary Feuds which had always actuated the
+                    Highland Clans.</p>
+                <p>Monday 12<hi rend="superscript">th.</hi> August walk’d to <placeName ref="pl1008">Araquhar</placeName>: <pb n="f.29r"/>
+                    <pb n="f.29v"/>
+                    <pb n="f.30r"/> on <placeName ref="pl0221">Loch Long</placeName>, and next Day
+                    to <placeName ref="pl1069">Cairndow</placeName> on <placeName ref="pl1070">L.
+                        Fine</placeName>.<note type="authorial">From the Window of the Inn at
+                            <placeName ref="pl1008">Arroquhar</placeName> there is seen at a small
+                        Distance a huge bare Rock on the Top of a Mountain called <placeName ref="pl1171">the Cobler</placeName>, from it’s whimsical and striking
+                        Resemblance of a Cobler working at his Stall.</note></p>
+                <p>The approach to this Place lies through the tremendous Defiles of <placeName ref="pl1068">Glencro</placeName> and <placeName ref="pl1118">Glenkinglass</placeName>: one of the grand and aweful Passes into
+                    Highlands. For about 12 Miles this Glen which is hemm’d in on both sides by
+                    amazing high, and craggy <add place="above">Rocks</add>, exhibits a savage
+                    Grandeur truly dreadful; nor is there any symptom of Vegetation or Track of a
+                    Dwelling to check the unabating Horror of the scene.</p>
+
+                <p>Wednesday 14<hi rend="superscript">th.</hi> Walk’d to <placeName ref="pl0217">Inverary</placeName>.About 2 Miles from <placeName ref="pl0217">Inverary</placeName> a noble Prospect opens to view. The Centre Object is
+                        <placeName ref="pl0217">the Duke of Argyle’s Castle</placeName> situated <pb n="f.30v"/> on a fine Lawn, and having behind it a Majestick Amphitheatre of
+                    Wood: on the left is <placeName ref="pl1072">the neat Town</placeName>
+                    charmingly built on the Edge of the Lake which presents a Wide Expanse of Water
+                    cover’d with hundreds of Herring Boats, animating the Place, and giving it an
+                    appearance of lively Industry: and on the right hand rises the lofty Cone of
+                        <placeName ref="pl0218">Dunecoich</placeName> surmounted with Wood.</p>
+                <p>The Castle is built in the Gothick Stile with 4 flanking Towers like Bastions
+                    with Battlements on the Top, and a Square Tower in the middle: a mode of
+                    Architecture incapable of the Noble Elevation, the regular Proportions, and the
+                    rich and dignified Elegance of <pb n="f.31r"/> a Grecian Front. The Inside with
+                    a few exceptions is very fine. The Dome over the Vestibule is too high, and is
+                    almost lost to the Eye on entering the House. The Dining and Drawing Rooms are
+                    particularly worthy of Notice, the Paintings and Gildings with the other
+                    Decorations being executed in the highest Stile of Elegance and Taste. In the
+                    Drawing Room there are some <rs type="art" ref="ar0079">Pieces of Gobelin
+                        Tapestry</rs> which are exquisite. The Subjects are Pastoral and truly in
+                    the Taste of the French, a People who, although they have excell’d almost in
+                    every Art and Science, have by a strange Fatality been marked by a wide
+                    Departure <pb n="f.31v"/>from Nature both in Fiction and Philosophy. Here we saw
+                    Parisian <sic>Sheperds</sic> with “Chapeau bras” and Coats of Courtly Cut, silk
+                    stockings and neatly pointed shoes, approaching in Opera attitudes to ravish
+                    Kisses from tonish sprightly Milliners, who seem not very solicitous to repel
+                    these bold advances. The Flocks which are feeding around them, and whose silent
+                    Indifference is the very Essence of such a scene, are unnaturally made to cast
+                    sympathyzing looks on these amorous Couples. But amidst this absurdity the
+                    Workmanship challenges our admiration, and is superior to all criticism. The
+                    Figures are finely drawn, <pb n="f.32r"/>
+                    <pb n="f.32v"/>
+                    <pb n="f.33r"/> the Colours are beautifully bright, and the Shading manages with
+                    such Delicacy and Softness, that it is necessary sometimes to approach them in
+                    order to be satisfied that it is not Effect of the Pencil.</p>
+                <p>The Herring Fishery is the great Support of this Country and it’s Neighbourhood.
+                    There are about 3000 Boats employ’d on the Loch, each carrying 4 Men. At Sunset
+                    they set sail and assume their different Stations; for the Fish can only be
+                    taken in the Night: they then let down their Nets which are more than 100 Yards
+                    long to the depth of 50 to 60 Fathoms, which they draw up towards the morning,
+                    and Instances have been of a single Net’s enveloping 10,000 Fishes. <pb n="f.33v"/> About 60,000 Barrels are salted and sent to <placeName ref="pl0704">the West Indies</placeName> as Food for the Negroes, besides
+                    the immense Quantity which the Country People lay in for Winter Stock, and the
+                    great Consumption of the fresh Fish; for the chief sustenance of the People in
+                    this Quarter of the Kingdom consists of Herrings and Potatoes, which last are
+                    accordingly much cultivated here. The Average Price is about 10 a Penny. August
+                        15<hi rend="superscript">th.</hi> Walk’d to <placeName ref="pl0214">Dalmalie</placeName> along a most barbarous Country. This delightful
+                    Village is situated near the Head of <placeName ref="pl0269">Loch
+                        Awe</placeName>:<note type="authorial">The Fable relating to the Formation
+                        of <placeName ref="pl0269">Loch Awe</placeName> is thus beautifully told by
+                            <persName ref="pe0557">Ossian</persName>: (Not publish’d by <persName ref="pe0558">M<hi rend="superscript">c.</hi>Pherson</persName>) <p><quote>
+                                <l>“<persName ref="pe0562">Bera the Aged</persName> dwelt in the
+                                    Cave of the</l>
+                                <l>“Rock. She was the Daughter of Griannan</l>
+                                <l>“the Sage: long was the Line of her Fathers</l>
+                                <l>“and She was the last of her Race. Large</l>
+                                <l>“and fertile were her Possessions: Her’s the</l>
+                                <l>“beautiful Vales below, and her’d the Cattle</l>
+                                <l>“which roam’d on the Hills around. To</l>
+                                <l>“<persName ref="pe0562">Bera</persName> was intrusted the Charge
+                                    of that</l>
+                                <l>“aweful Spring which by the Appointment</l>
+                                <l>“of Fate was to prove so fatal to the In-</l>
+                                <l>“-heritance of her Fathers, and to her</l>
+                                <l>“Fathers’ Race.</l>
+                                <l>“Before the Sun should withdraw his</l>
+                                <l>“Beams She was to cover the Spring</l>
+                                <l>“with a Stone on which sacred and mys-</l>
+                                <l>“-terious Characters were written. One</l>
+                                <l>“Night this was forgotten by the un-</l>
+                                <l>“-happy <persName ref="pe0562">Bera</persName>. Overcome with the
+                                    Heat</l>
+                                <l>“and Chace of the day, She was seized</l>
+                                <l>“with Sleep before the usual time of</l>
+                                <l>“Rest. The confin’d Waters of Moun-</l>
+                                <l>“-tains burst forth into the Plains be-</l>
+                                <l>“-low, and cover’d that large Expanse</l>
+                                <l>“now Known by the Name of the Lake</l>
+                                <l>“of <placeName ref="pl0269">Aw</placeName>. The third morning
+                                        <persName ref="pe0562">Bera</persName></l>
+                                <l>“awak’d from her sleep. She went to</l>
+                                <l>“remove the Stone from the spring</l>
+                                <l>“but behold no Stone was there. She</l>
+                                <l>“look’d to the Inheritance of her Tribe</l>
+                                <l>“She shriek’d! The Mountain shook</l>
+                                <l>“from it’s base! Her Spirit retired to the</l>
+                                <l>“Ghosts of her Fathers in their light and</l>
+                                <l>“airy Halls.</l></quote></p>
+                        <p>The Mountain mention’d here is <placeName ref="pl0831">Ben
+                                Cruachan</placeName>. It is 1130 Yards above the level of the Sea
+                            and 20 Miles in Circumference <placeName ref="pl0269">the
+                                Loch</placeName> is 30 Miles long and ¾ broad: it is 36 Yards above
+                            the level of the Sea. The History of <placeName ref="pl0272">Fraochyn</placeName>, the Hesperides of <placeName ref="pl0705">Scotland</placeName> is given by the same Poet:</p>
+                        <p><quote>
+                                <l>“The fair <persName ref="pe0563">Mego</persName> longed for the
+                                    delicious</l>
+                                <l>“Fruit of the Isle guarded by a</l>
+                                <l>“a dreadful Serpent. <persName ref="pe0564">Fraoch</persName> who
+                                    long</l>
+                                <l>“had loved the Maid goes to gather</l>
+                                <l>“the Fruit. By the rustling of the</l>
+                                <l>“Leaves the Serpent was awaked from</l>
+                                <l>“his sleep: he attack’d the Hero, who</l>
+                                <l>“perish’d in the Conflict. The Mon-</l>
+                                <l>“-ster was also destroy’d: <persName ref="pe0563">Mego</persName>
+                                    did</l>
+                                <l>“not long survive the Death of her</l>
+                                <l>“Lover.”</l>
+                            </quote></p></note><note type="editorial">This account of the formation
+                        of Loch Awe matches verbatim that given by John Lettice in <hi rend="italic">Letters on a Tour Through Varous Parts of Scotland, in the Year
+                            1792</hi>, (London: 1794), pp.256-257. Lettice attributes this rendition
+                        of the legend to <persName ref="pe0158">Joseph MacIntyre</persName>,
+                        minister of Glenorchy. The Hesperidean tale of Fraoch Eilean given
+                        subsequently is similar to that found in Thomas Pennant, <bibl type="editorial"><title ref="bi0001">A tour in Scotland
+                            1769</title></bibl> (1771), p.188. The source for both may be John
+                        Smith's English translation in <bibl type="editorial"><title ref="bi0648">The Death of Artho and the Death of Fraoch. Two Ancient Poems,
+                                Translated from the Galic.</title></bibl> (Glasgow: 1769).</note>
+                    and about 2 Miles distance from it on the Border of the Loch are the remains of
+                        <placeName ref="pl0215">Kilchurn Castle</placeName>, formerly the Residence
+                    of the Earls of Breadalbane and built by <persName ref="pe0539">S<hi rend="superscript">r.</hi> Colin Campbell</persName> Founder <pb n="f.34r"/> of that Family. It was built by Him in the Year 1440, after his
+                    Return from the Crusades: it is in the Saracenic Stile of Architecture, which He
+                    introduced into <placeName ref="pl0705">Scotland</placeName>. The Principal
+                    Tower <sic>next the front</sic> of the Building is square and high, having
+                    Turrets at each Angle most beautifully rounded at the Bottom, appearing as
+                    entire and fresh as in a Modern Building, and indeed all the architraves of the
+                    Windows and the <sic>Coign</sic> Stones of the Tower had the same appearance. It
+                    is one of the finest Ruins which I have ever seen. It is sufficiently
+                    dilapidated to give it the venerable air of antiquity, but we can exactly trace
+                    out the original Design of all its Parts. There is something singularly
+                    melancholy in viewing the prostrate <pb n="f.34v"/>Remains of these Edifices,
+                    not intended merely as the Residence of Grandeur and Festivity, but likewise
+                    constructed for Protection and Defiance: it reminds us solemnly of the
+                    Transition of Human Greatness, and the uncontroulable changes which take place
+                    not only in Men but in Ages themselves. The appearance in the Inside brought
+                    forcibly on my Memory the affecting Passage of Ossian in Carthon one of his most
+                    pathetic Compositions: <quote><l>“I have seen the Walls of Balclu-</l>
+                        <l>“tha, but they were desolate. The Fire had resoun-</l>
+                        <l>“ded in the Halls: and the Voice of the People is</l>
+                        <l>“heard no more. The Stream of Clutha roll’d mur-</l>
+                        <l>“muring over the fallen Walls. The Thistle</l>
+                        <l>“shook it’s lonely head: the Moss whistled to the</l>
+                        <l>“Wind. The Fox look’d out from the Windows:</l>
+                        <l>“the long Grass of the Wall waved round it’s</l>
+                        <pb n="f.35r"/>
+                        <l>"it’s Head. Desolate is the Dwelling of Moina,</l>
+                        <l>“Silence is in the House of Her Fathers.”<note type="editorial">James
+                                MacPherson, <bibl type="editorial"><title ref="bi0569"><hi rend="italic">Fingal, An Ancient Epic Poem</hi></title>,
+                                    (London: 1762) <biblScope unit="page">p.132</biblScope></bibl>.</note></l></quote></p>
+                <p>At the distance of about 3 Miles from <placeName ref="pl0215">Kilchurn</placeName> on an Island in the Lake call’d <placeName ref="pl0272">Fraochlyn</placeName> (Heath Island) stand the massy remains of
+                    another Castle in an impregnable Situation; but with regard to it’s Founder, and
+                    the Purpose for which it was built, Tradition is silent.</p>
+
+                <p>August 17<hi rend="superscript">th.</hi> Walked to <placeName ref="pl0212">Tayndrum</placeName>. It is a dreary, miserable Place. I here view’d the
+                    Inside of a Highland Hut: at the door there were an Old Man and his Wife, each
+                    past 80, assisting a Young Couple in shearing the Sheep. The Old People look’d
+                    healthy and active. There was no accom<add place="above">modation</add> in it
+                    beyond the reach of the Scanty means, <pb n="f.35v"/>and uninventive <del rend="overstrike">
+                        <gap reason="illegible" unit="letters" quantity="2"/>
+                    </del>
+                    <add place="above">Ge</add>nius of a savage: in Nakedness and Misery it could
+                    not be exceeded by the wigwam of a Hottentot. It’s Economy is simple and soon
+                    described. There is only one Division or Partition in it: by it a small Portion
+                    is set off for the Accommodation of the Family: the Fire is in the middle of
+                    this Part, and above it an aperture in the Roof serving as a chimney, but the
+                    Windows are occasionally used for the same purpose. Over the Fire is suspended a
+                    chain with Hooks (call’d in the Lowlands a Crook) on which they hang their Pots
+                    for boiling Meat; Roasting being necessarily unknown among them. The Beds are
+                    ranged along the Wall each Department of this little Society, having according
+                    to Circumstance a particular one assign’d to it. The other <pb n="f.36r"/>Part
+                    of the Hut which is by far the greatest is used to stow their Feuel, their
+                    Instruments of Trade, Culinary Utensils, Food for their cattle, and occasionally
+                    in severe weather the Cattle themselves. In these uncouth Dwellings to use the
+                    Words of Tacitus applied to the Germans</p>
+                <p><quote>“In hos Artus et haec Corpora quae <lb/>“<unclear reason="illegible">miramur</unclear> excrescunt.”<note type="editorial">Tacitus, <bibl type="editorial"><title ref="bi0342"><hi rend="italic">Germania</hi></title>, <biblScope unit="chapter">XX</biblScope></bibl>. In <hi rend="italic">The Agricola and
+                                Germania of Tacitus</hi>, trans. by K.B. Townshend (London: Methuen,
+                            1894), the entire sentence is translated as: 'In every household the
+                            naked, dirty children develop the mighty limbs and frames that we see
+                            with so much admiration.'</note></quote></p>
+                <p>Nations in a Civilized State are constantly and progressively making
+                    Improvements, and changing the Structure of their Habitations, the Nature of
+                    their Food, the Habits of their Life, and even their National character itself:
+                    but Pastoral Tribes, living in a State of Simplicity, and scatter’d thinly over
+                    a vast but unproductive Country, are in all those Particulars doom’d to a
+                    Stationary Sameness: <pb n="f.36v"/>the Arabs and Tartars will a thousand Years
+                    hence be the same they were a thousand Years ago: and it is probable that about
+                    the middle of last Century the Scotch Highlanders were not very different from
+                    those who lived in the Days of <persName ref="pe0540">Fingal</persName>.</p>
+
+                <p>August 18<hi rend="superscript">th.</hi> Walk’d to <placeName ref="pl0277">Killin</placeName>. this word signifies in the Gaëlic a Burying Place: as
+                    it was here that <persName ref="pe0540">Fingal</persName> was interr’d whose
+                    Tomb is still shew’n. The Entrance into this very pleasant Village is singularly
+                    Romantick. It is situated on a Peninsula on one side of which runs the
+                        <placeName ref="pl0995">River Dochart</placeName>, a broad and copious
+                    Stream, and on <add place="above">the</add> other the <placeName ref="pl1003">Lochay</placeName>, both falling into <placeName ref="pl0104">Loch
+                        Tay</placeName> a Mile below <placeName ref="pl0277">Killin</placeName>. The
+                        <placeName ref="pl0995">Dochart</placeName> close to the Bridge of
+                        <placeName ref="pl0277">Killin</placeName> by which we enter the place is
+                    broken by numberless Rocks, twisting and eddying through <pb n="f.37r"/>a vast
+                    number of Channels, and hurrying over the rugged Fragments in hundreds of Rills
+                    and Cascades. About 3 Miles from <placeName ref="pl0277">Killin</placeName> we
+                    saw two <placeName ref="pl1119">Falls of the Lochay</placeName>, which are very
+                    grand and little if at all inferior to <placeName ref="pl0591">those of the
+                        Clyde at Lanark</placeName>.</p>
+                <p>The Parish of <placeName ref="pl0277">Killin</placeName> extends 30 Miles, and
+                    the whole Duty of it is perform’d by one Pastor, and his assistant.</p>
+                <p>The Country from <placeName ref="pl0212">Tayndrum</placeName> to <placeName ref="pl0277">Killin</placeName> is the Highest in Scotland; it is therefore
+                    by the Highlanders call’d <placeName ref="pl0813">Braid Alba or
+                        Albin</placeName>: Braid signifies Head, Albin <placeName ref="pl0705">Scotland</placeName>. At the <placeName ref="pl1121">Half-way House between
+                        Tayndrum and Killin</placeName> the Top of a Crozier was shew’n to us, which
+                    the owner ignorantly called a Medal, of <pb n="f.37v"/> Rich Workmanship, in the
+                    possession of <persName ref="pe0541">a poor Man of the Name of Dewar</persName>,
+                    certified under a Writing or Probate, sign’d by <persName ref="pe0542">James
+                        1</persName><hi rend="superscript">st.</hi> of <placeName ref="pl0705">Scotland</placeName> to have been in the possession of his Family since the
+                    time of <persName ref="pe0544">Robert Bruce</persName>, and mention’d there as a
+                    Sacred Relique of <persName ref="pe0543">S<hi rend="superscript">t.</hi>
+                        Fillan</persName> who first converted the <placeName ref="pl0744">County of
+                        Perth</placeName> to Christianity.</p>
+
+                <p>August 20<hi rend="superscript">th.</hi> Walk’d to <placeName ref="pl0103">Kenmore</placeName> or <placeName ref="pl0107">Tay-mouth</placeName>: the
+                    course lay along the Banks of <placeName ref="pl0104">Loch-tay</placeName>.</p>
+                <p>We began about 5 O Clock in the morning: the Dawn was clear and silvery: the Lake
+                    was perfectly smooth, and an even mild Light being universally diffused over it,
+                    the Face of it appear’d as if it had been polish’d and reflected the opposite
+                    Country, <pb n="f.38r"/> which was High and sloped down regularly to the Outline
+                    of the Lake, with all it’s Fields, Woods and the surmounting Hills with as clean
+                    and precise a Definition as could have been produced by a Mirror. The Loch is on
+                    all sides surrounded with Greatness. Towards <placeName ref="pl0277">Killin</placeName> we saw it magnificently terminated by <placeName ref="pl0815">the Hill of Benmore</placeName>, one of the Highest in
+                        <placeName ref="pl0705">Scotland</placeName>, rising in Elevation to the Eye
+                    as we encreas’d our Distance from it, and sinking the scenery approximate to it
+                    in proportion, an appearance familiar to those who have travell’d in mountainous
+                    Countries. We visited in our way <placeName ref="pl1122">L<hi rend="superscript">d.</hi> Breadalbane’s Hermitage</placeName>, from a Window of which,
+                        <pb n="f.38v"/> contrived on purpose, there is seen a Cataract 140 Feet high
+                    rushing down from the muddel of an amphitheatre of Wood at about 60 Yards
+                    distance. <placeName ref="pl0101">L<hi rend="superscript">d.</hi> Breadalbane’s
+                        Seat</placeName> here is admirably situated: there is a very broad walk or
+                    rather Terrace in his Park running 3 Miles along <placeName ref="pl0096">the
+                        Tay</placeName> particularly entitled to Admiration.<note type="authorial">On the 12.th Sept<hi rend="superscript">r.</hi> 1784 at 9 O Clock in the
+                        Morning <placeName ref="pl0104">Loch Tay</placeName> suddenly left the East
+                        End 300 Feet dry; it roll’d on 300 Feet farther, and met another wave
+                        rushing in a Contrary Direction. The Collision rais’d them to the Height of
+                        6 Feet: the whole Body then took a compound or lateral Direction Southward,
+                        and went 4 Feet beyond the highest Watermark. — It ebb’d and flow’d every 7
+                        Minutes for 2 Hours until it recover’d it’s Station.</note></p>
+                <p>August 21<hi rend="superscript">st.</hi> Parted with my Friend <persName ref="pe0545">M<hi rend="superscript">r.</hi> Booth</persName>.</p>
+                <p>I walk’d to <placeName ref="pl0099">Dunkeld</placeName> along <placeName ref="pl0096">the Tay</placeName>: on both sides of which I observ’d a great
+                    Number of Gentleman’s seats with their Policies (Plantations): and abundance of
+                    Farm Houses neatly built, and around them a fruitful and highly cultivated
+                    Country, giving Employment to a numerous Peasantry at that time employ’d in <pb n="f.39r"/>
+                    <pb n="f.39v"/>
+                    <pb n="f.40r"/>getting in the Harvest.</p>
+                <p>Some way beyond the 7<hi rend="superscript">th.</hi> Mile Stone I was surprised
+                    at the Appearance of 4 stones standing perpendicularly in a Field near the Road
+                    upon a small Hillock.<note type="editorial">Possibly the stone circle at
+                            <placeName ref="pl1123">Croft Moraig</placeName> between <placeName ref="pl0107">Taymouth</placeName> and <placeName ref="pl1124">Aberfeldy</placeName></note> On going up and examining it, I found it
+                    to be the remains of Druidical Temple, and could trace the Situation of the
+                    other stones, and even the Vestiges of the Entrance very distinctly, according
+                    to the perfect Model discover’d a few Years ago at <placeName ref="pl1125">Jersey</placeName>, and now erected in <persName ref="pe0546">General
+                        Conway’s</persName>
+                    <placeName ref="pl1126">Grounds at Henley</placeName>. It occurs to me at this
+                    moment, as a singular Circumstance, that having formerly walk’d about 50 Miles
+                    in different Directions in <placeName ref="pl1093">the Island of <pb n="f.40v"/>
+                        Anglesey</placeName> the Chief Seat of the Druids, and of consequence the
+                    Emporium of their superstition, I met with no Monument of a similar Kind. — The
+                    highest Stone in this was 10 Feet from the Ground, about 4 in breadth and 6
+                    Inches in thickness.</p>
+                <p>The Access to <placeName ref="pl0099">Dunkeld</placeName> is thro’ a deep Glen
+                    guarded on each side by high Hills of steep Ascent, cover’d with Pine Woods
+                    through which we sometimes see the Rocks looking down majestically on <placeName ref="pl0096">the River Tay</placeName>. This Scene continues for about 3
+                    Miles. <placeName ref="pl0099">Dunkeld</placeName> stands close to the River,
+                    embosom’d in Woods and Eminences that surround it, exhibiting a beautiful Coup
+                    d’œil, and singular in that Beauty. It has the Depth of <persName ref="pe0509">Salvator Rosa </persName>without his Horror: it has the Richness and <pb n="f.41r"/> chastity of <persName ref="pe0547">Claude Lorrain</persName>
+                    though not his Extent and Variety.</p>
+                <p>In looking down upon <placeName ref="pl0099">the Town</placeName> from Hill to
+                    the Westward of it, the Buildings appear without any Exception regular and
+                    uniform: The Walls are all white: the Roofs are slated, and as the streets run
+                    in straight lines, the Houses appear from that view arranged in even Rows. Here
+                    the <persName ref="pe0548">Duke of Athol</persName> has a seat: <placeName ref="pl1127">his House</placeName> is commodious but no ways remarkable. It
+                    was here that <persName ref="pe0087">the late Duke</persName> in a fit of Fury
+                    and Derangement, the Effect of a Fever, eluded his Keepers and drown’d Himself
+                    in the River. He is universally spoken of in this Country as having been a Man
+                    of the most amiable character.</p>
+
+                <p><pb n="f.41v"/> August 22<hi rend="superscript">d.</hi> Walk’d to <placeName ref="pl0110">Blair</placeName>.</p>
+                <p>The Castle at this Place which is well Known to have stood a Siege in the Year
+                    1746 is now modernized, and is a Residence of <persName ref="pe0548">the Duke of
+                        Athol</persName>.</p>
+                <p>In this route I went through the famous <placeName ref="pl0112">Pass of
+                        Killycrankie</placeName>. It has infinitely more Grandeur with a less
+                    mixture of the Horrible than any of the numerous Defiles which I have as yet
+                    seen in the Highlands. I must not omit to mention that near the
+                        <sic>begginning</sic> of it I met with <placeName ref="pl1128">another
+                        Cromleach </placeName>with 6 of the Stones standing and unbroken.</p>
+                <p>August 23. Went from <placeName ref="pl0110">Blair</placeName> to <placeName ref="pl0112">Killycrankie</placeName> and view’d the Field of Battle fought
+                    between <persName ref="pe0549">Lord Dundee</persName> and <persName ref="pe0550">General M<hi rend="superscript">c</hi>Kay</persName>, on July 7<hi rend="superscript">th.</hi> 1789.</p>
+                <p><pb n="f.42r"/> From examining the Nature of the Ground <persName ref="pe0549">Dundee’s</persName> Disposition appears to have been as masterly, as that
+                    of his opponent was weak and injudicious. His first Position was on the Face of
+                    a very extensive Hill which in a manner flanks the Pass: at the Foot of it there
+                    is a Plain bounded by a Bank towards the River, and the Flat of the Defile. On
+                    the appearance of <persName ref="pe0550">M<hi rend="superscript">c</hi>Kays</persName> Army He descended, and ranged his Troops on the
+                    Plain. By this measure He secured an advantageous Ground, and an excellent
+                    Retreat in case of a Disaster; as he could easily retire to his former
+                    impregnable Situation.</p>
+                <p><persName ref="pe0550">M<hi rend="superscript">c</hi>Kay</persName> drew up his
+                    Men close to the Bank upon a narrow Plain, a choice of situation subject to
+                    innumerable Inconveniences without a single Advantage. <pb n="f.42v"/> In the
+                    first place his Retreat in consequence of a Discomfiture was cut off by the
+                    Rivers <placeName ref="pl1129">Gary</placeName> and <placeName ref="pl0096">Tay</placeName>. His Horse and Artillery were absolutely useless, there
+                    being no Room for either to act on the Front of the Highlanders. As the Plain
+                    was so narrow He could not change his Line of Battle, and was therefore exposed
+                    to being outflanked by <persName ref="pe0549">Dundee’s</persName> Army, who
+                    could choose their mode of fighting; and which actually took place. As the Pass
+                    was close to the Scene of Battle, it encreas’d the Confusion when an impetuous
+                    Enemy poured down upon them and broke their Ranks.</p>
+                <p>The unfortunate Event might have been prevented in two ways. He might have pass’d
+                    the <placeName ref="pl1129">River Gary</placeName> immediately on leaving the
+                    Defile, when He could have drawn up his Army on a Rising Ground with the River
+                        <pb n="f.43r"/> in their Front, and so render’d the attack of the
+                    Highlanders, who depended on their broad swords, useless and dangerous: by
+                    keeping them for a long time expose to a galling and destructive Musquetry, in
+                    which his Men must have been superior, as more steady and practiced.</p>
+                <p>The other Mode was to have maintaind a running Battle on the same Plain where the
+                    Struggle took place, and in the Course of 2 Miles’ March He would have arriv’d
+                    on a level Ground, with sufficient space for 50,000 men to act. This was the
+                    last of the great Actions perform’d by the Highlanders, as <persName ref="pe0549">Dundee</persName> is the last of those Heroes whose memory they
+                    cherish with a fond and superstitious Veneration. <pb n="f.43v"/> Tradition has
+                    here conferr’d on one man at least a local Immortality. His Name was <persName ref="pe0551">Donald Gorme</persName>: it appears that He was a Man of great
+                    bodily Strength, as well as of Courage: during the Flight of <persName ref="pe0550">M<hi rend="superscript">c</hi>Kay’s</persName> Men across the
+                    River He planted himself in the place where there was the greatest Press, and
+                    was observ’d to cut down 13 Men with his Claymore: but a Horseman from the
+                    opposite side who had recover’d from his Pannic took a fatal aim at Him, and
+                    shot him dead.</p>
+                <p>August 25<hi rend="superscript">th.</hi> Walked to <placeName ref="pl1130">Dalnacardoc</placeName>
+                    <lb/>26<hi rend="superscript">th.</hi> To <placeName ref="pl1131">Dalwhinie</placeName> by the <placeName ref="pl1132">Glen of
+                        Dramoochquhar</placeName>. <lb/>27<hi rend="superscript">th.</hi> To
+                        <persName ref="pl0198">Fort Augustus</persName> over the tremendous
+                        <persName ref="pl1133">Mountain of Corriaarack</persName>, and crossing
+                        <placeName ref="pl0143">my Native River the Spey</placeName> at <placeName ref="pl1134">Garviemore</placeName>. These 3 Stages and particularly <pb n="f.44r"/>the last are over a wild and barbarous Country: the Road from
+                        <placeName ref="pl1131">Dalwhinie</placeName> to <placeName ref="pl0198">F.
+                        Augustus</placeName> is shocking.</p>
+                <p><placeName ref="pl0198">The Fort</placeName> is in a beautiful situation at one
+                    end of the <placeName ref="pl0193">Loch Ness</placeName>: the Garrisoning of it
+                    is now a mere Formality</p>
+                <p>August 28. Walk’d to the <placeName ref="pl0196">Fall of Fyers</placeName> the
+                    greatest in <placeName ref="pl0705">Scotland</placeName>. The whole Body of the
+                        <placeName ref="pl1660">River <unclear reason="illegible">Fechloyn</unclear></placeName> is confin’d at the Top between two Rocks,
+                    forming a very narrow Passage for the Water, which is precipitated from this
+                    Place to an amazing Depth<hi rend="superscript">x</hi><note type="authorial">(x
+                        200 feet.)</note> below, and enlarging it’s Dimensions at it descends; until
+                    it is plunged and swallow’s up in a deep Gulf, the water of which is so
+                    infuriated, and throws up such Volumes of spray, that it’s surface cannot be
+                    seen. <pb n="f.44v"/>As far as I could judge by the Eye it was double the Height
+                    of the three Columns that compose <placeName ref="pl0594">the Fall at
+                        Stone-Byers</placeName>.</p>
+                <p>This Night I slept at a miserable Hut on a Bed of Straw and Pillow of Fern, with
+                    a Coarse Blanket under me, and two by way of Cover: I could in the Morning see
+                    Parts of the Landscape through many a cranny in the walls, and there was
+                    abundance of Light from above. It was however the ordinary Repose of a Celtick
+                    Beauty, Daughter of the woman of the House, who probably was better accommodated
+                    than thousands of her Countrywomen. Fatigue like Virtue is its Reward for I
+                    never slept sounder.</p>
+                <p>August 29. Walked to <placeName ref="pl0156">Inverness</placeName> along
+                        <placeName ref="pl0193">the Loch</placeName>, which was uniformly grand: the
+                    Road in general good, and <sic>semingly</sic>
+                    <pb n="f.45r"/>made with prodigious Difficulty, running over solid Rock for a
+                    great way, blown and levell’d on purpose. — Arrived in <placeName ref="pl0156">Inverness</placeName>.</p>
+                <p>This Place may be stiled the Capital of <placeName ref="pl0711">the
+                        Highlands</placeName> as it takes the lead of every other in this District
+                    of the Country in Population, in Trade and in Fashion. The Number and Burden of
+                    the Shipping in the Harbour did not seem to indicate any considerable Commerce,
+                    and I believe the chief Article of Export if Salmon of which they send a great
+                    Quantity to <placeName ref="pl0775">England</placeName> and Foreign
+                    Countries</p>
+                <p>The Country around <placeName ref="pl0156">Inverness</placeName> is beautiful and
+                    fertile; they were going on briskly with their Harvest at this time <pb n="f.45v"/>and had gotten the start of their Southern Neighbours by a
+                    Fortnight. This superior Earliness of the Harvest is owing to their dry
+                    Situation and Proximity to the Sea. — The Town itself is neither large, nor well
+                    built, nor very clean owing to it’s being in a low Situation. There is a
+                    singular Hill called the <placeName ref="pl0822">Tomanewry</placeName> which is
+                    a great ornament to it’s Neighbourhood. It is completely detached from any other
+                    Eminence, is cover’d with a beautiful Wood, and exactly resembles a Ship’s Hull
+                    with the Keel uppermost. Between <placeName ref="pl0198">F<hi rend="superscript">t.</hi> augustus</placeName> and this Place I saw a Hill not a little
+                    resembling <placeName ref="pl1104">the Rock of Dunbarton</placeName>, much of
+                    the same size and like it completely insulated.</p>
+                <p><pb n="f.46r"/><placeName ref="pl1135">The Castle of Inverness</placeName> is now
+                    completely ruined, and it’s Fate was rather singular; for it did not perish by a
+                    gradual decay, but fell by the Effect of a Frost in one enormous Mass. in it
+                        <persName ref="pe0552">Duncan King of Scots</persName> was murder’d by
+                        <persName ref="pe0553">the Usurper M<hi rend="superscript">c.</hi>Beth</persName>, an Event immortalized in <bibl type="authorial"><title ref="bi0570">one of the most exalted Productions of Human
+                            Genius</title></bibl>.</p>
+                <p>As this place is well calculated as a Resort for Education to the Young Highland
+                    Gentry, an Academy has lately been endow’d here by Subscription, where the same
+                    mode of Education is pursued which prevails in the Scotch Colleges. I should
+                    regard the Man who would found a College in this Remote Corner of <placeName ref="pl1136">the United Kingdoms</placeName> as entitled to the Veneration
+                    and Gratitude of <placeName ref="pl0705">Scotland</placeName>, <pb n="f.46v"/>and an essential Benefactor to the whole Island.</p>
+                <p>Aug<hi rend="superscript">t.</hi> 31<hi rend="superscript">st.</hi> Left
+                        <placeName ref="pl0156">Inverness</placeName> on my Route to <placeName ref="pl0153">Fort George</placeName>, passing over a most dreary Region of
+                    Silence, Barrenness and Horror. About 4 Miles from the Fort I met with a
+                    Curiosity the chief perhaps of it’s kind in <placeName ref="pl0777">the Island
+                        of Great Britain</placeName>. It is a Cromleach composed of two Concentric
+                    Circles, the exterior of which measured in Diameter 35 of my Paces or 83 feet:
+                    the Stones, of which there was a prodigious number, were of incredible size, and
+                    must have been brought from a considerable distance, for I could see no Place in
+                    the Neighbourhood where it was likely that they were produced.<note type="editorial">Possibly a description of the stone circles and chambered
+                        cairns at <placeName ref="pl1661">Balnuaran Of Clava</placeName>, near Fort
+                        George.</note> Surely we are accustom’d to hold distant Ages in excessive
+                    and undeserv’d Contempt; for the <pb n="f.47r"/>Mechanical Skill required in
+                    this Erection must have been very great, &amp; perhaps could not be exceeded in
+                    modern times. — It was mention’d to me that in those Places of <placeName ref="pl0705">Scotland</placeName> where Cromleachs are found the Inhabitants
+                    in the Neighbourhood can assign by tradition a Name to every Stone, which is a
+                    Designation of it’s particular Purpose or use in the general assemblage: such as
+                    the Stone of Sacrifices (which were unquestionably Human): Stone of the Altar
+                    &amp;c.</p>
+                <p><placeName ref="pl0153">Fort George</placeName> in which I slept this Night is a
+                    beautiful, regular and strong Fortification, and constructed according to the
+                    System of <persName ref="pe0554">Vauban</persName>. The Barracks are built in 3
+                    Quadrangles inside of the Fort and under cover, their Roofs <pb n="f.47v"/>being
+                    no higher than the Ramparts, and the Casemates and Magazines are Bombproof.
+                    There is a most delightful Walk round the Ramparts.</p>
+                <p>The 3 Forts along the Lochs were at first intended to repress the disaffected
+                    spirit of the Highlanders, by introducing a Military Force into the very Vitals
+                    of their Country, and cutting off the Communication between the Northern and
+                    Western Clans: but soon after this Scheme was executed, there arose a Man who
+                    went far beyond the Views of Vulgar Politicians, and knew that the mind was not
+                    to be subdued by external Force.<persName ref="pe0245">Lord Chatham</persName>
+                    in the War which He so successfully conducted against <placeName ref="pl0925">France</placeName> would not allow the martial Disposition of the
+                    Highlanders to lie dormant and <pb n="f.48r"/> useless, but gave Commissions to
+                    their Chiefs who accordingly brought their adherents into the Army, and ever
+                    since they have been as zealous in the Service of the House of Brunswick as they
+                    were formerly in their Devotion to the Stuarts.</p>
+                <p>On my way to <placeName ref="pl0153">Fort George</placeName> I view’d <placeName ref="pl0155">the Scene of Battle fought on Culloden Moor</placeName> on
+                        16<hi rend="superscript">th</hi> Apl 1764: a Day which annihilated the Glory
+                    of one of the most illustrious Families that Europe had ever known, over which
+                    Fortune had exercis’d a Capricious and Tyrannical Sway: the Individuals as well
+                    as the whole Race having <add place="above">alternately</add> enjoy’d her
+                    Smiles, and been subject to her Scourge; and as the Morning of their Lives rose
+                    with Transcendant Splendor, so it was <pb n="f.48v"/>generally overtaken by a
+                    premature and disastrous Obscurity.<note type="authorial">After the Battle of
+                            <placeName ref="pl0155">Culloden</placeName>
+                        <persName ref="pe0559">the defeated Prince</persName> was guarded by
+                            <persName ref="pe0560">a Highlander of the Name of McKian (or
+                            Kennedy)</persName>. This Man’s Conduct affords a most illustrious
+                        Example of Highland Courage and Fidelity. He expos’d his Life in every shape
+                        to maintain Him in his concealment: He stole plunder’d and robb’d for this
+                        pupose, when He Knew that by betraying his trust He could gain £30,000. At
+                        last after He had effected his Escape, being impell’d by the direst
+                        Necessity, in order to maintain his Family, He stole a Cow for which He was
+                        tried and hang’d at <placeName ref="pl0156">Inverness</placeName>. <persName ref="pe0561">George the II<hi rend="superscript">d.</hi></persName> who
+                        could prize this Man’s Qualities. although an Enemy, declared if He had
+                        known the Circumstances sooner He would have placed Him beyond the Reach of
+                        Poverty. Before his Execution He made a Declaration which seems to be equal
+                        to any thing ever utter’d by a dying Hero or Philosopher in Ancient or
+                        Modern Times. He took off his Bonnet, and said He thank’d God that <p><quote>
+                                <lb/>“He never betray’d a Trust, never injured the <lb/>“Poor, and
+                                never refused a Share <lb/>“of what He had to the Stranger <lb/>“and
+                                Helpless”. </quote></p></note></p>
+                <p>It may be safely pronounced that the Issue of that Rebellion was highly
+                    beneficial to <placeName ref="pl0705">Scotland</placeName>. The Mortification of
+                    the severe Defeat which they had sustain’d sunk deeply in the Minds of the
+                    Highland Clans, and made them regard all further Resistance to the Establish’d
+                    Government as desperate and unavailing. An arm’d Force was introduced into their
+                    Country and for the first time a standing Army watch’d all their Motions, and
+                    render’d any Combination among them impossible. The Legislature had a Pretence,
+                    and possess’d the Abiltiy to crush those Allodial Jurisdictions exercised by the
+                    Chieftans of the <pb n="f.49r"/>different Clans, which made every one of them
+                    regard it’s own Head as their only Legitimate Ruler; and their Duty to Him often
+                    superseded every Obligation of Loyalty and Justice. As soon as this Power was
+                    withdrawn ––––– the spirit of Clanship and enthusiastick atttachment to their
+                    Hereditary Leaders immediately began to decay: for although the Indigenous
+                    Spirit of every Tribe, and it’s separate and exclusive Union together with their
+                    general Love of Ancestry still remain’d, yet their Chiefs thus stripp’d of
+                    Authority could no longer inspire Terror, the commanding Principle of Political
+                    Obedience, and even of affection among Men. This Constitution of Clanship was
+                    very inconsistent, or rather <pb n="f.49v"/>absolutely incompatible with Civil
+                    Government, every Part in such a System having <sic>irreconcileable</sic>
+                    Prejudices, and considering it’s own Interests as totally separated from the
+                    General Welfare. It besides nourish’d a martial or rather a ferocious
+                    Disposition among the Highlanders, being the source of numberless &amp; immortal
+                    Broils, which were continually calling forth their Exertions against each other.
+                    But this Disposition became extremely formidable when, as was frequently the
+                    case, it was exercised in Rebellion against the Sovereign Power of the Country:
+                    it was for centuries the Scourge and Terror of the Government in <placeName ref="pl0705">Scotland</placeName>, nor can we regard the Highland Clans as
+                    forming a united and effective Branch of the Scottish Nation under it’s Old
+                    Kings.</p>
+                <p><pb n="f.50r"/> Now that these Mountaineers enjoy a Community of Privileges with
+                    their Fellow Subjects, and as their Ancient Habits decline they discover every
+                    day a greater Aptitude for Civil Government &amp; Society. It makes People of
+                    inferior Understanding Smile to observe, that so great a Genius as <persName ref="pe0127">Lord Kaimes</persName> should lament the decay of their Warlike
+                        Disposition,<note type="editorial">Probably a reference to Kames's <bibl type="editorial"><title ref="bi0571"><hi rend="italic">Sketches of the
+                                    History of Man</hi></title>, <biblScope unit="volume">Volume
+                            </biblScope>, <biblScope unit="page">p.</biblScope></bibl>.</note> and
+                    consider that part of their Character as most meritorious which for Ages
+                    involved themselves and their Country in perpetual Confusion: but they still
+                    retain Qualities which constitute them excellent Soldiers, Courage, Obedience,
+                    Fidelity and Perseverance.</p>
+                <p>The Battle which seems for ever <add place="above">to have</add> decided their
+                    Fate was fought <pb n="f.50v"/> on <placeName ref="pl0155">an extensive
+                        Moor</placeName> open in all directions for many Miles; a fair Field of
+                    Contention where there was neither Advantage to the Victors nor Retreat for the
+                    Vanquish’d. It was fought in a manner characteristick of the different Qualities
+                    of the two Contending Nations; on the part of the Highlanders with a generous
+                    &amp; impetuous Valour, opposed by the other army with a cool and determin’d
+                    Bravery.</p>
+                <p>In this route through the <placeName ref="pl0711">Highlands</placeName> beginning
+                    at <placeName ref="pl0226">Dunbarton</placeName> &amp; ending at <placeName ref="pl0156">Inverness</placeName> the Roads are excellent with the
+                    Exception of that from <placeName ref="pl0212">Tayndrum</placeName> to
+                        <placeName ref="pl0277">Killin</placeName>, and from <placeName ref="pl1134">Garviemore</placeName> to <placeName ref="pl0198">F<hi rend="superscript">t.</hi> Augustus</placeName>, the first 22 the other 18 Miles. These
+                    are called <pb n="f.51r"/> Military Roads, having been executed by the different
+                    Regiments stationed in the Country after the Rebellion. The Expence was defray’d
+                    out of the Income of the Forfeited Estates and a Sum has been funded, annually
+                    producing £5000, at the disposal of Commissioners, for their Repair. They were
+                    intended for the wise purpose of facilitating the Intercourse between Remote
+                    Country and the other Parts of the Island, and perhaps to make it more
+                    accessible in case of Rebellion. How far this Measure may tend to produce an
+                    Identity of Language, Manners, and Modes of Thinking between the Highlanders and
+                    their Southern Neighbours it is not easy to ascertain: but it certainly will
+                    require <pb n="f.51v"/>a great length of Time, perhaps Ages, for that purpose.
+                    It is amazing over what a Tract of <placeName ref="pl0705">Scotland</placeName>
+                    the Gaëlick Language still extends. The Line of Demarcation between the two
+                    Tongues seems to begin from <placeName ref="pl0153">S<hi rend="superscript">t.</hi> George,</placeName> going by <placeName ref="pl1137">Nairn</placeName>, and then South East 20 Miles West of <placeName ref="pl0145">Elgin</placeName> and <placeName ref="pl0144">Fochabers</placeName> thence by <placeName ref="pl0116">Bremar</placeName>
+                    on the <placeName ref="pl1138">River Dee</placeName>, from thence all along the
+                    Western Boundary of <placeName ref="pl0733">Angus Shire</placeName>, and then in
+                    a Straight line to <placeName ref="pl0226">Dunbarton</placeName>; a Tract equal
+                    to two thirds of the whole Extent of <placeName ref="pl0705">Scotland</placeName>: all to the North and West of this Boundary speak
+                    Gaelick.</p>
+                <p>along this Route we found the People universally attentive, civil, and obliging,
+                    with something of a Gentility of Manner <pb n="f.52r"/>and Behaviour not to be
+                    met with in the <placeName ref="pl1139">Lowlands</placeName>. Indeed from the
+                        <placeName ref="pl1140">Borders</placeName> to <placeName ref="pl0226">Dunbarton</placeName> they seem’d to possess little of the Character of the
+                    North: they were sullen, sulky and uncivil; a character which I am afraid is too
+                    just when applied to most of the Southern Scots. From <placeName ref="pl0226">Dunbarton</placeName> to <placeName ref="pl0156">Inverness</placeName> by a
+                    Route 251 Miles in length I was never once solicited for charity although I met
+                    Multitudes of needy Objects. Many of Them who have come a very considerable
+                    Distance (sometimes about 2 Miles) to point out the way would not accept of
+                    money when offer’d to them; which I believe would rarely occur south of the <pb n="f.52v"/>
+                    <placeName ref="pl0727">Tweed</placeName>. I have a pleasure in bearing this
+                    Testimony to the Character of a Peo<add place="above">ple</add> who among us are
+                    prejudg’d, and look’d on as a race of Savages and Enemies to every Civil Virtue.
+                    Whoever can travel in this Country with Indifference has neither Eyes to see,
+                    nor a Heart to feel. Great Caution is to be observ’d in taking the Report of the
+                    Highlanders and Lowlanders relating to each other: there prevails between them
+                    an inveterate &amp; illiberal Antipathy, similar to Protestants and Roman
+                    Catholicks in <placeName ref="pl0889">Ireland</placeName>, nor do I know of any
+                    other Parallell in this respect of the three Kingdoms.</p>
+                <p><pb n="f.53r"/> September 1<hi rend="superscript">st.</hi> Walk’d to <placeName ref="pl0148">Forres</placeName>. It is a neat clean Town, and situated in a
+                    Rich and Delightful Country. The View from some Eminences in the Neighbourhood
+                    extends over almost the whole Rich and Productive Plain of <placeName ref="pl1141">Murray Shire</placeName>, the Granary of <placeName ref="pl0705">Scotland</placeName>, and the finest Corn Country in <placeName ref="pl0777">the Island of Great Britain</placeName>: we saw a most
+                    extensive Range of dry and level Country cover’d with Fields of Wheat, Oats, and
+                    Barley and deficient in Nothing by Pasturage which seems to be comparatively
+                        trifling.<note type="authorial">Many Years ago the Estate of <placeName ref="">Culbane</placeName> extending many miles along the Sea Coast from
+                            <placeName ref="">Findhorn</placeName> to <placeName ref="">Nairn</placeName> was completely overwhelm’d with Sand by a Tempest in
+                        the Sea.</note><note type="editorial">The 'inundation' of coastal land by
+                        sand dunes was noted by travellers as a cause for environmental concern.
+                        Thomas Pennant describes the appearance of this phenomenon at Findhorn in
+                            <bibl type="editorial"><title ref="bi0001">A tour in Scotland
+                                1769</title></bibl> (1771), pp.131-32.</note> An English Spectator
+                    would be very much deceiv’d in estimating the Riches of this fine Province: for
+                    altho’ the whole surface of the Soil which is <pb n="f.53v"/> deep and
+                    luxuriant, is cover’d with the most abundant Crops, yet, owing to the want of
+                    Hedges and Inclosures as in <placeName ref="pl0775">England</placeName> where
+                    they sometimes disguise a natural Sterility of the Country, the Prospect has a
+                    bare and naked Aspect. This View comprehends the Hills of <placeName ref="pl1142">Rossshire</placeName>, the Entrance of the Famous <placeName ref="pl1143">Bay of Cromarty</placeName>; the Country in the Neighbourhood
+                    of <placeName ref="pl0156">Inverness</placeName>, and <placeName ref="pl0153">S<hi rend="superscript">t.</hi> George</placeName>; the <placeName ref="pl1144">Town &amp; Harbour of Findhorn</placeName>, and the bold
+                    Promontory of <placeName ref="pl1145">Brough Head</placeName>. This last is the
+                        <placeName ref="pl1010">Gibraltar</placeName> of <placeName ref="pl1141">Murray-Shire</placeName>. As this Part of <placeName ref="pl0705">Scotland</placeName> was the chief Theatre of the Ravages of the Danes they
+                    fortified this Peninsula very strongly on the Landside, and towards the Sea it
+                    was naturally impregnable, being <pb n="f.54r"/> surrounded with deep water with
+                    an excellent Harbour that afforded Shelter to the Ships which transported those
+                    destructive Hordes of Free-booters. This was always their last refuge in case of
+                    Misfortune and Defeat: as they were Masters of the Sea it was impossible for the
+                    Scots to cut off their Retreat, or prevent their landing in that way. West of
+                        <placeName ref="pl0148">Forres</placeName> stand the <placeName ref="pl1146">Remains of a Palace</placeName> of <persName ref="pe1015">King
+                        Duffus</persName>.</p>
+                <p>About ¾ of a Mile E. from <placeName ref="pl0148">Forres</placeName> there is a
+                    singular Curiosity, which has generally attracted the Notice of Travellers, and
+                    long employ’d the Conjectures of Historians and Antiquaries. It is a <placeName ref="pl0147">Stone Column</placeName> of the amazing Height of 23 Feet and
+                    an <pb n="f.54v"/>Experiment having been made some Years <add place="above">ago</add> to ascertain the Foundation, they dug to the Depth of 14 Feet
+                    finding the Stone still entire, when the Attempt was given up. The Pillar is
+                    about a Yard broad, and about 9 Inches in thickness. The Surface towards the
+                    North is cover’d with sculpture merely ornamental, without any particular
+                    Design. The opposite or South Side seems intended to convey the Historical
+                    Design of the Erection. It is divided into 3 Partitions or compartments. The
+                    lowest contains on the right hand side some Human Figures, and on the left 3
+                    Lions passant: the 2<hi rend="superscript">d.</hi> is the most inexplicable: on
+                    the right hand are a <pb n="f.55"/><note type="editorial">An engraving of the
+                        Pillar of Forres with a maid milking a cow and the town in the distance is
+                        pasted into the journal here with the print partly visible through the
+                        verso-side of the folio it is attached to. The publication from which the
+                        image has been taken has not been identified. The printed title of the image
+                        is ‘FORRES’; below the image are the names of the artist and engraver: ‘A.
+                        Grant del.’ and ‘F.Cary.Sculp’.</note>
+                    <pb n="f.56r"/>number of Arm’d Men; on left an equal Number lying as if dead; in
+                    the middle Representation of a Tower or Castle with two Figures like Lions
+                    attempting to enter it’s Gate: in the middle of the highest Division there
+                    stands a supereminent Figure of a larger Size, and seemingly better executed
+                    than the Rest in a complete Highland Garb. This circumstance determines me to
+                    believe that it is a Scottish, and not a Danish Monument, notwithstanding many
+                    Opinions to the contrary. This Part of <placeName ref="pl0705">Scotland</placeName> was the Scene of such a multitude of interesting
+                    Events, that, if we pretend to assign the precise Circumstance which it is
+                    intended to <pb n="f.56v"/>commemorate, we must depend entirely on arbitrary and
+                    lawless Conjecture.</p>
+                <p>On my way to <placeName ref="pl0148">Forres</placeName> I stopt at <placeName ref="pl1147">Calder</placeName>, and saw <placeName ref="pl0152">the
+                        Castle</placeName>. In the Inside and Center of the Building there stands
+                    the stem of a Thorn Tree, said to be coeval with the Foundation of the Castle;
+                    but by what whim it was placed there, is not precisely known. On the Top of this
+                    Castle there is a Room to which we ascend by a Ladder over the Roof where
+                        <persName ref="pe0154">Simon Lord Lovat</persName> was concealed after the
+                    Battle of <placeName ref="pl0155">Culloden</placeName>.</p>
+                <p>In one of the Rooms is preserv’d the Bed on which <persName ref="pe0552">Duncan</persName> was murder’d by <persName ref="pe0553">MacBeth</persName>: the Sculpture of it is Rich but artless, and very much in
+                    the Stile of that <pb n="f.57r"/>on the <placeName ref="pl0147">Pillar at
+                        Forres</placeName>: the ornamental part especially, where there were no
+                    Figures, was exactly the same in both, nor do I know what Inference to draw from
+                    the similarity.</p>
+                <p>Sept<hi rend="superscript">r.</hi> 3<hi rend="superscript">d.</hi> Walk’d to
+                        <placeName ref="pl0145">Elgin</placeName>. This Place is but the Shadow of
+                    what it was.<note type="authorial">There are various Conjectures concerning the
+                        Derivation of <placeName ref="pl0145">Elgin</placeName>. The most probable
+                        seems to be that it was named after <persName ref="pe1022">Helgey</persName>
+                        General of <placeName ref="pe1023">Sigurd King of Norway</placeName> who
+                        conquer’d <placeName ref="pl1141">Murrayshire</placeName> in 927. and is
+                        said to have built a Town in the Southern Part of it. It was anciently
+                        written <placeName ref="pl0145">Helgeyn</placeName> or <placeName ref="pl0145">Helgun</placeName>.</note><note type="editorial">For a
+                        similar etymology of Elgin see Sir John Sinclair's <bibl type="editorial">
+                            <title ref="bi0169"><hi rend="italic">Statistical Account of
+                                    Scotland</hi></title> 21 vols (Edinburgh: 1791-1799), <biblScope unit="volume">v</biblScope>,<biblScope unit="page">
+                            p.2</biblScope>.</bibl></note> The great number of Remains of Ancient
+                    Buildings which it contains give it a melancholy Aspect, but sufficiently
+                    indicate what it was in the flourishing Days of it’s Wealth and Splendor. It has
+                    greatly declined in consequence and Population; for about 40 Years ago it had
+                    6306 Inhabitants, at present it has only 4534. The Country in it’s Neighbourhood
+                    is exceedingly rich, and well cultivated. <pb n="f.57v"/>Here I view’d
+                        <placeName ref="pl1148">the Magnificent Ruins of the
+                    Cathedral</placeName></p>
+                <p>The Western Front or Grand Entrance consists of two Square Towers, and between
+                    these there is a Door with fine cluster’d Gothick Pilasters, supporting a Rich
+                    and corresponding Arch. Half way between these Towers and the Eastern End, or
+                    Termination of the Chapel, there are two others facing the North and South
+                    projecting to a small distance on each side, so as to form a Cross with the Body
+                    of the Cathedral, and their Fronts appear to be double of those of the Western
+                    Entrance. Beyond these it narrows considerably forming the chancel which is the
+                        <pb n="f.58r"/>most entire Part of the Building: it’s Eastern Extremity has
+                    5 large Windows in the lower part, as many smaller over them, the whole
+                    surmounted by a noble and circular one.</p>
+                <p>Between the middle Towers and the End of the Chancel there is a Projection on
+                    each side of a singular kind, which when entire, must have been very grand. One
+                    of these is no more, and can only be known to have existed by Analogy from
+                    seeing the other, which is in a tolerable State of Preservation. It consists of
+                    a straight Part issuing at Right Angles from the Body of the Chancel, and
+                    terminating in an Octagon Tower; in the inside of which there is a Masterly
+                    Achievement <pb n="f.58v"/>of Gothick architecture, which is a Massy Dome of
+                    Stone centrally supported by a single slender and beautiful Pillar, similar to
+                    that which supports the Lobby of <placeName ref="pl1149">Christ Church Hall in
+                        Oxford</placeName>. The Windows and ornaments in the Inside of the
+                    Cathedral, and especially the Chapel are of the most beautiful, chaste and at
+                    the same <add place="above">time</add> fanciful Designs; and the trifling
+                    Remains of the Arches are just sufficient to inform us what they have been.</p>
+                <p>The View of these Ruins as associated with a Retrospect of the Past presents one
+                    of the most afflicting spectacles. This magnificent Temple, dedicated to
+                    Religion, the Boast of a Kingdom, and the Wonder of Ages, lies now a most
+                    deplorable <pb n="f.59r"/> Wreck. — The two Towers on the West Entrance are so
+                    loose, broken and disjointed that it appears with difficulty they can support
+                    themselves, and I believe that a few Shocks of a Cannon Ball would hurl them
+                    both in Ruins. On the North side, intervening between the Western Extremity and
+                    the Chapel only one solitary Pillar remains. In the Inside huge Masses of the
+                    fallen Walls, some of them equal to the Burden of a large Ship lie heap’d on
+                    each other with the most ruinous Confusion. The Churchyard is cover’d with
+                    Showers of Fragments that have fallen from time to time, some of which have
+                    broken through large Grave Stones and buried themselves in the Earth. It appears
+                    fast approaching the Verge of Annihilation <pb n="f.59v"/>and that no Part of it
+                    can stand for many Years.</p>
+                <p>This Cathedral was first built in 1224, but was destroy’d by a Goth named
+                        <persName ref="pe0555">Alexander Lord of Badanoch</persName>, I suppose an
+                    Ancestor of <persName ref="pe0088">the present Duke of Gordon</persName>. It was
+                    rebuilt in 1414. It is 260 Feet in Length by 34.</p>
+                <p>About 6 Miles from <placeName ref="pl0145">Elgin</placeName> stand <placeName ref="pl1163">the Ruins of Pluscardine Abbey</placeName>, which are very
+                    grand. it is situated on a small Eminence. The Body of the Building runs North
+                    and South, the chapel or church projecting Eastward from it, and terminated on
+                    the West Side by a Square Tower. To the North and South a Part of the Main Body
+                    of the Building is set off, and joins the Tower, ––––– equal to <pb n="f.60r"/>the Chapel in Elevation and considerably higher than the other Parts, so that
+                    assuming the Tower is the Center It has the appearance of 3 Sides of a Maltese
+                    Cross, and forms no bad Effect. The Rest of the Ruins seem to bespeak it
+                    formerly to have been a Place of considerable Beauty and Consequence.</p>
+                <p>About a Mile and a half eastward from <placeName ref="pl0145">Elgin</placeName>
+                    we come to <placeName ref="pl1150">the Beautiful Loch of Speynie</placeName>, on
+                    the Borders of which there stand <placeName ref="pl1151">the massy Remains of a
+                        Palace</placeName>, improperly call’d a Castle, the residence formerly of
+                    the Bishops of <placeName ref="pl1141">Murray</placeName>. The Loch is many
+                    Miles in Extent, and is cover’d with Wild Ducks and Geese: and is remarkable for
+                    being the Resort <pb n="f.60v"/>of the Wild Swans which generally come here
+                    about the latter End of September to winter on the Lake. In the Neighbourhood
+                        <del rend="overstrike">some</del> some Parts of the Soil are so excellent,
+                    that they appear equal if not superior to that of <placeName ref="pl1172">the
+                        Vale of White Horse in Berkshire</placeName>, supposed to be the finest in
+                        <placeName ref="pl0775">England</placeName>.</p>
+                <p>Sept<hi rend="superscript">r.</hi> 4<hi rend="superscript">th.</hi> Pass’d
+                        <placeName ref="pl0143">the Spey</placeName> within Gunshot of the Place,
+                    celebrated for two great &amp; similar Events; where <persName ref="pe1016">Malcolm Kanmore, King of Scotland</persName>, cross’d the River to subdue
+                    the Rebellious Clans of the North; and where the <persName ref="pe0556">Duke of
+                        Cumberland</persName> pass’d in 1746 to a similar Encounter. Close to this
+                    Passage stands <placeName ref="pl0144">the Village of Fochabers</placeName>,
+                    built within 10 Years past upon a regular Plan, and very neat. At a small
+                    distance stands <pb n="f.61r"/>the superb Edifice of <placeName ref="pl0142">Gordon Castle</placeName> with it’s fine Grounds and Romantick Walks. About
+                    4 Miles East of <placeName ref="pl0144">Fochabers</placeName> at <placeName ref="pl0143">the Mouth of the Spey</placeName> there is a Dock or Harbour
+                    call’d <placeName ref="pl1152">Kingston Port</placeName>, where shops are built
+                    of as large a Size as any in <placeName ref="pl0705">Scotland</placeName> and
+                    entirely of Firs floated down the River from <placeName ref="pl1153">the Forest
+                        of Glenmore</placeName>. There was one upon the stocks at this time of 700.
+                    Tons burden. The Forest has been purchas’d by an English Company for a certain
+                    Term of Years, and it is calculated that they float down 12,000 Pieces in a Year
+                    for sale independant of the Timber employ’d in Ship building.</p>
+                <p><pb n="f.61v"/>
+                    <pb n="f.62r"/>
+                    <pb n="f.62v"/> Walk’d to <placeName ref="pl0128">Aberdeen</placeName> by
+                        <placeName ref="pl0141">Cullen</placeName>, <placeName ref="pl0139">Portsoy</placeName>, <placeName ref="pl0136"><sic>Bamff</sic></placeName>,
+                        <placeName ref="pl1154"><unclear>Turreff</unclear></placeName>, <placeName ref="pl1155">Old-Meldrum</placeName>, <placeName ref="pl1156">Peterhead</placeName>.</p>
+                <p><placeName ref="pl0141">Cullen</placeName> is a small Place of inconsiderable
+                    Population or Trade. A Manufacture of Linen was establish’d and encouraged here
+                    by <persName ref="pe1017">the late Earl of Findlater</persName>, but It has
+                    never arrived to any Extent.</p>
+                <p><placeName ref="pl0136">Banff</placeName> is pleasantly situated on the Sea Side
+                    round a capacious Harbour, and carries on a comparatively considerable Trade.
+                    The Country in this Quarter, and especially about <placeName ref="pl0141">Cullen</placeName>, is pleasant and cultivated.</p>
+                <p><placeName ref="pl1154"><unclear>Turress</unclear></placeName> is a small and
+                    mean Place, and <placeName ref="pl1155">Old-Meldrum</placeName> the most <pb n="f.63r"/>wretched, to deserve the Name of a Town, which I have seen in the
+                    North.</p>
+                <p>This Part of <placeName ref="pl0732">Aberdeenshire</placeName> looks bare and
+                    miserable; and still more so as we exchange the fertile Plains of <placeName ref="pl1141">Murray</placeName> for this uncouth and sterile Scene. The
+                    Country is by no means deficient in Natural Advantages, the soil appearing to be
+                    good and practicable, although much neglected. The Lands and Farms are laid out
+                    in a slovenly manner, and betray in the Owners a Want of Capital or
+                    Encouragement; or shameful Negligence and Ignorance of Agriculture; or perhaps
+                    all these <pb n="f.63v"/>Disadvantages united</p>
+                <p><placeName ref="pl0128">Aberdeen</placeName> in point of Size, Population and
+                    Trade is rank’d as the third City in <placeName ref="pl0705">Scotland</placeName>. It is divided into 2 Parts the Old and New Town which
+                    taken together extend from the mouth of <placeName ref="pl1157">River
+                        Don</placeName> on the North to that of <placeName ref="pl1138">the
+                        Dee</placeName> on the South about 2 Miles Distance, and within this compass
+                    there are calculated to be 30,000 Inhabitants. The Town stands on a Hill which
+                    slopes gradually towards the west and terminates suddenly and abruptly <del rend="overstrike">
+                        <gap reason="illegible" unit="letters" quantity="1"/>
+                    </del>on the Eastern side, on which stand the remains of <placeName ref="pl1158">the Castle</placeName>.</p>
+                <p><pb n="f.64r"/>The Harbour is capacious but somewhat difficult of Access and does
+                    not admit Vessels of more than 500 Tones burden.</p>
+                <p><pb n="f.64v"/>
+                    <pb n="f.65r"/>
+                    <pb n="f.65v"/>
+                    <pb n="f.66r"/>
+                    <pb n="f.66v"/>
+                    <pb n="f.67r"/></p>
+                <p><hi rend="italic">Journal of the Prince’s Escape after the Battle of Culloden.
+                        –––––</hi></p>
+                <p>16<hi rend="superscript">th.</hi> April 1746.</p>
+                <p>Was taken off the Field by <persName ref="pe0560">Major Kennedy</persName>, while
+                    the French &amp; scotch Troops Kept <persName ref="pe0556">the Duke of
+                        Cumberland</persName> at bay Here He gave Orders for his Army to disperse.
+                    17. Went to <placeName ref="pl1159"><unclear>Tordarack</unclear></placeName>, 9
+                    miles from <placeName ref="pl0156">Inverness</placeName>. To <placeName ref="pl1160">Aberardar</placeName> in M<hi rend="superscript">c</hi>In<unclear reason="illegible">tosh’s</unclear> Country 3 Miles.
+                        <placeName ref="pl1662">Farlone</placeName> in Lovat’s Country &amp; thence
+                    1 Mile more to <placeName ref="pl1663">Castlelaige or Gortulaige</placeName>,
+                    where They met <persName ref="pe0154">L<hi rend="superscript">d.</hi>
+                        Lovat</persName> &amp; drank a few Glasses of Wine. The Persons who
+                    accompanied were; <persName ref="pe1018">Sir Thomas Sheridan</persName>;
+                        <persName ref="pe1020">Sir David Murray</persName>; <persName ref="pe1019">Alexander M<hi rend="superscript">c</hi>Leod</persName>: <persName ref="pe0107">John Hay</persName>; <persName ref="pe0186">Edward
+                        Burk</persName>; <persName ref="pe1021">Allan M<hi rend="superscript">c</hi>Donald</persName><note type="editorial">This appears to be a precis
+                        of <bibl type="editorial"><title ref="bi0167"><hi rend="italic">A Plain,
+                                    Authentic and Faithful Narrative of the Passages of the Young
+                                    Chevalier &amp;c.</hi></title> (London: 1750)</bibl>.</note></p>
+                <p><pb n="f.67v"/>
+                    <pb n="f.68r"/>
+                    <pb n="f.68v"/>
+                    <pb n="f.69r"/>
+                    <pb n="f.69v"/>
+                    <pb n="f.70r"/>
+                    <pb n="f.70v"/>
+                    <pb n="f.71r"/>
+                    <pb n="f.71v"/>
+                    <pb n="f.72r"/>
+                    <pb n="f.72v"/>
+                    <pb n="f.73r"/></p>
+                <p>Length of the Journey. Miles.</p>
+                <p><list>
+                        <item>August 1. <placeName ref="pl0699">London</placeName> to <placeName ref="pl0253">Carlisle</placeName> . . . . . 301</item>
+                        <item>4. <placeName ref="pl0253">Carlisle</placeName> to <placeName ref="pl0587">Douglas Mill</placeName></item>
+                        <item>Walk’d. 5. <placeName ref="pl0587">Douglas Mill</placeName> to
+                                <placeName ref="pl0590">Lanark</placeName> . . 9. <lb/><placeName ref="pl0591">Falls of Clyde</placeName> ……………. 8. <lb/><placeName ref="pl0590">Lanark</placeName> to <placeName ref="pl0597">Hamilton</placeName> &amp;c. 21.</item>
+                        <item>6.{<placeName ref="pl0597">Hamilton</placeName> to <placeName ref="pl0229">Glasgow</placeName> by <lb/><placeName ref="pl0230">Bothwell Bridge</placeName> } 15.</item>
+                        <item>8. To <placeName ref="pl1101">Kelvin Aqueduct</placeName> &amp; back .
+                            . . 8.</item>
+                        <item>9. <placeName ref="pl0229">Glasgow</placeName> to <placeName ref="pl0226">Dunbarton</placeName> . . . . 14.</item>
+                        <item>10. <placeName ref="pl0226">Dunbarton</placeName> to <placeName ref="pl0224">Luss</placeName> . . . . 13.</item>
+                        <item>12. Ascent of <placeName ref="pl0609">Ben-Lomond</placeName> &amp;
+                            down 6. <placeName ref="pl0224">Luss</placeName> to <placeName ref="pl1008">Araquhar</placeName> . . . . . . 12.</item>
+                        <item>13. <placeName ref="pl1008">Arroquhar</placeName> to <placeName ref="pl1069">Carndoo</placeName> . . 12.</item>
+                        <item>14. <placeName ref="pl1069">Carndoo</placeName> to <placeName ref="pl1072">Inverary</placeName> . . .7.</item>
+                        <item>15. <placeName ref="pl1072">Inverary</placeName> to <placeName ref="pl0214">Dalmallie</placeName> . . 16.</item>
+                        <item>16. To <placeName ref="pl0215">Kilchurn</placeName> &amp; <placeName ref="pl0272">Fraöchlyn Castles</placeName> 10.</item>
+                        <item>17. <placeName ref="pl0214">Dalmallie</placeName> to <placeName ref="pl0212">Tayndrum</placeName> .. 12.</item>
+                        <item>18. <placeName ref="pl0212">Tayndrum</placeName> to <placeName ref="pl0277">Killin</placeName> . . . 22.</item>
+                        <item>Carried over . . . . . . 185</item>
+                        <pb n="f.73v"/>
+                        <item>August 1794. Bro<hi rend="superscript">t.</hi> over . . . . . . . . .
+                            . 185.</item>
+                        <item> Walk’d. 19. To <placeName ref="pl1119">Lochay Falls</placeName> and
+                            back. 6.</item>
+                        <item>20. <placeName ref="pl0277">Killin</placeName> to <placeName ref="pl0103">Kenmore</placeName> . . . . . 16.</item>
+                        <item>To <placeName ref="pl1122">L<hi rend="superscript">d.</hi>
+                                Braidalbane’s Hermitage.</placeName> 4</item>
+                        <item>21. <placeName ref="pl0103">Kenmore,</placeName> to <placeName ref="pl0099">Dunkeld</placeName> . . . 24.</item>
+                        <item>22. <placeName ref="pl0099">Dunkeld</placeName> to <placeName ref="pl0110">Blair</placeName> . . . . 20.</item>
+                        <item>23. To <placeName ref="pl0112">Killycrankie</placeName> . . . . .
+                            7.</item>
+                        <item>24. To <placeName ref="pl1130">Dalnacardoc</placeName> . . . . .
+                            11.</item>
+                        <item>25. To <placeName ref="pl1131">Dalwhinie</placeName> . . . . . .
+                            13.</item>
+                        <item>26. To <placeName ref="pl0198">F<hi rend="superscript">t.</hi>
+                                Augustus</placeName> . . . . . . 31.</item>
+                        <item> 27. To <placeName ref="pl0195">General’s Hut</placeName> . . . .
+                            14.</item>
+                        <item>28. To <placeName ref="pl0156">Inverness</placeName> . . . . . .
+                            18.</item>
+                        <item>31. To <placeName ref="pl0153">F<hi rend="superscript">t.</hi>
+                                George</placeName> by <placeName ref="pl0155">Culloden</placeName>
+                            16.</item>
+                        <item>365.</item>
+                        <item>September. <lb/>1. <placeName ref="pl0153">F<hi rend="superscript">t.</hi> George</placeName> to <placeName ref="pl0148">Forres</placeName> . . . . 24.</item>
+                        <item>3. To <placeName ref="pl0145">Elgin</placeName> . . . . . . . .
+                            12.</item>
+                        <item>Carried over . . . . . . . . . 401.</item>
+                        <pb n="f.74r"/>
+                        <item>Bro<hi rend="superscript">t.</hi> over . . . . . . . . 401.</item>
+                        <item>4. To <placeName ref="pl0144">Fochabers</placeName> . . . . .
+                            9.</item>
+                        <item>6. To <placeName ref="pl1161">Walkerdale</placeName> . . . . .
+                            6.</item>
+                        <item>7. To <placeName ref="pl0144">Fochabers</placeName> . . . . . .
+                            6.</item>
+                        <item>To <placeName ref="pl1162">Garmouth</placeName> &amp;c.
+                            ......10.</item>
+                        <item>To <placeName ref="pl2496">Elchies</placeName> . . . . . . 12.</item>
+                        <item>To <unclear reason="illegible"><placeName ref="pl0145">Elgin</placeName></unclear> by <placeName ref="pl1163">Pluscardine</placeName>. 24.</item>
+                        <item><placeName ref="pl0144">Fochabers</placeName> . . . . . . . .
+                            9.</item>
+                        <item>To <placeName ref="pl0141">Cullen</placeName> . . . . . . 12.</item>
+                        <item>To <placeName ref="pl0136">Banff</placeName> by <placeName ref="pl0139">Portsoy</placeName> . . . . .12.</item>
+                        <item>To <placeName ref="pl1154">Turreff</placeName> . . . . . . . . .
+                            10.</item>
+                        <item>To <placeName ref="pl1155">Old Meldrum</placeName> . . . . .
+                            18.</item>
+                        <item>To <placeName ref="pl0128">Aberdeen</placeName> . . . . . . 17.</item>
+                        <item>Total Walk’d on this Route . . . 546.</item>
+                    </list>
+                    <pb n="f.74v"/>
+                    <pb n="f.75r"/>
+                    <pb n="f.75v"/></p>
+                <p>Notes &amp;c:</p>
+                <p><pb n="f.76r"/> The Highlanders call <placeName ref="pl0705">Scotland</placeName>
+                    <placeName ref="pl0705">Alpin</placeName>, whc. signifies a Mountainous Country,
+                    and was probably the original Name of the whole Island from which the Romans
+                    deriv’d their <placeName ref="pl0777">Albion</placeName> The Name of that chain
+                    of Mountains dividing <placeName ref="pl0925">France</placeName> and <placeName ref="pl1164">Italy</placeName> viz: <placeName ref="pl1165">Alps</placeName>
+                    is plainly of Celtick Extraction and synonimous with <placeName ref="pl0705">Alpin</placeName>. It is probable that the word <placeName ref="pl0705">Scotland</placeName> was originally <placeName ref="pl0705">Schôtte-land</placeName> which is tantamount in meaning to <placeName ref="pl0705">Alpin</placeName> for it is an obsolete German Vocable
+                    signifying a Hill. It is not likely according to <bibl type="authorial"><title ref="bi0569">Ossian McPherson’s</title></bibl> Supposition that it is
+                    derived from Scuyth a Celtick word signifying a Wanderer, because it is uncommon
+                    to incorporate Words of different Languages (Land being undoubtedly Saxon) and
+                    because it is unnatural for any People to impose on their Country a Name
+                    involving <pb n="f.76v"/>a stigma or reproach. <placeName ref="pl0700">The
+                        Shetland Isles </placeName>(or Scotland Isles) still retain the old
+                    Pronunciation.</p>
+                <p>Most Names of Places in <placeName ref="pl0705">Scotland</placeName> are Gaelick
+                    Viz:</p>
+                <p><placeName ref="pl1166">Grampian Hills</placeName>: from Grant, Great and Beinn
+                    or Bean or Ben a Hill — <placeName ref="pl0815">Benmore</placeName> is the Great
+                    Hill: <placeName ref="pl0609">Ben-lomond</placeName>, Bare green Hill:
+                        <placeName ref="pl1167">Ben-ledy</placeName>, Holy Hill; <placeName ref="pl1168">Ben-venue</placeName>, small Hill.</p>
+                <p>Dun is probably a Heap of Buildings or a Town thus we have <placeName ref="pl0076">Dun-Edin</placeName> or <placeName ref="pl0076">Edinburgh</placeName>: <placeName ref="pl0226">Dun-barton</placeName>:
+                        <placeName ref="pl0316">Dun-dee</placeName>: <placeName ref="pl0371">Dun-fermline</placeName> &amp;c.</p>
+                <p>Don signifies a deep River.</p>
+                <p>Glean or Glen signifies a valley open at both Ends: Strath a Valley through wc. a
+                    River runs: Ach (Haugh) an extensive Flat.</p>
+                <p>Crom is a Circle, Cromleach a Circle of Stones or Druidical Temple: The
+                    Expression in Erse “are You going to <pb n="f.77r"/>Church”? signifies literally
+                    “are You going to the stones.”?<note type="editorial">The source for this
+                        translation is probably Pennant <bibl type="editorial"><title ref="bi0001">A
+                                tour in Scotland 1769</title></bibl> (1771), p.188, or Lachlan Shaw,
+                            <bibl type="editorial"><title ref="bi0081">The History of the Province
+                                of Moray</title></bibl> (Edinburgh: 1775), p.230.</note> — I imagine
+                    that the Devotion of the Druids consisted in Solar Worship: it is the most
+                    natural of all superstitions. There is one Relick of it remaining in <placeName ref="pl0711">the Highlands</placeName> to the present Day called Baaltein
+                    which signifies the Fire of Baal or the Sun. It is a ceremony perform’d on the
+                        1<hi rend="superscript">st.</hi> of May. A number of People assemble and
+                    bake a Cake in the open Air which they break into small bits, one of which is
+                    blacked: they are put into a Bonnet, and every one draws one by chance, the
+                    Person to whom the black Piece falls is obliged to jump 3 times over the Fire
+                    but formerly it is probable, was consign’d to that Element as a Sacrifice to
+                    their Deity <q>Tantum potuit Religio suadere malorum.</q><note type="editorial">Lucretius, <bibl type="editorial"><title ref="bi0638"><hi rend="italic">De
+                                    Rerum Natura</hi></title><biblScope unit="book">I</biblScope>,
+                                <biblScope unit="line">l.101.</biblScope></bibl> Translated as 'So
+                        great the power religion had for evil', in Lucretius, <hi rend="italic">On
+                            the Nature of the Universe</hi>, trans. by Ronald Melville (Oxford:
+                        Oxford University Press, 1997).</note></p>
+                <p><pb n="f.77v"/> Aber signifies Mouth: thus <placeName ref="pl0128">Aberdeen</placeName> means <placeName ref="pl1138">Mouth of the
+                        Dee</placeName>: <placeName ref="pl0347">Abernethy</placeName>, <placeName ref="pl1664">Abergeldy</placeName> &amp;c.</p>
+                <p><placeName ref="pl0077">Leith</placeName> signifies Mouth of the Water.</p>
+                <p>Ross means promontory: <placeName ref="pl0085">Kinross</placeName> Head of the
+                    Promontory: <placeName ref="pl0323">Montrose</placeName>, <placeName ref="pl0323">Moin-ross</placeName>, Fenny Promontory.</p>
+                <p>The Derivation of the Name of <placeName ref="pl1072">Inverary</placeName> is
+                    very curious. It is Ion-ar-as-reidh in the Gaelick. Ion-ar (Inver) worthy of
+                    Tillage from Ion-worthy and ar, to Till as-reidh (dh is pronounced as y) Mouth
+                    of a Rough River: so that this Word has the very comprehensive signification of
+                    “a Fertile Piece of Ground at the Mouth of a Rough River” which gives us a high
+                    Idea of the power of Combination in the Erse Language.</p>
+                <p><placeName ref="pl0590">Lanark</placeName>, contracted for Lav-ri-uisg (g is
+                    pronounced as K) A Place near Water. <placeName ref="pl0143">Spay
+                        River</placeName> (Spadha, a Long Stride) <pb n="f.78r"/> in Reference to
+                    the Length of that Turbulent Stream. Most of the Names of Rivers in <placeName ref="pl0705">Scotland</placeName> are Celtick Words simply signifying Water
+                    and I believe this to be the case in all Languages.</p>
+                <p><placeName ref="pl0683">Morvern</placeName> a Hilly Country. General Term for the
+                        <placeName ref="pl0711">Highlands</placeName>.</p>
+                <p>Spaut, Speat or Swelling of a River.</p>
+                <p>Logie, A Low, flat Country.</p>
+                <p>Drum, An Eminence, <placeName ref="pl0212">Tayndrum</placeName> Hill of
+                        <placeName ref="pl0096">the Tay</placeName>.</p>
+                <p><placeName ref="pl0122">Tulloch</placeName>, a small Hill or Knock.</p>
+                <p><placeName ref="pl0405">Melrose</placeName>, pronounced by the Scotch <placeName ref="pl0405">Mullross</placeName>, a bare Promontory.</p>
+                <p>Stron, a Nose or Promontory.</p>
+                <p><placeName ref="pl0755">Clunee</placeName>, a Pasture among Woods.</p>
+                <p><pb n="f.78v"/>
+                    <pb n="f.79r"/>
+                    <pb n="f.79v"/>
+                    <pb n="f.80r"/>
+                    <pb n="f.80v"/>
+                    <pb n="f.81r"/>
+                    <pb n="f.81v"/>
+                    <pb n="f.82r"/>
+                    <pb n="f.82v"/>
+                    <pb n="f.83r"/>
+                    <pb n="f.84r"/>
+                    <pb n="f.84v"/>
+                    <pb n="f.85r"/>
+                    <pb n="f.85v"/>
+                    <pb n="f.86r"/></p>
+                <p><pb n="f.86v"/>
+                    <list>
+                        <item>Vol. Pen<hi rend="superscript">t</hi> __ ___ 2</item>
+                        <item>Carys Map — 1</item>
+                        <item><unclear>Scone</unclear> — 1</item>
+                        <item><bibl type="authorial"><title ref="bi0081">Murray</title></bibl> —
+                            1</item>
+                        <item>Gent<hi rend="superscript">s</hi> Tour</item>
+                        <item>1 <bibl type="authorial"><title ref="bi0649">Scotland
+                                delin</title></bibl>. 1</item>
+                        <item>Roads – – 1</item>
+                        <item><bibl type="authorial"><title ref="bi0277">Anislye</title></bibl> —
+                            1</item>
+                        <item><unclear reason="illegible">Sketches</unclear> — 1</item>
+                        <item><unclear reason="illegible">Nonni</unclear> — 3</item>
+                        <item><bibl type="authorial"><title ref="bi0650">Gilpin</title></bibl> —
+                            1</item>
+                        <item>Map of Scot</item>
+                        <item><gap reason="illegible" unit="words" quantity="1"/> S</item>
+                        <item>Compass</item>
+                        <item>Mirror</item>
+                        <item>Coloured Glass</item>
+                        <item><unclear reason="illegible">Brymen</unclear> 1</item>
+                        <item><unclear reason="illegible">Memorand</unclear> 1 </item>
+                    </list>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

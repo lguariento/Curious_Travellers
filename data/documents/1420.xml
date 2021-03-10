@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1420">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to William Owen [Pughe], 2 July 1791</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>13222C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>pp. 263–6</locus></ab>
+                    </msContents>
+                    <physDesc/>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                    <date when="1791-07-02"/>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe2111">William Owen [Pughe]</persName>
+                    <placeName ref="pl3038">Penton Place, London</placeName>
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1421"/>
+                    <ref type="prev" target="ct1419"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Dear <persName ref="pe2111">M<hi rend="superscript">r</hi> Owen</persName></salute>
+                <dateline><placeName ref="pl0001">Downing</placeName> July 2<hi rend="superscript">d</hi> – 91.</dateline></opener>
+                
+                <p>I am glad that things are in some sort of train for the pursuit <sic>of discovery of</sic> our Countrymen in 
+                    <placeName ref="pl0697">N. america</placeName>.<note type="editorial">For the fervor of the London-Welsh for discovering 
+                        'Welsh Indians' in North America during 1791, see Glenda Carr, 'An uneasy partnership: Iolo Morganwg and William Owen 
+                        Pughe', in Geraint H. Jenkins (ed.), <hi rend="italic">A Rattleskull genius: The many faces of Iolo Morganwg</hi> (Cardiff: 
+                        University of Wales Press, 2005), pp. 443–60, esp. 449–50; David Williams, 'John Evans's strange journey', 
+                        <hi rend="italic">THSC</hi> (1948), 105–46.</note> when you tell me matters are arranged &amp; give me the plan, 
+                    I shall scarcely be behind-hand in any rational undertaking. what ever I do ought to be <sic>considerd</sic> as the effect of the 
+                    liberal mind: for the neglect I have met with fr<hi rend="superscript">m</hi> my countrymen cannot give them any <sic>clame</sic> 
+                    from me.</p>
+                
+                <p>I am very much obliged to you for the Poems from 
+                    <persName ref="pe0952">M<hi rend="superscript">r</hi> D. Samwell</persName><note type="editorial">The poetry by Samwell mentioned here 
+                        may be his 'Padouca Hunt', a squib on his fellow-members of the Gwyneddigion society which related to a 'Dadl erxyll am y Madogion' 
+                        ('fierce debate concerning the 'Madogion'), held on 9 May 1791. The poem was published posthumously in 1799. <hi rend="italic">ODNB</hi>; 
+                        David Samwell, <hi rend="italic">The death of Captain Cook and other writings</hi>, ed. Nicholas Thomas, Martin Fitzpatrick and Jenny Newell 
+                        (Cardiff: University of Wales Press, 2006); W. Ll. Davies, 'David Samwell's Poem – 'The Padouca Hunt' ', <hi rend="italic">NLWJ</hi>, vol. 2, 
+                        nos. 3 &amp; 4 (1942), 142–52, esp. 142–3.</note> &amp; 
+                    <persName ref="pe0953">M<hi rend="superscript">r</hi> Williams</persName>.<note type="editorial">One poem by Edward Williams (Iolo Morganwg) 
+                        which, through its copious footnotes on Madog's discovery of America and on the Welsh Indians, relates to the concerns discussed in this 
+                        letter is 'Address to the inhabitants of Wales, exhorting them to emigrate, with William Penn, to Pennsylvania'. It is difficult to imagine 
+                        Pennant sympathizing with the sentiments expressed, however. Edward Williams, <hi rend="italic">Poems, lyric and pastoral</hi> 
+                        (2 vols., London: J. Nichols, 1794), II, 49–69; and on Williams's <hi rend="italic">Poems</hi> see further n. 4 below.</note> had I known that 
+                    <persName ref="pe0952">M<hi rend="superscript">r</hi> S</persName>.<hi rend="superscript">s</hi> residence had been in town I <sic>shd not failed</sic> 
+                    last winter <del><gap reason="illegible" unit="letters" quantity="several"/></del> enquiring after him. I beg 
+                    <persName ref="pe0953">M<hi rend="superscript">r</hi> Williams</persName> w<hi rend="superscript">d</hi> put my name as a subscriber for six 
+                    copies.<note type="editorial">Iolo Morganwg was seeking subscriptions for the publication of his English verse, which appeared as 
+                        <hi rend="italic">Poems, lyric and pastoral</hi> in 1794, with Pennant's name down for six sets, as requested in this letter. See 
+                        Williams, <hi rend="italic">Poems, lyric and pastoral</hi>, p. xxxiv.</note> <del>I</del><add place="inline">to be paid as you direct. for I</add> 
+                    never yet suffered merit in welshman or saxon to want my mite.</p>
+                
+                <p>When anything shd <sic>calls</sic> you by <placeName ref="pl3039">S<hi rend="superscript">t</hi> Botolph’s Aldgate</placeName> I beg you to examine the 
+                    Church yard. &amp; let me know if the tomb of the Persian still <sic>exist</sic>.<note type="editorial"><hi rend="italic">Some account of London</hi> 
+                        (1791), p. 267, notes in this church the 'very remarkable tomb (in the altar form) of Coya Shawsware, a merchant, and secretary to Nogdi-beg, the Persian 
+                        embassador', with the Persian inscription around its margin, and gives the date of Shawsware's death as 1626.</note> <gap reason="illegible" unit="letters" quantity="1"/>vide 
+                    p. 26<del>6</del>7. <bibl type="authorial"><title ref="bi0271">2<hi rend="superscript">d</hi> Ed. of my London</title></bibl>.</p>
+                
+                <p>I am very sorry I have no frank. <persName ref="pe0015">Sir R. Mostyn</persName> being yet detained in <placeName ref="pl0699">town</placeName> by 
+                    the illness of one of his family. I am </p>
+                
+                <closer><salute>Y<hi rend="superscript">r</hi> affect friend
+                </salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed></closer>
+                <postscript><p>Pray where is <placeName ref="pl3038">Penton place</placeName>. If you come down this year Pray call here.</p></postscript>
+            </div>
+            
+            <div>
+                <p><stamp type="postmark">E IY 4 91</stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp></p>
+                <p><address><addrLine><persName ref="pe2111">M<hi rend="superscript">r</hi> William Owen<lb/><placeName ref="pl3038">Penton Place</placeName><lb/><placeName ref="pl0699">London</placeName></persName>
+                    </addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

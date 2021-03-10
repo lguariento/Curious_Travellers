@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0220">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, thanking him for materials and inclosing
+                    letters for George Low</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>176</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p>Note on verso side in weak ink or pencil, part of which may be
+                                obscured by the margin of the binding: M<hi rend="superscript">r.</hi> John Bruce of <lb/>Sunbrugh — to land <lb/>at the Ness
+                                of Musay <lb/>N.B. John Black. <lb/>Pictish Castle there <lb/>M<hi rend="superscript">r</hi> S<gap reason="illegible" unit="letters" quantity="1"/>
+                                <gap reason="illegible" unit="letters" quantity="4"/> Ness
+                                    <lb/><unclear reason="illegible">NB</unclear> the Cross Kirk of
+                                    <lb/><unclear reason="illegible">the
+                            Ness</unclear></p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1774-03-05"/>
+                    <placeName ref="pl0002">Chester</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0221"/>
+                    <ref type="prev" target="ct0219"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>inclosed is a Letter to <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                        Low</persName> with three in it from <persName ref="pe0283">M<hi rend="superscript">r</hi> Thomas Dundas</persName> recommending him to
+                    his <persName ref="pe0132">father’s</persName> friends. I am much obliged to you
+                    for Macleane’s History.<note type="editorial">On 20 December 1773 Paton had sent
+                        Pennant a transcription of passages relating to the Maclean family from
+                            <bibl type="editorial">William Buchanan's <title ref="bi0173"><hi rend="italic">An historical and genealogical essay upon the
+                                    family and surname of Buchanan. To which is added A brief
+                                    enquiry into the genealogy and present state of ancient Scottish
+                                    surnames, and more particularly of the Highland
+                                clans</hi></title> (1723)</bibl>. </note> &amp; for your favor of
+                        Feb<hi rend="superscript">r.</hi> 25<hi rend="superscript">th.</hi> I have
+                    little time in <placeName ref="pl0699">London</placeName> to do anything more
+                    than see my friends therefore cannot pick up anything for <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> there. I shall answer his
+                    draft for what I mentioned.</p>
+                <closer><salute>I am <lb/>Dear Sir <lb/>y<hi rend="superscript">r</hi> obed<hi rend="superscript">t</hi> H.Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">TPennant</persName></signed>
+                <dateline><placeName ref="pl0002">Chester</placeName> March 5<hi rend="superscript">th</hi> 177<unclear reason="illegible">4</unclear></dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Pat<gap reason="damage" unit="lines" atLeast="2" atMost="3"/></addrLine>
+                    </address></p>
+                <p>Free <lb/><persName ref="pe0289">WWilliams</persName></p>
+                <p><stamp type="handstamp">CHESTER</stamp></p>
+            </div>
+        </body>
+    </text>
+</TEI>

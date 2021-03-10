@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1135">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>34</locus></ab>
+                    </msContents>                    
+                    <physDesc>
+                        <additions><p><hi rend="italic">Endorsement in Thomas Pennant's hand at the top of the page</hi>: <hi rend="underline">Answ<hi rend="superscript">d</hi>.</hi></p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1791-06-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline><placeName ref="pl0759">Stratton Street</placeName>. June 4. 1791.</dateline></opener>
+                <p>With one foot in the Stirrup, and setting out now for the <placeName ref="pl1020">Isle of White</placeName>,
+                    I steal a minute from my hurry, to tell you the box with <bibl type="authorial"><title ref="bi0268">the Journey to Dover</title></bibl>
+                    has this minute reach'd my hands in safety; how could it be otherwise when so carefully pack’d. I thank you for it 
+                    <hi rend="underline">extremely</hi>. the few drawings, alas! too few, are Beautiful. have the goodness to answer 
+                    <persName ref="pe0237">your sisters</persName> note, for I know not how to do it for you. I must entreat 
+                    <hi rend="underline">you</hi> to let me know what you wish me to pay <persName ref="pe0404">J. Jones</persName> for copying 
+                    <bibl type="authorial"><title ref="bi0268">the Journey from London</title></bibl> which I am quite ignorant about, 
+                    but desire to do what is proper, and when I have that information, I will, if you please <del>pay</del><add place="above">send</add>
+                    my debt to <persName ref="pe0329">your banker; M<hi rend="superscript">r</hi> Clive</persName> I think is his name, if not, set me rights.<note type="editorial">Bull names Pennant's banker incorrectly.</note></p>
+                <closer>
+                    <salute>I am Dear Sir, litterally in post
+                        <lb/>haste, yours always</salute>
+                    <signed><persName ref="pe0313">R. B. -</persName></signed>
+                    <dateline><placeName ref=""/></dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1151">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 104</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1792-03-13"/>
+                    <placeName ref="pl1361">Nantwich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl1361">Nantwich</placeName> March 13<hi rend="superscript">th</hi> - 1792<note type="editorial">The year is added in another hand.</note></dateline></opener>
+                <p>We are now forty miles on our way to <placeName ref="pl0699">town</placeName>. a more favorable account of 
+                    <persName ref="pe0237">my sister</persName> together with a wish to see us determined us to set out. our house is 
+                    <placeName ref="pl1862">N<hi rend="superscript">o</hi> 5 George Street Hanover Square</placeName>. we shall not reach it till Friday. Please to send anytime on 
+                    Saturday &amp; as many of the drawings as <persName ref="pe0014">moses</persName> has finished shall be deliverd to y<hi rend="superscript">r</hi>
+                    <persName ref="pe0319">servant</persName>. I have much to shew you of my own M.S.S. We must hereafter fix a morning for that of Saturday will be taken up in the little businesses always 
+                    attendant on the New-arrived. your account of the public schools is so just as to confirm me in my resolution of never sending my
+                    <persName ref="pe0421">Tom</persName> to either one or other. my friend <persName ref="pe1687">Lord Kenyon</persName> has three sons at 
+                    <placeName ref="pl2495">Cheame</placeName>. I know the connections of the master, <persName ref="pe1688">Gilpin</persName>, &amp; know
+                    them to be good. perhaps this may make it worth y<hi rend="superscript">r</hi> while to pursue the enquiry for the sake of 
+                    y<hi rend="superscript">r</hi> female friend.<note type="editorial">The friend in question may be <persName ref="pe0382">Louisa Clarges</persName>.</note> <persName ref="pe0238">M<hi rend="superscript">rs</hi> P.</persName>
+                    &amp; I think of making a visit to the place. Excuse more. I write at a late hour &amp; half asleep.
+                </p> 
+                <closer>
+                    <salute>Adieu
+                        <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName>.</signed>
+                </closer>
+            </div>
+            <div>
+                <p><stamp type="postmark">B MR 14 92</stamp></p>
+                <p><stamp type="handstamp"><placeName ref="pl1361">NAMPTWICH</placeName></stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> esq<hi rend="superscript">r</hi> | <placeName ref="pl0759">Stratton street</placeName> | <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName></addrLine>
+                   </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

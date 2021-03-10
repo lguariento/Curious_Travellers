@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0163">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on payment for magazines, George Low's plans
+                    and various publishing matters</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>89</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1774-07-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0164"/>
+                    <ref type="prev" target="ct0162"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I rejoice greatly at the probability of <persName ref="pe0156">M<hi rend="superscript">r</hi> Low’s</persName> success. Thanks for y<hi rend="superscript">r</hi> other favors. shall inspect y<hi rend="superscript">r</hi> remarks as soon as possible.</p>
+                <p>Did you not receive from me pasted between a card a half guinea &amp; a quarter
+                    guinea. sent to pay for the <bibl type="authorial"><title ref="bi0064">magazines</title></bibl>?</p>
+                <p>I have written to <persName ref="pe0058">M<hi rend="superscript">r</hi>
+                        Cordiners</persName> friend. When you have <persName ref="pe0005">M<hi rend="superscript">r</hi> Aulds</persName> resolution nothing on my part
+                    shall be wanting.</p>
+                <p><hi rend="underline">All </hi>y<hi rend="superscript">r</hi> books are arrived
+                    &amp; accepted gratefully.</p>
+                <p><persName ref="pe0077">Doctor Burn</persName> would have published <bibl><title ref="bi0124">Cumberland &amp; Westmoreland</title></bibl> this year: but
+                    for the disputes ab<hi rend="superscript">t</hi> Litterary property.<note type="editorial">A House of Lords ruling in 1774 abolished perpetual
+                        copyright and upheld the Statute of Anne under which copyright was protected
+                        for up to twenty-eight years. See Richard Sher, <hi rend="italic">The
+                            Enlightenment and the Book</hi> (Chicago; London: University of Chicago
+                        Press, 2006), pp.27-30 and William St Clair, <hi rend="italic">The Reading
+                            Nation in the Romantic Period</hi> (Cambridge: Cambridge University
+                        Press, 2004).</note></p>
+                <p>Did <persName ref="pe0018">M<hi rend="superscript">r</hi> Jackson</persName> or
+                        <persName ref="pe0020">M<hi rend="superscript">r</hi> Oliphant</persName>
+                    ever receive my trifling present.</p>
+                <closer><salute>I am Dear Sir y<hi rend="superscript">r</hi> most obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+
+                <dateline>July 15. 1774</dateline></closer>
+                <postscript>
+                    <p>Do as you please ab<hi rend="superscript">t</hi> advertisements.</p>
+                </postscript>
+
+            </div>
+        </body>
+    </text>
+</TEI>

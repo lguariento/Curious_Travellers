@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0440">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>George Paton to Thomas Pennant, 23 October 1774</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP4</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>22</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0228">George Paton</persName>
+                    <date when="1774-10-23"/>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0168"/>
+                    <ref type="prev" target="ct0167"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I received your Favours of the 9<hi rend="superscript">th</hi>. Current in Course
+                    rejoice to hear of your safe return home, pardon my tediousness in not giving an
+                    immediate answer as required, occasioned by my confinement &amp; also the
+                    Absence of some Acquaintances that know the Country, about with the Information
+                    is required. <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                        Low</persName> altho' returned to <placeName ref="pl0701">Orkney</placeName>
+                    continues still silent, when he favours me with any Answer will write you
+                    immediately I was assured that his Presentation was sent North to him for
+                    Acceptance. You will please accept of the following Account so far as I have
+                    pickt up, having never been in that part of the Country myself &amp; the County
+                    mapps by <persName ref="pe2005">Pont</persName><note type="editorial">Timothy
+                        Pont produced a large number of maps of Scottish locales between the
+                        late-sixteenth and early-seventeenth centuries, of which 77 survive in the
+                        collections of the National Library of Scotland, Edinburgh. The maps were
+                        used in the creation of volume five of Joan Blaeu's <bibl type="editorial"><title ref="bi0093">Atlas</title></bibl> (1654), before being
+                        returned to Scotland, where they were eventually deposited in the Advocates
+                        Library.</note> &amp;<hi rend="superscript">c</hi>. are not so expressive as
+                    wisht for: I expect further Accounts after.</p>
+                <p>There is no such <hi rend="underline">Kirk</hi> as <hi rend="underline"><placeName ref="pl0747">Monboddo</placeName></hi>, the <placeName ref="pl0747">House of Monboddo</placeName> lies about a quarter of a mile
+                    north of the <placeName ref="pl2733">Town of Fordoun</placeName> in <placeName ref="pl0331">the Mearns</placeName> where is the <placeName ref="pl2734">old
+                        Chapel consecrated to S<hi rend="superscript">t.</hi> Paladius</placeName>,
+                    now Ruins part of which is kept up as the Burial place of <persName ref="pe2006">L<hi rend="superscript">d.</hi> Halkerton</persName>
+                    <add place="above">Family</add>: about the later End of July is kept here an
+                    Annual Fair, remarkable for black Cattle &amp; much frequented, it is called <hi rend="underline">Paddy Fair</hi>. hard by the Chapel is a Spring named <hi rend="underline"><placeName ref="pl2735">Palady well</placeName></hi>: about
+                    a Stone cast thence in a Strath is a Cave on which the Sun never shines from the
+                    Rocks of this Cave distills a very cool spring named the <hi rend="underline"><placeName ref="pl2736">Dreepie Spring</placeName></hi>, it never
+                    freezes in the severest frost. —</p>
+                <p><placeName ref="pl0323">Montrose</placeName> lies about 24 computed miles N.E.
+                    from <placeName ref="pl2737">Cuper of Angus</placeName>
+                    <placeName ref="pl0342">Forfar</placeName> about 10 in the same direction,
+                        <placeName ref="pl0337">Brechin</placeName> upon the <placeName ref="pl0339">South Esk</placeName> about 20 more Northerly this River falls into the
+                        <placeName ref="pl1107">German Ocean</placeName> at <placeName ref="pl0323">Montrose</placeName> 5 computed miles from this last Town, <placeName ref="pl0318">Aberbrothick</placeName> about the same distance from
+                        <placeName ref="pl2737">Cuper of Angus</placeName> but South about 5 or 6
+                    miles from <placeName ref="pl0337">Brechin</placeName>. <placeName ref="pl0343">Glames</placeName> lyes on the Road from <placeName ref="pl2737">Cuper</placeName> to <placeName ref="pl0342">Forfar</placeName> about 3
+                    miles from the <del rend="overstrike">former</del> later: <placeName ref="pl2738">Kirremuir</placeName> a mercat Town 3 miles north from
+                        <placeName ref="pl0343">Glames</placeName>, <placeName ref="pl2739">Cortachy</placeName>
+                    <persName ref="pe2007">L<hi rend="superscript">d</hi> Airly's</persName> Seat
+                    about 3 miles from <placeName ref="pl2738">Kirremuir</placeName> upon the
+                        <placeName ref="pl0339">South esk</placeName>, which River rises in
+                        <placeName ref="pl1166">the Grampians</placeName> passing thro' a highland
+                    country called <placeName ref="pl2740">Clova</placeName> is joined below
+                        <placeName ref="pl2739">Cortachy</placeName> by a small river called
+                        <placeName ref="pl2741">Prosen</placeName> &amp; another still smaller
+                    called <placeName ref="pl2742">Caraty</placeName>, all which join at <placeName ref="pl2743">Innerquharity</placeName>
+                    <persName ref="pe2008">Sir John Ogilvy's</persName> Seat, then directs it's
+                    Course S.E. to <placeName ref="pl0323">Montrose</placeName>.</p>
+                <p>West of that is another small River from <placeName ref="pl1166">the
+                        Grampians</placeName> called <unclear reason="illegible"><placeName ref="pl2744">Melgum</placeName></unclear>, coming down thro' <placeName ref="pl2745">Glentrathen</placeName> by the Kirk thereof, falls into
+                        <placeName ref="pl2746">Isla River</placeName> at <placeName ref="pl2747">Castle Airly</placeName> now a stately Ruin: next to that westward is a
+                    highland Country called <placeName ref="pl2748">Glenisla</placeName> where that
+                    river runs in a S.E. direction till it comes to the <placeName ref="pl2747">Castle of Airly</placeName>, then S.W. to <unclear reason="illegible"><placeName ref="pl2749">Ruthven</placeName></unclear> runing more
+                    easterly about 4 miles till it is joined by <placeName ref="pl0748">Erricht or
+                        Erric</placeName> a little to the E. of <placeName ref="pl2737">Cuper of
+                        Angus</placeName>, then about 4 <add place="above">or 5</add> miles in this
+                    same direction gets the name of <placeName ref="pl2746">Isla</placeName> till it
+                    meets <placeName ref="pl0096">Tay</placeName> at <placeName ref="pl2750">Kinclaven</placeName>.</p>
+                <p><placeName ref="pl0748">Erricht</placeName> has 2 principal Branches the eastmost
+                    rises opposite the head of <placeName ref="pl0116">Braemar</placeName> passing
+                    thro' a highland Country <placeName ref="pl2751">Glenshee</placeName> by the W.
+                    of <placeName ref="pl2752">Mountblair</placeName>, <placeName ref="pl2753">Blacklounnan</placeName>, <placeName ref="pl2754">Dalrullion</placeName>,
+                        <placeName ref="pl2755">Persie</placeName> &amp;<hi rend="superscript">c</hi>. joins its W. Branch at the <placeName ref="pl2756">Bridge of
+                        Callie</placeName>: this W. branch rises in <unclear reason="illegible"><placeName ref="pl2757">Glenfernich</placeName></unclear> coming down
+                    by <placeName ref="pl2758">Strathloch</placeName>, <placeName ref="pl2759">Inverchrackie</placeName>, <placeName ref="pl2760">Kirkmichael</placeName>
+                    &amp; <placeName ref="pl2761">Ashintully</placeName> on the N.E. side <placeName ref="pl2762">Tullochcurran</placeName> &amp; many places of lesser note on
+                    the west a long track of highland Country called <placeName ref="pl2763">Strathardle</placeName> till it falls into the other Branch below
+                        <placeName ref="pl2756">Cally bridge</placeName>: then both are called
+                        <placeName ref="pl0748">Eright or Erric</placeName> having a South direction
+                    till it joins <placeName ref="pl2746">Isla</placeName> when it loses its Name is
+                    the large Rapid River of the two, <placeName ref="pl2746">Isla</placeName> runs
+                    very dull till it meets <placeName ref="pl0096">Tay</placeName>, after the
+                    Junction of the two Branches of <placeName ref="pl0748">Eright</placeName> it
+                    has <placeName ref="pl2764">Clawhat</placeName>, <placeName ref="pl2765">Drimmies</placeName>, <placeName ref="pl2766">Craighall</placeName>,
+                        <placeName ref="pl2767">Rattray</placeName>, the Kirk &amp; Barony of
+                        <placeName ref="pl2767">Rattray</placeName>, <placeName ref="pl2769">Blacklaw</placeName> &amp; <placeName ref="pl2768">Grange of
+                            Aberbothry</placeName> on the East: <placeName ref="pl2800">Rochellie</placeName>
+                    <placeName ref="pl2801">Maws</placeName>, <placeName ref="pl2767">Blairgowrie</placeName> which is opposite to <placeName ref="pl2767">Rattray</placeName>, <placeName ref="pl2770">Lochblair now called
+                        Rosemount</placeName> &amp; <placeName ref="pl2771">Couper
+                        Grange</placeName> on the West.</p>
+                <p><placeName ref="pl0745">Lintrose</placeName> lies <add place="above">about a
+                        Mile</add> S. of <placeName ref="pl2737">Couper of Angus</placeName>, it's
+                    old Name was <unclear reason="illegible"><placeName ref="pl0745">Fotheranis</placeName></unclear> &amp; <placeName ref="pl2772">Kinochtry</placeName>
+                    <add place="above">2 places that</add> belong'd to the Pattullos now to Murray,
+                    now <placeName ref="pl0745">Easter</placeName> &amp; <placeName ref="pl2772">Wester Lintrose</placeName>, near to it on the E. <del rend="overstrike">side</del> &amp; S. is <placeName ref="pl2774">Halyburton</placeName> &amp;
+                    the old <placeName ref="pl2773">Castle of Pitcur</placeName> &amp; east of it is
+                    the <placeName ref="pl2775">Kirk of Kettens</placeName>.</p>
+                <p><placeName ref="pl0098">Dunsinan hill</placeName> in the Parish of <placeName ref="pl2776">Collace</placeName> is about 5 miles S.W. of <placeName ref="pl2737">Cuper of Angus</placeName>. <placeName ref="pl0746">Kethic</placeName> is a large mill West of <placeName ref="pl2737">Cuper of
+                        Angus</placeName> on the South banks of <placeName ref="pl2746">Isla</placeName> opposite to <placeName ref="pl2737">Couper</placeName>;
+                        <placeName ref="pl2778">Banchory</placeName> on the West of it &amp;
+                        <placeName ref="pl2777">Meiklour</placeName> west of that on the Banks of
+                        <placeName ref="pl0096">Tay</placeName>. The <del rend="overstrike"><unclear reason="illegible">district</unclear></del> district between the
+                        <placeName ref="pl0096">Tay</placeName> &amp; <placeName ref="pl0748">Eright</placeName> is called <placeName ref="pl0286">Stormont</placeName> having
+                    <placeName ref="pl2767">Blairgowrie</placeName> on the East &amp; <placeName ref="pl0099">Dunkeld</placeName> on the West. The most remarkable places in the
+                        <placeName ref="pl0286">Stormont</placeName> are <placeName ref="pl0755">Cluny</placeName>, <placeName ref="pl1169">Laighwood</placeName>,
+                        <placeName ref="pl0287">Delvin</placeName>, <placeName ref="pl2780">Kinloch</placeName>
+                    <placeName ref="pl2779">Ardblair</placeName>, <placeName ref="pl2783">Baleed</placeName>, <placeName ref="pl2784">Stenton</placeName>, <placeName ref="pl2782">Glascloone</placeName>, <placeName ref="pl2781">Lethendy</placeName> &amp;<hi rend="superscript">c.</hi>
+                    <placeName ref="pl2785">Coutys</placeName>, <placeName ref="pl2786">Bendachy</placeName>, <placeName ref="pl2777">Meikleour</placeName> &amp;
+                        <placeName ref="pl2771">Couper Grange</placeName> all north of <placeName ref="pl2746">Isla</placeName> after it's join'd by <placeName ref="pl0748">Eright</placeName>: On the North of <placeName ref="pl2746">Isla</placeName> east of <placeName ref="pl0748">Eright</placeName>
+                    <del rend="overstrike">is</del>
+                    <add place="above">are</add> the parishes of <placeName ref="pl2787">Alyth</placeName> &amp; <placeName ref="pl2767">Rattray</placeName>, the
+                    first a very extensive parish, north of these are the highland Countrys
+                    mentioned above. <placeName ref="pl2787">Alyth</placeName> contains the Barony
+                    of <placeName ref="pl2789">Bamff</placeName>, <placeName ref="pl2788">Forrest of
+                        Alyth</placeName> &amp; <placeName ref="pl2797">black Cowans</placeName>
+                    north <unclear reason="illegible">of this</unclear> the Kirk &amp; mercat Town
+                    of <placeName ref="pl2787">Alyth</placeName>, and on the South <del rend="overstrike"><unclear reason="illegible">up</unclear></del>along
+                        <placeName ref="pl2746">Isla</placeName> side is <placeName ref="pl2792">Bandoch</placeName>, <placeName ref="pl2790">Hal-yards</placeName>,
+                        <placeName ref="pl2791">Jordinston</placeName>, <placeName ref="pl2798">Balehary</placeName>, <placeName ref="pl2794">Leiftie</placeName>,
+                        <placeName ref="pl2795">Bermoney</placeName>, <placeName ref="pl2796">Bothry</placeName> &amp;<hi rend="superscript">c.</hi> the Baroney of
+                        <placeName ref="pl2787">Alyth &amp; Queich</placeName> in the middle. The
+                    Parish of <placeName ref="pl2767">Rattray</placeName> contains the proper Barony
+                    of <placeName ref="pl2767">Rattray</placeName> now belonging to the <persName ref="pe0583">E. of Kinnoul</persName> &amp; the Barony of <placeName ref="pl2766">Craighall</placeName> to <persName ref="pe2009">M<hi rend="superscript">r.</hi> Rattray</persName> of <placeName ref="pl2766">Craighall</placeName> to whom of old the Barony of <persName ref="pl2767">Rattray</persName> belonged: <gap reason="damage" unit="words" atLeast="2" atMost="3"/> Bl<gap reason="damage" unit="words" atLeast="1" atMost="2"/>
+                        &amp;<hi rend="superscript">c.</hi> are in <placeName ref="pl2786">Bendochy
+                        parish</placeName> tho' east of <gap reason="damage" unit="words" atLeast="1" atMost="4"/></p>
+                <p>The muir of <gap reason="damage" unit="words" atLeast="2" atMost="3"/>
+                    <unclear reason="damage">re</unclear>markable having no water in it few or no
+                        Sprin<unclear reason="damage">gs</unclear> &amp; <gap reason="damage" unit="words" atLeast="2" atMost="3"/>ld called <placeName ref="pl2799">Muir-roman or Roman</placeName></p>
+                <p>I have got <unclear reason="damage">no account yet of</unclear>
+                    <placeName ref="pl0743">Battledykes</placeName> but expect soon a letter from
+                        <gap reason="damage" unit="words" quantity="1"/> Country, the contents
+                    whereof shall be hastend as quickly as <unclear reason="damage">possible</unclear>, I can find no mention made of this place in <unclear reason="damage">any</unclear>
+                    <gap reason="damage" unit="words" atLeast="1" atMost="2"/>
+                    <unclear reason="damage">but</unclear>
+                    <bibl type="authorial"><title ref="bi0182"><hi rend="underline">Maitland's
+                                History of Scotland</hi></title>
+                        <biblScope unit="volume">Vol. 1<hi rend="superscript">st.</hi></biblScope></bibl> as he was <unclear reason="damage">a native of
+                            <placeName ref="pl0337">Brechin</placeName></unclear> he must have known that
+                    part of <placeName ref="pl0705">Scotland</placeName>
+                    <gap reason="damage" unit="words" atLeast="1" atMost="2"/> a singular Error that
+                    he did not give the World a Mapp of <unclear reason="damage">his
+                        peregri</unclear>nations thro' this &amp; other Counties.</p>
+                <p><placeName ref="pl0749">Inchstu</placeName><unclear reason="damage">thill is not
+                        kn</unclear>own to any that I have inquired <unclear reason="damage">of in
+                        this place,</unclear> neither does this place appear to <gap reason="damage" unit="words" quantity="1"/>
+                    <unclear reason="damage">mention</unclear> in any History I've met with, so am
+                    at a loss to account from what Authority <bibl type="authorial"><title ref="bi0126"><hi rend="underline">Dorret</hi></title></bibl> makes such
+                    a remark on his Map, no such name of a Town, City or Village is mentioned in
+                        <bibl type="authorial"><hi rend="underline"><title ref="bi0685">Maule's
+                                History of the Picts</title> Edin<hi rend="superscript">r.</hi>
+                            1716</hi> 12<hi rend="superscript">o.</hi></bibl>, which Surprises me
+                    not a little, if any <unclear reason="damage">accounts</unclear> of it can be
+                    pickt up these shall be transmitted in Course, wishing this &amp; what was
+                    formerly transmitted may be of any Service to your Inquiries.</p>
+                <p>I shall follow your directions &amp; continue to address as <unclear reason="damage">desired</unclear> till further orders; The large Plates will
+                    be defferrd to be bound up till the appearance of the <bibl type="authorial"><title ref="bi0020">new Edition of the B. Zoology.</title></bibl></p>
+                <closer><salute>I ever am— <lb/>Dear Sir <lb/>Your most obedient &amp; obliged
+                        humble <lb/>Serv<hi rend="superscript">t.</hi></salute><signed><persName ref="pe0228">GPaton</persName></signed>
+                    <dateline><placeName ref="pl0696">Custom house</placeName> <placeName ref="pl0076">Edinburgh</placeName>
+                        <lb/>23<hi rend="superscript">d.</hi> October 1774</dateline></closer>
+
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>Thomas Pennant Esq<hi rend="superscript">r</hi></addrLine>
+                        <addrLine>Downing</addrLine>
+                    </address></p>
+                <p><stamp type="postmark">26<lb/>OC</stamp></p>
+                <p><handShift/>answered Nov<hi rend="superscript">r</hi> 4<hi rend="superscript">th.</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

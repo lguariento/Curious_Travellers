@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0415">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Donald MacQueen to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP297</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>10</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>Corrections and letter written continuously on one sheet.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0069">Donald MacQueen</persName>
+                    <date when="1774-05-04"/>
+                    <placeName ref="pl0001">Kilmuir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0416"/>
+                    <ref type="prev" target="ct0414"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="gd">Gaelic</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="enclosed">
+                <p>Corrigenda</p>
+                <p>In stead of three page 295 Line the 11<hi rend="superscript">th.</hi> read free.
+                    Refer to <bibl type="authorial"><title ref="bi0087">Torfæus</title> p.37</bibl>
+                    rather than 36. <placeName ref="pl2720">Ugg</placeName> may, for ought I know,
+                    have some connection with <persName ref="pe1983">Uggerūs</persName>, a poet of
+                    whom there is no mention in the 193<hi rend="superscript">d</hi>p. of my coppy
+                    of <bibl type="authorial"><title ref="bi0087">Torfaeūs</title></bibl>.<note type="editorial">See Pennant <bibl type="editorial"><title ref="bi0008">A
+                                tour in Scotland and Voyage to the Hebrides 1772</title></bibl>
+                        (1774), p.345. According to Pennant's note, 'Uggerus' is mentioned in Saxo
+                        Grammaticus, <bibl type="editorial"><title ref="bi0086">Gesta
+                                Danorum</title></bibl>.</note> In our Language however, <placeName ref="pl2720">Uig</placeName> is a dark hollow and <placeName ref="pl0181">Wick</placeName> in <placeName ref="pl0823">Suther Land</placeName> is of
+                    the same <add place="above">name</add> And Situation. Page 303 Line 20<hi rend="superscript">th.</hi> you are right in calling <placeName ref="pl0667">Dun-tuilm</placeName>, the Castle of the round Grassy Eminence, but you
+                    might have Observed that it derived its name from the Rocky Island yoū mention
+                        <sic>two Lines two Lines</sic> below, properly <placeName ref="pl0852">Holme</placeName>, which is an Island on the Sea <add place="above">near
+                        the</add> Coast As well As in a River, of which there are Several Instances
+                    in these Islands. If the old name of <placeName ref="pl0052">Durham</placeName>
+                    which the Romans of Your Country Latinized, Musically Enough, into <placeName ref="pl0052">Dunelmūm</placeName> was to be pronounced in Erse it would be
+                    no Other than <placeName ref="pl0052">Dun-tuilm</placeName>. Page 304 Line 2<hi rend="superscript">d.</hi> instead of Chock read cnock.</p>
+                <p>You will need review the third paragraph of the 306<hi rend="superscript">th</hi>p. The Number of Inhabitants within the bounds of the Presbytery of
+                        <placeName ref="pl0715">Sky</placeName> may be something 'twixt twelve and
+                    thirteen thousand souls: But the Smaller Islands of <placeName ref="pl0718">Rum</placeName>, <placeName ref="pl0653">Canna</placeName>, <placeName ref="pl2707">Egg</placeName> and <placeName ref="pl2708">Isle of
+                        Muck</placeName> make Up one of the Parishes of that Presbytery, tho the
+                    Minister draws more than a third of his stipend from <placeName ref="pl0715">Sky</placeName> And these Small Islands as they Are called may be supposed
+                    to contain at Least two thousand of that Number. When Your Correspondent
+                    mentioned <persName ref="pe1947">Captain Salts</persName> having got a List of
+                    fifteen thousand Souls, he is apt to believe that the <placeName ref="pl0896">Island of Coll</placeName> was in the Number of the Small Isles which
+                    Joined to <placeName ref="pl0715">Sky</placeName> contained that number of
+                    Inhabitants. When he Also Spoke of the thousand's having crossed the <placeName ref="pl1084">Atlantic</placeName>, he coud not mean that they all went from
+                        <placeName ref="pl0715">Sky</placeName>, for many of them came from the
+                    Opposite Coast of the main Land And from the Neighbouring Islands. It is more
+                    proper to be general in this thing than very Precise as to Numbers, for all the
+                    Ministers have had public Orders, to make Up Lists of the Emigrants from their
+                    Several Parishes And the Proprietors, at Least One of them, hath given Orders to
+                    Make Up Lists Upon his Estate And if they Intend to be captious may contradict
+                    Any the Smallest deviation from Truth. Page 308 Line the 14<hi rend="superscript">th.</hi> the Sentence beginning with the words "the Use
+                    of the first &amp;c is not Level to my Understanding. Page 312. Line the 8<hi rend="superscript">th.</hi>
+                    <placeName ref="pl2721">Bordh-mor-mhicLeod</placeName> Shoud be called
+                        <placeName ref="pl2721">Bordh-mor-mhicDhomnail or Macdonalds great
+                        table</placeName>.</p>
+            </div>
+            <div type="letter">
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I made a return to your former Letter some weeks ago And the Last remained in the
+                    Office for Some <add place="above">days</add> Longer than it ought Else you had
+                    heard from Me Sooner. I cannot but congratulate with the Public, in your being
+                    possessed of a Talent to work up Even small matters into Importance And dress
+                    them in the mos agreeable colors — I wish with all my heart, you may Enjoy Long
+                    Life &amp; health to do honor And give further Satisfaction to your
+                    Countrey.</p>
+                <closer><salute>I am with real Esteem Dr Sir <lb/>Your very Obedient And very humble
+                        sevt,</salute>
+                    <signed><persName ref="pe0069">Don: Macqueen</persName></signed>
+                    <dateline><placeName ref="pl0742">Kilmuir</placeName> May the 4<hi rend="superscript">th</hi>
+                        <lb/>1774.</dateline></closer>
+                <postscript>
+                    <p>An Anecdote.</p>
+                    <p>If Tradition is to be credited this Prophecy was banged up And carefully
+                        propagated on the Setlement of <persName ref="pe0066">Columba</persName> at
+                        his favourite Island of <placeName ref="pl0651">Hi</placeName>, in order to
+                        draw the Religious from Every Neighbourhood to Associate with him in it,
+                        "That Seven years before the Conflagration; <placeName ref="pl1084">the
+                            western Ocean</placeName> woud Overflow all Islands in one Nights time,
+                        And that over the green And pleasant Isle, the <placeName ref="pl0651">Hi</placeName> of <persName ref="pe0066">Columb the Clerk</persName>,
+                        would Swim on the surface of the Waters.<note type="editorial">See Pennant,
+                                <bibl type="editorial"><title ref="bi0008">A tour in Scotland and
+                                    Voyage to the Hebrides 1772</title></bibl> (1774), p.284, and
+                            John Stuart's letter of <ref target="0428.xml">December 31
+                            1773</ref>.</note></p>
+                    <p>This Prophecy which runs in metre soon made it's way And among an Ignorant
+                        superstitious people, produced more than the desired Effect, for the Notion
+                        Which was Spread of the distinguished Sanctity of the Island was Surely the
+                        Cause why Kings, princes &amp; great men made choice of it for their Burial
+                        place. It is not to be doubted that this Prophecy might work the better, the
+                        Manufacturer of it brought the Conflagration close within View And gave out
+                        that this great Catastrophe was to happen in that Generation or in the next;
+                        Which is the Less Surprizing that in all Nations as far As our Histories
+                        reach, it was a mighty Engine in the hands of Monks, Phylosophers &amp;
+                        Poets to work their Purposes into the hearts of Men. The Monks put it So
+                        close home to their Votaries, that in Several of the Charters granted to
+                        them are these words — adventante Mundi Vespers — the Evening of the world
+                        being at hand, I make over these Lands for the Salvation of my own Soul And
+                        the Souls of My Relations And if it be so that the Dance called the
+                        Conflagration Which I mentioned in my Last<note type="editorial">See MacQueen's letter of <ref target="0414.xml">April 11, 1774</ref>.</note> was Druidical there was a good Enough foundation in the
+                        minds of the people of Every denomination for the Reception of the Above
+                        Prophecy And it appears from the History of <persName ref="pe0066">Columba</persName> that his mind was well Enough turned for Useing
+                        Every Art which tended to Produce the Reformation of Mankind.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>Thomas Pennant Esqre</addrLine>
+                        <addrLine>of Downing in Flintshire.</addrLine>
+                        <addrLine>South Brittain</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

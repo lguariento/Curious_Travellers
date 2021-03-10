@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1122">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>28</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Endorsement at the top of the letter Thomas Pennant's hand</hi>: <hi rend="underline">answ<hi rend="superscript">d</hi></hi></p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1791-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir.</salute> <dateline>18 Feb:<hi rend="superscript">y</hi> 1791.</dateline></opener>
+                <p>my Friend <persName ref="pe0412">Minchin</persName> promiss’d to send me to day, some little account of the Forest you saw from 
+                    <placeName ref="pl1703">Port-Down</placeName>, but by some blunder or other I have receiv’d only the frank, which it is pity to lose, 
+                    so I write a line or two that I may correct a blunder of my own. the Forest in question, which I told you was 
+                    <placeName ref="pl1704">Waltham</placeName>, is the <placeName ref="pl1582">Forest of Beere</placeName>, &amp; when I receive 
+                    his account a few days hence, (for I go into <placeName ref="pl1388">Essex</placeName> to morrow) you shall have it directly after my return. 
+                    The <rs type="art" ref="ar0168">Drawing of Lord Fanhope</rs>, which <persName ref="pe0397">Lord Malmesbury</persName> has got
+                    a <persName ref="pe1243">lady</persName> to take from the original picture of <persName ref="pe0386">Sir <del><gap unit="letters" quantity="3" reason="damage"/></del>George Cornwalls</persName> in <placeName ref="pl1653">herefordshire</placeName>,
+                    arriv’d last night, and I have this morning carried it to Carter<note type="editorial">The identity of Carter is uncertain. Bull and Pennant had 
+                        previously employed <persName ref="pe1373">John Carter</persName> of Westminster to copy drawings, but it is possible that by 1791 they were employing <persName ref="pe0376">George Carter</persName>, whose expertise was in history painting.</note> to copy for your 
+                    <add place="above">acceptance</add>. – 'tis merely a head. –––</p>
+                <p>I have got from <persName ref="pe0026">White</persName> the two Title pages to your <bibl type="authorial"><title ref="bi0032">Journey to London</title></bibl>,
+                    which answer my purpose very well. –</p>
+                <p>I wait your list of Spanish, and African prints you have occasion for, that I may look among mine, and send 'em you down when I send 
+                    <rs type="art" ref="ar0168">Lord Fanhope</rs>. I can furnish you with a very good <rs type="art" ref="ar0223">Charles V</rs>, &amp;
+                    <rs type="art" ref="ar0224">Philip II<hi rend="superscript">d</hi></rs>, and, I <hi rend="underline">believe</hi>, I have some <sic>where 
+                    got</sic> the <rs type="art" ref="ar0225">present King and &amp; Queen of Spain</rs>, if You want them. when I get your list, I will hunt at the print shops also. I have the 
+                    <bibl type="authorial"><title ref="bi0025">Introduction to the Arctic World</title></bibl>, upon <hi rend="underline">large paper</hi>
+                    <del>ending at the page</del> as far as page CCCXXXIV. <add place="above">illuminated by <persName ref="pe0014">Moses</persName>.</add>
+                    together with the Index,<note type="editorial"> An 'Index to the Introduction' is found unpaginated at the end of <hi rend="italic">Arctic zoology</hi> (1784), I.</note> but I don’t find that I have got any 
+                    <hi rend="underline">large paper</hi> copy  of the <bibl type="authorial"><title ref="bi0022">arctic Zoology</title></bibl> it self.</p>
+                <closer>
+                    <salute>I am Dear Sir, for the present,
+                    <lb/>Yours &amp;<hi rend="superscript">a</hi>:</salute>
+                    <signed><persName ref="pe0313">R.B.</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

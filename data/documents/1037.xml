@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1037">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 39</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1784-03-21"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> March 21. 1784.</dateline></opener>
+                <p>I am sorry that you so easily give up the poor principality.<note type="editorial">See <ref target="1036.xml">1036</ref>.</note> <placeName ref="pl1047">Tower</placeName> 
+                    certainly would never do for your family, being much to small: but I was not acquainted with y<hi rend="superscript">r</hi> number.
+                    <persName ref="pe0226">M<hi rend="superscript">r</hi> Panton</persName> some time ago returned your Compliments:
+                    &amp; mentioned to me a new house built by a clergyman who is ruined by the expence. It’s situation is
+                    <hi rend="underline">the noblest in <placeName ref="pl0777">Britain</placeName></hi> above <placeName ref="pl1049">Conway</placeName>
+                    in sight of everything that is great. It is unfurnished: but if you could think of a longer retreat than one summer it may suit you. Had you not best make a tour with 
+                    Miss Bulls<note type="editorial"><persName ref="pe0331">Elizabeth</persName> and <persName ref="pe0336">Catherine</persName>.</note> &amp; explore the Country. <placeName ref="pl0001">here</placeName>
+                    you will find warm lodgings as long as you please. This failing I shall be silent.</p>
+                <p><placeName ref="pl1046">Pistill Rhaeader</placeName> is described <bibl type="authorial"><title ref="bi0014">vol. last</title> p. 350 paragraph 4<hi rend="superscript">th</hi></bibl>.<note type="editorial">See <ref target="1036.xml">1036</ref>, n. 3.</note>
+                    I am not interested the lest in <placeName ref="pl0731">S. Wales</placeName>, therefore return <rs type="art" ref="ar0063">Edward's head</rs>.<note type="editorial">This probably refers to Edward II who, although born at Caernarfon Castle, spent a tumultuous period at the end of his reign in south-east Wales. <hi rend="italic">ODNB</hi>.</note> 
+                    I rejoice at the political change; &amp; may say that the <del>pub</del> welsh public strongly befriends in theory but wants principle to give their sentiments, useful effect. Whenever 
+                    Dissolution<note type="editorial">Parliament was dissolved on 25 March 1784.</note> takes place I fly the country till the bustle is over: for I cannot vote against my conscience: and my conscience tells me 
+                    <persName ref="pe0015">Sir R. M.</persName> ought not to be supported.<note type="editorial">  Pennant was critical of Roger Mostyn for his support to the Fox-North Coalition from February 1783, since he had promised to 'enlist under no party, follow no set of men'. <hi rend="italic">Literary life</hi>, p. 95; <hi rend="italic">Hist P</hi> s.n. Sir Roger Mostyn, 5th Bt.</note>
+                    I will not hurt the worthiest of women <persName ref="pe0238">his sister</persName> by going against him so shall retire from the scene of action.</p>
+                <closer>
+                    <salute>I am
+                    <lb/>Dear Sir
+                    <lb/>y<hi rend="superscript">r</hi> affect friend</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>Is there ever a <rs type="art" ref="ar0073">print of <persName ref="pe0498">Catherine Cornaro</persName></rs>?</p>
+                    <p>Be so good as to refer me to the author who gives the character of <persName ref="pe0499">sir Benj. wright</persName><note type="editorial">Sir Benjamin Wright[e] of Cranham Hall (d. 1706) was considered a lunatic; he was put into custody and his estates were taken over. Wellcome Library, MS 7467.</note>
+                        in the last century. He is the person to whom <unclear>M<hi rend="superscript">r</hi> Possi<gap quantity="1" unit="letters" reason="illegible"/></unclear> was lately compared in the house.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

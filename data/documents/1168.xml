@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1168">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 114</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1793-08-22"/>
+                    <placeName ref="pl1203">Abergelli</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>                
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl1203">Abergelli</placeName> Aug. 22<hi rend="superscript">d</hi> 1793.</dateline></opener>
+                <p>I am now at the <placeName ref="pl1608">Brighthelmstone</placeName> of <placeName ref="pl1221">North wales</placeName>,
+                    a place rather inferior to that of <placeName ref="pl0922">Sussex</placeName>: but the inconveniencies must be submitted to as 
+                    it does most amazingly confirm the health of our <persName ref="pe0235">dear child</persName>. I trust that a fortnights more 
+                    penance will effect the end of our coming here &amp; restore us all by our fire side at <placeName ref="pl0001">Downing</placeName>.
+                    some good rises out of every thing. you I know will rejoice to hear that I shall at <placeName ref="pl1203">abergelli</placeName>
+                    probably complete the <bibl type="authorial"><title ref="bi0269">tour of the isle of wight</title></bibl> &amp; <del>join</del>
+                    fill the blank I left from the borders of <placeName ref="pl0922">Sussex</placeName> to <placeName ref="pl2529">Lymington</placeName>.
+                    I brought with me <del><gap unit="letters" quantity="2" reason="illegible"/></del> my Journal, y<hi rend="superscript">r</hi>
+                    materials <bibl type="authorial"><title ref="bi0406">Cambden</title></bibl>, &amp; <bibl type="authorial"><title ref="bi0290">worsely</title></bibl>,
+                    I find myself well inclined to work &amp; hope to effect the business. If you have anything <sic>more say</sic> pray communicate. 
+                    still something may be added. one thing in particular let me request you to inform me, if <persName ref="pe0436">Sir R<hi rend="superscript">d</hi> Worsley</persName>
+                    leaves his pictures &amp;c &amp;c at <placeName ref="pl1392">Appledorecombe</placeName> in the order they were in the <bibl type="authorial"><title ref="bi0065">list</title></bibl> 
+                    you favord me with.</p>
+                <p>
+                    I truely lament the necessity which <persName ref="pe0336">miss Catherine</persName> has for a <placeName ref="pl0796">Bath</placeName>
+                    journey: may she feel every good effect which you can wish. I feel for you. I credit you for <placeName ref="pl1626">Botany bay</placeName>
+                    till we meet. In <placeName ref="pl0699">town</placeName>. in my passage homewards in July I met with two of its inhabitants at the 
+                    <placeName ref="pl1236">Br. Museum</placeName>. They had the features of very ugly negroes but the hair neither woolly or frizzled; 
+                    nor yet straight like the Indostans, rather waved &amp; black. their complection copper suffused over with black. their minds lively 
+                    &amp; intelligent. They entertaind us with the song &amp; dance of their own country. the first was learned from the Kangaroo 
+                    which is their dancing master as the Bear is of the Kamtschatkans. I wishd to see how <sic>the</sic> performed the english dances: so, 
+                    being the most active of the philosophical company, took out <persName ref="pe1723">Baneelon</persName>, &amp; performed with him a jig, 
+                    Cheshire round &amp; others of our most agile dances. his powers &amp; quickness of imitating our steps were surprizing.</p>
+                <p>
+                    Now for <persName ref="pe0014">Moses</persName>. To his great misfortune I had a mill to rebuild. He very unwisely took in as a boarder a fine stout hibernican mill wright: 
+                    &amp; I much fear we may s<del>ee</del>ay of him as of his meek namesake, Ecce cornuta ejus facies!<note type="editorial">‘the skin of his face shone’, said of Moses after he had spoken to God on Mount Sinai. The translation comes from the King James Version of Exodus 34: 29–30.</note>
+                    He gives likewise symptoms of methodism; so I fear much for the effect it may have on both head &amp; hand.</p>
+                <p>
+                    I never lamented a war so much as this as it is war with madmen of which we cannot fore-see the end: &amp; all this without the lest imputation to 
+                    government. I think the convention would save the <persName ref="pe1724">Queen</persName>: but she must fall a sacrifice to the mob. for you know it is 
+                    impossible for the armies to recede on acc<hi rend="superscript">t</hi>. of an individual. – Did you ever read so wretched &amp;
+                    low a forgery as the letter &amp;c ascribed to <persName ref="pe0500">M<hi rend="superscript">r</hi> Pitt</persName>?<note type="editorial">On this forged letter of William Pitt's, see <hi rend="italic">Oxford Journal</hi>, 24 August 1793: 'The fabricated letter ordered by the Convention to be circulated through France, as an intercepted letter of Mr Pitt, mentioned in most of the prints, is a forgery so barefaced, that we should have supposed even the Rump Convention of France, would not have attempted to gull the people with it'. </note></p>
+                <p>
+                    I am only 17 miles from <placeName ref="pl0001">Downing</placeName>. Pray let me hear from you with the usual address. 
+                    <persName ref="pe0238">Mrs P.</persName> join in best complim<hi rend="superscript">ts</hi> to the Ladies<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note> &amp; yourself.</p>
+                <closer>
+                    <salute>I am
+                    <lb/>D<hi rend="superscript">r</hi> Sir
+                    <lb/>most truely y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName>.</signed>
+                </closer>
+                <postscript>
+                    <p>I forgot a material part of my letter to beg from you a small matter towards regraving the <hi rend="underline">late</hi>
+                        <persName ref="pe0333">John Lloyd rector of Caerwis</persName> my right hand in welsh antiquities my constant friend &amp;
+                        companion in travel: to whom we all owe much. The plate for the benefit of his <persName ref="pe0741">widow</persName> &amp;
+                        <persName ref="pe1725"><gap unit="letters" quantity="1" reason="illegible"/> children</persName> among <del><gap unit="letters" quantity="several" reason="illegible"/></del>
+                        whom is only 250<hi rend="superscript">£</hi> for widow’s jointure &amp; his ten <del><gap unit="letters" quantity="2" reason="illegible"/></del>fatherless.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

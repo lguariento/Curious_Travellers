@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1218">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>67</locus></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                    <additional><p><hi rend="italic">Condition</hi>: small tear in paper due to seal</p></additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1798-03-19"/>
+                    <placeName ref="pl0759">Stratton street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl2627">Rose hill</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline>P.S. it is reported that several regiments are to be sent to <placeName ref="pl1294">milford Haven</placeName>, and to different parts of <placeName ref="pl0731">Wales</placeName>.<lb/><placeName ref="pl0759">Stratton Street</placeName> March 19: 1798</dateline></opener>
+                <p>On my return from the <placeName ref="pl2571">Grove</placeName>, I found your letter, which I hasten to thank you for, altho^ I have little to add, except my grateful acknowledgements for your never ceasing kindness to me, upon all occasions. A letter of mine seems to have miscarried; I don’t know that it was of any manner of consequence, but I am able to ascertain the date, because it was written on the 22<hi rend="superscript">d</hi>
+                    of January, the day on which I paid your <persName ref="pe0329">Banker</persName>, the ten pounds, which you had the goodness to advance to 
+                    <persName ref="pe0324">Ingleby</persName>, on my account, and to the best of my recollection, sent cheifly to tell you so. I mention this unimportant circumstance, because, <unclear>back</unclear>
+                    as I paid it, I should have been ashamed to have owed you so long, a debt of correspondence. I recollect to have return’d the Drawings of the <bibl type="authorial"><title ref="bi0023">Artic Zoology</title></bibl>,
+                    (having them already by the hand of <persName ref="pe0014">Moses the great</persName>,) but the <rs type="art" ref="ar0356">Drawing in Bantam</rs>,
+                    I could not have return’d, because, I do assure you, I never receiv’d it.</p>
+                <p>
+                    I have receiv’d your parcel from M<hi rend="superscript">rs</hi>. Mostyn,<note type="editorial">An unidentified member of the Mostyn family.</note> containing the very interesting, and very 
+                    extraordinary <rs type="art" ref="ar0451">march of General Goddard</rs>, and have many thanks to give you for the entertainment it has afforded me, and a General or two of my acquaintance. You would not so kindly enquire after the healths of me and mine, if you did not wish to be 
+                    inform’d concerning the same. I have had my health better this winter, than for these dozen years, tho’ I am advancing a=pace 
+                    to my second childhood, but I am reckon’d a <hi rend="underline">cheeld</hi> of promise, and shall improve as I grow up. my amiable 
+                    <persName ref="pe0331">daughter</persName>, for all her friends think she is so, is growing a little, and a very little better in her health and her Spirits, but the blow She had so long dreaded, has fallen with all it's 
+                    weight upon her, and is never to be recover’d. If <persName ref="pe0500">M<hi rend="superscript">r</hi>. Pitt</persName> had let alone his vast addition to our already enormous assess’d taxes, untill the success of a voluntary subscription had been try’d, 
+                    it might have answer’d a good purpose, and have gain’d him as much popularity as he lost by that distresful measure – no one can doubt of there being a great quantity of unemploy’d money in this Country, and many are of opinion, that, instead of a voluntary subscription, had a voluntary loan been adopted, a sum answerable to every want of Government might have been rais'd, &amp; without John Bulls’ grumbles.</p>
+                <p>
+                    Peoples minds have been made up so long for Invasion, that many will be disappointed if it should not take place at last. I am among those who wish the attempt was made; succeed it never can, except to occasion a momentary confusion, but failing, the Bugbear would be gone, and this poor distracted country would once more return to her usual quiet. I don’t find that much comes to light, by the capture of the 
+                    <hi rend="underline"><placeName ref="pl2630">Margate</placeName> traitors</hi><note type="editorial">See <ref target="1217.xml">1217</ref> n. 1.</note> but a Plot of a very serious and alarming aspect has been discover’d in <placeName ref="pl0889">Ireland</placeName>,
+                    of which the same post that brings my letter, will give you some intelligence, but the Story is related so differently in the different papers, that one knows not where <supplied>to</supplied>
+                    look for the truth. A Gentleman, not low in office, and <hi rend="underline">who pretended to know a great deal</hi>, told me a few circumstances not in the daily prints. – That 
+                    <persName ref="pe1878">Lord Edward Fitzgerald</persName> had been long suspected to have carry’d on an unlawful correspondence with the French Directory; that one of his associates had betray’d him<note type="editorial">This probably refers to Thomas Reynolds, a Catholic merchant whom Fitzgerald had invited to replace him as colonel of the United Irish forces in Kilkea and south Kildare, but who betrayed information on United Irish meetings to the government. This led to the capture of the large majority of the Leinster directory on 12 March 1798, although Fitzgerald escaped. <hi rend="italic">ODNB</hi> s.n. Lord Edward Fitzgerald (1763–1798).</note>
+                    to the <persName ref="pe1879">Lord Lieutenant</persName>; That the messengers had taken into custody above thirty people, some of consequence, and secur’d their papers; that treasonable societies have of late <add place="above">met</add>
+                    frequently at <hi rend="underline">the House of the <persName ref="pe2027">Duke of Leinster</persName>,</hi> and that a Council was sitting there, when the messengers arriv’d with an arm’d force, in order to secure 
+                    <persName ref="pe1878">Lord Edward</persName>, but by some strange blunder of the warrant being left behind, he could not be taken into custody, and <add place="above">has</add>
+                    got away, nobody knows where, and was not apprehended, when the last accounts arriv’d. <persName ref="pe1881">His wife</persName> (whom I need not tell you, was the daughter of that monster the 
+                    <placeName ref="pe0418">Duke of orleans</placeName> is said to have <add place="above">been</add> found in her appartment, in the act of burning of papers, but it is also said that sufficient Evidence is found, to verify a most hellish conspiracy, ripe for Execution, and only waiting for a large body of Frenchmen being landed in the <placeName ref="pl0889">Island</placeName>,
+                    which was to have been the signal for a general rising of the malecontents in and about <placeName ref="pl1673">Dublin</placeName>, who were to have march’d immediately to storm the castle, while the consternation of the french having landed alarm’d all good subjects; and tis added that 
+                    <del>if</del> who ever would not declare themselves friendly to the <placeName ref="pl0925">french Republic</placeName>, and the Irish revolution were to be put to death, without distinction.<note type="editorial">The fears expressed here were in some measure realized by the outbreak of a rebellion in Ireland between May and September 1798. See Hugh Gough and David Dickson (eds.), <hi rend="italic">Ireland and the French Revolution</hi> (Dublin, 1990); R. B. McDowell, ‘The Age of the United Irishmen: Revolution and the Union, 1794–1800’, in T. W. Moody and W. E. Vaughan (eds.), <hi rend="italic">A New History of Ireland. IV. Eighteenth-Century Ireland 1691–1800</hi> (Oxford, 1986; paperback edn., 2009), pp. 339–73.</note>
+                    a Commission is said to have been found in <placeName ref="pl2631">Leinster house</placeName>, appointing <persName ref="pe1878">Lord Edward</persName> Lieutenant General of the united Armies of 
+                    <placeName ref="pl0925">France</placeName>, and <placeName ref="pl0889">Ireland</placeName>. I have just been told that all <placeName ref="pl0889">Ireland</placeName>
+                    is to be put under military Law, and that their <persName ref="pe1883">Lord Chancellor</persName> has behaved with a coolness and courage, beyond all praise.</p>
+                <closer>
+                    <salute>I can only add my own and <persName ref="pe0331">my daughters</persName> good wishes -</salute>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark"><gap unit="letters" quantity="1" reason="illegible"/> M<gap unit="letters" quantity="1" reason="illegible"/>. 9<gap unit="letters" quantity="1" reason="illegible"/>;<gap unit="letters" quantity="1" reason="illegible"/><note type="editorial">Further postmarks are illegible.</note> </stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant</persName> Esq<hi rend="superscript">re</hi>: | <placeName ref="pl2818">Rose hill</placeName>, near <placeName ref="pl0792">Wrexham</placeName> | <hi rend="underline"><placeName ref="pl1216">Denbighshire</placeName></hi> | March <hi rend="underline">19.</hi></addrLine>
+                </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

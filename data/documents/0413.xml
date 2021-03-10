@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0413">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Donald MacQueen to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP297</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>8</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0069">Donald MacQueen</persName>
+                    <date when="1774-02-19"/>
+                    <placeName ref="pl0742">Kilmuir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0414"/>
+                    <ref type="prev" target="ct0412"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="gd">Gaelic</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="enclosed">
+                <fw>p.1<hi rend="superscript">st</hi></fw>
+                <p>Poetry, Singing And dancing have been common to all Ages And nations from
+                        <placeName ref="pl2712">Terra del Fuego</placeName> in the South Untill you
+                    come to the Eskimaux as well as <add place="above">on</add> the whole Length of
+                    the Other Hemisphere And from before the days of <persName ref="pe1970">Moses</persName>, who Mentions former Songs, down to our own Times. The
+                    most Savage Nations, the most Civilized, as well as the tame Insignificant
+                    Inhabitants of <placeName ref="pl0737">St Kilda</placeName> compose, Sing &amp;
+                    dance. These are Exercises which I take to be coeval with Society And as natural
+                    to man as thought, Speech or Motion. We have a wonderful propensity to Analyse
+                    And Simplify human Actions And reduce them to a primitive narrow principle. How
+                    much have Phylosophers heated and fatigued themselves in deriving Virtue, some
+                    from disinterested Benevolence, some from Self-Love, some from Feeling and
+                    others from Reason, Without considering that the Mind As well As the Body is a
+                    complex, much diversifyed peice of Workmanship, furnished out with Several
+                    Facūlties, Passions &amp; feelings, to Any of Which Complexion &amp; Edúcation
+                    may give an Ascendant over the Rest And Each of Which may give occasion in it's
+                    turn to any of our Actions. In the same manner they have strained their
+                    Immaginations to find out the Origine of Poetry. Many have imputed it to real
+                    Inspiration, Some to the Aw, Love &amp; Gratitude struck into the Mind by the
+                    presence of the Supreme Being in his Marvellous works. Had they not spoke more
+                    Naturally? If they had said in the General, that Men of warm Immaginations,
+                    Penetrated with a Lively Sense of External Objects <del rend="overstrike">and</del><add place="inline">or</add> accidents will Express themselves in
+                    Terms of the greatest Energy And force And when Simple words come Short of the
+                    forcible impressions they have received, they fly to the Use of tropes &amp;
+                    figures and Even to the Abuse of the boldest Metaphors. When Plain Language
+                    Sinks below them, that of bombast and Exaggeration fills it's place, Especially
+                    among those who Labour Under the transports of Enthusiasm or whose passions Are
+                    in the Natural Untamed State. In Every Language there are words &amp;
+                    Expressions Suited to our Feelings, whether harsh, sweet or calm and came as
+                    Easily out of the mouth of a Savage, as he finds his Gestures, Motions &amp;
+                    Limbs obedient to his Internal Sentiments And Expressive of them, as well As
+                    Language, A Man thus Susceptible of Lively impressions, whether Employed in the
+                    Worship of his Maker or in describing the Heroic Actions of a Champion in
+                            <pb/><fw>2<hi rend="superscript">d</hi></fw> His Tribe or his own Escape
+                    from danger or the remembrance of signal Benefits, the Beauties of a Mistress or
+                    Whatsoever touched his heart to the quick, wou'd speak in the poetical stile And
+                    at Last woud fit it to Feet, Number, Cadence, to help the Memory to preserve it,
+                    to please the Ear in the Repetition And to be in full concert with the External
+                    Motions of the body, particularly of the Head, hands and Feet, which go Under
+                    the Name of dancing. The Odes, singing and dancing went Originally together —
+                    Hence are derived these Terms in Poetry, a long foot, a short foot, Scaning,
+                    measure, cadence: thus they were Jointly Employed in Public Worship, at Public
+                    festivals, Even in going down to Batle And on Every Occasion when he was meant
+                    to please or touch the heart.</p>
+                <p>When or where Rimeing began is impossible to determine. It woud seem it was of a
+                    very old standing in <placeName ref="pl1176">Europe</placeName>, for the poetry
+                    among the barbarous Tribes was of that kind, tho, Often, something different
+                    from the present Mode in the composition of English and French verses, for
+                    sometimes a word in the Midle Answered to that in the End and Sometimes to that
+                    in the Midle of the next Line. The Runic poems according to <bibl type="authorial"><title ref="bi0677">Olaus wormius</title></bibl> never had
+                    the final Syllables of One Sound, tho there were Rules to direct the Use of the
+                    same Letters, of the vowels Especially in Other parts of the Couplet. I am apt
+                    to believe that as their Religion, Laws &amp; History were comprehended in
+                    Poems, which it was the Ambition of all to Masters of, And in which their
+                    Learning consisted, that Rime was introduced As a help to the Memory, for the
+                    Rime in the first Line of the Couplet woud naturally Lead them to the Second And
+                    the Variety of the Rime depended on the Air to which the Poem was Sung — The
+                    solemn Poems of <persName ref="pe0557">Ossien</persName> As well As <persName ref="pe1107">Homer</persName> &amp; <bibl type="authorial"><title ref="pe1971">Hesiod</title></bibl> were put to vocal &amp; Instrument
+                    Music And I remember to have heard <persName ref="pe1107">Homer</persName> Often
+                    sung to the tune of <hi rend="underline">Coir an Neasa</hi> a Highland Song.</p>
+                <p>The Uncivilized Tribes were so Accustomed to hear the Works of their Bards And So
+                    much delighted with them, that on Every Occasion they had some Song or Other in
+                    their mouths. In the Western Isles we Remember the <hi rend="underline">Beanicha
+                        Baird</hi>, i.e. the Bard's blessing at the Wedding, the <hi rend="underline">Coranich</hi>, that is, a Lamentation in dismal Shrieks,
+                    which was an Extemporary Effusion in praise of the dead, in which a great Crowd
+                    of women often Joined in Jarring discord, agreeable Enough to the Ears of those
+                    Whose Relations were mentioned with Extravagant Encomiums — And indeed they
+                    Often hit Upon Strong poetical figures, the Offspring of a Mechanical
+                    Enthusiasm, for they were not sincere, tho Seemingly Serious &amp; very Much
+                    Affected. <pb/><fw>p.3<hi rend="superscript">rd</hi></fw> We remember Also their
+                    foul and Abusive Satires. But the Poetical talent is now much Laid Aside, for
+                    want of honour or Encouragement to support it. I know indeed that the Late
+                        <persName ref="pe1867">Sir James Macdonald</persName> setled a Pension Upon
+                    a Bard in <placeName ref="pl2473">Long Island</placeName> which he still
+                    continues to draw. There are now Some shreds Only of the old Customs preserved.
+                    Our Young Men And Women continue to dance to a Song, When they have no
+                    Instrumental Music. They Sing Also to Amuse them at their work and to Enliven
+                    their Spirits to the hasty performance of it. Our Rowers Sing at the Oar And
+                    beat time to their own Music. One Man Sings the words And the whole of them Join
+                    in the Chorūs — if they have a good Master, fair Weather And Some Usquebah to
+                    drink, they Possess more Unmixed Joy, than the Slaves of <persName ref="pe1972">Cleopatra</persName> when rowing up the <placeName ref="pl2713">Cydnus</placeName> to the Music of flutes, Pipes and harps. This Song is
+                    called the <hi rend="underline">Jorram</hi>.</p>
+                <p>Our Women Sing After the same manner in time of Shearing down our Corn, And are
+                    Surely more hearty &amp; Lively in their Progress than when Silent. The women
+                    also sing when grinding their Corn at the hand Miln, as they do when <unclear reason="illegible">wakeing</unclear> their Cloaths on Flakes made of wicker:
+                    At this Exercise they drive, with their hands &amp; Sometimes with their feet,
+                    the Cloath, after it is sprinkled with a Nauseous decoction of their own
+                    Makeing, from one Side of the Flake to the Other, keeping time to the Air of the
+                    Song in all their Motions, their Sweet hearts often Looking on, admiring their
+                    voice, their air and Every beauty about them.<note type="editorial">Pennant
+                        gives an account of the Jorram in <bibl type="editorial"><title ref="bi0008">A tour in Scotland and Voyage to the Hebrides 1772
+                            (1774)</title></bibl>, p.334. A description of the songs sung by women
+                        at work on the cloth (Luagh) and quern, accompanied by a plate, appears at
+                        pp.327-329, <rs ref="ar0359">plate XXXIV</rs>.</note> These sort of Songs
+                    were in Use among the Celtic Tribes, from beyond the reach of History and <del rend="overstrike">go</del>
+                    <add place="above">went</add> in their Language Under the general name of <hi rend="underline">Litierses</hi> in <bibl type="authorial"><title ref="bi0678">Athenæus</title></bibl> — <hi rend="underline">Laoi-do-herves</hi> i.e. a Song for Work.</p>
+                <p>The Indian huts <note type="editorial">Probably a reference to shielings,
+                        temporary dwellings used by herdsman. A Moses Griffith drawing of Sheilings
+                        on Jura appears in Pennant <bibl type="editorial"><title ref="bi0008">A tour
+                                in Scotland and Voyage to the Hebrides 1772</title></bibl> (1774),
+                            <rs ref="ar0363">plate XV</rs>, p.246.</note> are often found on
+                        <placeName ref="pl2473">the Long Island</placeName> Shore — A few only Upon
+                    our Coast which, I am told, are Generally Shūt up in the roots of Tangles. The
+                    tangle seed which Nature hath provided with a clammy kind of Gum, to keep hold
+                    of Any Solid body it touches, Lighting on <add place="above">or</add> rather
+                    near the hut, may, I suppose, in the Progress of it's growth, stretch its roots
+                    &amp; fibres over the hut And bring it along with it when pulled down by a
+                    storm.</p>
+                <p>The name of the Piper you dined with is <persName ref="pe1973">Donald
+                        MacArthur</persName> — how Long his Ancestors have been Pipers in the Family
+                    of Macdonald, no Man Alive can determine.<note type="editorial">Pennant
+                        incorporates elements of MacQueen's history of the MacDonalds and their
+                        pipers into <bibl type="editorial"><title ref="bi0008">A tour in Scotland
+                                and Voyage to the Hebrides 1772</title></bibl> (1774), pp.347-48,
+                        although MacArthur himself is not named.</note> Tradition only informs Us
+                    that <persName ref="pe1975">Angus Macdonald, Lord of the Isles</persName>,
+                    father to <persName ref="pe1976">John</persName>
+                    <pb/><fw>4<hi rend="superscript">th</hi></fw> Who marryed <persName ref="pe1977">King Robert the 2<hi rend="superscript">ds</hi> daughter</persName> And
+                    Grand father to <persName ref="pe1962">Donald Earl of Ross and Lord of the
+                        Isles</persName>, who fought the battle of <placeName ref="pl2486">Harlaw</placeName>, he received in the thirteenth Century with <persName ref="pe1978">O Cane of the County of Colranis daughter</persName>, by way of
+                    Dowry Sixty Gentlemen's Sons, when Men were more Esteemed than Money, of which
+                    Number <persName ref="pe1974">MacArthur</persName> was one And it is supposed
+                    that his grandson played the tempestuous Tune I formerly mentioned called <hi rend="underline">an Ca-gailich</hi>, whose posterity Served in the Office of
+                    Piper all the time to this, Excepting when a Minority or Incapacity Might have
+                    intervened. The Name of the Instrument in Erse is, <hi rend="underline">pibe-mhore</hi> ie the big pipes. The only person in the Island whom I
+                    could trust with <unclear reason="illegible">noteing</unclear>Any Old tunes is
+                    Factor to <persName ref="pe0447">the Knight of Macdonald</persName> And Just now
+                    at <placeName ref="pl0076">Edinr</placeName></p>
+                <p><persName ref="pe1950">Mackinnon's</persName> seat is at <placeName ref="pl2714">Kilmore</placeName>. <persName ref="pe1979">Mr Martin</persName> was a
+                    native of this parish.</p>
+                <p><persName ref="pe0446">MacLeod</persName> is now at <placeName ref="pl0665">Dunvegan</placeName> in <placeName ref="pl0715">Sky</placeName>, where he
+                    Intends to reside till midsummer at Least</p>
+                <p>The Birds of Passage which frequent <placeName ref="pl0715">Sky</placeName>,
+                    appear much about the middle of October and go off about the Midle of March.
+                    Their Motions in coming or going are not fixed to a day, if the month of October
+                    is cold winter-like weather they cast Up the Earlyer And if it is a dry warm
+                    March they decamp Sooner than Ordinary <add place="above">or vice versa</add>.
+                    The woodcock is never Seen in the Parish but one at a time, if there is a pair
+                    of them to me met with it is in the month of March. they are more numerous in
+                    the woody parts of the Islands, tho I cannot Say there is plenty of them Even
+                    there, And as they are not Observed to go or come in Flocks, the Hunter can only
+                    Judge <del rend="overstrike"><gap reason="illegible" unit="letters" atLeast="2" atMost="4"/></del> of the time of their Arrival by their Appearance in
+                    the woods And of their departure When he finds None there.</p>
+                <p>I remember I writ in some former Scrawl, that our Priests seem to have been
+                    Marryed And gave it As one of the Reasons for my thinking So, that their
+                    Descendants preserve the names of the different orders they came of, Such as Mac
+                    and Tagart, the Preist's Son Macpherson the Parson's Son &amp;c. There is an
+                    Obvious Objection can be started to this Opinion; That these Ecclesiastics had a
+                    dispensation <del rend="overstrike">for</del>
+                    <pb/><fw>5<hi rend="superscript">th.</hi></fw> For keeping Concubines And as
+                    Particular appointments by the Pope of <placeName ref="pl1623">Rome</placeName>
+                    put upon some of our Great men to provide certain Priests therein mentioned with
+                    a Female Semel in uno quoque Mense ad purgund os re nes. When the begeting of
+                    Children was Justifyed by so great And Infallible an Authority, the Fathers
+                    needed not be ashamed of the Children, nor the Children of the Fathers. Whether
+                    What I formerly writ Obviated this Objection I cannot now remember. But it is
+                    certain the first Scots Clergy, the Culdees or Kelle dei, had wives &amp;
+                    Children, that the distinguishing tenets of Popery made but a slow progress over
+                    the Kingdom, that these primitive Ecclesiastics were not persecuted but allowed
+                    to dy out where they were most discountenanced As in the Neighbourhood of a
+                    powerful Bishop <add place="above">when that Order was Established among
+                        them</add> And that some of them were provided for, even at <placeName ref="pl0371">Dunfermline</placeName>, Untill the End of the thirteenth or
+                    the beginning of the fourteenth Century. This and the Neighbouring Isles being
+                    at So great a distance from the Metropolis, secured <add place="above">them</add> from the fashions And Opinions Which prevailed in the more
+                    Civilized Part of the nation, by seas high Mountains and Extensive Waste Mūirs
+                    And withal asserting an Independancy on the Laws And on the Authority of the
+                    Sovereign, may be supposed to have conformed very Slightly to the Edicts of the
+                    holy Father And to have Litle dreaded the thunders of the Vatican. Further, the
+                    Reformations me with no Opposition amongst Us And the Now Popish Island of
+                        <placeName ref="pl2444">Barra</placeName>, was protestant As Early As Any,
+                    but being an <unclear reason="illegible">Appendage</unclear> of the distant
+                    Island of <placeName ref="pl0954">Harris</placeName>, Whose Minister happening
+                    to Neglect that troublesome part of his Charge, left it Open to be perverted by
+                    Itinerant Priests, who found themselves Uneasy Elsewhere. In Short, our
+                    Tradition asserts that the Clergy were maryed And you see how far it is
+                    countenanced by Appearances. If the Abbacy of <placeName ref="pl0651">Icolumkill</placeName> had not been often distressed And at Last destroyed
+                    by <add place="above">the</add> Norwegian Rovers the Records of it would cast
+                    full Light on this And on Several Other branches of Civil &amp; Ecclesiastical
+                    History.</p>
+                <p>In Mentioning <persName ref="pe1961">Nero</persName> As a player on the Bagpipe,
+                    I misplaced the name of <placeName ref="pe1969">Galba</placeName>, which you
+                    will Easyly Observe. <lb/>— turn over.</p>
+            </div>
+            <div type="letter">
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I much approve of Your saying Nothing of Migration, tho it was going on when You
+                    was here And I heartyly repent to have desired you to Speak to <persName ref="pe0109">Mr Archibald Macdonald</persName> on that head, tho it was on
+                    the Encouragement of his writing Me that he woud Endeavour <hi rend="underline">Manibus Pedibus</hi> to stop the further progress of that work.<note type="editorial">See MacQueen's letter of <ref target="0409.xml">February 28
+                            1773</ref>.</note></p>
+                <p>If you Are pleased to Publish Any Part of the Scrapes I sent you, you will need
+                    mend the Sense And the Language, Especially the Latter.</p>
+                <p>you will permitt Me to Inform you, that I have a Son, <persName ref="pe1980">John
+                        Macqueen</persName> a preacher, Who hath had the Benefit of Edūcation,
+                    beyond you Men of his size, from this part of the Countrey, is possessed of a
+                    tolerable genius And a good heart, to which Several besides Me woud bear
+                    Testimony. When you have read this far, you will be Apt to Say, what is the
+                    meaning of All this. — I will Explain that to you.</p>
+                <p>I am Just now informed that <persName ref="pe0160">Mr John Maclean</persName>
+                    Minister of <placeName ref="pl2656">Kintail</placeName>, on <persName ref="pe0155">Lord S<unclear reason="illegible">ea</unclear>fort's
+                        Estate</persName>, close to the Neighbourhood of <placeName ref="pl0715">Sky</placeName> is no more. I wou'd be content to get my Son into this
+                    Parish — <persName ref="pe0465">the King</persName> is patron of it, Yet My
+                    Lord's Stewards have more to Say in Settling the vacancies on his Estate, than
+                    his Majesty or his Lordship — they will, from Motives of their own, recommend a
+                    young man to his Lordship and he procure the presentation. I have no Interest or
+                    connection with these Men or tho I had, I woud be Loath to Ask a favour of them.
+                    If you are acquainted with his Lordship could I ask you to speak to him or to
+                    Employ a few minutes of Your Time, in bringing about the Setlement? Is it any
+                    Recommendation that he, My Son, is descended of four Ministers Successively, who
+                    served in this And the Neighbouring parish, of which My Lords Ancestors were
+                    once Patrons And presented My Grand father and Great grand father to their
+                    Liveings. It is Like this young man will be Less troublesome to the Heritor And
+                    Parishioners, than Any of the Growth of that Estate, being Intent on his Studies
+                    And not in absolute want. You Will be so good As to Acquaint me, in Course, What
+                    part you will be disposed to Act in this Matter or Wether you shall take Any
+                    Notice of it or not — Whatever turn it takes You may Ask me what further Queries
+                    you please in your Letter, for You shall Always find Me,</p>
+                <closer><salute>with much Esteem, Dear Sir, <lb/>Your Affectionate &amp; very
+                        Obedient Servant</salute>
+                    <signed><persName ref="pe0069">Don: Macqueen</persName></signed>
+                    <dateline><placeName ref="pl0742">Kilmuir</placeName> february 19<hi rend="superscript">th</hi>
+                        <lb/>1774.</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>Thomas Pennant Esqr,</addrLine>
+                        <addrLine>of Downing in Flintshire.</addrLine>
+                        <addrLine>South Brittain — </addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

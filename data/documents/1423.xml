@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1423">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to William Owen [Pughe], 20 July 1789</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>NLW</repository>
+                        <idno>13224B</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>pp. 55–8</locus></ab>
+                    </msContents>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1789-07-20"/>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe2111">William Owen [Pughe]</persName>
+                    
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1417"/>
+                    <ref type="prev" target="ct1416"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute><persName ref="pe2111">M<hi rend="superscript">r</hi> Owen</persName></salute></opener>
+                
+                <p>I thank you for y<hi rend="superscript">r</hi> note &amp; shall be glad to receive the sequel of 
+                    y<hi rend="superscript">r</hi> enquir<gap reason="illegible" unit="letters" quantity="1"/>ies. 
+                    I find so much time lost by sending the sheets thro’ y<hi rend="superscript">r</hi> hands, that I 
+                    shall not trouble you except on difficulties.</p>
+                
+                <p>I shall be obliged to you for calling on <persName ref="pe0424">m<hi rend="superscript">r</hi> Sherwin</persName> engraver 
+                    in <placeName ref="pl3036">Bond street</placeName> for my <rs type="art" ref="ar0458">print of M<hi rend="superscript">r</hi> Pitt</rs>.  
+                    I left money to pay my 2<hi rend="superscript">d</hi> subscription but as <sic>the</sic> has left town, I must request 
+                    <persName ref="pe0328">M<hi rend="superscript">r</hi> Faulder</persName> to pay you the ½ Guinea for that purpose. I wish you would wrap it 
+                    carefully with soft paper round a Roller &amp; leave it at <persName ref="pe0111">M<hi rend="superscript">r</hi> Hughes</persName>’s 
+                    No 8 or 10 <placeName ref="pl3037">John street adelphi</placeName><note type="editorial">Pennant probably refers to his printer, 
+                        Henry Hughs (or Hughes), although no record associating him with an address at John Street, Adelphi, has been identified, and the spelling 
+                        of the name ('Hughes') is uncharacteristic of Pennant.</note> who will bring it down.
+                </p>
+                
+                <closer><salute>Y<hi rend="superscript">r</hi> friend
+                </salute>
+                    <signed><persName ref="pe0232">Th. Pennant</persName></signed>
+                    <dateline><placeName ref="0001">Downing</placeName> July 20<hi rend="superscript">th</hi> 1789.</dateline></closer>
+            </div>
+            
+            <div>
+                
+                <p><address><addrLine><persName ref="pe2111">M<hi rend="superscript">r</hi> William Owen</persName>.
+                    </addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

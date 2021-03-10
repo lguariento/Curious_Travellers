@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1032">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 34</locus></ab>
+                        
+                    </msContents>
+                    <physDesc>
+                        
+                    </physDesc>
+                    <additional><p><hi rend="italic">Condition</hi>: some text is lost due to a tear in the manuscript.</p></additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1783-12-21"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0758">Stratton Street Piccadilly</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>a Letter with two or three inclosures was sent I think last Friday sevenight inclosed to
+                    <choice><abbr>y<hi rend="superscript">r</hi></abbr><expan>your</expan></choice> friend 
+                    <persName ref="pe0384">Sir <choice><abbr>H.</abbr><expan>Henry Clinton</expan></choice></persName>,
+                    <persName ref="pe0015">our mentor</persName> being absent &amp; I was unwilling to charge you with a
+                    <del>dou</del>treble letter. your other favor &amp; the second part of the Bank bill came safe on Friday.</p>
+                <p>You will oblige me much by sending <choice><abbr>y<hi rend="superscript">r</hi></abbr><expan>your</expan></choice>
+                    parcel to <persName ref="pe0237">M<hi rend="superscript">rs</hi> Pennant</persName>'s 
+                    <placeName ref="pl0798">upper Grosvenour street</placeName>. <persName ref="pe0065">my son</persName>
+                    continues in <placeName ref="pl0699">town</placeName> some time &amp; will take care of my virtù
+                    Concerns &amp; will certainly pay his respects to you. I got one number of <persName ref="pe0105">M<hi rend="superscript">r</hi> Grose</persName>'s
+                    <bibl type="authorial"><title ref="bi0416">pres<del>n</del>ent publication</title></bibl>. I see that the prints are of the size which will suit me. therefore he will give himself the trouble of picking one for the present my desiderata for 
+                    <placeName ref="pl0800">Cumberland</placeName> and <placeName ref="pl1044">Lancashire</placeName><note type="editorial">For images relating to both Lancashire and Cumberland in Pennant's extra-illustrated <hi rend="italic">A tour in Scotland, part I</hi>, which may have been gifts from Bull, see <ref type="http" target="http://hdl.handle.net/10107/4758622">here</ref>, pp. 10/1, 20, 22/1, 44/2, 46/5, 48/1, 50/1 and /3, 64/1, /2 and /4, 66/2 and /4, 74/3 and /5, 76/1, 78/1, 80/1, 74/1 (order as in volumes). Since Pennant goes on to describe his work on his 'scotch tours' it is less likely that these desiderata were wanted for extra-illustrating an account of a tour 'From Alston Moor to Harrowgate'; but see NLW 12708E, which includes line engravings relating to this tour.</note>
+                    only I shall be content. I am going on forming a new set of my scotch tours,<note type="editorial">Pennant may be referring to the most recent 
+                        editions of his <bibl type="authorial"><title ref="bi0004">first</title></bibl> or second Scottish tours 
+                        (<bibl type="authorial"><title ref="bi0009">Part I</title></bibl>, <bibl type="authorial"><title ref="bi0010">Part II</title></bibl>), or all of these.</note>
+                    which I am impatient to put into half binding.</p>
+                <p>My best <choice><abbr>compli<hi rend="superscript">nts</hi></abbr><expan>compliments</expan></choice> to <persName ref="pe0293">M<hi rend="superscript">r</hi> Burrel</persName>.
+                    I thank him for his kind Letter: &amp; am convinced of his good intentions. my last recommend<gap unit="letters" quantity="2" reason="illegible"/>
+                    is lost: for <persName ref="pe0073">Johnson</persName> hearing of my ill success dropt his request to me.<note type="editorial">Samuel Johnson was impressed with Pennant's Scottish publication, famously retorting to James Boswell, who described Pennant as 'superficial', that 'Here is a man six feet high, and you are angry because he is not seven'. James Boswell, <hi rend="italic">The Journal of a Tour to the Hebrides, with Samuel Johnson</hi> (Dublin, 1785), p. 29.</note>
+                    I am therefore to beg that <persName ref="pe0293">M<hi rend="superscript">r</hi> Burrel</persName> 
+                    would not strike me out of his books but leave a blank to be filled up hereafter. I <sic>am am</sic>
+                    a Leech to those whom I fix on with a view to serve my neighbors.</p>
+                <closer>
+                    <salute>Dear Sir
+                    <lb/>Yours most faithfully,</salute>
+                    <signed><persName ref="pe0232"><choice><abbr>T</abbr><expan>Thomas</expan></choice> Pennant.</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> <choice><abbr>Dec<hi rend="superscript">r</hi></abbr><expan>December</expan></choice> 21. 1783.</dateline>
+                </closer>
+                <postscript>
+                    <p>Be so good as to remind <persName ref="pe0332">M<hi rend="superscript">r</hi> Storer</persName>
+                        ab<gap unit="letters" quantity="3" reason="illegible"/><supplied>out</supplied>
+                        the translation of Olaffens <bibl type="authorial"><title ref="bi0333">travels in Icela<gap unit="letters" quantity="2" reason="illegible"/><supplied>nd</supplied></title></bibl>
+                        &amp; request him to enquire the Price of <bibl type="authorial"><title ref="bi0561">Le voyage picturesque de Sicile</title></bibl>.</p>
+                    <p><persName ref="pe0065">My son</persName> will knock at <choice><abbr>y<hi rend="superscript">r</hi></abbr><expan>your</expan></choice>
+                        door on Friday at 12: so I hope he will be let in.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark">2<gap unit="letters" quantity="1" reason="illegible"/> DE</stamp><stamp type="handstamp"><placeName ref="pl0703">NORTHOP</placeName></stamp><address>
+                    <addrLine><persName ref="pe0313">Richard Bull <choice><abbr>esq<hi rend="superscript">r</hi></abbr><expan>esquire</expan></choice></persName> | <placeName ref="pl0758">Stratton Street Piccadilly | London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

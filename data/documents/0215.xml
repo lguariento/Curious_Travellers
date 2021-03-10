@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0215">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on delays and further additions to his map of
+                    Scotland</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>168-169</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1776-12-31"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0217"/>
+                    <ref type="prev" target="ct0385"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Many thanks for y<hi rend="superscript">r</hi>
+                    <sic>Letter Letter</sic> &amp; acceptable promise of the old map of <placeName ref="pl0813">Breadalbane</placeName>.<note type="editorial">Likely Robert Gordon's
+                        'Scotiae provinciae mediterraneae inter Taum flumen et Vararis aestuarium'
+                        from Joan Blaeu's <bibl type="editorial"><title ref="bi0093"><hi rend="italic">Atlas Novus</hi></title> (1654)</bibl>.</note> as
+                    to <bibl type="authorial"><title ref="bi0209">mine</title></bibl> I think it
+                    will never be done so tedious is <persName ref="pe0006">the engraver</persName>.
+                    I want much to have <persName ref="pe0155">Lord Seaforth’s</persName>
+                    <placeName ref="pl0159">castle Braan</placeName> &amp; the 2 rivers <placeName ref="pl0190">conan</placeName> &amp; Braan<note type="editorial">Possibly a
+                        reference to the river called the <placeName ref="pl1905">Black
+                            Water</placeName> on modern maps, which joins the Conon above Castle
+                        Brahan and may here have been given the name of that residence by Pennant.
+                        Pennant's <bibl type="editorial"><title ref="bi0209"><hi rend="italic">Map</hi></title></bibl> of 1777 marks a 'Loch Bran' further up
+                        the course of the Conon, though it unclear what geographical feature this
+                        corresponds to.</note> set down right, you know the place lies between
+                        <placeName ref="pl0191"><unclear reason="illegible">Beaulie</unclear>
+                        abby</placeName> &amp; <placeName ref="pl0160">Dingwall</placeName>. Be so
+                    good as to get it done &amp; return it. in may I hope to send you a 4<hi rend="superscript">th </hi> vol. of <bibl type="authorial"><title ref="bi0020">Br. Zool.</title></bibl> thanks for y<hi rend="superscript">r</hi> designs ab<hi rend="superscript">t</hi>
+                    <placeName ref="pl0229">Glasgow</placeName> &amp; <placeName ref="pl0076">Edinburgh</placeName>.</p>
+                <closer><salute>I am Dear Sir <lb/>y<hi rend="superscript">r</hi> faithful humble
+                            Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+
+                    <dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r.</hi>
+                    31. 1776.</dateline></closer>
+
+                <postscript>
+                    <p>you must bind the big plates of the Br. Zool. by themselves according to the
+                        numbers in the q<hi rend="superscript">to</hi>.<note type="editorial">This
+                            could be a reference either to <rs ref="ar0093">Peter Paillou's
+                                plates</rs> for the <bibl type="editorial"><title ref="bi0017">folio
+                                    edition of Pennant's <hi rend="italic">British
+                                    Zoology</hi></title> (1766)</bibl>, or to enlarged versions of
+                            the <rs ref="ar0102">plates</rs> for the <bibl type="editorial"><title ref="bi0019">'Illustrated' British Zoology</title> of
+                                1770</bibl>.</note></p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> George Paton</addrLine>
+                        <addrLine>Custom house</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

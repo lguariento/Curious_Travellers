@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1020">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 22</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1782-06-21"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>                    
+                    <placeName ref="pl0758">Stratton Street Piccadilly</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>We shall rejoice if you accept of <persName ref="pe0177">Sir <choice><abbr>P. </abbr><expan>Peter</expan></choice>Burel</persName>'s
+                    <sic>offer offer</sic> as it will give us a chance of seeing you &amp; yours at this place. 
+                    <placeName ref="pl0760">Gwedir</placeName><note type="editorial">Peter Burrell's title from 1796 links him with Gwydir.</note>
+                    is <del>a</del> in a most pleasant country with good roads about, has a market near &amp; is I believe well enough furnished for so transient a 
+                    <del><gap unit="letters" quantity="7" reason="illegible"/></del>time as you propose to use it.</p>
+                <p><persName ref="pe0014">Moses</persName> has done all the arms in <bibl type="editorial"><title ref="bi0013">the Snowdon part of my wales,</title></bibl>
+                    &amp; seven or eight <rs type="art" ref="ar0037">larger views in Chester</rs>
+                    He will do the arms of <del>in</del> of the <bibl type="authorial"><title ref="bi0012">first volume</title></bibl>
+                    in the manner you direct. Pray inform me would you have the <bibl type="authorial"><title ref="bi0013">Snowdon part</title></bibl>
+                    sent to you when it is done: but I am fearful that it will not be executed under a month to come.</p>
+                <p>The influenza has seized my family. <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName>
+                    is recovered, but several of our servants are ill. If they recover in time we leave home for a fortnight on the 29<hi rend="superscript">th</hi>.
+                    we are to visit a <persName ref="pe0416">friend near <placeName ref="pl0806">worcester:</placeName></persName>
+                    from where I shall Elope or hone at <placeName ref="pl0807">Berkley Castle</placeName><note type="editorial">Berkeley Castle in Gloucestershire was at this time owned by Frederick Augustus Berkeley, fifth Earl of Berkeley (1745–1810).</note>
+                    to complete an <bibl type="authorial"><title ref="bi0603"/>iter sabrinum</bibl>.<note type="editorial">In <hi rend="italic">Literary life</hi>, p. 28, Pennant writes of a journey by boat down the Severn from Atcham-bridge, south of Shrewsbury, as far as the home of Treadway Russell Nash in Bevere, Worcestershire, again using 'elopement' as a term to describe it, but dating it to June 1783. For an earlier reference to the 'iter sabrinum', see Treadway Russell Nash's letter of 25 July 1777 to Pennant, <ref target="1305.xml">1305</ref>.</note>
+                    an attempt long since begun &amp; in great part finished. The seeing the light is another affair. If you do not visit 
+                    <placeName ref="pl0731">Wales</placeName>, pray write to inform me where you fix.</p>
+                <closer><salute>With best wishes for every individual of <choice><abbr>y<hi rend="superscript">r</hi></abbr><expan>your</expan></choice> house I am
+                    <lb/>Dear Sir
+                    <lb/>Most truely <choice><abbr>y<hi rend="superscript">rs</hi></abbr><expan>yours</expan></choice>
+                    </salute><signed><persName ref="pe0232">T Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> June 21 1782.</dateline></closer>
+                </div>
+            <div>
+                <p><stamp type="handstamp"><placeName ref="pl0703">NORTHOP</placeName></stamp>
+                    <stamp type="frank">FREE<note type="editorial">Stamped in ink.</note> p. <persName ref="pe0015"><choice><abbr>R</abbr><expan>Roger</expan></choice> Mostyn</persName><note type="editorial">Handwritten.</note></stamp>
+                    <stamp type="postmark">24 IV</stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0313"><handShift/><choice><abbr>Rich'<hi rend="superscript">d</hi></abbr><expan>Richard</expan></choice> 
+                        Bull <choice><abbr>Esq<hi rend="superscript">r</hi></abbr><expan>Esquire</expan></choice></persName> | <placeName ref="pl0759">Stratton Street</placeName> | <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName><note type="editorial">The address is not in Thomas Pennant's hand.</note></addrLine>
+                </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

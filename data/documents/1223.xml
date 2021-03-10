@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1223">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 147</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date>13 [?August] [?1798]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>My dear Sir</salute></opener>
+                <p>I am most truely grieved that I should be engaged on the day you have fixed for our transient interview. It cannot be remedied.</p>
+                <p>with much sincerity I devoutly recommend you &amp; <persName ref="pe0331">miss Bull</persName> to the protection of heaven. absent or present I never forget or neglect my friends.</p>
+                <closer>
+                    <salute>with truest regard I am Dear Sir,
+                        <lb/>Y<hi rend="superscript">r</hi> ever obliged &amp;
+                        <lb/>faithful serv<hi rend="superscript">t</hi>-</salute>
+                    <signed><persName ref="pe0232">Tho Pennant</persName></signed>
+                    <dateline><add place="above">98</add> 13<hi rend="superscript">th</hi>. monday night.<note type="editorial">The year '98' is inserted in a different hand. If this 
+                        letter was indeed written in 1798, August is the only month in which the 13th fell on a Monday. It is unlikely that Pennant would have been within 
+                        reach of Bull during August, however, and the letter may be misplaced in this year.</note></dateline>
+                </closer>
+                <postscript>
+                    <p>Please to forward the hotpressed copies as usual.<note type="editorial">It is not to clear to which of his publications Pennant refers here.</note>
+                        I have nothing to put in the box.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine><persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

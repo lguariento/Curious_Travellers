@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1191">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>57</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1796-05-09"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>My dear Sir</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName>. May 9. 1796</dateline></opener>
+                <p>If you have not quite forgot such an unhappy Parent as I am, who has lost the <hi rend="underline">life and soul</hi>,
+                    of all his earthly satisfactions, permit me to tell you, that I have bought your <bibl type="authorial"><title ref="bi0034">Whiteford and Holywell</title></bibl>,
+                    from whence I have, as usual from all your publications, reaped instruction, and much amusement. my reason for troubling you just now, is to enquire, whether you think 
+                    <persName ref="pe0014">M<hi rend="superscript">r</hi> Grifyth</persName> would ornament its Margins with his pencil, as if so, I would get it hot press’d, and sent to him, by any conveyance you may recommend, and I will be content to wait for it untill my return to town next November, 
+                    leaving it to him to do it in any manner he thinks best. Arms, and views I like extremely, and should there be a call for natural history of any kind, I am not a stranger to his merits in that line, and shall wish for such additions. We have 
+                    pass’d a most melancholy winter, and I, for one, have scarce ever spent an evening out of my own house. my poor wretch’d <persName ref="pe0331">daughter</persName>
+                    is, as I expected, much worse than her father, and we know not where to look for comfort. We are going soon to spend a little time at the <placeName ref="pl2571">Grove</placeName>,
+                    and at other places, and then to <placeName ref="pl1013">NorthCourt</placeName>, the place of all others we like best, but where we are sure of being 
+                    <del><gap unit="letters" quantity="2" reason="illegible"/></del> most miserable. God knows, and our hearts know, how much we lov'd our dear <persName ref="pe0336">Relative</persName>. -</p>
+                <p>
+                    I venture to send you the enclos’d design, not for any merit it can pretend to, but for your approbation, <hi rend="underline">and correction</hi>,
+                    because no man has more feeling than yourself, or hardly so much.<note type="editorial">The enclosure is not included with the letter. It is probably a design for some form of commemoration to Catherine Bull. See <ref target="1192.xml">1192</ref>. A description of the mausoleum to Catherine Bull, including quotations of poetry in English, is found in John Albin, <hi rend="italic">Vectiana, or a Companion to the Isle of Wight</hi> (5th edn., Newport, Isle of Wight: J. Albin, 1806), pp. 48–50.</note>
+                    pray return it in a post or two, because the artist is now about it, and has occasion for it. don’t wait for the trumpery convenience of a frank, when you write to me upon this, or upon any other occasion. To become 
+                    pulvis et umbra<note type="editorial">'dust and shadow'.</note> has no terrors for me, all I have to wish, is to live without pain, and to die without fear. You have had 
+                    <hi rend="underline">more</hi> than your share of domestic misfortunes, but I hope your present family happiness has encreas’d, is encreasing, and (I am sure) ought not to be diminish’d. 
+                    <persName ref="pe0422">Rainsford</persName> sends you many good wishes. –</p>
+                <p>
+                    The field of Politic’s is too large for me to enter upon –. Some of <persName ref="pe0500">Pitt</persName>'s manœuvre’s are bad, and some of his taxes almost intollerable, 
+                    but upon the whole, he has more sense, and more virtue, and much more integrity than any of his Predecessors.</p>
+                <p>
+                    The Parliament is talk’d of, as being disolved this month, but I hardly can suppose it will happen before the <hi rend="underline">birth day,</hi><note type="editorial">This probably refers to the birthday of George III, on 24 May.</note>
+                    because that scheme would injure trade materially, by <sic>carring</sic> so many people from the <placeName ref="pl0699">Capital</placeName> at such an expensive moment.</p>
+                <p>
+                    My poor <persName ref="pe0331">Daughter</persName> desires me to send you <hi rend="underline">all</hi> her best remembrances, and I sincerely wish you and yours all health and happiness, Stet Fortuna Domus.<note type="editorial">'Let the fortune of the house stand'.</note></p>
+                <closer>
+                    <salute>I am Dear Sir, yours always</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

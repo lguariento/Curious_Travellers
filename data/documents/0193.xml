@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0193">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, acknowledging various deliveries and
+                    informing him of publication schedule</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>133</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-08-29"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0194"/>
+                    <ref type="prev" target="ct0192"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I received y<hi rend="superscript">r</hi> favour &amp; the two boxes on my return
+                    home. accept my best thanks for the maps &amp;c. I beg you to send me no more
+                    birds except you can <hi rend="underline">be sure</hi> they are new: for it
+                    brings on me a needless expence of carriage I cannot yet make out the brasses
+                        <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> sent.
+                    in respect to the other parts of his cargo I was cruelly disappointed. The other
+                    things you mention will be very acceptable.</p>
+                <p><persName ref="pe0157">M<hi rend="superscript">r</hi> Macgovans
+                        present</persName> is very elegant. I beg you to convey my best thanks.
+                    &amp; please to inform me as soon as convenient of the exact height of the
+                    little image the original. <rs ref="ar0065">The drawing</rs> seems to me larger
+                    if I remember it.</p>
+                <p><bibl type="authorial"><title ref="bi0010">My volume</title></bibl> will not be
+                    out till after Christmas when some copies will be instantly sent for you &amp;
+                    other friends.</p>
+                <closer><salute>I am with true regard <lb/>Dear Sir your obliged &amp; <lb/>obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName>.</signed>
+                <dateline><placeName ref="pl0001">Downing</placeName> Aug. 29<hi rend="superscript">th.</hi> 1775.</dateline></closer>
+
+
+                <postscript>
+                    <p>I wish you could send me all particulars ab<hi rend="superscript">t</hi>
+                        Fieldfares &amp; Redwing thrushes whether they are plenty in <placeName ref="pl0705">Scotland</placeName> in winter &amp; whether in <placeName ref="pl0825">Cathness</placeName> &amp; other remote parts they never
+                        appear.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

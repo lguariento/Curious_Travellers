@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1088">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 78</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1789-08-15"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Aug. 15<hi rend="superscript">th</hi> 1789</dateline></opener>
+                <p>Variety of affairs perhaps of not <add place="above">the first</add> importance enough to neglect so valuable a friend, prevented me from attending sooner to y<hi rend="superscript">r</hi>
+                    favor of June 18<hi rend="superscript">th</hi>.<note type="editorial">See <ref target="See 1087.xml">1087</ref>.</note> It gave me all the satisfaction I could wish. let me apologize for the silence of one month at lest by pleading a painful complaint; 
+                    &amp; <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennants</persName> illness. hers occasioned by a fall from her horse: but thank heaven we are nearly recovered. casualty’s must happen 
+                    &amp; after the grand climacteric<note type="editorial">Pennant celebrated his sixty-third birthday on 14 June 1789, reaching a year of life often supposed to be especially critical. <hi rend="italic">OED</hi>, s.v. climacteric.</note>
+                    complaints must arrive. I am truely sorry for the nature of yours: <del>complaint</del> for exercise <sic>is is</sic> the grand preservative: &amp; 
+                    that I am most thankful I can still exert. &amp; hope soon to mount my steed, the most efficacious of any. I hope miss Bulls<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>
+                    keep well. my best wishes attend them. my young family is much dispersed. <persName ref="pe0234">my eldest daughter</persName>
+                    is with her <persName ref="pe0237">good aunt</persName> at <placeName ref="pl1616">Ramsgate</placeName>. <persName ref="pe0421">My little Boy</persName>
+                    just sent to <placeName ref="pl1617">Hartlebury school</placeName> near <placeName ref="pl0806">worcester</placeName>. My
+                    <persName ref="pe0065">David</persName> at the <placeName ref="pl0800">Lakes in Cumberland</placeName>:<note type="editorial">See an itinerary for this 1789 tour from Downing to the Lake District and back via the West Riding of Yorkshire to Manchester and Chester, probably in the hand of David Pennant, at WCRO CR 2017/TP9; and an account of it in NLW 2423B.</note>
+                    &amp; only our <persName ref="pe0235">little girl</persName> left to comfort us. There has been a blessed change of weather. Hay in vast plenty; 
+                    &amp; a good prospect of corn which I hope will reduce the very unreasonable prices. &amp; quiet the minds of the common people. How happy are we in respect to 
+                    <placeName ref="pl0925">France</placeName>, afflicted with every species of misery: &amp; I think will not soon recover its tone: let their speculation be every 
+                    so fine.<note type="editorial">Pennant's reference to the need to ‘quiet the minds of the common people’, indicates that he was already aware (in August 1789) of the possible repercussions of the early days of the revolution across the channel. For the events of July and August 1789 in France see Jones, <hi rend="italic">Longman Companion to the French Revolution</hi>, pp. 11–12.</note>
+                    To make amends for a dull letter I inclose two proofs of <bibl type="authorial"><title ref="bi0039">my London</title></bibl>
+                    by way of fore taste. <persName ref="pe0014">Moses</persName> works stoutly for you &amp; engages to send off the work by oct<hi rend="superscript">r</hi>
+                    15<hi rend="superscript">th</hi>: if you will prescribe the mode. I now conclude with my hopes of hearing from you speedily &amp; that I am</p>
+                <closer>
+                    <salute>Dear Sir with the truest regard
+                    <lb/>Y<hi rend="superscript">rs</hi> most affect<hi rend="superscript">tly</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>PS. I mourn for <persName ref="pe0965">M<hi rend="superscript">rs</hi> Mary Mostyn</persName> whom perhaps you knew. she remembered 
+                        <persName ref="pe0238">M<hi rend="superscript">rs</hi> P.</persName> &amp; our two little ones
+                        in a very handsome manner.<note type="editorial">Mary Bridget Mostyn left £2000 to 
+                            <persName ref="pe0235">Sarah Pennant</persName>, daughter of her niece Ann (née Mostyn), should she survive her mother, 
+                            and £500 to her brother <persName ref="pe0421">Thomas</persName>. Will of the Honourable Mary Bridget Mostyn, Spinster, 
+                            of the parish of St Mary le Bone, National Archives PROB 11/1181/156.</note></p>
+                    <p>I just hear that <persName ref="pe0326">Sir W. W. Wynne</persName> died 200,000<hi rend="superscript">£</hi> in debt. &amp;
+                        has added to it a most cruel charge of 84000<hi rend="superscript">£</hi>. <del><gap unit="letters" quantity="1" reason="illegible"/></del> to the 
+                        younger children.<note type="editorial">Sir Watkin Williams Wynn had three sons and three daughters from his second marriage. <hi rend="italic">ODNB</hi>.</note> <persName ref="pe0967">his Lady</persName> has 2000<hi rend="superscript">£</hi> a year jointure. 
+                        &amp; 3000 oz of plate. By what neglect of his affairs &amp; scandalous impositions this good man without <add place="above"><del><gap unit="letters" quantity="1" reason="illegible"/></del></add>
+                        a single vice, has thus perhaps ruined his great fortune in less than 20 years.<note type="editorial">For Williams Wynn's debts at death, see <hi rend="italic">ODNB</hi>, which notes a debt of £160,000 and a further £6000 pa in mortgage charges. The twenty years in which Pennant considers that Williams Wynn ruined his fortune presumably began when he came of age in April 1770, immediately taking possession of the fortune of his father, Sir Watkin Williams Wynn, third baronet, the latter having died when the fourth baronet was only five months old in 1749.</note>
+                        we reckon those Wynne, or rather Williams a new family originated fr<hi rend="superscript">m</hi> here in the middle of last century; 
+                        &amp; formed out of that, &amp; a succession of heiresses they married. The <persName ref="pe0968">late Sir W.<hi rend="superscript">s</hi> first wife</persName>
+                        brought what is now 12000<hi rend="superscript">£</hi> a year.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

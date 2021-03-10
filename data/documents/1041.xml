@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1041">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 43</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1784-07-25"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> July 25<hi rend="superscript">th</hi> 1784.</dateline></opener>
+                <p>Both your favors came safe with the Bank bill for <persName ref="pe0014">Moses</persName>. who is in perfect
+                    charity with you. His concern arose entirely from the pain he felt at the thoughts of having displeased you. I am sorry to say that I can give you no immediate hopes about the 
+                    <bibl type="authorial"><title ref="bi0032">journey to London</title></bibl>. Three volumes of the 
+                    <hi rend="underline">new</hi> copy of the old one.<note type="editorial">Neither Pennant nor Bull's extra-illustrated copies of <hi rend="italic">The journey from Chester to London</hi> (1782) have been identified. For copies belonging to Anthony Morris Storer and Richard Muilman Trent Chiswell respectively, see Eton College Library, Cg.2.3.01–Cg.2.3.02, and the Yale Centre for British Art, New Haven, DA620 P41 1782+ Oversize (<ref type="http" target="https://collections.britishart.yale.edu/vufind/Record/2035491">here</ref>).</note>
+                    about half a dozen drawings only have been done in the <bibl type="authorial"><title ref="bi0032">Journey to London</title></bibl>
+                    even in my copy: but depend on it that yours &amp; mine shall go hand in hand &amp; be finished with all speed as soon as they are begun. Believe me that for at lest 
+                    three months of the last six, <persName ref="pe0014">Moses</persName> has been wholly employd for the gratification of others Principally the friend to whom I address, to which 
+                    <del>he is <gap unit="letters" quantity="7" reason="illegible"/></del> the s<hi rend="superscript">d</hi> friend is most heartily welcome.</p>
+                <p>The <rs type="art" ref="ar0136">Earl of Cumberland</rs>
+                    is copied fr<hi rend="superscript">m</hi> <persName ref="pe0026">White</persName>'s prints. 
+                    that known I suppose you withdraw y<hi rend="superscript">r</hi> desire relative to it.</p>
+                <p>The old woman in the <bibl type="authorial"><title ref="bi0012">welsh tour</title></bibl> was taken fr<hi rend="superscript">m</hi> the life
+                    <add place="above">vid <bibl type="authorial"><title ref="bi0013">Snowdon. Vol: II. P 273.</title></bibl><note type="editorial">Pennant's extra-illustrated <ref target="http://hdl.handle.net/10107/4691510" type="http"><hi rend="italic">A tour in Wales</hi></ref>, p. 273/1, includes a black and white portrait of an old woman, labeled in pencil as the work of Francis Grose ('Fr. Grose del').</note></add>
+                    in a church in <placeName ref="pl1093">anglesea</placeName>. She <del>is</del> very <add place="above">well</add>
+                    represents a good warm woman of the middling class of that island</p>
+                <p>I truely lament the cause which brings you to the sea side. as a parent I must know y<hi rend="superscript">r</hi>
+                    feelin<gap unit="letters" quantity="2" reason="illegible"/>gs: it is <del><gap unit="letters" quantity="7" reason="illegible"/></del>
+                    not long since I was relieved fr<hi rend="superscript">m</hi> <del><gap unit="letters" quantity="7" reason="illegible"/></del>
+                    very severe ones about <persName ref="pe0421">my little boy</persName>. Pray present my best complm<hi rend="superscript">ts</hi>
+                    to Miss Bulls<note type="editorial"><persName ref="pe0331">Elizabeth</persName> and <persName ref="pe0336">Catherine Bull</persName>.</note> &amp; hearty good wishes for the speedy
+                    recovery of the <persName ref="pe0336">Invalid</persName>.<note type="editorial">This was most probably <persName ref="pe0336">Catherine Bull</persName>, whose ill-health led to her death in 1795.</note></p>
+                <closer>
+                    <salute>I am Dear Sir
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely &amp; affect<hi rend="superscript">ly</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>On Wednesday we all go to <placeName ref="pl0008">Buxton</placeName> for ten days to see 
+                        <persName ref="pe0237">my poor sister</persName> who has been sent there after a seven<del><gap unit="letters" quantity="1" reason="illegible"/></del>
+                    month painful suffering.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

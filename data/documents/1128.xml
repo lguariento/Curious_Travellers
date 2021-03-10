@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1128">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 92</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1791-03-23"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline><placeName ref="pl0001">Downing</placeName> March. 23<hi rend="superscript">d</hi> - 91</dateline></opener>
+                <p>You have exceeded your habitual munificence &amp; furnished me with most valuable illustrations of my M.S.S. I fear you will find you have robbed 
+                    y<hi rend="superscript">r</hi>self of many <rs type="art" ref="ar0233">dutch Heroes</rs> whom you will find fighting in the 
+                    <bibl type="authorial"><title ref="bi0268">journal between London &amp; Dover</title></bibl>.<note type="editorial">The 'dutch Heroes' mentioned may be identified with the 'few trumpery prints' sent by Bull with letter <ref target="1127.xml">1127</ref> in answer to Pennant's reference in <ref target="1124.xml">1124</ref> to Dutch admirals and captains.</note> If you are at a loss I will resign any you want. Else I shall return none.</p>
+                <p>You over rate the value of my brains greatly: for they are the only consumption I am at the expence of.</p>
+                <p>The <bibl type="authorial"><title ref="bi0268">journal</title></bibl> must be re-copied. my <persName ref="pe0998">old sot</persName>
+                    has brought home the rest, so dirty so creas’d; &amp; with marginal notes on each side, that I was almost ready to bath him in the horsepond: But 
+                    <persName ref="pe0404">Tom Jones my young secretary</persName> will I am sure give you full content &amp; that soon. He improves daily 
+                    &amp; writes most delightfully.</p>
+                <p>I have just had ½ a Ream of Green paper arrived so we can settle that article readily.</p>
+                <p>A very odd M. S. was sent me last week respecting <rs type="art" ref="ar0285">the markets of London 1598</rs>.
+                    with many curious <add place="above">but bad</add> drawings. <persName ref="pe0234">My daughter</persName> shall bring up two for you by May the 20<hi rend="superscript">th</hi>.
+                    Those done, nothing shall retard <persName ref="pe0014">moses</persName> from working for you &amp; me solely</p>
+                <p>All the prints attendant on my <bibl type="authorial"><title ref="bi0040">Suppl: to London</title></bibl> are <rs type="art" ref="ar0230">ch. 1<hi rend="superscript">sts</hi> bust.</rs>
+                    <rs type="art" ref="ar0231">fire of London</rs> &amp; <rs type="art" ref="ar0232">old plan of London</rs>.</p>
+                <p>suffer me to place the <bibl type="authorial"><title ref="bi0271">new Edition</title></bibl> in y<hi rend="superscript">r</hi> library.</p>
+                <p>When we settle acc<hi rend="superscript">ts</hi>. I shall not forget the pencils which seem excellent.<note type="editorial">See further <ref target="1124.xml">1124</ref> and <ref target="1127.xml">1127</ref>.</note></p>
+                <p>The <persName ref="pe0009">Edinburgh barber</persName> offers me a complete se<del><gap unit="letters" quantity="1" reason="illegible"/></del>t of 
+                    his works, for which I am to give him a London.<note type="editorial">It is not specified which edition of Pennant's work on London is meant here, whether <hi rend="italic">Of London</hi> (1790) or <hi rend="italic">Some account of London</hi> (1791).
+                    </note> the set is to be illustrated with notes. Shall I try to get one for you?</p>
+                <p>I have a private print for y<hi rend="superscript">r</hi> acceptance. That of my ever respected friend <persName ref="pe0429">Benj. Stillingfleet</persName>. 
+                    Two were just sent to me by his nephew, <persName ref="pe1256">Capt<hi rend="superscript">n</hi> Locker</persName> of the Navy.
+                    <persName ref="pe0234">my daughter</persName> shall bring you that also &amp; some odds &amp; ends besides.</p>
+                <p>I thank you &amp; <persName ref="pe0415">Sir W. Musgrave</persName> for the anecdotes of the <persName ref="pe0378"><hi rend="underline">Good Bishop</hi></persName>.
+                    I have picked up much concerning that prelate But cannot get his epitaph?</p>
+                <p>can <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName> &amp; I tempt miss Bulls<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>
+                    &amp; yourself to visit <placeName ref="pl0731">wales</placeName>. the journey will be cer<del><gap unit="letters" quantity="2" reason="illegible"/></del>tainly
+                    salutary: perhaps pleasant. How many things will you see chez moi<note type="editorial">'at my home'.</note> that you can
+                see no where else</p>
+                <closer>
+                    <salute>Adieu
+                    <lb/>yrs most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>You should get for yourself <persName ref="pe0402">Hollars</persName> <rs type="art" ref="ar0237">battle in the Down 1636 between Vantromp &amp; oquendo</rs>.</p>
+                    <p>From whence came the terrible <rs type="art" ref="ar0238">negro prints</rs>.<note type="editorial">For another reference to these unidentified prints, see <ref target="1130.xml">1130</ref>.</note></p>
+                    <p>I set out on the 15<hi rend="superscript">th</hi> <del><gap unit="letters" quantity="1" reason="illegible"/></del>on a series of visits for 3 weeks. 
+                        <persName ref="pe0404">Tom Jones</persName> in that time will finish <hi rend="underline"><bibl type="authorial"><title ref="bi0268">Dover</title></bibl></hi>. Do you want 
+                        <persName ref="pe0416">D<hi rend="superscript">r</hi> Nash</persName>'s <rs type="art" ref="ar0239">prints of worcestershire heads</rs>.
+                        for his house will be one visit.</p>
+                    <p><persName ref="pe0068">Doctor Lort</persName>'s sale will produce a <bibl type="authorial"><title ref="bi0118">dutch Ed. of Monfaucon</title></bibl>.
+                        a bad impression but it will do for me. I must get some Bookseller to bid: else I dare say it will go extravagantly.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1393">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to [Llewelyn Lloyd], 10 June 1793</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>4857D</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+        
+                        <additions><p><hi rend="italic">Endorsement on reverse, in the hand of Angharad Llwyd</hi>:<note type="editorial">
+                            On the hand, see Mari Ellis, 'Angharad Llwyd, 1780–1866', <hi rend="italic">Flintshire Historical Society Publications</hi>, 
+                            26 (1973–4), 53.
+                        </note> 
+                        </p><p><add place="inline"><persName ref="pe0622">Dean Swifft</persName> remarks that</add> A Postscript is generally supposed to be the
+                            most interesting part to the writer – this <sic>leter</sic> is illustrative of the remark – M<hi rend="superscript">r</hi>. 
+                            Penna<unclear>nt</unclear> did nothing but <sic>harrass</sic> and <sic>insullt</sic> my <persName ref="pe0741">mother</persName>. and
+                            the only favour ask’d by <persName ref="pe2061">Llewelyn</persName>  was the loan of 10<hi rend="superscript">£</hi> to go &amp; take
+                            a master of Arts degree which was refused by the “<persName ref="pe0232">constant friend and fellow traveller</persName>” to the son 
+                            of his lamented <persName ref="pe0333">friend</persName> –</p></additions>
+                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1793-06-10"/>
+                    <placeName ref="pl1608">Brightelmstone</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe2061">[Llewelyn Lloyd]</persName>
+                    <placeName ref=""/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1394"/>
+                    <ref type="prev" target="ct1392"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl1608">Brighelmstone</placeName> June 10<hi rend="superscript">th</hi> 1793</dateline>
+                    <salute>Dear Sir<note type="editorial">Both R. Paul Evans, 'Reverend John Lloyd of Caerwys (1733–93)', 
+                        <hi rend="italic">FHSJ</hi>, 31 (1983/4), 109–124, at 120, and Mari Ellis, 'Angharad Llwyd, 1780–1866', 
+                        <hi rend="italic">Flintshire Historical Society Publications</hi>, 26 (1973–4), 52–95, at 53, assume that this letter was 
+                        addressed to Llewelyn Lloyd.</note> </salute></opener>
+                
+                <p>The very moment that <persName ref="pe0015">Sir R. Mostyn</persName> communicated to me the much lamented end of my 
+                    <persName ref="pe0333">constant
+                        friend &amp; fellow-traveller</persName>, I wrote to the <persName ref="pe0365">Bishop</persName>. 
+                    <del>n</del>Notwithstanding his <persName ref="pe0365">Lordship</persName> could not comply with our prayer, I rejoice to hear that he has taken the 
+                    earliest notice of you; &amp; I dare say that your conduct will render you worthy of the attention of his favor in future. 
+                    Be assured that <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName> &amp; I shall transfer the 
+                    friendship we bore for <persName ref="pe0333">y<hi rend="superscript">r</hi> father</persName>  to 
+                    <persName ref="pe0741">y<hi rend="superscript">r</hi> mother</persName> by rendering any little services we are capable of, 
+                    <del>to</del>in the manner which may be thought most u[<del>...</del>]seful. we beg our kindest remembrances to her &amp;
+                    the family. I am, with much sincerity, y<hi rend="superscript">r</hi> friend
+                </p> 
+                <closer><salute/>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline/></closer>
+                <postscript><p>You will find an odd volume of the welsh tour<note type="editorial">A reference to a volume of Thomas Pennant, 
+                    <hi rend="italic">A tour in Wales</hi>, edition unspecified.</note> done in blue paper. it is mine. so be so good as to lay it 
+                    by for me. I rec<hi rend="superscript">d</hi> y<hi rend="superscript">r</hi> letter in due time.</p></postscript> 
+            </div>
+            <div>
+            </div>
+        </body>
+    </text>
+</TEI>

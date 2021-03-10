@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0533">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>George Paton to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP326</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>3</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0228">George Paton</persName>
+                    <date when="1776-03-21"/>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0534"/>
+                    <ref type="prev" target="ct0206"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="enclosed">
+                <p><bibl type="authorial"><title ref="bi0199">Sir Robert Douglas's Baronetage of
+                            Scotland</title>
+                        <biblScope unit="page">p 25</biblScope>
+                        <biblScope unit="column">Col. 2<hi rend="superscript">d.</hi></biblScope>
+                        <biblScope unit="line">l. 22</biblScope><hi rend="superscript">d.</hi></bibl></p>
+                <p>In the Year of 1594, or 1595, the clan <hi rend="underline">Macgregor</hi>, with
+                    some of their lawless neighbours, came down upon the low Country of <placeName ref="pl1042"><hi rend="underline">Dunbarton</hi>shire</placeName>, &amp;
+                    comitted vast outrages &amp; depradations, especially upon the territories of
+                    the Colquhouns. This <persName ref="pe0492"><hi rend="underline">Humphry</hi></persName> raised his vassals &amp; followers to oppose them,
+                    &amp; was joined by many of the Gentlemen in the neighbourhood. Both parties met
+                    in <placeName ref="pl1043"><hi rend="underline">Glen frune</hi></placeName>,
+                    where a bloody conflict ensued. They fought with incredible obstinacy till night
+                    parted them, &amp; there were many brave men killed on both sides, but the
+                    highlanders appear to have had the better.</p>
+                <p><persName ref="pe0492">The Laird of <hi rend="underline">Colquhoun</hi></persName> made his escape from the field of battle, &amp;
+                    retired to a strong castle of his own in that neighbourhood; but being
+                        <sic>closly</sic> pursued by a Party of the enemy, they broke into the
+                    castle, &amp; found him in a vault<hi rend="superscript">*</hi>
+                    <note type="authorial">* at this mark on the Margin of the Book is noted (<bibl type="authorial"><title ref="bi0573">M.S. hist. of the family of
+                                    <placeName ref="pl0224">Luss</placeName>&amp;c<hi rend="superscript">a</hi></title></bibl>)</note>where they
+                    instantly put him to death with many instances of cruelty; and, he having no
+                    male-issue was suceeded by his Brother, <lb/><persName ref="pe2003">Alexander</persName> &amp;<hi rend="superscript">c</hi></p>
+                <p>N.B. The above is Article XIII <persName ref="pe0492">Humphrey
+                        Colquhoun</persName> of that Ilk</p>
+                <p><bibl type="authorial"><title ref="bi0560">Acts made in the first Parliament of
+                            our most high &amp; dread Sovereign Charles &amp;<hi rend="superscript">c.</hi> holden by himself, present in Person with his three Estates
+                            at Edinburgh, upon the 28 day of June 1633</title> ––––– Edinb<hi rend="superscript">r.</hi> printed by Evan Tyler &amp;<hi rend="superscript">c.</hi> 1633 fol. <lb/><biblScope unit="page">pag.62.</biblScope></bibl></p>
+                <p>Act xxx. Anent the Clan-Gregour.</p>
+                <p>Our Soveraigne Lord, and three Estates of this present Parliament, understanding
+                        &amp;<hi rend="superscript">c.</hi> as the Original Act will shew herewith
+                    sent the Title page whereof is above recited.</p>
+                <p><persName ref="pe1344">K. William</persName> &amp; <persName ref="pe1443">Q.
+                        Mary's</persName> first Parliament Sep. IV. 15 June 1693.</p>
+                <p>XXXIX. Act. for the Justiciary in the <placeName ref="pl0711">Highlands</placeName>.</p>
+                <p>Our Sovereign Lord &amp; Lady, the King &amp; Queen's Majesties, for the more
+                    effectual suppressing of the Depredations &amp; Robberies so frequently
+                    committed in the Highlands, to the Prejudice &amp; Ruins of many of their good
+                    Subjects &amp; to the reproach of the Laws &amp; Government of Parliament enact
+                    &amp; declare, That their Majesties by virtue of their Prerogative Royal, may
+                    grant Commissions of Justiciary, one or more, &amp; for such time as they shall
+                    think fit, for the Bounds of the Highlands, with all the Powers necessary and
+                    usual in such Commissions: and excepting therefore the Bounds and Lands lying
+                    &amp; comprehended within the heretable Right of Justiciary General pertaining
+                    to the <persName ref="pe2004">Earl of Argyle</persName> &amp;<hi rend="superscript">c.</hi> –––––</p>
+                <p>And further, for the Ends foresaid, their Majesties, with advice and Consent
+                    foresaid, do hereby <hi rend="underline">review the Act of Parliament 1633
+                        against the Clangrigor</hi>, &amp; that notwithstanding the same was
+                    rescinded in the year 1661. which Act rescissory, their Majesties hereby <hi rend="underline">Annul</hi> and <hi rend="underline">make void</hi>; and
+                    their Majesties considering, that the extending of Acts made anent Clans &amp;
+                    their Chieftans, for the more effectual repressing of Thefts &amp; depredations
+                    in the Highlands, may also be si<add place="above">ngularly</add> usefull for
+                    preserving the publick peace: do therefore hereby extend the same to the ease of
+                    the publick peace, &amp; for preserving thereof, as well as to the Thefts and
+                    Depredations.</p>
+                <p>N.B. I cannot find this rescissory Act Anno 1661, 2. Can it be a private one?</p>
+            </div>
+            <div type="letter">
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I was indeed at a Loss to know what Queries you desired solutions, till the
+                    receipt of your Card dated 11 Feb<hi rend="superscript">y</hi> 1776 only came to
+                    hand this forenoon. I referr you to mine of yesterday &amp; in reply to the Card
+                    you have the Extract from <bibl type="authorial"><title ref="bi0199">Robert
+                            Douglas's Baronetage</title>
+                        <biblScope unit="page">p 25</biblScope></bibl> which corresponds pretty much
+                    with yours <bibl type="authorial"><biblScope unit="page">p 385</biblScope>
+                        <title ref="bi0004">Tour 1769 </title> Quarto Edit:</bibl><note type="editorial">As Paton notes, the wording of Pennant's account of the
+                        Battle of Glen Fruin closely matches that of the extract from Douglas
+                        enclosed with this letter. See <bibl type="editorial"><title ref="bi0004"><hi rend="italic">A tour in Scotland 1769</hi></title> (3<hi rend="superscript">rd</hi> edn. 1774), Appendix VIII,<biblScope unit="page">pp.385-386</biblScope></bibl>: 'Of the Massacre of the
+                        Colquhouns'.</note> With the greatest difficulty have got the Sheet of <bibl type="authorial"><title ref="bi0199">Sir Rob<hi rend="superscript">ts.</hi>
+                            Book</title></bibl> relating to this Subject under the <hi rend="underline">Clan M<hi rend="superscript">c.</hi>grigor</hi> which
+                    accompanies this: have torn out the <bibl type="authorial"><title ref="bi0560">Act of Parliament 1633</title></bibl>out of a Copy by me for your
+                    Satisfaction also, besides you have <bibl type="authorial"><title ref="bi0210">K.Will.<hi rend="superscript">m.</hi> &amp; Q. Mary's
+                        Act</title></bibl> on the same subject at least as much as relates to the
+                    point in hand: if the Sheet of the Magazine can be got that shall be sent this
+                    night, or tomorrow when I get abroad (having been confined somedays with a
+                    severe Cold) to get it from the Printer; I shall for the last time again apply
+                    to the Register if possible to get the Act of Council, all which by tomorrow's
+                    post: had this Card reached me sooner your request should have long 'ere now
+                    been complied with: having accidentally got a sight of the English News Papers
+                    it is there mentioned to be <bibl type="authorial"><title ref="bi0102">the <hi rend="underline">Edinburgh Magazine Sept<hi rend="superscript">r.</hi> last</hi></title></bibl>, wish it may be got here now
+                    as most of them are sent to <persName ref="pe0013">M<hi rend="superscript">r.</hi> John Murray Bookseller</persName>
+                    <placeName ref="pl0699">London</placeName>, but shall try tomorrow for it. –––––
+                    I beg you will not impute my Silence to your Queries on any other head than <add place="above">the</add> not earlier receiving them than this day.</p>
+                <p>If you want to be further satisfied with <bibl type="authorial"><title ref="bi0397">Sir Robert Douglas's Book</title></bibl> I beg you may
+                    cause inquire at <persName ref="pe0190">Donaldson's</persName> Shops where it
+                    possibly may be got right altho' should fondly hope this would presently answer
+                    the Business. ––––– In case <persName ref="pe0156">M<hi rend="superscript">r.
+                            Low</hi></persName> send me any of the <bibl type="authorial"><title ref="bi0058">M.SS.</title></bibl> give me particular directions how it
+                    may be forwarded to yourself &amp; that by Land as I will not trust it by
+                    Sea.</p>
+                <closer><salute>I am Dear Sir <lb/>Your most obed<hi rend="superscript">t.</hi>
+                            Serv<hi rend="superscript">t.</hi></salute>
+                    <signed><persName ref="pe0228">GPaton</persName></signed></closer>
+                <dateline><placeName ref="pl0076">Edinburgh</placeName> 21 March 1776.</dateline>
+            </div>
+            <div>
+                <p><handShift/>March 25.</p>
+                <p><handShift/><address>
+                        <addrLine>Thomas Pennant Esq<hi rend="superscript">r.</hi></addrLine>
+                        <addrLine>London</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

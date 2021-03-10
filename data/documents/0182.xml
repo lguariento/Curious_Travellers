@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0182">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, mentioning his views on Samuel
+                    Johnson</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>118</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>The coversheet of this letter is incomplete.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-03-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0183"/>
+                    <ref type="prev" target="ct0181"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline>March. 12<hi rend="superscript">th</hi> 1775.</dateline>
+                <salute>Dear Sir</salute></opener>
+                <p>as I have one more Frank I shall forbear this post <persName ref="pe0018">M<hi rend="superscript">r</hi> Jackson’s</persName> indulgence. It is pity
+                    the author of the antiquities of <placeName ref="pl0235">Sterling</placeName> does not print them separate.<note type="editorial">Originally printed as a series in <bibl type="editorial"><title ref="bi0076"><hi rend="italic">The Edinburgh Magazine and
+                                    Review</hi></title></bibl> from 1773 and 1774, William Nimmo's
+                        'Antiquities in Stirlingshire' would eventually be published separately as
+                            <bibl type="editorial"><title ref="bi0136"><hi rend="italic">A general
+                                    history of Stirlingshire</hi></title> (1777)</bibl>.</note> I am
+                    pleased with the remarks on <persName ref="pe0073">Johnson</persName> but shall
+                    make no use of them; nor shall I once mention him; for really he is not worth
+                        notice.<note type="editorial">Pennant may be referring to a recent
+                        contribution to <hi rend="italic">The St. James Chronicle</hi> for 18
+                        February 1775. Entitled <bibl type="authorial"><title ref="bi0190">'Sketch
+                                of a Comparison between the two late Writers of Travels in
+                                SCOTLAND'</title></bibl> and signed 'STAFFA', the piece favourably
+                        compares Pennant's account of Scotland to Johnson's.</note> Be so good as to
+                    forward the inclosed.</p>
+                <closer><salute>I am Dear Sir <lb/>y<hi rend="superscript">r</hi> most obed<hi rend="superscript">t</hi>. Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Pat<gap reason="damage" unit="lines" atLeast="2" atMost="3"/></addrLine>
+                    </address></p>
+                <p>FreeR<gap reason="damage" unit="words" atLeast="1" atMost="2"/></p>
+                <p><stamp type="handstamp"><placeName ref="pl0703">NORTHOP</placeName></stamp></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0231">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on George Low's journal</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>194-195</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1777-11-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+
+                <p>your Letter as usual obliges me much. I have read <hi rend="underline">some</hi>
+                    of <persName ref="pe0156">Mr Lows</persName>
+                    <sic>of</sic>
+                    <bibl type="authorial"><title ref="bi0058">Journal</title></bibl> &amp; am much
+                    delighted with it. Pray lend him y<hi rend="superscript">r</hi>
+                    <bibl type="authorial"><title ref="bi0020">new edition of Br.
+                        Zool.</title></bibl> all the volumes; for I have no more to give away. They
+                    will be of much use to him. He ought by all means to visit the northern
+                        <placeName ref="pl0701">orknies</placeName> to complete his work. Which will
+                    meet with encouragement. Pray write to him as much &amp; let him know I will
+                    write soon.</p>
+                <p>The libel is too low &amp; insignificant to <sic>to</sic> be attended to.<note type="editorial">See the postscript of Pennant's letter to Paton on 7
+                        November 1777.</note></p>
+                <closer><salute>adieu <lb/>y<hi rend="superscript">rs</hi> affectly</salute>
+                    <persName ref="pe0232">T Pennant.</persName>
+                    <dateline>Nov<hi rend="superscript">r</hi> 30<hi rend="superscript">th</hi>
+                        1774</dateline></closer>
+
+                <postscript>
+                    <p>inclosed is an order for <bibl type="authorial"><title ref="bi0231">Flora
+                                Scotica</title></bibl></p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> George Paton</addrLine>
+                        <addrLine>Custom house</addrLine>
+                    </address></p>
+                <p><handShift/>came under cover to<persName ref="pe0022">D<hi rend="superscript">r.</hi> Ramsay</persName> who is confined to his room, &amp; wants to
+                    see <persName ref="pe0228">M<hi rend="superscript">r.</hi> Paton</persName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

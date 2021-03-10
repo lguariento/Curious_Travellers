@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0060">
+    <teiHeader type="s">
+        <fileDesc>
+            <titleStmt>
+                <title>Miss Archibald Montgomerie
+                    Williamson, A Tour to the West of Scotland
+                    <date>1817</date></title>
+                <author><persName ref="pe1699">Miss Archibald Montgomerie
+                    Williamson</persName></author>
+                <respStmt>
+                    <name>Edited with an Introduction by Alex Deans</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>Acc. 13028</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>7a-</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p>[f.1.r] William George H. T. Fairfax <lb/>from his
+                                affectionate Mama <lb/>July 22<hi rend="superscript">nd</hi>
+                                1843.</p>
+                            <p>[f.3r]: By A. Montgomerie, Lady Fairfax — when Miss
+                            Williamson.</p></additions>
+                    </physDesc>
+                    <additional>
+                        <p>A slip in the item envelope notes that the paper of the journal is
+                            watermarked 1815, and that the first entry is on Tuesday July 8, leading
+                            to an inferred year of writing: 1817.</p>
+                    </additional>
+                </msDesc>
+
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p><pb n="f.3r"/>
+                Tuesday July 8<hi rend="superscript">th.</hi></p>
+                <p>My <persName ref="pe1701">Father</persName>
+                    <persName ref="pe1702">Jane</persName> and I left <placeName ref="pl2518">Lixmount</placeName> on a little Tour to the West of <placeName ref="pl0705">Scotland</placeName> ––––– the first place we stopped at was
+                        <placeName ref="pl0383">Linlithgow</placeName> a distance of 16 miles. here
+                    we should have walked out to the <placeName ref="pl2497">Palace</placeName> in
+                    which the unfortunate <persName ref="pe0527">Queen Mary</persName> was born, but
+                    a heavy rain confined us within the walls of an uncomfortable Inn ––––– <pb n="f.3v"/> As soon as the weather cleared up, we proceeded to <placeName ref="pl0236">Falkirk</placeName> where we slept.</p>
+                <p>Wednesday. The day was very fine and we had a pleasant ride to <placeName ref="pl2498">Cumbernauld</placeName> ––––– while the horses were resting, we
+                    walked towards the Seat of <persName ref="pe1703">Admiral Fleming
+                        Elphinstone</persName>;<note type="editorial">Williamson's assiduous noting
+                        of country seats and their owners probably indicates the use of a guidebook,
+                        such as Daniel Paterson's, <hi rend="italic">A New and Accurate Description
+                            of all the Direct and Principal Cross Roads in Great Britain</hi>, first
+                        published in 1771 and revised and reissued into the late 1820s.</note> the
+                    road from thence to <placeName ref="pl0229">Glasgow</placeName> is extremely
+                    good; but the scenery is not at all interesting –––––</p>
+                <p>We walked this Place about 5 o'Clock, after finding our abode <pb n="f.4r"/>at
+                    the <placeName ref="pl2499">Star Inn</placeName>, we called on M<hi rend="superscript">r.</hi>–––––, and then walked thro' different parts of
+                    the Town, and along the Banks of the River, before we came in to Supper.
+                    Thursday. We took a little tour thro' the town before Breakfast, and afterwards
+                    went to see the <placeName ref="pl1060">Hunterian Museum</placeName> with which
+                    we were much gratified. This is a very valuable collection of Minerals, Shells,
+                    Coins, and Anatomical preparations, all finely arranged, besides an <pb n="f.4v"/>extensive Library and some good Paintings ––––– they were chiefly bequeathed
+                    by the late <persName ref="pe1692">D<hi rend="superscript">r</hi>
+                        Hunter</persName> of <placeName ref="pl0699">London</placeName>. The
+                    building in which they are deposited was built with money left by him for the
+                    purpose, it forms the Eastern side of the University, and the front presents a
+                    Doric Portico of six columns; amongst the Medals, we observed one similar to
+                    ours of Edward the 2<hi rend="superscript">nd.</hi> tho' not in such high
+                    preservation. <pb n="f.5r"/>My Father then parted from us to pay some visits,
+                    and Jane and I were happy to avail ourselves of the opportunity to visit the
+                        <placeName ref="pl2500">Botanic Garden</placeName> which has been lately
+                    made ––––– it contains about five Acres, laid out with considerable taste, there
+                    seems to be a good collection of Exotic plants, and in one corner of the Garden
+                    is a Lecture room in which students of both sexes are admitted ––––– on our way
+                    home we went into <pb n="f.5v"/><persName ref="pe1693">Harley's</persName>
+                    celebrated <unclear reason="illegible">tea</unclear> house. After dinner we
+                    thought our time could not be better employed than going to see <persName ref="pe1694">Madame Girardelli</persName> perform her wonderful experiments
+                    with fire. which detained us till a late hour.</p>
+                <p>Friday. We set off at 7 o' Clock and had a delightful ride to <placeName ref="pl0226">Dumbarton</placeName>, where we Breakfasted, the weather was
+                    fine, and the objects that attracted our attention <pb n="f.6r"/>on this road
+                    are too many to be enumerated. The Country is luxuriant the <placeName ref="pl0600">Clyde</placeName> runs on the left, and on both sides of the
+                    road, are several neat Seats and Villas.</p>
+                <p><placeName ref="pe1704">Scotstoun</placeName>, belonging to <persName ref="pe1704">M<hi rend="superscript">r.</hi> Oswald</persName> on the left
+                    about 5 miles from <placeName ref="pl0229">Glasgow</placeName>, appeared to me
+                    one of the pleasantest. Near the opposite side of the <placeName ref="pl0600">Clyde</placeName> is <placeName ref="pl2520">Elderslie</placeName>
+                    belonging to <persName ref="pe1705">M<hi rend="superscript">r.</hi>
+                        Spiers</persName> and which is noted for being the birthplace of <persName ref="pe1103">Wallace</persName>. <placeName ref="pl0606">Renfrew</placeName>
+                    is seen at some <pb n="f.6v"/>distance among the trees, a few miles further on,
+                    we ascended <placeName ref="pl1062">Dalnotter Hill</placeName> from which the
+                    prospect is extremely beautiful presenting at once many interesting objects. The
+                        <placeName ref="pl0833">Clyde</placeName> is here very much expanded, the
+                    great <placeName ref="pl1102">Canal</placeName> flows into it ––––– at a little
+                    distance <placeName ref="pl2521">Erskine</placeName> the Seat of <persName ref="pe1706">Lord Blantyre</persName> is delightfully situated on the
+                    opposite <pb n="f.7r"/>Banks of the River, the <placeName ref="pl1104">rock of
+                        Dumbarton</placeName> rises abruptly above the water, the ruined <placeName ref="pl0227">Fort of Dunglas</placeName> has a very picturesque effect, and
+                    Vessels of different kinds enliven the scene. We then descended to <placeName ref="pl0601">Kilpatrick</placeName> where we understand is the termination
+                    of the <placeName ref="pl0382">Roman Wall</placeName>, and at a mile and a half
+                    distant are some other remains of this adventurous people <pb n="f.7v"/><placeName ref="pl2522">Glenarback</placeName> formerly belonging to
+                        <persName ref="pe1707">Lord Web Seymour</persName>, and now to <persName ref="pe1708">M<hi rend="superscript">r</hi> Hamilton</persName>, is prettily
+                    situated amidst trees on the right. We then passed <placeName ref="pl0227">Dunglass Castle</placeName> on the left — and on the right <placeName ref="pl2543">Auchintorlie</placeName> the Seat of <persName ref="pe1766">M<hi rend="superscript">r.</hi> Buchanan</persName>, on the same side
+                    is the Printfield of <placeName ref="pl2503">Milton</placeName> belonging to
+                        <unclear reason="illegible"><persName ref="pe1767">Mess<hi rend="superscript">rs.</hi> Mitchell</persName></unclear> — all in a
+                    most romantic situation and a very lofty rugged rock called <placeName ref="pl2504">Drumbec</placeName>. <placeName ref="pl1104">Dumbarton <pb n="f.8r"/>Castle</placeName> next presents itself on a singularly shaped
+                    rock 560 feet high divided into two summits, it is on a point of land formed by
+                    the junction of the <placeName ref="pl0600">Clyde</placeName> and <placeName ref="pl2505">Leven</placeName> —</p>
+                <p>The plant generally considered the scotch Thistle grows here very abundantly, and
+                    it is curious that many parts of the rock are Magnetic, the Tower is small and
+                    uninteresting. After taking breakfast, we very willingly resumed our journey <pb n="f.8v"/>as it was to lead us to <placeName ref="pl0223">Loch
+                        Lomond</placeName>, the road crosses a Bridge over the <placeName ref="pl2505">Leven</placeName>; for several miles we rode along its Banks.
+                    There is a <placeName ref="pl1064">Monument</placeName> erected near the place
+                    where <persName ref="pe0536">Smolet</persName> was born. Every part of the
+                    Country thro' which we passed is rich and picturesque, there are many elegant
+                    Seats and neat Villages, the Country is finely wooded, and we observed a great
+                    variety of wild flowers <pb n="f.9r"/>growing in the richest luxuriance.
+                        <placeName ref="pl2508">Tillichuen Castl</placeName>e seems a beautiful
+                    place in the Gothic style, further on is <placeName ref="pl2509">Woodbank</placeName>, and soon after leaving it, we had the first view of
+                        <placeName ref="pl0223">Lock Lomond</placeName>, which even here is very
+                    beautiful, it is partly concealed from the road by trees; but we seldom lost
+                    sight of it altogether.</p>
+                <p>Many Gentlemen have taken advantage of the attractive situation, by building
+                    elegant Mansions on its Banks <pb n="f.9v"/>We particularly admired that of
+                        <persName ref="pe0508">Sir James Colquhoun</persName> called <placeName ref="pl1065">Rosedou</placeName> it is on a Peninsula stretching into the
+                    Lake, and commands a fine view of the surrounding scenery.</p>
+                <p>We passed <placeName ref="pl2510">Camstradden</placeName> belonging to <persName ref="pe1768">M<hi rend="superscript">r.</hi> Colquhoun</persName>, then
+                    crossed a Bridge over the <placeName ref="pl2511">River Luss</placeName>, and
+                    soon afterre arrived at <placeName ref="pl0224">Luss</placeName>. We were now
+                    all anxiety to have a full view of the far famed Lake, and as soon <pb n="f.10r"/>as we had engaged a Boat, we walked down to the Shore, which is beautiful
+                    beyond description, the Boatmen ferried us over to <placeName ref="pl1113">Inch
+                        Tavanach</placeName> which tho' not the largest of the Islands seems to be
+                    most elevated, we ascended thro' the Woods and Heaths by which it is covered to
+                    the Summit. — our guide was very intelligent, and able to answer all our
+                    questions, he said the Island we were <pb n="f.10v"/>on was a mile and three
+                    quarters long and half a mile broad, and the name means the Island of the two
+                    women. From the Top we had a delightful view of almost the whole Lake embosoming
+                    its verdant Islands. — there are about 30 of them some covered with pastures,
+                    and others wooded from their summits to the water edge. <placeName ref="pl1205">Inch Murren</placeName> is one mile long and two broad, it belongs to <pb n="f.11r"/>the <persName ref="pe0174">Duke of Montrose</persName>, it seems
+                    to be thickly wooded and contains 200 deer.</p>
+                <p><placeName ref="pl1110">Inch Caillaich</placeName> was the burial place of the
+                    Macgregors.</p>
+                <p>To the Eastward we saw <placeName ref="pl2512">Inch Cruin</placeName> used as an
+                    Assylum for persons of dissipated habits whose friends send them here for
+                    seclusion, and many local circumstances Render it well adapted to this purpose
+                    We afterwards landed on <placeName ref="pl1112">Inch Lonay</placeName> further
+                    to the North, used for a similar purpose, it is remarkable <pb n="f.11v"/>for a
+                    natural wood of very old Yews, and it is stocked well with Deer — The property
+                    of <persName ref="pe0508">Sir James Colquhoun</persName> after stopping here
+                    about half an hour we again stepped into the Boat, which took us back to
+                        <placeName ref="pl0224">Luss</placeName>.</p>
+                <p>The weather being clear we had from the lake a very fine view of <placeName ref="pl0609">Ben Lomond</placeName>, which we should <add place="above">have</add> liked very much to ascend, as the prospect from it must be still
+                    more magnificent than that <pb n="f.12r"/>from <placeName ref="pl1113">Inch
+                        Tavanach</placeName> its perpendicular height is 3240 feet above the surface
+                    of the Lake and 3262 above the surface of the Sea, our Guide pointed out to us a
+                    narrow stream running down a hill on the edge of the Lake famous for being the
+                    scene of a sanguinary conflict between the Colquhouns and Macgregors in the
+                    beginning of the 17<hi rend="superscript">th.</hi> Century.<note type="editorial">A reference to the 1603 battle of <placeName ref="pl1043">Glen Fruin</placeName> between the MacGregors and Colquhouns, as
+                        controversially described in the quarto edition of Pennant, <bibl type="editorial"><title ref="bi0004">A tour in Scotland 1769</title>
+                            (1774), <biblScope unit="page">pp.243-44</biblScope></bibl>.</note> The
+                    Island containing <placeName ref="pl2169">Rob Roy's Cave</placeName> we observed
+                    at a distance. It was with <pb n="f.12v"/>difficulty we could leave the lovely
+                    Banks of <placeName ref="pl0223">Loch Lomond</placeName> and return to the
+                    Inn.</p>
+                <p>Saturday. We rose early to return to <placeName ref="pl0229">Glasgow</placeName>,
+                    we passed over the same ground as we had done the day before.</p>
+                <p>After arriving at <placeName ref="pl0229">Glasgow</placeName> we walked about,
+                    but observed nothing worth mentioning</p>
+                <p>Sunday. After Breakfast we prepared to go to Church to hear <persName ref="pe1696">D<hi rend="superscript">r.</hi> Chalmers</persName> M<hi rend="superscript">r.</hi> ––––– gave us leave to use his seat, which <pb n="f.13r"/>being very near the Pulpit, we had an excellent opportunity of
+                    seeing and hearing this celebrated Preacher — I had heard him before but never
+                    to such advantage. The Text was in the 6<hi rend="superscript">th.</hi> chapter
+                    of Mathew and 29 Verse. The subject tho' a common one was treated in a very
+                    striking and forcible manner. As the weather was fine we resolved on going to
+                        <placeName ref="pl0603">Greenock</placeName> this Evening, and had no wish
+                    to wait till the next day to go by the Steam Boat, as in our excursion to
+                        <placeName ref="pl0224">Luss</placeName>, we had had a <pb n="f.13v"/>full
+                    view of the finest parts of the <placeName ref="pl0600">Clyde</placeName>, the
+                    road from <placeName ref="pl0229">Glasgow</placeName> is excellent and the
+                    Country pleasant and well cultivated, we passed several Seats <sic>but did not
+                        to whom they belonged</sic> One called <placeName ref="pl2545">Lint
+                        House</placeName> on the right particularly struck us. <placeName ref="pl0605">Paisley</placeName> is seen at a distance. We passed <placeName ref="pl2520">Elderslie</placeName>
+                    <persName ref="pe1705">M<hi rend="superscript">r.</hi> Spier's</persName>, and
+                    then entered <placeName ref="pl0606">Renfrew</placeName> consisting chiefly of
+                    one narrow Street about half a mile in length — further on is <placeName ref="pl2546">South Bar</placeName> belonging to <persName ref="pe1770">M<hi rend="superscript">r</hi> Alexander</persName>, which appears a very
+                    pleasant <pb n="f.14r"/>place, and soon after stopped at a solitary Inn called
+                        <placeName ref="pl2547">Bishopton</placeName>. while the horses were resting
+                    we walked on about two miles. and had a delightful view of the <placeName ref="pl0600">Clyde</placeName> and the surrounding scenery, we now saw the
+                    side of <placeName ref="pl1104">Dumbarton Castle</placeName>
+                    <unclear reason="illegible">next</unclear> the River and the Bold Rock called
+                        <placeName ref="pl2504">Dumbrec</placeName>. We passed thro' <placeName ref="pl0602">Port Glasgow</placeName>, near it is the <placeName ref="pl2549">old Castle of Newark</placeName> belonging to <persName ref="pe1771">Lord Belhaven</persName> 3 miles further on is <placeName ref="pl0603">Greenock</placeName>, where we remained all night.</p>
+                <p><pb n="f.14v"/>
+                Monday. After Breakfast my Father paid several visits, and then went with out
+                    with us to look at the Town, it is situated on the sloping side of a high Bank
+                    towards the South, and the Sea on the North. The principal Street is nearly a
+                    mile long, and runs from East to West, has a commodious Harbour, and is the
+                    finest Port in <placeName ref="pl0705">Scotland</placeName>. About 2 o' Clock we
+                    continued our journey thro' a beautiful <pb n="f.15r"/>and romantic Country —
+                    the road excellent, and the weather was uncommonly fine. After travelling 3
+                    miles we passed thro' <placeName ref="pl0603">Greenock</placeName>, a small
+                    Harbour, and a resort for bathing. We had a view on the right of <placeName ref="pl0613">Roseneath</placeName>, belonging to the <persName ref="pe1433">Duke of Argyle</persName>. The property on this road is chiefly <persName ref="pe1773">Sir Michael Shaw Stewart's</persName>, and his Seat <placeName ref="pl2551">Ardgowan</placeName> is about 5 miles from <placeName ref="pl0603">Greenock</placeName>, 2 miles further on we crossed a small
+                    Bridge <pb n="f.15v"/>called <placeName ref="pl2552"><unclear reason="illegible">Kelly</unclear> Bridge</placeName>, and entered <placeName ref="pl0736">Ayrshire</placeName>, the road now is close to the Shore, and on the other
+                    side for a mile is a perpendicular rock, which in some Places seems nearly 100
+                    feet high — soon after on the left are the Ruins of <placeName ref="pl2553">Knock Castle</placeName> on the <placeName ref="pl2554">Estate of
+                        Brisbane</placeName>, we then arrived at <placeName ref="pl2555">Largs</placeName> a small Sea Port Town ––––– it is beautifully situated
+                    and commands a fine view of the Islands of <placeName ref="pl2556">Cumbra</placeName>, <placeName ref="pl0714">Bute</placeName> and <placeName ref="pl0719">Arran</placeName>, and betwixt the <pb n="f.16r"/>Mainland and
+                    the South end of <placeName ref="pl0719">Arran</placeName> is a distant view of
+                    the <placeName ref="pl0632">Island of Ailsa</placeName>, which rises to great
+                    heights in a Conical form. The weather being fine, we saw the place to great
+                    advantage, and admired the situation of it extremely; near the Shore there is a
+                    very neat building containing a reading room hot &amp; cold Baths.</p>
+                <p>We ascended a Mound behind the Village, on which <persName ref="pe1774">General
+                        Brisbane</persName> has erected a sort of Signal Tower for Astronomical
+                    purposes — it commands a view of <placeName ref="pl2554">Brisbane <pb n="f.16v"/>House</placeName>, and the surrounding Country, and near it is a large
+                    plain, which is said to be the scene of the defeat of the Danes in their last
+                    Invasion.</p>
+                <p>Tuesday. After leaving <placeName ref="pl2555">Largs</placeName>, we rode along
+                    the Banks of the <placeName ref="pl0833">Clyde</placeName>, and on the other
+                    side the Country is rich and diversified.</p>
+                <p>We passed <placeName ref="pl2557">Kilburn House</placeName> the Seat of <persName ref="pe1775">Lord Glasgow</persName>, and soon after the Estate of
+                        <placeName ref="pl2558">Fairly</placeName> now belonging to <persName ref="pe1446">Sir William <pb n="f.17r"/>Cunningham of Robertland</persName>,
+                    on which are the Ruins of an old Castle. On the right is <placeName ref="pl2559">Hunterston</placeName> which appears a fine House, and 4 miles further on,
+                    we passed thro' the Village of <placeName ref="pl2560">Kilbride</placeName>,
+                    near which are the Ruins of <placeName ref="pl2561">Law Castle</placeName>.</p>
+                <p>For some miles we had left the Shore, now the road goes along it to <placeName ref="pl2562">Ardrossen</placeName>, where there is a new Harbour for Ships.
+                    — It belongs to <persName ref="pe1776">Lord Eglinton</persName> and the Houses
+                    are newly built. <pb n="f.17v"/>In a height are the Ruins of a Castle which
+                    seems to have been a Place of considerable strength, and South of it are the
+                    remains of Danish encampments, we went off the usual road to see <placeName ref="pl2562">Ardrossan</placeName> and soon arrived at <placeName ref="pl2563">Saltcoats</placeName>, which is 2 miles distant. There we
+                    Breakfasted, and after walking down to the Harbour and round the Village, which
+                    consists chiefly of one long Street we again stepped into the Carriage.</p>
+                <p>We now lost <pb n="f.18r"/>sight of the <placeName ref="pl0833">Clyde</placeName>, and passed on the left <placeName ref="pl2564">Seabank</placeName>, belonging to <persName ref="pe1777">M<hi rend="superscript">r.</hi> Cunningham</persName>, a little on the
+                    Village of <placeName ref="pl2565">Stephenstoun</placeName>, and afterwards
+                        <placeName ref="pl2566">Killwinning</placeName> a small Tower noted for
+                    being the Seat of the first Mason Lodge in <placeName ref="pl0705">Scotland</placeName> — and here are the remains of a <placeName ref="pl2567">Monastery</placeName>, — at some distance we had a view of
+                        <placeName ref="pl2568">Eglinton Castle</placeName>.</p>
+                <p><placeName ref="pl2569">Irvine</placeName> where we next stopped is a Sea Port
+                    Town and stands on a rising ground — the Church is neat and has a handsome <pb n="f.18v"/>Spire. We went into the Church Yard from which there is an
+                    extensive view — we likewise saw the new Academy a fine Building in an airy
+                    situation, near it are the Ruins of a <placeName ref="pl2570">Castle</placeName>
+                    the antient Residence of the Eglinton family.</p>
+                <p>As the weather was extremely warm, we did <sic>not <placeName ref="pl2569">Irvine</placeName></sic> till 6 o'Clock it was a delightful Evening,
+                    and at a distance out the left, we saw distinctly the <placeName ref="pl2572">Castle of Dundonald</placeName> from which the family <pb n="f.19r"/>of
+                    Cochrane derive their Title, it appears a very large building eminence opposite
+                    to it is a fine Bank of wood in which is situated the <placeName ref="pl2573">House of Auchans</placeName> a seat of the Earls of Eglinton. The Country
+                    tho' not so picturesque as what we had lately seen, is far from being
+                    uninteresting, some parts are barren, and others highly cultivated.</p>
+                <p>The <placeName ref="pl0833">Firth of Clyde</placeName> continues in sight and the
+                        <placeName ref="pl0632">Island of Ailsa</placeName> appears more distinctly.
+                    We saw <placeName ref="pl2574">Troon</placeName>
+                    <pb n="f.19v"/>which is a Promontory in <placeName ref="pl0736">Ayrshire</placeName> from which the <persName ref="pe1778">Duke of
+                        Portland</persName> has extended into the <placeName ref="pl0833">Clyde</placeName> on a curved line to a very considerable extent so as to
+                    form a safe Harbour for the shelter of Vessels in general, as well as for the
+                    exportation of the Coals upon his Estate to <placeName ref="pl0889">Ireland</placeName>, this Harbour is thought to promise being of more
+                    utility than the one erected by <persName ref="pe1776">Lord Eglinton</persName>
+                    at <placeName ref="pl2562">Ardrossen</placeName>, further on the left is <pb n="f.20r"/><placeName ref="pl2584">Fullerton House</placeName>, belonging to
+                    the <persName ref="pe1778">Duke of Portland</persName>.</p>
+                <p>After travelling 5 miles thro' rather a bleak Country, and two inconsiderable
+                    Villages, we crossed the <placeName ref="pl2585">River Ayr</placeName>, and
+                    entered the Town of <placeName ref="pl2586">Ayr</placeName>. This is a very
+                    ancient Town, and was formerly distinguished for military strength, — but we
+                    could perceive no remains of antiquity except and old Tower, and round it is the
+                    strong wall of a Fortress built by <persName ref="pe1391">Oliver
+                        Cromwell</persName>.</p>
+                <p>Wednesday. As my Father <pb n="f.20v"/>had several visits to make we remained
+                    here all day, but regretted that owing to the excessive heat, we could not walk
+                    much till the Evening, when we took a survey of the Town, and the new Prison,
+                    and Count House that are building.</p>
+                <p>Wednesday. We set off soon after six o'Clock in order to go one stage before the
+                    heat of the day. but the Sun was already so powerful that we were almost <pb n="f.21r"/>afraid the horses could not reach <placeName ref="pl2587">Ochiltree</placeName> where we were advised to stop instead of proceeding
+                    to <placeName ref="pl2588">old Cumnock</placeName>.</p>
+                <p>We were very glad to find ourselves at the door of the Inn, and all required
+                    resting as well as the horses. After getting an excellent Breakfast the Landlady
+                    offered to accompany us on a walk to an old Castle near the Village, which
+                    formerly gave the <sic>Tittle</sic> of Baron to a Branch of the Family
+                        Stewart.<note type="editorial">Possibly <placeName ref="pl2589">Taringzean
+                            Castle</placeName>.</note> The heat soon <pb n="f.21v"/>obliged my
+                    Father to return to the Inn, but <persName ref="pe1702">Jane</persName> and I
+                    unwilling to give up seeing the only curiosity that the Place afforded, went on,
+                    and were somewhat gratified.</p>
+                <p>The <placeName ref="pl2590">River Lugar</placeName> runs past this old edifice
+                    which <persName ref="pe1797">Sir Alexander Don</persName> inherited from his
+                    Mother <persName ref="pe1796">Lady Glencairn</persName>, but he has sold it to
+                        <persName ref="pe1799">M<hi rend="superscript">r.</hi> Boswell of
+                        Auchinleck</persName>. <persName ref="pe1801">Lord Bute</persName> is the
+                    chief Proprietor in this Neighborhood. I must not omit to mention that we had
+                    not any where seen <pb n="f.22r"/>such fine corn fields as between <placeName ref="pl2586">Ayr</placeName> and <placeName ref="pl2587">Ocheltree</placeName>. Soon after leaving this Place, we saw on the left
+                        <placeName ref="pl2591">Dumfries House</placeName> surrounded by extensive
+                    Plantations, then passing thro' the Village of <placeName ref="pl2588">old
+                        Cumnock</placeName>, we went on to <placeName ref="pl2592">new
+                        Cumnock</placeName>, where we stopped at a most wretched and uncomfortable
+                    Inn. As soon as the horses were sufficiently rested, we again continued our
+                    journey thro' a Country that differed in aspect to what we had been lately
+                    accustomed ––––– it is generally <pb n="f.22v"/>Mountainous, some of the Hills
+                    are covered with Heath and others affording pasture to flocks of Sheep and Black
+                    Cattle. The road goes along the Banks of the <placeName ref="pl0573">Nith</placeName>, but we saw nothing interesting. <persName ref="pe1702"><unclear reason="illegible">Jane</unclear></persName> owing to the
+                    extreme heat felt rather fatigued by the time we arrived at <placeName ref="pl2593">Sanquhar</placeName> which terminated our day's journey. This
+                    is a small Town and at a short distance from it are the ruins of a very ancient
+                    Castle.</p>
+                <p><pb n="f.23r"/>
+                Friday. We went to <placeName ref="pl2594">Eliock</placeName> about 3 miles off,
+                    where we Breakfasted: in this house the <persName ref="pe0060">Admirable
+                        Crichton</persName> is said to have been born, and there is a <rs ref="ar0005">Portrait</rs> of him in the drawing Room. After leaving
+                        <persName ref="pe1803">M<hi rend="superscript">r.</hi> Veitch's</persName>
+                    we found the road very pleasant keeping along the East Bank of the <placeName ref="pl0573">Nith</placeName> which in some parts is extremely Picturesque,
+                    we then passed the fields and Plantations of <placeName ref="pl0579">Drumlanrig</placeName>, and had a good <pb n="f.23v"/>view of this
+                    beautiful Mansion we now lost sight of the <placeName ref="pl0573">Nith</placeName>, and passing <placeName ref="pl2596">Closeburn</placeName>, <persName ref="pe1804">M<hi rend="superscript">r.</hi>
+                        Monteith's</persName> on the left reached <placeName ref="pl2597">Brownhill</placeName>, a tolerable Inn, where we rested two hours, the
+                    first part of the next stage is very delightful, the <placeName ref="pl0573">Nith</placeName> again appears in picturesque windings, the Banks prettily
+                    wooded and the surrounding Country well cultivated ––––– agriculture being now
+                    apparently more attended to than pasturage</p>
+                <p><pb n="f.24r"/>
+                The Evening was uncommonly fine, and added to the beauty of the scenery. Soon
+                    after crossing <placeName ref="pl2598">Alquith Bridge</placeName>, we saw on the
+                    left a very pleasant Place called <placeName ref="pl2599">Friar's
+                        Carse</placeName>, belonging to <persName ref="pe1805">M<hi rend="superscript">r.</hi> Chrighton</persName>. As we approached
+                        <placeName ref="pl0576">Dumfries</placeName> nothing struck us as remarkable
+                    till we crossed the River by a handsome Bridge and entered the Town, being
+                    rather fatigued with the excessive heat of the weather, we ordered supper as
+                    soon as <pb n="f.24v"/>and deferred looking at the Town till the next day.</p>
+                <p>Saturday. We walked before Breakfast to <placeName ref="pl2600">S<hi rend="superscript">t.</hi> Michael's Church</placeName> where a
+                        <placeName ref="pl2601">Monument</placeName> has been lately erected to the
+                    Memory of <persName ref="pe1806">Burns</persName>, the design is rather elegant.
+                    in the form of a Temple, and a Statue of the Poet, leaning on a Plough, is to be
+                    placed in the Centre. <placeName ref="pl0576">Dumfries</placeName> appeared to
+                    us the pleasantest Town we had seen. It is situated <pb n="f.25r"/>on the
+                        <placeName ref="pl0573">Nith</placeName>, about 9 miles above, where it
+                    discharges itself into the <placeName ref="pl1098">Solway Firth</placeName> — it
+                    contains many excellent houses, and handsome public buildings. We went into the
+                    Court house, and then walked along the Banks of the River towards the Harbour.
+                    About 3 o'Clock we resumed our journey, but instead of going on to <placeName ref="pl0247">Moffat</placeName> we stopped for an hour at a small Inn called
+                        <placeName ref="pl2602">Park-gate</placeName> about 8 miles and a ½ from
+                        <placeName ref="pl0576">Dumfries</placeName> — while we were <pb n="f.25v"/>here a shower came on, which cooled the air, and made it pleasanter for
+                    travelling, but owing to the rain we did not see the Country to such advantage:
+                    the surface of it is generally rugged and Mountainous we passed over a very
+                    pretty Bridge, called <placeName ref="pl2603">S<hi rend="superscript">t</hi>
+                        Ann's Bridge</placeName> thrown over the <placeName ref="pl0559">Annan</placeName>,<note type="editorial">St Ann's Bridge spans <placeName ref="pl2604">Kinnel Water</placeName>, at tributary of the Annan.</note>
+                    we saw on the left <placeName ref="pl2605">Raehills</placeName>, the Seat of
+                        <persName ref="pe1807">Sir William Johnstone Hope</persName>. It was almost
+                    dark before we arrived at <placeName ref="pl0247">Moffat</placeName>, but this
+                    we did not regret intending <pb n="f.26r"/>to remain here all next day.</p>
+                <p>Saturday. The weather in the Morning was tolerably fine, and had not much the
+                    appearance of rain, but just as we were setting off to Church a very heavy
+                    shower came on, and obliged us to remain within doors till the Afternoon, when
+                    we went to the Parish Church. <placeName ref="pl0247">Moffat</placeName> has
+                    been long celebrated for its Mineral Water, which was discovered about 150 years
+                    since. There is also a petrifying spring about 4 miles distant, but this we did
+                    not see <pb n="f.26v"/>and we regretted that the badness of the weather
+                    prevented us from going to the curious cascade called <placeName ref="pl2607">"Gray Mare's Tail"</placeName></p>
+                <p>Monday. We rose before 6 o'Clock, and as the weather was favorable we determined
+                    on going to the <placeName ref="pl2152">Well</placeName>, and had a very
+                    pleasant expedition. The <placeName ref="pl2152">Well</placeName> is covered
+                    with only a sort of hut, and the surrounding scenery is rather picturesque — by
+                    the time we returned to the Inn the Carriage was ready, so immediately set off,
+                    and got to <pb n="f.27r"/><placeName ref="pl2608">Crook Inn</placeName> to
+                    Breakfast — a few miles from <placeName ref="pl0247">Moffat</placeName> on the
+                    right is a deep hollow in the rock, where the <placeName ref="pl2121">Annan</placeName> rises, and from the opposite side of the same Hill, the
+                        <placeName ref="pl0600">Clyde</placeName> and <placeName ref="pl0727">Tweed</placeName> have their source. After Breakfast we ascended the steep
+                    hill behind the Inn, and saw beneath us, the windings of the <placeName ref="pl0727">Tweed</placeName>, now of considerable breadth. one hill
+                    appears beyond another, partly covered with heath, and partly with pasturage The
+                    Country thro' which we afterwards passed has the same unvarying <pb n="f.27v"/>aspect, the <placeName ref="pl0727">Tweed</placeName> for some miles continues
+                    in sight, and on the Banks are the ruins of the <placeName ref="pl2609">old
+                        Castle of Drummelzier</placeName> near which was buried the celebrated
+                        <persName ref="pe1656">Merlin</persName>,<note type="editorial">A tradition
+                        of unknown origin, though perhaps dating as far back as the fifteenth
+                        century, holds that the legendary Merlin was buried near Drumelzier Castle.
+                        The 1793 parish entry for Sinclair's <bibl type="editorial"><title ref="bi0169">Statistical Account of Scotland</title></bibl> 21
+                        vols., (Edinburgh: 1791-1799) pithily notes: 'The celebrated Merlin is
+                        buried here; but no other person of great distinction', vii, p.155.</note>
+                    we next passed the Estates of <placeName ref="pl2610">Broughton</placeName>,
+                        <placeName ref="pl2611">Cairnmuir</placeName> and rested the horses at a
+                    small Inn on the road, the Country now becomes more flat, and nothing appears
+                    worthy of notice on the road to <placeName ref="pl2612">Noble House</placeName>,
+                    which ended this day's journey.</p>
+                <p>Tuesday. As the weather had <pb n="f.28r"/>the evening before the appearance of
+                    rain we were agreeably surprized when we arose to find it was fair, tho' the
+                    road shewed there had been rain during the Night — Almost opposite to the Inn is
+                        <persName ref="pe1808">Sir George Montgomery's</persName> on the same side
+                        <placeName ref="pl2613">La Mancha</placeName> belonging to <persName ref="pe1809">M<hi rend="superscript">r.</hi> Basil Cochrane</persName> and
+                        <placeName ref="pl2614">the Whim</placeName> to <persName ref="pe1810">Sir
+                        James Montgomery</persName>; much of the Country about here seems barren and
+                    neglected, before entering <placeName ref="pl0726">Pennycuick</placeName> there
+                    are the Ruins of an old Castle on a height <pb n="f.28r"/>overlooking the
+                        <placeName ref="pl2615">Esk</placeName> which rises in this Neighborhood.
+                    from thence we beat our course to <placeName ref="pl2518">Lixmount</placeName>
+                    where we arrived after being three weeks absent.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

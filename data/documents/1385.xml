@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1385">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Lloyd, Caerwys, to [Thomas Pennant], 27 January 1778</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>2594E</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+        
+                        <additions><p><hi rend="italic">Endorsement in Thomas Pennant's hand</hi>: <lb/>Datceiniad<lb/>
+                        </p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0333">John Lloyd</persName>
+                    <date when="1778-01-27"/>
+                    <placeName ref="pl1201">Caerwys</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">[Thomas Pennant]</persName>
+                    <placeName ref=""/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1386"/>
+                    <ref type="prev" target="ct1384"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline/><salute/></opener>
+                
+                <p>The Datceiniad, or he that accompanied any <add place="margin">Datceiniad</add> musical Instrument with his voice, 
+                    tho he was inferior to both Bard
+                    &amp; musician, yet he must be possessd. of a Considerable degree of Knowledge of both the Sciences, he must be able 
+                    to Tune the Harp &amp; Crwth,<note type="editorial">'crowd'.</note> to understand the Gamut, to shew his skill in playing several notes &amp; Keys, &amp;
+                    be perfectly conversant, in that they calld<sic>,,</sic> the 24 measures of Instrumental song, &amp; be able to sing
+                    with Judgment, Melody &amp; propriety. – He must likewise be master of reading welsh Justly &amp; writing it Correctly, 
+                    to <add place="above">&amp; he must not only</add> understand the 24 common modes of <sic>Mertrical</sic> Compositions, 
+                    but <sic>exibit</sic> sp<del>p</del>ecimens of his own at least in three of them. – If he met with any 
+                    o[<del>...</del>]<del>ly</del>ld 
+                    song faultily transcribed, he was required to be able to rectify it. – He was further required not only to be a handy waiter at
+                    Table, but an expert Carver of every Species of Fowl. – In the Weddings of any of the Royal Family, his office was to wait at the 
+                    Table of the Bride +<add place="margin">Datceiniad Pen pastwn</add><note type="authorial">+He was also to carry about him a Harp or 
+                        Crwth<note type="editorial">'crowd'.</note> covered with a White Case.</note> The most inferior of the musical Tribe was the 
+                    <hi rend="underline">Datceiniad Pen Pastwn</hi>, or he that sung to the Harmony of his club or staff, having no skill in any other 
+                    musical Instrument; when this Gentleman was suffered to be introduced, he was obliged to stand in the middle of the Hall &amp;
+                    sing his Cywydd<note type="editorial">A strict-metre poem consisting of rhyming couplets.</note> or 
+                    Owdl,<note type="editorial">'ode'.</note>  beating time &amp; playing the Symphony with his Pastwn.<note type="editorial">'staff'.</note> 
+                    But if there was a Professor of Music present, his leave must be first obtain,<hi rend="superscript">d</hi> before he presumed to 
+                    entertain the Company with this Species of Melody. Wherever he came he must act as a menial Servant to the Bard or Musician.
+                </p> 
+                <p>[<del>...</del>]Notwithstanding our Eisteddfods held by Royal Authority have long since 
+                    ceas’d,<note type="editorial">Lloyd refers to the eisteddfodau held at Caerwys in 1523 and 1567. See Hywel Teifi Edwards, 
+                        <hi rend="italic">The Eisteddfod</hi> (Cardiff, 1990), pp. 4–10.</note>  yet our Bards have at all times &amp; do still hold such 
+                    Congresses, tho’ they don’t confer degrees as formerly, save in [<del>...</del>]one case, where the Victor is chaired. The 
+                    Modern Eisteddfod, 
+                    generally consists of a Contest for Superiority between the Bards of two different districts, as of two Counties &amp;c They meet at 
+                    a particular place previously agreed upon, <del>sometimes</del> <add place="above">generally</add> at a publick house, &amp; sometimes
+                    sub dio.<note type="editorial">'in the open air, under the open sky'.</note>  A Judge is always appointed who decides upon the 
+                    merit of the performers, and proclaims the Victor who is always chaired upon the occasion, &amp; <del>always</del> afterwards 
+                    held in estimation
+                    as a Bard. I have frequently seen[<del>...</del>] poems composed at some of these Eisteddfods, they were upon different 
+                    <add place="above">given</add> Subjects, upon each of which, [<del>...</del>]every <sic>Cadidate</sic> must deliver 
+                    [<del>...</del>]his composition. The <sic>Sujects</sic> are generally given by the Judge.</p>
+                <p>As to the <hi rend="underline">Datceiniaid</hi> or Vocal Performers, tho’ not at present tied by the Ancient Regulations, yet they are
+                    very numerous &amp; very excellent in their way, particularly in the Counties of <placeName ref="pl1235">Meirionydd</placeName>
+                    <placeName ref="pl1234">Caernarvon</placeName>, <placeName ref="pl1093">Anglesey</placeName> &amp; 
+                    <placeName ref="pl1216">Denbigh</placeName>. It forms a great part of their Amusements at Festivals, wakes Fairs, Weddings, Dancings
+                    &amp; all opportunities of Festivity. Both Sexes equally excel in it. They often <add place="above">meet</add> entirely for that 
+                    purpose, but it <sic>oftner</sic> takes place at the Conclusion or middle of a Dance, when the parties are disposed to a little Rest.
+                    Here they all sit down and the Musician plays any tune at his option, especially if it becomes a matter of Contest, for then no person 
+                    is allow,<hi rend="superscript">d</hi> to call for a Tune. One begins &amp; sings the Tune once Through, when he has done the next to him takes it <add place="above">up</add>
+                    &amp; so on till the whole of the Singers have Sung over it once, Sometimes the Same tune is Continued for Several Rounds, 
+                    especially if the Company is small. Whenever &amp; how often <sic>soever</sic> the T[<del>...</del>]une is changed the 
+                    <add place="above">same</add> rotation is observ<hi rend="superscript">d</hi> &amp; every one sings in his Turn, unless, as often Happens, some of 
+                    <add place="above">the</add> less skilful are flung out, when a Tune is played that they are not acquainted with. 
+                    – Some veteran proficients will hold out for whole nights together, without scarce ever<del>y</del> Singing the same Stanza or Same Tune twice over. 
+                    Their excellency Consists as well in the Harmony of their Voices, as in the great variety of Tunes &amp; Stanzas they can Sing. 
+                    Some Hundreds of the latter, of different lengths &amp; metres are Treasured up in their memories, which they daily sing whilst
+                    attending their flocks, or <add place="above">are</add> occupied in any other rural employment. In winter nights every house in those 
+                    Countries affords a Concert of vocal music. – As these Pennylls or Stanzas admit of great variety in length &amp; Structure, not a one 
+                    of our Tunes can be played, but a Skilful Singer can adapt numbers of his Stock of Pennylls to it, at pleasure. – These Stanzas are 
+                    detached pieces upon <add place="above">all</add> the variety of Subjects, some Grave <del>some</del> some Serious, some adapted to 
+                    <persName ref="pe0765">Venus</persName> some to <persName ref="pe0766">Bacchus</persName> &amp;c &amp;c many of these sung to this day
+                    are suppos,<hi rend="superscript">d</hi> as old as the Times of the Druids, others have been composed in every age since, 
+                    - no wonder therefore that we are so rich in old <add place="above">stock</add> besides numbers that are continually 
+                    Compos<hi rend="superscript">d</hi> upon some 
+                    Occasion or other, <add place="above">all</add> these Pennylls they generally learn from one another without being scarce ever Committed
+                    to paper. A singer that is well Stocked is sure to sing one a propos to that sung before. – They often likewise adapt part of a Cywydd
+                    or any other song to the Tune – In a Singing Contest between two Counties held some years ago in <placeName ref="pl0760">Gwedir Park</placeName>,
+                    A woman appeared there who Sung variety of verses to 140 different Tunes.</p>
+                <p>I beg leave further to add that you had better leave this Subject alone till you come to <placeName ref="pl1235">Meirionydd</placeName>
+                    or <placeName ref="pl1234"><sic>Caernavonshire</sic></placeName> or some musical Country, especially as your present volume will be
+                    large <sic>enought</sic> without it. – As to our Interludes I think they may as well be dropped for the present for the same reason, 
+                    You may in some of your next excursions attend the representation of one, then your account will come in 
+                    a propos<note type="editorial">Pennant used this material in 
+                        <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), I, pp. 445–6. See R. Paul Evans, 'Reverend John Lloyd of Caerwys (1733–93)', 
+                        <hi rend="italic">Flintshire Historical Society Journal</hi>, 31 (1983/4), 109–124, esp. 118. For a discussion of this episode as a 
+                        classic example of layering material and of John Lloyd's influence on Pennant, see Mary-Ann Constantine, 
+                        ' "To trace the country's glories to their source": Dangerous History in Thomas Pennant's <hi rend="italic">Tour in Wales</hi>', 
+                        in Porscha Fermanis and John Regan (eds.), <hi rend="italic">Rethinking British Romantic History, 1770–1845</hi> 
+                        (Oxford: Oxford University Press, 2014), pp. 121–143, esp. pp. 136–7.</note></p>
+                <p>My back is very Stiff &amp; the day cold, otherwise I should have waited of you <del>today</del></p>
+                <p>My best respects to <persName ref="pe0238">M<hi rend="superscript">rs</hi></persName> &amp; <persName ref="pe0234">Miss Pennant</persName></p>
+                <closer><salute>Your very Humble Ser<hi rend="superscript">t</hi> &amp;c</salute>
+                    <signed><persName ref="pe0333">John Lloyd</persName></signed>
+                    <dateline><placeName ref="pl1201">Caerwys</placeName><lb/>Jan<hi rend="superscript">y</hi>. 27: 1778 –</dateline></closer>
+            </div>
+            <div>
+            </div>
+        </body>
+    </text>
+</TEI>

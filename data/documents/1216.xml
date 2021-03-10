@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1216">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 132</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">Top of first page, in Richard Bull's hand</hi>:</p>
+                            <p><del>4274. - D 5
+                                <lb/>4276 - - 5</del></p>
+                            <p><hi rend="italic">Bottom of final page, in Richard Bull's hand</hi>:</p>
+                            <p>Sent the <rs type="art" ref="ar0450">8 drawings</rs> to <persName ref="pe2024">white</persName>. as directed.</p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1798-01-22"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Jan<hi rend="superscript">y</hi> <del><gap unit="letters" quantity="2" reason="illegible"/></del><unclear>20</unclear><hi rend="superscript">th</hi> 1797<note type="editorial">The precise date in the month is not clear, but note that the postmark is dated 22 January 1798.</note></dateline></opener>
+                <p>Your favors of Jany 1. &amp; 15<hi rend="superscript">th</hi> are before me shamefully unthanked.<note type="editorial">See <ref target="1213.xml">1213</ref> and <ref target="1215.xml">1215</ref>.</note> I beg you at present to receive my grateful acknowlegements 
+                    &amp; a tenfold return of my best wishes. I lament your confinem<hi rend="superscript">t</hi>: as to myself: notwithstaning my swelled leg I am capable of riding three miles &amp; back again: &amp; by the use of Fox glove find a visible diminution of my <hi rend="underline">mill post</hi>.<note type="editorial">Pennant refers humourously to his 'thick or fat legs'. <hi rend="italic">OED</hi> s.v. mill-post.</note></p>
+                <p>
+                    I cannot but confess that <persName ref="pe0234">my daughter</persName>'s conduct gave me much uneasiness; It was deceptive &amp; disingenuous, &amp; that at 
+                    <del>the</del>Her age of 35. Her choice had <del>no</del>not one reason of my approbation. The lover could boast of no one object of admiration, his aspect mean, understanding moderate, &amp; his manners, uncouth. on his little landed property he had built a house without money, so that 
+                    2000<hi rend="superscript">£</hi> of her fortune was obliged to be advanced for the redemption: but for her future maintenance we have secured sufficient of her fortune.</p>
+                <p>
+                    I thank you for the prints:<note type="editorial">This refers to 'the prints of <rs type="art" ref="ar0352">Drake</rs> and the other <rs type="art" ref="ar0353">english Admiral</rs> you wanted', sent by Bull according to <ref target="1215.xml">1215</ref>.</note> &amp; am sorry for the mistake about 
+                    my drawings.<note type="editorial">Bull's marginal note to this letter may suggest that Pennant refers here to the <rs type="art" ref="ar0450">eight prints of the Bay of Fundy</rs> mentioned in <ref target="1212.xml">1212</ref> and <ref target="1213.xml">1213</ref>.</note> Be so good as to send them to <persName ref="pe2024">M<hi rend="superscript">r</hi> White</persName> to wait my directions. I wish to make a cancel in my favorite work<note type="editorial">To 'make a cancel' means here 'The suppression and reprinting of a page or leaf'. <hi rend="italic">OED</hi>. Since the prints mentioned were to be returned to White for selling, it seems reasonable to assume that the cancels in question related to one of the eight of Pennant's works printed by his house.</note>
+                    &amp; will allot what <persName ref="pe2024">white</persName> can get for them for that purpose &amp; will send you the sheet.</p>
+                <p>
+                    I thank you much for all y<hi rend="superscript">r</hi> intelligence <del>I</del>&amp; do still hope that the french will refine too much &amp; at length irritate the dastard monarchs into proper spirit. This is rather a low day with me. accept my sincere prayer for <persName ref="pe0331">miss Bull</persName>'s &amp; your improvement in health.</p>
+                <closer>
+                    <salute>Adieu, Dear Sir,
+                    <lb/>Y<hi rend="superscript">r</hi> ever obliged &amp;
+                    <lb/>affect. friend</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>I paid <persName ref="pe0324">Ingleby</persName> the 10<hi rend="superscript">£</hi>. please to repay it into the hands of <persName ref="pe0329">Mess Gosling &amp; Sharpe</persName>.</p>
+                    <p>
+                        So strong is my curiosity that I open my letter to ask when you have <hi rend="underline">ocasion</hi> to write again the story of the Capt<hi rend="superscript">n</hi>
+                        of the man of war who was hanged in his uniform, his crime, name &amp;c &amp;c<note type="editorial">Bull may have answered this request 
+                            in a letter of 22 January 1798, which he believed went amiss. See <ref target="1218.xml">1218</ref>. The news which interests Pennant was 
+                            relayed in several papers during January 1798. See the <hi rend="italic">Hereford Journal</hi>, 10 January 1798, which reports how 'An Admiral 
+                            on the Jamaica station, in consequence of the decision of a Court Martial upon a Captain of a sloop of war, which was that of death, ordered 
+                            him to be hung up at the yard arm; which sentence was accordingly executed; and, by the Admiral's direction, the Captain was dressed in his 
+                            full uniform'. The report concludes by noting that 'We forbear to mention further particulars', hence, presumably, Pennant's curiosity.</note></p>
+                </postscript>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">A JA 22 98</stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull Esq<hi rend="superscript">r</hi></persName> | <placeName ref="pl0759">Stratton street</placeName> <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

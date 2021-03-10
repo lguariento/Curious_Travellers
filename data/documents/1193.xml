@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1193">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 128</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1797-05-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline>May 26<hi rend="superscript">th</hi> 1797</dateline></opener>
+                <p>I am now on a ramble in search of health &amp; am now at the hospitable mansion of <placeName ref="pl1290">Bevere</placeName> the mansion of our friend 
+                    <persName ref="pe0416">Nash</persName> who presents to you every good wish. I find benefit already by the good air: &amp; chearful converse of the family. My Asthma is 
+                    quitting me: but let me confess a swelling in my left leg: for that I instantly applied to the worthy <persName ref="pe1780">old æsculapius of Worcester</persName>. 
+                    his medicine already seems to take effect: the famed one of the Fox-glove which makes even the dire hydrops sink before.<note type="editorial">The practitioner to whom Pennant refers here, jokingly linking him with Aesculapius, the god of healing in ancient Greek religion and mythology, is unidentified. The Shropshire-born physician, William Withering (1741–99), was alerted to the benefits of using foxglove, <hi rend="italic">Digitalis purpurea</hi>, in the treatment of 'hydrops' or dropsy in 1775, a view confirmed by his friend and fellow physician John Ash the following year. <hi rend="italic">ODNB</hi> s.n. William Withering.</note>
+                    I am happy in wanting fears of disorders. I doubt not but I shall do well: but am not foolish or sanguine enough to think that in the 71<hi rend="superscript">th</hi>
+                    year, I must feel an abatement of good health. the best I can expect is the gentle, the gentle decay!</p>
+                <p>
+                    From hence I cross to <placeName ref="pl1017">Lichfield</placeName> to a good brother in law <add place="above">the <persName ref="pe0390">Rev<hi rend="superscript">d</hi> Doctor Falconer</persName>,</add>
+                    &amp; stay there a week from Saturday next <add place="above">i.e. to morrow</add>. If have leisure I shall be glad to hear there of <sic>our</sic> welfare 
+                    &amp; that of <persName ref="pe0331">miss Bull</persName> &amp; also of the receit of the <bibl type="authorial"><title ref="bi0034">Whiteford &amp; Holywell</title></bibl> from <persName ref="pe0324">John Ingleby</persName>.
+                    He certainly is not a <persName ref="pe0014">moses Griffith</persName>, but being an honest man &amp; object of charity, I hope you may endure his labors. 
+                    <persName ref="pe0379">Chiswel</persName>'s end was a heavy loss to him. Should you wish for any drawings on uniform q<hi rend="superscript">to</hi> leaves I could furnish him with materials.</p>
+                <p>
+                    The times now I own look inauspicious but I hope many of the reports are the result of the pannics of the times</p>
+                <p>
+                    ______ falsis terroribus<note type="editorial">'unreal terrors, false alarms'. For the lines from Horace quoted here, see Jon R. Stone, <hi rend="italic">The Routledge Dictionary of Latin Quotations</hi>, p. 264.</note>
+                    implant. may <placeName ref="pl0889">Ireland</placeName> prove a bug bear: but I fear it. my countrymen are said to have drawn blood.<note type="editorial">This is probably a reference to the <sic>Antient</sic> British Fencibles, a regiment raised by Sir Watkin Williams Wynn, fifth baronet, in 1794 and disbanded in 1800. It became notorious for the part it played in the suppression of the Irish Rebellion in 1798, where it was involved in the battle of Arklow on 9 June. See Löffler, <hi rend="italic">Welsh Responses to the French Revolution</hi>, p. 171.</note>
+                    I have twice within these 10 days dined in <placeName ref="pl0731">wales</placeName> with their <persName ref="pe0941">commander</persName>
+                    who happened to be in this side the water. but he knew nothing of the affair. <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName> join with me in prayers for the health 
+                    &amp; safty of you &amp; y<hi rend="superscript">rs</hi>.</p>
+                <closer>
+                    <salute>Adieu Dear Sir
+                        <lb/>Y<hi rend="superscript">r</hi> obliged &amp; ever affect. friend</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>I shall be at <placeName ref="pl0001">Downing</placeName> June 6<hi rend="superscript">th</hi>.</p>
+                </postscript>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">A MA 27 9<gap unit="letters" quantity="1" reason="illegible"/></stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi> | <placeName ref="pl0759">Stratton Street</placeName>: <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName>.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

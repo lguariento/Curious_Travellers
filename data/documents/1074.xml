@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1074">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><title>Richard Bull to Thomas Pennant</title></title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>20/1</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date>[?27 April 1787]<note type="editorial">This letter clearly responds to Pennant's note of 26 April 1787, which asks for an audience with Bull on Sunday. If this is the following Sunday, the meeting would have taken place on 29 April.</note></date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir.</salute> <dateline>friday, just come home from | a visit, some miles off.</dateline></opener>
+                <p>When I tell you that I have met with an uncut Copy of <bibl type="editorial"><title ref="bi0290">Worseley's Isle of Wight</title></bibl>,
+                    which I prefer to a brand one, and that I desire you would have the goodness to accept the one I send herewith, I 
+                    beg you would not understand it, as if I meant it as the smallest compensation for your bounty to me this winter. – no part of 
+                    your life can be uninteresting to me, who have been so many years in the habits of receiving <add place="above">so</add> 
+                    much amusement and instruction from your labors, and from your Intelligent mind. – pray send me word who you found, to copy the
+                    little work so nicely, that I may pay him for the same, as I understood, It was agreed I should do.</p>
+                <p>I can't find where <persName ref="pe0357">Queen Elizabeth</persName>'s speech you mention is printed, tho’ I recollect to have – 
+                    seen – it:<note type="editorial">See <ref target="1059.xml">1059</ref>.</note> the only <hi rend="underline">By G-d</hi> of hers, in my possession, I send you, desiring to have it again because it 
+                    belongs to my noble authors.<note type="editorial">This reference by Bull to his 'authors' may allude to the ancient family of Goldsborough in Yorkshire, to which he was related on his mother's side. Pinkerton, 'Richard Bull of Ongar, Essex', 41.</note>
+                    I have look’d over 500 views of <persName ref="pe0402">Hollar</persName>, in search of <placeName ref="pl1380">Dortchester</placeName>,
+                    <placeName ref="pl1379">Queenborough</placeName> &amp; <rs type="art" ref="ar1046">Cowes</rs>, but hitherto in vain. – I always 
+                    imagin’d them common, till I wanted them; but thus it ever is. – <persName ref="pe0886">M<hi rend="superscript">r</hi>. Poulter</persName>
+                    desir’d me to give you the enclos’d, and hopes for your good report of the Scheme, which will do the project a world of service.<note type="editorial">The enclosure has not been preserved with the manuscript letter. The 'scheme' in question may have been the renewed efforts for gaining subscribers to the Odiham Society of Agriculture and Industry, discussed in a lengthy letter from J. Huntingford to the printer of the <hi rend="italic">Reading Mercury</hi>, 16 July 1787. Rev. Mr. Poulter of Crawley in the neighbouring county of West Sussex, is listed among the subscribers. Pennant had already been involved: a letter from him was among correspondence 'on practical Agriculture and other subjects ... read, and referred to the Committee of Correspondence' at a General Meeting of the society on 22 February 1786. See <hi rend="italic">Reading Mercury</hi>, 13 March 1786.</note></p>
+                <p>remember Sunday, as early as you please, after Eleven, and as late as you please before half an <del><gap unit="letters" quantity="1" reason="illegible"/></del>hour past two.</p>
+                <closer>
+                    <salute>I am Dear Sir, Sincerely yours.</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

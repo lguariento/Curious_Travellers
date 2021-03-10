@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1378">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Lloyd, Caerwys, to [Thomas Pennant], <hi rend="italic">c</hi>.1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>NLW 2594E, Merionethshire folder</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent"><persName ref="pe0333">John Lloyd</persName>
+                    <date>c.1777</date>
+                    <placeName ref=""/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">[Thomas Pennant]</persName>
+                    <placeName ref=""/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1379"/>
+                    <ref type="prev" target="ct1377"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline/><salute>D<hi rend="superscript">r</hi> Sir</salute></opener>
+                
+                <p>All that this Volume contains relative to <persName ref="pe0495">Owen Glyndwr</persName>, is a kind of a Welsh 
+                    Inden<del>d</del>ture (as it is call<hi rend="superscript">d</hi>) or rather a Compact enter,<hi rend="superscript">d</hi> 
+                    into voluntarily by several districts therein mentioned in order to make some <add place="above">kind</add> of reparation 
+                    to individuals, for damages suffer,<hi rend="superscript">d</hi> before &amp; after the war. – It seems to consist of two parts,
+                    but the language is so very bad that in many parts it is not intelligible. – I will endeavour to extract the most material &amp;
+                    intelligible articles. The first part begins thus. ––—– “This Indenture was made by <placeName ref="pl1607">Llan Ondras</placeName>, 
+                    <placeName ref="pl1601">Gwarth-Rymmon</placeName>, <placeName ref="pl2443">Mostyn</placeName> &amp; the three Commots of 
+                    <placeName ref="pl1602">Deuddwr</placeName>, near <placeName ref="pl1606">Pont Gammarch</placeName>, six years after
+                    <persName ref="pe0495">Owen</persName>’s wars” The purport of which is: “That every one had a Right to his demands from the other 
+                    before &amp; after the war, but not during the war; &amp; that every one should have his lands restored without lawsuit[<del>...</del>];
+                    whoever refused, not only forfeited the Benefit of the Compact, but the goods so retained &amp;c should be deemed as Thefts, &amp;
+                    he deprived from the power of selling them, &amp; if his Lord sold them, he was fined ten pounds, &amp; the goods or their value 
+                    to the owners. If the refractory person was Hanged or died a natural death, the <sic>clain</sic> lay good against his wife, 
+                    Heirs [<del>...</del>]or Executors &amp;c. But if she or they denied the demand, the plaintiff must procure his Compurgators, viz Six 
+                    persons to swear with him to the right of his claim &amp;c <add place="above">The defendant had a right to object to one of the Six, 
+                        and another must be provided &amp;c</add>” By the Fragment left of the next clause it seems that the dead [<del>...</del>]Defendant 
+                    had a right to his Compurgators. ––––– After this there follow several laws for the quieting &amp; good government of the Country 
+                    in general, such as those relative to waives &amp; Estrays, vagrants &amp;c &amp; those relative to <add place="above">Bail &amp;</add>
+                    the recovery of Debts, of manslaughter &amp;c of Thefts, the Duty of officers &amp;c. – This Indenture or rather Code concludes with 
+                    the Valuation of the Several goods &amp; chattels for which Satisfaction was to be made. – A Horse <add place="above">or mare</add>
+                    upon the oath of the Owner &amp; two neighbours might be valued at 0<hi rend="superscript">£</hi>: 10<hi rend="superscript">S</hi>- 
+                    0<hi rend="superscript">D</hi>. A foal at 20 pence an ox at a mark, a Cow at twelve 
+                    <add place="above">ten</add> Shillings &amp;c &amp;c The Hire of the Ox and the milk of the Cow are also valued &amp;c – An ewe at 
+                    16<hi rend="superscript">D</hi>,
+                    her wool at at 4<hi rend="superscript">D</hi>, her milk at 2<hi rend="superscript">d</hi>, her Lamb at 
+                    8<hi rend="superscript">D</hi>. &amp;c- [<del>...</del>]&amp;c
+                </p> 
+                <p>A two handed sword upon the oath of the Owner might be valued at 10<hi rend="superscript">S</hi> a one Handed Sword at 
+                    6<hi rend="superscript">S</hi>: 8<hi rend="superscript">D</hi>, a steel Buckler, 2<hi rend="superscript">S</hi>: 
+                    8<hi rend="superscript">D</hi>: A Bow 16<hi rend="superscript">D</hi> an arrow 6<hi rend="superscript">d</hi></p>
+                <p>It is further ordained, that for all goods, upon which no set value is fixed, such as Cloth, Fustian, <sic>Cloathes</sic>, 
+                    Brass, Copper, Flesh, che<del>s</del>ese, meal &amp;c their value is to be <sic>assertained</sic> by the Oath of the Owner</p>
+                <p>It may be observed that this seems to be a good Code of Laws voluntarily enacted by the men <add place="above">of</add> the above
+                    districts, at that Critical Time; They certainly wanted the Sa[<del>...</del>]nction of Legal authority, &amp; there is no penalty
+                    annexed for the Breach of them, But the Forfeiting of the Benefit of the Compact, excepting in one case, where the delinquent is
+                    to be fettered with Iron &amp; cast into Prison, and if his keeper shews him any Favour, he is to make good his delinquency &amp;
+                    both loose the Benefit of the Compact. This relates to some Judgements confessed before the making of this Compact, &amp; as the
+                    passage stands in this manuscript, is totally unintelligible. – I must further observe that <add place="above">this</add> is a 
+                    Transcript from <add place="above">some</add> ancient M:S: that was not entire; which is the reason of <sic>it’s</sic> being 
+                    s[<del>...</del>]o imperfect. – Most of the Districts mentioned, I believe, are in <placeName ref="pl1242">Montgomeryshire</placeName>
+                    . . . . . . . . . . . . . . . . – ––––––</p>
+                <p>The [<del>...</del>]other Part is a general Compact entered into by the Several parts of the three Principalities. It sets forth to the
+                    Following Purport. “Here is a memorandum of the first Compact made, after the Time of <persName ref="pe0495">Owen ap Gryffydd</persName>;
+                    Between <placeName ref="pl1222">Gwyned.</placeName> (<placeName ref="pl1221">N: wales</placeName>) and <placeName ref="pl1224">Powys</placeName>,
+                    at <placeName ref="pl1597">Bwlch Oerddyrws</placeName>; Between <placeName ref="pl1245">Southwales</placeName> &amp;
+                    <placeName ref="pl1224">Powys</placeName>, at <placeName ref="pl1598">Eisteddfa Guric</placeName>; Between <placeName ref="pl1224">Powys</placeName>, 
+                        <placeName ref="pl1599">Elvel</placeName>, &amp; <placeName ref="pl1600">Buell</placeName>, <placeName ref="pl1601">Gwarth-rymmon</placeName>
+                        &amp; the Commot of <placeName ref="pl1602">Deuddwr</placeName>, at <placeName ref="pl1603">Aber Diwlas</placeName>; Between 
+                    <placeName ref="pl1224">Powys</placeName> &amp; <placeName ref="pl1604">Melionydd</placeName>, at a place call,<hi rend="superscript">d</hi> 
+                    <placeName ref="pl1605">Rhuddwr</placeName>.” 
+                        This likewise allows the right of of all demands before &amp; after the wars of <placeName ref="pe0495">Owen ap Gryff: (ałs Glyndwr)</placeName>
+                        excepting, during the war, and proceeds to a Regular Method of Recovering them &amp;c Here in some cases imprisonment &amp; the Stocks take place. 
+                        Both in this and the preceding, Officers are punish,<hi rend="superscript">d</hi> for neglect of Duty &amp;c Here like 
+                        <add place="above">wise</add> 
+                        the Highest value that the Owner of any cattle &amp;c was allow, <hi rend="superscript">d</hi> to Swear to is fix<hi rend="superscript">d</hi>; 
+                        But differs <add place="above">very</add> <del>a</del> little from the former. <del>the prices being generally Higher in that, 
+                            but the difference is very Trifling</del> &amp;c All these causes &amp;c were to be tried &amp; Settled in the Courts of the Lords of 
+                        the Several districts.. – </p>
+                <p>As Justice &amp; <add place="above">the</add> good Regulation of the Country seems to be the only Object of these Compacts, I cant help commending our
+                    ancestors highly upon that score, especially if they adhered to the observation of them. They seem to be the associations of all the great men of 
+                    the Principality, in order to enforce the observation of Justice, by their Own weight &amp; power, without any other Legal Sanction, &amp; to have
+                    arose from those merciless laws enacted against them by <persName ref="pe0667">Henry 4<hi rend="superscript">th</hi></persName>, where Justice itself
+                    (as <bibl type="authorial"><title ref="bi0592"/>Powel</bibl> observes) was <sic>meer</sic> injury &amp; cruelty. – I suppose they were 
+                    subsequent to those laws, as the first of these Compacts is mentioned to be made Six years after <persName ref="pe0495">Owen</persName>’s 
+                    wars; The last as it comprehends the whole <placeName ref="pl0731">Principality</placeName>, probably arose, from the observation of the utility of
+                    the Former in these few districts which entered into it. – – You may probably think it worth your while to dress up a Handsome paragraph upon 
+                    this Subject, which will do very well to be inserted after the close of <persName ref="pe0495">Owen</persName>’s 
+                    life &amp;c<note type="editorial">Pennant disregarded John Lloyd's advice on the location of this material, including it instead in 
+                        <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), II, pp. 85–6, following a section on Bwlch yr Oerddrws, which he says ‘is noted for 
+                        being one of the three places, in which were assembled, six years after the wars of <hi rend="italic">Glyndwr</hi>, all the great men of certain 
+                        districts, in order to enforce the observation of justice by their own weight, without any other legal sanction’.</note></p>
+                <closer><salute/>
+                    <signed/>
+                    <dateline/></closer>
+            </div>
+            <div>
+            </div>
+        </body>
+    </text>
+</TEI>

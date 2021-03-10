@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0189">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, instructions for sending a box and
+                    magazines</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>126</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p>The following list is written on the back of the letter in
+                                pencil:</p>
+                            <p><list>
+                                    <item><bibl type="authorial"><title ref="bi0164"><unclear reason="illegible">Iornandis</unclear> 4<hi rend="superscript">to.</hi></title></bibl></item>
+                                    <item><bibl type="authorial"><title ref="bi0165">Innes Critical
+                                                Essay 2 Vol.</title></bibl></item>
+                                <item><persName ref="pe0558"><del rend="overstrike">M<hi rend="superscript">c</hi>Pherson</del></persName>
+                                        <persName ref="pe1011">Toland</persName></item>
+                                    <item><bibl type="authorial"><title ref="bi0134"><unclear reason="illegible">Boethis</unclear>
+                                                Historia</title></bibl></item>
+                                    <item>Matter by <persName ref="pe1009">D<hi rend="superscript">r.</hi> Percy</persName></item>
+                                    <item><persName ref="pe1010">Verstigan</persName></item>
+                                <item><bibl type="authorial"><title ref="bi0170">Natural History of Ireland</title></bibl></item>
+                                                                    </list></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-06-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0190"/>
+                    <ref type="prev" target="ct0188"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>The box may best come from <placeName ref="pl0603">Greenock</placeName> to
+                        <placeName ref="pl0002">Chester</placeName> by y<hi rend="superscript">r</hi> friend who is so kind as to undertake the charge. Let it be left at
+                        <persName ref="pe0173">M<hi rend="superscript">r</hi> Monks
+                        Bookseller</persName> in that city.</p>
+                <p>Pray send me no more <bibl type="authorial"><title ref="bi0064">magazines</title></bibl> by post. for it gives my friend <persName ref="pe0015">Sir Roger</persName> trouble to no purpose. if anything very
+                    curious occurs in a single sheet, It may be worth sending.</p>
+                <closer><salute>I am Dr Sir <lb/>y<hi rend="superscript">r</hi> mos<hi rend="superscript">t</hi> obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName>.</signed>
+
+                <dateline>June 9<hi rend="superscript">th.</hi> 1775.</dateline></closer>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

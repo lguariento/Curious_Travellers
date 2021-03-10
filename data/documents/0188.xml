@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0188">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, instructing him on sending a box of
+                    specimens</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>125</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-06-02"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0189"/>
+                    <ref type="prev" target="ct0187"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+
+                <p>many thanks for y<hi rend="superscript">r</hi> favor. <persName ref="pe0104">M<hi rend="superscript">r</hi> Gough</persName> has sent my parcels to
+                        <persName ref="pe0026">M<hi rend="superscript">r</hi> White</persName>. But
+                    let me entreat you to send the Box of minerals shells &amp;c independent of M<hi rend="superscript">r</hi> anybody that they may come to me free &amp;
+                    un-rummaged. Pray send them by sea to <persName ref="pe0026">M<hi rend="superscript">r</hi> White</persName>: &amp; as shells are brittle
+                    I beg care may be taken in package; &amp; that all may be packed very tight.
+                    Thanks for all other kind intentions.</p>
+                <closer><salute>I am Dear Sir <lb/>much y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">T. Pennant</persName></signed>
+                <dateline><placeName ref="pl0001">Downing</placeName> June 2<hi rend="superscript">d.</hi> 1775.</dateline></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

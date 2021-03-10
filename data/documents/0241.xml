@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0241">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton: assistance and advice for George Low</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>210-211</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1778-04-24"/>
+                    <placeName ref="pl0699">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0242"/>
+                    <ref type="prev" target="ct0240"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+
+                <p>Your kind Letter reached me here safely. I thank <persName ref="pe0192">M<hi rend="superscript">r</hi> Elliot</persName> for his kind present which I
+                    suppose (owing to the times is not yet arrived. I have got one of <persName ref="pe0156">M<hi rend="superscript">r</hi> Lows</persName> best <rs ref="ar0204">drawings</rs> new done
+                    by a skilful hand &amp; given it to an engraver &amp; will send him proofs as
+                    soon as finished. I hope in time to get him information about the brass things.
+                    If he goes over the same ground, he must incorporate his new information with
+                    the old. I sent his <bibl type="authorial"><title ref="bi0422">nat.
+                        history</title></bibl> to <persName ref="pe0043">M<hi rend="superscript">r</hi>
+                            Cadel</persName>; &amp; hope <persName ref="pe0104">M<hi rend="superscript">r</hi>
+                        Gough</persName> has taken like care of the <bibl type="authorial"><title ref="bi0058">journal</title></bibl>. If you write again, to me here it must be
+                    by return of post, for I quit town very soon. I had only a glimpse of <persName ref="pe0104">M<hi rend="superscript">r</hi> Gough</persName>, for by unlucky
+                    coincidence of engagements we cannot see each other.</p>
+                <closer><salute>I remain D<hi rend="superscript">r</hi> Sir <lb/>faithfully y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+
+                <dateline><placeName ref="pl0699">London</placeName> April 24<hi rend="superscript">th</hi> 1778.</dateline></closer>
+
+
+                <postscript>
+                    <p>I hope you got my <bibl type="authorial"><title ref="bi0012">Welsh
+                            Tour</title></bibl>.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> G. Paton</addrLine>
+                        <addrLine>Custom house</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1185">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>23/1</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">Endorsement in Thomas Pennant's hand</hi>:</p>
+                            <p>answ<hi rend="superscript">d</hi> Sept<hi rend="superscript">r</hi> 14<hi rend="superscript">th</hi></p>
+                            
+                        </additions>
+                    </physDesc>
+                    <additional><p><hi rend="italic">Condition</hi>: slight damage to paper near end of letter</p></additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1795-08-30"/>
+                    <placeName ref="pl1013">North Court</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="it">Italian</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl1013">NorthCourt</placeName>. <placeName ref="pl1020">Isle of Wight</placeName>. August 30. 1795</dateline></opener>
+                <p>I know not how it happens, but you always find somebody to frank your letters to me, but a black Swan or a White Lion, is not a greater rarity, than a member of Parliament on our side the water, and upon that account, I have been unwilling to trouble you with a letter merely to say how d'ye do, tho I should be sorry indeed to lose such a pleasant correspondent as you are, from a motive perhaps, of false delicacy. I hope, and my 
+                    daughter's<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note> hope, that you have perfectly recover'd from every bad effect of that unfortunate slip you made in the Spring, and that your knee has regain'd its lost Strength.<note>For Pennant's reference to this accident, see <ref target="1184.xml">1184</ref>.</note> I left 
+                    <placeName ref="pl0699">London</placeName> towards the end of May, very lame with a broken shin, occasion'd by an awkward fall over a packing box, and after a confinement of more than six weeks, it became only a secondary complaint, for a violent humor spread it self all over the lower part of my face and made me unfit to associate even with my own family; It was perhaps an effort of nature, to prevent some thing worse, for I was quite otherwise than well, when it came upon me.</p>
+                <p>
+                    It gave me pleasure to hear that your usual Ardor for literary Amusements still continues, and I hope you will <add place="above">give</add> it proper encouragement, for your own happiness, and for the pleasure, and the instruction of mankind. I have begun to buy prints again, and am making up more Books, not quite in my dotage I trust, tho' in the 74<hi rend="superscript">th</hi>
+                    year of my Reign; And if your Enfant gaté<note type="editorial">'spoilt child'. Bull presumably refers to Moses Griffith.</note>
+                    would furnish me with a few more drawings I would finish the <bibl type="authorial"><title ref="bi0023">Arctic Zoology</title></bibl> as it should be; but <persName ref="pe0014">M<hi rend="superscript">r</hi>. Griffyth</persName>
+                    (no longer <persName ref="pe0014">Moses</persName>) has married a <persName ref="pe0344">wife</persName> and I understand has not always leisure <del>even</del> to do business even for his great benefactor, much less for your friends. perhaps his 
+                    <persName ref="pe0344">Cara Sposa</persName><note type="editorial">'beloved wife'.</note> thinks <hi rend="underline">her</hi> <hi rend="underline">business</hi> is sufficient for all his leisure, but that is 
+                    kicking against the Pricks and He should admonish her of it. You had once the goodness to say you would procure somebody to make me a copy of your <bibl type="authorial"><title ref="bi0475">outline of the World</title></bibl>,
+                    as far as it respected the little <placeName ref="pl1020">Isle of wight</placeName>,<note type="editorial">See 'Outlines of the Globe', <bibl type="authorial"><title ref="bi0657">vol. XXI</title></bibl>.</note> about which I take much Interest, and <gap unit="letters" quantity="several" reason="illegible"/> in common with all others,
+                    <gap unit="letters" quantity="several" reason="illegible"/>fied with the catch penny accounts which have appear'd this year and the last, upon our <placeName ref="pl1020">Island</placeName> subject.</p>
+                <p>
+                    We have found full employment here, for a score of workmen for near three years, and, like all other Simpletons, have expended three times the sum we proposed to have laid out, but the place is a new Creation, both within and without, and if it is not become too large for such a <sic>mènage</sic> as mine, the poor laborers in my Vinyard are heartily welcome to the Wages they have earned. Having seen what it was, I wish for an opportunity of shewing you what <hi rend="underline">it i</hi>s.</p>
+                <p>
+                    What a disastrous Crusade the poor Emigrants made upon the Coasts of <placeName ref="pl0925">France</placeName>! And I fear it will not be long, before we shall have a second Edition of the same tragedy with English notes, as A fleet of three, three deckers, two seventy fours, and four frigates, with above an hundred transports full of English and french troops, are 
+                    <hi rend="underline">said</hi> to have sail'd upon a secret Expedition against some part of <placeName ref="pl2544">Britany</placeName>.<note type="editorial">The expedition to the island of Yeu (l'île d'Yeu), 26 August – 21 November 1795.</note>
+                    <persName ref="pe0974">Compte D'Artois</persName> went in the Queen Charlotte, and 'tis supposed, they have receivd some important informations, from the Royalists, since the death of the <persName ref="pe1769">Boy king</persName>.</p>
+                <p>
+                    My daughters<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note> desire their best good wishes to all of the 
+                    house of Pennant, 
+                    and if you have thought my silence has arisen from indolence, or from want of attention, unthink it again <supplied>as</supplied> fast as you can, I beseech you,</p>
+                <closer>
+                    <salute>and believe me, as ever, sincerely yours.</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">C AU 31 95</stamp>
+                    <stamp type="handstamp"><gap unit="letters" quantity="1" reason="illegible"/> <placeName ref="pl1020">ISL<supplied>E</supplied> OF W<supplied>IGH</supplied>T</placeName></stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant</persName> Esq<hi rend="superscript">re</hi>: / <placeName ref="pl0001">Downing</placeName> / <hi rend="underline"><placeName ref="pl0702">Flintshire</placeName></hi></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

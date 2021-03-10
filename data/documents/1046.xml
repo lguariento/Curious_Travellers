@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1046">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 49</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date>[?June 1785]<note type="editorial">The date is suggested on the basis of references to the continental travels of Pennant's son, David, and on the contrasting outlook on the completion of Bull's copy of <hi rend="italic">The journey from Chester to London</hi> by 26 July [?1785] (see <ref target="1045.xml">1045</ref>).</note></date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Many thanks for the present I am so undeserving of. Be so good as to order it to be sent instantly to 
+                    <persName ref="pe0026">M<hi rend="superscript">r</hi> Whites Bookseller <placeName ref="pl1012">Fleetstreet</placeName></persName>.
+                    Your copy of the <bibl type="authorial"><title ref="bi0032">Journey to London</title></bibl> shall be ready by Christmas
+                    perhaps before, If I can accomplish my own  sooner. I thank you for the hint to <persName ref="pe0065">my Son</persName>,
+                    but I really think that paternal affection does not blind me when I say that he may be trusted any where. Pray do you know of any friend who has acquaintance at 
+                    <placeName ref="pl1274">Rheims</placeName> or <placeName ref="pl1275">Dijon</placeName> he means to pass a few days at each place:
+                    &amp; a recomme<del>d</del>ndation might be of use. You who know every body may be kind enough to procure some. I have this moment wrote to the 
+                    <persName ref="pe0724">Dean of <placeName ref="pl1276">Glo<add place="above">u</add>ster</placeName></persName> <del>for</del>
+                    to procure a copy of <bibl type="authorial"><title ref="bi0597">instruction for travellers</title></bibl> which I have 
+                    <hi rend="underline">heard</hi> he has written. &amp; if true to beg one. none more capable of giving solid
+                    ad<del><gap unit="letters" quantity="2" reason="illegible"/></del>vice. Pray to whom do you refer in the counsil respecting expence.?</p>
+                <p>My best complim<hi rend="superscript">ts</hi> attend Miss Bulls<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>.
+                    I hope all your fears respecting the health of one of the Ladies is over. Excuse <del>f</del>me for troubling you with presenting 
+                    <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName>'s &amp; my Complim<hi rend="superscript">ts</hi> to
+                    <persName ref="pe0725">Lady Mary Duncan</persName>: &amp; let her know that we expect that in another Tour she will not forget her Welsh relations.</p>
+                <closer>
+                    <salute>I am Dear Sir
+                        <lb/>most truely y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName>.</signed>
+                    <dateline><placeName ref=""/></dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

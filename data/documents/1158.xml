@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1158">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 109</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date>2[8] October 1792</date>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> oct<hi rend="superscript">r</hi> 2<del><gap unit="letters" quantity="1" reason="illegible"/></del> 1792.</dateline></opener>
+                <p>
+                    The alarming color of my wax and paper is caused by the death of <persName ref="pe1698">Lady Mostyn</persName> a very
+                    heavy loss to the young part of the family: But <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName>
+                    &amp; I have also felt most severely for our <persName ref="pe0235">little girl</persName> who sufferd a severe illness: but thank heaven she is now got quite well; 
+                    &amp; we are told that she will feel the good effects even of her disorder the rest of her days.</p>
+                <p>
+                    I am sorry that <persName ref="pe0014">moses</persName> should this time disappoint you: but he thinks that he has not done work sufficient to 
+                    send to you next month: but assures me that you shall have the whole in February. He has been diverted both from your work &amp;
+                    mine by the importunity of some of the <persName ref="pe0845">mostyn family</persName> &amp; its allies to copy some miniatures 
+                    of their sweet faces which he does most admirably.<note type="editorial">The National Library of Wales lists in its online catalogue six miniatures by Moses Griffith. They are described as W. Edwards Esq, n.d. [116x85mm]; Bel Lloyd Jr, n.d. [97x70mm]; ?TP, n.d. [110x74mm]; Portrait of a child, n.d. [73x 53mm]; Doctr Thorseby, 5 April 1796 [113x 86mm]; and Rev R. Williams, Fron, n.d. [95x 73mm].</note></p>
+                <p>
+                    I thank you for the hint about <persName ref="pe0437">M<hi rend="superscript">r</hi> Windham</persName>’s <rs type="art" ref="ar0337">drawing of Peking</rs>.
+                    It is above my views: but may properly attend the magnificent account that will follow the return of our embassador. 
+                    <persName ref="pe0411">Ld Macartney</persName> &amp; I exchanged letters. I was impertinent enough to give him a few hints which he received candidly.</p>
+                <p>
+                    Congratulate me on having only two or three days labor to complete my <bibl type="authorial"><title ref="bi0475">magnum opus</title></bibl>
+                    of (now) fourteen folio M.S. I could not resist making the complete <bibl type="authorial"><title ref="bi0652">Tour of new Holl<del>&amp;</del>and</title></bibl>,
+                    &amp; visiting our <hi rend="underline">unfortunate brave</hi> in <placeName ref="pl2517">Port Jackson</placeName>. No
+                    Bull’s head tempts the happy passenger in: but all is squalor, poverty &amp; starvation. The more I read &amp; the more I see of the wild plan, the more I admire its extravagance.</p>
+                <p>
+                    I join most heartily with you in your opinion of the Jacobins. The french now run amuck as much as an Indian furious with 
+                    bang;<note type="editorial">'[B]hang, bang' is the 'native name of the Indian variety of the common Hemp which in warm countries develops narcotic and intoxicating properties'. <hi rend="italic">OED</hi>.</note>
+                    &amp; especially after the retreat of t<del><gap unit="letters" quantity="2" reason="illegible"/></del>he Germans <del>after</del>
+                    <add place="above">from</add> their senseless inroad.<note type="editorial">The advance of an army made up of Prussians, Hessians and French émigrés was halted by the French (led by Charles-François du Périer Dumouriez and François-Christophe Kellerman) at the battle of Valmy in the northern French department of the Marne, on 20 September 1792. Jones, <hi rend="italic">Longman Companion to the French Revolution</hi>, p. 162.</note>
+                    The True policy w<hi rend="superscript">d</hi> have been to have left the<del>m</del> french to themselves: they must have fell to pieces in a little time: but now intoxicated with the dispensation of heaven, 
+                    (which they will misinterpret) they for a time will become the pest of Europe. 
+                    You see people perhaps just arrived from <placeName ref="pl1023">Paris</placeName>: Pray tell me the real present state of that capital: does any thing commercial go on; or does the interest of the national debt continue 
+                    to be paid.<note type="editorial">On the difficulties under which the French economy laboured during 1791, due to a fall in the value of the livre, see Michel Vovelle, <hi rend="italic">The fall of the French monarchy 1787–1792</hi>, trans. by Susan Burke (Cambridge, 1984), p. 163.</note>
+                    If the last is done, their resources cannot have faild <del><gap unit="letters" quantity="2" reason="illegible"/></del> them</p>
+                <p>
+                    Long may old <placeName ref="pl0775">england</placeName> remain as it is. neither rich nor poor can wish for better days. ––—</p>
+                <closer>
+                    <salute>Best wishes attend you &amp; fair daughters.<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note> Adieu
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">Th. Pennant</persName>.</signed>
+                </closer>
+                <postscript>
+                    <p>I fear to hear my respected friend &amp; y<hi rend="superscript">r</hi> fellow collegian <persName ref="pe0226">Paul Panton</persName>
+                        is among the losses of these few months, many of which I deeply deplore.<note type="editorial">Pennant may have been simply expressing a fear, here, 
+                            or had otherwise been misinformed. His friend Paul Panton who, like Bull, was an alumnus of Trinity Hall, Cambridge, did not die until 1797.</note> the lot of age!</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

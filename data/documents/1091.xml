@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1091">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>17</locus></ab>
+                    </msContents>
+                    <additional><p>Condition: there is a slight tear on the seal</p></additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1789-11-17"/>
+                    <placeName ref="pl1013">North Court, Isle of Wight</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir.</salute> <dateline><placeName ref="pl1013">Northcourt</placeName>, <placeName ref="pl1020">Isle of Wight</placeName>. Nov<hi rend="superscript">r</hi>. 17. 1789</dateline></opener>
+                <p>Having little excuse for troubling you till now, and having no member at hand to direct my letters, I have been unwilling to 
+                    <hi rend="underline">burthen</hi> you with my thanks, and to <hi rend="underline">tax</hi> you for your goodness in writing to me. We shall be going to 
+                    <placeName ref="pl0699">London</placeName> shortly, sooner indeed than we wish’d, or intended, for my <persName ref="pe0336">youngest daughters</persName>
+                    health seems to make it necessary. She is very unwell, and we have not a single Physician in the <placeName ref="pl1020">Island</placeName>; the air is so healthy, and patients so
+                    <del>few</del> scarce, that no Doctor can either live, or die among us.</p>
+                <p>It is not my custom to make objections to any bill of <persName ref="pe0014">Moses</persName>'s, more especially as you take
+                    the trouble of letting them pass through your hands to mine. Safe in his integrity, and under your inspection; I have only 
+                    to beg the favor of you to pay the whole demand, as I have no doubt the works deserve it all, and the day after I get to 
+                    <placeName ref="pl0699">town</placeName>, it shall be certainly replac’d at <persName ref="pe0329">your Bankers</persName> in <placeName ref="pl1012">fleetstreet</placeName>,
+                    unless I should: receive fresh instructions, and if you can find any <hi rend="underline">safe</hi>, and <hi rend="underline">satisfactory</hi>
+                    conveyance for the box, I wish to have it sent to me in <placeName ref="pl0759">Stratton Street</placeName>, as early as you 
+                    please after the third of December. – till it arrives I shall sit upon thorns. do you keep in your remembrance the two maps 
+                    belonging to the <bibl type="authorial"><title ref="bi0022">arctic Zoology</title></bibl>,<note type="editorial">A map entitled 'The first Map of M<hi rend="superscript">r</hi>. Pennant's Arctic Zoology' appears in <hi rend="italic">Arctic zoology</hi> (2 vols., 2nd edn., 1792), I. Bull was working on extra-illustrating the first edition at this stage, however.</note> which you had the goodness to say 
+                    you would procure me, <hi rend="underline">upon India paper</hi>, which lies smoother, in 
+                    less compass, and less liable to crack in the folding than common printing paper. and you told me also, that you would direct 
+                    <persName ref="pe0014">Moses</persName> to do me the <rs type="art" ref="ar0156">Lutteral Arms</rs>, with the Baron’s, and 
+                    the Royal Coronet &amp;<hi rend="superscript">c</hi>. &amp;<hi rend="superscript">c</hi>. - I shall like to see your illuminated 
+                    <bibl type="authorial"><title ref="bi0266">French Voyage</title></bibl>, but I do not promise not to rob you of it, if I can do 
+                    it without being sent to <placeName ref="pl1626">Botany bay</placeName>. in respect to hoarding Drawings of <persName ref="pe0014">Moses</persName>,
+                    I am industrious as a pismire
+                <lb/>------ ------- Sicut Formica
+                    <lb/>ore trahit, quodcumq potest atque addit acervus,<note type="editorial">'Thus the ant drags with its mouth whatever it can, and adds to the heap'. Bull quotes from Horace, Satires, I, i, 33: 'Sicut | Parvula, nam exemplo est, magni formica laboris | Ore trahit quodcumque potest atque addit acervo' ('Thus, for example, the little ant of great industry drags with its mouth whatever it can, and adds to the heap').</note> but
+                    <lb/>in respect to my avidity in collecting the hand writings of <persName ref="pe0232">M<hi rend="superscript">r</hi> Pennant</persName>,
+                    this deponent says not, for I really can’t read the whole of the letter I am now answering.</p>
+                <p>As you say nothing to the contrary, I hope and trust, you, and yours, have spent your summer in plesure, and in health. 
+                    – For three months we liv’d in public, and for these last three weeks we have not seen the face of a human Being, except 
+                    our own Domesticks. <persName ref="pe0332">Storer</persName> pass’d ten days here, and all 
+                    <hi rend="underline">politics</hi> <hi rend="underline">being</hi> <hi rend="underline">disallow’d</hi>, was as
+                    p<del>r</del>leasant, and as <sic>intructive</sic>, and as amusing, as you would wish a Guest to be, who was perfectly 
+                    au fait, to make himself so. the <hi rend="underline">notorious</hi> <persName ref="pe0388">M<hi rend="superscript">r</hi> Erskine, and his family</persName>,
+                    spent a fortnight with us, and seem’d as sorry to go, as we to part with them. I don’t know whether you are acquainted with 
+                    <persName ref="pe0382">Lady Clarges</persName>, if you are, you know her to be first of agreeables, &amp; the Queen of hearts,
+                    and we were lucky enough to keep her for six weeks. Upon the whole, if the sun always shin’d, and I could always have young 
+                    people about me, (by the bye, old people recover youth by living with the young, as youth advances quicker to age by associating 
+                    with old folks) I should not care a fig, if I never went to <placeName ref="pl0699">London</placeName> again; where one lives in a 
+                    croud without Society, and where Formality, and distance to every body out of their own set, stand in the place of urbanity, 
+                    and good breeding. We went the day, <del>to</del>after a very heavy gale of wind, to a cottage we ha<supplied>ve on</supplied>
+                    the very edge of the Cliff, expecting a wreck, and we found it: <supplied>a</supplied> french Sloop, 
+                    with seven men came bump ashore, and in two hours was so compleatly beat to pieces, that no two planks were left together. the men were 
+                    miraculously <add place="above">saved</add> by the intrepidity of the Fishermen. almost at the same time, a Smugler 
+                    boat, not much larger than a wherry, came ashore also, with three men, and were sav’d in the same manner, but the boat 
+                    was stav’d in a minute. they told us, they were out a fishing <add place="above">near <placeName ref="pl1627">Guernsey</placeName></add>
+                    and the gale came so sudden, with the tide against them, they could not make any port, but had been all night beating in the 
+                    <placeName ref="pl1628">channel</placeName>, without light, or the least hopes of being sav’d. I ask’d them how they spent their 
+                    time, and whether they went to prayers, they said, not much of <hi rend="underline">that</hi>, for it <hi rend="underline">could</hi>
+                    do them no <hi rend="underline">good</hi>, neither <hi rend="underline">could</hi> it have done you any harm, says I, to which they only 
+                    answer’d, – a little brandy would have been of more service. one of them seem’d that kind of desperado, that <placeName ref="pl1629">Newgate</placeName>
+                    would have bar’d her condemn’d hole against. – don’t, I beseech you, suppose we ride in whirlwinds, and look upon wrecks as our amusement. 
+                    sunt lacrymæ rerum,<note type="editorial">'They are the tears of things'.</note> and we only go to moralize, and assist the distress’d.</p>
+                <closer>
+                    <salute>God keep You, and yours, &amp; believe me, as always, yours sincerely</salute>
+                    <signed><persName ref="pe0313">R<hi rend="superscript">d</hi>. Bull</persName></signed>
+                </closer>
+                <postscript>
+                    <p>P..S. pray desire <persName ref="pe0014">Moses</persName> to cast up the account he sent me, once again, in which there 
+                        seems an error, as I have <add place="above">gone</add> over it several times, and can’t make the sums other than thus. – vid<hi rend="superscript">t</hi>.
+                        <table rows="4" cols="4">
+                            <row role="label">
+                                <cell role="data">his casting up amounts</cell>
+                                <cell role="data"/>
+                                <cell role="data">my casting makes it thus</cell>
+                                <cell role="data"/>
+                            </row>
+                            <row role="data">
+                                <cell role="label">first bill -----</cell>
+                                <cell role="data" style="right_pad">£12.5.6</cell>
+                                <cell role="data">first bill - - - - -</cell>
+                                <cell role="data" style="right_pad">£12.7.6</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">second D<hi rend="superscript">o</hi>. – – – –––––</cell>
+                                <cell role="data" style="right_pad"><hi rend="underline">8.9.0.</hi></cell>
+                                <cell role="data">second D<hi rend="superscript">o</hi>. – – – –</cell>
+                                <cell role="data" style="right_pad"><hi rend="underline">7.9.6</hi></cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label"/>
+                                <cell role="data" style="right_pad"><hi rend="underline">£12 14. 6</hi></cell>
+                                <cell role="data"/>
+                                <cell role="data" style="right_pad"><hi rend="underline">£19:17.0.</hi></cell>
+                            </row>
+                        </table></p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark">NO 19 89</stamp></p>
+                <p><stamp type="handstamp"><placeName ref="pl1020">ISLE OF WIGHT</placeName> 9<gap unit="letters" quantity="1" reason="illegible"/></stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant</persName> Esq<hi rend="superscript">r</hi>. | 
+                        <placeName ref="pl0001">Downing</placeName>. | 
+                        <placeName ref="pl0702"><hi rend="underline">Flintshire</hi></placeName></addrLine>
+                   </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

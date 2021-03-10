@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1202">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        
+                        <ab><locus>no. 135</locus></ab>
+                         </msContents>
+                    <physDesc>
+                    </physDesc>
+                    <additional><p><hi rend="italic">Condition</hi>: some text obscured by tight binding of the manuscript.</p></additional>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1797-06-17"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl1013">North Court</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> June 1<del><gap unit="letters" quantity="1" reason="illegible"/></del>7<hi rend="superscript">th</hi>. 1797.</dateline></opener>
+                <p>You have been a true prophet of good thin<del><gap unit="letters" quantity="1" reason="illegible"/></del>gs.
+                    It is singular that the very next morning to the receit of y<hi rend="superscript">r</hi> cordial should bring the news of the return to Loyalty <sic>of of</sic> the four first ships:<note type="editorial">On the mutiny at the Nore, see <ref target="1201.xml">1201</ref> n. 2.</note>
+                    as this brings that of the conclusion of a business so nearly subversive of the british empire. Providence interfered 
+                    &amp; saved us by instilling a similar spirit into the dutch sailors, &amp; defurnishing the french fleets from the means of annoyance in a crisis the most opportune to us that could ever have been. 
+                    Let us devoutly return Thanks: &amp; in future strive to suppress that spirit of insolence &amp; pride which has so long characterized the english 
+                    &amp; which heaven in its mercy has laid on its rod by way of cure.</p>
+                <p>
+                    I truely rejoice that <persName ref="pe0432">Doctor Turton</persName> pronounces so favourably on y<hi rend="superscript">r</hi>
+                    disorder. and long may that be the case. The effect of the Fox-glove on me was most happy four o<del>f</del>r five
+                    doses have effected my cure &amp; I am now as well as ever. The effects of the medicin<note type="editorial">The final 'e' may be obscured by the binding of the manuscript.</note>
+                    are <del><gap unit="letters" quantity="1" reason="illegible"/></del>sometimes most tremendous: patients have been known to be brought to nearly deaths door by the very remedy.</p>
+                <p>
+                    The letter press of the <bibl type="authorial"><title ref="bi0689">Whiteford</title></bibl> was strangely forgotten. I detain it 
+                    <del><gap unit="letters" quantity="several" reason="illegible"/></del> now till I hear whether you wish for more drawings: &amp; took the liberty of ordering one more in the interim. viz. 
+                    <rs type="art" ref="ar0346">the interior of the old hall at Mostyn</rs>.</p>
+                <p>
+                    I cannot live idle. I let loose a secret. The conduct of my countrymen which ended so much to my poor <persName ref="pe0414">nephew</persName>'s
+                    disgrace, and <del>so</del> with so much infamy to his constituents, has provoked me to draw up an account of their proceedings, 
+                    <del><gap unit="letters" quantity="several" reason="illegible"/></del> partly ludicrously, partly with the knowt<note type="editorial">knout, knowt: A kind of whip or scourge, very severe and often fatal in its effects, formerly used in Russia as an instrument of punishment. Examples are dated 1716–1855. <hi rend="italic">OED</hi>.</note>
+                    at the end of my pen:<note type="editorial">This work by Pennant, castigating the supporters of Thomas Mostyn during the Parliamentary election of 1796, has not been identified.</note>
+                    not the moderate one I assure you</p>
+                <p>
+                    This has been a twelmonth of much calamity to me. the death of <persName ref="pe0015">Sir R. M.</persName> with all the misery brought on the county in consequence. The death of a faithful
+                    humble companion a most singular humorist in the Pancha<note type="editorial">Pennant compares his deceased servant to Sancho Panza, the witty and humorous squire of the eponymous hero in Cervantes's <hi rend="italic">Don Quixote</hi>.</note>
+                    way. – I better c<hi rend="superscript">d</hi> have spared a better man – well may I say. <gap unit="words" quantity="1" reason="authorial"/><note type="editorial">Pennant leaves an empty gap here, perhaps not choosing to provide the name of the servant in question.</note>
+                    a faithful servant of 55 years service with my two wives, &amp; the <persName ref="pe1794">master</persName>of the first.<note type="editorial">Pennant refers to his two wives, <persName ref="pe2025">Elizabeth (née Falconer)</persName> and <persName ref="pe0238">Ann (née Mostyn)</persName>, and to the 'master', in this case the father, of Elizabeth, his first wife.</note>
+                    - <persName ref="pe0237">my Sister</persName>. &amp; my good friend <persName ref="pe0226">Paul Panton</persName>. These are to be expected by us whom heaven has spared to a later period than our neighbors.</p>
+                <closer>
+                    <salute>every blessing attend you &amp; <persName ref="pe0331">miss Bull</persName>. Adieu Dear Sir,
+                    <lb/>Y<hi rend="superscript">r</hi> ever obliged &amp;
+                    <lb/>affect friend</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">C JU 19 97</stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi> | <placeName ref="pl1013">Northcot hall</placeName> | <hi rend="underline"><placeName ref="pl1020">Isle of Wight</placeName></hi>.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

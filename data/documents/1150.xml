@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1150">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 103</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1792-02-11"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline><placeName ref="pl0001">Downing</placeName> Febr 11<hi rend="superscript">th</hi> 1792.</dateline></opener>
+                <p><persName ref="pe0014">Moses</persName> shall do all that is necessary: but he &amp; I are such bunglers at pasting that we did not dare to undertake it, so gave you the trouble. Many thanks for 
+                    <rs type="art" ref="ar0335">Lord Cowper</rs>: the price is most acceptable though I risque the punishment of a postumous libeller, I must say it will perpetuate his insignificancy.</p>
+                <p>
+                    I am at this time a good deal deranged in my plans by the long continuance of my good <persName ref="pe0237">sister</persName>'s 
+                    illness. such is her hospitality &amp; her munificence: that I know we shall add to her weight of pain by being in 
+                    <placeName ref="pl0699">town</placeName>; &amp; she incapable of receiving &amp; seeing us as she was wont to do. I cannot but in gratitude mention her kindness to 
+                    <persName ref="pe0065">my son</persName> on his return in october. She <del><gap unit="letters" quantity="3" reason="illegible"/></del>
+                    presented him with a new chaise: &amp; settled on him by way of pocket money 400<hi rend="superscript">£</hi> a year. These are such rare instances that they merit record. almost weekly my motives to visit 
+                    <placeName ref="pl0699">London</placeName> lessen. the Lady just mentiond is one. the enquiry after another school for my 
+                    <persName ref="pe0421">little son Tom</persName> a second: I abjure <placeName ref="pl1899">Eton</placeName> &amp; <placeName ref="pl2548">West<del>c</del>minster</placeName>:
+                    but a larger than that he is at at present must be found. let me not be thought <del>if</del>a flatterer if I say <persName ref="pe0313">m<hi rend="superscript">r</hi> Bull</persName>
+                    is no small motive. to my journey. my friends fall off apace. one died last sunday: another is struck with a palsy &amp;
+                    equally dead to the world. These things sink deep into me: and <sic>make wish</sic> my retreat as permanent as human duration will admit. I have all that conduces to ease. 
+                    domestic happiness, increasing fortune; a disposition to contribute part at lest to the public good. <del>Sir R</del> To divert the subject:
+                    <persName ref="pe0015">Sir R.M.</persName> leaves the country next week: so how shall I convey double letters to you: if such I have occasion to see. one of 
+                    <persName ref="pe0015">Sir Roger</persName>'s businesses is to marry his <persName ref="pe1663">second daughter</persName> a <del><gap unit="letters" quantity="2" reason="illegible"/></del>
+                    beautiful giantess to little <persName ref="pe1682">m<hi rend="superscript">r</hi> Champnes</persName> son of a <persName ref="pe1683">Baronet</persName>
+                    a fugitive for debt in foreign parts. <persName ref="pe0015">Sir R.</persName> is a prudent man so I dare say the lover has <sic>goo</sic> reversions. but to us it seems a comical affair.</p>
+                <closer>
+                    <salute>Adieu
+                        <lb/>Y<hi rend="superscript">rs</hi> most faithfully</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>Pray what is become of our friend <persName ref="pe0332">M<hi rend="superscript">r</hi> Storer</persName>.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

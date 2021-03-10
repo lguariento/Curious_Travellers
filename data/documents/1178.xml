@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1178">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 118</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1794-06-19"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Possibly the heavy calamity which I experienced within about ten days after I saw you in <placeName ref="pl0699">town</placeName>
+                    may have reached your ears.<note type="editorial">Sarah Pennant died on 16 April 1794 and was buried at Whitford Parish church on 1 May. Evans, 'The life and work of Thomas Pennant', p. 74.</note>
+                    This will account for my long silence. <del>I</del> <persName ref="pe0238">Mrs Pennant</persName> &amp; I submit with resignation to the will of Providence, yet it is impossible to suppress parental feelings.
+                    we are both far from well: I resume every duty &amp; every amusement in order to alleviate sorrow: but alas Hæret lethalis arundo!
+                    <note type="editorial">‘The deadly arrow sticks’. A quotation from Virgil, <hi rend="italic">Aeneid</hi>, book IV, v. 73. In full the line reads ' Haeret lateri lethalis arundo' (‘the deadly arrow sticks in its side’), and is a description of a doe trying to escape from its hunter, as Dido tries to escape her passion for Aeneas.</note>
+                    &amp; I fear will remain during life. may heaven ever preserve you from such a misfortune for it is a most dreaded thought that of surviving ones children.</p>
+                <p>
+                    You are in the midst of Joy &amp; triumph.<note type="editorial">A reference to the battle which became known as the Glorious First of June 1794, claimed by the British as a victory against the French.</note>
+                    The victory is all-saving as well as glorious had it been otherwise the barbarians might have invaded by millions: &amp;
+                    hecatombs of heads would have been the sacrifices.</p>
+                <p>
+                    Nothing can make me forget my promise to you: but <persName ref="pe0404">my secretary</persName> &amp; now <persName ref="pe1744">my agent</persName>
+                    has inevitably been put back in my work, which will oblige me to defer yours.</p>
+                <closer>
+                    <salute>I am with truest regard
+                    <lb/>Dear Sir
+                        <lb/>Your very affect. friend</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> june 19<hi rend="superscript">th</hi> 1794.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

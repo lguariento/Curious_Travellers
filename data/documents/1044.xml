@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1044">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 46</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Top of page in Richard Bull’s hand</hi>:</p> 
+                            <p><persName ref="pe0401">Holbein</persName> send him</p>
+                           </additions></physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1785-05-27"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> <del>J</del> May 27<hi rend="superscript">th</hi> 178<del><gap unit="letters" quantity="1" reason="illegible"/></del>5.</dateline></opener>
+                <p>I truely congratulate you on the recovery of <persName ref="pe0336">Miss Bull</persName> &amp; flatter myself
+                    myself that this event will enable you to pass next winter in <placeName ref="pl0699">town</placeName>
+                    a circumstance I think myself much interested in. Your Copy of <bibl type="authorial"><title ref="bi0032">the journey to London</title></bibl>
+                    &amp; my own keep equal pace. nothing has been done to either these four months by reason of my desire of having 
+                    <del><gap reason="illegible"/></del> a copy of my <bibl type="authorial"><title ref="bi0015">new edition of vol. 1. Welsh tour</title></bibl>
+                    illuminated for my own use. that is now finished &amp; next week <persName ref="pe0014">Moses</persName>
+                    begins again on <sic>on</sic> <hi rend="underline">our</hi> work &amp; I assure you that his labors shall be devoted 
+                    <hi rend="underline">to us only.</hi> He shall paint for you duplicates of what He does for the <bibl type="authorial"><title ref="bi0022">Arctic Zool</title></bibl>:
+                    I beg y<hi rend="superscript">r</hi> acceptance of some etchings of Birds he formerly did &amp; which are adapted to that work.<note type="editorial">Pennant may be referring here to <hi rend="italic">Arctic zoology</hi>, vol. II, which discusses birds, and was published in 1785. </note> I think they had best be colored 
+                    &amp; that I can get done by a <persName ref="pe0324">neighboring artist</persName><note type="editorial">This may refer to John Ingleby, to whom Pennant recommended Bull in 1780 (<ref target="1006.xml">1006</ref>, <ref target="1007.xml">1007</ref>, <ref target="1008.xml">1008</ref>, <ref target="1009.xml">1009</ref>), and who is later referred to by Bull as a clear second choice to Moses Griffith (<ref target="1248.xml">1248</ref>). It is surprising that he is not named, however, and worth noting that the work of a 'print colorist' would not be a very enticing prospect for a man of Ingleby's talent, any more than Moses Griffith's.</note>
+                    a corps de reserve to <persName ref="pe0014">Moses</persName>; for I cannot make <persName ref="pe0014">Moses</persName>
+                    sink into a print colorist. do you chuse they should be done? The <rs type="art" ref="ar0136">Earl of Cumberland</rs>
+                    shall not be forgotten. As to payment for the <rs type="art" ref="ar0049">nova scotia views</rs>, it may be left till your debt is swelled to a larger Sum.</p>
+                <p>I return to you your good wishes tenfold. I have great reason to thank Heaven for the liberality of its favors. not among the lest 
+                    is the continued good conduct of <persName ref="pe0065">my Son</persName>. In August he sets out for the seat of a Gentleman near 
+                    <placeName ref="pl1272">Yverdon</placeName>;<note type="editorial">Correspondence from Thomas Falconer was periodically addressed to David Pennant at Yverdon in Switzerland between 1785 and 1788. WCRO CR 2017/TP460/1–31.</note>
+                    there to learn french during the Winter. <del><gap unit="letters" quantity="1" reason="illegible"/></del>early in the summer he shall make the 
+                    Tour of <placeName ref="pl0791">Swisserland</placeName>,<note type="editorial">David Pennant sent observations on Swiss and Italian travel by letter (undated) to William Coxe. See <hi rend="italic">Travels in Switzerland and in the Country of the Grisons: In a Series of Letters to William Melmoth, Esq. from William Coxe</hi> (3 vols., 2nd edn., London: T. Cadell, 1791), III, pp. 310–29.</note>
+                    &amp; after passing down, or along the banks of the <placeName ref="pl1273">Rhine</placeName>, join my fireside by winter. He will rejoice to obey any Commands you may have. Have you any 
+                    correspond<hi rend="superscript">t</hi> in <placeName ref="pl1023">Paris</placeName> who could answer this question. Is 
+                    <bibl type="authorial"><title ref="bi0333">Olaffen’s &amp; Peterson’s voy. In Iceland</title></bibl> translated into french.<note type="editorial">Magnus Petersen, curate at Skagestrand, is mentioned within the context of Icelandic studies in this period, but does not appear to have co-authored Olafsen's work.</note>
+                    if so the additional favor of procuring it may be asked.</p>
+                <closer>
+                    <salute>I am D<hi rend="superscript">er</hi> Sir
+                    <lb/>most affect<hi rend="superscript">ly</hi> y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Th. Pennant</persName>.</signed>
+                </closer>
+                <postscript>
+                    <p>Pray inclose future letters to <persName ref="pe0015">Sir Roger Mostyn. M. P.</persName> at <placeName ref="pl0695">Mostyn Flintshire</placeName>.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

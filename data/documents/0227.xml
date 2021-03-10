@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0227">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on delays in receiving letters</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>188</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1777-08-09"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0205"/>
+                    <ref type="prev" target="ct0226"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>D<hi rend="superscript">r</hi> Sir</salute></opener>
+                <p><persName ref="pe0015">Sir Roger</persName> being now at his other seat his letters are
+                    sent after him. So I do not get y<hi rend="superscript">r</hi> favors regularly.
+                    Thus that of July 31. with <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                        Lows</persName> came a few hours after the departure of the post yesterday.
+                    Inclosed is the answer which please to read, seal &amp; forward.</p>
+                <closer><salute>I am D<hi rend="superscript">r</hi> Sir <lb/>Y<hi rend="superscript">r</hi> affect. humble Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                <dateline>Aug. 9<hi rend="superscript">th</hi> 1777.</dateline></closer>
+                <postscript>
+                    <p>I hope <bibl type="authorial"><title ref="bi0231">M<hi rend="superscript">r</hi>
+                                Lightfoots Books</title></bibl> will soon appear.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom house</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

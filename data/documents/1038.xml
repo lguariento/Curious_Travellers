@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1038">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 40</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1784-04-27"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> April 27<hi rend="superscript">th</hi>. 1784.</dateline></opener>
+                <p>To accompany a letter which will contain nothing I send you a few prints &amp; a small addition to my 
+                    <bibl type="authorial"><title ref="bi0179">miscellanies</title></bibl>.<note type="editorial">This addition to Pennant's <hi rend="italic">Miscellanies</hi>, which can be identified as <bibl type="editorial"><title ref="bi0415">A letter from a Welsh freeholder to his representative</title></bibl> (Chester: J. Monk, MDCCLXXXIV [1784]), post-dates the material published by George Allan <hi rend="italic">c</hi>. 1781.</note>
+                    The peace of this county has been preserved by my neutrality: but I trust <persName ref="pe0015">our representative</persName>
+                    will take warning. I look on this general election<note type="editorial">Polling for the general election in 1784 closed on 17 May, with parliament summoned the following day.</note> as our dernier resort: if 
+                    our young minister<note type="editorial">A reference to <persName ref="pe0500">William Pitt the Younger</persName>, victor in the 1784 general election.</note> &amp; his collegues cannot save us ––––– desperandum est.<note type="editorial">'It is desperate.'</note></p>
+                <p><persName ref="pe0014">Moses</persName> has had no work but on your &amp; my account for some months. Please to say how far you will be content &amp;
+                    <bibl type="authorial"><title ref="bi0012">your book</title></bibl> shall be sent. The number of drawings done you will find at the foot of this.<note type="editorial">This information has not been preserved with the letter.</note> <hi rend="underline">I</hi>: 
+                    shall not bind up till we meet in <placeName ref="pl0699">Town</placeName> next month. He did <del>this</del>
+                    last week <rs type="art" ref="ar0074"><persName ref="pe0502">Sir Peter Mutton</persName></rs>
+                    from an excellent portrait &amp; this week shall do those at <placeName ref="pl1045">Llewenny</placeName> vide page
+                    <gap unit="words" quantity="1" reason="illegible"/>.<note type="editorial">In <hi rend="italic">A tour in Wales</hi> (2nd edn., 1784), pp. 25–7, Pennant describes in some detail the portraits at Lleweni. For Moses Griffith's copies of them, 
+                        see Pennant's extra-illustrated <hi rend="italic">A tour in Wales</hi>, <ref type="http" target="http://hdl.handle.net/10107/4692660">here</ref>, pp. 28/3, /4, and /5.</note>
+                    Do you wish copies? I suppose <bibl type="authorial"><title ref="bi0410">my new edition</title></bibl>
+                    is come out by this time: but <persName ref="pe0026">M<hi rend="superscript">r</hi> White</persName> will inform you.
+                    In respect to <persName ref="pe0499">Sir Benj. Wright</persName>, it must be <persName ref="pe0503">Rudiard</persName> 
+                   
+                    whom <persName ref="pe0504">Lord Mulgrave</persName> meant: for in him there seemed a great indecision. Do want 
+                    a collection of prints of 7000 Litterati one is offered to me by my friend <persName ref="pe0298">Professor Zimmerman of <placeName ref="pl1050">Brunswic</placeName></persName>.<note type="editorial">Zimmermann's letter of 14 August 1783 to Pennant does not throw light on the issue of the collection of prints mentioned here. See WCRO, CR 2017/TP401.</note>
+                    he says they will be cheap., but I fear will not be very interesting to us. Do you know <persName ref="pe0392">L<hi rend="superscript">d</hi> Ossory</persName>:
+                    I have had civilities f<hi rend="superscript">m</hi> him &amp; would venture to ask a small <rs type="art" ref="ar0073">sketch of <persName ref="pe0498">Cath Cornaro</persName></rs>:
+                    if he is not of y<hi rend="superscript">r</hi> acquaintance. if he is we may ask jointly.</p>
+                <closer>
+                    <salute>adieu
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>as I can get a frank I send this by post: but please to send for the Prints next week to <persName ref="pe0015">Sir R. Mostyn</persName>'s
+                        <placeName ref="pl0734">Bruton street</placeName>.</p>
+                    <p>My protegè <persName ref="pe0058">M<hi rend="superscript">r</hi> Cordiner</persName> at my instance has drawn VIII. drawings which he proposes to sell at 1.1.0. each. I thought he merited that since 
+                        <persName ref="pe0330">M<hi rend="superscript">r</hi> Sandby</persName> last year sold others of the same size &amp; less merit for 3.3.0 each. 
+                        I wish you would be so kind as to get these by virtue of the inclosed order, &amp;
+                        if any of y<hi rend="superscript">r</hi> friends will take one or so I shall be glad. he is poor but very ingenious. I never saw these he now sends.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

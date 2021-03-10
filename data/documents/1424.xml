@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1424">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Jones to Thomas Pennant, 2 August 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>TP4</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>items 9–10</locus></ab>
+                    </msContents>
+                    <physDesc/>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0322">John Jones</persName>
+                    <placeName ref="pl1347">Oxford</placeName>
+                    <date when="1777-08-02">2 August 1777</date>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1477"/>
+                    <ref type="prev" target="ct1430"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                
+            </div>
+            <div><p/></div>
+                
+                
+            
+            
+            
+        </body>
+    </text>
+</TEI>

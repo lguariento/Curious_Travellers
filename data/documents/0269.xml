@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0269">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 13 December 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>31-32</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>Letter bound out of order</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-12-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0268"/>
+                    <ref type="prev" target="ct0267"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I beg leave to recommend to y<hi rend="superscript">r</hi> notice &amp;
+                    friendship if needful <persName ref="pe0255">M<hi rend="superscript">r</hi>
+                        <unclear reason="illegible">Ridgeway</unclear></persName> a very worthy
+                    young man a student in surgery &amp; of our militia. any services you can do him
+                    will be fully acknowledged by</p>
+                <closer><salute>D<hi rend="superscript">r</hi> Sir y<hi rend="superscript">r</hi>
+                        faithful humble Serv<hi rend="superscript">t</hi></salute>
+                    <dateline>Dec<hi rend="superscript">r.</hi> 13<hi rend="superscript">th</hi>
+                        1779.</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom house</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

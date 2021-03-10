@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1388">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Lloyd, Caerwys, 11 May 1793</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>4857D</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1793-05-11">11 May 1793</date>
+                    <placeName ref="pl1201">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0333">John Lloyd</persName>
+                    <placeName ref="">Caerwys</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1389"/>
+                    <ref type="prev" target="ct1387"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0699">London</placeName>
+                    May 11<hi rend="superscript">th</hi>.
+                </dateline>
+                    <salute>Dear Sir</salute></opener>
+                
+                <p>It is some comfort to say that my dear <persName ref="pe0235">child</persName> recovers strength:<note type="editorial">Pennant's younger 
+                    daughter, Sarah, suffered from frequent bouts of illness, probably tuberculosis, from October 1792. She died on 16 April 1794. See Evans, 
+                    'The Life and Work of Thomas Pennant (1726–1798)', pp. 73–4.</note> &amp; we do flatter ourselves 
+                    that when her health is restored the other blessing may by added, The rest of us are well: my <persName ref="pe0237">sister</persName>
+                    excepted, who has suffered a great deal for some time past. I lament that I must be separated from my natural friends for a longer time 
+                    than I intended. our Physician has ordered <persName ref="pe0235">Sarah</persName> to some sea bathing place as soon as possible: 
+                    so we shall go, I believe to one of those on <add place="above">the</add> coast of <placeName ref="pl1336">Kent</placeName>. 
+                    this will retard our return till midsummer at <sic>lest</sic>.
+                </p> 
+                <p>I hope this will find you &amp; y<hi rend="superscript">r</hi> family well. I shall be glad to hear they are so. &amp; also all the news of
+                    the country</p>
+                <p>Poor <persName ref="pe0789">Bel Lloyd</persName> was carried off in the <sic>fulness</sic> of his expectations: for the old 
+                    ma[<unclear>...</unclear>]n[<unclear>...</unclear>] had certainly been very ill.<note type="editorial">The 'old man' mentioned
+                        may be Sir Edward Lloyd (?1710–1795), first baronet. Bell Lloyd was his heir. <hi rend="italic">DWB</hi> s.n. Mostyn 
+                        family of Mostyn Hall, Flints., etc. </note> How he will bear the disclosure of 
+                    <persName ref="pe0789">M<hi rend="superscript">r</hi> B. Lloyd</persName>’s circumstances I know not. He &amp; 
+                    <persName ref="pe0790">M<hi rend="superscript">r</hi> Mostyn Edwards</persName> were bound for him: &amp; I am told his affairs were
+                    in a dreadful state.</p>
+                <p>I saw <persName ref="pe0391">M<hi rend="superscript">r</hi> Fitzmaurice</persName> a few days ago. He is setting off for 
+                    <placeName ref="pl0791">swisserland</placeName>: &amp; looks very ill indeed.<note type="editorial">Thomas Fitzmaurice died on 
+                        28 October 1793. <hi rend="italic">Hist P</hi>.</note></p>
+                <p>Let me recommend the people of y<hi rend="superscript">r</hi> parish to be very attentive to any vagrants who may come &amp; fall ill 
+                    among you least they sh<hi rend="superscript">d</hi> bring the <placeName ref="pl1093">anglesea</placeName> fever among you which is got 
+                    to a most alarming height; &amp; now spreads into <placeName ref="pl1234">Caernarvonshire</placeName>. if any unfortunate people 
+                    sh<hi rend="superscript">d</hi> come among you they sh<hi rend="superscript">d</hi> be kept apart; treating them with 
+                    all humanity.</p>
+                <p>with our joint good wishes concludes</p>
+                <closer><salute>Dear Sir<lb/>y<hi rend="superscript">rs</hi> most faithfully</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName>.</signed>
+                    <dateline/></closer>
+                <postscript><p>Be so good as to attend at <placeName ref="pl1251">Holywell</placeName> the 20<hi rend="superscript">th</hi>. at the selling of the
+                    Gates &amp; promote the bidding all you can.<note type="editorial">See the notice of a meeting to be held at Holywell on 21 May 1793 
+                        in the <hi rend="italic">Chester Chronicle</hi>, 19 April 1793. This advertises the letting by auction of the tolls arising at 
+                        the tollgates of the Flint and Holywell turnpike districts.</note></p>
+                    <p>Remember me to <persName ref="pe0253">M<hi rend="superscript">r</hi> Parry</persName> &amp; beg his attendance.</p>
+                    <p>an acc<hi rend="superscript">t</hi> is just come of another bloody action near <placeName ref="pl1337">Conde</placeName>.
+                        - - a drawn battle.<note type="editorial">This refers to action between the besieged French Revolutionary army and an 
+                            opposing army of Austrian Habsburg and French Royalist personnel at Condé-sur-l'Escaut on the Belgian border 
+                            on 1 and 8 May 1793. 
+                            See <ref type="http" target="http://www.historyofwar.org/articles/battles_conde_1793.html">here</ref> [accessed 5 April 2019].</note></p></postscript>
+           
+            </div>
+            <div>
+                <p><stamp type="postmark">[<hi rend="italic">in red ink, outer circle illegible</hi>]: E MA 11 93</stamp></p>
+                <p><stamp type="postmark">[<hi rend="italic">in black ink</hi>]: E MA 11 9[<unclear>3</unclear>]</stamp></p>
+                <p><stamp type="frank">[<hi rend="italic">handwritten above address</hi>]: <placeName ref="pl0699">London</placeName> May Eleventh 1793; 
+                    [<hi rend="italic">handwritten below address</hi>]: per <persName ref="pe0015">R Most[<unclear>...</unclear>]n</persName></stamp></p>
+                <p><address><addrLine><persName ref="pe0333">Rev<hi rend="superscript">d</hi> John Lloyd</persName></addrLine> 
+                    <addrLine><placeName ref="pl1201">Caerwys</placeName></addrLine>
+                    <addrLine>near <placeName ref="pl1251">Holywell</placeName></addrLine> 
+                    <addrLine><placeName ref="pl0702">Flintshire</placeName></addrLine></address></p></div>
+            
+        </body>
+    </text>
+</TEI>

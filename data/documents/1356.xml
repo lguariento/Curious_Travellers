@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1356">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Philip Yorke to Thomas Pennant, 10 April 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>15423C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0243">Philip Yorke</persName>
+                    <date when="1777-04-10"/>
+                    <placeName ref="pl1238">Conduit street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl1243">Great George st:</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1357"/>
+                    <ref type="prev" target="ct1355"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>
+                    <salute>Dear Sir.</salute></opener>
+                
+                <p>Impatient to Receive another of your most Entertaining Volumes,<note type="editorial">Yorke evidently refers to a draft or proof of the volume (or a part of the volume) published 
+                    the following year as Pennant's <bibl type="authorial"><title ref="bi0012">A tour in Wales 1770 [1773]</title></bibl> (1778).</note>  I return you this, which I have gone through with the greatest 
+                    pleasure to myself, but I fear without any use to you. - I <gap quantity="1"/>can pay you but with thanks, the poor man's 
+                    Excheques. If <del><gap quantity="1"/></del><del>you</del> this finds you at home, pray send me another book.</p> 
+                <closer><salute>
+                    Dear Sir<lb/>
+                    Y<hi rend="superscript">r</hi> Faithful Friend<lb/>
+                    &amp; Servant<lb/>
+                    </salute>
+                    <signed><persName ref="pe0243">Ph: Yorke</persName> –</signed>
+                    </closer>
+                <postscript><p>I will attend you to the <placeName ref="pl1237">Paper office</placeName>, and <placeName ref="pl1236">Museum</placeName> 
+                    tomorrow if agreeable to you. –</p>
+                    <p><placeName ref="pl1238">Cond<hi rend="superscript">t</hi>: st:</placeName> Apr: 10<hi rend="superscript">th</hi>. 1777<lb/>
+                        Thursday night. –
+                    </p>
+                    <p>Page 1st Line 1st –<lb/>
+                        the Motto is excellently chosen; I had thought of one, inferior = Antiquam exquirere matrem.<note type="editorial">'Seek out our ancient mother[land]'.</note><lb/> 
+                        P: 8 – L: 10 = &amp; supported by the Friends and Partizans of his Uncle <persName ref="pe0668">Jasper Earl of Pembroke</persName>, created by 
+                        himself (after he was <persName ref="pe0670">King</persName>, Duke of Bedford: there remained till of very late Years at 
+                        <placeName ref="pl1239">Corsygydol</placeName>, the seat of the ancient Family of Vechan or <persName ref="pe0669">Vaughan</persName> in 
+                        <placeName ref="pl1235">Merionethshire</placeName>, a very dilapidated part of the House, in which was a Chamber called the King's, wherein 
+                        <persName ref="pe0670">Henry</persName> occasionally lived, and was concealed  by the <persName ref="pe0671">Possessor of that day</persName>, 
+                        who had a Command in a South Welsh castle (I think <placeName ref="pl1998">Aberystwith</placeName> in the <placeName ref="pl1241">bay of Cardigan</placeName>) 
+                        under the aforesaid <persName ref="pe0668">Jasper</persName>.<note type="editorial">Pennant does not appear to have made use of this information 
+                            in <hi rend="italic">A tour in Wales</hi>. Philip Yorke may have been aware of the account of the Corsygedol family given by Robert Vaughan, 
+                            Hengwrt. Vaughan noted that Gruffudd Vaughan 'was in great credit w<hi rend="superscript">th</hi> Jasper Earle of <sic>Pembrok</sic>, who lay in his house at Corsygedol 
+                            when he fled to France in y<hi rend="superscript">e</hi> tyme of Ed: 4, and as some report, Harry the Earle of Richmont w<hi rend="superscript">th</hi> 
+                            him, who afterwards was King of England'. Dwnn, <hi rend="italic">Heraldic visitations of Wales and part of the marches</hi>, II, p. 219 n. 19.</note> 
+                            P. 19. L: 21. the word Castle, is improperly repeated.<lb/>
+                        P: 20, L 15. The <placeName ref="pl1207">Dyke</placeName> Itself I apprehend, was clearly a boundary, and not a work of defence, yet there 
+                        are near upon it large Entrenchments seemingly to command it It is the same with <placeName ref="pl1206">Watt's dyke</placeName>: To sport 
+                        a conjecture; might not the Dyke, <add place="above">or Rampire</add> (properly speaking) of this Foss, which was clear amidst a 
+                        surrounding Country of Wood, act as a Road or Communication Pr.<note type="editorial">'Pr.' may be an abbreviation for 'proceeding'.</note> 
+                        North to South, &amp; be cast to a double use.<lb/>
+                                P: 30. L: 17. Is not this part of the <hi rend="underline">Maid</hi>'s story, too funny and gay for a grave &amp; instructive 
+                        Work.<note type="editorial">Yorke's pagination and his reference to the 'Maid' suggest that he may be referring to the section of Pennant's first volume 
+                            <hi rend="italic">A tour in Wales</hi> which relates to Saint Wenefrede. Pennant provides a humorous account of the miraculous 
+                            story of the decapitation and restoration of Wenefrede's head by Beuno, apparently to Yorke's discomfiture at the change 
+                            of tone displayed. <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), I, pp. 32–3.</note><lb/>
+                                Leaf opposite to P: 32. The following pretty Monkish distich, was found engraven on an ancient Bell –<lb/>
+                                = Dum cano busta, mori; dum pulpita, vivere disce;<lb/>
+                        = Disce mori nostro, vivere, disec, sono.<note type="editorial">Pennant notes an inscription on one bell 
+                            consecrated to St Wenefrede in <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), I, p. 35.</note><lb/> 
+                                P: 33. L 17. On the groundwork of which Heathen Story (as hath been usual with the Monks) is built this Miraculous History.<lb/>
+                        P 37. L: 15. <placeName ref="pl1216">Denbighshire</placeName> and <placeName ref="pl1242">Montgomeryshire</placeName> being taken from 
+                        the Baronies Marchers, were added to these 4 anc<hi rend="superscript">t</hi>. Shires of <placeName ref="pl1221">N-Wales</placeName>, 
+                        by the incorporating Act of <persName ref="pe0629">H: 8</persName> –––––<note type="editorial">Denbighshire and Montgomeryshire 
+                            were among the seven new counties fashioned from the Marcher lordships by the Acts of Union of 1536 and 1543, and added to the other 
+                            six shires of Wales, which had been established through the 1284 Statute of Wales. In the north, these shires consisted of Anglesey, 
+                            Caernarfonshire, Merioneth and Flintshire. Davies, <hi rend="italic">A History of Wales</hi>, pp. 232–3; 
+                            Jenkins, ' "Taphy-land historians" and the Union of England and Wales 1536–2007', 4; and see <ref target="1355.xml">1355</ref>.</note><lb/> 
+                        P: 41. L 6. I think Majesty was first applied to the Person &amp; Character of <persName ref="pe0672">James 1<hi rend="superscript">st</hi></persName>. –––––
+                    </p></postscript></div>
+                <div><p><address>
+                    <addrLine><persName ref="pe0232">Tho<hi rend="superscript">s</hi>. Pennant Esq<hi rend="superscript">r</hi>.</persName></addrLine>
+                    <addrLine><placeName ref="pl1243">Great George st:</placeName> –</addrLine>
+                </address></p></div>
+            
+            
+            
+        </body>
+    </text>
+</TEI>

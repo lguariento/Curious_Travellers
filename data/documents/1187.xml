@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1187">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 125</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1795-09-17"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>This P.S. to my last letter comes attended with two print that you <sic>my</sic> instance <persName ref="pe0026 pe1283 pe1772">Mess<hi rend="superscript">rs</hi> White's</persName>
+                    liberality.<note type="editorial">The 'Messrs White' to whom Pennant refers were <persName ref="pe0026">Benjamin White, senior</persName>, <persName ref="pe2024">Benjamin White, junior</persName> and, possibly, John White. 
+                        The prints mentioned have not been preserved with the manuscript.</note> I believe the whole number will be twenty three. To return to <persName ref="pe0014">moses</persName>. He is deeply engaged with little miniature heads much to his loss:
+                    I wish him to engage with you &amp; <persName ref="pe0379">M<hi rend="superscript">r</hi> Chiswell</persName> for in y<hi rend="superscript">r</hi>
+                    species of work he may get money. but he is amazingly obstinate.</p>
+                <closer>
+                    <salute>with best wishes concludes, D<hi rend="superscript">r</hi> Sir,
+                        <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Sep<hi rend="superscript">r</hi> 17<hi rend="superscript">th</hi> 1795</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

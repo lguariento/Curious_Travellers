@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1374">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Lloyd, Hafodunos and Wigfair, 5 May 1795</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>NLW</repository>
+                        <idno>12421D</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                        
+                        <additions><hi rend="italic"><lb/>Endorsement (in pencil on dorse, possibly in an archivist's hand)</hi>: <persName ref="pe0232">M<hi rend="superscript">r</hi>. Pennant</persName> - 1795 -
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1795-05-05">5 May 1795</date>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0803">John Lloyd</persName>
+                    <placeName ref="pl1369">Wigfair</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1375"/>
+                    <ref type="prev" target="ct1373"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Dear Sir,</salute></opener>
+                <dateline><placeName ref="pl0001">Downing</placeName> May 5<hi rend="superscript">th</hi> 1795.</dateline>
+                
+                <p>Permit me to say that few gentlemen merit more fr<hi rend="superscript">m</hi> y<hi rend="superscript">r</hi> country than yourself &amp; 
+                    M<hi rend="superscript">r</hi> Cloughs,<note type="editorial">This is a reference to the brothers <persName ref="pe0822">Thomas</persName> 
+                        and <persName ref="pe0821">Roger Clough</persName>.</note> &amp; I do most sincerely congratulate you on having brought it 
+                    <add place="above">unlucky business</add> to so good a conclusion.<note type="editorial">Pennant refers to anti-militia and navy-impressment 
+                        riots which took place in Denbigh on 1 April 1795. See W. Lloyd Davies, ‘The Riot at Denbigh, 1795’, <hi rend="italic">BBCS</hi>, 
+                        IV, part I (1927), 61–73.</note> I should rather have thought that the bench of Justices would have voted the three Gentlemen who bore 
+                    the burden of their business their due thanks, instead of suffering so many gross &amp; seditious aspersions to be uttered against their conduct. 
+                    I am certain you never w<hi rend="superscript">d</hi> have been the instrument of oppression. You acted under an act constitutionally sanctified 
+                    by the three estates of the kingdom, &amp; proposed most cogently for the salvation of the whole. enough of this.</p>
+                
+                <p>Now let me request you to lend to me as soon as possible M<hi rend="superscript">rs</hi> Piozzi's 
+                    <bibl type="authorial"><title ref="bi0617">Synonyms</title></bibl>. I wish much to see them for the sake of some <sic>pedegree</sic>  remarks on 
+                    the <persName ref="pe0845">Mostyn family</persName>. Be so good as to convey them here. I w<hi rend="superscript">d</hi> send for them; but a Gent: 
+                    of y<hi rend="superscript">r</hi> volatility may be <sic>be</sic> 20 miles distant.</p>
+              
+                <p>You are called the Philosopher. I really think I may be y<hi rend="superscript">r</hi> second. Pray think whether a man condemned 
+                    to 9 weeks recumbency &amp; <sic>bein</sic> it with spirit &amp; the full <sic>persuit</sic> of literary amusements does not deserve to 
+                    share the title.<note type="editorial">Pennant had broken his kneepan on 6 April 1795 according to his letter of 13 April 1795 to Richard Bull 
+                        (<ref target="1184.xml">1184</ref>).</note> come over for an hour &amp; see if I speak too boastingly. <sic>Adeu</sic></p>
+                <closer><salute>Y<hi rend="superscript">r</hi> faithful Serv<hi rend="superscript">t</hi>
+                </salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed></closer>
+                
+            </div>
+            
+            <div>
+                <p>
+                    <stamp type="postmark"><placeName ref="pl1371">S<hi rend="superscript">t</hi> Asaph</placeName> Post ––––––<note type="editorial">The mark is written by hand.</note></stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251"><unclear>HOLYWELL</unclear></placeName></stamp>
+                </p>
+                <p><address><addrLine><persName ref="pe0803">John Lloyd Esq<hi rend="superscript">r</hi></persName><lb/> 
+                    at <placeName ref="pl1369">Wŷg Fair</placeName>
+                    </addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

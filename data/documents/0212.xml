@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0212">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on sources used for his map of
+                    Scotland</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>163</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1776-08-27"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0213"/>
+                    <ref type="prev" target="ct0211"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+
+                <p>I have just time to thank you for y<hi rend="superscript">r</hi> favor; &amp; to
+                    beg y<hi rend="superscript">r</hi> corrections of <bibl type="authorial"><title ref="bi0209">my map</title></bibl> as soon as convenient. as to
+                    <persName ref="pe0054">Col. Roys</persName> I would by no means have anything
+                    taken from his by stealth as it is a private property &amp; even
+                        unpublished.<note type="editorial">Most likely a reference to proofs of
+                        William Roy's <bibl type="editorial"><title ref="bi0140">'Mappa Britanniae
+                                Septentrionalis'</title></bibl>, not published until it appeared in
+                            his posthumous <bibl type="editorial"><title ref="bi0202"><hi rend="italic">Military Antiquities of the Romans in North
+                                Britain</hi></title> (1793)</bibl>. See Pennant's letter to Paton on
+                        26 July 1774 and notes.</note> It would be dishonorable to think of it. My
+                    outline is from <bibl type="authorial"><title ref="bi0126">Dorret</title></bibl>; but <placeName ref="pl0708">the islands</placeName> are
+                    often mended. The <placeName ref="pl0701">orkneys</placeName> from <bibl type="authorial"><title ref="bi0098">Mackenzie</title></bibl>.</p>
+                <closer><salute>I am D<hi rend="superscript">r</hi> Sir <lb/>your faithful humble
+                            Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                <dateline><placeName ref="pl0001">Downing</placeName> Aug. 27<hi rend="superscript">th</hi> 1776.</dateline></closer>
+
+            </div>
+        </body>
+    </text>
+</TEI>

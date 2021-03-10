@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1173">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 115</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">At the bottom of the last page, in Richard Bull's hand</hi>:</p>
+                            <p>Epistola objurgatoria<note type="editorial">‘An objurgatory letter’. Bull notes Pennant's rebuke of his own reluctance to make a generous contribution to the appeal on behalf of the widow and children of John Lloyd, Caerwys. See also <ref target="1174.xml">1174</ref>.</note> | <hi rend="underline">from my friend <persName ref="pe0232">Pennant</persName>, <persName ref="pe0313">Rich<hi rend="superscript">d</hi> Bull</persName></hi></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1793-11-08"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName> 
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Nov<hi rend="superscript">r</hi> 8<hi rend="superscript">th</hi>. 1793<note type="editorial">The year is added in Richard Bull's hand.</note></dateline></opener>
+                <p>First let me exonerate my breast from what lies heaviest on it; by answering the question what will the
+                    <bibl type="authorial"><title ref="bi0269">M.S. (of the isle of Wight)</title></bibl> come to? I think 2<hi rend="superscript">d</hi>
+                    a <del><gap unit="letters" quantity="several" reason="illegible"/></del> page, the price of transcribing. I really never make anything of my friends: 
+                    &amp; in the present case, did imagine I did you a pleasure by the offer; but finding my mistake beg leave to withdraw it.</p>
+                <p>
+                    You will forgive my eccentrical benevolence in the petition I preferred to you in favor of my <persName ref="pe0741">widow</persName> &amp; her <persName ref="pe1725">ten orphans</persName>.
+                    the <rs type="art" ref="ar0044">print</rs> may be found this month in the shops: so I urge my request no farther; but lament it was made so mal a propos.</p>
+                <p>
+                    I hope you met with the fragment I sent to <persName ref="pe0383">M<hi rend="superscript">r</hi> Clarke</persName>. I read it carefully but so far 
+                    <del>I am</del> am I gone that I do not profit the lest by it: but go on with greater fury than ever. I really rather incourage the mania, for I find it an innocent one 
+                    &amp; does more good than harm by alleviating the cares of winter life. With gratitude I think of <persName ref="pe0313">Don R<hi rend="superscript">de</hi> de Toro</persName>
+                    for supplying me so amply at various times for the food of this delicious frenzy. my endeavours have always been to repay him: but alas the <sic>ballanc</sic> 
+                    is greatly against me. there is not a portfolio I open, but I see something I have owed to him.</p>
+                <p>
+                    Notwithstanding I am marrying a <persName ref="pe0065">son</persName> with some expence in the out-fit I can find something for my follies, my friends 
+                    <del><gap unit="letters" quantity="1" reason="illegible"/></del> or my country, else I should think myself poor indeed! <persName ref="pe0065">David</persName>
+                    went to <placeName ref="pl0699">town</placeName> yesterday; &amp; if the lawyers will permit, will cease being a bachelor next month.</p>
+                <p>
+                    <persName ref="pe0383">M<hi rend="superscript">r</hi> Clark</persName> will I dare say answer my queries respecting <placeName ref="pl2536">Godshill</placeName>.<note type="editorial">Pennant received a letter from Richard Clarke, dated 6 December 1793, referring to accounts with which he had favoured Pennant respecting Godshill and Newport churches. See WCRO, CR 2017/TP189/50, Richard Clarke to Thomas Pennant, 6 December 1793.</note>
+                    I have left a blank to fill with the epitaphs. for the M.S. is fairly copied &amp; is mightly illustrated with prints. It is fine work for winter evenings: part is past in that employ: &amp; 
+                    part with playing whist with <persName ref="pe0235">my little girl</persName> of which old Greybeard<note type="editorial">A wistful reference by Pennant to his own advanced age.</note> is as fond as she can be.</p>
+                <p>
+                    a salutary fit of the Gout has favored me with a visit about a fortnight. it only shackles one foot &amp; leaves hands &amp; spirits free I hope you &amp;
+                    the ladies<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note> are free from every complaint 
+                    &amp; rejoice to hear the good account of them.</p>
+                <p>
+                    Pray do not trouble yrself about any more materials for the <bibl type="authorial"><title ref="bi0269">isle of Wight</title></bibl> as the work is complete: yet still I c<hi rend="superscript">d</hi>
+                    wish the further account of <persName ref="pe1421">Sir Richard Worseleys</persName> shire<note type="editorial">Worsley’s <hi rend="italic">The history of the Isle of Wight</hi> was published in 1781. This reference to a further account may indicate that Pennant was aware of Worsley’s work on the <hi rend="italic">Museum Worsleyanum</hi>, the first part of which was published in 1798 but dated 1794.</note>
+                    for that may come in by way of preface.</p>
+                <closer>
+                    <salute>Adieu Dear Sir, and think me ever &amp; truely
+                    <lb/>Y<hi rend="superscript">r</hi> affect: friend</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

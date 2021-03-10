@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1141">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>37</locus></ab>
+                    </msContents>                    
+                    <physDesc>
+                        <additions><p><hi rend="italic">Endorsement in Thomas Pennant's hand at the top of the letter</hi>: Answ<hi rend="superscript">d</hi>.</p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1791-11-09"/>
+                    <placeName ref="pl1013">North Court</placeName><placeName ref="pl1020">Isle of Wight</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline><placeName ref="pl1013">North Court</placeName> <placeName ref="pl1020">Isle of Wight</placeName>. Nov<hi rend="superscript">r</hi>: 9. 1791. -</dateline></opener>
+                <p>Half a dozen lines, are better than no answer at all; let me give you my best thanks for your last letter, 
+                    and express, as well as I can en abregé,<note type="editorial">'in a shortened form, briefly'.</note> my
+                attachment to You.</p>
+                <p>I had one foot in the Stirrup for <placeName ref="pl0796">Bath</placeName>, on account of <persName ref="pe0336">my daughters</persName>
+                    ill health. She has now rallied again, and we have postpon’d our journey till the Spring Season, if unluckily her complaints should return. 
+                    I thank <persName ref="pe0014">Moses</persName> for his overtures to colour a set of the <bibl type="authorial"><title ref="bi0022">Arctic Zoology</title></bibl>
+                    prints for my Book, and I readily adopt his plan, and will allow him what times he pleases for doing the same. has he by him, a set of the prints 
+                    <hi rend="underline">upon a large paper</hi>? and will he like to colour <hi rend="underline">them</hi>, and that I should send 
+                    <hi rend="underline">him</hi> mine, when I have an opportunity of doing it? Should he have no set of the prints upon a large paper,
+                    I can send down mine to him, but it cannot be till about the middle of the next month, as they are in <placeName ref="pl0759">Stratton Street</placeName>,
+                    and I shall hardly be there much sooner myself.</p>
+                <p>You seem in a fair way to give <persName ref="pe0419">Palmer</persName>, the set down, he well deserves, and I hope he will 
+                    profit by your gentle chastisement. We have lived in a whirlwind for this month past, and storm and tempest our potion to drink.
+                    one flash of lightening knock'd down four men out of five, who were at plow, in a field not far from us, the men <del>of</del>
+                    have since recover’d, but three of the Horses, were left dead upon the spot, and a poney in my yard receiv'd a little shock 
+                    <del>in my yard <gap unit="letters" quantity="1" reason="illegible"/></del> from the same flash.</p>
+                <p><placeName ref="pl1479">Newport</placeName> has been in an uproar since the day before yesterday, when one of our two Banks there, stop’d payment; the firm was 
+                    <persName ref="pe1597">Gregory and Roberts</persName>,
+                    and we suppose this dimunative spot, as the business now stands, will sustain a loss of £40,000. every body is a sufferer, in some degree. – these are the short, but not the simple 
+                    Annals of the <placeName ref="pl1020">Isle of Wight</placeName>.</p>
+                <closer>
+                    <salute>our best good wishes attend all, of the House of Pennant.
+                        <lb/>I am Dear Sir, sincerely yours.</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName> -</signed>
+                </closer>
+            </div>
+            <div>
+                <p><stamp type="postmark">D NO 10 <gap unit="letters" quantity="2" reason="illegible"/></stamp>
+                    <stamp type="handstamp">SOHO CHA<gap unit="letters" quantity="several" reason="illegible"/></stamp>
+                    <stamp type="frank">FREE NO 10 91<lb/>
+                        <hi rend="italic">[Handwritten (frank)]</hi> <placeName ref="pl0699">London</placeName> Novem<hi rend="superscript">r</hi> Nine 1791; <persName ref="pe0422">Cha<hi rend="superscript">rles</hi>. Rainsford</persName></stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Tho<hi rend="superscript">s</hi>: Pennant</persName> Esq<hi rend="superscript">r</hi> | <placeName ref="pl0001">Downing</placeName> | <placeName ref="pl0702">Flintshire</placeName><note type="editorial">The address is given by the writer of the handwritten frank.</note></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

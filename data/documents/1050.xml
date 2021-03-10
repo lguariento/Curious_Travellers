@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1050">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 47</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date>29 January [1785]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street Piccadilly</placeName>
+                </correspAction>
+                <correspContext><ref type="prev" target="ct1342"/></correspContext>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>With great Grief I say our parcel from <persName ref="pe0014">moses</persName> came to 
+                    <placeName ref="pl0699">Town</placeName> the 22<hi rend="superscript">d</hi>. &amp; 
+                    is stolen from the coach office.<note type="editorial">Cf. another example of a loss of property documented by the reference to a suit against the Chester coach to which Pennant refers in <ref target="1086.xml">1086</ref>, dated 19 May 1789.</note> I shall sue the owners a poor recompence but want to see you to consult about method. shd I advertise.</p>
+                <closer>
+                    <salute>Y<hi rend="superscript">rs</hi> truely</salute>
+                    <signed><persName ref="pe0232">T. Pennant</persName></signed>
+                    <dateline><placeName ref="pl0753">Upper Brook street</placeName> Jany 29<hi rend="superscript">th</hi>. - 86<note type="editorial">The year [17]86 was probably added at a later date by Richard Bull. Pennant's reference to a delay in his intended arrival in London in <ref target="1053.xml">1053</ref>, 4 March 1786, suggests that his London visit did not take place as early as January during 1786. The year 1785 is suggested instead as a possible date in view of the evidence of Pennant's movements provided by the Pennant-Bull correspondence as a whole.</note></dateline>
+                </closer>
+            </div>
+            <div>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> esq<hi rend="superscript">re</hi> | <placeName ref="pl0759">Stratton street | Piccadilly</placeName></addrLine>
+                        <addrLine/>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

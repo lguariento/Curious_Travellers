@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1159">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>2591E</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">On top of page, in Thomas Pennant's hand</hi>:</p>
+                            <p><hi rend="underline">Answ<hi rend="superscript">d</hi></hi></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1792-11-28"/>
+                    <placeName ref="pl1013">Northcourt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir,</salute> <dateline><placeName ref="pl1013">North Court</placeName>, <placeName ref="pl1020">Isle of Wight</placeName>
+                    <lb/>November 28. 1792</dateline></opener>
+                <p>We are just going to make our Journey to <placeName ref="pl0699">London</placeName>, and having a Franker at my elbow, it will cost you nothing to be told so,, 
+                    which in truth, is the sole purpose of my writing now, except to thank you for your last letter, which requir'd no answer, else you should have had it before this time.</p>
+                <p>
+                    I hope your <persName ref="pe0235">little girl</persName> is quite recover'd, and that all is well at <placeName ref="pl0001">Downing</placeName>;
+                    Stet Fortuna Domus!<note type="editorial">'Let the fortune of the house endure'.</note> -----</p>
+                <p>
+                    An Evil Spirit is gone forth throughout all the regions of <placeName ref="pl1176">Europe</placeName>, and I dread its influence upon 
+                    <placeName ref="pl0775">our happy Country</placeName>, which, in spite of the necessary reforms w<hi rend="superscript">h</hi>.. it 
+                    <hi rend="underline">certainly has need of</hi>, enjoys <gap unit="letters" quantity="2" reason="illegible"/> <del>enjoys</del> <add place="above">the</add> wisest sistem of Government, ever contriv'd by man. 
+                    <persName ref="pe1700">Tom Paine</persName> is the Beelzebub of the times, and it grieves me to find my worthy and agreeable friend 
+                    <persName ref="pe0388">Erskine</persName>, lowering himself to be his prime minister.. I think the French nation
+                    <hi rend="underline">began</hi> well, and had not massacrés, and crimes one shudders to think on,, stain'd with blood, every subsequent action, we should have look'd up with 
+                    reverence, to a great nation, nobly struggling for liberty, under the most oppressive, if not the most tyrannical Government, that ever existed.</p>
+                <p>The mob at <placeName ref="pl2523">Sheffield</placeName> declare openly, against Kings and Nobles, and I suppose you heard they stop'd 
+                    <persName ref="pe1709">Lord Fitzwilliams</persName> carriage, and taking away two of his horses, made him proceed with a pair, telling him nobody should pass through their town, with more. At 
+                    <placeName ref="pl1293">Birmingham</placeName> they roasted an An ass,, with a label inscrib'd George <hi rend="underline">Whelp</hi>,
+                    and some of the Savages tore out the heart, and devour'd it raw – Some of the miserable Emigrants have straggled hither. they seem a quiet well meaning set of 
+                    Priests,<note type="editorial">French priests refusing to take the oaths associated with the Civil Constitution of the Clergy (July 1790) were from as early as November 1791 subject to expulsion from their communes; from May 1792 to deportation under specific conditions; and from March 1793 to automatic deportation. The greater number left France between August 1792 and March 1793 and there were between six and seven thousand exiled clergymen in Britain (including the Channel Islands) by December 1792. Dominic Aidan Bellenger, <hi rend="italic">The French Exiled Clergy in the British Isles after 1789</hi> (Bath, 1986), pp. 2, 3.</note>
+                    quite ignorant of any World, except what they found in their own Cloysters. A whole Convent of Nuns, landed at 
+                    <placeName ref="pl2524">Shoreham</placeName> a little time since, determin<add place="above">in</add>g all to live,
+                    or to perish together;<note type="editorial">Nuns from a convent at Montargis, south of Paris, arrived at Shoreham in West Sussex on 17 October 1792, and were greeted with sympathetic treatment. See Carpenter, <hi rend="italic">Refugees of the French Revolution</hi>, pp. 31–2.</note>
+                    the Lady Abbess was more than 90 years old, and stone blind, none of the Nuns younger than 60. A person who saw, and reliev'd them, told me it was impossible to 
+                    discrib<del><gap unit="letters" quantity="1" reason="illegible"/></del>e their seeming distress, and patient suffering. – my letters from
+                    <placeName ref="pl0699">London</placeName> mention that suspicion and despondency hang upon the Countenance of every body, but I am among those, who call even Croakers, 
+                    bad subjects – nil desperandum Tucro Duce –<note type="editorial">Part of a line from the Ode 'Ad Munatium Plancum' by Horace. 'Teucro duce nil desperandum': 'Never despair with Teucer as leader'.</note>
+                    in the mean time, we enjoy Peace and quietness here, with a few pleasant friends, and our daily toast is: 
+                    "<hi rend="underline">Confusion to all those who wish for it</hi>.</p>
+                <closer>
+                    <salute>I am Dear Sir, always sincerely yours</salute>
+                    <signed><persName ref="pe0313">Rich: Bull</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

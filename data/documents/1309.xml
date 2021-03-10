@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1309">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hugh Davies to Thomas Pennant, 1775</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP212/1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc><additions><p><hi rend="italic">Endorsement in Thomas Pennant's hand</hi>: By <persName ref="pe0903">M<hi rend="superscript">r</hi> Hugh Davies</persName> 1775</p></additions></physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent"><persName ref="pe0903">Hugh Davies</persName>
+                    <date>1775</date>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1310"/>
+                    <ref type="prev" target="ct1308"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                
+                
+                <p><placeName ref="pl1583">Snafield</placeName> the highest hill in the <placeName ref="pl0707">Island</placeName>, is of the form 
+                    of a truncated cone, covered with verdure, not a rock upon it – find upon it 3 species of 
+                    <hi rend="underline">Lycopodium</hi> –<note type="editorial">See <hi rend="italic">OED</hi> s.v. lycopodium.</note> 
+                    Viz. <hi rend="underline">clavatum</hi> – <hi rend="underline">alpinum</hi> &amp; <hi rend="underline">Selago</hi>,  which are 
+                    found only on hills of considerable height, –on a hill to the N: E. find 
+                    <hi rend="underline">Ophris</hi> <hi rend="underline">cordata</hi>,<note type="editorial">'Ophrys', a Linnaean genus of spurless orchids. 
+                        <hi rend="italic">OED</hi>. Lightfoot gives to the 'Ophrys cordata', a mountain variety of the Twayblade, the English name of 
+                        'Little Twayblade'. Lightfoot, <hi rend="italic">Flora Scotica</hi>, I, p. 524.</note> 
+                    <hi rend="underline">festuca vivipara</hi>,<note type="editorial">See <hi rend="italic">OED</hi> s.v. nardus.</note> and <hi rend="underline">Vaccinium vitis Idæa</hi>.<note type="editorial">See <hi rend="italic">OED</hi> s.v. 
+                        red bilberry.</note></p>
+                
+                <p>Near <placeName ref="pl1584">Ramsey</placeName> Buccinum<note type="editorial">A genus of gasteropod Molluscs. <hi rend="italic">OED</hi>.</note> 
+                    N. 3 <bibl type="authorial"><title ref="bi0630">Lister</title></bibl>. tab. 3. in plenty the fishermen use them in 
+                    codfishing <add place="above">a considerable article near the point of <placeName ref="pl1585">Ayr</placeName> –six or</add> eight men to a 
+                    boat; each earning 2. or 3 shillings a day.  </p>
+                
+                <p><placeName ref="pl1586">Black water river</placeName><note type="editorial">This may be an Anglicisation of 'Ballacottier River' on the Isle of Man.</note> affords 
+                    the <hi rend="underline">Mya margaritifera</hi><note type="editorial">See <hi rend="italic">OED</hi> s.v. Mya, where it is defined as a genus of bivalve molluscs. 
+                        A 1797 example names 'The margaritifera; or pearl mya'.</note> <hi rend="underline">Sison verticillatum</hi><note type="editorial">The 'Verticillate Stonewort'. See <hi rend="italic">OED</hi> s.v. 
+                            stonewort, quoting J. Hull, <hi rend="italic">Brit. Flora</hi> I (1799), p. 62.</note> a plant I think not found in <placeName ref="pl0775">England</placeName> 
+                    <gap reason="illegible" unit="letters" quantity="several"/> plentifully in meadow grounds – <hi rend="underline"><sic>Œnanthe pinpinelloides</sic></hi> an uncommon vegetable near 
+                    <placeName ref="pl1587">Castle town</placeName> at <placeName ref="pl1588">scarlad</placeName>, <add place="above">Fucus esculentus<note type="editorial">'Fucus esculentus', 
+                        a kind of the brown seaweed known as 'badderlock[s]'. <hi rend="italic">OED</hi> s.v. badderlocks.</note> found here</add> where there is a quarry of 
+                    black marble, considerable quantity exported to <placeName ref="pl0705">Scotland</placeName> &amp; <placeName ref="pl0889">Ireland</placeName> – 
+                    tombstones chimney pieces &amp;c–
+                </p>
+                
+                <p><hi rend="underline">Stares</hi> breed in the walls of <sic>houses|</sic> and assemble in flocks as soon as they are able to fly –––––</p>
+                
+                <p>Trout in almost every river &amp; Salmon in the larger ones.<lb/>
+                    Haddock on the northern coast in February &amp; March –––––<lb/> 
+                    N:B.  on the <placeName ref="pl1093">Anglesea</placeName> coast in May, June &amp;c –</p>
+                
+                <p>British <del>p</del>Post on <placeName ref="pl1591">Barowl</placeName> a few stones on end surrounded by a fosse almost fill'd up with vegetable earth.<lb/> 
+                    Scallops <hi rend="underline">Ostrea maxima</hi><note type="editorial">'Ostrea maxima', a species of the genus 'Ostrea' (oyster) listed in the tenth edition of Linnaeus's 
+                        <hi rend="italic">Systema Naturae</hi> (1758).</note> <bibl type="authorial"><title ref="bi0418">Linn.</title></bibl> taken near <placeName ref="pl1592">Manshold head</placeName> 
+                    from Christmas to May and sold at 3 pence per dozen.<lb/> 
+                    Oyster beds near <placeName ref="pl1589">Laxey</placeName> only – sold at two shillings per hundred. Salmon taken on the coast of <placeName ref="pl1590">Duglas</placeName> –seldom sooner 
+                    than July – generally sold from two pence to 3 pence a pound –<lb/>
+                    <gap reason="illegible" unit="letters" quantity="several"/>rings taken from July to October.<lb/> 
+                    <unclear>N</unclear>ot a <sic>Wear</sic> in the <placeName ref="pl0707">Island</placeName> 
+                    as I am informed.<lb/> 
+                    Number of Capital Exported about 1000–1100 – <lb/>
+                    Weight per quarter Cow-beef – 90 – 100 – Ox – 150–200.<lb/> 
+                    Indigenous <add place="above"><gap reason="illegible" unit="letters" quantity="several"/></add> sheep small 7–9, pounds per quarter.
+                </p>
+                
+                <p>Number of Puffins taken annually about 6–7000.<lb/>
+                    Green plover <bibl type="authorial"><title ref="bi0018">Br. Zool.</title></bibl> p. 379.<note type="editorial">Pennant notes that 
+                        the Green Plover, an 'elegant species[,] is often found on our moors and heaths, in the winter time, in small flocks'. 
+                        <hi rend="italic">British zoology</hi> (1768), II, pp. 379–380.</note> breeds upon the hills <placeName ref="pl1583">snafield</placeName>
+                    &amp; <placeName ref="pl1591">Barowl</placeName>. –
+                </p>
+                <p><del><gap reason="illegible" unit="letters" quantity="several"/></del><placeName ref="pl1593">Kirk Braddan Cemetery</placeName> remarkably full of graves – 
+                    A cross five feet high curiously 
+                    ornamented on three sides on the <gap reason="illegible" unit="letters" quantity="several"/> a runic inscription, ––––– 
+                    Another Six feet high, the to<gap reason="illegible" unit="letters" quantity="1"/> circular three feet three inches in 
+                    diameter and decorated <add place="above">with</add> f<gap reason="illegible" unit="letters" quantity="several"/> of animals &amp;c– on the 
+                    East end of the church a rude Crucifix  ––––– A Rookery near this Church –</p>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1307">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Treadway Russell Nash to Thomas Pennant, 20 May 1788</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>2591E</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Endorsement (in Thomas Pennant's hand)</hi>: 
+                            of <persName ref="pe0139">M<hi rend="superscript">r</hi> Lightfoot</persName>.</p></additions>
+                    </physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent"><persName ref="pe0416">Treadway Russell Nash</persName>
+                    <placeName ref="pl1290">Bevere</placeName>
+                    <date when="1788-05-20">20 May 1788</date>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1308"/>
+                    <ref type="prev" target="ct1306"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear S<hi rend="superscript">r</hi></salute></opener>
+                
+                <p>It gave me real satisfaction to find not only by your letter, but by other accounts, that the evil report of poor 
+                    <persName ref="pe0139">Lightfoots</persName> end was totally without foundation: – Have you thoughts of making honorable 
+                    mention of him, or giving a short sketch of his life:<note type="editorial">A sketch of Lightfoot's life by Pennant, dated 
+                        13 November 1788, appeared in the 1789 edition of <hi rend="italic">Flora Scotica</hi>, and included an account of his 
+                        being taken ill at a shop in Uxbridge on 20 February 1788, dying in his bed a few hours after his return home. 'Some 
+                        Account of the Author of this Work', in <hi rend="italic">Flora Scotica: Or, a systematic arrangement, in the Linnæan 
+                            Method, of the native plants of Scotland and the Hebrides</hi> (2 vols., 2nd edn., London: Faulder, 1789), I, pp. *v–*xii.</note> 
+                    He was born at <placeName ref="pl1299">Newent</placeName> 
+                    in <placeName ref="pl1300">Gloucestershire</placeName>, <del>his father</del>, his <persName ref="pe0736">father</persName> 
+                    a reputable yeoman, or sort of Gentleman farmer: it may be as well to be silent about his brother &amp; Sister, 
+                    who have not, I believe,<sic>,</sic> behaved well, the former was a Grocer in <placeName ref="pl1276">Gloucester</placeName> 
+                    &amp; failed, not without some <sic>suspition</sic> of male <sic>practise</sic> in his business. if you wish me to make any 
+                    further enquiries let me know what, &amp; it shall be done.</p>
+                
+                <p>I deferred answering your letter, in expectation of <persName ref="pe0730">M<hi rend="superscript">rs</hi>. Cocks</persName> 
+                    return from <placeName ref="pl0699">London</placeName>, &amp; our fixing our summers excursion, but as she has not fixed her time, 
+                    I would no longer delay to thank you &amp; <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName> for your 
+                    obliging invitation, which we should with the greatest pleasure accept, if it were in our power, but we are engaged to make a visit 
+                    at <placeName ref="pl1302">Bristol</placeName> to a relation of <persName ref="pe0729">M<hi rend="superscript">rs</hi> Nash</persName>'s, 
+                    &amp; do not yet know what time will be fixed for that.</p>
+                
+                <p>I have some business calls me to <placeName ref="pl1301">Llandrindodd</placeName> &amp; <placeName ref="pl1240">Aberystwith</placeName>, 
+                    could you give me a route from thence to <placeName ref="pl0001">Downing</placeName>, with the distances &amp; <sic>accomodations</sic>, 
+                    &amp; whether it is <hi rend="underline">easy</hi> to bring a Chaise that road.</p>
+                
+                <p>You astonish me much at what you say about our two learned Societies:<note type="editorial">Nash probably refers to the Society of Antiquaries of London, 
+                    of which he was elected a member in February 1773, and the Royal Society of London.</note> No one ought to be denyed to copy a picture, 
+                    or a MS. as we are only Trustees for the publick, &amp; an author of your established merit has a right to every thing that the learned 
+                    world can furnish, but in the minds of some people, there is a narrowness &amp; peevishness that one cannot account for: had I known your 
+                    wish, would chearfully have gone to <placeName ref="pl0699">London</placeName> to support it. – 
+                    <persName ref="pe0730">M<hi rend="superscript">rs</hi> Cocks</persName> left her two children 
+                    here<note type="editorial">Nash refers to the two elder sons of his daughter, Margaret Cocks:  
+                        <persName ref="pe0734">Edward Charles</persName> and <persName ref="pe0735">John Somers Cocks</persName>.</note> when she went 
+                    to <placeName ref="pl0699">London</placeName>, they are very fine boys, &amp; give us great amusement, but yours are of such a superior 
+                    age, that they would look upon ours with contempt. – <persName ref="pe0729">M<hi rend="superscript">rs</hi> Nash</persName> begs leave 
+                    to join me in sincerest compliments &amp; good wishes. &amp; believe us ever Yours most truly,</p>
+                
+                <closer>
+                    <signed><persName ref="pe0416">T. Nash</persName></signed>
+                   
+                    <dateline><placeName ref="pl1290">Bevere</placeName><lb/>
+                        May 20. 1788</dateline></closer>
+                
+            </div>
+            <div>
+                <p>
+                    <stamp type="handstamp"><placeName ref="pl0806">WORCESTER</placeName></stamp>
+                </p>
+                <p>
+                    <address><addrLine><persName ref="pe0232">Thomas Pennant Esq</persName><lb/> 
+                        <placeName ref="pl0001">Downing</placeName><lb/> <placeName ref="pl0702">Flintshire</placeName></addrLine></address>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

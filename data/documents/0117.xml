@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0117">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, describing progress of his tour and rebuking
+                    Paton for having one of his letters printed</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>27-28</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>Pennant's two letters from Ardmaddy and Inveraray, as well as his
+                            inventory and its Customs Office endorsement, are written on a single
+                            sheet and treated here as one document.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1772-08-12"/>
+                    <placeName ref="pl0266">Ardmaddy Castle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0118"/>
+                    <ref type="prev" target="ct0116"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <dateline><placeName ref="pl0266">Ardmady</placeName> Aug. 12<hi rend="superscript">th</hi> 1772</dateline>
+                <opener><salute>Dear Sir</salute></opener>
+
+                <p>In my last I acquainted you I had visited <placeName ref="pl0715">Skie</placeName>. My Route from thence is as follows. <placeName ref="pl0668">L. Broom</placeName>, <placeName ref="pl0670">Ledbeg in
+                        asignt</placeName>. <placeName ref="pl0672">Dundonell</placeName>, cross the
+                    country to <placeName ref="pl0673">L. mari</placeName>, <placeName ref="pl0720">L. Ewe</placeName>, <placeName ref="pl0675">Gareloch</placeName>.
+                        <placeName ref="pl0721">Glenelg</placeName>. <placeName ref="pl0678">L
+                        urn,</placeName>
+                    <placeName ref="pl0680">Ardnamurchan p<hi rend="superscript">t</hi></placeName>.
+                        <placeName ref="pl0681">Tobir mori Bay</placeName>. <placeName ref="pl0682">Aross</placeName>. <placeName ref="pl0684">C. Duart</placeName>. <placeName ref="pl0722">Dunolly Castle</placeName>; <placeName ref="pl0685">Dunstafnage</placeName>. <placeName ref="pl0686">Lochnell</placeName>.
+                        <placeName ref="pl0688">Lismore</placeName>. <placeName ref="pl0687">Beregonium</placeName>. <placeName ref="pl0691">Eisdale</placeName>,
+                        <placeName ref="pl0690">Gulph of Corrivechan</placeName>, <placeName ref="pl0266">Airdmady</placeName>.</p>
+                <p>As I now have sent my Baggage to <placeName ref="pl0603">Greenock</placeName> I
+                    must beg you would make my respectable compliments to <persName ref="pe0055">the
+                        Commisioners</persName> &amp; beg the favor of them to direct that my boxes
+                    &amp;c be not rummaged &amp; the things in them discomposed. I hereby annex a
+                    true list I beg to hear from you at <placeName ref="pl0328">Stone-Hive</placeName> &amp; am in much haste</p>
+                <closer><salute>Dear Sir y<hi rend="superscript">r</hi> most obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed></closer>
+
+                <postscript>
+                    <p>Be so good as to remind <persName ref="pe0019">M<hi rend="superscript">r</hi>
+                            Menzies</persName> of a parcel he was so kind as to take charge of which
+                        I wish you would keep till we meet.</p>
+                </postscript>
+            </div>
+            <div type="letter">
+                <opener><dateline><placeName ref="pl0217">Inverary Castle</placeName> aug. 15<hi rend="superscript">th.</hi></dateline>
+                    <salute>My Dear Sir</salute></opener>
+                <p>Let me entreat you never to suffer any parts of my Letters to appear in print.
+                    What you have done in the newspaper of the 8<hi rend="superscript">th</hi>
+                    instant hurts me very much, &amp; to all people of reflection has so puffing a
+                    look as to be very injurious to my character.</p>
+            </div>
+            <div type="enclosed">
+                <list>
+                    <item>1. Hair Trunk with books maps &amp;c.</item>
+                    <item>3 Boxes with Blankets Matrasses &amp;c</item>
+                    <item>1 Cask of bottled Porter</item>
+                    <item>1 D<hi rend="superscript">o</hi> stones, fossils, &amp;c</item>
+                    <item>1 D<hi rend="superscript">o</hi> Bed Furniture</item>
+                    <item>a Parcel of Cot Frames &amp; 1 p<hi rend="superscript">r</hi> of
+                        horns.</item>
+                </list>
+
+                <p>all these directed to <persName ref="pe0232">M<hi rend="superscript">r</hi>
+                        Pennant</persName> at <persName ref="pe0170">M<hi rend="superscript">r</hi>
+                        Middleton’s</persName>
+                    <placeName ref="pl0723">Liverpool</placeName>.</p>
+                <p>_______________________</p>
+                <p>2 Boxes &amp; a Portmantle for <persName ref="pe0139">M<hi rend="superscript">r</hi> Lightfoot </persName>
+                    <placeName ref="pl0076">Edinburgh</placeName>. Containing dried plants &amp;
+                    Linnen.</p>
+                <p>19<hi rend="superscript">th</hi> Aug.<hi rend="superscript">t</hi> 1772</p>
+            </div>
+            <div>
+
+                <p><handShift/>C <unclear reason="illegible"><choice>
+                            <abbr>officer</abbr>
+                            <expan>off<hi rend="superscript">r</hi></expan>
+                        </choice>.</unclear> &amp; <choice>
+                        <abbr>Compt<hi rend="superscript">r</hi></abbr>
+                        <expan>Comptroller</expan>
+                    </choice>. <placeName ref="pl0602"><unclear reason="illegible">P<hi rend="superscript">rt</hi>.</unclear> Glasgow</placeName>. In regard
+                    to the Candor and good Character of the Petitioner, the Board Agree to his being
+                    indulged in this request</p>
+                <closer><persName ref="pe0205">GM</persName> for y<hi rend="superscript">r</hi>
+                        Ser<hi rend="superscript">vnt</hi>
+                    <unclear reason="illegible">E</unclear></closer>
+            </div>
+            <div>
+                <p>
+                    <address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi></addrLine>
+                        <addrLine>at the Custom house</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address>
+                </p>
+                <p><unclear reason="illegible">2</unclear></p>
+            </div>
+        </body>
+    </text>
+</TEI>

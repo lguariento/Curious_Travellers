@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1021">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>
+                <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 
+            </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 23</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Sideways on the top of the letter in Richard Bull's hand</hi>:</p>
+                            17:6
+                            <lb/>17:6
+                            <lb/>17:6
+                            <lb/>17:6.
+                            <lb/>17:6.
+                            <lb/>4:7:6
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1782-08-16"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>The inclosed will inform you that the box with the <bibl type="authorial"><title ref="bi0013">2d part of the Tour</title></bibl>
+                    was sent this week to <placeName ref="pl0759">your house in Town</placeName>. <persName ref="pe0014">Moses</persName>
+                    will soon form a bill &amp; hopes the whole will meet <choice><abbr>y<hi rend="superscript">r</hi></abbr><expan>your</expan></choice>
+                    approbation. The <bibl type="authorial"><title ref="bi0012">first part</title></bibl> came safe: &amp; shall be
+                    returned at Christmas. a beginning is made to <bibl type="authorial"><title ref="bi0032">the journey to London</title></bibl>. The weather
+                        in these parts is dreadful &amp; must add to our calamities. I am</p>
+                <closer><salute>Dear Sir
+                    <lb/><choice><abbr>Y<hi rend="superscript">r</hi> affect:</abbr><expan>Your affectionate</expan></choice> humble <choice><abbr>Serv<hi rend="superscript">t</hi></abbr><expan>Servant</expan></choice></salute>
+                    <signed><persName ref="pe0232"><choice><abbr>Tho.</abbr><expan>Thomas</expan></choice> Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> <choice><abbr>Aug.</abbr><expan>August</expan></choice> 16<hi rend="superscript">th</hi> 1782.</dateline></closer>
+                </div>
+        </body>
+    </text>
+</TEI>

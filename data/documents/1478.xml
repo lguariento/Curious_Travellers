@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1478">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Jones to Thomas Pennant, 21 November 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR 2017 /TP22</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>item 2</locus></ab>
+                    </msContents>
+                    <physDesc><additions><p>The enclosure mentioned in the first paragraph of the letter contains material relating to Denbighshire extracted from George Owen, 
+                        <hi rend="italic">The Number of the Hundreds, Castells, Parish Churches and ffayres ... in all the Shiers of Wales</hi> (1602), also known as 
+                        the <hi rend="italic">Description of Wales</hi>. See a copy in the <hi rend="italic">Gentleman's Magazine</hi>, vol. 93, part 2 (1823), 
+                        pp. 512–13; and further <hi rend="italic">DWB</hi> s.n. George Owen. The material is not in John Jones's hand, but in the hand which  
+                        directed the letter to Pennant.</p>
+                        </additions></physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0322">John Jones</persName>
+                    <placeName ref="pl1553">Bodleian Library</placeName>
+                    <date when="1777-11-21">21 November 1777</date>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1432"/>
+                    <ref type="prev" target="ct1431"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Sir</salute>
+                <dateline><placeName ref="pl1553">Bodleian Library</placeName> Nov: 21 1777</dateline></opener>
+                
+                <p>I have this moment received the MS of M<hi rend="superscript">r</hi> Price which was unfortunately mislaid during our Preparation for 
+                    the annual visitation of the <placeName ref="pl1553">Bodleian</placeName> and not found 'till this morning. In the next Page you will find
+                    an Extract out of it containing an account of the Denbighshire Families. In my Letter of the 21 
+                    Oct:<note type="editorial">See <ref target="1431.xml">1431</ref>.</note> I sent you some Account of 
+                    <bibl type="authorial"><title ref="bi0711">Dod<add place="above">s</add>worth's Collection</title></bibl>. For further particulars relative 
+                    to it I refer you <add place="above">to</add> Gough's <bibl type="authorial"><title ref="bi0659">Anecdotes of British Topography</title></bibl> 
+                    under the Article Yorkshire, and to pag 7<del>9</del>8 of <persName ref="pe2145">Hearne</persName>'s Preface to <add place="above">the Appendix to</add> 
+                    <bibl type="authorial"><title ref="bi0713">Leland's Collectanea</title></bibl> part 2<hi rend="superscript">d</hi>.<note type="editorial">See 
+                        Richard Gough, <hi rend="italic">Anecdotes of British topography</hi> (London, 1768), pp. 543–4; and 'The Publisher's 
+                        Præliminary Observations', in Thomas Hearne (ed.), <hi rend="italic">Joannis Lelandi antiquarii de rebus Britannicis collectanea</hi> (6 vols., Oxonii, 1715), Vol. VI: 
+                        <hi rend="italic">Appendicis ad Joannis Lelandi Angiquarii Collectanea: Pars Secunda</hi>, pp. 52–95, esp. pp. 78–9. Gough gives a biography of 
+                        Roger Dodsworth and Thomas Hearne muses over Dodsworth's 'Collections (comprized in 162. Volumes, most of them in Folio) that are preserved in the Bodleian Library'. These 
+                        Dodsworth consistently augmented through his researches but left unpublished at his death. They were posthumously published by 'the equally 
+                        famous Sir William Dugdale, who added a third Volume, which is wholly owing to himself'.</note>
+               </p>
+                
+                <p>I find but very little matter relative to <placeName ref="pl0731">Wales</placeName> in it, among other Articles a transcript of 
+                    Carta <persName ref="pe0650">Edw 1<hi rend="superscript">m<unclear>i</unclear></hi></persName> concedens <placeName ref="pl3059">Castellum de Ruthin</placeName> 
+                    <persName ref="pe1035">Reginaldo de Grey</persName>. Anno 10 Edw. 1mi<note type="editorial">'A Charter of Edward Ist granting the Castle of Ruthin 
+                    to Reginald Grey. Ten[th year of the reign of] Edward 1st.'</note> which I will transcrib<del>l</del>e for you if you think proper. I have 
+                    <gap reason="page torn" unit="words" quantity="1"/> been able as yet to find whether the Shield upon 
+                    <persName ref="pe2142">Ithel F<gap reason="page torn" unit="letters" quantity="several"/></persName> <gap reason="page torn" unit="letters" quantity="1"/>omb 
+                    contains the Arms of any religious Order. I am with great Respect
+                </p>
+                
+                <closer><salute>Sir<lb/>
+                    your most obedient humble Servant
+                </salute>
+                    <signed><persName ref="pe0322">John Jones</persName></signed></closer>
+                
+            </div>
+            <div>
+                <p><address><addrLine><persName ref="pe0232">T. Pennant Esq<hi rend="superscript">r</hi>.</persName></addrLine></address></p></div>
+            
+        </body>
+    </text>
+</TEI>

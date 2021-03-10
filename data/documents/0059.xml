@@ -1,0 +1,1492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0059">
+    <teiHeader type="s">
+        <fileDesc>
+            <titleStmt>
+                <title>Charlotte Malkin, Journal of travels in Scotland 1814
+                    <date>1814</date></title>
+                <author>Charlotte Malkin</author>
+                <respStmt>
+                    <name>Edited with an Introduction by Alex Deans</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <date when="1814"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>British Library</repository>
+                        <idno>ADD MS 85321</idno>
+                    </msIdentifier>
+                    <msContents> </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p><pb n="f.1r"/> On Saturday July 2<hi rend="superscript">nd.</hi> 1814 — <persName ref="pe0002">D<hi rend="superscript">r.</hi> Malkin</persName>, <persName ref="pe0030">Benjamin</persName>, <persName ref="pe0071">Miss
+                        Hall</persName> &amp; myself left our houses at <placeName ref="pl3272">Bury
+                            S<hi rend="superscript">t.</hi> Edmunds</placeName> with an intention of
+                    making a Summer excursion to the <placeName ref="pl0711">Highlands of
+                        Scotland</placeName>. We proceeded this day as far as <placeName ref="pl3273">Grantham</placeName> where we slept. — We found nothing that
+                    much pleased or interested us in this day's journey, except the town of
+                        <placeName ref="pl0790">Stamford</placeName> which we pressed through, which
+                    is an handsome country town, well situated, and near to which is <placeName ref="pl0764">Burleigh</placeName>, the seat of the <persName ref="pe0096">Marquis of Exeter</persName>. —</p>
+                <p>Sunday 3<hi rend="superscript">rd.</hi> July — We proceeded as far as <placeName ref="pl0763">York</placeName> — we found nothing beautiful in the country
+                    through which we passed, except that the greater part of <placeName ref="pl0770">Yorkshire</placeName> is finely wooded. — The Town of <placeName ref="pl0768">Doncaster</placeName> is handsome. We slept at <placeName ref="pl0763">York</placeName>.</p>
+                <p>Monday 4<hi rend="superscript">th.</hi> In the morning before breakfast we
+                    visited the Cathedral — We found nothing else in this city work devoting any
+                    time <pb n="f.1v"/> to — There is a pleasant walk by the side of the river — the
+                    Town is very <unclear reason="illegible">shabby</unclear>, having narrow streets
+                    &amp; mean <add place="above">brick</add> buildings, generally speaking. The
+                        <placeName ref="pl0932">Minster</placeName> is a fine pile of building, in
+                    the Gothic style. The nave is extremely handsome. There is a great quantity of
+                    very fine painted glass in all the windows, &amp; very exquisite carving in the
+                    ornaments of the Choir &amp; Skreen. — We pursued our journey after breakfast,
+                    &amp; reached <placeName ref="pl0052">Durham</placeName>, about 6 o'clock</p>
+                <p>The situation of this City is very grand. The <placeName ref="pl0934">Cathedral</placeName> &amp; the <placeName ref="pl0934">Castle</placeName>
+                    are built upon a high rock which overhangs the river <placeName ref="pl3017">Wear</placeName> — The <placeName ref="pl0934">Cathedral</placeName> is a
+                    fine pile of the Saxon order of Architecture.</p>
+                <p>There was formerly a fine Chapter House adjoining the Church, but the
+                    Prebendaries some years back determined on taking down this part of the Ancient
+                    structure &amp; then erected a Modern room for the purpose of their meetings,
+                    which, however <pb n="f.2r"/> comfortable in itself, but ill accords with all
+                    that surrounds it, &amp; remains a disgraceful monument to the wretched want of
+                    taste &amp; feeling of those men, who could possibly consent to the destruction
+                    of so ancient &amp; venerable a part of their Cathedral. Here is scarcely any
+                    painted Glass nor any monuments worth mentioning. The huge Saxon Pillars give a
+                    majesty &amp; solemnity to the Nave of this Church beyond which I have observed
+                    in any other. The tomb of <persName ref="pe1299">S<hi rend="superscript">t.</hi>
+                        Cuthbert</persName> is seen in an adjoining chapel. —</p>
+                <p>5<hi rend="superscript">th.</hi> — We entered <placeName ref="pl0705">Scotland</placeName> this evening at <placeName ref="pl3274">Coldstream</placeName>, by a fine Stone bridge over the <placeName ref="pl0727">Tweed</placeName>.<note type="editorial">Malkin's route of
+                        entry into Scotland is relatively unusual, with most tourists tending to
+                        cross the border further east, at Berwick, or to the west, near
+                        Gretna.</note> we slept at <placeName ref="pl0415">Kelso</placeName>, where
+                    we saw the ruins of the <placeName ref="pl3275">Abbey</placeName> — There are
+                    still considerable remains of the Tower of the Church, &amp; other parts of the
+                    building — those parts partake of the Saxon &amp; the Gothic orders.</p>
+                <p>At <placeName ref="pl0415">Kelso</placeName>, just above the Bridge, the two
+                    rivers so often sung, the <placeName ref="pl0727">Tweed</placeName> &amp; the
+                        <placeName ref="pl0414">Teviot</placeName>, unite their streams — On
+                    Wednesday the 6<hi rend="superscript">th.</hi> of July, we pursued the <add place="above">upward</add> course of the <pb n="f.2v"/>
+                    <placeName ref="pl0727">Tweed</placeName> to <placeName ref="pl0405">Melrose</placeName>; fording it about two or three miles short of
+                        <placeName ref="pl0405">Melrose</placeName>, to see <placeName ref="pl0410">Dryburgh Abbey</placeName>, the Seat of <persName ref="pe0040">Lord
+                        Buchan</persName>.</p>
+                <p>There are considerable remains of the Abbey still standing, close to which is a
+                    modern built house, where <persName ref="pe0040">Lord Buchan</persName> resides
+                    a good deal — he has already prepared his tomb there. — After seeing this, we
+                    recrossed the <placeName ref="pl0727">Tweed</placeName>, &amp; soon found our
+                    selves at <placeName ref="pl0405">Melrose</placeName> — in our way we saw the
+                    celebrated hill of Cowden-knows.<note type="editorial">A reference to the
+                        Scottish ballad, 'Broom of the Cowdenknowes' (Child 217). The reason for
+                        Malkin's association of the work with a particular hill near Melrose is
+                        unclear.</note></p>
+                <p><placeName ref="pl0405">Melrose</placeName> is situated at the foot of the
+                        <placeName ref="pl3276">Eildon Hills</placeName> — the <placeName ref="pl3277">Abbey</placeName> is by far the finest remnant of antiquity I
+                    have ever seen — There is a very large portion still standing, &amp; the
+                    ornamental parts of the architecture are in many places in perfect preservation.
+                    The stone with which it is built, is of a fine mellow grey, with a roseate tint;
+                    &amp; the hardness of it is such, that the carving is as sharp &amp; perfect as
+                    if it were Marble. The vanity <pb n="f.3r"/> of exquisite patterns of border
+                    work, round the cornices, pillars &amp;c. is quite astonishing &amp; all are so
+                    tasteful &amp; elegant, that you can scarcely give a preference to either.</p>
+                <p>We lingered long, &amp; knew not how to leave this enchanting scene, combining so
+                    much natural beauty, with such interesting remains of days long gone by —
+                    however we left it time enough to pursue our journey, &amp; reached <placeName ref="pl0076">Edinburgh</placeName> late in the evening. We sent out our
+                    letters of introduction, &amp; on <hi rend="underline">Thursday the 7<hi rend="superscript">th.</hi></hi> we were called upon by <persName ref="pe0121">D<hi rend="superscript">r.</hi> &amp; M<hi rend="superscript">rs.</hi> Burt</persName>, &amp; <persName ref="pe0084">M<hi rend="superscript">r.</hi> Charles Macdonald</persName>, who kindly
+                    enlisted themselves in our service, &amp; walked with us to see many parts of
+                    this very fine Town. I was quite astonished, &amp; delighted with the situation
+                    of the place, the grandeur of the surrounding hills, their summits crowned by
+                    the <placeName ref="pl1031">Castle</placeName>, the <placeName ref="pl2267">Pillar</placeName> erected to the memory of <persName ref="pe1435">Nelson</persName>, &amp; other superb buildings.</p>
+                <p><pb n="f.3v"/> We also made acquaintance with the family of <persName ref="pe0070">M<hi rend="superscript">r.</hi> Gray</persName>, &amp;
+                        <persName ref="pe0074">M<hi rend="superscript">r.</hi> Hogg the Ettrick
+                        Shepherd</persName>. We had reason to be exceedingly pleased with all the
+                    people we saw in <placeName ref="pl0076">Edinburgh</placeName> — Nothing could
+                    exceed the kindness of their deportment towards us, &amp; they contrived to make
+                    us feel ourselves rather as brought among old friends, than introduced amongst
+                    strangers — On <hi rend="underline">Sunday the 10<hi rend="superscript">th.</hi></hi> we went, accompanied by <persName ref="pe0070">M<hi rend="superscript">r.</hi> Gray</persName> &amp; <persName ref="pe0074">M<hi rend="superscript">r.</hi> Hogg</persName> to see <placeName ref="pl0967">Roslyn Castle</placeName> &amp; <placeName ref="pl0385">Hawthorndean</placeName>. We passed the morning most delightfully in this
+                    sequestered &amp; romantic spot; &amp; wandered along the banks of the river
+                        <add place="above">(the <placeName ref="pl2803">North
+                        Esk</placeName>,)</add> amidst the finest rocks &amp; most romantic Scenery
+                    — We also visited the <placeName ref="pl0386">Chapel at Roslyn</placeName>,
+                    which is in better preservation than any remnant of antiquity I have ever seen —
+                    The roof, from within, is perfect, &amp; all the pillars remain as <pb n="f.4r"/>they were first erected — It is a building of the Gothic order. There is very
+                    little of the Castle remaining, &amp; what there is, does not give you an idea
+                    of its ever having been magnificent. After having finished our morning excursion
+                    to <placeName ref="pl0386">Roslyn</placeName>, we returned to dinner at
+                        <persName ref="pe0070">M<hi rend="superscript">r.</hi> Grays</persName> at
+                        <placeName ref="pl2275">S<hi rend="superscript">t.</hi> Leonard's
+                        Hill</placeName>. On Monday we visited what remained to be seen at <persName ref="pl0076">Edinburgh</persName> &amp; <persName ref="pe0070">M<hi rend="superscript">r.</hi> Gray</persName>, <persName ref="pe0074">M<hi rend="superscript">r.</hi> Hogg</persName> &amp; the two M<hi rend="superscript">r.</hi> M<hi rend="superscript">c. Donalds</hi> dined
+                    with us at the <placeName ref="pl0659">Royal Hotel</placeName>.<note type="editorial">Throughout her journal, Malkin makes frequent reference to
+                        the two young Mr Macdonalds. These are the aforementioned <persName ref="pe0084">Charles</persName> and <persName ref="pe0081">Matthew
+                            Macdonald</persName>, sons of <persName ref="pe0079">Norman
+                            Macdonald</persName>, who held the tack of the island of Scalpay, near
+                        Skye.</note>
+                    <persName ref="pe0124">M<hi rend="superscript">rs</hi> Burt</persName> came in
+                    the evening, &amp; we all walked to <placeName ref="pl3285">S<hi rend="superscript">t.</hi> Bernards Well</placeName>.</p>
+                <p><hi rend="underline">On Tuesday the 12<hi rend="superscript">th.</hi></hi> We all
+                    left <placeName ref="pl0076">Edinburgh</placeName> and pursued our journey
+                    Northwards. We crossed <placeName ref="pl0082">Queens Ferry</placeName> &amp;
+                    reached <placeName ref="pl0085">Kinross</placeName> where we slept. <add place="above">We walked on the banks of <placeName ref="pl0086">Loch
+                            Leven</placeName> in the evening.</add> On Wednesday the 13<hi rend="superscript">th.</hi> we came to <placeName ref="pl0235">Stirling</placeName>, where we slept. We visited in our way from <placeName ref="pl0085">Kinross</placeName> to <placeName ref="pl0235">Stirling</placeName>, the <placeName ref="pl0088">Rumbling Brig</placeName>
+                    <pb n="f.4v"/><add place="above">(<placeName ref="pl3286">the Devil's
+                            Mill</placeName>,)</add> &amp; the <placeName ref="pl0089">Cauldron
+                        Linn</placeName>
+                    <add place="above">(on the <placeName ref="pl3287">River
+                        Devon</placeName>.)</add> The Grandeur of the fall at the <placeName ref="pl0089">Linn</placeName>, and the sublimity of the Scenery which
+                    surrounds it, quite overcame my spirits; nor were these improved by our visiting
+                    afterwards the <placeName ref="pl0090">Castle of Gloom</placeName>, now called
+                        <placeName ref="pl0090">Campbell's Castle</placeName>, at <placeName ref="pl3278">Dollar</placeName></p>
+                <p>I rather wish I could visit scenes of this nature, without my sensibilities being
+                    so much awakened. Perhaps if I felt their sublime beauties less
+                    enthusiastically, I should behold them with <add place="above">a pleasure</add>
+                    better adapted to the common course, &amp; the useful purposes of society. But
+                    let me hope; that if feelings which excite an almost painful admiration of the
+                    Author of all these wonders, a little unfit me at the moment for the purposes of
+                    common life, <pb n="f.5r"/>the may at the same Time lead me to look beyond this
+                    present world; &amp; teach <add place="above">me</add> to aspire to that perfect
+                    happiness in a future state, which the changeable &amp; imperfect nature of all
+                    things here forbids me ever to hope for on earth!<note type="editorial">Malkin's
+                        self-chastisement at her powerful response to sublime scenery reflects the
+                        complex and often gendered politics of the aesthetics of landscape
+                        appreciation in the Romantic period. For Susan Matthews, the passage
+                        suggests the disjunction between the impersonal, touristic voice of the
+                        journal, Malkin's grief at the loss of her son, and her anxieties about the
+                        ongoing war with Napoleon. See Matthews, 'Charlotte Malkin’s Waterloo Diary
+                        and the Politics of Waterloo Tourism', <hi rend="italic">Literature
+                            Compass</hi>, 11/3 (2014), 218–231, 222.</note></p>
+                <p>On <hi rend="underline">Thursday the 14<hi rend="superscript">th.</hi></hi> we
+                    walked before — breakfast to see the <placeName ref="pl1193">Castle of
+                        Stirling</placeName>. On Mounting the heights we were greatly delighted to
+                    perceive <placeName ref="pl0076">Edinburgh</placeName>, its hills, its
+                        <placeName ref="pl1031">Castle</placeName>, in the distance. I thought we
+                    had before taken our last view of this delightful palace &amp; was greatly
+                    rejoiced to recognise it once more. The <placeName ref="pl3279">Pentland
+                        Hills</placeName> over <placeName ref="pl0076">Edinburgh</placeName> were
+                    also seen from this place, as well as the long &amp; beautiful range of the
+                        <placeName ref="pl0812">Oichill Hills</placeName>, which extend between
+                        <placeName ref="pl3278">Dollar</placeName> &amp; <placeName ref="pl0235">Stirling</placeName>. — On looking Northward from the <placeName ref="pl1193">Castle</placeName>, we perceived the superb heights of
+                        <placeName ref="pl0609">Ben-Lomond</placeName>, &amp; <placeName ref="pl1167">Ben-Ledi</placeName>, <pb n="f.5v"/>with others of various
+                    magnitude &amp; beauty. Between us &amp; <placeName ref="pl0076">Edinburgh</placeName> a fertile plain extended, through which the river
+                        <placeName ref="pl1116">Forth</placeName> meandered beautifully. — After
+                    breakfast we quitted <placeName ref="pl0235">Stirling</placeName>, &amp; within
+                    a few miles of it, came close to the borders of the river <placeName ref="pl1115">Teith</placeName>, the course of which we often caught a
+                    glimpse of, while we pursued our journey to <placeName ref="pl2324">Callander</placeName>, a little Town at the foot of <placeName ref="pl1167">Ben-Ledi</placeName>. Arriving here, the Mountain seems to shut out the
+                    world on almost every side — The river <placeName ref="pl1115">Teith</placeName>
+                    is become a large &amp; beautiful river, rapid in its course &amp; its waters
+                    perfectly clear. We took a delightful walk after dinner to the <placeName ref="pl3288">Bracklin Brig</placeName><note type="editorial">The Bracklinn
+                        Falls and their locale were recommended to tourists by the minister of
+                        Aberfoyle, Patrick Graham, in his <hi rend="italic">Sketches Descriptive of
+                            Picturesque Scenery on the Southern Confines of Perthshire, including
+                            the Trossachs, Lochard, etc.</hi> (Edinburgh: 1806).</note>
+                    <add place="above">over the little river <placeName ref="pl3289">Kelty</placeName></add> — Here the rocks the waterfall, &amp; the whole
+                    of the surrounding scenery is wild &amp; beautiful, <pb n="f.6r"/> but after the
+                        <placeName ref="pl0089">Caldron Linn</placeName>, it should seem to me, that
+                    all other water-falls must seem comparitivly tame &amp; uninteresting. — In that
+                    magnificent Scene, the body of water is so large, &amp; the rocks which
+                    interrupt its progress are so stupendous, that the dash of waters is immense,
+                    &amp; the foam that is cast upwards, becomes as if were embodied. It has not the
+                    usual appearance of Water in a foaming state, but looks rather like ice, or
+                    broken glass, tossed about in a most magnificent &amp; beautiful confusion.</p>
+                <p>On <hi rend="underline">Friday the 15.</hi> we set out early to visit the
+                        <placeName ref="pl2177">Trossacks</placeName> &amp; <placeName ref="pl2170">Loch Katrine</placeName>
+                    <add place="above">(passing in our way thither, <placeName ref="pl3280">Loch
+                            Venachar</placeName> &amp; <placeName ref="pl2179">Loch
+                            Achray</placeName>,)</add> — The day was as fine as could be wished; it
+                    afforded the varieties of clouds &amp; sunshine, &amp; showed the stupendous
+                    Mountain, <placeName ref="pl1168">Ben Venue</placeName>, in all its grandeur
+                    &amp; beauty. The <placeName ref="pl2170">Loch</placeName> was as calm as
+                    possible, &amp; beautifully clear. The richly clothed hills, called the
+                        <placeName ref="pl2177">Trossacks</placeName>, &amp; the highest craggy
+                    point of <placeName ref="pl2175">Ben-An</placeName>, contrasted <pb n="f.6v"/>very finely with the serene beauty of the Lake below. — We hired a Boat, &amp;
+                    rowed to the creek just below the <placeName ref="pl3316">Goblin's
+                        cave</placeName>, which we visited — We then crossed to the Northern side
+                    &amp; climbed a high point of rock, from which we viewed the Lake &amp; the
+                    surrounding hills, &amp; commanded all their various beauties. — We took cold
+                    provisions with us, &amp; landed on <placeName ref="pl2176">Ellen's
+                        Isle</placeName> to eat out dinners there. The whole of this scene is so
+                    poetically, &amp; at the same time so accurately described by <persName ref="pe1437">Walter Scott</persName>, that when I read his poem of "<bibl type="authorial"><title ref="bi0070">The Lady of the
+                        Lake</title></bibl><note type="editorial">Walter Scott's poem, <hi rend="italic">The Lady of the Lake</hi> (Edinburgh: 1810), contributed
+                        to the development of Loch Katrine and the Trossachs as a major tourist
+                        site, although the area had previously been brought to the attention of
+                        travellers in Sarah Murray's <hi rend="italic">A Companion and Useful Guide
+                            to the Beauties of Scotland</hi> (London: 1799).</note> I shall always
+                    be able I hope, to call to my recollection the very great pleasure I have
+                    enjoyed this day. — We returned to <placeName ref="pl2324">Callander</placeName>
+                    in the evening, &amp; slept there.</p>
+                <p>Saturday, July 16<hi rend="superscript">th.</hi> We came to <placeName ref="pl2180">Aberfoil</placeName> to breakfast, &amp; the day being very
+                    fine we were tempted to hire Ponies, &amp; to send the carriage <pb n="f.7r"/>forward to <placeName ref="pl1067">Row-Ardennan</placeName> — Our purpose was
+                    to see <placeName ref="pl2181">Loch Ard</placeName>, which lies between
+                        <placeName ref="pl2180">Aberfoil</placeName> &amp; the Foot of <placeName ref="pl0609">Ben Lomond</placeName>. (We had seen, &amp; greatly admired the
+                        <placeName ref="pl1117">Lake of Menteith</placeName>, in our road from
+                        <placeName ref="pl2324">Callander</placeName> to <placeName ref="pl2180">Aberfoil</placeName>.)</p>
+                <p>We proceeded, (<persName ref="pe0071">Miss Hall</persName> &amp; myself on our
+                    ponies, <persName ref="pe0002">D<hi rend="superscript">r.</hi>
+                    Malkin</persName>, <persName ref="pe0030">Benjamin</persName>, <unclear reason="illegible">Huff</unclear>, &amp; the guide <del unit="words" quantity="2"/>
+                    <add place="above">on foot</add>, all along the north side of <placeName ref="pl2181">Loch-Ard</placeName>. Scarcely any thing can surpass in beauty
+                    the first view of this lovely lake; its scenery is very rich, rather pastoral
+                    &amp; soft, than sublime. — We left the lake, &amp; soon began to wind round the
+                    side of a hill, which having again descended by a narrow stoney track, we
+                    advanced to the foot of <placeName ref="pl0609">Ben-Lomond</placeName>. The
+                    river <placeName ref="pl1116">Forth</placeName> takes its rise in this mountain
+                    &amp; we had to ford across it. — The poney upon which I rode, had shown a
+                    strong inclination to turn towards Water, wherever we had pass'd it; but now it
+                    felt the refreshing stream, all <pb n="f.7v"/>my efforts were ineffectual to
+                    prevent its having the full enjoyment of it, &amp; when we were just in the
+                    deepest part of the fort, it determined upon lying down in the river. I was well
+                    aware that nothing was left for me, but to disengage my foot from the stirrup,
+                    &amp; my knee from the pummel of the saddle; in these points I succeeded to my
+                    wishes, &amp; gently rolled backwards into the water; receiving no other injury
+                    than that of a complete — drenching. — This would have been a matter of no
+                    consequence whatever, had I been within reach of a change of habiliments — but
+                    out baggage had been sent forward with the carriage, so I could get nothing dry
+                    to put on, till we reached the other side of the mountain, &amp; met the
+                    carriage at <placeName ref="pl1067">Row-Ardennan</placeName>. It had been our
+                    intention to ascend to the Top, but the accident which had <pb n="f.8r"/>befallen me, put this quite out of the question, &amp; we had reason
+                    afterwards to think it had been a very fortunate one, as we soon found that our
+                    guide was nearly as much in the dark as ourselves; &amp; we were very thankful
+                    to obtain the guidance &amp; assistance of a Highland youth who lived in a cabin
+                    on the mountain, to lead us safely over the southern shoulder of <placeName ref="pl0609">Ben-Lomond</placeName> to <placeName ref="pl1067">Rowardennan</placeName>. We went about a mile or two beyond the <placeName ref="pl1116">Forth</placeName>, on our ponies; but we soon found that our
+                    only safety lay in trusting to our own feet, &amp; the ponies were led for the
+                    rest of the way, while we walked it: a — distance of about six or seven miles.
+                    The people on the other side told us they would be quite astonished to see us
+                    with the ponies, &amp; they believed it was the first time a horse had ever been
+                    brought over that part of the mountain.</p>
+                <p>In spite of all our fatigues, &amp; the weight of my wet clothes, I greatly
+                    enjoyed the fine <pb n="f.8v"/>view we saw towards the East, from the highest
+                    point to which we ascended. The Lochs of <placeName ref="pl1117">Mentieth</placeName> &amp; of <placeName ref="pl2181">Ard</placeName>,
+                    which we had passed, lay in the plains beneath us: In the distance to the East,
+                    we plainly perceived the ridges of the <placeName ref="pl3279">Pentland
+                        Hills</placeName> by <placeName ref="pl0076">Edinburgh</placeName>, &amp;
+                    the <placeName ref="pl0812">Oichill Hills</placeName> near <placeName ref="pl0235">Stirling</placeName>, with <placeName ref="pl1193">Stirling
+                        Castle</placeName> rising in full magnificence &amp; crowning the whole. —
+                    The day was uncommonly fine, &amp; by the time we descended the mountain, my
+                    clothes were nearly dry. I took no cold, nor did I feel any ill effects from
+                    this little accident, beyond what the fatigue of so laborious a walk must
+                    occasion me. <hi rend="underline">On Sunday the 17<hi rend="superscript">th.</hi></hi>
+                    <persName ref="pe0002">D<hi rend="superscript">r.</hi> Malkin</persName> &amp;
+                        <persName ref="pe0030">Benjamin</persName> rose early, the morning being
+                    very clear, &amp; ascended with a competent guide to the utmost top of
+                        <placeName ref="pl0609">Ben-Lomond</placeName>. After their descent, we took
+                    Boat, &amp; spent a couple of hours very delightfully <pb n="f.9r"/>on
+                        <placeName ref="pl0223">Loch Lomond</placeName> — We landed at the Island
+                    which is called Bell-Island,<note type="editorial">An alternative name for
+                            <placeName ref="pl1113">Inchatavannach</placeName>, derived from the
+                        historical presence of a bell known as St Kessog's Bell on the eminence of
+                        Tom na Clog (The Hill of the Bell).</note> &amp; from a very high rock upon
+                    it, we looked over a great portion of this beautiful Lake; our view took in all
+                    the numerous islands, &amp; extended Southwards as far as <placeName ref="pl0226">Dumbarton</placeName> — We dined at <placeName ref="pl0224">Luss</placeName>, where we were quite astonished at seeing such multitudes
+                    of well dressed persons male &amp; female, who we were told had come to take the
+                    Sacrament at the Kirk, in the morning, &amp; had staid to dinner at the Inn. —
+                    The solemnities of the morning seemed to be all forgotten, &amp; the assemblage
+                    of men &amp; women, gave you rather the idea of a Wake than of a party assembled
+                    for the fulfilment of any religious rite — however we saw nothing riotous or
+                    improper; though the impression left upon our minds was not at all of a native
+                    correspondent with the idea of a large assemblage of persons met for any
+                    religious purpose. <pb n="f.9v"/>In this multitude of people, they were all
+                    generally well dress'd, &amp; perfectly clean &amp; nice — A few only of the men
+                    wore the genuine highland garb, which we regretted not to find more general.</p>
+                <p>Almost all the women, the young ones more particularly, were dress'd in white
+                    gowns; most of these also had hats or bonnets; but amongst the middle-aged,
+                    &amp; elderly women, scarcely any wore a hat, but all had their large high mob
+                    caps, which are as clean &amp; as white as snow. They all had shoes &amp;
+                    stockings also; a circumstance which renders Sunday a very pleasant day in
+                        <placeName ref="pl0705">Scotland</placeName>; for on all others, the large,
+                    dirty, naked feet of all the women of the lower orders, make a most disgusting
+                    &amp; offensive appearance. There seems to be a great inconcistency between the
+                    clean <pb n="f.10r"/>Sunday garb of all these cottagers, &amp; the miserable
+                    dirty hovels in which they live. These cabins look so wretched, that in
+                        <placeName ref="pl0775">England</placeName> we should not think them fit
+                    places for our pigs to be fed in: &amp; yet at the doors of these wretched huts,
+                    you see decent looking well dress'd men &amp; women, with their linen as white
+                    as possible, &amp; their complexions blooming, &amp; perfectly healthy. After
+                    dining at <placeName ref="pl0224">Luss</placeName>, we proceeded to <placeName ref="pl0222">Tarbet Inn</placeName> — We had a magnificent ride, close to
+                    the <add place="above">western</add> side of the Lake the whole distance —
+                    Nothing could be more superb than the scenery here. <placeName ref="pl0609">Ben-Lomond</placeName> stretching the whole length of our ride nineteen
+                    miles, on the eastern side; &amp; our road winding along under the sides of
+                    wooded &amp; craggy mountains, each rivalling the other in grandeur &amp;
+                    beauty.</p>
+                <p><hi rend="underline">On Monday the 18<hi rend="superscript">th.</hi></hi> We came
+                    after breakfast <pb n="f.10v"/><placeName ref="pl1008">Aroquhar Inn</placeName>,
+                    at the head of <placeName ref="pl0221">Loch-Long</placeName>. The craggy heights
+                    of <placeName ref="pl1171">Ben-Arthur</placeName>, or <placeName ref="pl1171">Cobler</placeName>, over-hang the northern extremity of this Lake — We went
+                    in the carriage about eight-miles down its eastern side, till we came within
+                    sight of <placeName ref="pl3281">Loch-Goyle</placeName> &amp; <placeName ref="pl0614">Loch-Gair</placeName>; the former falling into <placeName ref="pl0221">Loch-Long</placeName> from the west; the latter stretching out
+                    towards the South, &amp; falling, as <placeName ref="pl0221">Loch-Long</placeName> also does, into the <placeName ref="pl0833">Firth of
+                        Clyde</placeName>, which we ascended above the Lake. We had a delightful
+                    ride back to our Inn at <placeName ref="pl1008">Aroquhar</placeName>, winding
+                    along the sides of the Lake; having the grand range of the <placeName ref="pl1008">Aroquhar</placeName> Mountains, with their rude &amp; rocky
+                    points, to the west &amp; north of our view. — Notwithstanding the very rugged
+                    &amp; barren appearance of these heights, there are many little spots cultivated
+                    at their bases, with little cottages, &amp; patches of corn growing which give a
+                    variety &amp; beauty to the scene: <pb n="f.11r"/>On the whole, the character of
+                    this Loch is that of extreme wildness; but it goes no further — there is nothing
+                    terrific, though the rocks &amp; heights are stupendous. —</p>
+                <p>One of the very great beauties, which characterises, in a greater or lesser
+                    degree the scenery near all the Lochs which we here witness'd, is the profusion,
+                    &amp; endless variety <add place="above">with</add> which some of the
+                    neighbouring hills are covered. Birches, Alders, Mountain-Ash, Oaks, Firs; &amp;
+                    Brush-wood of every description, grow on their steep sides in rich profusion;
+                    and near to the road-side there is the greatest display of wild flowers I have
+                    ever seen in any country. The wild-roses are particularly beautiful, &amp; are
+                    of a deep rose coulour, almost crimson. The white roses are luxuriant &amp;
+                    delicate; honeysuckles, heaths of every coulour &amp; description, &amp; various
+                    other smaller plants, seem to grow out of the bare rock, &amp; give fragrance as
+                    well as beauty to its sides &amp; tops. I have never seen any which could vie
+                    with them in <placeName ref="pl0775">England</placeName>. <pb n="f.11v"/><hi rend="underline">Tuesday the 19<hi rend="superscript">th.</hi></hi> We
+                    proceeded on our way to <placeName ref="pl1072">Inverary</placeName>. Our road
+                    from <placeName ref="pl1008">Aroquhar</placeName> to <placeName ref="pl1069">Cairndow</placeName> led through the wild &amp; sequestered passes of
+                        <placeName ref="pl1068">Glencroe</placeName> &amp; <placeName ref="pl1118">Glenkinglass</placeName>, the hill, called <placeName ref="pl0220">"Rest
+                        &amp; be thankful"</placeName>, being between these two passes — The scenery
+                    in these Glens is extremely dreary, and the very high hills which shut in the
+                    traveller on both sides, are surmounted by tremendous rocks — their sides have
+                    some verdure, mixed with large masses of rock; &amp; perpetually broken by
+                    mountain torrents which force their way into the river below — In general the
+                    hollow of the Glen is so narrow, as to leave room for little more than the road
+                    which is carried through it — but here &amp; there, where there is a little
+                    breadth of valley, there is a cottage erected &amp; a little patch of cultivated
+                    ground enlivens the dreary scene. — What I have <pb n="f12r"/>said above,
+                    relates principally to <placeName ref="pl1068">Glencroe</placeName>; <placeName ref="pl1118">Glenkinglass</placeName> is of rather a different character —
+                    here the mountain sides to the right &amp; left, are more gentle in their
+                    acclivities: they are covered with verdure, &amp; grazed by the beautiful sheep
+                    of this Highland country. Their wool is much longer &amp; finer than that of the
+                    sheep we see in <placeName ref="pl0775">England</placeName>; &amp; their faces
+                    have the eager &amp; lively expression of the goat: they all have horns, which
+                    grow in the same manner as those of the goat. At the end of this glen, we begin
+                    to see trees again, &amp; were glad to return to something which indicated that
+                    we were not very distant from a more inhabited country. We baited our horses,
+                    &amp; refreshed ourselves at <placeName ref="pl2183">Cairn-dow</placeName>, a
+                    nice comfortable little Inn at the Northern end of <placeName ref="pl1070">Loch
+                        Fine</placeName>. We then proceeded to — <placeName ref="pl1072">Inverary</placeName>, going all the way by the borders of the Lake, on the
+                    Western-side</p>
+                <p><pb n="f12v"/> Nothing could be more delightful than the whole of our ride. The
+                    first view of the <placeName ref="pl0217">Castle</placeName> &amp; <placeName ref="pl1072">Town of Inverary</placeName>, standing at the border of a fine
+                    bay in the Loch, is wonderfully striking. — Nothing can be imagined more
+                    beautiful — the great expanse of Water, the pretty little Town, the hills on all
+                    sides, some soft &amp; green, others finely wooded to their summits, &amp;
+                    others barren &amp; rocky; form altogether an assemblage of all that is pleasing
+                    to the eye, and delightful to the heart. — At the Inn, on our arrival, we were
+                    met by the two M<hi rend="superscript">r.</hi> Macdonalds, who had left
+                        <placeName ref="pl0076">Edinburgh</placeName> to accompany us in some part
+                    of our tour, &amp; who had arrived at <placeName ref="pl1072">Inverary</placeName> for this purpose, the day before. — <hi rend="underline">Wednesday the 20<hi rend="superscript">th.</hi></hi> We all
+                    set out together, four of us in the Carriage, &amp; two on the Barouche, to take
+                    a drive through the beautiful <pb n="f.13r"/>grounds of the <persName ref="pe1433">Duke of Argyll</persName>. There is a great deal of natural
+                    beauty in this place, &amp; all that can be added by — planting &amp;c. is done.
+                    We enjoyed our ride exceedingly — After we had been round the park, we proceeded
+                    a few miles down the border of this fine Lake — greatly as we had been pleased
+                    in our more confined drive through the park, we were infinitely more delighted
+                    with the <del unit="words" quantity="1"/> open, &amp; grand <del unit="letters" quantity="2"/> scenery of the Lake. There was a delightful breeze, which
+                    filled the sails of the numerous little vessels which glided on its surface. It
+                    was bounded on all sides, to our view at least, by lofty mountains — close to
+                    our road on the other hand, were the finest trees, both beech and limes, as well
+                    as most others sorts of forest trees; but the two first mentioned grow in
+                    peculiar luxuriance here. We returned <pb n="f.13v"/>to our Inn to dinner, sorry
+                    to find our delightful morning come to its close. In the evening we took a long
+                    walk, &amp; finished the day as agreeably as we had commenced it. —</p>
+                <p><hi rend="underline">Thursday July 21<hi rend="superscript">st.</hi></hi> The
+                    weather which had hitherto been fine, but for the last two or three days, had
+                    threatened rain, proved very wet this morning, &amp; continued so the — whole of
+                    the day. We had settled our plan for leaving <placeName ref="pl1072">Inverary</placeName> after breakfast, which we did — We had a very dreary
+                    ride for the first seven or eight miles, on the road towards <placeName ref="pl0214">Dalmally</placeName> — Our road lay between large barren hills,
+                    with no pleasing feature except the river <placeName ref="pl0219">Ary</placeName>, which flowed through the valley; &amp; continually
+                    received and increase to its waters from the torrents which fell foaming from
+                    the sides of the Mountains. After this we began to ascend gradually, till we
+                    attained a view of <placeName ref="pl0269">Loch-Awe</placeName>: it was a
+                    delightful reverse from the <pb n="f.14r"/>barren &amp; uninteresting road we
+                    had been travelling. The Loch has several beautiful small islands, and the
+                    immediate banks are soft an pleasing — There is a handsome Gentleman's seat, the
+                    grounds low &amp; well planted, <del unit="words" quantity="1"/> on the Western
+                    side of the Lake — beyond this, the mountain rises, and as we proceeded on our
+                    road on the opposite side of the Lake, we soon attained so great a height, as to
+                    afford us the finest range of — Alpine Scenery which we had yest witness'd. —
+                    Below us lay <placeName ref="pl0214">Dalmally</placeName>; a small village with
+                    a beautiful small church, and, what is seldom met with in this country, it has a
+                    high &amp; handsome tower. We took up our quarters here for the day &amp; night,
+                    &amp; were confined entirely to the house by the heavy rains which fell the
+                    whole of the evening. We left the two M<hi rend="superscript">r.</hi> Macdonalds
+                    at <placeName ref="pl1072">Inverary</placeName>, but it was their intention to
+                    proceed today to <placeName ref="pl1076">Oban</placeName>. —</p>
+                <p><pb n="f.14v"/>
+                    <hi rend="underline">Friday July 22<hi rend="superscript">nd.</hi></hi> After
+                    breakfast this morning we went to see the Church, which was built some years
+                    back by <persName ref="pe0036">Lord Breadalbane</persName>, and is a very pretty
+                    &amp; convenient structure, well calculated to accommodate a great number of
+                    people — We should have been much pleased with it, had the — neatness with which
+                    it was preserved, borne any proportion to the convenience &amp; judicious
+                    arrangement of the interior: but this was far from being the case. The dirt
+                    &amp; dust lay on the floors in the pews &amp; in the aisle, in such quantities
+                    as to lead us to suppose the church could not have been swept for months. — The
+                    windows were covered with splashes of white-wash, which upon enquiring we found
+                    had disfigured them for a year past, as we were told it was full as long as that
+                    since the <pb n="f.15r"/>Church had been whitewash'd. But the inhabitants of
+                    this country do not seem to be still sensible of the comfort of cleanliness in
+                    their dwellings, or neatness in any thing. — After visiting the Church we went a
+                    few miles, following the course of the fine river <placeName ref="pl0988">Orchy</placeName>, in <placeName ref="pl0213">Glen-orchy</placeName>, to
+                    see a salmon-leap; the river was uncommonly full of water, owing to the heavy
+                    rains which had fallen the preceeding night, &amp; it fell foaming over the huge
+                    rocks at the salmon-leap, in great fury &amp; magnificence. There was a
+                    fisherman, taking the fish at the time we went there, &amp; during about an hour
+                    that we looked on, we saw him catch seven fine Salmon in the pool immediately
+                    below the fall: this he effected by use of a long pole, with a large strong
+                    &amp; sharp hook at its <pb n="f.15v"/>end. He had no other apparatus, except an
+                    open railed fence at the edge of the deep pool, which is placed there to prevent
+                    the fish from escaping down the river. — After walking a little further into the
+                    Glen, we returned to the carriage, &amp; came back to <placeName ref="pl0214">Dalmally</placeName> to dinner. —</p>
+                <p><hi rend="underline">Saturday July 23<hi rend="superscript">rd</hi></hi> We left
+                        <placeName ref="pl0214">Dalmally</placeName> after breakfast, &amp; pursued
+                    our journey towards <placeName ref="pl1076">Oban</placeName>, on the banks of
+                        <placeName ref="pl0269">Loch Awe</placeName>. The first part of our ride was
+                    very beautiful: the ruins of <add place="above"><placeName ref="pl0215">Kilchurn</placeName></add> Castle, formerly the abode of the
+                    Breadalbane family, occupy a point of land stretching out into the Lake, at <add place="above">the</add> northern extremity of it — this is a most
+                    picturesque object. — as you proceed farther, &amp; look back on the lovely vale
+                    you have quitted, &amp; the river <placeName ref="pl0988">Orchy</placeName>
+                    rolling majestically through it, the Castle, which is built on very low ground,
+                    appears actually to stand in the Lake, &amp; has a very grand &amp; commanding
+                    appearance. — two or three <pb n="f.16r"/>miles below this, the Loch separates
+                    into two distinct branches: that which we followed pointing westward towards
+                        <placeName ref="pl1249">Bunawe</placeName>. It is impossible to describe the
+                    sublimity of the scenery which now gradually broke upon us: the Lake narrowed
+                    considerably, but the sides became so high &amp; precipitous, that it seemed
+                    like a stupendous mountain pass; the whole of its bottom occupied by the deep
+                    waters of the Lake. Our road was cut through the over-hanging rocks <add place="above">(at the base of the superb Mountain, <placeName ref="pl0831">Ben-Cruachan)</placeName></add> generally low, near the edge of the
+                    Lake; but sometimes necessarily carried upwards, to turn a point in the
+                    mountain: for the space of about half a mile we had been gradually rising, till
+                    we found ourselves at a height of three or four hundred feet from the base — the
+                    rock below us was so precipitous, that when we sat down in the Carriage, we
+                    could not see anything but the water in the abyss below us: except that some
+                    branches of trees which grow out of the rock, jutted <pb n="f.16v"/>forward
+                    &amp; took off something from the sublime horror which one might suppose such a
+                    scene must inspire — We however were more sensible of its magnificence, than
+                    scared by its terrors; &amp; I stood up in the carriage the whole of the way;
+                    that I might lose nothing, amongst all the objects which excited my admiration,
+                    &amp; raised my soul to the great source of all these wonders of creation. — The
+                    Mountains under which our road lay, were of the grandest kind, very lofty; in
+                    many parts well wooded, &amp; their summits covered with rude craggs, &amp;
+                    broken continually by immense torrents of water, which crossed our road at very
+                    frequent intervals, &amp; poured their foaming streams into the Lake below. On
+                    the eastern side of the Loch the character of the hills was totally different —
+                    There was neither rock, nor wood, to grace their sides; but a barren surface of
+                    earths of various tints, with some loose stones which seemed to have been washed
+                    down by mountain — <pb n="f.17r"/>torrents, and served to vary the wild &amp;
+                    severe uniformity of this desart sweep: here &amp; there indeed a little patch
+                    of verdure — seemed like a spot on the surface; but not a tree or a bush, or
+                    even a little heath or fern, presumed to offer a softening feature on these
+                    dreary elevations. As we proceeded towards the extremity of the Lake, we quitted
+                    with regret the ruder beauties we had so much enjoyed, &amp; followed the course
+                    of the beautiful river <placeName ref="pl3319">Awe</placeName>, till we arrived
+                    at <del><placeName ref="pl1249">Bunawe</placeName></del><add place="above"><placeName ref="pl1074">Taynelt</placeName></add>, a village situated
+                    at the northern end of <placeName ref="pl1075">Loch-Etive</placeName>. —</p>
+                <p>This stage, from <placeName ref="pl0214">Dalmally</placeName> to <del><placeName ref="pl1249">Bunawe</placeName></del><add place="above"><placeName ref="pl1074">Taynelt</placeName></add> was certainly much the grandest
+                    we have travelled — it combined every charm which can affect the imagination, or
+                    elevate the soul. — I know not how to take my eyes from the point that shut out
+                    this magnificent combination of all that is sublime &amp; beautiful, from my
+                    view. I hope I shall ever retain it in my memory, &amp; think of it with renewed
+                    pleasure &amp; admiration. —</p>
+                <p><pb n="f.17v"/> The early part of our next stage, from <placeName ref="pl1249">Bunawe</placeName> to <placeName ref="pl1076">Oban</placeName>, was
+                    extremely fine. We enjoyed as grand a Mountain view as can be imagined; but
+                        <placeName ref="pl1075">loch Etive</placeName> which lay below was not
+                    distinguished by any peculiar or picturesque appearance — the shores are flat
+                    &amp; uninteresting. —</p>
+                <p>The last few miles our road lay over a wild &amp; hilly waste, where immense
+                    mounds of soil seemed scattered about in strange confusion, &amp; offered a very
+                    unusual scene to our eyes — but there was neither <add place="above">beauty</add> nor grandeur here; &amp; we were very glad to finish our day's
+                    journey by — arriving at <placeName ref="pl1076">Oban</placeName>, where the
+                        M<hi rend="superscript">r.</hi> Macdonalds were expecting us. The weather
+                    improved much in the course of the day, &amp; we had good hopes held out to us
+                    that we might have a favorable voyage to <placeName ref="pl0682">Aross</placeName> the next morning. <placeName ref="pl1076">Oban</placeName> is a paltry little fishing town, with nothing to recommend
+                    it, except its situation on the sea-coast.</p>
+                <p><pb n="f.18r"/>
+                    <hi rend="underline">Sunday July 24<hi rend="superscript">th.</hi></hi> At seven
+                    this morning we all set sail from <placeName ref="pl1076">Oban</placeName> — for
+                    the first hour or two we were obliged to trust to our Oars; but soon a nice
+                    breeze sprung up, which wafted us smoothly along, &amp; we sailed very
+                    pleasantly through the <placeName ref="pl2195">Sound of Mull</placeName>*<note type="authorial">*As we sailed up the <placeName ref="pl2195">sound of
+                            Mull</placeName>, I looked back to the Mainland, we were gratified by a
+                        particularly fine view of the Mountain ridges: on every side of us indeed
+                        they seemed to rear their heads to heaven — but those which looked the most
+                        grand, were the rude &amp; craggy tops of <placeName ref="pl0831">Ben-Cruachan</placeName>. Their height appeared to be immense, and
+                        their broken varied forms rendered them the most striking of any which we
+                        now beheld. —</note> to <placeName ref="pl0682">Aross</placeName>, where we
+                    arrived in about six hours. We procured a horse to convey the little luggage we
+                    took with us, and all our party walked across a part of the island of <placeName ref="pl0729">Mull</placeName>, to a ferry at <placeName ref="pl1079">Loch-na-gael</placeName> head; where we again took boat, &amp; proceeded to
+                        <placeName ref="pl1078">Ulva</placeName>. We arrived at this place, at about
+                    four in the afternoon — after having dined we sauntered about, &amp; went to see
+                    the House &amp; garden of <persName ref="pe1496">M<hi rend="superscript">r.</hi>
+                        Macdonald of Staffa</persName>; who had kindly sent letters from <placeName ref="pl0076">Edinburgh</placeName>, desiring that every accommodation might
+                    be afforded to us by his dependants at <placeName ref="pl1078">Ulva</placeName>.</p>
+                <p><pb n="f.18v"/>
+                    <hi rend="underline">Monday 25<hi rend="superscript">th.</hi></hi> We all set
+                    forward in Boats this morning in the hope of being able to see <placeName ref="pl0652">Staffa</placeName> — We were fearful it might prove too
+                    boisterous a day, but the Boatmen encouraged us to go on to the distance of
+                    three or four miles from the sound of <placeName ref="pl1078">Ulva</placeName>;
+                    here the breeze became so strong, &amp; the sea so very high, that our pilot as
+                    well as ourselves saw the necessity of returning to <placeName ref="pl1078">Ulva</placeName> without completing our purpose — We therefore turned
+                    about, &amp; were landed upon the first point we could make, walking afterwards
+                    home to our Inn. — In the evening we took a long &amp; pleasant walk in the
+                        <placeName ref="pl0729">Isle of Mull</placeName>, crossing the ferry to get
+                    there.</p>
+                <p><hi rend="underline">Tuesday July 26<hi rend="superscript">th.</hi></hi> The
+                    morning promising very fair, we made a second attempt to attain the object for
+                    which we had come <pb n="f.19r"/>hither, and succeeded quite to our wishes. We
+                    had engaged a large vessel than is commonly used on these occasions, that we
+                    might be rather less dependant on the weather; but nothing could prove finer
+                    than the day turned out, &amp; we were — gratified by seeing <placeName ref="pl0652">Staffa</placeName> with every possible advantage. We first
+                    sailed nearly round it to see the various caves on its bluff &amp; lofty coast.
+                    We then landed &amp; walked, or rather climed round its rugged base, till we
+                    entered the <placeName ref="pl1082">Cave of Fingal</placeName>. If our wonder
+                    had been raised by the outward appearance of this stupendous Mass of congregated
+                    columns, for such it is; how was our admiration excited on entering the Cave,
+                    the Aweful &amp; solemn "temple of the Western Main:"<note type="editorial">The
+                        description of Staffa quoted here by Malkin has been attributed to James
+                        Hogg, whom the Malkins had met while at Edinburgh earlier in their tour.
+                        However, the poem in which it appeared was not published until 1833, in an
+                        appendix to Lachlan Maclean's <hi rend="italic">A Historical Account of
+                            Iona, from the Earliest Period</hi> (Edinburgh: 1833). Given the title
+                        'Lines written in the Cave of Fingal, by James Hogg, Esq. the Ettrick
+                        Shepherd', the piece was reported to have appeared in a visitor's book at
+                        the Sound of Ulva Inn, alongside a poem by Scott, some further, derogatory
+                        lines on the Mull natives by Hogg, and a retort by a local. Hogg's
+                        breakthrough 1813 poem <hi rend="italic">The Queen's Wake</hi> included an
+                        account of Staffa, but as H.B. de Groot notes in his edition of Hogg's <hi rend="italic">Highland Journeys</hi>, it has never been established when
+                        and if Hogg himself actually visited the island. Malkin's apparent reference
+                        to the line 'Great temple of the Western Main', predates the publication of
+                        Macleod's <hi rend="italic">History</hi> by nearly two decades, providing
+                        tantalising evidence of an otherwise unrecorded visit to Staffa by Hogg
+                        before 1814. See James Hogg, <hi rend="italic">Highland Journeys</hi>, ed.
+                        by H.B. de Groot (Edinburgh: Edinburgh University Press, 2010),
+                        pp.250-53.</note> It is impossible for the imagination to paint to itself
+                    any <pb n="f.19v"/>thing so grand &amp; so sublime as this cave; it is entered
+                    under a lofty Arch, of nearly perfect Gothic form — the whole of the — interior
+                    is line <add place="above">as the outside is also covered</add> with basaltic
+                    pillars, of which great numbers have from time to time fallen away, and left
+                    their bases as a footing, by which we climed to nearly the innermost part of the
+                    cave; a distance of about 250 feet from its mouth. We found many names inscribed
+                    on the pillars, &amp; the M<hi rend="superscript">r.</hi> Macdonalds &amp;
+                        <persName ref="pe0030">Benjamin</persName> — added to the number, those of
+                    all our party. Should any of us ever visit the Cave again, we shall look for
+                    those names with interest. After we had given all the time we could afford to
+                    this wonder of Creation, &amp; pay'd the tribute of devout admiration, (as I
+                    hope we all did in our hearts) to the great <pb n="f.20r"/>Framer of its
+                    majestic structure; we had the small Boat by which we were conveyed from the
+                    Vessel, rowed into the Cave; &amp; we embarked again from its interior; rowing
+                    out under its lofty portal with feelings which I believe are never excited,
+                    without the heart's being improved. We quitted it very reluctantly; but the day
+                    was wearing away, &amp; we had yet to visit <placeName ref="pl0651">I-Ona</placeName>, which we also effected. Here also we were much
+                    gratified.</p>
+                <p>There are still large remains of the <placeName ref="pl0977">Monastery</placeName> which formerly existed there; &amp; it has been the
+                    burying place of many of the Kings of <placeName ref="pl0705">Scotland</placeName>
+                    <add place="above">&amp; <placeName ref="pl0889">Ireland</placeName></add> &amp;
+                    many Highland Chiefs; whose tombs are still remaining, &amp; many of their
+                    inscriptions still legible: these circumstances will always give a strong
+                    interest to the place, and reward the curious traveller for the trouble it <pb n="f.20v"/>must necessarily give him to obtain a view of this interesting
+                    ruin. The building also is curious as a good specimen of very ancient
+                    architecture. We took to our Boat again about half past six in the evening,
+                    &amp; in four hours more we were safely landed again at <placeName ref="pl1078">Ulva</placeName>; very much gratified at having been so fortunate as to
+                    perform all we wished in the most comfortable manner, &amp; to have accomplished
+                    both these objects in one day. —</p>
+                <p><hi rend="underline">Wednesday July 27<hi rend="superscript">th.</hi></hi> We all
+                    left <placeName ref="pl1078">Ulva</placeName> this morning, &amp; returned to
+                        <placeName ref="pl0682">Aross</placeName> in the same manner that we had
+                    gone to <placeName ref="pl1078">Ulva</placeName>. We found our little Boat which
+                    we had brought from <placeName ref="pl1076">Oban</placeName>, ready to convey us
+                    back again — at <placeName ref="pl0682">Aross</placeName>, we parted with our
+                    friends the Macdonalds, as it was their intention to proceed by Water to the
+                        <placeName ref="pl0715">Isle of Skye</placeName>, &amp; it was necessary <pb n="f.21r"/>we should return to <placeName ref="pl1076">Oban</placeName> to
+                    meet the carriage again, &amp; go by land to <placeName ref="pl2450">Arisaig</placeName>. — We took to our Boat about half past twelve o'Clock,
+                    &amp; found ourselves safe at <placeName ref="pl1076">Oban</placeName> in about
+                    eight hours.</p>
+                <p><hi rend="underline">Thursday July 28<hi rend="superscript">th.</hi></hi> We
+                    proceeded on our journey; crossing the ferries of <placeName ref="pl0686">Connel</placeName> &amp; <placeName ref="pl2210">Sheean</placeName>, &amp;
+                    baiting our horses at <placeName ref="pl2193">Appin</placeName> — We were very
+                    much delighted with our ride, which lay through a fertile &amp; pleasing valley.
+                    We came now in the district of <persName ref="pe0540">Fingal</persName>, &amp;
+                    found much to admire in the softer features of this part of the Country. We took
+                    a nice walk while the horses were feeding, and had a beautiful view of
+                        <placeName ref="pl2213">Appin House</placeName>, &amp; of <placeName ref="pl2190">Loch Linnhe</placeName>, from a planted Hill which looks
+                    immediately down upon the Lake. We afterwards pursued our journey to <placeName ref="pl2219">Ballychulish</placeName>, &amp; crossing the ferry there, we
+                    took our abode till the next day <pb n="f.21v"/>at the <placeName ref="pl2226">Inn</placeName> on the Northern side of the ferry. From <placeName ref="pl2193">Appin</placeName> to this place, we had a most beautiful ride,
+                    all along the side of <placeName ref="pl2190">Loch Linnhe</placeName>, which was
+                    bounded on the opposite side by a very fine range of Mountains, which lie in the
+                    district called <placeName ref="pl0683">Morven</placeName></p>
+                <p>As we approached <placeName ref="pl2219">Ballychulish</placeName>, we wound round
+                    the base of a very fine Mountain called <placeName ref="pl3282">Ben-a-vear</placeName>. This hill is exactly in front of the ferry house,
+                    &amp; is a most grand &amp; beautiful object. We were all so pleased with the
+                    place that we determined on staying to go up <placeName ref="pl2215">Loch
+                        Leven</placeName> in the morning, though it had been our intention to go on
+                    to <placeName ref="pl0206">Fort William</placeName> the same night. —</p>
+                <p><hi rend="underline">Friday 29<hi rend="superscript">th.</hi></hi> We took a Boat
+                    &amp; were rowed to the head of <placeName ref="pl2215">Loch Leven</placeName>,
+                    where we got out, &amp; walked to see <pb n="f.22r"/>two very beautiful Water
+                    falls. One of these is the highest I have ever seen; it is said to be 160 feet
+                    from the beginning of the fall to the bottom; there was no great body of water,
+                    but quite enough to let us see its beauty. From the manner in which it falls, it
+                    spreads itself over a very wide surface of rock in a thin sheet, which is white
+                    with foam, &amp; dashes its spray to a very considerable distance. The scenery
+                    immediately around this fall is particularly fine. Rocks of a stupendous height
+                    enclose it on three sides, &amp; these are beautifully ornamented with birch
+                    &amp; other trees, which grow out of their sides at frequent intervals. The head
+                    of the Loch is nine or ten miles from the ferry, about half way up, is the
+                    entrance to <placeName ref="pl2433">Glencoe</placeName>, which we propose to
+                    travel through after our return from the <placeName ref="pl0715">Isle of
+                        Skye</placeName>.</p>
+                <p><pb n="f.22v"/> Both sides of <placeName ref="pl2215">Loch Leven</placeName> are
+                    bounded by magnificent ranges of Mountains, each differing from the other in
+                    figure &amp; size, but the same general character is observable in all — There
+                    is more verdure &amp; softness than we had lately seen, with a mixture of rock,
+                    &amp; now &amp; then fine tufted woody sides, which added very much to the
+                    beauty of the whole. There cannot be a grander scene, or a finer confusion of
+                    Mountains, than is presented to the view on the — borders of this beautiful
+                    Lake.</p>
+                <p>We returned to <placeName ref="pl2219">Ballychulish</placeName> to dinner, &amp;
+                    afterwards pursued our journey to <placeName ref="pl0206">Fort
+                        William</placeName>, by the side of <placeName ref="pl0830">Loch
+                        Eil</placeName>.</p>
+                <p><hi rend="underline">Saturday July 30<hi rend="superscript">th.</hi></hi> We left
+                        <placeName ref="pl0206">Fort William</placeName> after breakfast, &amp;
+                    pursued our journey to <placeName ref="pl2450">Arisaig</placeName> through a
+                    wilder &amp; bolder country than any we had yet seen. The distance between
+                        <placeName ref="pl0206">Fort William</placeName> and <pb n="f.23r"/><placeName ref="pl2450">Arisaig</placeName> is about forty miles — there
+                    was but one place which lay between them, where we could bait our horses, &amp;
+                    the house was so wretched &amp; so dirty, that we could not remain in it — I
+                    preferred sitting in the Carriage while the rest of the party walked on, till we
+                    should over-take them — For several miles after leaving <placeName ref="pl0206">Fort William</placeName>, our road lay through a barren &amp; wretched
+                    country: it was on both sides of the road a black boggy soil, &amp; the only
+                    pleasing features were two or three rapid torrents from the mountains sides
+                    which flowed into the Lake below us. But as we proceeded to the distance of
+                    about eight or nine miles, we found ourselves surrounded by the greatest scenery
+                    possible. The hills on either hand were of stupendous height &amp; their forms
+                    &amp; surfaces beautifully varied by projecting rocks; large Scotch firs (by far
+                    the finest we have seen any where <pb n="f.23v"/>of natural growth) and a
+                    variety of — smaller trees, birches, alders &amp;c, the natural growth of the
+                    soil; all contributed to render this part of our journey as picturesque &amp; as
+                    magnificent as can be imagined. — We now soon opened upon <placeName ref="pl3283">Loch Shiel</placeName>, which we followed the bends of, for
+                    some miles — All this part of our journey was exceedingly interesting; there was
+                    — nearly as much beauty as in most places we have seen, &amp; more of sublime
+                    &amp; terrific than in any district we had before visited — The road is very
+                    excellent, &amp; carried as much as was possible, at the bases of the hills; but
+                    in some parts of it, this was not practicable, &amp; we now &amp; then found —
+                    ourselves at an aweful height above the Lake, looking perpendicularly down upon
+                    it. — We arrived at <placeName ref="pl2450">Arisaig</placeName> to dinner, where
+                    we found our young friend <pb n="f.24r"/><persName ref="pe0081">M<hi rend="superscript">r.</hi> Mathew Macdonald</persName> waiting to
+                    receive us. <persName ref="pe0084">M<hi rend="superscript">r.</hi> Charles
+                        Macdonald</persName> had — proceeded homewards, to prepare for our arrival
+                    at <placeName ref="pl2983">Scalpa</placeName>.</p>
+                <p><hi rend="underline">Sunday July the 31<hi rend="superscript">st.</hi></hi> We
+                    all set sail this morning for the <placeName ref="pl0715">Isle of
+                        Skye</placeName>, and were landed at the <sic>the</sic>
+                    <placeName ref="pl0679">Isle of Oransay</placeName>, at the house of <persName ref="pe0125">M<hi rend="superscript">r.</hi> Elder</persName>, who kindly
+                    furnished us with the means of proceeding by land to <placeName ref="pl0658">Corry-chatachan</placeName>, where we were welcomed by <persName ref="pe0099">M<hi rend="superscript">r.</hi></persName> &amp; <persName ref="pe0089">M<hi rend="superscript">rs.</hi> M<hi rend="superscript">c.</hi>Kinnon</persName>, &amp; afterwards conveyed in one of <persName ref="pe0099">Corry's</persName> boats across the Ferry (about two or three
+                    miles) to <placeName ref="pl2983">Scalpa</placeName>. We arrived about nine in
+                    the evening &amp; were most kindly welcomed by <persName ref="pl2983">Scalpa</persName> &amp; <persName ref="pe0092">M<hi rend="superscript">rs.</hi> Macdonald</persName>. There was no other part of the family at
+                        <placeName ref="pl2983">Scalpa</placeName>, except our kind friend <persName ref="pe0084">Charles Macdonald</persName>, &amp; one of the daughters
+                        <persName ref="pe0094">Miss Francis Macdonald</persName>. —</p>
+                <p><hi rend="underline">Monday August 1<hi rend="superscript">st.</hi></hi> We
+                    enjoyed the refreshment of rest, in a comfortable house after our long continued
+                    wanderings; &amp; only <pb n="f.24v"/>quitted it to walk a little about: after
+                    the frequent rains that had recently fallen the country was too wet for much
+                    walking if we had been so disposed. I had the very great pleasure of finding
+                    letters from all I love (all of whom I was then so distant from,) at <placeName ref="pl2983">Scalpa</placeName>; to which place I had desired letters to be
+                    address'd to me: this satisfaction, added to that of being greatly pleased with
+                    the kind reception we met with from all the Macdonalds, rendered this a very
+                    agreeable day. <persName ref="pe0079">Scalpa</persName> himself is a man of more
+                    than seventy: he is lively, &amp; very intelligent: exceedingly kind &amp;
+                    hospitable to his guests, &amp; full of conversation: he has travelled much in
+                    early life, in foreign countries; &amp; is full of anecdote &amp; information on
+                    most subjects. <persName ref="pe0092">M<hi rend="superscript">rs.</hi>
+                        Macdonald</persName> is perhaps a few years younger than <persName ref="pe0079">Scalpa</persName>. She has <pb n="f.25r"/>been a very beautiful
+                    woman, &amp; still retains an uncommon portion <add place="above">of
+                        beauty</add> for a woman at her years; She is very gentle &amp; affectionate
+                    in her manner &amp; appears to be a most kind hearted excellent woman — She is
+                    not lively &amp; she talks but little — but she carries an ease &amp; serenity
+                    in her appearance that are very attractive. — In her youth she was thought so
+                    beautiful, that she was called the Malvina of the Isles.<note type="editorial">Malvina is the name given to the lover of the ill-fated warrior Oscar in James
+                        Macpherson's <hi rend="italic">Poems of Ossian</hi>.</note> She was niece to
+                    the celebrated <persName ref="pe0119">Flora Macdonald</persName>. We saw at
+                        <persName ref="pe0099">Corry's</persName>
+                    <persName ref="pe0120">M<hi rend="superscript">rs.</hi> Macleod</persName>,
+                    daughter to <persName ref="pe0119">Flora Macdonald</persName>, who has also the
+                    remains of much beauty. —</p>
+                <p><hi rend="underline">Tuesday Aug. 2<hi rend="superscript">nd.</hi></hi> We
+                    proposed on this day to visit the <placeName ref="pl3078">Cave of
+                        Strath-Aird</placeName>;<note type="editorial">The Spar Cave of Strathaird,
+                        also known as Macalister's Cave after its proprietor, became a popular
+                        tourist destination in the early nineteenth century due to its striking
+                        mineral formations. The cave came to widespread notice after an account of
+                        it was written by <persName ref="pe2155">Dr Kenneth MacLeay of
+                            Oban</persName>, who is mentioned by the author of an 1810 <ref target="0059.xml">'Journal of a Voyage to the Western islands of
+                            Scotland'</ref>. The cave was later visited by Walter Scott, and it
+                        forms the basis for one of the settings of his 1815 poem The Lord of the
+                        Isles. Scott noted that the entrance to the cave had been walled and gated
+                        by its proprietor to reduce further damage by tourists. See Scott, The Lord
+                        of the Isles, 2nd ed.(Edinburgh: 1815), pp.362-64.</note> but the day
+                    proving very rainy, we were obliged to abandon our project, &amp; find our
+                    amusement within doors. — <pb n="f.25v"/><hi rend="underline">Wednesday August
+                            3<hi rend="superscript">rd.</hi></hi> This morning, our own party, &amp;
+                    the two young Macdonalds resolved, as the day was tolerable, to go to the Cave,
+                    in spite of all difficulty, if it could possibly be accomplished. We set out
+                    from <persName ref="pe0099">Corry's</persName>, (after crossing to his house in
+                    a Boat,) some of the party on horseback, others on foot, to cross that part of
+                    the <placeName ref="pl0715">Island of Skye</placeName>, which lay between us
+                    &amp; <placeName ref="pl2965">Loch Slappin</placeName>; on the South-Western
+                    side of which, the <placeName ref="pl3078">Cave of Strath-aird</placeName> is
+                    situated. — The wind was contrary, &amp; the water very rough; but there seemed
+                    to be no danger in attempting it, so we were all of us anxious to try it. We
+                    crossed <placeName ref="pl2965">Loch-Slappin</placeName>, &amp; intended to have
+                    proceeded to the Cave by water, keeping near the shore. — but, we found it so
+                    very unpleasant, that we determined on landing, &amp; walking the three or four
+                    miles which lay between us <pb n="f.26r"/>and it. We ordered the Boat to meet us
+                    at the spot nearest to the Cave, where we might again enter it; &amp; then
+                    proceeded on our walk. This we accomplished exceedingly well, &amp; on our
+                    arrival just met the Boat at the spot. We then got into it, and were rowed into
+                    the aweful chasm which forms the entrance to the <placeName ref="pl3078">Cave of
+                        Strath Aird</placeName>. Our Boatmen were reluctant &amp; timid, &amp; said
+                    they had never attempted to land a party there in such rough weather, or with so
+                    high a Sea. In truth the swell was immense; but the M<hi rend="superscript">r.</hi> Macdonalds are so well acquainted with all that relates to the Sea,
+                    &amp; so active in overcoming every difficulty, that we felt quite safe while
+                    they — thought us so; &amp; they enabled us to effect our purpose most
+                    satisfactorily. The roughness of the weather, which seemed to be so great an
+                    impediment, proved on the whole an advantage, as it added <pb n="f.26v"/>much to
+                    the grandeur of the scene at the entrance of the Cave. The approach to it is
+                    through a chasm in the cleft, of solid rock — the sides on either hand are
+                    perpendicular 100 feet in height: the depth, from the entrance to the opening of
+                    the cave, is 500 feet; the breadth is 30 feet. We landed a few yards from the
+                    mouth of the cave, which forms, at the entrance, a pointed arch. As soon as we
+                    had advanced a very little way beyond the entrance, we lost the light of day,
+                    and had about a dozen large lights carried with us, to show us the wonders &amp;
+                    beauties of the interior. We soon began to ascend, which was only to be
+                    accomplished with labour &amp; difficulty — the continued dripping making every
+                    place wet &amp; slippery. — The whole surface upon which we walked, or rather
+                    climbed, is a white spar, &amp; has been compared, &amp; that not <pb n="f.27r"/>unaptly, to a frozen cascade; the roof above our heads was hung with
+                    stalactites of the purest white, of various length &amp; sizes, but all having
+                    the form of icicles. when we got to the top of the steep ascent, we were at once
+                    surprized &amp; delighted to see the various &amp; fanciful forms which were
+                    presented to our view. We could have imagined that the finest ornamental carving
+                    met our eyes — resemblances to human figures, pieces of architecture, lofty
+                    pillars, &amp; an endless variety of forms, lined the sides of this superb
+                    cavern, while the roof from beginning to end was enriched by the same sort of
+                    pendant stalactites we had observed below. The whole of the inside of the cave,
+                    with all its beauteous ornaments, are of the purest white — At the further end
+                    there is a pool of considerable depth, over which <add place="above">once</add>
+                    hung, suspended from the roof above, what had the <pb n="f.27v"/>regular form
+                    &amp; semblance of a chandelier. It can scarcely be believed that any person
+                    could be so savage &amp; insensible as to dare to injure this most delicate
+                    &amp; beautiful ornament, placed there as it had been by the hand of nature. But
+                    unfortunately, a very few years back a traveller of this unfeeling description
+                    struck at the chandelier, which soon yielded to the rude shock, &amp; sunk into
+                    the pool below. It was afterwards recovered from the water, &amp; is still
+                    preserved as a great natural curiosity: but it must lose greatly by not being
+                    seen where nature first placed it — We were sorry to observe, that much injury
+                    had been done to many parts of the Cave by persons, who, wishing to carry away
+                    specimens, had broken the sides in many places, &amp; defaced <pb n="f.28r"/>the
+                    surface most barbarously. After having accomplished our wishes, in examining the
+                    magnificent cavern, we returned to our boat, which the high surge, &amp; the
+                    rugged shore made it exceedingly difficult for us to re-enter — We however
+                    effected it safely, &amp; returned to <placeName ref="pl2983">Scalpa</placeName>, arriving there at about a quarter before twelve at
+                    night.</p>
+                <p><hi rend="underline">Thursday Aug. 4<hi rend="superscript">th.</hi></hi> A rainy
+                    day confined us all to the house — We could not even get half an hours walk on
+                    the sea shore close to the house.</p>
+                <p><hi rend="underline">Friday 5<hi rend="superscript">th.</hi></hi> We had fixed on
+                    this day for leaving <placeName ref="pl2983">Scalpa</placeName>, but the morning
+                    proving wet, &amp; the wind contrary, we were obliged to accept of our kind
+                    friends' hospitality for another day.</p>
+                <p><hi rend="underline">Saturday August 6<hi rend="superscript">th.</hi></hi> The
+                    morning proving tolerable, &amp; the wind favourable, we took leave of <persName ref="pe0079">Scalpa</persName> &amp; <persName ref="pe0092">M<hi rend="superscript">rs.</hi>Macdonald</persName>, &amp; set <pb n="f.28v"/>sail once more for the Main Land: our two kind &amp; indefatigable friends,
+                        <persName ref="pe0084">Charles</persName> &amp; <persName ref="pe0081">Mathew Macdonald</persName>, accompanying us, being resolved they said not
+                    to quit their charge, till they saw us safely seated in the carriage, to pursue
+                    our journey by land. — We hired a boat which <persName ref="pe0099re">Corry</persName> procured for us, to take us through the <placeName ref="pl0657">Kyles</placeName> to <placeName ref="pl2450">Arisaig</placeName>. —</p>
+                <p>We were much gratified as we were approaching the <placeName ref="pl0657">Kyles</placeName>, to see water thrown up in such a manner, as to convince
+                    us there were Whales near us in the sea; &amp; still were so when shortly after,
+                    two or three rose so high, as to shew us their back-fin, &amp; a considerable
+                    portion of their immense bulk above the sea. We watched them for several
+                    minutes, &amp; saw them spout water, &amp; show themselves at frequent
+                    intervals. — We had also <pb n="f.29r"/>the gratification of seeing large flocks
+                    of the Soland geese flying immediately above our heads, &amp; continuously
+                    darting down upon the fish in the water; this being the season of the herring
+                    fishery the sounds in these seas abound with Herrings at this time. — During the
+                    course of our voyage from <placeName ref="pl2983">Scalpa</placeName> to
+                        <placeName ref="pl2450">Arisaig</placeName>, we passed the mouths of several
+                    fine Sea Lochs; <placeName ref="pl3084">Loch-Dowie</placeName>, <placeName ref="pl0678">Loch Hourn</placeName>, &amp; <placeName ref="pl3284">Loch-Nevis.</placeName> — When we arrived about the point of the <placeName ref="pl0679">Isle of Oransay</placeName>, we looked back to take a parting
+                    view of the highest Hills in <placeName ref="pl0715">Skye</placeName> — The
+                        <placeName ref="pl0841">Cullin range</placeName> appeared particularly bold,
+                    &amp; their broken rocky tips looked very magnificent. <placeName ref="pl0837">Ben-a-Caillish</placeName> also, with its conical summit, demanded a
+                    farewell look; &amp; <placeName ref="pl2983">Scalpa</placeName>, just fading to
+                    our view, called forth the tribute of a sigh, in grateful remembrance of its <pb n="f.29v"/>most kind &amp; hospitable inhabitants!</p>
+                <p>We had on the whole a favourable voyage and arrived safe at <placeName ref="pl2450">Arisaig</placeName> at about seven o'clock. —</p>
+                <p><hi rend="underline">Sunday August 7<hi rend="superscript">th.</hi></hi> at eight
+                    o'clock this morning we parted with our two kind friends, <persName ref="pe0084">Charles</persName> &amp; <persName ref="pe0081">Mathew
+                    Macdonald</persName>; leaving them to return to <placeName ref="pl2983">Scalpa</placeName>, while we pursued our journey by land to <placeName ref="pl0206">Fort William</placeName>, where we staid the night.</p>
+                <p><hi rend="underline">Monday August 8<hi rend="superscript">th.</hi></hi> We
+                    retraced our road from <placeName ref="pl0206">Fort William</placeName> to
+                        <placeName ref="pl2219">Ballychulish</placeName>. — a great part of our ride
+                    was dull &amp; uninteresting, but it improved as we proceeded, &amp; became very
+                    beautiful when we gained a view of the fine Mountain <placeName ref="pl3282">Ben-a-vear</placeName>, with <placeName ref="pl2215">Loch Leven</placeName>
+                    at its foot. — After breakfasting at <placeName ref="pl2219">Ballychulish</placeName> we proceeded through <placeName ref="pl2433">Glen-Coe</placeName> to an Inn on the <placeName ref="pl0209">Black
+                        Mount</placeName>, called <placeName ref="pl0210">The King's
+                        House</placeName>. The entrance to <placeName ref="pl2433">Glen-Coe</placeName> is very beautiful, &amp; is a plain of perhaps a third
+                    part of a mile in breadth, the <placeName ref="pl2229">river Coe</placeName> —
+                        <pb n="f.30r"/>winding along it, &amp; falling at its extremity into
+                        <placeName ref="pl2215">Loch-Leven</placeName>. So much has been said about
+                    the wonders &amp; horrors of <placeName ref="pl2433">Glen-Coe</placeName>, that
+                    we were prepared for seeing something surpassing all that had yet fallen under
+                    our observation; and as far as the terrific is capable of exciting admiration,
+                    we certainly were not disappointed. As the Glen narrows, the Mountains on either
+                    side rise to a gigantic height, &amp; their rude rocky sides present a picture
+                    of horror &amp; desolation which can perhaps scarcely be equalled. The coulour
+                    of the rock is so black, &amp; its consistence so solid, that is seems as if the
+                    whole substance of the mountain was comprised of it — the bed of the river in
+                    this part of the glen is also very rocky; &amp; as there is a considerable
+                    descent, the noise of the water is excessive, &amp; adds greatly to the wild
+                    horror of the scene. Many large streams are also seen falling from the sides <pb n="f.30v"/>of the Mountains, adding their noise &amp; their Waters, to the
+                    foaming torrent below; which is here &amp; there seen to fall over so deep a
+                    descent, as to afford many very grand waterfalls in its progress through the
+                    Glen. — When we were nearly escaped from the awful horrors which the scene
+                    presented, we turned again to take a parting survey, &amp; were more than ever
+                    struck with the majestic grandeur of the scene we were quitting — The sides of
+                    some, &amp; the tops of <add place="above">almost</add> all the mountains which
+                    we had been passing, presented themselves at once to our view — We scarcely knew
+                    how to quit a spot — which so completely arrested our attention, &amp; raised
+                    our hearts to the Great Author of all this Magnificence — but it was necessary
+                    to proceed, &amp; we made our way thoughtfully &amp; slowly over a <pb n="f.31r"/>wretched black &amp; boggy moor <add place="above">called <placeName ref="pl0751">Rannoch Moor</placeName>,</add> till we arrived at the
+                        <placeName ref="pl0210">King's House</placeName>, where we were obliged to
+                    take up our abode for the night, as the next stage to <placeName ref="pl0212">Tyndrum</placeName>, was more than our horses could well have performed;
+                    &amp; besides this, it was too late in the day to undertake it. —</p>
+                <p><hi rend="underline">Tuesday August 9<hi rend="superscript">th.</hi></hi> After
+                    breakfasting at <placeName ref="pl0210">King's House</placeName>, we proceeded
+                    by <placeName ref="pl2237">Inverouran</placeName> &amp; the braes of <placeName ref="pl0213">Glen Orchy</placeName>, to <placeName ref="pl0212">Tyndrum</placeName>, to dinner. — For the first few miles our road was
+                    still over the <add place="above">same</add> boggy moor, near the <placeName ref="pl0209">Black mount</placeName>; but as we approached <placeName ref="pl2237">Inverouran</placeName> the scenery became far more pleasing,
+                    &amp; a pretty little Lake, called <placeName ref="pl0211">Loch
+                        Tollie</placeName>, gave a beauty &amp; softness to the scene, which we
+                    observed with no small pleasure after the gloomy &amp; desolate track of country
+                    we had been travelling.</p>
+                <p>A fine Mountain, <placeName ref="pl2238">Ben Doran</placeName>, rises <pb n="f.31v"/>very high, with a sharp pointed top at a small distance north of
+                        <placeName ref="pl0212">Tyndrum</placeName> and <placeName ref="pl0815">Ben
+                        More</placeName> to the South East. — <placeName ref="pl2240">Ben
+                        Lawers</placeName> is also seen towards the East.— After dinner we proceeded
+                    to <placeName ref="pl0277">Killin</placeName>. (<placeName ref="pl0212">Tyndrum</placeName> is said to the be highest inhabited spot in <placeName ref="pl0705">Scotland</placeName>.) The principal branch of the river
+                        <placeName ref="pl0096">Tay</placeName>, rises in <placeName ref="pl2238">Ben-Doran</placeName> near to <placeName ref="pl0212">Tyndrum</placeName>;
+                    it is here called the <placeName ref="pl3290">Fillan water</placeName> — We were
+                    desired to look at <placeName ref="pl0990">S<hi rend="superscript">t.</hi>
+                        Fillan's pool</placeName>, at the distance of two or three miles from
+                        <placeName ref="pl0212">Tyndrum</placeName> on the road to <placeName ref="pl0277">Killin</placeName> — it is rather a deep pool, but has nothing
+                    worthy of notice about it, except that the Highlanders have a superstitious
+                    notion, that maniacs will have their senses restored to them, if they are dipped
+                    in <placeName ref="pl0990">S<hi rend="superscript">t.</hi> Fillan's
+                        Pool</placeName>: but this, like most other traditions of this sort is now
+                    little thought of, &amp; never I believe acted upon.</p>
+                <p>The road winds along the base of <placeName ref="pl0815">Ben-More</placeName>,
+                    under which is a small Lake called <placeName ref="pl0817">Loch
+                        Dochart</placeName>. There is in <pb n="f.32r"/>this Lake a beautifully
+                    wooded little — island, on which are seen the ruins of <placeName ref="pl2365">S<hi rend="superscript">t.</hi> Fillan's Chapel</placeName>. Below the
+                    Lake, the river which we had seen under the name of <placeName ref="pl3290">S<hi rend="superscript">t.</hi> Fillan's water</placeName>, is called by the
+                    name of <placeName ref="pl0995">Dochart</placeName> — it now acquires
+                    considerable size, &amp; flows through a wider &amp; better cultivated valley,
+                    than any we had seen for some time past. We stopped to bait our horses at
+                        <placeName ref="pl1121">Luib</placeName>, a tolerable Highland Inn about
+                    seven miles from <placeName ref="pl0277">Killin</placeName>.</p>
+                <p>The latter part of this day's ride improved greatly upon us — the scenery became
+                    softer, &amp; much more pleasing; and as we approached <placeName ref="pl0277">Killin</placeName>, we were delighted to observe hills richly wooded,
+                    plains finely cultivated, and a large collection of houses and cottages, of a
+                    far more comfortable appearance than the wretched huts we had seen in the more
+                    remote parts of the <placeName ref="pl0711">Highlands &amp;
+                    Islands</placeName>.</p>
+                <p>As we drove up to <placeName ref="pl2106">Cameron's Inn</placeName>, situated
+                    just above the bank of the lovely river <placeName ref="pl1003">Lochy</placeName>
+                    <add place="above">(which falls into the <placeName ref="pl0995">Dochart</placeName> a little way below)</add>, we passed a <pb n="f.32v"/>large church, which added not a little to the satisfaction we
+                    felt, and seemed to — give conviction to the cheering idea, that we were once
+                    more returned to the busy haunts of Men. — For the last two or three days we had
+                    sustained a good deal of inconvenience from the very — wretched accommodation
+                    the Inns we had been lodged at, had afforded us. At <placeName ref="pl0277">Killin</placeName> we were exceedingly comfortable in this respect — this
+                    happened very fortunately for me; for I had undergone so much fatigue, that it
+                    was — becoming too much for me, and I was so exhausted &amp; unwell in the
+                    evening as to feel very thankful that we were arrived at such comfortable
+                    quarters.</p>
+                <p><hi rend="underline">Wednesday August 10<hi rend="superscript">th.</hi></hi> My
+                    langour &amp; fatigue continuing; I kept my bed till late in the day, and missed
+                    the opportunity of enjoying as I otherwise should have done, the beautiful
+                    walks, &amp; the enchanting views which render the <pb n="f.33r"/>neighbourhood
+                    of <placeName ref="pl0277">Killin</placeName> so very delightful. The village
+                    stands at the Western head of <placeName ref="pl0104">Loch Tay</placeName>, and
+                    commands very fine views of the Lake — It is remarkable for having two private
+                    burying grounds near it, one belonging to <persName ref="pe1375">Lord
+                        Breadalbane</persName>, the great proprietor of almost the whole of this
+                    district; &amp; the <placeName ref="pl2242">other</placeName> to M<hi rend="superscript">r.</hi> MacNab,<note type="editorial">A reference to the
+                        historical burial site of Clan MacNab at <placeName ref="pl2242">Innes
+                            Bhuidhe</placeName> on the River Dochart.</note> who also has a house
+                    near <placeName ref="pl0277">Killin.</placeName> — These burying grounds are
+                    both of them romantic &amp; beautiful; that belonging to <persName ref="pe1375">Lord Breadalbane</persName>, is the most so. The <placeName ref="pl2241">Mausoleum</placeName> is situated in a large Area, within which a Castle
+                    formerly stood, ruins of which still grace the solemn scene — The ground within
+                    the bounds of it, is beautifully kept; and besides the grand ornament of some of
+                    the finest sycamore trees I ever beheld, it is burdened &amp; planted with
+                    shrubs &amp; flowers. It commands a very <pb n="f.33v"/>fine view of <placeName ref="pl0104">Loch Tay</placeName>, and is in full front of a very pretty
+                    Cottage, which is often visited by <persName ref="pe1375">Lord
+                        Breadalbane</persName>, &amp; of which his <persName ref="pe0126">Lady</persName> is particularly fond. — On <hi rend="underline">Thursday
+                        Aug. 11<hi rend="superscript">th.</hi></hi> after visiting the spot I have
+                    been describing, and dining at <placeName ref="pl0277">Killin</placeName>, we
+                    proceeded by the south side of <placeName ref="pl0104">Loch Tay</placeName> to
+                        <placeName ref="pl0103">Kenmore</placeName>. The Lake runs so nearly
+                    straight, from the East to West, that we saw almost the whole reach of it,
+                    during the greater part of our ride, a stage of 16 miles. We were very glad
+                    indeed not to lose sight of the lovely hills &amp; fertile valley of <placeName ref="pl0277">Killin</placeName>, till we had nearly arrived at the eastern
+                    extremity of the Lake, &amp; entered the neat comfortable looking village of
+                        <placeName ref="pl0103">Kenmore</placeName> — We found here a very good
+                        <placeName ref="pl2104">Inn</placeName>, where we were soon provided <pb n="f.34r"/>with comfortable beds, one of which I was very glad to retire to,
+                    being quite fatigued, but much gratified by the exertions of the day. I must not
+                    omit to mention the beautiful &amp; singular appearance <placeName ref="pl2240">Ben-Lawers</placeName> had, during a part of our ride — This Mountain is
+                    situated on the north side of the Lake — It was almost covered by thick clouds
+                    the whole of the day; but now &amp; then the mist vanished from the highest
+                    point of the mountain &amp; shewed a dark, &amp; nearly conical ridge, at so
+                    great a height above every other terrestrial object, that it seemed like
+                    something fixed in the firmament, &amp; it was difficult to persuade ourselves
+                    that its foundation was on earth. —</p>
+                <p><hi rend="underline">Friday Aug. 12<hi rend="superscript">th.</hi></hi> The
+                    morning being fine, <persName ref="pe0002">D<hi rend="superscript">r.</hi>
+                        Malkin</persName>, <persName ref="pe0071">Miss Hall</persName> &amp;
+                        <persName ref="pe0030">Benjamin</persName> determined <pb n="f.34v"/>on
+                    ascending to the summit of <placeName ref="pl2240">Ben-Lawers</placeName>, which
+                    they effected much to their satisfaction; though they had occasional mists and
+                    showers to encounter. I did not attempt a task of so much labour; but was glad
+                    of an opportunity of lying by for a day, in hopes that the rest it might afford
+                    me, would a little recover my fatigue, &amp; recruit my strength.</p>
+                <p><hi rend="underline">Saturday Aug. 13<hi rend="superscript">th.</hi></hi>
+                    Immediately after breakfast this morning, we visited <placeName ref="pl0101">Taymouth Castle</placeName>, the seat of <persName ref="pe1375">Lord
+                        Breadalbane</persName>. The grounds which lead to the Castle are as
+                    beautiful as the imagination can conceive: they possess in themselves every
+                    various charm which Nature can give them; the noble river <placeName ref="pl0096">Tay</placeName>, rolls majestically through the park, which is
+                    ornamented by fine timber in vast profusion — the ground itself is full of
+                    variety, here swelling into easy slopes, &amp; there sinking into lovely plains
+                    — every high point which commands a view of <placeName ref="pl0104">Loch
+                        Tay</placeName> to the <pb n="f.35r"/>West, &amp; of the superb Mountains
+                    which surround this delightful scene, is made accessible by walks which are kept
+                    in the nicest order. From one of these little eminences, you command a view of a
+                    very beautiful Water fall, which falls a great depth on a rocky-steep, &amp; is
+                    surrounded on all sides by richly wooded rocky scenery. This Cascade has a good
+                    deal the same character, both in itself, &amp; its accompaniments, as the
+                        <placeName ref="pl0440">Hermitage Fall</placeName>; which we had gone out of
+                    our road to see, about two miles short of <placeName ref="pl0103">Kenmore</placeName>, on our drive from <placeName ref="pl0277">Killin</placeName>: but it is not equal to it in grandeur. The park is well
+                    stocked with Deer; &amp; we were gratified by seeing two or three of the genuine
+                    Red Deer, which is now become so very scarce, &amp; is very rarely to be met
+                    with any where. After wandering with delight in this sylvan scene, we approached
+                    the <placeName ref="pl0101">Castle</placeName>, which is not yet quite
+                    compleated — It is a very beautiful pile of building, of a dark granite, which
+                        <pb n="f.35v"/>the same greenish hue, we so much admired at <placeName ref="pl0217">Inverary Castle</placeName> — but <placeName ref="pl0101">Taymouth Castle</placeName> is very superior. The principal part of the
+                    building is very nearly finished, but it is intended to add two wings to it
+                    before the whole is compleated. The inside of the house is extremely handsome;
+                    it is ornamented with very fine carving, in the entrance, the staircase &amp;c:
+                    every thing within is in excellent taste, except perhaps the staircase, which
+                    has many beautifully ornamented niches in the walls, which do not appear to have
+                    any use; &amp; unless they are to be occupied by statues, they must appear to be
+                    unmeaning &amp; superfluous. — The floors are all of the finest oak, beautifully
+                    laid in the forms of a lozenge, &amp; filled up like mosaic, with small pieces —
+                    The ceiling <add place="above">&amp; cornices</add> are also exceedingly
+                    handsome, many of them of oak, &amp; finely wrought. The <pb n="f.36r"/>chimney
+                    pieces are of fine marble, mostly black, or <unclear reason="illegible">dun</unclear>-colour, &amp; all the fitting up of the apartments, as far as
+                    the architectural part may be called so, is in the gothic stile. — There are
+                    some good pictures, but these are not very numerous. After having seen the
+                    Castle, we took a drive through the beautiful glen of <placeName ref="pl0106">Fortingale</placeName>
+                    <add place="inline">wound round the hill called <placeName ref="pl3291">Drummond
+                            hill</placeName></add> &amp; followed for several miles the course of
+                    the fine river <placeName ref="pl0279">Lyon</placeName>, leaving <placeName ref="pl0105">glen-lyon</placeName> to our right; when we wound round <add place="above">to</add> the side of <placeName ref="pl0104">Loch-Tay</placeName>, to return to <placeName ref="pl0103">Kenmore</placeName>. We then dined at our Inn, &amp; afterwards pursued our
+                    journey to <placeName ref="pl1124">Aberfeldi</placeName>; where we turned out of
+                    the high road, &amp; walked about a mile &amp; a half to see the magnificent
+                    waterfall at <placeName ref="pl0280">Moness</placeName>. We were well rewarded
+                    for our labour: this fall is altogether the longest, &amp; the finest of any we
+                    had seen — the descent is not so precipitous, but it is of greater length, and
+                    the rocks, &amp; the wood in the surrounding <pb n="f.36v"/>scenery are
+                    particularly grand. This fall is also in <persName ref="pe1375">Lord
+                        Breadalbanes</persName> grounds, &amp; the paths to it are made as easy
+                    &amp; convenient as possible. — There was a very considerable body of water,
+                    after the rains which had recently fallen; so that we had the pleasure of seeing
+                    this — majestic torrent with every advantage, &amp; returned to the carriage
+                    much delighted with what I had beheld. We went across the <placeName ref="pl0096">Tay</placeName>, over <placeName ref="pl0102">Wade's
+                        Bridge</placeName><note type="editorial">The bridge over the River Tay at
+                        Aberfeldy was completed under the supervision of General George Wade in
+                        1733, as part of a military road network commissioned by George I to exert
+                        greater control over the Highlands. An inscription on the bridge compares
+                        Wade's achievement to the Roman conquest of Caledonia. See Nigel Leask, <hi rend="italic">Stepping Westward: Writing the Highland Tour
+                            c.1720-1830</hi> (Oxford: Oxford University Press, 2020),
+                        pp.61-62.</note> to <placeName ref="pl2102">Weem</placeName>, where we were
+                    very comfortably accommodated for the night. —</p>
+                <p><hi rend="underline">Sunday, August 14<hi rend="superscript">th.</hi></hi> After
+                    having — breakfasted at <placeName ref="pl2102">Weem</placeName>, we went to the
+                    little village of <placeName ref="pl2247">Balnaguard</placeName>, where we
+                    stopt, &amp; walked about a mile to see a very romantic &amp; picturesque,
+                    (though very little known) waterfall — after this we crossed two ferries, one
+                    over the <placeName ref="pl0096">Tay</placeName>, the other over the <placeName ref="pl0283">Tummel</placeName>; &amp; continued <pb n="f.37r"/>our journey
+                    as far as <placeName ref="pl0110">Blair-Athol</placeName>, where we took up our
+                    abode for the night. Our road <add place="above">(after crossing the second
+                        ferry)</add> lay briefly through a beautiful valley, through which the fine
+                    river we had last crossed, the <placeName ref="pl0283">Tummel</placeName>,
+                    flowed. After following its course for some miles we left it, after passing
+                        <placeName ref="pl0113">Fascally</placeName>; &amp; just at the point where
+                    the <placeName ref="pl1129">Garry</placeName> falls into it. — We then pursued
+                    the course of this latter stream, which rolls over a very deep bottom, through
+                    the <placeName ref="pl0112">pass of Killycrankie</placeName> — This part of our
+                    ride was uncommonly striking — We were surrounded on all sided by majestic
+                    Mountains, some parts cover'd with the finest wood, others offering a rocky
+                    &amp; barren surface to the view; others again looking verdant &amp; fertile,
+                    &amp; appearing cultivated to a very great height. — We seemed once more to have
+                    quitted the inhabited part of the world, &amp; to be shut out by <pb n="f.37v"/>lofty barriers, from the haunts of men, but as we entered the village of
+                        <placeName ref="pl0110">Blair</placeName> we saw little groups of people,
+                    and the happy smiling faces <add place="above">of</add> children: this gave an
+                    air of cheerfulness to the scene, and we arrived at our Inn well pleased with
+                    our day's journey; but I myself heartily glad to be advanced to the end of it,
+                    having felt for the last two hours much fatigued &amp; exhausted. — (I should
+                    not omit to mention the rich and fertile valley through which our road lay, the
+                    whole of the way from <placeName ref="pl2102">Weem</placeName>, to the place
+                    where we were ferried across the <placeName ref="pl0096">Tay</placeName>; on the
+                    eastern side of which, lay the pretty little village of <placeName ref="pl0281">Logierait</placeName>. The whole of this low district is called <placeName ref="pl3292">Strath-Tay</placeName>. It is ornamented by a great many pretty
+                    houses &amp; presents a picture of cheerfulness &amp; comfort which we
+                    contemplated with great pleasure. The river <placeName ref="pl0096">Tay</placeName> which winds the <pb n="f.38r"/>whole length of this valley,
+                    is in full view from the road, &amp; is become a very — large &amp; majestic
+                    river — A little way below <placeName ref="pl0281">Logierait</placeName>, it
+                    receives the <placeName ref="pl0283">Tummel</placeName> also, &amp; they then
+                    flow in one united current towards <placeName ref="pl0099">Dunkeld</placeName>.
+                    —) <hi rend="underline">Monday Aug. 15<hi rend="superscript">th.</hi></hi> It
+                    was our intention this morning, after seeing all we wished to see at <placeName ref="pl0110">Blair Athol</placeName>, to set out early on our way to
+                        <placeName ref="pl0099">Dunkeld</placeName> — but at the time we were
+                    preparing for it, a fire broke out at <placeName ref="pl0110">Blair
+                        Castle</placeName>, one of the Seats of the <persName ref="pe0548">Duke of
+                        Athol</persName>. — This was so serious and alarming a circumstance, in a
+                    place so much out of the way of all ready aid in such an event, that we could
+                    not think of leaving the place, till we should see what was likely to be the
+                    consequence, &amp; whether the fire could, by the assistance of the
+                    country-people be got under. —</p>
+                <p><persName ref="pe0548">The Duke</persName> himself was absent, being with a
+                    shooting party on <placeName ref="pl3293">Ben-Gloe</placeName>. The <persName ref="pe0102">Dutchess</persName>, with some of the family were at the Castle
+                        <pb n="f.38v"/>We all repaired to the place, to see if in any way we could
+                    be of service, &amp; our three Man Servants were amongst the most active &amp;
+                    useful in carrying water and pulling down parts of the building to prevent the
+                    spreading of the flames to the Main body of the Castle, the fire having begun in
+                    the Wing. — We had the pleasure of seeing that the efforts of the people, which
+                    though not very meticulously directed, were very active, soon succeeded in
+                    getting under the fire, and by four o'clock in the afternoon we felt assured
+                    that all further danger to the building was over. This being the case, we
+                    determined on prosecuting our original intention of leaving <placeName ref="pl0110">Blair Athol</placeName> — Our journey lay back again <add place="above">by</add> the road we had travelled the day before, through the
+                    rich &amp; beautiful vale of <placeName ref="pl0283">Tummel</placeName>.</p>
+                <p><pb n="f.39r"/> Near <placeName ref="pl0113">Fascally</placeName>, we quitted the
+                    Carriage &amp; walked a mile out of the road, to see the very fine <placeName ref="pl0109">falls of the Tummel</placeName>: the quantity of water in these
+                    falls, is said to be greater than in any other waterfall in <placeName ref="pl0705">Scotland</placeName>. We were exceedingly delighted with this
+                    magnificent spectacle. All the surrounding scenery, the rocks, the hills, the
+                    woods, harmonized with each other; &amp; the loud noise of the foaming torrent
+                    produced the grandest effect. — Our way to this fall, lay through the grounds of
+                        <persName ref="pe0106">M<hi rend="superscript">r.</hi> Butter</persName>, of
+                        <placeName ref="pl0113">Fascally</placeName>, a most beautiful &amp;
+                    romantic place within a short distance from our road.<note type="editorial">The
+                        house and grounds at Faskally are praised by Thomas Pennant in his <hi rend="italic">Tour in Scotland 1769</hi>, 3rd edn. (Warrington: 1774),
+                        p.119. At the time of Pennant's visit, the inhabitant was a Mr
+                        Robertson.</note></p>
+                <p>We quitted the banks of the <placeName ref="pl0283">Tummel</placeName> at the
+                    place where we had ferried over, &amp; then pursued the course of the <placeName ref="pl0096">Tay</placeName>, to the town of <placeName ref="pl0099">Dunkeld</placeName>; where we arrived after nine o'clock in the evening.
+                    —</p>
+                <p>We found a very comfortable Inn, &amp; took up our lodgings in it for the night.
+                    —</p>
+                <p><pb n="f.39v"/>
+                    <hi rend="underline">Tuesday Aug. 16<hi rend="superscript">th</hi></hi> We spent
+                    the morning in seeing the grounds of the <persName ref="pe0548">Duke of
+                        Athol</persName> who has also a seat at <placeName ref="pl0099">Dunkeld</placeName>. The principal object is a fall on the <placeName ref="pl2095">River Brand</placeName>, which is called the <placeName ref="pl0440">Hermitage Fall</placeName>, in front of which a building has
+                    been erected, which is whimsically called the <placeName ref="pl2093">Hall of
+                        Ossian</placeName>; where the family sometimes make parties &amp; go to
+                    dine. There is a very nice room, prettily fitted up, &amp; ornamented with
+                    glasses, &amp; mirrors, which show the fall in various directions. Here is a
+                    very considerable body of water, &amp; the rocks over which it tumbles are very
+                    rude, &amp; very wide — the effect of the whole is very fine — We quitted this,
+                    &amp; pursued the upper course of the stream to the <placeName ref="pl2094">rumbling brig</placeName>, where there is also another grand fall. The Town
+                    of <placeName ref="pl0099">Dunkeld</placeName> is beautifully situated: the
+                        <placeName ref="pl0096">Tay</placeName> is here become a very large river,
+                        <pb n="f.40r"/>having a very handsome stone Bridge over it, built withing a
+                    few years. —</p>
+                <p>There are very considerable remains of the <placeName ref="pl2250">Cathedral</placeName> still standing, but they do not offer any thing
+                    particularly curious to the observation — A part of the <placeName ref="pl2250">Cathedral</placeName> is still resorted to, as the parish Church; this is
+                    in a wretched dilapidated state, &amp; the Ailes &amp; Pews are so ill kept,
+                    &amp; so charged with dirt &amp; dust, as to look very forlorn &amp;
+                    uncomfortable. It must appear to all english travellers, that it is a great
+                    disgrace to the inhabitants of such a Town as <placeName ref="pl0099">Dunkeld</placeName>, to suffer their Church to <add place="above">be</add>
+                    so shamefully neglected.</p>
+                <p><hi rend="underline">Wednesday Aug. 17<hi rend="superscript">th.</hi></hi> After
+                    breakfast we quitted <placeName ref="pl0099">Dunkeld</placeName>, &amp; pursued
+                    the course of the <placeName ref="pl0096">Tay</placeName> for some distance;
+                    winding along under <placeName ref="pl2087">Birnam Hill</placeName>, which is a
+                    fine craggy &amp; picturesque Mountain, but no longer boasts the wood attributed
+                    to it <pb n="f.40v"/>by <persName ref="pe0494">Shakespear</persName>. We looked
+                    back towards <placeName ref="pl0099">Dunkeld</placeName>, &amp; were more than
+                    ever charmed with the beauty of its situation, &amp; the grandeur &amp; richness
+                    of the surrounding Scenery — after we had advanced three or four miles, the face
+                    of the country became less interesting, &amp; acquired quite a different
+                    character. There is a great deal in the road between <placeName ref="pl0099">Dunkeld</placeName> &amp; <placeName ref="pl0094">Perth</placeName>, which
+                    strongly reminded us of <placeName ref="pl0775">England</placeName>. The plains
+                    are wider than any we had long seen, &amp; the enclosures here, were principally
+                    hedges — the distant views also in this district were less marked by bold
+                    mountain ridges, &amp; partook greatly of the tamer features of English
+                    landscape. We had a pleasant ride to <placeName ref="pl0094">Perth</placeName>,
+                    where we arrived about one o'clock; &amp; we passed two or three hours before
+                    dinner in walking to see the beauties of this place. The town is considerable
+                    but not of great extent — It has some <pb n="f.41r"/>handsome buildings,
+                    particularly those which are upon the <placeName ref="pl3294">North-Inch</placeName>. Its situation is very beautiful, and the noble
+                    river, the <placeName ref="pl0096">Tay</placeName>, forms one of its finest
+                    ornaments. There is a handsome stone bridge over the river, which is a fine
+                    object wherever it is seen; but in going over it, a person is surprized to find
+                    it narrow, and shabby — having a foot pavement only on one side of the bridge.
+                    The views up and down the river, as you stand upon the bridge, are exceedingly
+                    rich; and the whole appearance of the Town &amp; neighbourhood gives the idea of
+                    ease &amp; comfort. —</p>
+                <p>At <placeName ref="pl0094">Perth</placeName> I had the great satisfaction of
+                    receiving a large packet of letters, from my children, from <placeName ref="pl0731">Wales</placeName>, &amp; from my Brother.</p>
+                <p><hi rend="underline">Thursday August 18<hi rend="superscript">th.</hi></hi>
+                    Having seen all we wished of <placeName ref="pl0094">Perth</placeName>
+                    yesterday, we left it this morning, and visited <placeName ref="pl3295">Lyndock</placeName> the very pretty cottage of <persName ref="pe1454"><add place="above">General</add> Sir Thomas Grahame, now Lord
+                        Lyndock</persName>. There is little in this place to render it worthy of
+                    going much <pb n="f.41v"/>out of the road for; but the house is a low thatched
+                    building, containing only two Good rooms, and several bed-rooms — It has however
+                    the merit of being exactly what it is said to be, a perfect cottage; which is
+                    rendered a very lovely little abode by the grounds in which it is situated — It
+                    has a conservatory, into which the dining room opens, which had some of the
+                    finest green-house plants I ever saw; &amp; they all bore a rich profusion of
+                    blossom, which rendered it very beautiful. There were no curious plants in it,
+                    but those which grow there, are the finest of their kind. — It was trained up
+                    with Passion-flowers, &amp; other creepers, to the top of the conservatory,
+                    &amp; the woody stalks were as thick as my arm. — The garden also was well
+                    stored with flowers, &amp; there was <pb n="f.42r"/>very fine fruit in
+                    hot-houses. The <placeName ref="pl3296">graves of Bessy Bell &amp; Mary
+                        Gray</placeName>, are shown in these grounds.<note type="editorial">According to tradition, Bessie Bell and Mary Gray were two women who, in
+                        1666, attempted to escape the plague by isolating themselves in a small
+                        dwelling next to a tributary of the River Almond. They were said to have
+                        died after contracting the plague from a young male visitor with whom they
+                        were both enamored. The story is recounted in a popular song, and in
+                        Alexander Campbell, <hi rend="italic">A Journey from Edinburgh through Parts
+                            of North Britain</hi> (London: 1802), 2 Vols., i, p.358.</note> The
+                    river <placeName ref="pl0306">Almon</placeName> flows through them, &amp; adds
+                    greatly to their beauty. — On quitting <placeName ref="pl3295">Lyndock</placeName>, it was our intention to have proceeded by a new road
+                    through <placeName ref="pl3297">Glen-Almon</placeName>, to <placeName ref="pl0295">Crief</placeName>: but our postilions were misinformed
+                    respecting their way &amp; took us over a wretched barren moor for many long
+                    miles, till at the end of four hours we found ourselves at <placeName ref="pl3298">Amulree</placeName>, where we baited our horses, &amp; took
+                    some refreshment ourselves — We afterwards proceeded to <placeName ref="pl0295">Crief</placeName>, going through a part of <placeName ref="pl3297">Glen-Almon</placeName>, with which we were much pleased — this part of the
+                    Glen was at the other extremity from that we had intended taking in the morning.
+                    We all found ourselves much fatigued by this days journey, as our road for the
+                    grater part was wholly uninteresting, &amp; the <pb n="f.42v"/>most laborious
+                    &amp; stony of any we had travelled over in <placeName ref="pl0705">Scotland</placeName>. The Country became pretty again, as we approached the
+                    Town of <placeName ref="pl0295">Crief</placeName>, &amp; we were very glad to
+                    find ourselves safely arrived &amp; lodged at a pretty good Inn; for we had been
+                    apprehensive, lest from the extreme badness of the road, the Carriage might
+                        <del>not</del> have met with some serious injury: this however did not prove
+                    to have been the case.</p>
+                <p><hi rend="underline">Friday August 19<hi rend="superscript">th.</hi></hi> This
+                    morning we pursued our journey towards <placeName ref="pl3299">Loch-Earn
+                        head</placeName>. At the distance of about two or three miles from
+                        <placeName ref="pl0295">Crief</placeName>, we entered the grounds of
+                        <placeName ref="pl0296">Ochtertire</placeName>, the seat of <persName ref="pe0128">Sir Patrick Murray</persName> — Our first object was to see a
+                    fine water fall here, which we visited, and were greatly pleased with: it is on
+                    the <placeName ref="pl3300">Turret</placeName>, a river of no great size, but
+                    the bed is rocky, the sides all wooded, &amp; the general character,
+                    particularly at the fall, is very pleasing. The grounds are very beautiful; the
+                    house, a good comfortable <pb n="f.43r"/>modern building, of a dark grey stone.
+                    It is exceedingly well situated, about mid way up the side of a hill — high
+                    enough to command a fine view of all the neighbouring country, &amp; yet
+                    sufficiently below the summit, to be well skreened by the Mountain behind from
+                    the North winds. There can scarcely be found a happier combination of the
+                    grandeur of Highland scenery, with the softer beauties of more southern
+                    landscape, than at <placeName ref="pl0296">Ochtertyre</placeName>. — Quitting
+                    this lovely place, we proceeded to the pretty little town of <placeName ref="pl0298">Comrie</placeName>; which we quitted to visit the <placeName ref="pl3302">Pillar</placeName> which is erected to the memory of the late
+                        <persName ref="pe0453">Lord Melville</persName>, on a very high &amp;
+                    picturesque rocky hill, above the town. We were much gratified on ascending this
+                    height, with the fine views which we beheld from it. On our descent from it we
+                    visited the fine <placeName ref="pl3301">falls of the Comrie</placeName>, which
+                    lie at a great depth in the glen, almost immediately below the pillar. The
+                    effect of all these <pb n="f.43v"/>objects is very striking: &amp; the eye is
+                    carried over a very richly wooded narrow Glen, through which the river murmurs
+                    hoarsely, to the town of <placeName ref="pl0298">Comrie</placeName>, the pretty
+                    Church appearing to close the scene — the river Comrie<note type="editorial">No
+                        river with the name Comrie exists; Malkin may be referring to the nearby
+                            <placeName ref="pl3318">Water of Ruchill</placeName></note> is not a
+                    large stream, but very impetuous; falling over a rocky bottom, with frequent
+                    interruptions, into the river <placeName ref="pl2256">Earn</placeName>, a little
+                    below the town of <placeName ref="pl0298">Comrie</placeName>. —</p>
+                <p>A little way beyond this place, we came to <placeName ref="pl3317">Dunira</placeName>, formerly the favorite seat of <persName ref="pe0453">Lord Melville</persName>, but now let to a gentleman of the name of
+                        <persName ref="pe0130">Drummond</persName>. The grounds here are very
+                    pretty, but are less attended to than they used to be in the time of the late
+                        <persName ref="pe0453">Lord Melville</persName>. —</p>
+                <p>In the afternoon we proceeded by the North side of <placeName ref="pl0299">Loch-Earn</placeName> to the Inn at the head of the Lake; where we took up
+                    our abode, &amp; found ourselves very comfortably accommodated. — Our ride by
+                    the side <pb n="f.44r"/>of the Lake was very beautiful: the hills on either side
+                    being very lofty, &amp; finely varied by wood &amp; rock — those on the north
+                    side being the commencement of the <placeName ref="pl1166">Grampians</placeName>
+                    in this district, &amp; those on the south of the <placeName ref="pl2358">Balquihidder</placeName>. Above the highest top of those under which we
+                    were passing (the <placeName ref="pl1166">Grampians</placeName>) we saw a very
+                    large bird soaring, which we were told, (&amp; from the height at which we
+                    observed it, we thought very probable) was an Eagle. We were fortunate in having
+                    a very fine day, which admitted of our seeing the numerous objects we visited
+                    to-day to the greatest advantage. — —</p>
+                <p><hi rend="underline">Saturday Aug. 20<hi rend="superscript">th.</hi></hi> This
+                    morning <persName ref="pe0002">D<hi rend="superscript">r</hi> Malkin</persName>,
+                        <persName ref="pe0030">Benjamin</persName> &amp; <persName ref="pe0071">Miss
+                        Hall</persName> ascended to the top of <placeName ref="pl3303">Ben
+                        Voirlack</placeName>: the day was clear, &amp; they had a fine view of most
+                    of the objects which are to be seen from that Mountain. They returned to dinner
+                    at four o' Clock, after which we all took a drive as far <pb n="f.44v"/>as the
+                    little Lake in <placeName ref="pl2349">Glen-Ogle</placeName>.<note type="editorial"><placeName ref="pl3320">Lochan Lairig
+                        Cheile</placeName>.</note> On — arriving at this place, we were again —
+                    withing the distance of about four miles from <placeName ref="pl0277">Killin</placeName> — We looked down upon the <placeName ref="pl0276">vale
+                        of Dochart</placeName>, &amp; saw the tops of the hills above <placeName ref="pl0277">Killin</placeName>; but we could not see far enough to the
+                    East, to catch another view of <placeName ref="pl0104">Loch-Tay</placeName>. —
+                    On our road back to our Inn, we had a very fine view of <placeName ref="pl3303">Ben-Voirlack</placeName> whose lofty summit rose majestically above all the
+                    surrounding hills — I could not help regretting that I had not felt equal to the
+                    task of ascending it in the morning. — The scenery of <placeName ref="pl2349">Glen-Ogle</placeName> is very wild; the hills on either side are high, and
+                    rocky; &amp; large — masses of stone have fallen from their <add place="above">tops,</add> which lie in the Glen, &amp; obstruct the course of the stream
+                    below. The little Lake is a pretty softening feature in this wild &amp;
+                    sequestered scene.</p>
+                <p><pb n="f.45"/>
+                    <hi rend="underline">Sunday Aug. 21<hi rend="underline">st</hi></hi> We left
+                        <placeName ref="pl3299">Loch-Ernehead</placeName> after breakfast — At the
+                    distance of three miles, we turned out of our road, to drive up to <placeName ref="pl3304">Loch-Noil</placeName>, or <placeName ref="pl3304">Loch
+                        Voil</placeName>, for we could not exactly learn which was the proper name.
+                    This is a small Lake, in a very pretty valley, West of our road from <placeName ref="pl3299">loch Erne-head</placeName> to <placeName ref="pl2324">Callendar</placeName>. — After having seen it, we returned to the high
+                    road, &amp; soon came by the lovely vale of <placeName ref="pl2323">Strath-Ire</placeName>, to the north end of <placeName ref="pl3305">Loch
+                        Lubnaig</placeName>, our way lying on the eastern side of the Lake. This
+                    loch is also small but the scenery on both sides of it is very beautiful, &amp;
+                    the hills rise in some parts immediately from the Lake, to a very great height:
+                    they are partly rocky, &amp; a good deal covered with wood. Soon after quitting
+                    the South End of the Lake, we entered the <placeName ref="pl2328">pass of
+                        Lennie</placeName>, a fine romantic Glen — the river <placeName ref="pl1115">Tieth</placeName> flowing out of the loch, through this Glen, &amp; giving
+                    a great deal of beauty to the scene. We followed the course of this fine river
+                    to <pb n="f.45v"/><placeName ref="pl2324">Callander</placeName>, where we once
+                    more took up our abode for the rest of the day &amp; night. It was here we first
+                    entered the <placeName ref="pl0711">Highlands</placeName>, here also we bid them
+                    adieu!</p>
+                <p>Tomorrow we shall pursue our journey homewards through the <placeName ref="pl1139">Lowland districts of Scotland</placeName>. We shall I hope
+                    carry with us a grateful remembrance of the kindness we have experienced, &amp;
+                    the pleasures we have enjoyed, in the course of our very agreeable tour! —</p>
+                <p>Monday Aug. 22<hi rend="underline"><hi rend="superscript">nd.</hi></hi> I was
+                    much pleased to find this morning that the greater part of our road to
+                        <placeName ref="pl0226">Dumbarton</placeName> still lay on the Highland
+                    border — We took the same route by which we before left <placeName ref="pl2324">Callander</placeName>, nearly as far as <placeName ref="pl2180">Aberfoil</placeName> — about a mile short of this place we turned off into
+                    the <placeName ref="pl0226">Dumbarton</placeName> road. — We had the pleasure of
+                    again passing the lovely <placeName ref="pl1117">Lake of Monteith</placeName>,
+                    which lost nothing in our estimation from being compared with many other we <pb n="f.46r"/>had visited since last we passed its borders — We kept it in view
+                    for some time after we had quitted the <placeName ref="pl2180">Aberfoil</placeName> road — We were gratified by a very fine mountain on
+                    the height above the Lake, &amp; enjoyed it the more from being now able to
+                    recognise the different points of it. — After ascending to a considerable
+                    height, over a heathy moor, south of <placeName ref="pl2180">Aberfoil</placeName>, we commanded a fine view of the Southern end of
+                        <placeName ref="pl0223">Loch Lomond</placeName>; and had the high
+                    gratification of seeing the superb Mountain <placeName ref="pl0609">Ben-Lomond</placeName>, free from any cloud, rising majestically from the
+                    Lake below. — The day was at this hour of it, particularly favorable to mountain
+                    scenery. The grand ridge of the <placeName ref="pl1008">Aroqhuar</placeName>
+                    Mountains looked particularly fine, &amp; were seen in full majesty above the
+                    tops of those immediately rising from the western side of <placeName ref="pl0223">Loch-Lomond</placeName>. All the scenery we now beheld, seemed
+                    to be familiar to us, <pb n="f.46v"/>and this added greatly to the satisfaction
+                    with which we contemplated it. We continued to enjoy the same prospect for a
+                    great part of our road towards <placeName ref="pl0226">Dumbarton</placeName> —
+                    The view of <placeName ref="pl0609">Ben-Lomond</placeName> is finer, &amp;
+                    grander, from this side of it, than from any other. — We regretted much in the
+                    morning, that the heavy clouds which hung over the summits of <placeName ref="pl1167">Ben-Ledi</placeName>, &amp; <placeName ref="pl1168">Ben-Venue</placeName>, prevented our seeing them in full beauty — but our
+                    parting view of <placeName ref="pl0609">Ben-Lomond</placeName>, <placeName ref="pl0223">Loch-Lomond</placeName>, &amp; all the majestic features which
+                    grace this most attractive &amp; interesting district, made us rich amends for
+                    the disappointment; and I felt particularly gratified that the last Highland
+                    scene I was likely to contemplate, was amongst the finest I had enjoyed. I knew
+                    not how to turn away from it; but it was necessary we should pursue our journey,
+                    &amp; I <pb n="f.47r"/>was well pleased on arriving at <placeName ref="pl0226">Dumbarton</placeName>, to find that <placeName ref="pl0609">Ben-Lomond</placeName> still reared his head above all other objects, &amp;
+                    formed a grand feature in the view from the Town &amp; Castle.</p>
+                <p><placeName ref="pl0226">Dumbarton</placeName> is a shabby Town, &amp; does not
+                    appear to be well inhabited. It has a handsome Bridge over the river <placeName ref="pl2505">Leven</placeName>, which falls just below it into the
+                        <placeName ref="pl0833">Firth of Clyde</placeName>. We walked to the —
+                    singular <placeName ref="pl1104">Rock</placeName> on which the Castle — formerly
+                    stood, and on which there is now a small Garrison, but no vestige of the Castle
+                    now remains.<note type="editorial">Although largely subsumed by the eighteenth
+                        and nineteenth-century military buildings, Historic Environment Scotland
+                        notes that some of elements of older structures are extant.</note> We
+                    ascended to the summit of the Rock, &amp; commanded a very fine view of the
+                        <placeName ref="pl0833">Firth</placeName>, and of all the surrounding
+                    country. The rich vale between this place &amp; <placeName ref="pl0223">Loch-Lomond</placeName>, &amp; <placeName ref="pl0609">Ben-Lomond</placeName> beyond it to the North, formed the most enchanting
+                    features of this lovely scene. The <placeName ref="pl0833">Firth</placeName>
+                    formed a fine expanse of Water under the rock on which <add place="below">we
+                        stood.</add></p>
+                <p><pb n="f.47v"/>
+                    <hi rend="underline">Tuesday Aug. 23<hi rend="superscript">rd.</hi></hi> We left
+                        <placeName ref="pl0226">Dumbarton</placeName>, and had a pleasant walk by
+                    the banks of the <placeName ref="pl0600">Clyde</placeName> to <placeName ref="pl0229">Glasgow</placeName> — but there was nothing particularly
+                    interesting in our road. — <placeName ref="pl0229">Glasgow</placeName> appears
+                    to be a handsome well built Town, &amp; very full of business &amp; bustle; but
+                    the afternoon proved so very rainy, that we had very little opportunity of
+                    walking out — We saw from our Inn, that <placeName ref="pl3306">Argyll
+                        Street</placeName>, in which it stands, is a fine handsome street, well
+                    built with stone, as the whole of the Town is; &amp; having many very fine shops
+                    in it. —</p>
+                <p><hi rend="underline">Wednesday Aug. 24<hi rend="superscript">th.</hi></hi> We
+                    went this morning to see the <placeName ref="pl1060">Hunterian
+                        Museum</placeName> at the <placeName ref="pl1061">College</placeName>, &amp;
+                    afterwards visited most parts of the Town — There are many handsome Streets,
+                    &amp; a great deal of <pb n="f.48r"/>fine building in <placeName ref="pl0229">Glasgow</placeName>. — It possesses also an advantage which we rather
+                    regretted the want of in <placeName ref="pl0076">Edinburgh</placeName>; the
+                    having many fine Church spires. These are in themselves very beautiful, and when
+                    many buildings area clustered together, as in a large town; they tend perhaps
+                    more than any other objects to give dignity &amp; effect to the whole. In
+                    situation, and indeed in every other respect, <placeName ref="pl0076">Edinburgh</placeName> appears to me to have a most decided superiority;
+                    &amp; as a place to reside in, I should think <placeName ref="pl0229">Glasgow</placeName> would bear no comparison with it. <placeName ref="pl3306">Argyll S<hi rend="superscript">t.</hi></placeName> in
+                        <placeName ref="pl0229">Glasgow</placeName>
+                    <add place="above">&amp; the <placeName ref="pl2160">Trongate</placeName> which
+                        is a continuation of it</add> is one of the handsomest I have seen any
+                    where. There are two Stone Bridges across the <placeName ref="pl0600">Clyde</placeName> here, but these are not handsome — the arches being low,
+                        <pb n="f.48v"/>and the whole of the architecture very heavy &amp; inelegant
+                    — We were sorry to see, that the top of a <placeName ref="pl3307">pillar</placeName> which was erected a few years since to the memory of
+                        <persName ref="pe1435">Lord Nelson</persName>, has been struck by lightning,
+                    and appears to be in so disjointed a state, as to render it probable that a part
+                    of it may fall. Near to this spot, there is a most magnificent new
+                        <sic>Goal</sic> erecting. — At the other side of the Town there is also
+                    building at this time, an Asylum for Lunatics. The Infirmary is also a handsome
+                    modern building on the North side of the Town. — We went to see the <placeName ref="pl1059">Cathedral</placeName>, which is rather handsome, but very
+                    negligently kept, like every other Church which we had yet seen in <placeName ref="pl0705">Scotland</placeName>. —</p>
+                <p><pb n="f.49r"/>
+                    <hi rend="underline">Thursday Aug. 25<hi rend="superscript">th.</hi></hi></p>
+                <p>We left <placeName ref="pl0229">Glasgow</placeName> this morning, and <unclear reason="illegible">came</unclear> by <placeName ref="pl0597">Hamilton</placeName> to Lanark — We followed the course of the <placeName ref="pl0600">Clyde</placeName> a good part of our road, and were gratified
+                    by seeing so much of this fine river. — at the same time, I felt rather
+                    disappointed. I had heard the <placeName ref="pl0600">Clyde</placeName> so often
+                    mentioned with admiration, that I expected to see more beauty than we found on
+                    its banks. There are however many parts of it, where its borders are richly
+                    fringed with wood — but on the whole its shores are flat, &amp; much less
+                    interesting than many of the rivers we have so much admired in the <placeName ref="pl0711">Highlands</placeName>. There is a fine fall of this river <add place="above">called <placeName ref="pl0594">Stone-Biers
+                        fall</placeName></add> about two miles short of <placeName ref="pl0590">Lanark</placeName>, which we went to see, and were very much pleased with.
+                    After dining at our Inn, we procured a <pb n="f.49v"/>guide to direct us on our
+                    way to see the <placeName ref="pl0595">Cartland Craggs</placeName> — these are
+                    fine romantic rocks, that rise to a great height above a small river, the
+                        <placeName ref="pl2156">Mouse</placeName>, which falls into the <placeName ref="pl0600">Clyde</placeName> a little way below — We had a very delightful
+                    walk — the scenery on both sides <sic>the</sic> stream was very grand, as well
+                    as beautiful. — the rocks are richly — wooded, down to the edge of the water,
+                    and the whole character of the place a good deal reminded <add place="above">us</add> of <placeName ref="pl0385">Hawthorn Dean</placeName>, with which
+                    we had been so — much delighted when we visited it from <placeName ref="pl0076">Edinburgh</placeName>. —</p>
+                <p><hi rend="underline">Friday August 26<hi rend="superscript">th.</hi></hi> We went
+                    this morning to breakfast at <persName ref="pe1420">M<hi rend="superscript">r.</hi> Owen's</persName> at <placeName ref="pl3308">Braxfield</placeName>; who afterwards conducted us through the several
+                    departments of the cotton yarn manufactory which he conducts at the <pb n="f.50r"/>Village of <placeName ref="pl1052">New Lanark</placeName>. He
+                    also took us to the Schools, the Store Warehouses &amp;c, and gratified us very
+                    much by informing us of the principle upon which every thing here is conducted.
+                    There is at present in the village a population of 2400 — persons, all of whom
+                    are more decent in their appearance than I have ever seen the labouring classes
+                    in other manufacturing places — Every thing possible is done, under <persName ref="pe1420">M<hi rend="superscript">r.</hi> Owen's</persName> benevolent
+                    super-intendance, which may tend to improve <add place="above">the</add>
+                    situation, and increase the comforts of the industrious poor — the happy effects
+                    of his liberal system, are very observable in the civil deportment; &amp; happy
+                    countenances of his dependants of all ages. The artisans &amp; their children
+                    look healthy &amp; contented — the buildings in which the manufactory is
+                    conducted are very airy &amp; spacious — the food which <pb n="f.50v"/>is
+                    brought to the store-houses, for them to purchase, is of the best quality, the
+                    situation of the village is exceedingly salubrious as well as beautiful; and
+                    every circumstance appears to tend to the perfection of an admirable &amp;
+                    liberal theory, which is here actually carried into practise with the best &amp;
+                    happiest effects. — <persName ref="pe1420">M<hi rend="superscript">r.</hi>
+                        Owen</persName> has been settled here but fifteen years: he looks upon his
+                    grand scheme as only yet in its commencement; &amp; hopes if life &amp; health
+                    are granted him, to see a very great improvement in the space of a few more
+                    years. every person who is so happy as to see this establish<add place="above">ment</add> will feel a strong interest in the further perfecting of it, and
+                    wish most devoutly that it may be consistent <pb n="f.51r"/>with the plan of an
+                    All Wise Providence to continue the life, &amp; assist the exertions of this
+                    most excellent &amp; judicious Man. —</p>
+                <p>After having been gratified by seeing as far as we were able, into the nature
+                    &amp; effects of his institutions, we went accompanied by <persName ref="pe1420">M<hi rend="superscript">r.</hi> Owen</persName>, to see the <placeName ref="pl0593">falls of the Clyde at Boniton</placeName>. Here we enjoyed the
+                    sublime &amp; the beautiful, in Nature's richest profusion. These falls
+                    surpassed in grandeur any we had before visited — the great body of water, the
+                    height &amp; grandeur of the neighbouring cliffs, the fine wood which ornaments
+                    their sides and tops, and the great depth as well as breadth of the rocks over
+                    which the torrent tumbles &amp; rages; all these circumstances, combined with
+                    the immense foam &amp; spray, &amp; the thundering noise of the dashing waters,
+                        <pb n="f.51v"/><add place="above">unite in</add> forming a scene the most
+                    affecting &amp; impressive that can be imagined. Cold and insensible must be the
+                    heart of that being, who could contemplate it without emotion; or admire it,
+                    without paying the tribute of gratitude and devotion to the Great Author of all
+                    beauty, the Divine Source of every good!</p>
+                <p>Having been a little disappointed, in what we had before seen of the <placeName ref="pl0600">Clyde</placeName>, I was much pleased to find that by pursuing
+                    its upward course to this place, <del><unclear reason="illegible">we
+                            found</unclear></del> our expectations <add place="above">were</add>
+                    more than answered. This was the last grand object, which we had to visit in
+                        <placeName ref="pl0705">Scotland</placeName>, nor could we finish better. I
+                    hardly knew how to quit this delightful spot, &amp; most reluctantly turned my
+                    steps from the <pb n="f.52r"/>river's brink. — I had been a great many hours on
+                    foot, but my mind &amp; heart had been so much interested, that I scarcely felt
+                    any fatigue. We all returned to <placeName ref="pl3308">Braxfield</placeName> to
+                    dinner, &amp; spent the rest of the day in the most agreeable manner with
+                        <persName ref="pe1420">M<hi rend="superscript">r.</hi> Owen</persName> &amp;
+                    his family; <persName ref="pe0134">M<hi rend="superscript">r.</hi> William Aston
+                        of London</persName>, &amp; <persName ref="pe0135">M<hi rend="superscript">r.</hi> Grahame of Glasgow</persName> making a very delightful addition
+                    to the party. Thus have we passed our last day in <placeName ref="pl0705">Scotland</placeName>, as satisfactorily as we begun our season of enjoyment
+                    in this country. Our journey has been safe and agreable in all its
+                    circumstances; we have met with the utmost kindness &amp; hospitality from all
+                    the inhabitants to whom we have had the <pb n="f.52v"/>pleasure of being
+                    introduced. We leave them with regret, and shall always remember them with
+                    gratitude &amp; esteem. — To-morrow we set forward on our actual journey home,
+                    which we shall perform in as short a time as possible — We shall hardly quit the
+                    borders of <placeName ref="pl0705">Scotland</placeName> to-morrow; but
+                    travelling post, &amp; making no further delays any where, we feel that we have
+                    already taken our leave of the Scotch people; and can only soften our regrets by
+                    indulging the hope, that we may have the great pleasure &amp; satisfaction of
+                    welcoming in <placeName ref="pl0775">England</placeName>, some of the friends we
+                    most value in this delightful country! — <placeName ref="pl0590">Old
+                        Lanark</placeName>, 12 at night <lb/>Friday Aug. 26<hi rend="superscript">th.</hi> 1814. —}</p>
+                <p><pb n="f.53r"/>
+                    <hi rend="underline">Saturday Aug. 27<hi rend="superscript">th.</hi></hi> We
+                    quitted <placeName ref="pl0590">Lanark</placeName>, &amp; came by <placeName ref="pl0587">Douglass Mill</placeName>, <placeName ref="pl2120">Elvan
+                        Foot</placeName> &amp; <placeName ref="pl0247">Moffat</placeName>, to
+                        <placeName ref="pl0576">Dumfries</placeName>.</p>
+                <p>Here we had the great pleasure of meeting again our kind <placeName ref="pl0076">Edinburgh</placeName> friend, <persName ref="pe0070">M<hi rend="superscript">r.</hi> Gray</persName>. We did not arrive till eight
+                    at night, but he found us out almost immediately; &amp; went with us to call
+                    upon <persName ref="pe0131">M<hi rend="superscript">rs.</hi> Burns</persName>;
+                    afterwards we went to the Churchyard, to visit the tomb of him, who had read the
+                    book of Nature with so much attention, and described its beauties with so much
+                    tenderness: who had tasted the pleasures of life, and enjoyed them with a poet's
+                    ardour; but who had also endured its miseries, &amp; sunk under the bitterness
+                    of <add place="above">its</add> disappointments! We did not survey the grave of
+                        <persName ref="pe1806">Burns</persName> without considerable emotion — it is
+                    situated at the south <pb n="f.53v"/>east corner of the Churchyard. Every thing
+                    around us was in harmony with the object we were contemplating, silent &amp;
+                    still as the ashes of the dead: while a pale, but brilliant Moon, nearly at its
+                    full, gilded the solemn scene, &amp; rendered legible the simple inscription
+                    which records the early death of <persName ref="pe1806">Robert Burns</persName>!
+                    —</p>
+                <p>In thoughtful, pensive mood, we quitted the burying ground, &amp; turned our
+                    steps to the banks of the lovely river which ornaments this town, the <placeName ref="pl0573">Nith</placeName>. The trees — its birches, &amp; the glorious
+                    orb in the heavens, were finely reflected in <add place="above">the</add> broad
+                    stream, over which we hung delighted; &amp; we continued wandering near it, till
+                    a late hour reminded us that it was necessary <pb n="f.54r"/>to return to our
+                    Inn. — Here we parted with <persName ref="pe0070">M<hi rend="superscript">r.</hi> Gray</persName>, much regretting that we were under a necessity
+                    to proceed on our journey home early on the following morning; but highly
+                    pleased with having had the pleasure of seeing him once more, though for so
+                    short a time, before our final departure from <placeName ref="pl0705">Scotland</placeName>. —</p>
+                <p>Sunday Aug. 28<hi rend="superscript">th.</hi> We came to <placeName ref="pl0559">Annan</placeName> to breakfast; afterwards, passing by <placeName ref="pl0558">Gretna Green</placeName>, through <placeName ref="pl0251">Longtown</placeName>, <placeName ref="pl0253">Carlisle</placeName>,
+                        <placeName ref="pl0254">Penrith</placeName> &amp; <placeName ref="pl2125">Appleby</placeName>, to <placeName ref="pl3309">Brough</placeName>; where
+                    we slept. The regret we felt on quitting the Scottish Border, was soon softened
+                    by the cheering reflection that we were once again in <placeName ref="pl0775">England</placeName>, &amp; hastening to rejoin our dear children, &amp; to
+                    enjoy the comforts of our much loved house. It was also a very gratifying
+                    circumstance to us, <pb n="f.54v"/>after leaving the grand scenery of the
+                        <placeName ref="pl0711">Highlands of Scotland</placeName>, to open upon
+                    those of <placeName ref="pl0800">Cumberland</placeName>. A fine ridge of those
+                    mountains claimed our admiration, &amp; we kept <placeName ref="pl1097">Skiddaw</placeName> in full view during almost the whole of our long days
+                    journey. This magnificent Mountain is a fine object from whatever point it is
+                    seen — it is a noble feature n the views from the elevations round <placeName ref="pl0254">Penrith</placeName>, which is a nice airy Town very agreably
+                    situated — We passed through a very rich &amp; beautiful vale from this place to
+                        <placeName ref="pl2125">Appleby</placeName>. —</p>
+                <p><hi rend="underline">Monday Aug. 29<hi rend="superscript">th.</hi></hi> We left
+                        <placeName ref="pl3309">Brough</placeName>, and came by <placeName ref="pl3310">Greta Bridge</placeName>, <placeName ref="pl3311">Catterick
+                        Bridge</placeName>, <placeName ref="pl3312">Leeming Lane</placeName>,
+                        <placeName ref="pl2040">Burrough Bridge</placeName> and <placeName ref="pl2041">Wetherby</placeName>, to <placeName ref="pl0767">Ferry
+                        Bridge</placeName>; where we slept.</p>
+                <p><hi rend="underline">Tuesday Aug. 30<hi rend="superscript">th.</hi></hi> From
+                        <placeName ref="pl0767">Ferry Bridge</placeName> by <placeName ref="pl0768">Doncaster</placeName>, <placeName ref="pl2549">Newark</placeName>,
+                        <placeName ref="pl3273">Grantham</placeName> and <pb n="f.55r"/><placeName ref="pl3313">Witham Common</placeName>, to <placeName ref="pl0790">Stamford</placeName>, where we slept. —</p>
+                <p><hi rend="underline">Wednesday Aug. 31<hi rend="superscript">st.</hi></hi> We
+                    terminated our long journey, and arrived at home about seven in the evening;
+                    returning as we went, by <placeName ref="pl3314">Stilton</placeName>, <placeName ref="pl3315">Huntingdon</placeName>, and <placeName ref="pl2871">Cambridge</placeName>. —</p>
+                <p/>
+
+            </div>
+        </body>
+    </text>
+</TEI>

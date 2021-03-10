@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1201">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>62</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1797-06-08"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName> June 8. 1797
+                <lb/>nine o'clock, morning. -</dateline></opener>
+                <p>An hour hence, I shall be in my carriage, bound to the hitherto quiet <placeName ref="pl1020">Isle of Wight</placeName>,
+                    but how long to continue so, who can guess? I cannot however leave <placeName ref="pl0699">London</placeName>,
+                    without thanking you sincerely, tho’ shortly, for having me so much in remembrance, and for paying 
+                    <persName ref="pe0324">M<hi rend="superscript">r</hi> Ingleby</persName> for the few drawings he sent me –. 
+                    I have paid the said debt of £4. 4. 0 to your worthy <persName ref="pe0065">Son</persName>, and I rejoic’d to see him look so well and happy; health 
+                    <hi rend="underline">I am</hi> possess’d of, but happiness cannot be mine, so long as <persName ref="pe0331">my daughter</persName>
+                    continues ill, – in mind, and body.</p>
+                <p>
+                    <persName ref="pe0324">Ingleby</persName> is next to <persName ref="pe0014">Moses Gryfith</persName>, longo sed proximus intervallo.<note type="editorial">'next but by a long distance'.</note> I wish to know of him some time or other, why he has return’d 
+                    me a few pages only of the letter press, whereas he has, I imagine, receiv'd <bibl type="authorial"><title ref="bi0689">the whole book</title></bibl>,
+                    which I took the liberty to send to you <hi rend="underline">complete</hi>, the beginning of last June, and I wish you would have the goodness to direct him to send the remainder of the letter press to 
+                    <placeName ref="pl0759">Stratton Street</placeName>, by the same conveyance, any time before the middle of Ju<del>ne</del>ly, 
+                    when I shall return to <placeName ref="pl0699">town</placeName>, for a few days. I would not have any more illuminations to that book, but there are other drawings for the 
+                    <bibl type="authorial"><title ref="bi0032">journey to London</title></bibl>, which I shall wish for. Time will not allow me 
+                    <hi rend="underline">now</hi> to enter into the large and comfortless field of Politic’s. every day, and almost every hour brings forth a thousand lies, and as many miserable truths. 
+                    When I went to bed last night, it was believ’d the Rebel fleet had sail’d towards the coast of <placeName ref="pl0925">france</placeName>,<note type="editorial">Bull refers to the mutiny 
+                        among naval personnel at the Nore, off Sheerness in Kent, between 12 May and 15 June 1797. C. Gill, <hi rend="italic">The Naval Mutinies of 1797</hi> (Manchester, 1913), p. 129.</note>
+                    but this morning that improbable story gains no credit, on the contrary it is reported, that in every ship there are so many sailors, and marines, 
+                    detain’d against their inclinations, that the mutineers must submit without terms, as soon as the force preparing to attack them appears in the river. in the 
+                    mean time dismay is in every countenance one meets, tho in my opinion, this is the time for exertion, and not despondence – there are discontented Crews in every Ship in every part of the world – 
+                    the dutch sailors in general, are for a recall of the <persName ref="pe0826">Statholder</persName>,<note type="editorial">William (Willem) V, Prince of Orange, the last Stadtholder of the Dutch Republic, went into exile in Britain in 1795.</note> and the new republic in <placeName ref="pl1228">Holland</placeName>
+                    <note type="editorial">The Batavian Republic, created by the Treaty of the Hague on 16 May 1795. The Dutch army and navy fought alongside the French from 1795 onwards. Jones, <hi rend="italic">Longman Companion to the French Revolution</hi>, p. 140.</note>
+                    dares not send  her fleet out, at such a risk – mutiny and Sickness, and cowardice reign in the Spanish fleet, and the french dare not come out, as long as 
+                    <persName ref="pe1785">Lord Bridport</persName> can keep his station,<note type="editorial">Bridport, although nominally under the land command of Howe, was involved in ensuring a blockade of the Breton port of Brest, but in May 1797 claimed that this was becoming an increasingly difficult task. <hi rend="italic">ODNB</hi> s.n. Alexander Hood, Viscount Bridport (1726–1814).</note>
+                    and it is said <placeName ref="pl0925">France</placeName>, <hi rend="underline">now</hi>, is seriously inclin’d to Peace even with 
+                    <placeName ref="pl0775">England</placeName>, and perhaps before the summer is out matters will cease to be so alarming, as they certainly are at this moment.</p>
+                <p>
+                    <persName ref="pe0065">Your son</persName> says you are not in perfect health, and that your legs begin to swell, a circumstance that shows your blood does not circulate so forcibly as formerly. 
+                    <hi rend="underline">my</hi> legs are almost as big as my thigh every night, at least were so the beginning of the winter, but 
+                    <persName ref="pe0432">D<hi rend="superscript">r</hi> Turton</persName> did not apprehend any bad symptoms would be the consequence – all you, and I have to hope for, is to live without pain, and die without fear</p>
+                <p>
+                    <persName ref="pe0331">My daughter</persName> joins her best and kind<del><gap unit="letters" quantity="3" reason="illegible"/></del>est
+                    good wishes to you and <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName>,</p>
+                <closer>
+                    <salute>and am Dear Sir, with one foot in the Stirrup – , sincerely
+                    <lb/>and truly yours</salute>
+                    <signed><persName ref="pe0313">R. B.</persName> -</signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark"><gap unit="letters" quantity="1" reason="illegible"/> JU 8 97</stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant</persName> Esq<hi rend="superscript">re</hi>. | <placeName ref="pl0001">Downing</placeName>, <placeName ref="pl0702">Flintshire</placeName>| <placeName ref="pl1221"><hi rend="underline">North-Wales</hi></placeName>.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

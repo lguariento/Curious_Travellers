@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1200">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 133</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1797-03-08"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> march 8<hi rend="superscript">th</hi>. 1797</dateline></opener>
+                <p>You lay various obligations on me in y<hi rend="superscript">r</hi> favor of <gap unit="words" quantity="1" reason="authorial"/>.<note type="editorial">Pennant has left an empty gap in the text here.</note>
+                    I lament the situation you wrote in &amp; hope the attention to the various subjects of y<hi rend="superscript">r</hi> 
+                    letter has not been too severe an exertion. Pray let me hear how you find yourself: I hope for the best of accounts. I must 
+                    rej<del><gap unit="letters" quantity="1" reason="illegible"/></del>oice at the account you give of <persName ref="pe0331">Miss Bull</persName>:
+                    She would be wrong did she not mix with the world; solitude would only feed anguish, which reasonable amusements must assist to disperse.</p>
+                <p>
+                    The important news<note type="editorial">A reference to the battle of Cape St Vincent, 14 February 1797, to which Bull refers in his letter of 3 March 1797, <ref target="1199.xml">1199</ref>.</note>
+                    you was so kind as to send was so unexpected, as almost to take away for some time the powers of speech. It was a most seasonable cordial; 
+                    &amp; I hope we shall have addition to it by the account of the capture of the Trinidada.<note type="editorial">The <hi rend="italic">Chester Chronicle</hi>, 31 March 1797, reports on the capture of the Santa Trinidada, the ship of the Spanish admiral badly damaged during the battle of Cape St Vincent on 14 February 1797. It suggests that she was towed into Gibraltar by British frigates.</note>
+                    which seems very probable. I <del>am</del> was sorry to hear of the account of the late about <persName ref="pe0398">Hastings</persName>
+                    <lb/>a <hi rend="underline">Tale which blends his glory with his <add place="above">shame</add></hi><note type="editorial">Pennant quotes from Alexander Pope, <hi rend="italic">An Essay on Man: in four epistles, to H. St. John, Lord Bolingbroke</hi>, epistle IV, line 308 ('A tale, that blends their glory with their shame!').</note><lb/>
+                    I had a high opinion of him: but find it impossible for a man to resid<supplied>e</supplied> long in <placeName ref="pl1024">India</placeName> &amp; escape corruption.</p>
+                <p>
+                    I shall take care of y<hi rend="superscript">r</hi> <bibl type="authorial"><title ref="bi0689">Whiteford</title></bibl> which is now in the hands of <persName ref="pe0324">Ingleby</persName></p>
+                <p>
+                    The <persName ref="pe0434">earl of oxford</persName><note type="editorial">An error for the 'earl of orford'.</note> is happily released &amp; happily with a fair character, that of a friendly man &amp; one of uncommon ingenuity in the line he took.</p>
+                <p>
+                    Pray what do ye<del><gap unit="letters" quantity="1" reason="illegible"/></del> residents in <placeName ref="pl0699">London</placeName>
+                    do about money. The poorer sort here will suffer much for a little time till we can get the dollars &amp; copper which is promised from above.<note type="editorial">A reference to the currency crisis in the wake of the Fishguard scare.</note>
+                    I shall order a large quantity of both for the easing the embarassments of the poor.</p>
+                <p>
+                    <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName> requests me to add to mine her best wishes &amp; respects to you &amp; <persName ref="pe0331">miss Bull</persName></p>
+                <closer>
+                    <salute>I am with truest regard, Dear Sir
+                    <lb/>Y<hi rend="superscript">r</hi> ever affect. friend</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">B M<gap unit="letters" quantity="1" reason="illegible"/> 10 <gap unit="letters" quantity="2" reason="illegible"/></stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp></p>
+                <p>
+                    <address>
+                        <addrLine><persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi> | <placeName ref="pl0759"><gap unit="letters" quantity="1" reason="illegible"/>tratton street</placeName> <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName></addrLine>
+                        <addrLine/>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

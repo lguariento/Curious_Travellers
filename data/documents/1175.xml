@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1175">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 116</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1794-01-29"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName> 
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline><placeName ref="pl0001">Downing</placeName> Jan<hi rend="superscript">y</hi>. 29<hi rend="superscript">th</hi> 1794</dateline></opener>
+                <p>Old men are apt to be peevish: but we must not quarrel. the ballance is in y<hi rend="superscript">r</hi> favor, 
+                    so let <del><gap unit="letters" quantity="1" reason="illegible"/></del>s eternally forget the past. At length I have found the long lost part of the arctic zoology,<note type="editorial">This is unlikely to refer to the volume of <hi rend="italic">Arctic zoology</hi> discussed by Bull in <ref target="1174.xml">1174</ref>, since that is touched upon later in this letter.</note>
+                    which my son <persName ref="pe0421">Tom</persName> took up last week; Be pleased to send for it to <persName ref="pe0237">M<hi rend="superscript">rs</hi> Pennant</persName>'s
+                    <placeName ref="pl0798">upper Grosvenour street</placeName>.</p>
+                <p>
+                    I pity you for relinquishing any one amusement. I cannot follow y<hi rend="superscript">r</hi> example but shall always keep something in hand to my last moment. 
+                    our checks in the military operations, renders, it very necessary to re-animate our countrymen. for that purpose I have revived the bounties for 
+                    <placeName ref="pl0702">Flintshire</placeName> seamen for so large a <del><gap unit="letters" quantity="several" reason="illegible"/></del>sum
+                    was subscribed in this part of the county that much money remained in hand.
+                    which it would be wrong to <del><gap unit="letters" quantity="1" reason="illegible"/></del> leave useless.<note type="editorial">Forty-six men from Flintshire joined the navy in 1793, and the bounty scheme was renewed for 1794. Evans, ‘The Flintshire Loyalist Association', 54–68, esp. 60.</note> you will call me an egotist 
+                    (<hi rend="underline">I</hi>) but true it is that old <del>age</del> 68 sets most things in motion here. on mention of politics I must tell you that 
+                    <persName ref="pe1742">Fletcher</persName> editor At <placeName ref="pl0002">Chester</placeName> of the <bibl type="authorial"><title ref="bi0656">most virulent paper in Britain</title></bibl>
+                    was this week seized &amp; is I hope by this time safe in <placeName ref="pl1629">Newgate</placeName>. a place not new to him.<note type="editorial">John Fletcher was the owner rather than the editor of the 
+                        <hi rend="italic">Chester Chronicle</hi>. William Cowdroy took the role of editor on the paper from 1785. Löffler, 
+                        <hi rend="italic">Welsh Responses to the French Revolution</hi>, pp. 137–71. No evidence has been found of the apprehension of Fletcher suggested here.</note></p>
+                <p>
+                    I thank you greatly for the <rs type="art" ref="ar0340">Godshill</rs> &amp; Newport Tombs.<note type="editorial">See <ref target="1174.xml">1174</ref> for a reference to 'two drawings of the Princess Elizabeth's 
+                        Coffin'. Pennant writes of Newport church in <hi rend="italic">From Dover to the Isle of Wight</hi> (1801), where he describes the tomb of Sir 
+                        Edward Horsey (1582), at pp. 158–9.</note> Had <persName ref="pe1727">Princess Elizabeth</persName>
+                    died in <placeName ref="pl0925">France</placeName> her monument w<hi rend="superscript">d</hi> have been the maws of Kites.</p>
+                <p>
+                    I do believe that <persName ref="pe0014">moses</persName> has not done a single article in y<hi rend="superscript">r</hi> quadruped part of 
+                    <bibl type="authorial"><title ref="bi0023">arctic zoology</title></bibl>. he has not not even had the lest sense of gratitude. 
+                    <persName ref="pe0379">m<hi rend="superscript">r</hi> Chiswel</persName> employs him. in the spring he gave him 10<hi rend="superscript">£</hi>
+                    by way of encouragement; &amp; I fear he will have cause to complain of him. I <del><gap unit="letters" quantity="several" reason="illegible"/></del> made 
+                    long ago a codicil<del>l</del> to my will leaving 200<hi rend="superscript">£</hi> in trust for <del><gap unit="letters" quantity="several" reason="illegible"/></del>
+                    Moses's children.<note type="editorial"><persName ref="pe0345">Moses Griffith, junior</persName>, and <persName ref="pe2023">Margaret Griffith</persName>.</note> his boy a fine child is fit to be put out &amp;
+                    I w<hi rend="superscript">d</hi> advance what is reasonable: but I cannot get him to resolve on anything.</p>
+                <p>
+                    I am much obliged to you for y<hi rend="superscript">r</hi> kind congratulations on <persName ref="pe0065">my son</persName>'s nuptials. he brought home a 
+                    <persName ref="pe0814">most beautiful woman</persName>: but far more so in her mind. They left me last week to take possession of their <placeName ref="pl2818">pretty house</placeName> near <placeName ref="pl0792">Wrexham</placeName>.</p>
+                <p>
+                    I hope miss Bulls<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note> enjoy their health.</p>
+                <closer>
+                    <salute>my best wishes &amp; complim<hi rend="superscript">ts</hi> attend them. Every good thing attend you. I am with true regard
+                    <lb/>Dear Sir
+                    <lb/>faithfully y<hi rend="superscript">rs</hi></salute> 
+                    <signed><persName ref="pe0232">Tho. Pennant</persName>.</signed>
+                </closer>
+                <postscript>
+                    <p>I beg my kindest remembrances to <persName ref="pe0332">M<hi rend="superscript">r</hi> Storer</persName>.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1057">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 56</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1787-01-21"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Jan 2<del>2</del>1.<hi rend="superscript">st</hi>. 1787.</dateline></opener>
+                <p>You relieved me from my despair of ever hearing from you again. I began to fear that something amiss had befel you 
+                    &amp; yours: &amp; now lament that my suspicions are in some measure true. Possibly you will think that a still 
+                    warmer air than that of <placeName ref="pl1020">vectis</placeName> will be necessary for your <persName ref="pe0336">fair daughter</persName>'s
+                    recovery. <persName ref="pe0065">My son</persName> will rejoice to have the advantage of waiting on you in the south of
+                    <placeName ref="pl0925">France</placeName> in his Tour of this year: nor shall I miss you in <placeName ref="pl0699">Town</placeName>
+                    next winter as I shall make that the year of rustication: so I forsee double advantages in my journey: but more of this when we all meet in March.</p>
+                <p>I thank you for keeping me in y<hi rend="superscript">r</hi> thoughts in respect to my queries. I have written all I can respecting the
+                    <placeName ref="pl1020">isle of wight</placeName>: but have left large blanks in the M. S. for any additions. I have a good admiral or two who favors 
+                    &amp; feeds my deliria, &amp; takes care at lest that I am <hi rend="underline">insanire <del>to</del> com ratione</hi>.<note type="editorial">'mad with reason' (i.e. not completely mad).</note></p>
+                <p>You are to place <rs type="art" ref="ar0145"><persName ref="pe0810">Lord Donnegal</persName>'s Seat</rs> at p. 
+                    <gap unit="letters" quantity="2" reason="illegible"/> of <bibl type="authorial"><title ref="bi0032">Journey to London</title></bibl>:
+                    <rs type="art" ref="ar0143"><persName ref="pe0113">Serjeant Glynne</persName></rs> at p. <gap unit="letters" quantity="2" reason="illegible"/>
+                    vol. 1 <bibl type="authorial"><title ref="bi0015">welsh Tour</title></bibl>. the last
+                    has several additional drawings which you may command when you have seen them.</p>
+                <p>If you see <persName ref="pe0332">M<hi rend="superscript">r</hi>Storer</persName> before I do, Be so good as to give him 
+                    the inclosed.<note type="editorial">The enclosure is not present with the MS letter.</note> Let him only mention the sort
+                    &amp; size of the paper he wishes to have the drawings on &amp; they shall be executed.</p>
+                <p>I am thankful for the good health with which Providence has blessed me &amp; mine: &amp; for numbers of other good things of this life. 
+                    If my wishes could bestow the former on you &amp; the dear objects of your affection you w<hi rend="superscript">d</hi>
+                    find nothing to complain of. But recall your spirits &amp; instead of talking of being eaten, long may you &amp; 
+                    yours continue to eat, &amp; sport with all the blessings of this life.<note type="editorial">For pessimistic reflections by Bull on his advancing years see the close of <ref target="1056.xml">1056</ref>.</note></p>
+                <closer>
+                    <salute>adieu
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">Thomas Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p><persName ref="pe0065">My son</persName> presents best wishes. He is returned much improved &amp; uncontaminated.<note type="editorial">David Pennant returned from his first continental tour in mid-November 1786. See Thomas Pennant to George Allan, 27 November 1786, in Nichols, <hi rend="italic">Literary anecdotes</hi>, VIII, p. 750; Evans, 'The life and work of Thomas Pennant', pp. 69, 117, n. 204.</note></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

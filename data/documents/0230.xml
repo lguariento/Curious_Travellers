@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0230">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, conveying a <hi rend="italic">Flora
+                        Scotica</hi> to Donald MacQueen</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>193</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1777-11-08"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+
+                <p><persName ref="pe0022">D<hi rend="superscript">r</hi> Ramsay</persName> brings you a
+                    <bibl type="authorial"><title ref="bi0231">Flora scotica</title></bibl> for
+                    <persName ref="pe0069">M<hi rend="superscript">r</hi> Donald McQueen</persName>. I
+                    shall write to him ab<hi rend="superscript">t</hi> it. Still make use of my
+                    order to <persName ref="pe0026">M<hi rend="superscript">r</hi> White</persName> for
+                    <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> or to supply
+                    the place of that you send him.</p>
+                <closer><salute>adieu yrs &amp;c</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                <dateline>Nov<hi rend="superscript">r</hi> 8<hi rend="superscript">th</hi>
+                    1777.</dateline></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

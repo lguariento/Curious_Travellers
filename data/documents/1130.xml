@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1130">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>31</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Endorsement in Thomas Pennant's hand at the top of the first page</hi>: <hi rend="underline">Answ<hi rend="superscript">d</hi></hi></p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1791-04-08"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+                <language ident="it">Italian</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir.</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName>. April 8. 1791.</dateline></opener>
+                <p>I desire to thank you again, and again, for the <bibl type="authorial"><title ref="bi0271">new Edition of your London</title></bibl>
+                    upon large paper, which I have got from <persName ref="pe0328">Faulder</persName>, to whom I have sent my Copy of the 
+                    <bibl type="authorial"><title ref="bi0039">first Edition</title></bibl> <add place="above">&amp; <hi rend="underline"><bibl type="authorial"><title ref="bi0040">appendix</title></bibl></hi></add>
+                    neat and clean, &amp; hot press’d, with which he seems pleased. I directed him to sell it, and place it to your account, which I will beg you to 
+                    <hi rend="underline">keep in your remembrance</hi>, for I would by no means, in no manner, trespass upon generosity, where I have such an obvious way of avoiding it. The 
+                    <bibl type="authorial"><title ref="bi0039">first Edition</title></bibl>, <hi rend="underline">with <bibl type="authorial"><title ref="bi0040">the Appendix</title></bibl></hi>, 
+                    may be as saleable to a common reader, as the <bibl type="authorial"><title ref="bi0271">second</title></bibl>, but not so to me, for reasons I have already told You.</p>
+                <p>You have furnish’d me so plentifully with the works of the <persName ref="pe0009">Edinburgh barber</persName>, 
+                    that I have no occasion for more, unless he has done any, never intended to be sold.</p>
+                <p>The <persName ref="pe0378">Good B<hi rend="superscript">s</hi>p of Mar:<hi rend="superscript">lles</hi></persName> was certainly buried, but is it as certain 
+                    that he had an Epitaph to his memory? in addition to what you know of that place, you will find in the <bibl type="authorial"><title ref="bi0434">Burghley state papers</title></bibl>;
+                    that “at <placeName ref="pl1705">Southwick</placeName> was a house of Augustine Canons, founded by <persName ref="pe1282">Henry 1<hi rend="superscript">st</hi>.</persName>
+                    and granted at the dissolution to <persName ref="pe1283">John White</persName>.<note type="editorial">This quotation from 'Burghley Papers, II, 797', appears in John Nichols, <hi rend="italic">The progresses, and public processions, of Queen Elizabeth</hi> (London: printed by and for the editor, 1788), II, p. 3.</note>
+                    <bibl type="authorial"><title ref="bi0358">Magna Britannia</title></bibl> says "<persName ref="pe0629">Henry 8</persName>
+                    exchang’d it, with the <persName ref="pe1284">Lord Chamberlain Sir Thomas Wrotheslay</persName>. utrum horum mavis, accipe;<note type="editorial">'take whichever you prefer'.</note>
+                    I should suppose the former to be most accurate. It was never a Royal house, but was hired for the King, <del>when</del>
+                    (of the Norton Family,) when <persName ref="pe0600">Charles 1<hi rend="superscript">st</hi>.</persName> had a temporary residence there.<note type="editorial">Charles I stayed with Sir Daniel Norton at his home, Southwick Priory, Hampshire, in June 1627, awaiting the embarkation of a fleet for France from Portsmouth. <hi rend="italic">Hist P</hi> s.n. Sir Daniel Norton.</note></p>
+                <p>I have got most of <persName ref="pe0402">Hollars</persName> <rs type="art" ref="ar0242">sea fights</rs>, but being without dates or inscriptions, am at loss to know the battle of 
+                    1636.<note type="editorial">For Hollar's depiction of the Battle of the Downs, 1639 (wrongly dated both here and there to 1636), see <ref target="1128.xml">1128</ref> and the artwork <rs type="art" ref="ar0237">'De Spaanse, Engelse en Hollandse vloten voor Deal, 1639'</rs>.</note>
+                    Where the terrible <rs type="art" ref="ar0238">Negro prints</rs> came from, I cannot tell, nor have I ever seen any others of that kind. – I don’t recollect I am in immediate want of any of 
+                    <persName ref="pe0416">D<hi rend="superscript">r</hi> Nash</persName>'s prints. ––– Where can people get mony to answer all their purposes, for every body purchases what they wish for, and at any expense? A Sale of Books brought from 
+                    <placeName ref="pl1023">Paris</placeName> by <persName ref="pe0387">Edwards</persName>, 
+                    produced at auction, last week, very near £7000, and the <bibl type="authorial"><title ref="bi0431">Catalogue</title></bibl>, a very small one, only 636 articles. – A couple of 8<hi rend="superscript">o</hi>.
+                    M.S.S sold for more than 200 £
+                    – then – how <hi rend="underline">are</hi> we ruind?</p>
+                <p>You think more about me, and my little pursuits, than I have any right to expect, and I ought not to omit thanking you, for what you flatter me with the hopes of receiving, when your
+                    <persName ref="pe0234">young Lady</persName> comes to <placeName ref="pl0699">town</placeName>. and here let me note my own, and 
+                    my daughters<note xmlns:xi="http://www.w3.org/2001/XInclude">
+                        <xi:include parse="text" href="Bulls.xml"/>
+                    </note> best acknowledgements, <del>for wishing to</del> to you, and your <persName ref="pe0238">Sposa</persName>,
+                    for wishing to see us in <placeName ref="pl0731">wales</placeName>, where we have long wish’d to see ourselves, and what you have said is an additional inducement to us all. The 
+                    dies volvenda<note type="editorial">'passage of time'.</note> may bring it about, but not this year; tho’ 
+                <hi rend="underline">you</hi> have a <hi rend="underline">devoir</hi>, to visit the 
+                    <placeName ref="pl1020">Isle of Wight</placeName>, if you mean to say anything particular about it; believe me, 
+                    <persName ref="pe0436">Sir Rich<hi rend="superscript">d</hi>. Worsley</persName>'s Collection<note type="editorial">Worsley's collection is described in some detail in Bull's list <bibl type="editorial"><title ref="bi0065">'A selection from the principal paintings, cultures, and drawings in the house at Appuldurcombe'</title></bibl>.</note> 
+                    would well pay you for the trouble, and ’tis very seldom that all my beds are engag’d at the same time.– we go the 
+                    <del><gap unit="letters" quantity="1" reason="illegible"/></del>middle of June. - <placeName ref="pl0699">London</placeName>
+                    is so full at present, that it takes me up sometimes half an hour, before I can cross <placeName ref="pl2035">piccadilly</placeName>, for a walk in the 
+                    <placeName ref="pl2036">Green Park</placeName>, and I for one am pleasur’d  to death. my head is turn’d but I hope not my heart. The 
+                    <persName ref="pe0393">prince <add place="above">of</add> Wales</persName> has made it up with the <persName ref="pe0465">King</persName>
+                    for the present. – When he has not a guinea left, He arises, and goes to his father, like a true prodigal Son – the 
+                    Dutch loan<note type="editorial">The <hi rend="italic">Kentish Gazette</hi>, 4 March 1791, reported on 'A loan for three hundred thousand pounds now said to be negotiating at Antwerp' whereby the revenues of a certain Dutch duchy and bishoprick were to be assigned in trust to six British noblemen.</note>
+                    to him cannot be negotiated, nobody will lend him half a crown, upon the Security he has offerd, and he has none other to give. – not long since there was an Execution in his 
+                    <placeName ref="pl2037">Palace in Pall: Mall</placeName>, but it seems, he is so little <persName ref="pe1286">Harry V.</persName>, that all
+                    his faults are lost in the Expectation of <add place="above">the</add> future greatness of his character. – I have just heard that 
+                    <persName ref="pe0380">Lord Cholmondeley</persName> has declar’d himself to <persName ref="pe0370">Lady Charlotte Bertie</persName>,
+                    I think he is the first Man in <placeName ref="pl0775">England</placeName>, for sweetness of disposition, and elegance of manners, and She is most perfectly good humour’d, and, par bricole at least, 
+                    will find the comforts of the beggars blessing, which the World gives him the credit for being so fully possess’d of.
+                    <persName ref="pe0372">Lord Cardigan</persName> Æta: 65, has offerd to <persName ref="pe1287">Lady Eliz: waldegrave</persName>
+                    æta: 25, and is accepted. this is all the news I know of, except that <del><gap unit="letters" quantity="6" reason="illegible"/></del>
+                    the idea of a <sic>warr</sic> grows less and less every day. – This frank is large, and so I have enclos’d some trumpery prints, 
+                    &amp; if one of the whole, is of any use to You, my purpose will be Answer’d. </p>
+                <closer>
+                    <salute>I am Dear Sir, 
+                        <lb/>Always yours.</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+                <postscript>
+                    <p>P.S. I hear the <persName ref="pe0949">Duke of York</persName> is going Volunteer, to join the Prussian Army.<note type="editorial">Frederick, duke of York and Albany (1763–1827), spent time on the continent during 1791 serving as a volunteer with the Prussian army in case of an outbreak of war against Russia, which in the event did not take place. John Philippart, <hi rend="italic">The royal military calendar: containing the services of every general officer in the British army, from the date of their first commision</hi> (2 vols., London: printed by A. J. Valpy, Tooke's Court, Chancery Lane, 1815), I, p. 2. A contemporary newspaper reported in mid-April 1791 that 'The Duke of York will depart in about a fortnight for Prussia'. <hi rend="italic">Northampton Mercury</hi>, 16 April 1791.</note></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

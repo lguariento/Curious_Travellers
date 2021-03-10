@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0244">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, lamenting Robert Ramsay's illness and
+                    enquiring about the arrival of George Low's manuscript</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>216-217</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1778-08-11"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0245"/>
+                    <ref type="prev" target="ct0243"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> Aug. 11<hi rend="superscript">th</hi> 1778.</dateline>
+                <salute>Dear Sir</salute></opener>
+                <p>I am much obliged to you for y<hi rend="superscript">r</hi> favor. My enquiry
+                    after <persName ref="pe0090">Lord Fife’s</persName> pedigree was mere private
+                    curiosity having heard some singular anecdotes concerning it. I hope <persName ref="pe0156">M<hi rend="superscript">r</hi> Low’s</persName>
+                    <bibl type="authorial"><title ref="bi0058">journal</title></bibl> has reached
+                    you for I sent it a month ago to <persName ref="pe0043">M<hi rend="superscript">r</hi> Cadel</persName>. <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> need not be very precipitate for the complection
+                    of the Times are far from favorable to authors any more than the public. I
+                    truely lament our approaching loss in <persName ref="pe0022">D<hi rend="superscript">r</hi> Ramsay</persName>; but shall rejoice in better
+                    news.</p>
+                <closer><salute>I am D<hi rend="superscript">r</hi> Sir <lb/>your faithful humble
+                            Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed></closer>
+                <postscript>
+                    <p>I fear <persName ref="pe0104">M<hi rend="superscript">r</hi> Gough</persName> is
+                        ill not having heard from him this long time.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom house.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

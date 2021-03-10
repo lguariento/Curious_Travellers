@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1196">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 130</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">On address side, in Richard Bull's hand</hi>:</p>
+                            <p>Melvilles <gap unit="letters" quantity="several" reason="illegible"/> Inquisition
+                                | Monmouth D. Barnet. <gap unit="letters" quantity="3" reason="illegible"/> III, 5. 39 | 
+                                <persName ref="pe1783">Sir Ed<hi rend="superscript">d</hi> Cecil Lord Wimbledon</persName>, L<hi rend="superscript">d</hi> <gap unit="letters" quantity="several" reason="illegible"/> of Cher:
+                                13. | <persName ref="pe0378">Mersaille good Bishop</persName> | + <placeName ref="pl1473">Turkey</placeName></p>
+                        </additions>
+                    </physDesc><additional><p><hi rend="italic">Condition</hi>: slight damage caused by seal</p></additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1796-12-01"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r</hi> 1 1796</dateline></opener>
+                <p>This 1<hi rend="superscript">st</hi> of December I may tell you that <persName ref="pe0014">Moses</persName> has not completed 
+                    <bibl type="authorial"><title ref="bi0034">our Whiteford</title></bibl>: all the drawings I thought worthy of a place, are sketch &amp;
+                    shaded, I hope he will not be much longer, but like a <sic>true catches</sic> at every offered Job &amp; neglects what he has had long in hand.</p>
+                <p>
+                    I hope you passed the late summer pleasantly. If you went the way I suspect, I might be of use on the road, Especially had I furnished you with the complete list of the portraits of my 
+                    <del>jour</del> inedited <del><gap unit="letters" quantity="4" reason="illegible"/></del>journals which I <del><gap unit="letters" quantity="1" reason="illegible"/></del>extracted, a most horrid dull 
+                    &amp; painful work at the request of <persName ref="pe0415">Sir W<hi rend="superscript">m</hi> Musgrave</persName> which nothing should tempt me to again</p>
+                <p>
+                    The late summer has been to me a wretched one. The dissensions that reigned &amp; still reign in our unhappy little country affected me with the Asthma which I have not yet got free from. 
+                    It is singular that the disorder of the mind should affect the body with such a disorder: but it has arrived at such a <sic>heighn</sic> as to make the calling in of a physician <sic>requite</sic>.
+                    You may have seen in the papers that my nephew <persName ref="pe0414">Sir Th. Mostyn</persName> has by the rascality of a fasion been elected under age. a petition will be preferred, 
+                    &amp; probably driven from his a proper lesson to a youth for listening to bad advisers &amp; neglecting the guardians appointed by his <persName ref="pe0015">parent</persName>.
+                    The resolution of the house will be novel. non age elections may pass in small boroughs: but the insult ought never to be suffered in counties. Pray inform me how <persName ref="pe0331">miss Bull</persName>
+                    &amp; you do. You have my earnest wishes for y<hi rend="superscript">r</hi> welfare. my <persName ref="pe0421">younger boy</persName>
+                    I had with me all the summe He was attacked at School with a severe cough and an uncommon growth.<note type="editorial">Thomas Pennant, junior, was presumably still at school in <placeName ref="pl2031">Hackney</placeName>. See <ref target="1163.xml">1163</ref>.</note> we took him down with us after we had the pleasure of seeing you. By air 
+                    &amp; exercise he is perfectly restored. I <del><gap unit="letters" quantity="3" reason="illegible"/></del> engaged an ingenious young clergyman.<note type="editorial">This may refer to <persName ref="pe1781">Griffith Lloyd</persName>.</note>
+                    His application to learning a morning &amp; night is amazing &amp; his amusement at midday with his gun is not less so. I have the fairest hopes of him.</p>
+                <closer>
+                    <salute>with best complm<hi rend="superscript">ts</hi> to <persName ref="pe0331">miss Bull</persName> concludes D<hi rend="superscript">r</hi> Sir Y<hi rend="superscript">rs</hi> most affectly</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">A DE 3 96</stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251">HOLYWEL<supplied>L</supplied></placeName></stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi> | <placeName ref="pl0759">Stratton street</placeName> <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

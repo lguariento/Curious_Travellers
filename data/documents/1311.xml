@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1311">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hugh Davies to Thomas Pennant, 14 March 1782</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>2594E, Caernarvonshire folder</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc><additions><p><hi rend="italic">Endorsement in Thomas Pennant's hand</hi>: Arms of <persName ref="pe0945">Ednyfed fychan</persName></p></additions></physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent"><persName ref="pe0903">Hugh Davies</persName>
+                    <date when="1782-03-14">14 March 1782</date>
+                    <placeName ref="pl1486">Beaumaris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001"/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1312"/>
+                    <ref type="prev" target="ct1310"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+             
+                <p>In the month of March 1776 walking along the seacoast between <placeName ref="pl1594">Criccieth</placeName> and 
+                    <placeName ref="pl1524">traeth-mawr</placeName> I observed the beach for miles together covered with dead seafowl, particularly 
+                    those which visit our rocks and islands in summer to breed, viz. the <hi rend="underline">Puffin</hi>, <hi rend="underline">Razorbill</hi>, 
+                    <hi rend="underline">Guillemot</hi>, and <hi rend="underline">Kittiwake</hi>, of which there were many-many thousands; there were several other 
+                    kinds in great quantities, I noted the <hi rend="underline">Tarrock</hi>, more numerous than any of the following, the <hi rend="underline">Gannet</hi>, 
+                    <hi rend="underline">wild <del>g</del>Goose</hi>, <hi rend="underline">Barnacle</hi>, <hi rend="underline">Brentgoose</hi> <hi rend="underline">Scoter</hi> 
+                    and <hi rend="underline">tufted Ducks</hi>, common <hi rend="underline">Sea Mew</hi> &amp;c &amp;c</p>
+                
+                <p>I have not a doubt of their having perished by the remarkably severe frost which commenced on the 6<hi rend="superscript">th</hi>. of January preceding and 
+                    continued till the 2<hi rend="superscript">d</hi>. of February.<note type="editorial">Pennant mentions this account of Hugh Davies's in <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), II, p. 191.</note></p>
+                
+                <p>Will this circumstance assist to cast any new light on the Natural history of these our annual visitants? If they migrate, they must then 
+                    have been on their passage, but it seems to me to have been too early in the year for them to have arrived at their summer residence I 
+                    would therefore conclude that they pass their winter some distance at sea in our own climate –</p>
+                
+                <p>I observed a remarkable difference in the bills of the Puffins, which seem’d to indicate the age of the bird till 
+                    <del><gap reason="authorial" unit="letters" quantity="1"/></del>three years old; the bill of the youngest was narrow, blunt, 
+                    and wanted those transverse <hi rend="underline"><unclear>sulei</unclear></hi> and color which are observable in the old birds; the next 
+                    class which seem to me to be two years old have the bill in form and color between the last described and those fully formed, the transverse 
+                    <hi rend="underline"><unclear>sulei</unclear></hi> and color in these are faint – As I have at different times had opportunities of seeing vast 
+                    numbers of these birds on <placeName ref="pl1959">Priestholm Island</placeName>, and never observed the difference now noticed, I am led to 
+                    conclude that these birds do not approach the land to breed till they are at least three years old. I observed the same difference in the bills 
+                    of the <hi rend="underline">Razor-bill</hi> – There were among the wreck great quantities of the bone of the <hi rend="underline">Sepin</hi> 
+                    <hi rend="underline">officinalis</hi>. I likewise found the upper Jaw of a Dolphin. –</p>
+                
+                
+                <closer>
+                    <signed><persName ref="pe0903">H: D.</persName> –</signed>
+                   
+                    <dateline><placeName ref="pl1486">Beaumares</placeName>, March the 14<hi rend="superscript">th</hi>. 1782.</dateline></closer>
+                
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>

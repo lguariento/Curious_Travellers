@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0258">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 5 May 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>11-12</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-05-11"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0259"/>
+                    <ref type="prev" target="ct0257"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I am most heartily fretted at y<hi rend="superscript">r</hi> misapprehension of
+                    my request. I only did desire that neither you nor any other friend would put
+                    anything in the paper about me either as defence. or panegyric. I want neither.
+                    Praise only excites envy &amp; creates abuse. I never had so wild a thought
+                        <unclear reason="illegible">as</unclear> to wish you to strive to prevent
+                    anything being inserted against me. leave my abusers alone &amp; they will be
+                    soon weary with throwing imbelle tetum.</p>
+                <p>I am glad you take up <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                        Low</persName> so strenuously. most of the plates will be antiquarian &amp;
+                    done at about 2 Guineas each. The <rs ref="ar0234">Birdcatching</rs> cost
+                        5.5.<unclear reason="illegible"><hi rend="superscript">g</hi></unclear> The
+                        <rs ref="ar0204">Bird with the island</rs> 2.2.<unclear reason="illegible">g</unclear> I suppose the cost of plates may amount to no more than 60<hi rend="superscript">L.</hi> &amp; his charges in the voyage 20<hi rend="superscript">L.</hi> Which I give him, but still for his benefit must
+                    be charged to account.</p>
+                <p><persName ref="pe0008">Mr Banks</persName> had promised copies of his
+                        drawings<note type="editorial">Returning from his voyage to Iceland in 1772,
+                        Joseph Banks and his party had called at Orkney, where George Low acted as
+                        their guide. Banks' expedition artists, John Cleveley and the brothers James
+                        and John Frederick Miller made several drawings of Orkney scenery and
+                        antiquities, probably those works which Pennant refers to here as Banks'.
+                        See John Bonehill, "New scenes drawn by the pencil of Truth': Joseph Banks’
+                        northern voyage, <hi rend="italic">Journal of Historical Geography</hi>, 43
+                        (2014), 9-27. </note> for <persName ref="pe0156">M<hi rend="superscript">r</hi> Low’s</persName> use. but I fear I cannot get them till I go to
+                    town. But <persName ref="pe0156">M<hi rend="superscript">r</hi> Lows</persName> own is
+                    most uncommonly curious &amp; as you justly observe his work &amp; <persName ref="pe0058">M<hi rend="superscript">r</hi> Cordiners</persName> added to my own
+                    will be a most complete set of N. British Antiquities. I wish y<hi rend="superscript">r</hi> friend <persName ref="pe0192">M<hi rend="superscript">r</hi> Elliot</persName> may be in a situation to serve himself &amp;
+                    the authors by bidding properly. for my part as <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> is backward as to engravings,
+                    he should defer his publication till next year. especially if <persName ref="pe0008">Mr Banks</persName> drawings are to be used. Would <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> approve subscription it would
+                    help the plates. I wish <persName ref="pe0192">M<hi rend="superscript">r</hi>
+                        Elliot</persName> would in sight of the MS. estimate the expence of printing
+                    1000 copes if he thinks so many will sell. qto, size of my tours.</p>
+                <closer><salute>I am D<hi rend="superscript">r</hi> Sir yr<hi rend="superscript">s</hi> most faithfully</salute>
+                    <signed><persName ref="pe0232">T. Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> May. 11<hi rend="superscript">th</hi> 1779.</dateline>
+                </closer>
+                <postscript>
+                    <p>I hope by midsummer to send <persName ref="pe0192">M<hi rend="superscript">r</hi>
+                        Elliot</persName> proofs of <persName ref="pe0058">M<hi rend="superscript">r</hi> Cordiner’s</persName> plates. must it be thro’ <persName ref="pe0043">M<hi rend="superscript">r</hi> Cadel</persName>?</p>
+                    <p>I wish <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> would
+                        send me the upright of the <placeName ref="pl2401">Burgh or Burrow <unclear reason="illegible">Firth</unclear></placeName>.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

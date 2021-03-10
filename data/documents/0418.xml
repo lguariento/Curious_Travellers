@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0418">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Donald MacNicol to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP297</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>13</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe1604">Donald MacNicol</persName>
+                    <date when="1774-03-08"/>
+                    <placeName ref="pl0688">Lismore</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pe0232">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct01419"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="gd">Gaelic</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <dateline><placeName ref="pl0688">Lismore</placeName> March 8<hi rend="superscript">th.</hi> 1774</dateline>
+                <opener><salute>Sir,</salute></opener>
+                <p>I am ashamed I have been so long of Writing an Answer to your Letter which I
+                    received from <persName ref="pe2000">M<hi rend="superscript">r</hi>
+                        Campbell</persName> of <placeName ref="pl0685">Dunstaffnage</placeName> a
+                    long Time ago; but Distress in my Family &amp; other Avocations prevented my
+                    Complying with your Request till now, tho I must acknowledge a Man who did so
+                    much Honour to our Country merited better Treatment; but <persName ref="pe0023">M<hi rend="superscript">r.</hi> Stewart</persName>, your Fellow
+                    traveller, could so effectually satisfy you in all points as to leave me little
+                    so say. as he frequently question'd me about every Thing that was singular in
+                    this Place. —</p>
+                <p>I am unhappy it was my Misfortune to miss you when here, as a few Hours
+                    Conversation would be preferable to a Years Correspondence. —</p>
+                <p>Tradition bears that this Island was originally a Forrest; a Number of Dear Horns
+                    got in all the peat-mosses in the Country, besides the names of many places,
+                    make me incline to the same Opinion. Hart Horns of an uncommon large Size were
+                    found here some Years ago; If I do not forget, <persName ref="pe0451">Doctor
+                        Walker</persName> of <placeName ref="pl0247">Moffat</placeName> brought one
+                    of the Horns, or rather a part of one, to the Museum in <placeName ref="pl0076">Edinburgh</placeName>. — The Scull of a Creature of the Cow Kind, of an
+                    overgrown Size, was likewise found in this Island, in a deep Moss, some Years
+                    ago, &amp; is still to be seen at <placeName ref="pl0987">Lochnell-house</placeName> in this Neighbourhood. — The Soil here is
+                    reckon'd good, it seems to be Loam, a Mixture of Earth &amp; the Surface of the
+                    Limestone Rock on which the Island stands, mouldered down together. Our Climate
+                    here is bad, I mean wet, &amp; tho we have a flattering appearance of Corn early
+                    in the Season, the great Falls of Rain in July &amp; August destroy all, &amp;
+                    frequently make our Crops turn out to small Acc<hi rend="superscript">t.</hi> in
+                    the End. —</p>
+                <p>We destroy our Ground by too frequent Tillage so that our Returns are seldom
+                    equal to what might be expected. — Summer-fallowing is not practiced amongst us.
+                    We have great Quantities of Rock &amp; Pit marl but we never burn Lime for Want
+                    of Firing which is very scarce with us; Peats are our only Firing &amp; our Moss
+                    has such a Mixture of Earth in it that it must be trampt with the Feet till its
+                    brought to the Consistency of wrought Clay before it can be form'd into peats
+                    which is done with the Hands; in no other Shape will our peats stick together. —
+                    This method of making our peats is somewhat singular &amp; attended with much
+                    Trouble — Corn &amp; Bear are the chief Produce of this Country; great
+                    Quantities of the Latter are yearly made into Aqua Vitæ. — Our common Keal is
+                    suppos'd to turn here into Cabbage, I am apt to believe that this holds true,
+                    particularly after the 2<hi rend="superscript">nd.</hi> or 3<hi rend="superscript">rd.</hi> Years planting, but the first year it does not
+                    hold; I am told its the same in the <placeName ref="pl0974">Island of
+                        Tiree</placeName> &amp; in some parts of the <placeName ref="pl0701">Orkneys</placeName>. Savoys or German Greens are not so lyable to this
+                    Metamorphosis, but even these incline to bow or close, &amp; a few of them
+                    really do — We have three Water Lakes in the Island; two of them abound with
+                    fine Trouts, many of them of a good Size; the third which lies nearest my House
+                    has not Trouts in it, but has plenty of Eels in it; its call'd the <placeName ref="pl2728">Loch (Lake) of Balnagoun</placeName> which signifies the Lake
+                    of Smith-town. Ducks of various Sorts frequent it in Winter &amp; Spring. The
+                    Bottom of all our Lakes consists entirely of Marl —</p>
+                <p>This was a Bishop's Residence; the Walls of the present Church are those of the
+                    Choir of the old Cathedral roof'd anew — <persName ref="pe2001">S<hi rend="superscript">t.</hi> Maluag</persName> is the first Religionist we
+                    have any Acc<hi rend="superscript">t.</hi> off that took Footing here; hence
+                        <bibl type="authorial"><title ref="pe1012">Hector Boetius</title></bibl>
+                    affirms he was buried in the North in the same Church with <persName ref="pe2002">S<hi rend="superscript">t.</hi> Boniface</persName>, tho he
+                    acknowledges the Argathelians<note type="editorial">MacNicol uses Argathelian
+                        here to refer to the people of Argyll; the term was more commonly associated
+                        with a pro-Hanover Scottish political faction of the early-to-mid-eighteenth
+                        century that had been led by the second duke of Argyll.</note> claim a Right
+                    to the Honour of his burial place in <placeName ref="pl0688">Lismore</placeName>. Mark that <persName ref="pe1012">Boetius</persName> was a
+                        norland<note type="editorial">A reference to Hector Boece's identity as a
+                        native of Aberdeen, and therefore potential bias against Argyll's claim to
+                        the saints mentioned.</note> — In Consequence of a Vow made by <persName ref="pe1016">King Malcolm Ceanmore</persName>
+                    <add place="above">to <persName ref="pe2001">S<hi rend="superscript">t.</hi>
+                            Maluag</persName></add> when engaged in Battle with the Danes, there was
+                    a Church built in the North where the Bishops of <placeName ref="pl0128">Aberdeen</placeName> had their Residence till <persName ref="pe1459">David
+                        the 1<hi rend="superscript">st.'s</hi></persName> Time —</p>
+                <p>The Bishops were suppos'd of late years to have resided in the <placeName ref="pl2729">Castle of Achanduin</placeName> upon the west Side of this
+                    Island fronting the small Garison of <placeName ref="pl0684">Duart</placeName>
+                    on <placeName ref="pl0729">Mull</placeName>. There is a remarkable Echo near
+                    this Castle; <persName ref="pe0451">Dr Walker</persName> &amp; I found that it
+                    repeated distinctly five different Syllabels —</p>
+                <p>When ravenous Beasts infested the Country the Inhabitants found it necessary to
+                    lay something upon their Graves to prevent the Corps from being dug up; they
+                    found large Logs of Timber answered this purpose &amp; these were us'd in the
+                    ruder Ages before the Art of Hewing Stones was practiced or known; hence we find
+                    that there is no Word in our old Galaic Books for a Grave Stone (Galaic Leichd
+                    Lithidh) but Darag Lithidh, a Grave Tree or Log; Darag signifies a large, old
+                    Oak Tree —<note type="editorial">MacNicol's account of log burials appears in
+                        Pennant, <bibl type="editorial"><title ref="bi0008">A tour in Scotland and
+                                voyage to the Hebrides 1772</title></bibl>, part II (1774)
+                        pp.414-15.</note> The better to secure their Graves from the Wild Beasts,
+                    the old Highlanders, for the most part, buried their Dead on Islands; a practice
+                    they would probably not have adopted because of <del unit="letters" atLeast="8" atMost="11"/> the Inconvenience that attended it, particularly in
+                    tempestuous Weather, were it not to answer some particular purpose of this Kind.
+                    I wish this long Letter may in any Shape answer your Expectations. </p>
+                <closer><salute>I am <lb/>Sir <lb/>Your Very ob<hi rend="superscript">t.</hi>
+                            Serv<hi rend="superscript">t.</hi></salute>
+                    <signed><persName ref="pe1604">Donald M<hi rend="superscript">c</hi>Nicol</persName></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

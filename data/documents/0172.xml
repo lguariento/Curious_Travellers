@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0172">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, noting lack of assistance from other Scottish
+                    informants</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>103</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1774-12-07"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0174"/>
+                    <ref type="prev" target="ct0171"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>D<hi rend="superscript">r</hi> Sir</salute></opener>
+                <p>Y<hi rend="superscript">r</hi> favors nov<hi rend="superscript">r</hi> 22<hi rend="superscript">d.</hi> 28<hi rend="superscript">th.</hi> 29<hi rend="superscript">th</hi> came safe. all acceptable. There is an excellent
+                        <rs type="art" ref="ar0128">head of Beaton</rs> in the <placeName ref="pl0724">Hamilton Lodgings Holyrood house</placeName>. I saw it with
+                    these very eyes.</p>
+                <p><persName ref="pe0203">Mr Mackenzies</persName> kind Letter is here
+                        answered.<note type="editorial">See Pennant's letter to John Mackenzie on <ref target="0404.xml">7 December 1774</ref>.</note></p>
+                <p>Why will <persName ref="pe0076">doctor Blinshall</persName> retard matters. but
+                    no more of that.</p>
+                <p><persName ref="pe0233">My relation</persName> is better I set off for <placeName ref="pl0699">London</placeName> on Saturday. Write to me <placeName ref="pl1647">N<hi rend="superscript">o</hi> 11 Vere Street Oxford
+                        chapel</placeName> &amp; never mind franks.</p>
+                <p><persName ref="pe0157">M<hi rend="superscript">r</hi> Macgovan</persName> is like
+                    many of y<hi rend="superscript">r</hi> countrymen most hospitable &amp; good to
+                    friends in sight. <persName ref="pe0022">Doctor Ramsay</persName> d<hi rend="superscript">o.</hi> He did promise a sketch of the Danish monum<hi rend="superscript">t</hi> in <placeName ref="pl0367">Inch colme</placeName>
+                    but alas Love absorbs everything.</p>
+                <closer><salute>I am Dear Sir <lb/>Y<hi rend="superscript">r</hi> very sincere
+                        <lb/>humble Serv<hi rend="superscript">t.</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed>
+
+                <dateline>Downing Dec<hi rend="superscript">r</hi> 7<hi rend="superscript">th</hi>
+                    1774.</dateline></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

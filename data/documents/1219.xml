@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1219">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 144</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">On address side</hi>:</p>
+                            <p>£
+                                <lb/>9932.1.
+                                <lb/><del>Coals Londay</del></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1798-04-10"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> April 10<hi rend="superscript">th</hi>. 1798.</dateline></opener>
+                <p>Thanks for y<hi rend="superscript">r</hi> favor of the 19<hi rend="superscript">th</hi> past. Last week I returned the fine 
+                    <rs type="art" ref="ar0356">drawing of Bentan</rs> copied by the great <persName ref="pe1865">Pocock</persName> fr<hi rend="superscript">m</hi> one in
+                    <persName ref="pe0398">M<hi rend="superscript">r</hi> Hasting</persName>'s collection. I thought it worthy y<hi rend="superscript">r</hi>
+                    acceptance. I also add a <del>dr<gap unit="letters" quantity="1" reason="illegible"/></del>map of the <placeName ref="pl0700">Schetland</placeName> &amp;
+                    <rs type="art" ref="ar0453">orkney isle</rs> a M. S. chart by <persName ref="pe0014">moses</persName> it wants a few repairs which y<hi rend="superscript">r</hi> skilful hands can give. The parcel is I hope by this time at <persName ref="pe1885">Mess<hi rend="superscript">rs</hi> Hodsol &amp; co Bankers</persName> near <placeName ref="pl2820">Catherine street in the Strand</placeName>
+                    &amp; will be delivere<del><gap unit="letters" quantity="1" reason="illegible"/></del>d to y<hi rend="superscript">r</hi> servant on enquiring for the parcel left by <persName ref="pe0323">M<hi rend="superscript">r</hi> Panton</persName>.<note type="editorial">This sentence (from 'The parcel is …') has been bracketed off in the manuscript text.</note></p>
+                <p>
+                    <hi rend="underline">Dafydd Bull</hi><note type="editorial">The equivalent for 'John Bull' in Wales, a coinage by Pennant.</note> seems so contented with the taxes as to add to the weight by subscribing at all rates. 
+                    <placeName ref="pl1251">Holywell parish</placeName> raised about 460<hi rend="superscript">£</hi>, &amp; many lesser parishes lesser sums, but sums that amaze me. The 
+                    Pennant's bleed freely &amp; are the leaders of loyalty in this county.</p>
+                <p>
+                    The capture of the <placeName ref="pl2630">Margat</placeName> traitors may be considred an act of Providence as much as the storm off <placeName ref="pl2634">Bantry bay</placeName>
+                    at Christmas 1796.<note type="editorial">A French invasion fleet approached Bantry Bay, co. Cork, Ireland, in December 1796, but were warded off by severe weather.</note>
+                    It precipitated the irish into rebellion before they or the french were ripe for it &amp; I trust will be speedily crushed.  The irish never fought well on their own ground but at the battle of 
+                    <placeName ref="pl2636">Aghrim</placeName>.<note type="editorial">The Battle of Aughrim, near the village of Aughrim, County Galway, was fought between Irish Jacobites and William III on 12 July 1691. More than 7,000 were killed in a battle which marked the end of Jacobitism in Ireland.</note>
+                    I trust the bills at <placeName ref="pl2637">Maidstone</placeName> are found before this hour.<note type="editorial">The trial of James O'Coigly and seven others for treason was held at Maidstone from 30 April 1798.</note>
+                    But to digress to another – subject. Pray who was the Lady who tore her hair on hearing that her son had behaved cowardly. I dream of Pembroke’s Sister, Sydney’s mother.<note type="editorial">Pennant's description of the 'Lady' he seeks is rather confused. He may possibly mean Mary Herbert (née Sidney; 1561–1621), wife of Henry Herbert, second Earl of Pembroke (born in or after 1538, died 1601) and sister to Sir Philip Sidney. She had three children, including two sons, one of whom was called Philip, who would have been alive during the reign of James I. <hi rend="italic">ODNB</hi>. She was thus Pembroke's wife rather than his sister, and sister to Sydney rather than his mother.</note>
+                    &amp; that the occasion was <del>between</del> the fray between the english &amp; scots in the time of <persName ref="pe0533">James I</persName>. Pray give me chapter &amp; verse. I have read it but forget where.</p>
+                <closer>
+                    <salute>our sincere good wishes attend <persName ref="pe0331">miss Bull</persName> &amp; yourself. Adieu
+                    <lb/>Dear Sir
+                        <lb/>Y<hi rend="superscript">rs</hi>. most affect<hi rend="superscript">ly</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName>.</signed>
+                </closer>
+                <postscript>
+                    <p>I have <add place="above">made</add> a few retrenching rules for this house among others I prohibit during meals Hobbing &amp; nobbing in <hi rend="underline">wine</hi> &amp; after dinner introduce with the wine the long neglected liquor of 
+                        <hi rend="underline">Cwrw da</hi>,<note type="editorial">'Good ale'.</note> leaving my guests to their choice. I do this without shame. to abstain from what is right,
+                        <lb/>Falsus honor juvat!<note type="editorial">  'False honour aid(s)'. Pennant quotes from Horace, <hi rend="italic">Epistles</hi>, Book I., Epistle 16, lines 39–40: 'Falsus honor juvat et mendax infamia terret / Quem, nisi mendosum et medicandum?' (Whom does false honour aid and calumny deter but the vicious and the liar?).</note></p>
+                </postscript>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark"><placeName ref="pl1251">HOLYWELL</placeName>; B AP 12 98</stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull Esq<hi rend="superscript">re</hi></persName> | <placeName ref="pl0759">Stratton street</placeName> <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

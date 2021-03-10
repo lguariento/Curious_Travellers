@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0237">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, mentioning a dispute with Benjamin White and
+                    promising a copy of the <hi rend="italic">Tour in Wales</hi></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>204</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1778-03-03"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0441"/>
+                    <ref type="prev" target="ct0236"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+
+                <p>Thanks for y<hi rend="superscript">r</hi> favour. as to <persName ref="pe0026">M<hi rend="superscript">r</hi> White</persName>, I shall not quarrel
+                    with him only fling my books into more hands.<note type="editorial">Pennant may
+                        have been aggrieved by an apparent conflict of interest in his bookseller
+                        Benjamin White's near simultaneous publication in 1777 of William Curtis's
+                            <bibl type="editorial"><title ref="bi0362"><hi rend="italic">Flora
+                                    Londinensis</hi></title></bibl> and John Lightfoot's <bibl type="editorial"><title ref="bi0231"><hi rend="italic">Flora
+                                    Scotica</hi></title></bibl>, the latter of which Pennant had
+                        personally sponsored. See also Pennant's letter to Paton on February 22 1778
+                        and Paton's reply of March 5.</note> for the future send all parcels to
+                        <persName ref="pe1262">M<hi rend="superscript">r</hi> Burk</persName> at
+                        <persName ref="pe1261">Mr Middleton’s</persName> chambers in the <placeName ref="pl2002">Temple</placeName>.</p>
+                <p>I sent <persName ref="pe0156">M<hi rend="superscript">r</hi> Low’s</persName>
+                    <bibl type="authorial"><title ref="bi0058">voy.</title></bibl> to <persName ref="pe0104">M<hi rend="superscript">r</hi> Gough</persName> this week &amp;
+                    shall next month deliver to him all the rest of his works. So <unclear reason="illegible">consult</unclear> with him the means of returning them to
+                    you.</p>
+                <p>Pray accept a copy of my <bibl type="authorial"><title ref="bi0012">Welsh
+                            Tour</title></bibl> &amp; when you get them, give one to <persName ref="pe0022">D<hi rend="superscript">r</hi> Ramsay</persName> — to <persName ref="pe0133">M<hi rend="superscript">r</hi> Lautie</persName> of <placeName ref="pl2004">Fordyce</placeName> near <placeName ref="pl0136">Banff</placeName>, <persName ref="pe0246">M<hi rend="superscript">r</hi>
+                        Pope</persName> of <placeName ref="pl1771">Reay</placeName>. after y<hi rend="superscript">r</hi> answer to this inclose to <persName ref="pe0015">Sir Roger Mostyn</persName>
+                    <placeName ref="pl0734">Bruton Street</placeName>
+                    <placeName ref="pl0699">London</placeName>. <sic>I</sic></p>
+                <p>In respect to <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                        Low</persName> I will sollicit subscription. But let him or his friends
+                    think of a bookseller.</p>
+                <closer><salute>I am Dear Sir <lb/>y<hi rend="superscript">r</hi> most obedient
+                            Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+
+                <dateline><placeName ref="pl0001">Downing</placeName> March. 3<hi rend="superscript">d</hi> 1778.</dateline></closer>
+
+                <postscript>
+                    <p>My best wishes to <persName ref="pe0022">D<hi rend="superscript">r</hi>
+                            Ramsay</persName>. I rejoice to hear from you this moment that he is
+                        better.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

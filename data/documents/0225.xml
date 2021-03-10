@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0225">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, responding to an offer of maps</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>185</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1777-07-18"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0226"/>
+                    <ref type="prev" target="ct0224"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Thanks for y<hi rend="superscript">r</hi> kind Letter &amp; presents which I dare
+                    say will arrive in good time. I am much obliged to you for the offer of
+                    <bibl type="authorial"><title ref="bi0149">Adairs maps</title></bibl> but I have them. I know nothing of Skinner’s outline of
+                    the Highlands,<note type="editorial">Possibly the preliminary 'A General Map of
+                        the Roads' from <bibl>Taylor and Skinner's <title ref="bi0186"><hi rend="italic">Survey and maps of the roads of North Britain or
+                                    Scotland</hi></title> (London: 1776)</bibl>.</note> but will
+                    write to <persName ref="pe0006">Bailey</persName> about. I am sorry to see He has made
+                    no use of it. Is there no news yet from <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName>.</p>
+                <closer><salute>I am Dr Sir <lb/>Y<hi rend="superscript">r</hi> most obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">T. Pennant</persName></signed>
+
+                <dateline><placeName ref="pl0001">Downing</placeName> July 18<hi rend="superscript">th.</hi> 1777.</dateline></closer>
+
+                <postscript>
+                    <p>Pray excuse the inclosed</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom House</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

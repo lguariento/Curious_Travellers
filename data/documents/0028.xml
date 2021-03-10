@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0028">
+    <teiHeader type="w">
+        <fileDesc>
+            <titleStmt>
+                <title>Journal of a Tour into S. Wales by Sophia Hoare, 1809
+                    <date>1809</date></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>Hoare’s Bank Archives</repository>
+                        <idno>AFM 19/14</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>5</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb n="23v"/>
+                <fw>f. 23v</fw>
+                <p>We started early from <placeName ref="pl0699">London</placeName> on Fryday Morg July y<hi rend="superscript">e.</hi> 7<hi rend="superscript">th</hi>
+                    very rainy Weather and arrived at <placeName ref="pl1773">Whitney</placeName><add place="above"><placeName ref="pl1772">Staple Hall Inn</placeName> pretty good</add>
+                    which is one Stage beyond <placeName ref="pl1347">Oxford</placeName>. It is a comfortable Inn enough and clean we passed through 
+                    <del>Long</del> <gap unit="words" quantity="1" reason="illegible"/> <add place="above"><placeName ref="pl1777">Northleach</placeName></add>
+                    to <placeName ref="pl1774">Cheltenham</placeName> which I had not seen for so many Years <add place="above"><placeName ref="pl1775">Dowdeswell</placeName> a very pretty Village</add>
+                    I was curious to look at the late Improvements, which I found considerable in Buildings &amp; Accommodations we met <persName ref="pe1931">M<hi rend="superscript">r.</hi> Lloyd</persName>
+                    who accompanied us to the Springs, Walks, &amp; Library which is a remarkably good one.<note type="editorial">Possibly a reference to Dowdeswell Court near Cheltenham, which was undergoing ‘improvement’ in early C19th: see <ref type="http" target="https://historicengland.org.uk/listing/the-list/list-entry/1001639">here</ref>.</note>
+                    The Country extremely pretty – the Road from thence to <placeName ref="pl1276">Gloucester</placeName> <add place="above"><placeName ref="pl2681">Bell Inn</placeName>,   excellent Bed.</add>
+                    very bad indeed. Here we determined to stay, and walked out to see the <placeName ref="pl2682">Pin Manufactory</placeName> which is curious
+                    <pb n="24r"/>
+                    <fw>f. 24r</fw>
+                    returned to Dinner, slept – In the Morning we attended the Cathedral Service, viewed the Building which is a mixture of Saxon and Gothic Architecture – our Guide was very facetious &amp; related many Anecdotes, one especially of a Lady and Gentleman in the Whispering Gallery – the Window very fine &amp; the Organ beautiful – We next proceeded to 
+                    <placeName ref="pl1779">Ross</placeName>, walked to the Church yard to see the fine View – charming Weather and we anticipated the Pleasure of our Excursion 
+                    <del>on</del><add place="above">down</add> the <placeName ref="pl1227">Wye</placeName> to <placeName ref="pl1778">Monmouth</placeName>
+                    the following Morning – The Inn and accommodation very bad. <placeName ref="pl2684">Yearsley of the Swan </placeName> &amp; <placeName ref="pl2685">King’s Arms</placeName>.
+                    - I took a walk before Breakfast, and the Weather was delightful, but no Sun – We went into the Church to see the Tomb of the <persName ref="pe1121">Man of Ross</persName>, which
+                    <pb n="24v"/>
+                    <fw>f. 24v</fw>
+                    is very handsome – It was erected at the Expence of <persName ref="pe1122">Lady Betty Duplin</persName> and there is a Bust of 
+                    <persName ref="pe1121">M<hi rend="superscript">r</hi> Kyrle (the Man of Ross)</persName> at the Top – The Church is the largest and neatest Country One I ever saw – the Church Yard occupies an Acre of Ground, round it a broad Gravel Walk, the four sides of which are planted with Elms by the Hands of the Man of Ross – there is a lofty Spire to the Church which is an interesting Object to all the Country around. – We now began to be impatient to embark on our little Expedition which we did accordingly, having provided ourselves with some Refreshment on our Jaunt – The Country for the first four Miles from
+                    <pb n="25r"/>
+                    <fw>f. 25r</fw>
+                    <placeName ref="pl1779">Ross</placeName>, is tame &amp; uninteresting but towards <placeName ref="pl1780">Goodrich Castle</placeName>
+                    it improves considerably, our first View of that noble Old Structure was very striking &amp; on our near approach we were highly gratified by the beautiful Scenery with which it is surrounded we walked up to the Castle which is a very Steep ascent, through Bushes &amp; Brambles and then explored the Ruin – there is a fine View from one of the uppermost Turrets, but I did not venture up to the Top – Altogether we thought it beautiful we regained our Boat and the Scenery became more &amp; more interesting The Woods hanging down to the Waters side on each side as we passed, Rocks,
+                    <pb n="25v"/>
+                    <fw>f. 25v</fw>
+                    intermixed, and here and there a small white Cottage or Village Church to <gap unit="words" quantity="1" reason="illegible"/>
+                    the peaceful Inhabitants – In a small Bay near the New Wear in the midst of these delightful Scenes our Boat was moored, and as the Men as well as ourselves needed some Refreshment we stopped, our Table was spread and they had 
+                    <supplied>put us <add place="above">up</add></supplied> every thing we wanted, from the <placeName ref="pl2686">Inn at Ross</placeName> - The
+                    Boat-men went on Shore, and we remained in our agreeable Situation – We reached <placeName ref="pl1778">Monmouth</placeName>
+                    by about Six O’Clock took a Walk about the Town, I was very much fatigued and went to Bed early but highly pleased with our Day’s
+                    <pb n="26r"/>
+                    <fw>f. 26r</fw>
+                    Excursion – The <placeName ref="pl2687">Monmouth Arms</placeName> an indifferent <add place="above">old</add> Inn, but a tolerable Bed and Room. – In the Morning we took a Walk to see the Ruins 
+                    <del><gap unit="words" quantity="1" reason="illegible"/></del> of <placeName ref="pl1781">Monmouth Castle</placeName>,
+                    of which there is scarcely any traces remaining – merely some fragments of the Walls – by this time our Boat was in readiness, &amp; we again embarked taking our Dinner with us as before. The Scenery became more and 
+                    <add place="above">more</add> beautiful as we approached <placeName ref="pl1782">Tintern Abbey</placeName>, with which I was more delighted than Ever, I had not fancied it so large, and the first Entrance into it after our hot Walk was beyond all description – It was towards Evening, and the long broad Shadows fell from those fine majestic
+                    <pb n="26v"/>
+                    <fw>f. 26v</fw>
+                    Pillars in the most beautiful and picturesque Manner imaginable I quitted this enchanting Spot with infinite Regret, but as the tide served to convey us to 
+                    <placeName ref="pl1783">Chepstow</placeName> we were obliged to leave it. The Boat met us on the other side the <placeName ref="pl1782">Abbey</placeName> and we proceeded to 
+                    <placeName ref="pl1783">Chepstow</placeName> passed <placeName ref="pl1784">Persfield Grounds</placeName>, the <placeName ref="pl1882">Lover’s Leap</placeName> &amp;c – The Rocks and woods much higher and thicker as we approached but I heard with Grief that many were marked for destruction. they seem to make a great traffic of the Barks of 
+                    Trees <add place="above">here</add> which they strip off,<note type="editorial">Tree bark was used for dyeing and tanning leather; see <ref type="http" target="http://www.wyevalleyaonb.org.uk/images/uploads/general/Woodlands_of_the_Lower_Wye_onlinesmallpdf.com.pdf">p. 15</ref>.</note>
+                    in consequence of which it dies, and is then cut down we saw many in this deplorable
+                    <pb n="27r"/>
+                    <fw>f. 27r</fw>
+                    State, and whole Acres of beautiful hanging Woods <hi rend="underline">marked for the Knife</hi> <placeName ref="pl1783">Chepstow</placeName>
+                    is a pretty little neat Town better built than <placeName ref="pl1778">Monmouth</placeName> and much improved since I was here 
+                    <placeName ref="pl1785">The Castle</placeName> stands in a fine commanding Situation – We took a delightful Walk to it in the Evening, and examined it thoroughly – tis a striking Contrast to 
+                    <placeName ref="pl1782">Tintern</placeName>, as it is left quite to itself and nearly overgrown in part with Trees and Brambles whereas the other is cleared of all adventitious Ornaments and rests entirely on its own Grandeur and Beauty – the one is perhaps best suited to a Ruined Monastery, and the other to the Remains 
+                    <pb n="27v"/>
+                    <fw>f. 27v</fw>
+                    of a Castle – We had very tolerable Rooms and Bed at the <placeName ref="pl1786">Beaufort Arms</placeName>
+                    From <placeName ref="pl1783">Chepstow</placeName>we had a charming Drive to <placeName ref="pl1787">Abergavenny</placeName> 
+                    <hi rend="superscript">seeing <hi rend="underline"><placeName ref="pl1788">Ragland Castle</placeName> in our Way</hi></hi>
+                    along the <placeName ref="pl1845">Vale of Usk</placeName> <add place="above">and the River</add> which meanders within Sight of the Road, and its Banks are finely Wooded – We found the Inn very tolerable but unluckily there was a Ball the Night we staid, given by some Gentleman in the Neighbourhood It made great Confusion and not a little Noise, and the People of the Inn were all so fatigued the next Morning with their Exertions that we had some difficulty in getting an Early Breakfast and Post Horses to take us to 
+                    <placeName ref="pl1789">Llanthony Abbey</placeName> which was our
+                    <pb n="28r"/>
+                    <fw>f. 28r</fw>
+                    Inducement for staying there – We were much dissuaded from going by the Landlord, who told us the Road was scarcely practicable, and very long ten Miles – however we resolved not to be baffled in our design, and accordingly set out in a Hack Chaise as we heard that our own was likely to be much injured in the Excursion our Servants we sent on to 
+                    <placeName ref="pl1791">Brecon</placeName> to bespeak us Accommodations – the Road is prettily diversified and finely Wooded, especially as we approached the Ruins, but I was sorry to see some new whitewashed Buildings close to it, and having heard it was lately purchased by a 
+                    <persName ref="pe1123">M<hi rend="superscript">r.</hi> Landor</persName>, I conceived 
+                    <pb n="28v"/>
+                    <fw>f. 28v</fw>
+                    no very favourable Idea of his Taste – but how much less so, when on my nearer Approach I found whole Piles of Stones and broken Pillars lying in heaps 
+                    &amp; obstructing the Entrance into this noble Building A sort of Steward or Bailiff offered to conduct us, and endeavoured to excuse his Master by telling us that more of the Ruins would have fallen, unless a part had been destroyed I could not help expressing great Concern at this proceeding, so to 
+                    <hi rend="underline">console me</hi>, the Man said his Master meant to restore it to its ancient form and was expecting the Architect from <placeName ref="pl0699">London</placeName>
+                    who was making Plans for
+                    <pb n="29r"/>
+                    <fw>f. 29r</fw>
+                    this most Arduous Undertaking What remains is certainly magnificent and Appears to be on a larger Scale than <placeName ref="pl1782">Tintern</placeName>
+                    but the Ivy has been torn down, and the whole is so mutilated that in its present State it is certainly greatly inferior; and what with the vileness of the Road and the time it took us to go and return, I would not wish to repeat my Visit – We set out at Ten and did not return till near 6 – heartily tired with the jumbling and jolting of our miserable Vehicle besides a great deal of walking where the Road was inpassable. On our Return we took some Refreshments at 
+                    <placeName ref="pl1787">Abergavenny</placeName>and set out with four good <unclear>posters</unclear> along one of
+                    <pb n="29v"/>
+                    <fw>f. 29v</fw>
+                    the most beautiful and delightful Roads I ever travelled, <add place="above">A perfect Arcadia all the Way</add>
+                    we passed several gentleman’s Seats, <persName ref="pe1124">Admiral Gell</persName>'s &amp;c. &amp;c. the Ruins of <placeName ref="pl1792">Tretower Castle</placeName>
+                    on the Right and at last reached <placeName ref="pl1791">Brecon</placeName>, having just saved the Day light, and found ourselves pretty well off as to accommodation except the Bed which was dreadful, Red Stuff Curtains and very short narrow Sheets – it is a pretty clean Town enough and the Priory Walks are charming likewise the surrounding Scenery and distant Mountains – there seemed to be many french Persons here
+                    <note type="editorial">The ‘french Persons’ mentioned here are Napoleonic-era prisoners of war. Their presence in Brecon around this period is described in The Literary Remains of the Rev. Thomas Price, Carnhuanawc, Vol. II (Llandovery and London: William Rees and Longman &amp;Co., 1855), p. 19. See <ref type="http" target="https://archive.org/stream/literaryremainso02pric/literaryremainso02pric_djvu.txt">here</ref>.</note>
+                    – the Remains of the Priory form part of the <placeName ref="pl1793">Church</placeName> which is neat and an organ in it – a part of the 
+                    <pb n="30r"/>
+                    <fw>f. 30r</fw>
+                    <unclear>eastward</unclear> Court is walled in for Tennis very little remains of the <placeName ref="pl1794">Castle</placeName> and <persName ref="pe1125">Sir Charles Morgan</persName>
+                    to whom it belongs is building a large Inn close to it – <placeName ref="pl1886">The Golden Lion</placeName> is the present one and very spacious but old. – We did not leave 
+                    <placeName ref="pl1791">Brecon</placeName>till past one, Friday 14<hi rend="superscript">th</hi> <del>S<hi rend="superscript">t</hi> Swithin</del> - most
+                    beautiful Weather, changed Horses at <placeName ref="pl1795">Trecastle</placeName>, and arrived at <placeName ref="pl1796">Llandovery</placeName>
+                    (having been told it was one of the best <placeName ref="pl1797">Inns</placeName> in <placeName ref="pl1245">S. Wales</placeName>) but I could find no one recommendation except that it appeared tolerably clean a Vile Dinner, two pronged Forks, mutton Candles, and a dirty Maid to wait upon us – the Village is prettily Situated and there is the small remains of an 
+                    <pb n="30v"/>
+                    <fw>f. 30v</fw>
+                    <placeName ref="pl1798">Old Castle</placeName> - We took a walk through Hay-Fields and by the Side of the River in the Evening to get out of the noise of Drums 
+                    &amp; Fifes &amp; training the Local Militia. – We started early the following Morning Saturday 15<hi rend="superscript">th</hi>
+                    <placeName ref="pl2688">S<hi rend="superscript">t.</hi> Swithin</placeName> - a beautiful Day – arrived at <placeName ref="pl1799">Llandilo</placeName>
+                    procured Saddle Horses &amp; set out to <placeName ref="pl1800">Careg Cenen Castle</placeName> - a shocking Road but a fine Country – when we got <add place="above">to</add>
+                    the miserable little Village, our Guide told us that <hi rend="underline">Candles</hi> would be necessary, w<hi rend="superscript">ch</hi>
+                    surprised me a good deal, but we proceeded on Horseback as far as we could go dismounted and toiled up to the <placeName ref="pl1800">Castle</placeName>
+                    w<hi rend="superscript">ch</hi> had a beautiful appearance from a Distance It is situated in a Valley from
+                    <pb n="31r"/>
+                    <fw>f. 31r</fw>
+                    which the sharp high Rock rises quite abruptly – it is of an immense extent and a prodigious heigth - we penetrated 140 feet into the Rock with our Candles in our Hands, to see the Wells of Water which supplyed the Garrison – it put me in mind of the 
+                    <placeName ref="pl1537">Cave at Castleton</placeName> only it is much narrower and lower we drank of the Water, which is excellent how the <placeName ref="pl1800">Castle</placeName> was ever taken is amazing for it appears by Nature to be wholly impregnable – we explored every part
+                    &amp; were highly gratified with the Scene returned to <placeName ref="pl1799">Llandilo</placeName> through which place it was necessary to pass to go to 
+                    <persName ref="pe1126">L<hi rend="superscript">d</hi> Dynevor</persName>'s - the Park is beautiful and the <placeName ref="pl1801">old ruined Castle</placeName> in the Grounds
+                    <pb n="31v"/>
+                    <fw>f. 31v</fw>
+                    an interesting Object, but the Trees are so much grown round it, that very little of it is to be seen except on a near Approach – We took some Refreshment on our Return to
+                    <placeName ref="pl1799">Llandilo</placeName>mounted our Chaise &amp; proceeded to <placeName ref="pl1802">Caermarthen</placeName> 
+                    which is a handsome Town and a pretty Good Inn the <placeName ref="pl1803">Ivy Bush</placeName> - a nice little Garden the Houses are white washed all over Roofs, Chimneys, and all – The next Morning we went to Church, the Service well performed and a Good Organ examined the Monuments 
+                    &amp;c. and set out through <placeName ref="pl1819">Narbe<hi rend="superscript">r</hi>th</placeName> &amp; <placeName ref="pl2689">S<hi rend="superscript">t.</hi> Claire</placeName> 
+                    to <placeName ref="pl1809">Haverford West</placeName>, arrived late – <persName ref="pe1932">Drakeford</persName> taken very ill – set out early next Day to see the venerable 
+                    <placeName ref="pl1804">Cathedral of S<hi rend="superscript">t.</hi> Davids</placeName>
+                    <pb n="32r"/>
+                    <fw>f. 32r</fw>
+                    it was sixteen Miles of Rough hilly Road the Country very ugly but we were gratified with a fine View of the Sea. <placeName ref="pl2690">S<hi rend="superscript">t.</hi> Bride's Bay</placeName> - <placeName ref="pl1805">Roach Castle</placeName>
+                    on the Right <placeName ref="pl2691">S<hi rend="superscript">t.</hi> Davids</placeName> is a miserable little scattered Village, and the 
+                    <placeName ref="pl1804">Cathedral</placeName> is sunk in a Bottom so that it is not seen till one is close to it – the Building very fine and the beautiful 
+                    <placeName ref="pl1806">Ruins of the Archbishop Peter’s Palace</placeName> most striking, likewise the <placeName ref="pl2021">Chapel of S<hi rend="superscript">t.</hi> Mary</placeName>, College &amp; 
+                    some most curious Monuments<note type="editorial">See for example the shrine of St David <ref type="http" target="http://www.stdavidscathedral.org.uk/index.php?id=931">here</ref></note>
+                    particularly those of the Bishops Iordeth and Anselm, and the Tomb of Giraldus some of the most beautiful Gothic I ever saw, and the whole displays a magnificent appearance of ancient 
+                    <pb n="32v"/>
+                    <fw>f. 32v</fw>
+                    Splendour – the Cathedral itself is much in decay, the interior of it – the outside has been repaired by <persName ref="pe1933">Nash</persName>
+                    the Architect who has endeavoured with bad Success to imitate the beautiful Circular Window in the Ruins of the <placeName ref="pl1806">Archbishops Palace</placeName>.
+                    <pb n="33r"/>
+                    <fw>f. 33r</fw>
+                    We Returned to a late Dinner at <placeName ref="pl1809">Haverford West</placeName>, the following Morng Tuesday 18<hi rend="superscript">th</hi>
+                    we visited <placeName ref="pl1807">Picton Castle Lord Milford’s</placeName> and <placeName ref="pl1808">Slebitch M<hi rend="superscript">r.</hi> Phillips</placeName>'s - neither
+                    of them at all worth seeing House or Grounds – at <placeName ref="pl1807">Picton</placeName> there were fine Hothouses &amp; Kitchen Gardens, and a good Conservatory. Returned to 
+                    <placeName ref="pl1809">Haverford</placeName> refreshed ourselves, and passed through a dull Country to <placeName ref="pl1294">Milford Haven</placeName>,
+                    with which I was much pleased – a charming clean new Inn fronting the Haven, w<hi rend="superscript">ch.</hi> Was filled with shipping – we counted 50 Vessels all close in to the Shore, many more building, two first Rate Men of War the Sea looked beautiful and it was altogether a charming Scene – the Houses 
+                    <pb n="33v"/>
+                    <fw>f. 33v</fw>
+                    all newly built and quite White all over – I should have quitted <placeName ref="pl1294">Milford</placeName> with more regret, but that I was anxious to get to <placeName ref="pl1810">Tenby</placeName>
+                    for my Letters and likewise for a little Rest and bathing for <persName ref="pe0940">Henry</persName> - Wednesday 19<hi rend="superscript">th</hi> - We 
+                    arrived at <placeName ref="pl1811">Pembroke</placeName> through a flat uninteresting Country <placeName ref="pl1997">The Castle</placeName>
+                    looked grand as we approached and we immediately set our walking to view its noble Remains, and try to find out <persName ref="pe1129">Turner</persName>’s point of View from whence he took his 
+                    <rs type="art" ref="ar0357">Drawing</rs> - It occupies a very large Space and the round Tower with the Roof still on, is extremely curious the Walls are quite enwreathed with Ivy of every Sort and Variety of Tint and it commands a fine Situation on
+                    <pb n="34r"/>
+                    <fw>f. 34r</fw>
+                    three Branches of <placeName ref="pl1294">Milford Haven</placeName>so that at high Tide there is Water all round it – We passed a very pretty Cottage belonging to 
+                    <persName ref="pe1934">M<hi rend="superscript">r.</hi> Merrick</persName> who must have a fine View of the <placeName ref="pl1997">Castle</placeName> from the opposite Shore – by the time we returned to our Inn and had taken some Refreshment, the Horses 
+                    <unclear>we</unclear> put to, and we proceeded to <placeName ref="pl1812">Stackpole Court Lord Cawdor’s</placeName>, which I saw nothing in much to admire – the Woods are all Young though a great deal of them, and there was nothing in the Appearance of the House to raise Curiosity – but it is a handsome Gentleman’s Seat and when the Tide is in must have a fine View from it – We drove through
+                    <pb n="34v"/>
+                    <fw>f. 34v</fw>
+                    the park, to visit <placeName ref="pl1813">S<hi rend="superscript">t.</hi> Gowen's Cave &amp; <add place="above">well</add></placeName>
+                    which by the Country People is said to perform such wonderful Cures in Rheumatic &amp; other Complaints. an Old Woman walked down to the Rocks with us, we might have gone in the Carriage as 
+                    <persName ref="pe1935">Lady Cawdor</persName> is so fond of the Spot she has had a good Road made to it – the Cliffs and Rocks are very high, the open Sea beyond not near So grand or terrific as the 
+                    <placeName ref="pl1630">Land’s End</placeName>, more in the Style of <placeName ref="pl1814">Ilfracomb</placeName> We descended by broken Steps 160 in Number, till we arrived at an old Sort of Chapel where many wonders of 
+                    S<hi rend="superscript">t.</hi> Gowen are related, we then saw the Well, and tasted the Water, it is
+                    <pb n="35r"/>
+                    <fw>f. 35r</fw>
+                    formed in the Rocks, and the screaming of the Birds called Elingoogs<note type="editorial">Eligugs or razor-bills. For a near-contemporary description of them by Richard Ayton and William Daniell, see vol. 1 of A Voyage Round the Coast of Great Britain (1814), pp. 76-7. For a depiction of the Eligug Stack at St Gowan’s Head, by Daniell, see <ref type="http" target="http://www.tate.org.uk/art/artworks/daniell-the-eligug-stack-near-st-gowans-head-pembrokeshire-t02736">the Tate</ref>.</note>
+                    a specimen of Sea-Gull was so noisy we could hardly hear ourselves speak – They have such a dread of the Boys that come at this time of Year to steal their Eggs, that they could not be persuaded of our peaceable Intentions – Returned to a late Dinner at 
+                    <placeName ref="pl1811">Pembroke</placeName> – good Bed &amp; Room at the <placeName ref="pl1876">Green Dragon</placeName>. 
+                    Here there was only one pair of Horses kept, so we were obliged to leave our Servants and packages and send back our wretched Steeds when we arrived at 
+                    <placeName ref="pl1810">Tenby</placeName> - In our way there were stopped to see the beautiful Ruins of <placeName ref="pl1815">Lamprey Court</placeName> - as I had a pretty View of it from 
+                    <pb n="35v"/>
+                    <fw>f. 35v</fw>
+                    the Road, I did not undertake the Scramble that was necessary for a near Approach but <persName ref="pe0940">Henry</persName>
+                    encountered <placeName ref="pl1873">Marshes River</placeName> high Stone Wall, and Brambles, but at last got Sight of a beautiful Window quite entire, &amp; brought me a little Sketch of it, as I could not see it from where I stood – 
+                    <placeName ref="pl1873">The River</placeName> seems to be very little known, &amp; still less visited by the great difficulty of Access – but it must be a fine Study for an Artist, though the surrounding Country does not set it off to any advantage – At length we arrived at 
+                    <placeName ref="pl1810">Tenby</placeName>, I had written from <placeName ref="pl1802">Caermarthen</placeName> to bespeak Rooms and Beds at the 
+                    <placeName ref="pl2692">White Lion</placeName>, therefore was disappointed at finding we could not be taken in, so we set out 
+                    <pb n="36r"/>
+                    <fw>f. 36r</fw>
+                    in quest of Lodgings hearing that all the other Inns wr full likewise – We however could not suit ourselves, none of them having any View of the Sea, tho’ all near it At last we spied out a very tolerable looking Inn at the End of the 
+                    <placeName ref="pl1810">Town</placeName> and tried our fortune there – We heard with joy that we could be well accommodated got a nice Sitting Room with a pretty view of the <placeName ref="pl1815">Castle &amp; Bay</placeName> - a
+                    tolerable Bed-Room very clean &amp; Rooms for our Domestics. Here then we fixed during our Stay at <placeName ref="pl1810">Tenby</placeName>,
+                    which I fear will not be half as long as I should wish. – having secured our Apartments we took a Walk down to the Sea, which looked lovely – beautiful Rocks all round
+                    <pb n="36v"/>
+                    <fw>f. 36v</fw>
+                    and the little <placeName ref="pl2693">Islands of Caldy</placeName>, and <placeName ref="pl2694">S<hi rend="superscript">t.</hi> Margaret</placeName>
+                    close to it – <placeName ref="pl1810">Tenby</placeName> stands on a Cliff and the Houses are all whitewashed in the usual Style, which makes it look like a Camp at a Distance – tis a sweet little place, &amp; the bathing quite perfect – as we sat on a seat going down the Hill to the Sea, we saw several Machines going in and bathers, so 
+                    <persName ref="pe0940">Henry</persName> resolved to add to the Number, &amp; accordingly took a fine plunge &amp; swim in the beautiful green Ocean – our Servants did not arrive till late in the Evening, and this Morning 21<hi rend="superscript">st</hi>
+                    July – I had a delightful Dip – 25<hi rend="superscript">th</hi> We made an excursion to <placeName ref="pl1816">Carew Castle</placeName>
+                    a very rough Road to it – Tis a Noble Ruin
+                    <pb n="37r"/>
+                    <fw>f. 37r</fw>
+                    a good deal in the Style of the interior of <placeName ref="pl1611">Ludlow Castle</placeName>, and appears to be about the same Date built in 
+                    <persName ref="pe0670">Henry the VII</persName> Reign by <persName ref="pe1132">Sir Rys ap Thomas</persName> - It is of a quadrangular Form with a Tower at each corner – the Frames of the Windows are many of them entire, and all of free Stone – the Ivy grows most luxuriantly – the grand Hall is 105 Feet by twenty – the Bow Window’d Rooms of the Circular 
+                    <del>Windows</del><add place="above">Towers</add> command a fine View of the Sea, or rather an Arm of it that comes close up to the <placeName ref="pl1611">Castle</placeName> Walls at high tide. On our Return to 
+                    <placeName ref="pl1810">Tenby</placeName> We found the Water so high that we walked round about two Miles and the Carriage met us on the opposite Side, when the Tide was sufficiently sunk
+                    <pb n="37v"/>
+                    <fw>f. 37v</fw>
+                    for the Carriage &amp; Horses to cross with Safety. – July 27<hi rend="superscript">th</hi> We made an Excursion to 
+                    <placeName ref="pl1872">Manorbeer Castle</placeName> the Birth Place of <persName ref="pe1133">Giraldus</persName>, It is not on so Grand a Scale as 
+                    <placeName ref="pl1816">Carew Castle</placeName> but appears to be about the same Date – It belongs to <persName ref="pe1936">L<hi rend="superscript">d.</hi> Milford</persName>
+                    and a part of the <placeName ref="pl1872">Castle</placeName> he had covered in, a few Years ago and made it a sort of Audit Room where his <persName ref="pe1937">Steward</persName> used to assemble the Tenants &amp; 
+                    <unclear>relieve</unclear> the Rents This does not improve the Appearance of the Building – It commands a fine View of the Sea, <placeName ref="pl2695">Stackpole Point</placeName>
+                    <add place="above">&amp;</add> <placeName ref="pl1813">S<hi rend="superscript">t.</hi> Gowins Cave</placeName> – We returned to Dinner very tired from the excessive roughness of the Road. July 30<hi rend="superscript">th</hi>
+                    Sunday, the last Day of Stay at <placeName ref="pl1810">Tenby</placeName>, which we much regretted – After 
+                    <pb n="38r"/>
+                    <fw>f. 38r</fw>
+                    Church we took a Walk on the Sands to see an Extraordinary natural Cave, with which we were very much pleased &amp; surprized the Entrance is Nine Yards across, and the length of the Interior is 19 Yards by twelve Y<hi rend="superscript">ds</hi>
+                    and from the Entrance to the furthest past of the Interior is was 25 Y<hi rend="superscript">ds</hi> It is like an immense Hall or Apartment the Rocks which are thrown about in a most picturesque and striking Manner, forming the Roof and Sides, <add place="above">and</add>
+                    a fine Level hard Sand makes the Floor – We returned near the Sea hunting for Shells, and took a last look at <placeName ref="pl1817">S<hi rend="superscript">t.</hi> Catherine’s</placeName>
+                    which is perforated in many Parts by the force of the Sea, We explored it thoroughly &amp; admired the fine Views of the Water &amp; distant Islands from this Rocky Shore, but did not ascend its steep
+                    <pb n="38v"/>
+                    <fw>f. 38v</fw>
+                    Sides, as I had fatigued myself so very much by so doing, a few Evenings after my Arrival at <placeName ref="pl1810">Tenby</placeName>,
+                    which Alas! we are now preparing to leave.</p>
+                    <p>
+                        <date>Monday 30<hi rend="superscript">th</hi> July</date> - There was a great difficulty about Post Horses, none being kept at <placeName ref="pl1810">Tenby</placeName>,
+                        so we were obliged to take four from <placeName ref="pl1818">Tavernspight</placeName>, and the Servants were obliged to wait the Arrival of a Chaise from <placeName ref="pl1819">Narbeth</placeName> - The
+                        Road was hilly but pretty good to <placeName ref="pl1802">Caermarthen</placeName> where we arrived to Dinner took a Walk in the Evening, &amp; met our Servants toiling up the Hill – The following Morning we set out on an Excursion to 
+                        <placeName ref="pl1820">Llanstephan</placeName> dreadful rough bad Roads and vile Horses and Driver – We passed <placeName ref="pl2696">Sir William
+                            <pb n="39r"/>
+                            <fw>f. 39r</fw>
+                            Mansel's</placeName> a very pretty place, fine Wood and Grounds, and commands a sweet View of the <placeName ref="pl2697">River Towy</placeName>
+                        on which <placeName ref="pl1802">Caermarthen</placeName> stands – He keeps two Yatchs in one of which he and his Family came while we were at <placeName ref="pl1810">Tenby</placeName>,
+                        and it was seized by the Custom House Officers on Account of the Embargo<note type="editorial">A reference to economic tensions during the Napoleonic Wars. From May 1806, Britain blockaded neutral continental trade, resulting in America passing the Embargo Act in 1807, which temporarily halted American exports.</note>
+                        being in full force – <placeName ref="pl1821">Llanstephan Castle</placeName> finely situated on a Hill or Mount at the Mouth of the <placeName ref="pl2697">River</placeName>
+                        the open Sea behind it – a charming <placeName ref="pl2698">Seat of M<hi rend="superscript">r</hi> Meares</placeName> close to it finely wooded – quantities of Shells on the sands which we gathered whilst waiting for the Ferry Boat instead of which I ought to have been taking 
+                        <pb n="39v"/>
+                        <fw>f. 39v</fw>
+                        a View of the <placeName ref="pl1821">Castle</placeName> &amp;c. The Name of the little Village we stopped at is <placeName ref="pl1823">S<hi rend="superscript">t.</hi> Ishmael’s</placeName>
+                        the breadth of the Ferry at high Water is a Mile &amp; half – a small Boat soon conveyed us, and we immediately began our steep Ascent up the Mouth to see the 
+                        <placeName ref="pl1821">Castle</placeName> - I was so tired, that I I was not as diligent in my Researches as my Companion but he told me there was very little to be seen the Ruins that remain give 
+                        <add place="above">a</add> very imperfect Idea of the ancient form. – We returned to our Boat and the tide having fallen in our Absence, I was obliged to be carried a great way as the Boat could not approach the Shore by some Yards – I expressed some doubts of how 
+                        <pb n="40r"/>
+                        <fw>f. 40r</fw>
+                        this was to be accomplished, but the Man assured me he had carried a great deal <hi rend="underline">more of a Lady</hi> than Me often – After a very wet Walk across the Sands we again reached
+                        <placeName ref="pl1823">S<hi rend="superscript">t.</hi> Ishmael’s</placeName> where our Carriage <add place="above">had</add> remained &amp; our Horses baited – We took some Bread &amp; Cheese and sweet Wort<note type="editorial">A form of beer.</note>
+                        which I though excellent, and pursued our Journey to <placeName ref="pl1824">Kidwelly</placeName>, which is <add place="above">a</add>
+                        pretty little Town but close to a great Marsh beyond which is <placeName ref="pl1825">Worms Point</placeName> and the Bay of <placeName ref="pl1802">Caermarthen</placeName>.
+                        The <placeName ref="pl1826">Ruins</placeName> are very fine embosomed in Wood, and adorned with Ivy: I staid at a little distance to take a Sketch, and 
+                        <persName ref="pe0940">Henry</persName> went nearer in hopes of getting within – but the People were 
+                        <pb n="40v"/>
+                        <fw>f. 40v</fw>
+                        very uncivil, and refused to send the Key, so he could not succeed at last but met with an old Acquaintance who was come to reside at
+                        <placeName ref="pl1824">Kidwely</placeName> for the Sake of Convenience – We now thought of our Return to <add place="above"><placeName ref="pl1802">Caermarthen</placeName></add>
+                        which was thro’ a sweet pretty Country finely variegated with Corn Fields Wood, and the <placeName ref="pl2697">River Towy</placeName> winding through the Valley – arrived not till between seven &amp; Eight very much fatigued indeed, having walked a great deal &amp; been jumbled &amp; jolted till all my Bones ached. – Arose much refreshed by a good Night’s Sleep and left 
+                        <placeName ref="pl1802">Caermarthen</placeName> about Eleven we were obliged to Stop at <placeName ref="pl1871">Pontarddulas</placeName>
+                        <pb n="41r"/>
+                        <fw>f. 41r</fw>
+                        while the Horses were baiting as there were only one pair kept at this little Village – The Country improved every turn of the Road, and a fine Ridge of Mountains bounded our Prospect. We had some heavy Showers on our Arrival at 
+                        <placeName ref="pl1827">Swansea</placeName> which prevented our taking a Walk to see the Town and Bay while the Dinner was preparing. Thursday Aug<hi rend="superscript">st</hi> 3<hi rend="superscript">d</hi>
+                        A beautiful Morning <persName ref="pe0940">Henry</persName> bathed – found it but indifferent bathing – very unlike <placeName ref="pl1810">Tenby</placeName>.
+                        After Breakfast we walked down to the Pier,<note type="editorial">Swansea east and west piers were built by c. 1800. For a contemporary view of Swansea titled ‘from the West Pier’, see George de la Motte’s 1820 scene <ref type="http" target="https://museum.wales/art/online/?action=show_item&amp;item=2419">here</ref></note>
+                        which is almost equal to <placeName ref="pl1616">Ramsgate</placeName>, a quantity of Shipping and some very large Vessels just getting under Weigh and with all their Sails
+                        <pb n="41v"/>
+                        <fw>f. 41v</fw>
+                        set, shooting the Pier, which was really a very fine Sight – the Wind was extremely high, and we returned to the Inn and prepared to depart. – The 
+                        <placeName ref="pl1828">Vale of Glamorgan</placeName> would be beautiful but for the Copper and Iron Works<note type="editorial">For a detailed account of Swansea’s extensive copper and iron works in this period, see Louse Miskell, <hi rend="italic">Intelligent Town: An Urban History of Swansea, 1780-1855</hi> (Cardiff: University of Wales Press, 2006), pp. 70-97.</note>
+                        the Smoke of which is very unpleasant and so thick one can hardly see beyond it – it is nearly the same in this Respect the whole of the way to <placeName ref="pl1829">Neath</placeName>
+                        which I had fancied a prettier place than I found it – Here we changed Horses, after having stopped to see the <placeName ref="pl1830">Ruins of Neath Castle</placeName>
+                        in the possession of <persName ref="pe1126">L<hi rend="superscript">d.</hi> Dynevor</persName>, who has added to its ruinous Condition by taking away great part of the Stone 
+                        <pb n="42r"/>
+                        <fw>f. 42r</fw>
+                        work to use in other Buildings – the Site of the Refectory, Chapel &amp; <hi rend="underline">Hall</hi> which is more perfect than any I have seen may clearly be traced – It was formerly called the fairest 
+                        Abbey in all <placeName ref="pl0731">Wales</placeName>, and has a likeness of <placeName ref="pl1782">Tintern</placeName> in many parts – the lower Apartments are inhabited by a very wretched looking Set of dirty Old Women &amp; Children that belong to the Manufactory – We stopped a short time at Briton Ferry, the Situation of which is beautiful at high tide and 
+                        <persName ref="pe1134">Lord Vernon</persName>'s plantation and Woods are well disposed – proceeded to <placeName ref="pl1832">Margam Abbey</placeName>,
+                        founded by <persName ref="pe1135">Robert Earl of Gloster</persName> in 1147 – Among the Offices is a most beautiful Circular
+                        <pb n="42v"/>
+                        <fw>f. 42v</fw>
+                        Tower fifty feet in Diameter – the Ivy growing in quantities all over it – It is now in the possession and beautiful <del>of</del>
+                        Grounds of <persName ref="pe1136">M<hi rend="superscript">r.</hi> Talbot</persName> who has pulled down his own Dwelling House which was close to the Ruin and we understood is gone to live at a <placeName ref="pl1833">very ugly place</placeName>
+                        at some Distance – His Greenhouse is the most sumptuous I ever saw, <hi rend="underline">327</hi> feet long, built of fine white Stone, and at each End of it a Room one of which contains a small but well chose Collection of Busts and Statues, likewise some very fine red Porphyry and Alabaster Vases and some beautiful Sarcophaguss which have never been taken out of the Packing 
+                        <pb n="43r"/>
+                        <fw>f. 43r</fw>
+                        Cases – The <placeName ref="pl1834">Orangery</placeName> for the Reception of Which this superb Green house was built is quite Unique – One Hundred and Sixty of the finest Orange Trees I ever saw, quite Timber Trees loaded with Fruit which is as good as any that can be eaten – what is extraordinary is that the parent Tree from which all of these is derived, was wrecked on this Coast almost 30 Years ago in the 
+                        L<hi rend="superscript">d.</hi> Mansell Indiaman<note type="editorial">The wreck specifically mentioned here remains untraced, but numerous accounts exist of wrecked vessels by means of which fruit trees came to Margam. See, for example, John Evans, <hi rend="italic">Letters Written During a Tour Through South Wales: in the Year 1803, and at Other Times</hi> (London: C &amp; B Baldwin, 1804), p. 138, and Walter Davies, <hi rend="italic">Domestic Economy of South Wales</hi> (2 vols., London: Sherwood, Neely &amp; Jones, 1815), 2, pp. 15-17.</note>
+                        and <del>was</del><add place="above">became</add> the property of the present <persName ref="pe1136">M<hi rend="superscript">r.</hi> Talbot</persName>.
+                        The Parish Church which is close by the Grounds is fitting up most magnificently and a Sculptor was employed in restoring some Old Figures <add place="above">on the Tombs</add>
+                        of the Mansel Family.<note type="editorial">Renaissance marble tombs of members of the Mansel family, located in St Mary’s Church, Margam; see <ref type="http" target="http://www.coflein.gov.uk/en/site/302498/details/st-marys-church-margam">Coflein</ref>. See also
+                            <ref type="http" target="http://www.courtauldprints.com/image/183811/colt-maximilian-margam-abbey-abbey-church-chapel-with-tombs-of-the-mansell-and-bussey-families-tomb-of-sir-lewis-mansell-and-his-wife">Courtauld Prints</ref>.</note>
+                        There is a fine Old Runic Monument and
+                        <pb n="43v"/>
+                        <fw>f. 43v</fw>
+                        richly ornamented Cross at a Cottage Door<note type="editorial">These monuments specifically mentioned here remain unidentified but some 30 monuments, known as the Margam Stones, are now displayed together at Margam: see <ref type="http" target="http://www.coflein.gov.uk/en/site/94512/details/margam-stones-margam-abbey">Coflein</ref></note>
+                        near the Church – arrived at <placeName ref="pl1835">Pyle Inn</placeName> by Dinner time – I was very much struck with the Situation so little resembling an Inn and back’d by a fine Wood – Here we had every possible Convenience as much as at a Gentleman’s House – excellent fare, capital Rooms, Bed, &amp;c &amp;c. and looking into Gardens &amp; pleasure Grounds. the Weather hitherto so fine was against us and all the early part of the following Morning was a pouring Rain – It however cleared towards the middle of the Day, and we took an immense long Walk to see an 
+                        Old House on the Sea Shore<note type="editorial">Possibly a reference to either <ref type="http" target="http://www.coflein.gov.uk/en/site/19518/details/old-park">Old Park</ref>, the <ref type="http" target="http://www.visionofbritain.org.uk/place/25058">Egwlys Nunydd farmstead</ref>, or <ref type="http" target="http://www.coflein.gov.uk/en/site/19102/details/kenfig-house">Kenfig House</ref>, which lie on the coast in close proximity to one another.</note>
+                        likewise a Lake where the Country people told us there formerly stood a <placeName ref="pl2699">large Town</placeName>, but which is now swallowed up, either
+                        <pb n="44r"/>
+                        <fw>f. 44r</fw>
+                        by an Earthquake or by some extraordinary Inundation – but we could not trace these Rumours to any Authentic Source.</p>
+                <p>
+                    <date>Saturday 5<hi rend="superscript">th</hi> August</date> We left <placeName ref="pl1835">Pyle Inn</placeName>, which had the Weather been tolerable, I should have done with infinite regret. 
+                    We turned out of the direct Road to see <placeName ref="pl1836">S<hi rend="superscript">t.</hi> Donats</placeName> which is most beautifully situated and a very curious Ruin, the View from the Watch Tower must be very fine, but the Rain prevented our going up to it – It is partly inhabited by a Farmer who rents some of 
+                    <add place="above">ye</add> Land adjacent, and his Family – Large Trees growing all round the Building tho’ it is close to the Sea, and the <placeName ref="pl1387">Somersetshire</placeName>
+                    Coast in the Distance. <placeName ref="pl1837">Holnicote</placeName> we supposed to be almost immediately Opposite.
+                    <pb n="44v"/>
+                    <fw>f. 44v</fw>
+                    We likewise stopped at <placeName ref="pl1690">Llandaff</placeName> to see the <placeName ref="pl1838">Cathedral</placeName>,
+                    what remains of the Ruins is extremely beautiful much in the Style of <placeName ref="pl1782">Tintern Abbey</placeName>,
+                    attached to which is the present <placeName ref="pl1838">Cathedral</placeName> which makes but a poor Appearance it is however Clean and decent though small, and contains some Monuments of the 
+                    Mathew Family<note type="editorial">See for example the <ref type="http" target="http://www.gutorglyn.net/gutorglyn/name-full/?n=nd12 ">effigy</ref> for David Mathew (fl. c. 1425-58).</note>
+                    and <persName ref="pe1938">L<hi rend="superscript">d.</hi> Llandaff</persName> has a considerable Estate in the Neighbourhood – passed thro’ 
+                    <placeName ref="pl1839">Cowbridge</placeName> and <placeName ref="pl1690">Llandaff</placeName> to <placeName ref="pl1840">Cardiff</placeName>
+                    where we dined &amp; Slept</p>
+                <p>
+                    <date>Sunday Aug<hi rend="superscript">st</hi> 6<hi rend="superscript">th</hi></date> Went to Church which is a very handsome one – very bad Reader and Preacher – Afterwards we went to see 
+                    <placeName ref="pl1841">Cardiff Castle</placeName> which is repaired and added to so much that it retains not much of its original
+                    <pb n="45r"/>
+                    <fw>f. 45r</fw>
+                    Appearance – We were shewn the dismal Place in which <persName ref="pe1138">Robert Duke of Normandy</persName> (brother of
+                    <persName ref="pe1939">William the Conqueror</persName>) was confined 26 Years – It is about fifteen feet Square, and hardly any light could penetrate – The Guard Room is close to it and Both in a ruinous State – close to the Entrance. The 
+                    <placeName ref="pl1841">Castle</placeName> belongs to the <persName ref="pe0278">Marquis of Bute</persName>'s Family, and there are many Portraits of his and 
+                    <persName ref="pe1940">his Wife</persName>'s Family, who was one of the Windsors – his <persName ref="pe1941">Grandson</persName> a Minor, is the Heir and intends residing there – we walked round the Terraces &amp; plantations which are very confined, but fine Views from there From hence we took a Hack Chaise being lighter than our own, and set our thro’ a beautiful Country but a very rough Road, till we reached the 
+                    <placeName ref="pl1776">Pont y pridd</placeName> - so much famed – built by
+                    <pb n="45v"/>
+                    <fw>f. 45v</fw>
+                    a <persName ref="pe1942">common Stone Mason</persName> – a Single Arch over the rapid <placeName ref="pl2700">River Taaffe</placeName> - The <placeName ref="pl1776">Bridge</placeName>
+                    is extremely Elegant in form, and a prodigious heigth , and the wooded &amp; hilly Banks on each Side shew it to great Advantage.<note type="editorial">For a late-1790s depiction of the bridge, by Turner, see <ref type="http" target="http://www.tate.org.uk/art/artworks/turner-the-bridge-at-pontypridd-d00843">the Tate</ref>.</note>
+                    Here we paused some little time and then proceeded to <placeName ref="pl1842">Caerphilly</placeName>, where we had ordered Horses to meet us – The <placeName ref="pl1843">Ruins</placeName>
+                    occupy a considerable Space, and the leaning Tower is a great Curiosity – the surrounding Country very rich with Wood, Corn Fields and distant Hills – we were seven Hours performing this Journey, and I was glad to find myself in a comfortable Inn at 
+                    <placeName ref="pl1844">Newport</placeName> towards Nine O’Clock when we dined and Slept. We did not start very early, intending to go no further than <placeName ref="pl1845">Usk</placeName>,
+                    <pb n="46r"/>
+                    <fw>f. 46r</fw>
+                    the whole drive to which place is lovely every requisite for Scenery except high Mountains – The Village of <placeName ref="pl1845">Usk</placeName> is sweetly situated and its 
+                    <placeName ref="pl2701">Castle</placeName>, <placeName ref="pl2702">Bridge</placeName> and <placeName ref="pl2703">Church</placeName><note type="editorial">For a contemporary depiction of Usk (by John Warwick Smith), including the bridge and castle, see <ref type="http" target="http://delwedd.llgc.org.uk/delweddau/gcf/gcf01774.jpg">Delwedd</ref></note>
+                    would furnish many an interesting View so that my disappointment was great on hearing that we could not be accommodated there being a Monthly Market Day help, and no Room disengaged – so we were obliged to step into our Chaise again, and go on to the <placeName ref="pl2706">New Passage Inn</placeName> - The Road extremely beautiful all the Way but very tedious, owing to neverending Hills called
+                    <placeName ref="pl1846">Penacamawr</placeName>, w<hi rend="superscript">ch</hi> I thought we never should have climbed up we were however amply rewarded at last with one of the very finest &amp; most extensive Prospects I have ever seen, and bounded by 
+                    <pb n="46v"/>
+                    <fw>f. 46v</fw>
+                    the <placeName ref="pl2705">Brecknockshire Mountains</placeName> and an immense Range of Hills all round us – the <placeName ref="pl2706">New Passage Inn</placeName> very pleasantly situated, exactly opposite the 
+                    <placeName ref="pl1302">Bristol</placeName> Channel and close to it with a pretty Garden down to the Shore, Ships and Boats passing &amp; repassing in all directions and the 
+                    <placeName ref="pl1300">Gloucestershire</placeName> &amp; <placeName ref="pl1387">Sommersetshire</placeName> Coast on the opposite side the Channel. Tuesday Aug<hi rend="superscript">st</hi>
+                    8<hi rend="superscript">th</hi> a very stormy Night, and I was not without some Alarm of how we were to get over, however the Wind in a great degree subsided and having sent out Chaise &amp; Servant over early in the Morning to bespeak us Horses to take us to 
+                    <placeName ref="pl1302">Bristol</placeName>, we embarked and a fresh Breeze soon brought us to the opposite Shore, It being the Ebb
+                    <pb n="47r"/>
+                    <fw>f. 47r</fw>
+                    Tide, we hoisted a Signal for our Chaise to be brought down to meet us, which however was not attended to All the Horses being engaged so we had to wade about half a Mile through Mud and Wet to the 
+                    <placeName ref="pl2706">Passage House</placeName> and then to wait between three &amp; four Hours for Horses, which at last arrived and we were conveyed without further trouble to the 
+                    <placeName ref="pl1847">York Hôtel Clifton</placeName> where we slept.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

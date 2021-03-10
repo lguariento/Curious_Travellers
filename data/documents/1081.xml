@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1081">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 72</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1788-09-25"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Sept<hi rend="superscript">r</hi> 25<hi rend="superscript">th</hi> - 88.</dateline></opener>
+                <p>Do not despair about the prints of <placeName ref="pl1202">spanish</placeName> illustrious: for I shall write to 
+                    <persName ref="pe0065">my son</persName> to get them at <placeName ref="pl1023">Paris</placeName> if done by any 
+                    <placeName ref="pl0925">french</placeName> artists.</p>
+                <p>I have <del><gap unit="letters" quantity="7" reason="illegible"/></del> scarcely <add place="above">any</add>
+                    sort of trouble to give except on y<hi rend="superscript">r</hi> own account. Please to return the sheets 
+                    you have of the <bibl type="authorial"><title ref="bi0025">arctic zoology</title></bibl> in order to have the additions 
+                    <del><gap unit="letters" quantity="1" reason="illegible"/></del> I discovered. If I must trouble you let it be to get 
+                    <bibl type="authorial"><title ref="bi0625"><persName ref="pe0902">Paterson</persName>'s acc<hi rend="superscript">t</hi> of the <placeName ref="pl1480">cape of Good Hope</placeName></title></bibl>
+                    &amp; add it to y<hi rend="superscript">r</hi> Parcel: Please to get it from <persName ref="pe0327">m<hi rend="superscript">r</hi> Robson</persName>.
+                    I am now sailing by
+                    <lb/><placeName ref="pl1481">Mombaza</placeName> &amp; <placeName ref="pl1482">Quiloa</placeName>, &amp; <placeName ref="pl1483">melind</placeName>
+                    <lb/>And <placeName ref="pl1484">Sofala</placeName>, thought <placeName ref="pl1485">ophir</placeName>.<note type="editorial">Pennant quotes from John Milton, <hi rend="italic">Paradise Lost</hi>, XI, lines 399–400.</note>
+                    <lb/>But trust we shall meet in the Port of <placeName ref="pl0699">London</placeName> in December.</p>
+                <closer>
+                    <salute>Adieu
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">Th. Pennant</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

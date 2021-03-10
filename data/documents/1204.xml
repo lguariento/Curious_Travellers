@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1204">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>61</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">Endorsement in Thomas Pennant's hand</hi>:</p>
+                        <p>answered oct<hi rend="superscript">r</hi> 2<hi rend="superscript">d</hi>.</p>
+                            </additions>
+                    </physDesc>
+                    <additional><p><hi rend="italic">Condition</hi>: some damage caused by tear at the seal</p></additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1797-08-16"/>
+                    <placeName ref="pl1013">North Court</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl1013">NorthCourt</placeName>. <placeName ref="pl1020">Isle of Wight</placeName>. August 16. 1797</dateline></opener>
+                <p>Any excuse which a man so much at leisure as I am can make, for not answering your first letter, will seem clumsy, and awkward, so I hasten to thank you for your second favor, with a true sense of your good humour for not chiding me. I must begin with 
+                    <persName ref="pe0331">my daughter</persName>'s most grateful acknowledgements for having her, and her malheurs, so much in your recollection. soon after we got here, a total <unclear>want</unclear>
+                    of appetite began, with a shocking depression of Spirits, which brought on a slow fever, for which she has been in a course of medicines, and the fever is removed, and I have the comfort to think her rather better than she has ever been since her irreparable loss, but the state of her mind is so weak, and her nerves so shatter’d, that I have a thousand anxieties, least she should go into a decline, and that I may be left a solitary wanderer in a world, where I shall have no farther business, or pleasure. as to my own health, I will only say 
+                    en abbregé,<note type="editorial">'in short'.</note> that after rallying from a severe indisposition last winter, in the 77<hi rend="superscript">th</hi> year of my reign, I am ready to think every body mortal, except myself.</p>
+                <p>
+                    with respect to <persName ref="pe0324">Ingleby</persName>, (for <persName ref="pe0014">Moses</persName> seems to have cut us all) I have to say that I meant to have had a few topographical drawings for the 
+                    <bibl type="authorial"><title ref="bi0689"><hi rend="underline">Whitford Parish</hi></title></bibl>, 
+                    but I fear it is out of the question now, if the letter press is return’d to <placeName ref="pl0699">London</placeName>,
+                    as your last mentions it to be, unless He will draw them on <hi rend="underline">thin</hi> paper, and  none larger than the 
+                    <hi rend="underline">bottom</hi> margin of the letter press will contain, on which I have a method of pasting <add place="above">them</add>
+                    peculiarly neat. This manner <persName ref="pe0014">Moses</persName> pointed out to me, in the days of his humility, and I have improv’d upon it. The subjects you perhaps, will have the goodness to chuse for me, remembering that they are design’d for the 
+                    <bibl type="authorial"><title ref="bi0034"><hi rend="underline">Whitford Parish, or Holywell</hi></title></bibl>, to which places they must refer to, in your history. 
+                    I would not have, in this batch, any portraits, or antiquities; what now I wish for, are Gentlemen’s houses, or picturesque views, and I must Stint him to ten Guineas, as I do not well know myself what I want, till I have examin’d my 
+                    <placeName ref="pl0699">London</placeName> papers, amongst which I have a list of many desiderata, taken from poor <persName ref="pe0379">Chiswell</persName>'s
+                    vast stores for <placeName ref="pl0731">Wales</placeName>. I am glad you have order’d the <rs type="art" ref="ar0346">Inside of Moystyn hall</rs> for me, which I have quite long’d for; it must look gloomy indeed now to you, who have been used to find there, the friend of your choice, your Amicus omnium horarum.<note type="editorial">'friend of all hours'. Bull refers to the absence of Roger Mostyn from Mostyn following his death on 26 July 1796.</note>
+                    I wish accident or design, may sometime or other bring you this way again, where we should be most happy to welcome you: The <placeName ref="pl1013">place</placeName>
+                    is quite different than when you saw it, and your taste would pronounce it truly comfortable, and a little more.</p>
+                <p>
+                    <persName ref="pe0397">Lord Malmesbury</persName> will hardly bring back the olive Branch, at least yet awhile. I hear, not <hi rend="underline">from</hi>
+                    him, but <hi rend="underline">of</hi> him, frequently; an intimate friend of mine, now at <placeName ref="pl1126">Park place</placeName> with
+                    <placeName ref="pe1795">Lady Malmesbury</placeName>, writes to me when expresses arive from <placeName ref="pl2583">Lisle</placeName>.
+                    He don’t write any material news to them, but in his last says he hopes to be at home by <sic>peach</sic> time, and complains of being watch’d and circumbscribed in a tiresome manner, and oblig’d to measure every word, and every step. – <placeName ref="pl0925">France</placeName>
+                    seems to be in a strange state, at this moment, but it exhibits a striking proof, of the mighty advantages of a Government proceeding from a whole people. nothing but military force can overturn it, and even military force at present, stands suspended, and awed before it. were it not that the council of 500 issues from 
+                    <hi rend="underline">all <placeName ref="pl0925">France</placeName></hi>, there would have been another bloody Revolution before this time. After all, men are incorrigible animals, incapable for any length of time of firmness, and Wisdom, even in the pursuits of happiness and rest. one thing is certain, that they ca<unclear>nnot</unclear>
+                    give us peace just now, nor could <placeName ref="pl0775">England</placeName> accept it, if they offer’d it; because an Army might cut it to pieces the next week after, agreed upon. In the mean time 
+                    <persName ref="pe0397">Lord Malmesbury</persName> will have the merit of doing better than others, what no man, I am afraid, can do well.</p>
+                <p>
+                    our best regards, and sincerest good wishes to all of the House of Pennant. -
+                    Death has been very busy of late, amongst your friends and mine; may the few years we have to pass here be better omen’d, – Faustæ sint et felices.<note type="editorial">'may they be auspicious and happy'.</note></p>
+                <closer>
+                    <salute>I am Dear Sir, with great regard,
+                        <lb/>yours very truly</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark"><gap unit="letters" quantity="1" reason="illegible"/> AU 17 <gap unit="letters" quantity="1" reason="illegible"/>7</stamp>
+                    <stamp><placeName ref="pl1020">ISLE OF WIGHT</placeName></stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant</persName> Esq<hi rend="superscript">re</hi>. | <placeName ref="pl0001">Downing</placeName>, <hi rend="underline"><placeName ref="pl0702">Flintshire</placeName></hi>| <hi rend="underline">By <placeName ref="pl0699">London</placeName></hi> <placeName ref="pl1221"><hi rend="underline">North-Wales</hi></placeName>.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

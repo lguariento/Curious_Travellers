@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1069">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 62</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Along top of first page, in Richard Bull's hand</hi>:</p>
+                            <p><persName ref="pe0268">S<hi rend="superscript">r</hi>. A. Lever</persName></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1788-01-10"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>As you &amp; I have not much time to lose, I trouble you with a<del><gap unit="letters" quantity="1" reason="illegible"/></del>n 
+                    immediate Letter of thanks. The <del>d<gap unit="letters" quantity="6" reason="illegible"/></del>note is received &amp; is a 
+                    full discharge. As to <persName ref="pe0014">moses</persName> I <sic>toke</sic> care to settle affairs with him some time ago. He is now 
+                    out of work for want of the sheets of the arctic Zoology.<note type="editorial">This may be a reference to the preparations for a new edition of <hi rend="italic">Arctic zoology</hi>, 
+                        featuring the <bibl type="authorial"><title ref="bi0690">'Introduction'</title></bibl>. See further n. 2, below. </note> 
+                    As you know best how to prepare them for receiving marginal drawings, Be so good as to get as many sheets as are printed, 
+                    &amp; procure them to be pressed in the manner you treat y<hi rend="superscript">r</hi> books &amp; let them be 
+                    <hi rend="underline">instantly</hi> sent by the <placeName ref="pl0002">Chester</placeName> coach with such parcels that 
+                    <persName ref="pe0111">M<hi rend="superscript">r</hi>Hughs</persName> has for me.</p>
+                <p>As I propose much pleasure from this work, age pressing on, I put the Introduction
+                    into the press, that I may enjoy the beautiful illuminations ready for it.<note type="editorial">Pennant may here be signalling the preparation of 
+                        a new edition of the introductory essay, <bibl type="authorial"><title ref="bi0025">'Introduction of the Arctic World'</title></bibl>, under 
+                        the title <bibl type="authorial"><title ref="bi0690">'Introduction to the Arctic zoology'</title></bibl>. This eventually became 
+                    the first volume of the second edition of the work, which was published in 1792.</note> Possibly I never may live to see the 
+                    <bibl type="authorial"><title ref="bi0023">Zoological part</title></bibl> printed. I therefore recommend you to buy a
+                    L. P. copy. you may burn the <del>old <gap unit="letters" quantity="7" reason="illegible"/></del> Introduction belonging to it, 
+                    &amp; put the Quadrupeds, the Land Birds, &amp; the water fowl into three vols. in boards.<note type="editorial">Pennant appears to be advising Bull 
+                        to purchase a copy of the first edition of <hi rend="italic">Arctic zoology</hi> (1784–5) to use alongside a new version 
+                        of the 'Introduction of the Arctic World' (1784) in the absence of a second edition of the entire work, which did not appear until 1792.</note> I can give you many additional 
+                    p<del><gap unit="letters" quantity="1" reason="illegible"/></del>rints even for those. Do you chuse any views on separate leaves 
+                    that are too big for the margins for I have some very fine. apropos buy <bibl type="authorial"><title ref="bi0622"><persName ref="pe0858">Phips</persName> voy. to Spitzbergen</title></bibl>
+                    in <hi rend="underline">sheets</hi> as I have. the prints are good &amp; to our purpose. also <bibl type="authorial"><title ref="bi0623"><persName ref="pe0859">Fred. Martens</persName> voy to Spitzbergen</title></bibl>.</p>
+                <p>yr drawing shall be done as you desire. &amp; I shall get one done for myself.<note type="editorial">This drawing has not been identified.</note>
+                    <persName ref="pe0014">moses</persName> is only to work for you &amp; me till th<del>is</del>e 
+                    opus magnum is finished.<note type="authorial">Although Pennant generally reserved the term 'magnum opus' for his 
+                        <bibl type="authorial"><title ref="bi0475">'Outlines of the Globe'</title></bibl> he may here be referring to work on the 
+                        <bibl type="authorial"><title ref="bi0025">'Introduction of the Arctic World'</title></bibl>, which he developed 
+                        into <bibl type="authorial"><title ref="bi0690">'Introduction to the Arctic zoology'</title></bibl>, and in which he involved Bull, 
+                        according to the evidence of this letter. His own copy of the 'Introduction' eventually formed a part of the 'Outlines'.</note></p>
+                <p><persName ref="pe0065">my son</persName> wrote last from <placeName ref="pl1424">Perpignan</placeName> enraptured
+                    with the fine line of the <placeName ref="pl1423">Pyrenees</placeName> before him which he is on the point of passing: 
+                    &amp; is I hope now safe at <placeName ref="pl1425">Barcelona</placeName>. He will be at <placeName ref="pl1426">Madrid</placeName>
+                    by June 1. what must I bid him get there for you or me.</p>
+                <p>I wish I could make <persName ref="pe0331 pe0336">your daughters</persName> &amp; all the the daughters of the Land 
+                    comb their heads &amp; keep out of the putrid air of an assembly room, &amp; ill health would soon vanish. But combed or uncombed I 
+                    wish you &amp; all y<hi rend="superscript">r</hi> lineage well.</p>
+                <p>at y<hi rend="superscript">r</hi> leisure be so good as to add to the list of <persName ref="pe0431">Thane</persName>'s publications &amp; return it.</p>
+                <p>Let me not conclude without enquiring after <persName ref="pe0332">M<hi rend="superscript">r</hi> Storer</persName> &amp; 
+                    begging my best wishes may be conveyed to him</p>
+                <closer>
+                    <salute>Yrs most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Jan 10<hi rend="superscript">th</hi>
+                    <lb/>178<del>7</del>8.</dateline>
+                </closer>
+                <postscript>
+                    <p>when you pass by <placeName ref="pl1427">Turnstile</placeName> you will be so good as to call on <persName ref="pe0111">M<hi rend="superscript">r</hi> Hughs</persName>
+                        who will settle the time of sending the sheets.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1417">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to William Owen [Pughe], 2 August 1790</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>NLW</repository>
+                        <idno>13222C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>p. 239</locus></ab>
+                    </msContents>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1790-08-02"/>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe2111">William Owen [Pughe]</persName>
+                    
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1418"/>
+                    <ref type="prev" target="ct1423"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute><persName ref="pe2111">M<hi rend="superscript">r</hi> Owens</persName></salute></opener>
+                
+                <p>Inclosed is an acc<hi rend="superscript">t</hi> of some subscribers transmitted to me,<note type="editorial">This refers 
+                    to subscribers' names for William Owen [Pughe], <hi rend="italic">A Welsh and English dictionary</hi> (2 vols, London: 
+                    E. and T. Williams, 1793–1803), and may be identified with a list of 'Subscribers to W. Owens Welsh + English Dictionary' 
+                    preserved in the same manuscript and included here as <ref target="1418.xml">1418</ref>.</note> I will take care of those 
+                    I get. Success attend you. I am
+                </p>
+                
+                <closer><salute>y<hi rend="superscript">r</hi> friend
+                </salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline>Aug. 2<hi rend="superscript">d</hi> 1790.</dateline></closer>
+            </div>
+            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1124">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 90</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1791-02-24"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline><placeName ref="pl0001">Downing</placeName> Febr. 24<hi rend="superscript">th</hi> - 1791.<note type="editorial">The year, 1791, may have been added later by Richard Bull.</note></dateline></opener>
+                <p>I really agree with you in the propriety of sending down the <bibl type="authorial"><title ref="bi0269">M.S.</title></bibl> 
+                    <persName ref="pe0014">Moses</persName> can do the drawings much better on the margin than on loose papers. He shall alter the obscurity about the 
+                    Earls of Northampton &amp; Arundel<note type="editorial">For this issue relating to <persName ref="pe1241">Henry Howard</persName>, earl of Northampton, and <persName ref="pe1242">Thomas Howard</persName>, earl of Arundel, see <ref target="1123.xml">1123</ref>, n. 1.</note> in a neat manner.
+                    I can give you <rs type="art" ref="ar0229">prints of some english birds</rs> which you may <del><gap unit="letters" quantity="4" reason="illegible"/></del>
+                paste as you please.</p>
+                <p>I am very much obliged to you for the accounts of the <placeName ref="pl1582">fo<del><gap unit="letters" quantity="2" reason="illegible"/></del>rests</placeName>:
+                    but I still stick at <placeName ref="pl1989">Emsworth</placeName> for want of this new map of <placeName ref="pl1471">Hampshire</placeName>.<note type="editorial">The map awaited by Pennant was to be produced by <persName ref="pe0389">William Faden</persName>. See <ref target="1099.xml">1099</ref>.</note></p>
+                <p>I thank you for the very curious bill of fare given by my catch penny pirate of <placeName ref="pl0699">London</placeName>.<note type="editorial">This enclosure has not survived with the manuscript letter.</note> it really diverts me much.</p>
+                <p>You &amp; I shall probable interfere in du<del><gap unit="letters" quantity="2" reason="illegible"/></del>tch
+                    Adm. &amp; captains mentioned or to be mentioned by me in the bloody fights of last century. I therefore ask for none of them: 
+                    but I shall thank you much for <rs type="art" ref="ar0226">Heemskirk</rs> who fell before Gibraltar in 1607.</p>
+                <p>Let me trouble you to send in y<hi rend="superscript">r</hi> parcel two dozen of the best black lead pencils, not very slenders ones. 
+                    This you will say prognosticates a <placeName ref="pl0731">welsh</placeName> residence during this season: 
+                    which it certainly does. I shall make it up next year by doubling my time.</p>
+                <p>I have as much as is printed of the Zoological <add place="above">part of the arctic</add> Zoology<note type="editorial">This probably refers to the early stages of printing the second edition of <bibl type="authorial"><title ref="bi0023"/>Arctic zoology</bibl>.</note>
+                    for you &amp; for myself. <persName ref="pe0014">Moses</persName> shall begin on<del><gap unit="letters" quantity="1" reason="illegible"/></del>
+                    them as soon as he has finished <persName ref="pe0332">M<hi rend="superscript">r</hi> Storer</persName>'s orders which will be very soon.</p>
+                <p>Inclosed are some more of the <persName ref="pe0009">Edinburgh barber</persName>'s work.
+                    the <rs type="art" ref="ar0227">Tragedy Hero &amp; heroine</rs> are not amiss. If I send duplicates Pray present them to 
+                    <persName ref="pe0332">M<hi rend="superscript">r</hi> storer</persName>.</p>
+                <closer>
+                    <salute>Adieu
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T. Pennant</persName>.</signed>
+                </closer>
+                <postscript>
+                    <p>my complim<hi rend="superscript">ts</hi> attend <del><gap unit="letters" quantity="1" reason="illegible"/></del> <persName ref="pe0422">General Rainsford</persName>.</p>
+                    <p>Whatever you favor me with may come with y<hi rend="superscript">r</hi> M.S. by the coach at the <placeName ref="pl1990">Golden cross Charing cross</placeName>.
+                        directed to be left at the office <placeName ref="pl0002">Chester</placeName>. They will come <del><gap unit="letters" quantity="4" reason="illegible"/></del>safer than by <persName ref="pe0143">mazel</persName>.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

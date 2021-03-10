@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0181">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on the pressures of the work at hand</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>117</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-03-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0182"/>
+                    <ref type="prev" target="ct0180"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline>March 7<hi rend="superscript">th</hi> 1775</dateline>
+                <salute>Dear Sir</salute></opener>
+                <p>I fear I sent my last away without subscribing but if you knew the weight on me
+                    in producing a full &amp; true account of y<hi rend="superscript">r</hi> country
+                    you wd not blame. nor w<hi rend="superscript">d</hi>
+                    <persName ref="pe0157">M<hi rend="superscript">r</hi> Macgovan</persName> refuse me a
+                    drawing of <rs ref="ar0065">his image</rs>. Thanks for y<hi rend="superscript">r</hi>
+                    Letters &amp; acc<hi rend="superscript">ts</hi> of the hospitals. if <bibl type="authorial"><title ref="bi0141">Ballendine</title></bibl> is very imperfect I
+                    had rather wait till another casts up being a little finical about my books.</p>
+                <closer><salute>I am <lb/>Dear Sir <lb/>y<hi rend="superscript">r</hi> obliged
+                        humble Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed></closer>
+                <postscript>
+                    <p>y<hi rend="superscript">r</hi> other pacquets ab<hi rend="superscript">t</hi>
+                        nation’s hospitals are just come.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

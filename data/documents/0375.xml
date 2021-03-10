@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0375">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>218-219</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>A year of 1773 has been assigned to this letter on the basis of its
+                            content and relationship to dated correspondence.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1773-02-02"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0127"/>
+                    <ref type="prev" target="ct0126"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> Feb. 2<hi rend="superscript">d.</hi></dateline>
+                <salute>Dear Sir</salute></opener>
+
+                <p>many thanks for y<hi rend="superscript">r</hi> kind Letter &amp;c give yrself no
+                    trouble about the <bibl type="authorial"><title ref="bi0051">Ph.
+                        Tr.</title></bibl>
+                    <rs ref="ar0048">plate</rs> for that shall be my care. copies of the <rs ref="ar0047">plates</rs> in <bibl type="authorial"><title ref="bi0050">Sib.
+                            Phalain</title></bibl> is all I want: the Book I find I can borrow in
+                        <placeName ref="pl0699">London</placeName>. where I shall be in less than a
+                    month. parcels may be sent to <persName ref="pe0026">M<hi rend="superscript">r</hi> White’s Bookseller</persName>
+                    <placeName ref="pl1012">Fleetstreet</placeName>. Letters inclosed to <persName ref="pe0015">Sir R. Mostyn M.P.</persName>
+                    <placeName ref="pl0734">Bruton Street</placeName>.</p>
+                <p>you make me very happy by the account you transcribed from <persName ref="pe0116">Jo. Frazer</persName>. was he Dean of the isles, or son to him. pray what
+                    date. the Indexes will be most welcome.<note type="editorial">See Pennant, <bibl type="editorial"><title ref="bi0008"><hi rend="italic">Tour in Scotland
+                                    and Voyage to the Hebrides 1772</hi></title> (Chester: 1774),
+                                <biblScope unit="page">p.285</biblScope></bibl>: 'Mr. <hi rend="italic">Frazier</hi>, son to the DEAN of the isles, informed Mr.
+                            <hi rend="italic">Sacheverel</hi> governor of the isle of <hi rend="italic">Man</hi>, who visited <hi rend="italic">Iona</hi> in 1688,
+                        that his father had collected there three hundred inscriptions, and
+                        presented them to the Earl of <hi rend="italic">Argyle</hi>; which were
+                        afterwards lost in the troubles of the family.'</note></p>
+                <p>If I write little at a time attribute it to the too great affairs I have on hand:
+                    but believe me</p>
+                <closer><salute>with much esteem y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">T P.</persName></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

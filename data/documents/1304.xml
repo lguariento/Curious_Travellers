@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1304">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Treadway Russell Nash to Thomas Pennant, n.d.</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>15423C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent"><persName ref="pe0416">Treadway Russell Nash</persName>
+                    <date/>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                    <date/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1305"/>
+                    <ref type="prev" target="ct1303"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear S<hi rend="superscript">r</hi></salute></opener>
+                
+                <p>I received the favor of your letter which tho it gave me information concerning <persName ref="pe0495">Owen Glendower</persName>,
+                    was deficient in one thing, did not give me intelligence of your Marriage:<note type="editorial">This probably refers to Pennant's 
+                        second marriage, that to Ann Mostyn in January 1777.</note>  I hope before you receive this, you will be happy in securing 
+                    an amiable Companion for life, &amp; indeed I most sincerely wish you all imaginable happiness: [<del>...</del>] 
+                    <persName ref="pe0729">M<hi rend="superscript">rs</hi> Nash</persName> &amp; myself often talk with great pleasure of paying 
+                    you &amp; <persName ref="pe0238">M<hi rend="superscript">rs</hi>. Pennant</persName> a visit next Summer, for I conclude Matrimony 
+                    will make you cease to be a traveller, tho' it may improve your taste for natural History.</p>
+                
+                <p>Yesterday your Chairs were bespoke &amp; will be sent to the bookseller at <placeName ref="pl0002">Chester</placeName> by the first 
+                    good Hop Waggon &amp; A letter of Advice to him.</p>
+                
+                <p>I have compared your Quotation from <bibl type="authorial"><title ref="bi0598">Monstrelet</title></bibl> with my remembrance of 
+                    the Spot where I suppose the Event <sic>hapned</sic> for at present I speak only by Memory.<note type="editorial">Nash goes on to discuss an event described by the chronicler Enguerrand de Monstrelet relating to the arrival 
+                        of Owain Glyndwr's army, allied with French forces who had landed at Milford Haven in August 1405, at Woodbury Hill, near Worcester. 
+                        Here they reputedly stood for eight days, facing Henry IV's army across the valley, before both armies rescinded, choosing not to 
+                        venture engagement in battle. See Davies, <hi rend="italic">The Revolt of Owain Glyn Dŵr</hi>,  
+                        pp. 193–4.</note>– Perhaps then 
+                    <persName ref="pe0495">Glendower</persName> [<del>...</del>]with the French lay in the Camp above 
+                    <persName ref="pe0731">L<hi rend="superscript">d</hi>. Foleys</persName> <placeName ref="pl1287">house</placeName> 
+                    <persName ref="pe0667">Henry 4</persName> had two Camps to the N. E. of him: One at a place called 
+                    <placeName ref="pl1282">Wassal Hill</placeName>, the other upon <placeName ref="pl1283">Kinver Edge</placeName>, 
+                    very little out of the road from <placeName ref="pl0002">Chester</placeName> to <placeName ref="pl0806">Worcester</placeName>: 
+                    This last is not in <placeName ref="pl1284">Worcestershire</placeName>, the other two Camps are, one in the parish of 
+                    <placeName ref="pl1285">Kidderminster</placeName>, the other in <placeName ref="pl1286">great Whitley</placeName>, that upon 
+                    <placeName ref="pl1288">Wobury Hill</placeName> I have had measured &amp; planned, but it is not at home. I will take the first 
+                    opportunity of reading <bibl type="authorial"><title ref="bi0598">Monstrelet</title></bibl> &amp; 
+                    <bibl type="authorial"><title ref="bi0599">Hall</title></bibl>, when I shall be better able to judge. From whence did 
+                    <persName ref="pe0667">Henry</persName> come?<note type="editorial">Henry IV had been assembling an army in Nottingham, in 
+                        response to a revolt by the earl of Northumberland, the earl marshal, Thomas Mowbray, Lord Bardolf, and Archbishop Richard Scrope 
+                        in northern England. By mid-August 1405, he had returned from the north via Leicester and Hereford, to resume a campaign in 
+                        Wales. <hi rend="italic">ODNB</hi> s.n. Henry IV [known as Henry Bolingbroke].</note> Would he encamp to the N. E. of <persName ref="pe0495">Glendower</persName> to prevent 
+                    his marching to <placeName ref="pl1367">Staffordshire</placeName> or <placeName ref="pl1021">Shropshire</placeName>.? I forget, 
+                    (for I write without any books) where the French landed &amp; which way they marched after they joined 
+                    <persName ref="pe0495">Glendower</persName> in order to come to <placeName ref="pl0806">Worcester</placeName>.<note type="editorial">According to Monstrelet, the French landed at Haverford[west], but 
+                    commentators prefer to follow the chronicle of the monk of Saint-Denys, in naming Milford Haven as the landing point. These two accounts differ on the question of the progress of the French from the coast, only Monstrelet suggesting that they arrived, via Pembrokeshire, Carmarthen, and a location in Glamorgan (probably 
+                    Caerleon) to 'Vincestre', assumed to be Worcester. See Brough, <hi rend="italic">The Rise and Fall of Owain Glyn Dŵr</hi>, pp. 126, 134, 136–7.</note> 
+                    <placeName ref="pl1288">Wobury Hill</placeName> (<persName ref="pe0495">Glendowers</persName> Camp) is about 9 miles or 3 French leagues 
+                    from <placeName ref="pl0806">Worcester</placeName>; The distance between the Camps may be eight or ten miles: I should suppose by 
+                    the name &amp; other Circumstances, that <placeName ref="pl1288">Wobury</placeName> had been an old Encampment, &amp; that 
+                    <persName ref="pe0495">Glendower</persName> found the Ditch &amp;c ready made: <placeName ref="pl0731">Wales</placeName> lyes open to this 
+                    Camp, &amp; indeed as he had enrag'd the Inhabitants of <placeName ref="pl0806">Worcester</placeName>,<note type="editorial">Monstrelet notes 
+                        of the combined Welsh and French forces at Worcester: 'They burned the suburbs and the surrounding country'. Brough, <hi rend="italic">The Rise and Fall of Owain Glyn Dŵr</hi>, pp. 134, 137.</note> who lay to the S. of him &amp;
+                    the <persName ref="pe0667">King</persName> to the N &amp; E no other point was open but the West, &amp; a[<unclear>c</unclear>]cordingly 
+                    he retired to <placeName ref="pl0731">Wales</placeName>: Observe the <placeName ref="pl1226">Severn</placeName> lay <unclear>to the</unclear> 
+                    East of him &amp; ran between the two Camps. which circumstance might help the Rebel to escape.<note type="editorial">Further on Nash's deliberations on the 
+                        camps at Woodbury Hill and Wassal and his reference to visiting the former alongside Pennant, see Treadway Russell Nash, 
+                        <hi rend="italic">Collections for the History of Worcestershire</hi> (2 vols., London: John Nichols, 1781–2), II, pp. 465–6.
+                        Pennant, who also refers to his visit to 
+                    Woodbury Hill alongside Nash, makes use of this material in <hi rend="italic">A tour in Wales</hi> (2nd edn., 1784), pp. 375–6.</note></p>
+                <p>Very soon after you went I found the <bibl type="authorial"><title ref="bi0600">Breviary of Britain</title></bibl> upon a Shelf 
+                    where I almost suspect you put it yourself: If you have any use for it, it is much at your Service when &amp; as long as you 
+                    please. – Come &amp; fetch it </p>
+                <p><persName ref="pe0729">M<hi rend="superscript">rs</hi>. Nash</persName> &amp; my <persName ref="pe0730">Daughter</persName> desire their 
+                    Compl<hi rend="superscript">s</hi>. to <persName ref="pe0238">M<hi rend="superscript">rs</hi>. Pennant</persName> &amp; yourself: You say 
+                    I have little to do, that I write all this nonsense, &amp; thank God my paper is not bigger.</p>
+                
+                <closer><salute>Yours most <sic>sincrely</sic></salute>
+                    <signed><persName ref="pe0416">T. Nash</persName></signed>
+                   
+                    <dateline/></closer>
+                
+            </div>
+            <div>
+                <p>
+                    <stamp type="handstamp"><placeName ref="pl0806">WORCESTER</placeName></stamp>
+                </p>
+                <p><address><persName ref="pe0232">M<hi rend="superscript">r</hi> Pennant</persName></address>
+                    <address><addrLine><persName ref="pe0232">Thomas Pennant Esq<hi rend="superscript">r</hi>.</persName><lb/> 
+                        <placeName ref="pl0001">Downing</placeName><lb/> near <lb/><placeName ref="pl1289">Flint</placeName></addrLine></address>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

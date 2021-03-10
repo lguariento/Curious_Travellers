@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1096">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 81</locus></ab>
+                    </msContents>
+                    <physDesc><p><hi rend="italic">Condition</hi>: some damage to paper due to ripping off of seal</p></physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1790-01-09"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>It is astonishing that <persName ref="pe0014">Moses</persName> had so bad an opinion of his attempt to draw the 
+                    <rs type="art" ref="ar0041">head of M<hi rend="superscript">r</hi> Pitt</rs>, that he would not charge it to you. 
+                    &amp; yet it has turned out a most fortuitous likeness. It was copied from <persName ref="pe0424">Sherwins</persName>'
+                    print: how far that puppy will like the <del>copying</del> <add place="above">engraving it,</add> I know not: but I
+                    wish you could execute y<hi rend="superscript">r</hi> design.</p>
+                <p>old <persName ref="pe0980">Colonel Lutterel</persName> Grandfather to the present <persName ref="pe0981">L<hi rend="superscript">d</hi> ------</persName> <add place="above">Irnham<note type="editorial">Inserted on blank line in Richard Bull's hand.</note></add>
+                    married a <persName ref="pe0982">Jones of Halkin</persName> who had been his servant. from them sprang <persName ref="pe0983">miss Lutterel, afterwards widow Horton, now Dutchess of Cumberland</persName>.
+                    I sh<hi rend="superscript">d</hi> have said first, from her was likewise descended <persName ref="pe0981">Lord Irnham since Earl of ----- <add place="above">Carhampton<note type="editorial">Inserted on blank line in Richard Bull's hand.</note></add></persName>
+                    I do not know where. Hence the Ducal &amp; <hi rend="underline">Baronial</hi> (now <del><gap unit="letters" quantity="5" reason="illegible"/></del>
+                    Earl's) coronets are pendent to <rs type="art" ref="ar0156">the arms</rs>. The Jones’s are of a good <placeName ref="pl0731">welsh</placeName> stock. their estate 
+                    &amp; seat bought by L<hi rend="superscript">d</hi> Grosvenour’s 
+                    father.<note type="editorial">Lord Grosvenor at this time would have been Richard Grosvenor, first Earl Grosvenor (1731–1802), 
+                        politician and landowner. His father was Sir Robert Grosvenor, sixth baronet (1695–1755), of Eaton Hall, near Chester, MP 
+                        for Chester 1733–1755. <hi rend="italic">Hist P</hi>; <hi rend="italic">ODNB</hi>. No evidence has been found to corroborate 
+                        Pennant’s claims about this family's purchase of the Jones estate and seat.</note></p>
+                <p>You are alway striving to oblige me. thanks for the offer of the <rs type="art" ref="ar0158">four apostles</rs> -
+                    <del><gap unit="letters" quantity="5" reason="illegible"/></del> Evangelical which I accept tho’ they are almost out of fashion.</p>
+                <p><persName ref="pe0985">Henry V</persName>. pawned his crown to carry on a glorious war with <placeName ref="pl0925">France</placeName>.
+                    our <persName ref="pe0393">boasted <del>yout</del> youth</persName>, to support a party rebellious to his <persName ref="pe0465">father</persName>;
+                    &amp; to squander on horses, wh–<hi rend="superscript">s</hi> &amp; profligates. I will believe anything of his friend the 
+                    <persName ref="pe0418">duc d’orleans</persName>.</p>
+                <p><persName ref="pe0387">Edwards</persName> has wrote me an exculpatory Epistle. He offers me the <bibl type="authorial"><title ref="bi0290"><persName ref="pe0436">Worsley</persName>'s Wight</title></bibl>
+                    in green russia L. P. but a lesser one will do. since I wrote last I have reached <placeName ref="pl1638">Rye</placeName>:
+                    &amp; my want increase. could you possibly get for me the published copies of <bibl type="authorial"><title ref="bi0062"><persName ref="pe0846">Yeakel</persName> &amp; <persName ref="pe0847">Gardners</persName> <del><gap unit="letters" quantity="1" reason="illegible"/></del> maps of <placeName ref="pl0922">Sussex</placeName></title></bibl>
+                    I saw them often pasted on the walls of inns in that county. but c<hi rend="superscript">d</hi> not procure them. If a small p. copy of 
+                    <bibl type="authorial"><title ref="bi0290">wight</title></bibl> falls in y<hi rend="superscript">r</hi> 
+                    way Be so good as to get it. I need not remind you of answers about the french heads<note type="editorial">See <ref target="1094.xml">1094</ref>.</note></p>
+                <p>I sympathyze with you in respect to <persName ref="pe0336">miss Bull the younger</persName>. my poor <persName ref="pe0421">little boy</persName> instead of a chearful Holydays has been confined to his bed with the rheumatism: but thank 
+                    Heav<add place="above">n</add> has been free from pain these two days.</p>
+                <p>I hope we may soon have opportunity to <supplied>cong</supplied>ratulate each other on their perfect <gap unit="words" quantity="1" reason="illegible"/></p>
+                <closer>
+                    <salute>adieu Dear Sir
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">Th. Pennant</persName>.</signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> January 9<hi rend="superscript">th</hi> - 90.</dateline>
+                </closer>
+            </div>
+            <div>
+                <p><stamp type="postmark">JA 11 90</stamp></p>
+                <p><stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> esq<hi rend="superscript">r</hi> | <placeName ref="pl0759">stratton street Picadilly | London</placeName>.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

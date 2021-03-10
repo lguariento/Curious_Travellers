@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1161">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 101</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1793-01-03"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>This comes attended with every good wish of <hi rend="underline">this</hi> week; &amp; the conclusion of our politics. the 
+                    welsh unanimity is amazing<note type="editorial">Pennant displays characteristic pride in the loyalty of the Welsh to king and constitution as the repercussions of the French Revolution began to be felt in his area. For his involvement in the efforts to set up 'an association for the defence of our religion, constitution, and property', see <hi rend="italic">Literary life</hi>, p. 135; and Evans, 'The Flintshire Loyalist Association'.</note>
+                    except in one neighborhood infested by a great forge master <persName ref="pe1038">Bro’ in law to Priestly</persName> who
+                    with true tyranny forced the assignats on his poor men, &amp; with true insolence told the tradesmen of the great town next 
+                    to him, that if they refused to take them, he w<hi rend="superscript">d</hi> break them by setting out correspondent shops.</p>
+                <closer>
+                    <salute>The post calls &amp; so must conclude
+                    <lb/>y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Jan. 3<hi rend="superscript">d</hi>. -92<note type="editorial">The year is added in Richard Bull's hand.</note> but Q<note type="editorial">The words 'but Q' are added in pencil.</note></dateline>
+                </closer></div>
+            <div>
+                <p>
+                    <stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp>
+                    <stamp type="frank">FREE P JA 5 93; <placeName ref="pl1251">Holywell</placeName> third Jan<hi rend="superscript">y</hi> 1793; per <persName ref="pe0015">R Mostyn</persName><note type="editorial">The place name, date and reference to Roger Mostyn are all in ink.</note></stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Rich<hi rend="superscript">d</hi> Bull</persName> Esq<hi rend="superscript">r</hi> | <placeName ref="pl0759">Stratton Street</placeName> | <placeName ref="pl0699">London</placeName><note type="editorial">The address is not in Pennant's hand. </note> </addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0537">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>George Paton to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP326</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>7-7/2</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0228">George Paton</persName>
+                    <date when="1779-07-12"/>
+                    <placeName ref="pl0696">Custom House Edinburgh</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0539"/>
+                    <ref type="prev" target="ct0270"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Please accept of the following Account given me of <persName ref="pe2010">Creely
+                        Duff</persName> Father of <persName ref="pe2011">Alexander of
+                        Keithmore</persName> who married <persName ref="pe2012">the Daugher of Grant
+                        of Alachie</persName>: there are two Traditions respecting the cause of his
+                    being known by this name. one. That he drove Eggs in a Creel to Market &amp; by
+                    this with other little merchandize: added to extreme avarice &amp; penury he
+                    amassed a little Money: this story however was probably made to balance the
+                    Duffs tales of their descent from <persName ref="pe1363">MacDuff Thane of
+                        Fife</persName>. ––––– The second tradition <unclear reason="illegible">&amp;</unclear> the most probable is, — that he was a substantial Farmer
+                    uncommonly attentive, dealt much in the Commerce of the Country <gap reason="illegible" unit="letters" atLeast="2" atMost="3"/>mes where he lived
+                        viz<hi rend="superscript">t.</hi> in Corn &amp; Cattle by which he gained
+                    some money: but the exact sum now unknown. He was called <persName ref="pe2010"><hi rend="underline">Creely Duff</hi></persName> from the shape of his
+                    shoulders, being near to <hi rend="underline">Hump backed</hi>, which it was
+                    said his shoulders were made for carrying <hi rend="underline">Creels</hi> or
+                        <hi rend="underline">Packs</hi>. — no further particulars can I procure at
+                    the time if in future any further should occurr these will be immediately
+                    communicated.</p>
+                <p>From the very just observation made in yours of 2<hi rend="superscript">d.</hi>
+                    Current it will be more advantagious to delay the sale of the <bibl type="authorial"><title ref="bi0058">M<hi rend="superscript">r</hi> Low's
+                            Book</title></bibl> for some time till the general attention of the
+                    Nation be again refixed on literary inquiries, at present the prevailing call
+                    for the safety &amp; sustinence of the public absorbs every other consideration,
+                    these we feel here thro' the whole Country just now that it will be requisite to
+                    omit any thought of publication for several months.</p>
+                <p>I received the three plates, which were chafft in the conveyance
+                        <sic>destroys</sic> much their beauty, but are exceeding pretty, the Workmen
+                    in your nighbourhood are greatly improved in the Art of engraving these shall
+                    not be shown till the others arrive from <placeName ref="pl0699">London</placeName>, <bibl type="authorial"><title ref="bi0250">M<hi rend="superscript">r.</hi> Cordiner's Book</title></bibl> will be an
+                    elegant work.</p>
+                <p>I have not heard from <persName ref="pe0156">M<hi rend="superscript">r.</hi>
+                        Low</persName> of late, when he makes me an Answer you shall now it's
+                    contents, as it will regard the resolution about the dedication, this shall be
+                    all settled before the work is diposed of or sent to the Press.</p>
+                <p>Before this time <persName ref="pe0104">M<hi rend="superscript">r.</hi>
+                        Gough</persName> will be possessed of the <bibl type="authorial"><title ref="bi0058">M.S.</title></bibl> and <persName ref="pe2013">M<hi rend="superscript">r.</hi> Clerk's</persName> etchings both are addrest
+                    to you, he did write me that he would take care of the parcel &amp; the Box for
+                        <placeName ref="pl0723">Liverpool</placeName> of the latter I have you to
+                    inform the Lady to <gap reason="illegible" unit="words" quantity="1"/> forward
+                    it from <placeName ref="pl0699">London</placeName>. — <persName ref="pe2013">M<hi rend="superscript">r.</hi> Clerk's</persName> Etchings will come
+                    in proper time to <persName ref="pe0104">M<hi rend="superscript">r.</hi>
+                        Gough</persName> just now as his Second enlarged Edition of the <bibl type="authorial"><title ref="bi0336"><hi rend="underline">Brit.
+                                Topography</hi></title></bibl> is advancing very quickly.</p>
+                <closer><salute>I am <lb/>Dear Sir <lb/>Your most obed<hi rend="superscript">t.</hi>
+                            Serv<hi rend="superscript">t.</hi></salute>
+                    <signed><persName ref="pe0228">GPaton</persName></signed>
+                    <dateline><placeName ref="pl0696">Custom h<hi rend="superscript">o.</hi></placeName>
+                        <placeName ref="pl0076">Edinburgh</placeName>
+                        <lb/>12 July 1779</dateline></closer>
+            </div>
+            <div type="enclosed">
+                <p>I. Creely Duff</p>
+                <p>II. Alex<hi rend="superscript">r.</hi> Duff. Tacksman of Keithmore in the parish
+                    of Mortlich &amp; County of Banff — married Helen d. of Grant of Allachie, by
+                    which <gap reason="illegible" unit="words" atLeast="1" atMost="3"/> had 3 Sons —
+                    Alex. of Bracco, M<gap reason="illegible" unit="words" atLeast="1" atMost="3"/>pple <hi rend="subscript">x</hi><note type="authorial">x. William of Dipple
+                        his uncle, who <choice>
+                            <abbr>m<hi rend="superscript">d.</hi></abbr>
+                            <expan>married</expan>
+                        </choice> — d. of Sir Geo. Gordon of Edinglassie Knt, &amp; Leas</note>
+                    &amp; Pat. of Craigston of whom the families of Hutton — Logie &amp;ca—</p>
+                <p>By this <choice>
+                        <abbr>mar<hi rend="superscript"><hi rend="underline">ge</hi></hi></abbr>
+                        <expan>marriage</expan>
+                    </choice> the family got their first money — &amp; made some purchases —</p>
+                <p>It happened <del rend="overstrike">from</del> about 1670 —</p>
+                <p>Alex. was succeeded by his Son</p>
+                <p>III. Alex<hi rend="superscript">r.</hi> of Bracco <choice>
+                        <abbr>m<hi rend="superscript">d.</hi></abbr>
+                        <expan>married</expan>
+                    </choice> Marg<hi rend="superscript">t.</hi> d. of W<hi rend="superscript"><hi rend="underline">m</hi></hi> Gordon of Lesmoir B<hi rend="superscript"><hi rend="underline">t</hi></hi> &amp; was succeeded by</p>
+                <p>IV. WIlliam: who died without Issue — &amp; succeeded by</p>
+                <p>5. <hi rend="subscript">x</hi><note type="authorial">x. W<hi rend="superscript">m.</hi> had Sisters <choice>
+                            <abbr>m<hi rend="superscript">d.</hi></abbr>
+                            <expan>married</expan>
+                        </choice> to Duff of Hatton; General Alex cromby — &amp; MacIntosh of
+                        Blarny.</note> William his Son, who <choice>
+                        <abbr>m<hi rend="superscript">d.</hi></abbr>
+                        <expan>married</expan>
+                    </choice>
+                    <unclear reason="illegible">S.</unclear> L<hi rend="superscript">y.</hi> Janet.
+                    d. of Ja<hi rend="superscript">s</hi> E. of Findlater &amp; Seafield L<hi rend="superscript">d.</hi> Chancellor of Scotland, &amp; relict of Sir <hi rend="underline">Will</hi><hi rend="superscript">m.</hi> Forbes of
+                    Craigievarre B<hi rend="superscript">t.</hi>
+                    <unclear reason="fuck">Also??</unclear> left no Issue —</p>
+                <p>2. Jean D. of S<hi rend="superscript">r</hi> Ja<hi rend="superscript">s.</hi>
+                    Grant of Grant B<hi rend="superscript">t</hi>, who had Issue 6 Sons &amp; <gap reason="illegible" unit="letters" atLeast="5" atMost="7"/> viz — <list>
+                        <item>1 Will<hi rend="superscript"><hi rend="underline">m</hi></hi> who died
+                            before hi<gap reason="illegible" unit="letters" atLeast="5" atMost="7"/>n M<hi rend="superscript"><hi rend="underline">d</hi></hi></item>
+                        <item>2. James. who succeeded (<gap reason="illegible" unit="letters" atLeast="5" atMost="7"/><unclear reason="illegible">Fife</unclear>)
+                            of whom hereafter. —</item>
+                        <item>3. Alex<hi rend="superscript">r.</hi> of Echt — <add place="above">an
+                                advocate</add>
+                            <choice>
+                                <abbr>m<hi rend="superscript">d.</hi></abbr>
+                                <expan>married</expan>
+                            </choice> — d. of Skene of Skene — Issue</item>
+                        <item>4. George of Miltown a Captain on half pay. <choice>
+                                <abbr>m<hi rend="superscript">d.</hi></abbr>
+                                <expan>married</expan>
+                            </choice> to — — Issue —</item>
+                        <item>5. Lewis of Blervie, rose to a Majority in the Army, but <add place="above">has</add> now sold out — <choice>
+                                <abbr>m<hi rend="superscript">d.</hi></abbr>
+                                <expan>married</expan>
+                            </choice> Dor. Davis. d. to M<hi rend="superscript">r</hi> Davis</item>
+                        <item>6. Arthur of Grtown, bred an Advocate, yet <choice>
+                                <abbr>unm<hi rend="superscript">d.</hi></abbr>
+                                <expan>unmarried</expan>
+                            </choice> He was elected Representative for the C<hi rend="superscript">o.</hi> of Elgin in 1774 &amp; vacated his Seat in 1779 — is now
+                            Comptroller of Excise for Scotland. —</item>
+                        <item>1</item>
+                    </list></p>
+                <p>Daughters.<list>
+                        <item>1. Lady Anne. <choice>
+                                <abbr>m<hi rend="superscript">d.</hi></abbr>
+                                <expan>married</expan>
+                            </choice> to <add place="above">the later</add> Alex. Duff of Hatton
+                            Elgn</item>
+                        <item>2. — Janet. <choice>
+                                <abbr>m<hi rend="superscript">d.</hi></abbr>
+                                <expan>married</expan>
+                            </choice> to Sir W<hi rend="superscript">m</hi> Gordon of Park B<hi rend="superscript">l.</hi> dead. &amp; 2. to Hay of Mountblairie
+                            —</item>
+                        <item>3. — Jean <choice>
+                                <abbr>m<hi rend="superscript">d.</hi></abbr>
+                                <expan>married</expan>
+                            </choice> to Keith Urquhart of Meldrum Esq. dead</item>
+                        <item>4. — Helen <choice>
+                                <abbr>m<hi rend="superscript">d.</hi></abbr>
+                                <expan>married</expan>
+                            </choice> to Admiral Duff — dead.</item>
+                        <item>5. Sophia <choice>
+                                <abbr>m<hi rend="superscript">d.</hi></abbr>
+                                <expan>married</expan>
+                            </choice> to Tho<hi rend="superscript">s.</hi> Wharton Esq<hi rend="superscript">r.</hi> Comp<hi rend="superscript">tr.</hi> of
+                            Excise</item>
+                        <item>6. Margaret <choice>
+                                <abbr>m<hi rend="superscript">d</hi></abbr>
+                                <expan>married</expan>
+                            </choice> to James Brodie of Elgn.</item>
+                    </list>
+                </p>
+                <p>Which <hi rend="superscript">x</hi> William represented the County of Banff, in
+                    one <choice>
+                        <abbr>Parl<hi rend="superscript"><hi rend="underline">t</hi></hi></abbr>
+                        <expan>Parliament</expan>
+                    </choice> &amp; in 1735 was created Baron Bruce of Kilbride in Reland &amp; in
+                    1759 Earl Fife of said Kingdom —</p>
+                <p>He was bred an Advocate &amp; died in 1763 — &amp; succeeded by his Son</p>
+                <p><unclear reason="illegible">6</unclear> James — now E. Fife — bred to no
+                    profession — has represented Banff-Shire in <choice>
+                        <abbr>Parl<hi rend="superscript"><hi rend="underline">t</hi></hi></abbr>
+                        <expan>Parliament</expan>
+                    </choice> since 1754 <choice>
+                        <abbr>Parl<hi rend="superscript"><hi rend="underline">t</hi></hi></abbr>
+                        <expan>Parliament</expan>
+                    </choice> &amp; was born about 1729. —</p>
+                <p>He <add place="below">in 1749</add><choice>
+                        <abbr>m<hi rend="superscript">d.</hi></abbr>
+                        <expan>married</expan>
+                    </choice> L<hi rend="superscript">y.</hi> Do<hi rend="superscript">r.</hi> d. of
+                    Alex. late E. of Caithness. by whom he has no Issue —</p>
+                <p>x<note type="authorial">x He <del rend="overstrike"><gap reason="illegible" unit="letters" atLeast="5" atMost="6"/></del> studied law at Edin<hi rend="superscript">r.</hi>, but was not admitted advocate. —</note> He
+                    never was out of Britain till several years after he <choice>
+                        <abbr>mar<hi rend="superscript">d.</hi></abbr>
+                        <expan>married</expan>
+                    </choice> — when he with his L<hi rend="superscript">y</hi> Marg<hi rend="superscript">t.</hi> Les<hi rend="superscript">y</hi> after travelled
+                    thro' France — the low-Countries — &amp; were at Spain —</p>
+                <p>Is is said there was an Alex. of Keithmore father to the Alex. above men<hi rend="superscript">d.</hi> — &amp; that the families of Drummin &amp;
+                    Corsindae, are descended of younger Sons of his —</p>
+                <p>The Genealogist of the Duffs. says they are descended of MacDuff Thane of Fife —
+                    That the family was carried down to John Duff — writer in <gap reason="illegible" unit="words" quantity="1"/> who died ab. 1660, in whom
+                    the direct male line failed — &amp; then the representation devolved on the
+                    father of the I. Alex. of Keithmore the nearest colateral branch. —</p>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>Thomas Pennant Esq<hi rend="superscript">r.</hi></addrLine>
+                        <addrLine>Downing</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

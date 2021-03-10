@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1192">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 127</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1796-05-12"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> May 12<hi rend="superscript">th</hi> 1796.</dateline></opener>
+                <p>I do most sensibly feel for the situation of <persName ref="pe0331">miss Bull</persName> and yourself. The little I have said before on the melancholy subject is all I can urge. 
+                    In my own case, I shunned <hi rend="underline">all</hi> <hi rend="underline">consolation</hi>. <hi rend="underline">Pity</hi> <hi rend="underline">only</hi> <hi rend="underline">heightens</hi>,
+                    or <hi rend="underline">renews</hi> <hi rend="underline">sorr<del>y</del>ow.</hi> Think not unfriendly in <del><gap unit="letters" quantity="3" reason="illegible"/></del>
+                    dropping the subject, after admiring the elegance of the design, &amp; the warmth of affection expressed in the attendant lines.
+                    Permit me <sic>ask</sic> a copy of both on paper the size of <del><gap unit="letters" quantity="2" reason="illegible"/></del>imperial quarter of sheet. I mean it for my 
+                    <bibl type="authorial"><title ref="bi0657">isle of wight</title></bibl>. but not for publication. my memorial on a similar occasion is given at p. 111. of my 
+                    <bibl type="authorial"><title ref="bi0034">Whiteford</title></bibl>.<note type="editorial">Two Latin inscriptions to Sarah Pennant, prefaced by the exclamations 
+                        'The recent visitation of Heaven! The unclosed wound!' are given in <hi rend="italic">HPWaH</hi>, p. 111.</note></p>
+                <p>notwithstanding <persName ref="pe0014">Moses</persName>
+                    has for a good while past <add place="above">been taken up with miniatures,</add> he has engaged to undertake <bibl type="authorial"><title ref="bi0034"><hi rend="underline">y<hi rend="superscript">r</hi></hi> <hi rend="underline">Whiteford</hi> &amp; <hi rend="underline">Holywell</hi></title></bibl>
+                    in the time prescribed. &amp; He shall do <bibl type="authorial"><title ref="bi0034">another for myself</title></bibl>. Be so good, 
+                    <hi rend="underline">by virtue of the inclosed</hi>, to get one hot pressed <add place="above">copy</add> for myself, which you will be so good as to send with y<hi rend="superscript">rs</hi><note type="editorial">This paragraph has been blocked off as a separate section.</note> </p>
+                <p>
+                    I must mention a thing of little moment to you, that <persName ref="pe0014">moses</persName> gets so much by his miniatures, that he must raise his price: His harvest begins late, &amp; we cannot think him blameable for profiting of it.</p>
+                <p>
+                    I am glad to hear that you renew y<hi rend="superscript">r</hi> amusements. I persist in mine in deficance of my approaching 71<hi rend="superscript">st</hi>.
+                    I have actually printed two sheets of my <bibl type="authorial"><title ref="bi0263">View of Hindoostan</title></bibl>. It will be magnifique in large quarto embellished with plates. It is meant only as a pattern to 
+                    <persName ref="pe0065">David</persName> to guide him in the mode of publication of the <add place="above">rest of</add> <bibl type="authorial"><title ref="bi0475">outlines of the globe</title></bibl> that <hi rend="underline">magnum opus</hi>.</p>
+                <p>
+                    Where is <del>y<hi rend="superscript">r</hi></del> the <placeName ref="pl2571">Grove</placeName> &amp; where will be y<hi rend="superscript">r</hi> 
+                    residence next month. odd questions but not without their meaning. There is a possibility of <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName>
+                    &amp; I visiting a worthy relation of hers at <placeName ref="pl2575">East Malling</placeName>, in <placeName ref="pl1336">Kent</placeName>.<note type="editorial">Sarah (d. 1740), the mother of Anne Pennant (née Mostyn), was the eldest daughter of Robert Western of London and his wife Anne, eldest daughter and coheiress of Sir Richard Shirley of Preston, Sussex. Relations on her mother's side may have settled at East Malling, Kent, a hamlet and an ancient ecclesiastical parish.</note> 
+                    She will keep her resolution of <hi rend="underline">never</hi> entering the <placeName ref="pl0699">capital</placeName> again. I w<hi rend="superscript">d</hi>
+                    do the same but my duty to <persName ref="pe0237">my sister</persName> impells me to go there for four or five days. I w<hi rend="superscript">d</hi>
+                    rather hear that <persName ref="pe0313">m<hi rend="superscript">r</hi> Bull</persName> was in <placeName ref="pl0699">town</placeName>
+                    at that time than elsewhere for my time will be pretious: &amp; I would <del><gap unit="letters" quantity="several" reason="illegible"/></del> grudge all,
+                    but on people pretious to me</p>
+                <p>
+                    Since I wrote last I can exult in being a happy grandsire to a <persName ref="pe1779">fine stout lad</persName>. who with all the rest of my stock surround me. 
+                    I had great fears about my <persName ref="pe0421">Son</persName>: he was attacked by a severe cough in the easterly winds of last month:
+                    &amp; all our fears were revived. I sent for him down &amp; thanks to heaven <del>&amp;</del>Native air &amp; exe<del><gap unit="letters" quantity="2" reason="illegible"/></del>rcise
+                    has more than restored him. <sic>He not</sic> sixteen till august, yet is taller than myself. He takes kindly to drawing &amp; I think will excell.</p>
+                <p>
+                    I am glad to hear that y<hi rend="superscript">r</hi> worthy friend <persName ref="pe0422">general Rainsford</persName> is returned. my best wishes attend him.</p>
+                <closer>
+                    <salute>That Peace of mind; &amp; resignation attend you &amp; <persName ref="pe0331">miss Bull</persName> is the warm prayer of
+                    <lb/>Dear Sir
+                        <lb/>Y<hi rend="superscript">r</hi> ever affect. &amp; obliged friend</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed>
+                </closer>
+                <postscript>
+                    <p>Please to send the copies by the <placeName ref="pl0002">chester</placeName> coach directed to me.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

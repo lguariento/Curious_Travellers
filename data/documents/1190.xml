@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1190">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 126</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1796-01-21"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Jan<hi rend="superscript">y</hi>. 21<hi rend="superscript">st</hi> 1796</dateline></opener>
+                <p>I am extremely pleased to hear you are going to resume your amusements. Let me offer my services in any thing that I can assist you. I had begun to illustrate the
+                    <bibl type="authorial"><title ref="bi0023">arctic zoology</title></bibl> in the beginning of last year; but laid it aside for the time: 
+                    not from any dislike to it; but one of my parts of the <bibl type="authorial"><title ref="bi0475">outlines of the globe<del>s</del></title></bibl>
+                    seized my fancy &amp; occupied me so <del>much</del> wholly as to make wish to give it to the public, as a specimen of the manner in which I would have all the others done, 
+                    when I become <hi rend="underline">pulvis</hi> et <hi rend="underline">umbra</hi>.<note type="editorial">'dust and shadow'. Pennant quotes from Horace, <hi rend="italic">Odes</hi>, Book IV, ode vii, line 16: 'Pulvis et umbra sumus', 'We are but dust and shadow'.</note>
+                    The part I select is <bibl type="authorial"><title ref="bi0263">Hindoostan</title></bibl>, as most entertaining &amp; most interesting to the present times. The size will be large q<hi rend="superscript">to</hi>
+                    of that <gap unit="letters" quantity="2" reason="illegible"/> of <bibl type="authorial"><title ref="bi0621">Cook’s last voyage</title></bibl>. 
+                    the prints few but select. the maps which are the instructive part done in the very first manner. all the text has been long ready for the press so the trouble is not so much as you
+                    w<hi rend="superscript">d</hi> think. My <bibl type="authorial"><title ref="bi0034">Histories of the parishes of Whiteford, &amp; Holywell parish</title></bibl>
+                    will appear next month. They are most welshy busineses. a few will be on large paper which I give you a hint of. I have so many poor compatriotes to oblige, that I mean to give no copies this time, to the rich.</p>
+                <p>
+                    I am now in hourly expectation of an express from <persName ref="pe0065">my son</persName> to inform me I am a grand-father. we welsh are fonds of 
+                    <del>per</del>being perpetuated, so my prayers are naturally for a stout boy.</p>
+                <p>
+                    <persName ref="pe0421">My younger son</persName> increases in stature strength &amp; goodness &amp; I have every reason to expect he will be as great a comfort to me as 
+                    <persName ref="pe0065">David</persName>. so much for domestic concerns.</p>
+                <closer>
+                    <salute>I conclude with my warmest good wishes for the welfare of miss Bulls<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>
+                        &amp; yourself &amp; am Dear Sir with truest regard
+                        <lb/>Y<hi rend="superscript">r</hi> affect. &amp; faithful Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName>.</signed>
+                </closer>
+                <postscript>
+                    <p>turn over)
+                        <lb/>A horrible murder of a most amiable youth a tenants son has lately much disturbed me. I have not caught the villain yet. tho’ I think he is not far off.<note type="editorial">  Pennant sent a letter, dated 6 January 1796, to John Monk, printer and proprietor of the <hi rend="italic">Chester Courant</hi>, regarding this murderer. He is named as Benjamin Edwards, ‘charged, on the oath of two witnesses, with the murder of … William Dyson’. Pennant offered a reward of 10 guineas above what was allowed by act of parliament for apprehending Edwards. See NLW 5502E, unnumbered.</note></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

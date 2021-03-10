@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1127">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>30</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Endorsements in Thomas Pennant's hand at the top of the first page and on the reverse of the final page</hi>: <hi rend="underline">answ<hi rend="superscript">d</hi></hi>; <hi rend="underline"><persName ref="pe0313">M<hi rend="superscript">r</hi> Bull</persName></hi></p>
+                            </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1791-03-12"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>                
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline><placeName ref="pl0759">Stratton Street</placeName>. Saturday, March 12. 1791.</dateline></opener>
+                <p>I mean to send by next Wednesday’s <placeName ref="pl0002">Chester</placeName> coach from <placeName ref="pl2001">charing cross</placeName>,
+                    directed for you, to be left at the office there, the M.S. you had the goodness to give me of your <bibl type="authorial"><title ref="bi0268">Expedition to Dover &amp;<hi rend="superscript">a</hi>: &amp;<hi rend="superscript">c</hi>.</title></bibl>.
+                    I think it well <del>written</del><add place="above">transcrib'd</add>, but being soil’d, I shall have no other objection to pay for its being recopied, except waiting some time, before 
+                    <persName ref="pe0014">M<hi rend="superscript">r</hi> Griffyth</persName> can begin his illuminations., and of course, before I can set about ornamenting it, with the many prints I have got for that purpose. If you think it can be clean’d, 
+                    and if you think also that the several corrections in the orthography can be erased &amp; fresh inserted, without disfig<del><gap unit="letters" quantity="1" reason="illegible"/></del>uring
+                    the M.S. too much, for my nice feelings upon these occasions, I recommend to <persName ref="pe0014">Moses</persName> to begin upon it, as soon as he pleases, and to ornament it as 
+                    <hi rend="underline">much as he thinks proper</hi>, with all sorts of natural history, and any arms, or views of which there are no engraved prints.– If tis copied afresh the Margins had better be larger, and the paper bigger
+                    (which I suppose He can procure at <placeName ref="pl0002">chester</placeName>; if not, I can send it him, if he tells me the quantity. I know no amendments I wish for, except that the 
+                    <del>lines</del> ruled lines, are too close to the text; and appear to croud it, which I dare say will strike you upon the perusal thereof. I assure you that the 
+                    <bibl type="authorial"><title ref="bi0271">London</title></bibl>, is all the fashion, and much commended every where, and in my opinion a <bibl type="authorial"><title ref="bi0272">third edition</title></bibl> will be soon call’d for.
+                    <persName ref="pe0328">Faulder</persName> has sent me the additional sheets upon large paper, tho not so large by the fourth of an inch, as the 
+                    <del>copy</del> <bibl type="authorial"><title ref="bi0039">first Edition of the book</title></bibl>, you was kind enough to send me. I have also from him, 
+                    <rs type="art" ref="ar0230">Charles 1<hi rend="superscript">sts</hi> bust from Bernini</rs>, a <rs type="art" ref="ar0231">view of London at the fire</rs>,
+                    and a <rs type="art" ref="ar0232">D<hi rend="superscript">o</hi>. temp: Reg: Eliz:,</rs>, but I have no map, which I understood was intended. I think my prints and drawings would be better disposed, if I was to get the 
+                    <bibl type="authorial"><title ref="bi0271">new Edition</title></bibl> entire, (which I imagine can be had on large paper) because otherwise the illuminations I mean to insert, 
+                    must be divided, and repeated in the additional sheets. If I should adopt this plan what ought I to give <persName ref="pe0328">Faulder</persName>
+                    to exchange <bibl type="authorial"><title ref="bi0039">my copy</title></bibl> for the <bibl type="authorial"><title ref="bi0271">new Edition</title></bibl>?
+                    The honestest Booksellers are rogues, and in truth I am not equal to their manœuvring upon all occasions. You will receive in the parcell 
+                    the two dozen of pencils you desir’d, which, if too large, or too small, or too hard, or too soft, I have articl’d to have exchanged; I bought them at the best reputed shop, and they cost five shillings per: dozen.<note type="editorial">For Pennant's request for the 'best black lead pencils', see <ref target="1124.xml">1124</ref>.</note> You will also have <rs type="art" ref="ar0168">Lord Fanhope</rs>,
+                    and a few trumpery prints, some of which your publications call for. I wish they were more, and better. what you don’t use may be returnd 
+                    when you come to <placeName ref="pl0699">London</placeName> next year, if par hazard,<note type="editorial">'by chance'.</note> I should then, have ruses enough left, to know a 
+                    <del>A</del>Great <hi rend="underline">A</hi>, from a chest of drawers. I think your <persName ref="pe0009">Edinburgh Barber</persName> 
+                    improves in his works, I wish he had sold none, because he would have been a consequential honorary engraver in my collection of private engravings.</p>
+                <p>I cannot find the <bibl type="authorial"><title ref="bi0118">Dutch Montfaucon</title></bibl> any where, nor can I get you <rs type="art" ref="ar0226">Admiral Heemskirk</rs>
+                <hi rend="underline">as yet</hi>.</p>
+                <closer>
+                    <salute>I am Dear Sir, for the present Sincerely yours.</salute>
+                    <signed><persName ref="pe0313">R. B.</persName> -</signed>
+                    <dateline><placeName ref=""/></dateline>
+                </closer>
+                <postscript>
+                    <p/>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine/>
+                        <addrLine/>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

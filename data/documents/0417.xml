@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0417">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Donald MacQueen to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP297</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>12</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0069">Donald MacQueen</persName>
+                    <date when="1775-03-15"/>
+                    <placeName ref="pl0742">Kilmuir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="0416"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I had the pleasure of yours of the 24<hi rend="superscript">th</hi> of January a
+                    Long while ago. It is Idle to make an apology for being so Slow in Acknowledging
+                    it — My time was Otherwise Necessarily taken Up, is Enough. I write you a
+                    Suplement to the one you acknowledge the receipt of, which you would have had
+                    before Yours reached me — it was addressed to <persName ref="pe0015">Roger
+                        Mostin</persName>.</p>
+                <p>The papper which is here Inclosed I submitt entirely to Your Judgement. If Any
+                    one hath already Said that the Scots are but a branch of the Picts emerging from
+                    Barbarity And have at Last turned out Conquerors of <placeName ref="pl0889">Irland</placeName> I know him not. How could it be Otherwise? They were
+                    Caledonians who As well as the South Brittains painted their bodies. The Romans
+                    found them first in Caledonia And Some time after that in <placeName ref="pl0889">Irland</placeName>. I could have gone a much greater Length but
+                    as I believe it a new System I did not care to Encumber it with more Novelties.
+                    I drew only the General Plan And Leave it to Any Other to confirm it confute it
+                    or neglect it. I return you hearty thanks for the Torpedo Letter — I always
+                    thought it a Mediterranian fish, And to Say the truth I knew Little about it,
+                    having only some years ago read <add place="above">of</add> it with wonder. I
+                    think it was in <bibl type="authorial"><title ref="bi0682">Borielli de motu
+                            Animalium</title></bibl>, who I believe knew As Litle of the Doctrine of
+                    Electricity As <persName ref="pe1987">Claudian</persName>.</p>
+                <p>I have not yet seen <bibl type="authorial"><title ref="bi0095">Dr Johnson's
+                            Journey</title></bibl>, but some Scrapes in a Magazine — I sent for the
+                    book itself for tho he was pleased to make <add place="above">me</add> a Present
+                    of Some Other Parts of his works he will not I suppose offer me this. I wish for
+                    his own Sake he had not wrote it, for I Esteem the man on Account of his
+                    Learning, and inflexible virtue if I mistake him not. He coud have Lost Nothing
+                    by Looking to Your Manner of Writing. His prejudices Against <persName ref="pe0557">Ossian's</persName> poems he brought from <placeName ref="pl0699">London</placeName> And brought them back Again because he met
+                    with few who inclined to differ with him. He thought <persName ref="pe0558">Mr
+                        Macpherson</persName> shoud have Left the original for the Inspection of the
+                    Public — He coud find none that had Manuscripts of it in <placeName ref="pl0711">the Highlands</placeName> — Only Songs in the Mouths of rehearsers which
+                        <add place="above">he</add> was informed were not Literally translated. I
+                    believe nobody took much pains Upon him. <persName ref="pe0558">Mr
+                        Macpherson</persName> Seems to be very angry at him.</p>
+                <p>I Expect to have your book returned to me next week. In the mean time please know
+                    that you have been MisInformed about <placeName ref="pl0653">Canna</placeName>.<note type="editorial">See Pennant, <bibl type="editorial"><title ref="bi0008">A tour in Scotland and Voyage to
+                                the Hebrides 1772</title></bibl> (1774), p.314.</note>
+                    <persName ref="pe1988">Mr Macdonald of Clanranald</persName> Set the Island on
+                    to MacLeod And a Mackinnon — both these sublet their farms to small Tennants at
+                    much higher rents than they payed the Proprietor which is a common care in
+                        <placeName ref="pl0711">the Highlands</placeName>. In the mean time these
+                    small tennants Are more at mercy in Narrow Islands than Any were Else and
+                    therefore the proprietor should indeed take Every precaution to guard them
+                    Against the Oppressions of the Principal Farmers.</p>
+                <p>If I remember right You call <placeName ref="pl0647">orinsay</placeName> near
+                        <placeName ref="pl0649">Colinsay</placeName> a Monastery. It is called a
+                    priory in the antient Lists of the Priorees of <placeName ref="pl0705">Scotland</placeName>. As I was never Upon the place I cannot positively Say
+                    whether it is Really an Island or not; but I can say that there are Several
+                    Islands called <placeName ref="pl0647">oransay</placeName>, that is, an Island
+                    consecrated to <persName ref="pe1989">St Oran</persName>
+                    <persName ref="pe0066">Columba's</persName> Fellow Labourer And that it is a
+                    Circumstance Peculiar to Each of them that I know, that on time of full Sea they
+                    are Islands but in time of Ebb the sands Are dry betwixt <add place="above">them</add> And the next Continent. Why Such Islands were chosen for
+                        <placeName ref="pe1989">St Oran</placeName> I know not, but this peice of
+                    Singularity Shoud not be forgotten.</p>
+                <p>It will give me Pleasure to hear from You Soon for I will be Seeking health
+                    abroad in Summer.</p>
+                <closer><salute>I am with very great regard, Dr Sir, <lb/>Your very Obedient humble
+                        Sevt</salute>
+                    <signed><persName ref="pe0069">Don: Macqueen</persName></signed>
+                    <dateline><placeName ref="pl0742">Kilmuir</placeName> March the 15<hi rend="superscript">th</hi>
+                        <lb/>1775.</dateline></closer>
+            </div>
+            <div type="enclosed">
+                <fw>P.1<hi rend="superscript">st</hi></fw>
+                <opener>To <persName ref="pe0232">Mr Pennant.</persName>
+                    <salute>Dear Sir</salute></opener>
+                <p>As a great Part of <placeName ref="pl0705">Scotland</placeName> hath had the good
+                    Fortune to have been visited by you, a man whose Politeness is Equal to his
+                    knowledge which is Extensive enough, by a man who is fully qualified to bring
+                    the state of Past times in review before Us And to paint the present with
+                    Justness And propriety; Litle disposed to disoblige, but Where Truth &amp;
+                    Public Interest conjoined, guide the way; And As I find you are further in the
+                    humour of travelling over that Part of our Countrey which you have not yet seen,
+                    with Intention to favour the world with Other Curious And Useful discoveries, I
+                    will presume to Lay before You a Conjecture which is not quite new And for Us
+                    Obvious As it is, hath not yet been pursued for ought I know, to Any Extent,
+                    about the first Inhabitants of a Countrey you pay So much attention to.<note type="editorial">The following treatise would later appear as 'Dr. Macqueen
+                        on the Origin of the Picts and Scots' in <bibl type="editorial"><title ref="bi0420">The Gentleman's Magazine</title></bibl>, LXIV
+                        (1794).</note></p>
+                <p>Our People of <placeName ref="pl0777">Brittain</placeName> &amp; <placeName ref="pl0889">Irland</placeName>, like other Nations both Antient &amp;
+                    modern, taking Advantage of the darkness of Antiquity, have not Only indulged
+                    their credulous vanity in giving themselves an old Setlement in their Several
+                    Countries but have fetched their Ancestors from a far, wherever their Pride
+                    could be tickled by an honourable descent, bu a Similarity of Customs or perhaps
+                    merely for the Sake of Going out of the common road And connecting themselves
+                    with distant Strangers. Had it not saved our Friends, pen, Ink, time &amp;
+                    passion to be Laid out on more Useful subjects, if they had from the beginning
+                    contented themselves with the Usual course of things, peopled <placeName ref="pl0777">Brittain</placeName> from <placeName ref="pl2663">Gaul</placeName> the next Continent And <placeName ref="pl0889">Irland</placeName> from <placeName ref="pl0897">Kintire</placeName> And
+                        <placeName ref="pl1624">Gallaway</placeName>. The Pruning knife of Criticism
+                    is from Age to Age Lopping off the Extravagant Fictions of former times And will
+                    at Length reduce them to a more natural appearance. The Emulation Which is
+                    common in close Neighbourhoods <add place="above">determined the people of
+                            <placeName ref="pl2003">South Brittain</placeName> to derive their
+                        origine one way</add> — The Caledonians having been Split into two principal
+                    branches, the Picts &amp; Scots, have gone differently to work. The Picts who
+                    had no writers among them, must come from Any Countrey on the Continent Where
+                    painting the body was fashionable And the Similarity betwixt the words Scot
+                    &amp; Scythi hah been the Cause Why Some of our Countrey men thought them the
+                    Same people, tho the Just have given themselves and the Scots a Spanish <add place="above">descent</add> As a more honourable origine, which
+                            <pb/><fw>2<hi rend="superscript">d</hi></fw> By falling under the
+                    animadversion of the Learned is better known than Such trifles deserve.</p>
+                <p>It is now my Intention to trace the Course of Population according to the Nature
+                    of things, as Suggested to Us <del rend="overstrike">by</del>
+                    <add place="above">in</add> the Lights cast <unclear reason="illegible">up</unclear> it by the first writers, who are the Only Sūre Guides: more
+                    So, than the fancyful Unauthenticated reveries of Ignorant Ages, tho Afterwards
+                    supported more Plausibly dressed out by their more Learned Sucessors.</p>
+                <p>The Romans on their first Acquaintance with the Nations to the North of
+                        <placeName ref="pl0833">the Friths of Clyde</placeName> &amp; <placeName ref="pl0083">Forth</placeName> gave them the General title of Caledonians,
+                    in process of time they Learned to distinguish them into tow Principal Tribes,
+                    the Picts &amp; Scots And on a nearer view they found them Subdivided into
+                    Smaller casts, on all of Whom they bestowed the general appellation of
+                    Caledonians And <persName ref="bi0683">Isidore</persName> Even in the Seventh
+                    Age, so Jumbles the Picts and Scots together that he Affirms the Later Also
+                    painted various figures on their bodies, by pricking them with Iron bodkins And
+                    rubbing them Over with Ink. Yet, out of Respect to men of Letters who, finding
+                    that the Scots did not at all, or so commonly Paint as the Picts, woud fetch
+                    from distant Countries, a further Deduction so became necessary to put the Truth
+                    in a clearer point of view, tho Obvious Enough to Any Who considers it void of
+                    the Prejudice which the Belief of Ages brings along with it.</p>
+                <p>It is Universally agreed that all the Brittains painted in this manner — that
+                    they struck the figūres or outlines of different Animals on their bodies When
+                    they were Young, by Useing an Able Artist to prick them with a needle or bodkin
+                    And rubbing the diminutive marks of the Iron with the Juice of a certain Herb,
+                    which gave them a blue and Lasting Colour. The Unextinguishable Characters
+                    Enlarging in the advance of Years looked in the Eyes of Civilized strangers, As
+                    if the figures were immediately painted off, which was the reason Why the Romans
+                    called them Picti, tho the word Puncti woud have been nearer the Fact, <del rend="overstrike">and</del> a Literal translation of the Gaulic word
+                    Peaƈtigh and of the Greek word στίκτοί. The Nobless And the Commons were
+                    distinguished here As well As the <placeName ref="pl2678">Thrace</placeName>, by
+                    the figures of different animals And by the Largeness And Smallness of the
+                    Characters As were Also the Several Tribes from One Another And that they might
+                    not hide these marks of distinction, their breasts, backs And arms were Exposed
+                    to view Especially in time of batle, when it was Necessary in the hurey of Arms
+                    to find out the Friends or Relations with the glance of An Eye And to have
+                    Witnesses of the Prowess or Cowardice of the Military man among his own
+                    Acquaintances. In some parts of the world <pb/><fw>3<hi rend="superscript">d</hi></fw> The Souldiers were marked with the Ensigns of their General
+                    As were the Votaries of Certain false Deities with Something Peculiar to <hi rend="underline">their</hi> Service and <bibl type="authorial"><title ref="v">Tertūlian</title></bibl> affirms that the Brittains were
+                    distinguished by their Stigmata As Other Nations by their Particular
+                    Ensigns.</p>
+                <p>An Unmixed People, who all from the highest to the Lowest, being bred &amp;
+                    Educated in the very Same manner preserved the Same colour of hair, the same
+                    whiteness of Skin, great Similarity in their features And in the proportion of
+                    their Limbs, woud need these visible marks of distinction, Especially in the
+                    first periods of Society when they went almost quite naked. For the same
+                    Reasons, which Nature Suggested to all in Similar Circumstances, we find
+                    Americans painted from one End of their Extensive Continent to the Other, some
+                    in the Absolute want of Iron or Any Other Mettal pricking their flesh with a
+                    pointed bone. It is true, that those who Live close to the Neighbourhood of the
+                    European Colonies, by trading in furs, in Other Small branches of Commerce or by
+                    Some Services have purchased Cloaths Which rendered their corporeal Ensigns
+                    inviseable And consequently Unless, if they do not Sometimes mark their faces
+                    And wear their hair in a Particular distinctive mode. Thus when <placeName ref="pl2003">South Brittain</placeName> became Subject to the Romans And the
+                    debateable Lands betwixt the Walls were also converted into a Province Under the
+                    Name of <placeName ref="pl2727">Valentia</placeName>, Such of the Natives As
+                    dreaded Slavery most flew to the Forrests of <placeName ref="pl0705">Caledonia</placeName>. These fugitives from the Severity of Provincial
+                    discipline And the Inhabitants of the Unconquered part of the Island had the
+                    denomination of Picts given them by the Romans And by the South Brittains who
+                    had Submitted to their Laws &amp; fashions. This name was appropriated to them
+                    from about the End of the third And beginning of the fourth Century As the
+                    Custom Expressed by it was Peculiar to them And Laid Aside by the Provincials
+                    And at the same time the Name of Scots is bestowed by the Romans on the
+                    Inhabitants of the Western Side of <placeName ref="pl0705">Caledonia</placeName>
+                    by Which they woud Seem to Intimate that painting was not, at Least As Generally
+                    practised among them As among their Neighbours.</p>
+                <p>But how came it about that the Scots, a branch of the Old Caledonians As the
+                    Romans allowed them to be quited this barbarous practice of striking their
+                    bodies with the figūres of different Animals While their Eastern Neighbours
+                    continued it And for Several Centuries were known by the Appellation of Picts is
+                    a question of Some little Curiosity.</p>
+                <p>The Picts, So called, being hemmed in betwixt <placeName ref="pl1107">the German
+                        Ocean</placeName> And the vast Cluster of hills called <placeName ref="pl1166">the Grampians</placeName> which stretch themselves from
+                        <placeName ref="pl0091">Strathern</placeName> to <placeName ref="pl0193">Lochness</placeName> And further, had no outlet by which they might
+                    intermix with Strangers, <pb/><fw>4<hi rend="superscript">th</hi></fw> But by
+                    the <placeName ref="pl0083">Passage of Bodotria</placeName> towards the Roman
+                    Provinces And As it is Probable that <placeName ref="pl0705">Pictavia</placeName>, as well as <placeName ref="pl2003">South
+                        Brittain</placeName> And Every Countrey, in the Original state of Barbarity,
+                    was Split into many Independant Principalities, it is very Like that there woud
+                    be Litle of the Spirit of Union among them, except when they saw a powerful
+                    Enemy Close to their Gates, as in the case of <persName ref="pe1920">Agricola</persName> And <persName ref="pe1990">the Emperor
+                        Severus</persName>; And thus Sequestered from Strangers, but when they
+                    Sallyed out, some of them Only, upon a Plundering Party And returned quickly
+                    when they got their hands full or were beaten back, they might continue Long
+                    Enough in a State of the utmost Barbarity if they were not conquered by more
+                    Polished People than themselves. But how came to Scots to be that People, when
+                    they were, at almost the Same distance from the Schools of Civil<del rend="overstrike"><unclear reason="illegible">ity</unclear></del>
+                    <add place="above">Life</add> And Originally Enured to the Same Customs And way
+                    of Living?</p>
+                <p>To the Scots &amp; Picts, men unatached to Any Land by houses, for they none but
+                    the huts of a day's Labour, by Temples or by Agriculture, Every Soil woud be
+                    Equal. The Necessity of Providing Subsistence for themselves And their Families
+                    Ennobled the professions of Robbery And Arms And compelled them to a wandering
+                    Itinerant Life, in quest of Game: they must have chosen to dy of Famine or to
+                    Plunder &amp; fight. The Picts, possessing the Eastern Coast of Caledonia from
+                    South to North, whom we Suppose <unclear reason="illegible">Minced</unclear>
+                    into Many Independent States According As Rivers, Rocks, mountains And Arms of
+                    the Sea bounded them, must have been in a state of war Among themselves, like
+                    the Highland Clans in a Later Period, And confined to their favourite trade near
+                    home: for the more Northern Tribes of them woud Scarce be permitted to march
+                    Undisturbed, thro the States which Lay across their Way towards the Roman
+                    Provinces.</p>
+                <p>The Inhabitants of the western Coast made the Earlyer Progress in the Arts of
+                    Good Order And Civility As being nearer the Roman Colonies, to which History
+                    bears Testimony they made frequent Sallies together with Some of the Picts in
+                    their Neighbourhood As they woud to Such of the Western Isles as Lay within
+                    their view And Easyly Subdued them as being Severed from One Another, thinly
+                    peopled and under Unsurmountable difficulty of Leagueing together for Mutual
+                    defence. And tho the <add place="above">Scots</add> were at first but a Single
+                    Tribe of the Picts, Unanimous therefore in all their Resolves, Separated from
+                    the Rest by a Range of Unhospitable mountains they woud gather Strength And be
+                    tempted by their Fortune in <placeName ref="pl0889">Irland</placeName>, a
+                    Countrey favoured by Nature with very fine harbours which were better known And
+                    more frequented by Strangers than those of <placeName ref="pl0777">Brittain</placeName>. <pb/>
+                    <fw>5<hi rend="superscript">th</hi></fw> Here, they woud see Civilised People
+                        <add place="above">on the Coast</add> Exchange their furs, their Share of
+                    the Roman booty, whatever Trinkets they had with the Merchants for the Cloathing
+                    And ornaments which their Vanity demanded. At Length when the Plunder of the
+                    Province and the Merchants tradeing to <placeName ref="pl0889">Irland</placeName> Supplyed them with Cloaths, they were Under a Necessity,
+                    Like the South Brittains, of giving Up the Custom of Painting their bodies, at
+                    which Period they offered themselves as a people quite different from the More
+                    Barbarous Picts, which was the cause Why distant Progenitors were Sought out for
+                    them with So much Assiduity.</p>
+                <p>But still to preserve the distinctive marks of their Subordinate Divisions they
+                    transposed the <del rend="overstrike">Animal</del>
+                    <add place="above">Family</add> figures to their Shields. <bibl type="authorial"><title ref="pe1991">Seneca</title></bibl> I think says that the Scots
+                    Painted their Shields And I find the Shield of <add place="above">a</add> Hero
+                        <add place="above">thus</add> described in An Old Gaulic Poem, which it
+                    seems Escaped <persName ref="pe0558">Mr Macpherson's</persName> Search — "He
+                    fitted his red-tanned bossy Shield to his Left arm on which was drawn the
+                    Picture of <add place="above">a</add> Lion, a Leopard, a Griphin And the biteing
+                    Serpent. At Last the Colours, which might be Seen from a greater distance, with
+                    the Animal drawn Upon <unclear reason="illegible">it</unclear>which
+                    distinguished the Tribes was introduced a further Improvement In One of
+                        <persName ref="pe0540">Fingal's</persName> batles, I find three or four Pair
+                    of Colours displayed at Once, dazzling the Eye from afar with the Lustre of Best
+                        <hi rend="underline">Ore</hi>: Which they Must have Learned from the Romans;
+                    As we may Conclude from <persName ref="pe1107">Homers</persName> Silence that
+                    they had no Standard in the Heroic times he describes tho his Greeks And <del rend="overstrike"><gap reason="illegible" unit="letters" atLeast="5" atMost="7"/></del><add place="above">Trojans</add> lived in a much more
+                    Advanced Period of Society than the <sic>Cotemporary</sic>
+                    <del rend="overstrike">Picts</del> Scots &amp; Picts we Speak of. Armoreal
+                    bearings may very Justly be Supposed to ow their origine to this Practice And it
+                    is not Unlike that when Patronimies gave place to Surnames which happened much
+                    about the time the Picts ceased to be a distinct People, that those who have
+                    taken Up the Name of Lion, wolf, Fox, Hawk, or of Any other Animal made choice
+                    of that which distinguished their Tribe from the beginning, for in that quarter
+                    of the Countrey where Patronimies are still Used no Such Surnames are to be Met
+                    with.</p>
+                <p>Here a very pertinent Question occurs — Could a Single Tribe from <placeName ref="pl0705">Caledonia</placeName> assisted by a few Islanders conquer
+                        <placeName ref="pl0889">Irland</placeName> and give it their own name or
+                    coud they in Any degree improve by the Company of Such Mortals As the Irish are
+                    represented to have been? Woud not the Scots, pray, Learn the Art <pb/><fw>6<hi rend="superscript">th</hi></fw> of War, from the Romans by an
+                    apprenticeship of about three hundred Years And would not they Also Learn from
+                    the folly of their Neighbours in <placeName ref="pl2003">South
+                        Brittain</placeName> who never pursued any common Interest to form
+                    themselves into indefeatable bands by the strictest treaties and Alliances? Thus
+                    prevailing in power, policy and Numbers, <placeName ref="pl0889">Irland</placeName> whither the fertility of the Soil &amp; Mildness of the
+                    Climate would tempt them to make frequent Visites, would become An Easy
+                    Purchase, at Least in part, <placeName ref="pl0889">Irland</placeName> whose
+                    Inhabitants have not yet been said to fight without their own Island, whose
+                    habitations were common &amp; Uncircumscribed — far from being appropriated by
+                    an Extensive Monarchy. If one Legion <add place="above">with a few
+                        Auxiliaries</add> would Make an Intire conquest of in <persName ref="pe1992">Domitian's</persName> time What may not be Expected from Men of approved
+                    valour Who made Such havock in <placeName ref="pl2003">South
+                        Brittain?</placeName></p>
+                <p>The frequent intercourse of the Scots with the Romans, the Brittains, the western
+                    Islanders, the Irish And the merchants from different Countries who traded to
+                    the Irish harbours, would as Iron polisheth Iron rub off something of their
+                    barbarous rūst As a more Enlarged Experience would Also improve them in the Art
+                    of War.</p>
+                <p>Their conquests in <placeName ref="pl0889">Irland</placeName> however, would
+                    produced but very Small Effects: it is agriculture Alone, an Art Unworthy of the
+                    Military Men of that Age, that can fix attendance Upon Any Particular Spot of
+                    Earth; And it was as well they did not apply to tillage, When the Lived among
+                    Enemies who in one day woud Easyly destroy the fruits of a year's Industry. They
+                    had Every thing to Seek by the Sword And to defend by the Sword: They woud be
+                    skipping backwards And forwards to <placeName ref="pl0889">Irland</placeName>
+                    And <placeName ref="pl0705">Scotland</placeName> As Necessity, pleasure or
+                    Amusement directed them — per diversa Vagantes <bibl type="authorial"><title ref="bi0672">Amm. Marcell</title></bibl>: Thus <placeName ref="pl0889">Irland</placeName> As well as <placeName ref="pl0705">Scotland</placeName>
+                    was the Scene of <persName ref="pe0540">Fingal's</persName> batles: People who
+                    made war their Profession, <del rend="overstrike">could not be long <gap reason="illegible" unit="letters" atLeast="5" atMost="6"/></del> As
+                    being the Source of their Livelyhood, And reckoned that of their Glory could not
+                    be Long at rest. The Brittains might properly Enough call them Schuits,
+                    wanderers, As in <placeName ref="pl0708">the Western Isles</placeName> they call
+                    the <placeName ref="pl0633">Campbelton</placeName> Vessels who go from Loch to
+                    Loch, in quest of Herrings the black Schuits, which might be naturally Latinized
+                    into Scoti. The Goths first came like a Swarm of Locusts to destroy the Roman
+                    Empire. Can Historians or Geographers fix the seats of Such rapacious
+                    Itinerants? they can Only point them out for the present time.</p>
+                <p>However, it appears that the Scots made at Length a Setlement in that British
+                    Island, for tho <bibl type="authorial"><title ref="bi0672">Ammianus
+                            Marcellinus</title></bibl> found them in <del rend="overstrike">Irland</del>
+                    <add place="above"><placeName ref="pl0777">Brittain</placeName></add> about the
+                    End of the third Age; And <persName ref="pe1993">Porphyry</persName> Somewhat
+                    Earlyer <persName ref="pe1994">orosius</persName> met with them in <placeName ref="pl0889">Irland</placeName> about the beginning of the fifth, where they
+                    raised themselves Up to Such Eminence As to give their own Name to the Island.
+                        <persName ref="pe1995">St Laurence Archbishop of Canterbury</persName>, who
+                    could not be Mistaken calls it Scotia, in a Letter addressed to it's own Bishops
+                    about they year 605. <bibl type="authorial"><title ref="bi0683">Isidore</title></bibl> And <pb/><fw>7<hi rend="superscript">th</hi></fw>
+                    <bibl type="authorial"><title ref="pe1996">Adamnanus</title></bibl> in the same
+                    Century bear Testimony to this Fact, tho at the Same time it appears Upon
+                    Irrefragable Evidence that they kept Possession of their Dominions on the
+                    Western coast of <placeName ref="pl0705">Caledonia</placeName>. Thus Stationed
+                    in the different Countries, their best harvest lay towards the South. Their
+                    Neighbours the Picts Joined them in their Attacks on <placeName ref="pl2727">Valentia</placeName> and <placeName ref="pl2003">South
+                    Brittain</placeName>, the<del rend="overstrike">y</del> former of Which they
+                    made An Intire conquest of, Upon withdrawing the Roman Legions; And it cannot be
+                    doubted but the Irish woud also Support them from their Countrey Where they had
+                    the Principal direction themselves. In the System I here Lay down, these
+                    passages of <persName ref="pe1987">Claudian</persName> can be Easyly Understood
+                    without passing them to the torture of Severe Criticism ––––– totam cum Scotus
+                    Iërnen Movit, et in festo Spumavit remige Thetis. <del rend="overstrike">
+                        <gap reason="illegible" unit="letters" atLeast="7" atMost="8"/>
+                    </del> Scotorum cumulos flevit glacialis Hiberne ––––– As others may,
+                    particularly from the Ecclesiastical writers, which have been often Squeesed to
+                    Serve the Purposes of different <del rend="overstrike"><unclear reason="illegible">writers</unclear></del> Enterprizers.</p>
+                <p>Thus Supported by their Friends in <placeName ref="pl0708">the Western
+                        Isles</placeName>, by the Irish Scots and by continual Experience in Arms on
+                    a more Enlarged Scene of Action, the Albin Scots would at Length become an over
+                    match for the Eastern Picts.</p>
+                <p>This Speculation might be caryed much further but I will conclude it with
+                    observing that the Same Religion, the Same Customs, the Same Language proclaim
+                    the antient Inhabitants of the <placeName ref="pl0777">British Isles</placeName>
+                    the very Same People And it hath happened at Any time that a Tribe of Men
+                    trusting themselves to the Uncertainties of wind And weather, from a distant
+                    Part of the Continent, in the ill contrived vessels of former Ages, Should
+                    Arrive in <placeName ref="pl0889">Irland</placeName> or <placeName ref="pl0731">Wales</placeName>, they woud bear So Small a proportion to the Natives, As
+                    to be Soon <hi rend="underline">Assimilated</hi> to them. <persName ref="pe1997">Hanno the Carthaginian</persName>, by Order of Senate Planted thirty
+                    thousand Men on the Western Coast of <placeName ref="pl1353">Africa</placeName>,
+                    but, as they bore no proportion to the Natives, when deprived of the Support of
+                    the Mother Countrey, they brutalized in the woods or were destroyed by Wild
+                    beasts, for there were no Vestiges of them to be met with And the Same would be
+                    the fate of a Small Parcell of Men who Setled in any Wild Countrey. They woud
+                    presently find themselves oppressed with Every want which they would be Obliged
+                    to Supply by violent means or by Very rough Expedients — a Spirit of Discord
+                    would creep in among themselves And their Children for want of Care &amp;
+                    Culture would become of a piece with the Natives. Old <placeName ref="pl0705">Caledonia</placeName> is distinguished in one respect from the most, if not
+                    all the Kingdoms of <placeName ref="pl1176">Europe</placeName>; It's Situation
+                    soil and the Military Spirit of it's Inhabitants were Ever impregnable
+                    Securities Against the attempts of foreign Invaders. It is the race of the
+                    Aboriginal Natives, with a Very few Exceptions, you meet with in the Countrey
+                            <pb/><fw>8<hi rend="superscript">th.</hi></fw> You mean to adorn with
+                    Curious <add place="above">&amp; Useful</add> Remarks And that you may Live Long
+                    to promote the Happyness And Honour of the Human Species is the Sincere wish
+                    of,</p>
+
+                <closer><salute>Dr Sir <lb/><hi rend="underline">Your Most Obedient humble
+                            Servant</hi></salute>
+                    <dateline><placeName ref="pl0742">Kilmuir</placeName> in <placeName ref="pl0715">Sky</placeName> March the 15<hi rend="superscript">th</hi>
+                        <lb/>1775.</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>Thomas Pennant Esqre,</addrLine>
+                        <addrLine>of Downing, Flintshire.</addrLine>
+                        <addrLine>S. Brittain.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

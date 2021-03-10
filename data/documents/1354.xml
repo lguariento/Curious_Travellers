@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1354">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Philip Yorke to Thomas Pennant, 13 November 1778</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>Warwickshire County Record Office</repository>
+                        <idno>CR 2017/TP 401/2/1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0243">Philip Yorke</persName>
+                    <date when="1778-11-13"/>
+                    <placeName ref="pl1250">Netherhall</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1359"/>
+                    <ref type="prev" target="ct1358"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>
+                    <salute>Dear Sir.</salute><dateline><placeName ref="pl1250">Netherhall</placeName> Nov: 13. 1778</dateline></opener>
+                
+                <p><persName ref="pe0683">M<hi rend="superscript">r</hi>. Senhouse</persName> is so kind to sit near me, and from his dictating, I 
+                    make you the following Communication of such things as have been found in and near the Camps since you were in this 
+                    Country.<note type="editorial">Yorke refers to Pennant's visit to Senhouse at the town of Maryport and the latter's seat, 
+                        Netherhall, Cumbria, on his journey to Scotland in 1772. Pennant observed the remains of a Roman station square, a 
+                        tumulus, and 'several antiquities that had been long preserved in [the] house and gardens', and provided plates showing 
+                        some of the latter. He also reported that Senhouse had since provided him with 'an account of other discoveries'. This 
+                        letter suggests that yet further material was uncovered during the second half of the 1770s. 
+                        <hi rend="italic">A tour in Scotland 1772</hi>, part I (1774), pp. 59–64. Further on the discovery of Roman remains at 
+                        Maryport
+                        from the sixteenth century to the present day, see Kirstie Kinghorn,
+                        'Maryport Roman settlement: unearthing a Roman civilian's past', <ref type="http" target="https://www.bbc.co.uk/news/uk-england-cumbria-26558713">here</ref> [accessed 13 August 2017].
+                    </note></p>
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <list>
+                                    <item>1.</item>
+                                    <item>VIRTVTI</item>
+                                    <item>AVGVSTAE</item>
+                                    <item>--------------</item>
+                                    <item>QVINTIFILIA</item>
+                                    <item>HERMIONAE</item>
+                                    <item>VSLLM</item>
+                                </list>
+                            </cell>
+                            <cell>
+                                <list>
+                                    <item>2</item>
+                                    <item>I O M</item>
+                                    <item>ACILIANVS</item>
+                                    <item>PRAEFECTVS</item>
+                                    <item>P</item>
+                                </list>
+                            </cell>
+                            <cell>
+                                <list>
+                                    <item>3.</item>
+                                    <item>VEXIL LEG II AV<add place="above">G</add></item>
+                                    <item>ET XX VV</item>
+                                    <item>FECERVNT</item>
+                                </list>
+                            </cell>
+                        </row>
+                    </table>
+                </p>
+                <p>No: 1, and 2, are Altars like those you saw here before; the first has only half the Cup, being but the section of the Altar, 
+                    and the front face of it; the Second is remarkable for having no Cup at all. Note, there is a line lost in the first (as scratched) 
+                    by the Fracture of <add place="above">the</add> Stone, which was the name of the woman; the three last letters of the lost name, 
+                    were clearly <del>X</del>AN<del>X</del>A – without the stroke in the A –––––</p>
+                <p>No: 3. appears to have been a facing Stone in some building, and found in the Camp. In the Quarry near the Camp about 3 Years 
+                    since was found a Stone bearded head – The Sculpture is bold, and you may suppose it <persName ref="pe2102">Jupiter</persName> if you will. The neck is broken 
+                    from the Body and it had fallen from <del>the Camp</del>the ––––– Brow near the Camp into the Quarry. You will note that the 
+                    letters of the Inscriptions herein sent are not exactly in the Sit<del>t</del>uation they are in on the Stone, that is, the 
+                    <sic>the</sic> number of Letters in each line are preserved, but they do not <del>unders</del>, stand under one another, 
+                    exactly as they do on the Stone. One <sic>compleat</sic> Pair of Millstones have been found; an odd one, which is extremely 
+                    neat, <unclear>to</unclear> several Fragments their diameter (that is the Dia: of the Pair, are twenty Inches, the odd one is 
+                    seventeen. They are supposed to have been worked by the hand. There has been a Stone female Image found, but the Limbs and head are 
+                    gone; the Barbarians seem to have made a whetstone of the back. There is a Fragment of a broad Stone, which appears to have been a 
+                    facing in a wall, on which the following Fragment is very fairly Inscribed in larger letters than com[m]on<lb/>
+                    C O H <unclear>I</unclear><lb/>
+                    and by the tops of the letters in the next line <persName ref="pe0683">M<hi rend="superscript">r</hi>. Senhouse</persName> 
+                    thinks it is <sic>Hispanoric</sic>.
+                </p>
+                <p>Several <sic>peices</sic> of unground Glass painted &amp; plain, have been dug up <gap unit="letters" quantity="several" reason="authorial"/> 
+                    They are understood to be as well cast as Any of the same Kind now done: but neither ground of polished. With 
+                    <persName ref="pe0683">M<hi rend="superscript">r</hi>. Senhouse</persName>'s best Resp<hi rend="superscript">cts</hi> to you, </p>
+                <closer><salute>
+                    I am Dear Sir Your very<lb/>
+                        Faithfull Friend
+                    <lb/>
+                    </salute>
+                    <signed><persName ref="pe0243">Ph: Yorke</persName></signed>
+                    </closer></div>
+            
+            
+        </body>
+    </text>
+</TEI>

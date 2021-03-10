@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0012">
+    <teiHeader type="w">
+        <fileDesc>
+            <titleStmt>
+                <title>Robert Ker Porter, Journal of a Tour in North Wales
+                    <date>1799</date></title>
+                <respStmt>
+                    <name>Edited with an introduction by Elizabeth Edwards</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>MS 12651</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>B</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p>Inside front cover (p. i) and following recto page (p. iii) contain pencil outline sketches of figures/men</p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+        <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            <language ident="cy">Welsh</language>
+            <language ident="fr">French</language>
+                <language ident="la">Latin</language>
+            <language ident="it">Italian</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb/>
+                <fw>f.1</fw>
+                <p style="center"><placeName ref="pl0740">Shrewsbury</placeName></p>
+                <p><date when="1799-07-11">July 11th 1799.</date></p>
+                <p>Arrived here after a most stupid and tedious Journey in the long B<gap unit="letters" quantity="3" reason="illegible"/>ted Coach; no passengers within entertaining or useful, nor even ornamental, accept 
+                    <persName ref="pe0308">Tommy Underwood</persName> and Myself. the remainder being made up of Old women, Parrots, Children, sick men, and Bundles – the first day hot and dusty, the second, raining damp 
+                    and nasty. Tomorrow god willing we commence our perambulations. ----------------------</p>
+                <p><date when="1799-07-12">July the 12.</date></p>
+                <p>Left <placeName ref="pl0740">Shrewsbury</placeName> at 10 oclock and commenced our walk, in the course of a Short time the first appearance of the 
+                    <placeName ref="pl0731">Welsh</placeName> Mountains Burst upon our View, the sight to me was uncommonly interesting and Grand; Interesting from 
+                    <del>from</del>many circumstances
+                <pb/>
+                <fw>f.3</fw>
+                    as it reminded me of the <hi rend="underline">Many many</hi> happy days <add place="above">which</add> I had passed in a similar country as to appearance. 
+                    the cultivation which surrounded us on every side almost to the summit of the hills is rich and Luxuriant the people seem commodious 
+                    <add place="above">and happy</add> in their cottages, and what the divil else would they have? after passing the <hi rend="underline"><placeName ref="pl1021">Salopian plains</placeName></hi> 
+                    we approached the mountain ornamented by <placeName ref="pl1508"><persName ref="pe0351">Lord Rodneys</persName> Pillar</placeName>
+                   <note type="editorial">Admiral Rodney’s Pillar, a monument raised on Breiddin Hill, just outside Welshpool, in 1782 to commemorate the naval victories of George Brydges Rodney in the American Wars of Independence.</note>
+                    which after the perambulation of a few miles, my friend <persName ref="pe0308">Underwood</persName> and I sketched, <del>it</del>
+                    in not one of its most disagreeable points of view. No adventures, mental personal or occular of any singular moment attracted us during this day, 
+                    and we arrived in <placeName ref="pl0741">Welshpool</placeName>, fagged, footsore and fatigued about half past 5 – 
+                <pb/>
+                <fw>f.5</fw></p>
+                <p style="center"><placeName ref="pl0741">Welshpool</placeName></p>
+                <p>after tea we visited the <placeName ref="pl1509">Castle and Park of <persName ref="pe0723">Lord Powis</persName></placeName>,
+                    which both in itself and its surrounding objects raises the senses of observance to the highest pitch of gratification. looking towards 
+                    <placeName ref="pl0740">Shrewsbury</placeName> the view is most interestingly delightful being formed of a grand collection of stupendious 
+                    and rich purple toned Mountains, decorated at their feet by well cultivated Lands, winding streams, whose waves do somewhat undulate here and there, 
+                    but in colour seem rather snuffy. after having made one slight sketch in <placeName ref="pl1509">Powis park</placeName> a sort of Poetic Furor 
+                    betook my imagination, and I composed in the space of a few seconds the following four Lines
+                <pb/>
+                <fw>f.7</fw>
+                    and I dare say if it had not been for the damp of the forthcoming evening, I should have completed a whole Sonnet. “however that is as here after may be.” <hi rend="underline">Minor</hi>.</p>
+                <p>If ever mortal was by ’servance sweet,
+                    <lb/>Of Nature’s beauties, roused to admire:
+                    <lb/>Set him soft muse at <placeName ref="pl1509">Powis Castle</placeName> feet
+                    <lb/>And soon his soul will warm <add place="above">with</add> <persName ref="pe0509">Rosa</persName>'s fire.<note type="editorial">Salvator Rosa (1615-73), Italian painter, whose neo-classical depictions of landscape (along with those of Claude Lorrain and Nicholas Poussin) shaped the late eighteenth-century taste for the picturesque.</note></p>
+                <p>I was too hungry to proceed, my feet were asleep and the Evening dew had nearly soked to the Skin, so I pocketed my Book trudged to the 
+                    <placeName ref="pl1510">Royal Oak</placeName> eat a good supper and thank god am going in good health to bed where by this time 
+                    <persName ref="pe0308">Tommy</persName> is fast asleep, so <add place="above">no more</add> <gap unit="letters" quantity="5" reason="illegible"/>
+                <hi rend="underline">Bon soir</hi>.</p>
+                <p><date when="1799-07-13">July the 13th.</date></p>
+                <p>Left <placeName ref="pl0741">Welsh Pool</placeName> about nine o clock, the country for several miles was somewhat
+                <pb/>
+                <fw>f.9</fw>
+                    similar to that we had past the preceeding day. only more grand and stupendious, and the mountains <add place="above">were</add>
+                    not cultivated so near their summits. After passing <placeName ref="pl1514">Llanfair</placeName> (the first <placeName ref="pl0731">Welsh</placeName>
+                    Village I had seen, which is most pleasantly situated on the Banks of the <placeName ref="pl1863">Venew</placeName>)<note type="editorial">Possibly misinterpreted from River Vyrnwy, which runs near, but not alongside, Llanfair Caereinion (actually located on the banks of the River Banwy).</note>
+                    we were met by a most tremendous storm of rain, and had it not been for the useful interferance of our Umbrella 
+                    we certainly should have been compleatly drench’d in <placeName ref="pl0731">Welsh</placeName> rain. about 1 we arrived at 
+                    <placeName ref="pl1511">Cann Office</placeName> a single house on the side of the road where we dined neat, clean, gratifying and comodious.</p>
+                <p style="center"><placeName ref="pl1516">Llangadfan</placeName></p>
+                <p><date when="1799-07-14">July 14th, being Sunday.</date></p>
+                <p>The fatigue of the preceeding day had so overpowered my observing and <unclear>comfortable</unclear> sensations, that I thought <placeName ref="pl1511">Cann 
+                    <pb/>
+                    <fw>f.11</fw>
+                    Office</placeName> a Parradice. the place when I was Myself again, was damp dirty and odious. the People to be sure were civil, but slow and silent.
+                    here we remained all night, and after waiting from 7 till nine breakfasted and bent our course for <placeName ref="pl1515">Mallwyd</placeName>. 
+                    The commencement of this day’s Journey (for a few miles) was synonimous to the former, but we soon reached a more rugged and grand Country, which came nearer to my Idea 
+                    <unclear>dearly</unclear> entertained of <placeName ref="pl0731">Wales</placeName>. the Cottages are all built of loose stones and 
+                    <add place="above">slated</add> <del>tiled</del>, time has enriched this covering with a deep toned greenish Brown Moss, that adds greatly to their beauty and rusticity. here and there the sides
+                <pb/>
+                <fw>f.13</fw>
+                    of the Mountains are happily bespringled by these romantic efforts of <placeName ref="pl0731">Welsh</placeName> Architecture. We met several friends on 
+                    Horse back riding in the <placeName ref="pl0775">English</placeName> stile,<note type="editorial">A reference to the ‘forward seat’ or ‘English hunting seat’, characterized by the rider’s forward position and shortened stirrups. See Donna Landry, Noble Brutes: How Eastern Horses Transformed English Culture (Johns Hopkins University Press, 2009).</note>
+                    covered with Large blue cloaks round Black Hats, and from their centre downwards with blue striped raiment, their lower extremities now and then 
+                    with Black stockings shoes and Buckles. the only figure of feminine appearance, which in the least deviated from what I have already described, was an 
+                    <persName ref="pe1149"><sic>Ederly</sic> woman</persName> who I dare say meant no external immodesty, bestrode her horse as would a Man, and consequently from the nature of her attire, could not in such a situation
+                <pb/>
+                <fw>f.15</fw>
+                    appear with all possible decency. however not to mention her indecorous situation, I will <add place="above">mention</add> <del>say</del>
+                    how much decency will permit me to say I saw, and how much further I will <add place="above">leave</add> to the Luxuriant imagination of 
+                    others -- I beheld her naked Knees ---------- the saddle saw the rest. –</p>
+                <p style="center"><placeName ref="pl1515">Mallwyd</placeName></p>
+                <p>we arrived here about 1 o clock. Eat a famous and renovating dinner after which we took a survey of the Country. about a quarter of a mile from the Inn
+                    is a Little Picturesque <placeName ref="pl1864">Bridge and Mill</placeName>, the river has a <add place="above">small</add>
+                    <del>little</del> fall, but in appearance rather artificial. from this spot we continued under the Mountain till we reach 
+                    <placeName ref="pl1513">Dinas Mowddy</placeName>, which is a bundle of dirty Huts arranged somewhat in the form of a street. directly</p>
+                <p style="center"><placeName ref="pl1513">Dinas Mawddwy</placeName>
+                <pb/>
+                <fw>f.17</fw>
+                    over this abortion of a Town rises a stupendious and curious formed mountain called <placeName ref="pl1865">Moel Terwyn</placeName>
+                    <del><gap unit="letters" quantity="5" reason="illegible"/></del> (viz <del><gap unit="letters" quantity="5" reason="illegible"/></del>) <del><gap unit="letters" quantity="5" reason="illegible"/></del>
+                    there are some odd ups and downs, ins and outs, on its side <add place="above">most</add> queerly constructed: which extraordinary look struck me precisely the same (as to what the whole 
+                    resembled) as it did my friend <persName ref="pe0308">Underwood</persName>: <del>my</del><add place="above">our</add> exclamation was as ingenious, as 
+                    <persName ref="pe0909">Mr Wests</persName>, when his <hi rend="underline">Classical</hi> eye first beamed on the divine Apollo
+                   <note type="editorial">The American artist Benjamin West (1738-1820) is famously said to have commented ‘My God, how like it is to a young Mohawk warrior!’ on first encountering the marble sculpture the Apollo Belvedere during a tour of Italy in 1760. See Julia A. Sienkewicz, ‘Beyond the Mohawk Warrior: Reinterpreting Benjamin West’s Evocations of American Indians’, 19: Interdisciplinary Studies in the Long Nineteenth Century, 9 (2009) https://www.19.bbk.ac.uk/articles/10.16995/ntn.515/</note>
+                    -- tho my Mountain was no Mohawk Warrior, yet there could have been no such warrior had not there <add place="above">been</add>
+                    my mountain’s semblance. several sketches were made of various parts surrounding, when we returned to our comfortable habitation, nearly wet to the skin, 
+                    as the awkward elements were so unmannerly as to pelt us without mercy all the time. at 10 we adjourned for the night – my little 
+                    <add place="above">Toe</add> being viley exruciating
+                <pb/>
+                <fw>f.19</fw></p>
+                <p style="center"><placeName ref="pl1515">Mallwyd</placeName></p>
+                <p><date when="1799-07-15">July 15th.</date></p>
+                <p>Unfortunate mortals – . It rains like Devil, 9 o clock in the morning and no prospect of seeing a fingers length in front. went into the church yard where are now existing a few ancient Yews large in circumference, and vast in observance. 
+                    My friend <persName ref="pe0308">Underwood</persName> conscious they are not Less aged than one thousand 12 months. 
+                    our Host said the Largest is 7 and 20 feet round – . few of the People speak <placeName ref="pl0775">English</placeName>,
+                    yet all the <add place="above">inscriptions on the</add> tombstones are in that Language: one thing I have forgot to remember almost ever since the commencement of this 
+                    <hi rend="underline">truly</hi> valuable recital of circumstance, which is that instead of the Elegant goat, every animal is Pig,
+                    at every turning there is a Pig in every house there is a Pig, nay every body is a Pig --- .
+                <pb/>
+                <fw>f.21</fw>
+                    at 1 o clock it cleared up and we ventured forth to draw. Made the first coloured sketch from Nature looking towards
+                    <placeName ref="pl1513">Dinas Mowddy</placeName>. on our return to the Inn, there came a group of four pedestrians fatigued famished and filthy. they seemed men very thick upwards and were bound for 
+                    <placeName ref="pl1293">Birmingham</placeName>. - <persName ref="pe0308">Underwood</persName> thought them buckle formers. 
+                    <del><gap unit="letters" quantity="4" reason="illegible"/></del> Was our gallantry equal to <persName ref="pe0308">Tommy Underwood</persName>'s - !!!
+                    the distance sound of a Carriage roll’d in redoubling sounds across the winding Mountains, a few moments and the vehecle 
+                    was at the door of the <placeName ref="pl1512">Cross Foxes</placeName> (Poetic Sign!) the <add place="above">night</add>
+                    was far advanced the lowering clouds gathered low
+                <pb/>
+                <fw>f.23</fw>
+                    and dark in the Bosom of the Valley the coming storm, which threatened instant destruction to the houseleeks traveller, produced a concattenation
+                    of circumstances truly critical. There was at this moment not a vacant room either with or without a bed, this doleful intelligence was communicated to the content, of the 
+                    gay Machine by our civil Hostess. the consternation such horrible news created on the minds of three heaven formed fairs was not of long duration, for the alert 
+                    and elegant minded <persName ref="pe0308">Underwood</persName>, sprang to the side of the Charriot, and in the accents of a 
+                    <persName ref="pe0908">Chesterfield</persName> proffered his bed and dwelling, his words
+                <pb/>
+                <fw>f.25</fw>
+                    were mine, so they now possess of a good resting place for the night and we were shoved in among the <placeName ref="pl1293">Birmingham</placeName>
+                    Buckle formers. the Modest but Amiable Bashfullness of my friend so overpower’d his memory, that on their accepting his heroic offer, 
+                    he Left the Carriage door – – . They found the way out themselves – and he rejoined me. what I ought to have done I will not say. – 
+                    10 <add place="above">o clock</add> the Buckle Makers are gone to rest the exchange of beds was not for the better. but then the 
+                    satisfaction we had rendered ourselves and the comfort to others rendered our rest more pleasant than had we been poked into garrets 
+                <pb/>
+                <fw>f.27</fw>
+                    divested of such occurences. at 10 this morning we saw the fair charrioteers off, then the Buckle Makers, and next ourselves. Our walk this day
+                    (16<hi rend="superscript">th</hi> July) was through <placeName ref="pl1513">Dinas Mowddy</placeName>. it raining extremely hard. 
+                    however notwithstanding this we managed to draw a Picturesque water mill about a mile from <placeName ref="pl1513">Dinas</placeName>,
+                    continuing our Journey for some miles the Country varied little from that Hitherto. only the Outline of the Mountains became somewhat bolder 
+                    and more broken by rock. about a mile before the View of <placeName ref="pl1866">Cader Idris</placeName> opens from the narrow vale of the 
+                    <placeName ref="pl1515">Mallwyd</placeName> road; there presents a most exquisite mountain both in shape and colour, 
+                    <del><gap unit="words" quantity="4" reason="illegible"/></del> and which we made a slight memorandum
+                <pb/>
+                <fw>f.29</fw></p>
+                    <p style="center"><placeName ref="pl1517">Dolgellau</placeName></p>
+                <p>of called <placeName ref="pl1867">Cwy Avon</placeName>. after the ascention of the opposite hill; journeying onward some certain distance, 
+                    the stupendious Cader rises in vast Piles of Chaotic grandeur, surrounded on every side by lesser heaps of cloud 
+                    <hi rend="underline">on</hi> shadowed hills. as we nearer drew to the Town of <placeName ref="pl1517">Dolgelly</placeName>
+                    <add place="above">on</add><del>to the</del> right we discovered the Mountains of <placeName ref="pl1518">Beddhellert</placeName>
+                    and <placeName ref="pl1183">Snowdon</placeName>. This is a Magnifficent assemblage of dwellings for <placeName ref="pl0731">wales</placeName>, which as they are so collected are termed a Town, which is 
+                    strangly stragling and oddly connected. here we arrived at five determining to stay a few days, but the beastlyness 
+                    of the Inn totally upsett all our plans, and after a sleep incomodious and uncomfortable we arose <add place="above"><date when="1799-07-17"/></add> and
+                <pb/>
+                <fw>f.31</fw>
+                    started at 10. persueing our way through a country more delightfull than conception can conceive. the road is most romanticly 
+                    situated by an arm of the sea! which Joins the River a mile or two from <placeName ref="pl1517">Dolgelly</placeName>. 
+                    the Grand Line of <placeName ref="pl1866">Cader</placeName> strickes itself over the vast Chain of hills beneath, to the very shores of the 
+                    <placeName ref="pl1084">Oacean</placeName>: the View about a one mile from <placeName ref="pl1519">Barmouth</placeName>, 
+                    looking towards the Country we had Left, was yet <add place="above">more grand</add> <del><gap unit="words" quantity="1" reason="illegible"/></del>
+                    than any thing my imagination even with the <hi rend="underline">combined</hi> discription of an Osian could picture. the links of Mountains Towering one above the other untill 
+                    they <del><gap unit="words" quantity="1" reason="illegible"/></del> pierced the very heavens; whilst the blue Mist of distance veiled their forms in 
+                <pb/>
+                <fw>f.33</fw></p>
+                <p style="center"><placeName ref="pl1519">Barmouth</placeName></p>
+                <p>additional sublimity &amp; the observance such a scene untill this moment I had never beheld, and such a scene human talents are far beneath the power of conveying 
+                    its Just Idea. at 5 we arrived at <placeName ref="pl1519">Barmouth</placeName> the <placeName ref="pl1010">Giberalter</placeName>
+                    of <placeName ref="pl1221">North Wales</placeName>. a strange built place on the side of a Steep Rock, the houses are piled one above the other, some have entrances at their roof, others 
+                    windows in their chimneys and some <add place="above">no windows</add> <del><gap unit="words" quantity="1" reason="illegible"/></del>
+                    at all. this is a gay place for bathing, here the Ladies sans ceremonie, <unclear>stroll</unclear> into the sea 
+                    <add place="above">like <persName ref="pe1150">Eve</persName></add> <del><gap unit="words" quantity="1" reason="illegible"/></del>,
+                    with small rayment around their centres. Not a whole regiment of <unclear>males</unclear>, each with a Magnifying glass nor 
+                    the surge of a <placeName ref="pl1868">Biscayan Ocean</placeName> could possibly, others call a Blush on their bodies or 
+                <unclear>wash</unclear> the
+                <pb/>
+                <fw>f.35</fw>
+                    time <unclear>unbronzing</unclear> innocence of custom. however, this exhibition of Mountains may be classed in natural 
+                    beauty with <placeName ref="pl1183">Snowdon</placeName> and <placeName ref="pl1866">Idris</placeName>. here we heard the Welsh Harp 
+                    in the highest perfection, the player was a young man whose soul seemed embowell’d in his harp strings. the energy with which he executed 
+                    the various airs we called for and the fine taste with which he added variations did him vast honour. the Music was well adapted to the 
+                    Instrument it being of an extreme wild Eolean tone, divested of all the Sundry tricks of Modern Mechanical intricacy in order to Meliorate and 
+                    give an elegant and <hi rend="underline">Graceful</hi> harmony to its tones; like the Puffed
+                <pb/>
+                <fw>f.37</fw>
+                    Breeches,<note type="editorial">Puffed or padded breeches, gathered at the knee.</note> and puckered coats of the present race invented to 
+                    <del><gap unit="words" quantity="1" reason="illegible"/></del> <add place="above">add</add> those forgotten parts of the human body, which 
+                    <add place="above">escaped</add> Natures <del><gap unit="words" quantity="3" reason="illegible"/></del> memory. the 
+                    <placeName ref="pl0731">Welsh</placeName> Music is wild, grand and pathetic. yet after a length of time, it becomes rather Monotonous to Ear, 
+                    one great advantage which the <del><gap unit="words" quantity="1" reason="illegible"/></del> <placeName ref="pl0705">Scotch</placeName>
+                    Airs have over those of <placeName ref="pl0731">Wales</placeName>, as in them there is more variety of little varied turns. – we made one or two sketches 
+                    of the opposite Mountains, and Left <placeName ref="pl1519">Barmouth</placeName> on the 19<hi rend="superscript">th.</hi>
+                    for <placeName ref="pl1520">Harlech</placeName>. the road to the Left for the whole way is flanked by the sea, on the right by 
+                    <del><gap unit="words" quantity="1" reason="illegible"/></del><add place="above">bare</add> and rocky heights. there is no view of the least consequence untill 
+                    within a mile 
+                <pb/>
+                <fw>f.39</fw></p>
+                <p style="center"><placeName ref="pl1520">Harlech</placeName></p>
+                <p>and half of <placeName ref="pl1520">Harlech</placeName>, when a vast and infinite collection of Mountains present themselves, 
+                    <placeName ref="pl1183">Snowdon</placeName> high above this Mob of Earthly Warts, veiled thick in sable Atmosphere. the sun rolled into a sort of large Bay at their foot; and on a high rocky promontory in the foreground rose the 
+                    <placeName ref="pl1521">Castle of Harlech</placeName> an Ancient and Splendid <hi rend="underline">Radcliffian</hi><note type="editorial">  A reference to the novelist Ann Radcliffe (1764-1823), whose fictional ruined castles and abbeys become a key component of late eighteenth-century Gothic aesthetics. See, for example, The Castles of Athlin and Dunbayne: A Highland Story (1789)</note>
+                    erection: the scene grew less grand as we approached nearer the Village, and at last it was totally obliterated by odd Huts, arranged 
+                    <del>a</del><add place="above">in</add> strange fashion by way of a Town. this place is most Romanticly situated on a high Rock 
+                    which over looks the sea and the distant Coast of <placeName ref="pl1672">Carnarvonshire</placeName>, the <placeName ref="pl1521">Castle</placeName>
+                    stands on a part 
+                <pb/>
+                <fw>f.41</fw>
+                    of the same adamantine projection, and is a square building flanked every way by lofty round Towers. and on each of those which commands the sea, 
+                    are erected two others most smartly ornamented near their Battlements by Corbels. the entrance is defended by pair 
+                    yet smaller and the Grand Gate, is blest with a couple still larger than all, having a similar two in its rear which commands the court aspect. 
+                    there is a winding terrace down to the foot of the rock on which this Eddifice is built. from whence is a wide swampy marsh about three 
+                    qu<hi rend="superscript">rts</hi> of a Mile from the Sea, here the parishioners have the priviledge of feeding <gap unit="words" quantity="1" reason="illegible"/>
+                    Cattle and Cutting Turf.
+                <pb/>
+                <fw>f.43</fw>
+                    here we remained for near two days and at the Expiration of which time we left it accompanied by a Guide for <placeName ref="pl1522">Menturog</placeName>.
+                    the whole of this road is exquisitely picturesque, and from its wondrous variety in scene, claims the particular attention of every perambulator, equestrian or other. 
+                    after leaving the low marsh of <placeName ref="pl1520">Harlech</placeName> and Then <gap unit="words" quantity="1" reason="illegible"/>,
+                    we ascended a steep hill which lead into a Most romantic road, bounded by rugged Mountains exquisitely grand. at the foot of one of them is a large, 
+                    deep, and black lake more sequestered and soul saddening than
+                <pb/>
+                <fw>f. 45</fw></p>
+                <p style="center"><placeName ref="pl1522">Maentwrog</placeName></p>
+                <p>than any thing we had yet seen. a few steps farther and on the Right we could behold the pretty and rich cultivated vale of 
+                    <placeName ref="pl1523">Festiniogg</placeName>, and on our left this sable watered expanse. a pleasing and <hi rend="underline">pretty</hi>
+                    walk brought <add place="above">us</add> about 8 o clock in the Evening to the Inn at <placeName ref="pl1522">Manturogg</placeName>. -</p>
+                <p><date when="1799-07-22">July 22<hi rend="superscript">d.</hi></date></p>
+                <p>Went to the Waterfalls about a Mile from this place, the first is uncommonly grand it is called <placeName ref="pl1869">Llyn-yg-gfron</placeName>. 
+                   <note type="editorial">Probably a reference to the falls now known as Rhaeadr Ddu (Black Falls), depicted in c.1830 by the Welsh artist Hugh Hughes (1790-1863) in this print: https://commons.wikimedia.org/wiki/File:Rhaiadr_Du_-_near_Maentwrog.jpeg</note>
+                    its torrent rushes between two steep and finely wooded precipices commencing at an immense height above the river’s Level, it first rolls 
+                    rapidly along a steep shelve of rock, into a small deep and hollow basson, here, a projection
+                <pb/>
+                <fw>f.47</fw>
+                    of rock arrests its passage, when it again rushes round this Angle, and falls with the most thundering violence down a perpendicular surface of an
+                    <add place="above">amazing</add> depth; at the bottom it is received <gap unit="words" quantity="1" reason="illegible"/> into the river whose water is
+                    <del>of a</del> perfectly black. It is an impossibility to give the least idea of the tremendous effect the whole circumstance 
+                    of this scene either by the Pencil or the Pen. the extreme difficulty of obtaining any sight of so wonderful and romantic an occurrence makes 
+                    it but little Known as the only method of obtaining such observance is most difficult and dangerous. being down a descent
+                <pb/>
+                <fw>f.49</fw>
+                    nearly perpendicular, and all the dependence to preserve yourself entire was by the shrubs and stripling ash. The Fall above is by no means so fine,
+                    yet for those who have not viewed the former would think it exquisite. the whole fall, is one mass of foam and spray, the basson 
+                    which receives it underneath is very large and full of huge rocks. this has, and is constantly visited and drawn by all who come to
+                    <placeName ref="pl1522">Mantwurogg</placeName>. after dinner we sallied forth for <placeName ref="pl1518">BethKelert</placeName>.
+                    over a troublesome and elaborate road. the way was more than ordinarily fatiguing the Country uninteresting and Bleak. what perhaps might add to its look-
+                <pb/>
+                <fw>f.51</fw></p>
+                <p style="center"><placeName ref="pl1525 pl1518">Aberglaslyn / Beddgelert</placeName></p>
+                <p>ing <del>in</del> so unfavourably in my sight, was our having been disappointed by the <hi rend="superscript">entrance of the</hi>
+                    tide over the <hi rend="superscript"><placeName ref="pl1524">Traeth</placeName></hi>. <del>which</del> and prevented our crossing 
+                    the sands at the feet of those Mountains which so happily surround the lower extremity of <placeName ref="pl1183">Snowdon</placeName>.
+                    after much toil to our muscular abilities, we again obtained the main road and a Mile or two brought us to the Pont over 
+                    <placeName ref="pl1525">Glas-Llin</placeName>.<note type="editorial">Bridge across the Aberglaslyn gorge near Beddgelert, Snowdonia, and a key feature in the landscape for visiting writers and painters in the period. See, for example, Mary Smirke (1779- 1853), ‘Pont Aberglasslyn’ (c.1810): https://commons.wikimedia.org/wiki/File:Pont_Aberglasslyn_(1132552).jpg)</note>
+                    this is by far the most <hi rend="underline">barbaric</hi> or apparently uncivilized Morsel of <placeName ref="pl0731">Wales</placeName> I had yet beheld. two almost perpendicular rocks of a 
+                    height a cut above tremendous, rises on each side of a river which rolls with in the most furious rapid style
+                <pb/>
+                <fw>f.53</fw>
+                    ever river rolled in the hollow sound of its waters, make thunder appear but the Whinings of a six months Infant. across
+                    this angry roaring torrent a bridge of a single Arch throws itself with much taste and picturesque excellence. it is perfectly 
+                    suited in its rude state of Masonry to this as rude a scene. – but behold the grand climax of all its terrible greatness, 
+                    underneath this stony semicircle, low mid the bowels of the parting rock in a gully deep as the Devil’s dwelling; 
+                    down with the most ear rending noise, rushes the already angry waves, if angry then?
+                <pb/>
+                <fw>f.55</fw>
+                    now all passion. down this Hell on Earth they rush, and roar themselves to silence. Here we met the gay triumvirate, 
+                    <persName ref="pe0911">Francia</persName> <persName ref="pe1151">Mr Smith</persName> and <persName ref="pe1152"><unclear>Tissor</unclear></persName>.
+                    they returned with us to <placeName ref="pl1518">BethKelert</placeName> and then we visited in the course of the Evening a small Lake about two miles above the Mill.</p>
+                <p><date when="1799-07-24">24<hi rend="superscript">th.</hi></date></p>
+                <p>the Junto Left us and we drew the water of the Pont – <placeName ref="pl1525">Aber-glas-Llyn</placeName> - being <del>the</del>
+                    <add place="above">a</add> most admirable specimen of water both in colour and Mode of rushing. the Immense rocks so happily 
+                    interspersed amidst the channel creates a number of picturesque interruptions, which are eminently adapted
+                <pb/>
+                <fw>f.57</fw>
+                    for study both in colour and form. the <placeName ref="pl1518">Vale of BethKelert</placeName> is ruggedly grand, and rendered more 
+                    pleasing by the pretty interspersion of <hi rend="underline">now</hi> and <hi rend="underline">then</hi> a growth of 
+                    <hi rend="underline">beach</hi>, <hi rend="underline">birch</hi>, Mountain Ash, and Cottage. The Village and bridge is by far the Most ellegable 
+                    for picture making than any we had hitherto seen. there is likewise a <placeName ref="pl1870">lovely little church</placeName>, <hi rend="underline">elegantly</hi>
+                    adorned by a neat variety of trees from the Radcliffian assemblage. it is finely place on the banks of a 
+                    <hi rend="underline">rippling river</hi>, whose <hi rend="underline">gentle</hi> noise adds much to its other beauties here also may be viewed 
+                    a Mill an Alpine species of bridge and a bold chain of Hills towards the Lake we lately visited. above it there is also one more, but from the report of 
+                    <persName ref="pe1153">Mr
+                <pb/>
+                <fw>f.59</fw>
+                        Nicolson</persName> it is not worth seeing. – </p>
+                <p><date when="1799-07-25">25<hi rend="superscript">th.</hi></date></p>
+                <p>rained all day, however towards the evening we did manage to make a sketch or two. and add a few years to the <hi rend="underline">Life</hi>
+                    of an <persName ref="pe1154">old Lady</persName>, who <hi rend="underline">died</hi> some 60 years ago at <placeName ref="pl1518">BethKelert</placeName>. 
+                    we could get no supper for the double souled Methodest preacher who drew the bowel of the Whole Village about him in an adjoining mansion for the purposes of saving the their 
+                    consciences from being made the devil’s looking glasses.</p>
+                <p><date when="1799-07-26">26<hi rend="superscript">th.</hi></date></p>
+                <p>Left this place at 7. in order to ascend the huge and gigantic Mass of earth Called <placeName ref="pl1183">Snowdon</placeName>,
+                    whose height above the sea is well Known to my friend <persName ref="pe0308">sir Thomas</persName>. after a walk of 4 miles we met with a 
+                    <persName ref="pe0485">Mr Goodwin of <placeName ref="pl1533">Llanrwst</placeName></persName> who was to ascend with us and two of his minors as guides. our march
+                <pb/>
+                <fw>f.61</fw></p>
+                <p style="center"><placeName ref="pl1183">Snowdon</placeName></p>
+                <p>commenced about 10. and after a most fatiguing and difficult tramp, we at last arrived at its summit envelloped
+                    in a dark thick mist. one side of this vast Mountain is perpendicular for near half a Mile at whose foot <del>is</del>
+                    <del><gap unit="words" quantity="1" reason="illegible"/></del><add place="above">are two</add> bright green Lakes: the other has a descent somewhat gradual though still extremely steep 
+                    and terrific. as the surface is here and there broken by huge Mass of rock of an enormous Magnitude. on this declivity are 
+                    <add place="above">also</add> two Lakes perfectly black which by the stillness of their waters and the deep reflection admitted of the Mountain,
+                    adds considerably to the grandeur and effect of the whole. the track of country in this direction is certainly fine yet nothing to the opposite. 
+                    several pools between the Hills are discernible
+                <pb/>
+                <fw>f.63</fw>
+                    and over all the sea. the day being not one of those very favourable for long observance as to distance, My account cannot be particular. 
+                    the effect on the other side was beyond all Human conception sublime. by degrees the Vapour rolled <del>off</del> in many
+                    places, leaving the clouds <del><gap unit="lines" quantity="1" reason="illegible"/></del> in the hollow tops of the Hills beneath, which rose off like Volumes from 
+                    <placeName ref="pl1874">Etna</placeName>. the undistinct observance of the particular forms, gave wonderful breadth and dreamy like appearance 
+                    to this already too unlike <del>any thing but</del> an effect common to Mortal faculties; as there seemed a sort of supernatural film,
+                    glazed over the distant Landscape, which was so ingeniously stirred up with the clouds that, by degrees,
+                <pb/>
+                <fw>f.65</fw>
+                    earth <add place="above">and air</add> became the same: <del><gap unit="words" quantity="1" reason="illegible"/></del>
+                    and seemed as tho’ these two elements were going to exchange places. the subject is too awefuly grand to admit either of humbug nonsense 
+                    of human ability in describing, therefore will now descend with all possible care and expedition. at the foot of this rugged length, stands a 
+                    small Hovel or Human sty, where we in consort with the civil <persName ref="pe0485">Mr Goodwin</persName> continued to Eat Eggs, Bacon, and Black bread, 
+                    our moisture was milk and water, our attendant was skin and Bones, aged and civil, she looked as if the world 
+                    afforded her not the common occurrences of existence; yet she possess’d 1000 pounds and a Large fat Family. <placeName ref="pl1526">Llan quethlyn</placeName>
+                    is the name of the this place, and near is a Lake of respectable expanse, which produces <unclear>Carp</unclear> of
+                <pb/>
+                <fw>f.67</fw></p>
+                <p style="center"><placeName ref="pl1565">Caernarfon</placeName></p>
+                <p>great delicacy. the road is good and runs close by the edge of this water whose opposite shore is bounded by high rocky Mountains. the last of which from
+                    its peculiar form and appearance is called the Wolf rock.  we Journeyed onward and about 6 miles brought us to <placeName ref="pl1565">Caernarfon</placeName>.
+                    here as to the dwelling Mansions nothing is noticeable. the street seem well enough, and most Vastly broad. the houses old and not vastly clean, 
+                    the people stupid and not very civil. the <placeName ref="pl1566">Castle</placeName> and walls are highly curious and 
+                    <unclear>meritorious</unclear> in <unclear>observance</unclear>, it covers a <del>vast</del><add place="above">great</add>
+                    tract of ground, and is well off for Towers being mostly Octagon or <gap unit="words" quantity="1" reason="illegible"/>.
+                    it is not woefully ruined, and affords great pleasure both to the Artist and the Antiquary ---- met <persName ref="pe1156">Mr Thomson</persName>.</p>
+                <p><date when="1799-07-27">27<hi rend="superscript">th.</hi></date></p>
+                <p>Left this place, <hi rend="underline">wondrous</hi> to relate at 6 o
+                <pb/>
+                <fw>f.69</fw></p>
+                <p style="center"><placeName ref="pl1527">Llanberis</placeName></p>
+                <p>clock and after walking about 6 miles arrived at the foot of the Lower Lake of <placeName ref="pl1527">Llanberis</placeName>.
+                    the morning was all serenity and peace, not an atmospheric motion broke the <del><gap unit="words" quantity="1" reason="illegible"/></del>
+                    <add place="above">calm</add> stillness of this watery expanse, the mist of morning cloathed the distant mountain in air, 
+                    which gave an undicision to the scene and added additional grandeur to the <placeName ref="pl1309">Castle of <gap unit="words" quantity="1" reason="illegible"/></placeName>.
+                   <note type="editorial">The gap left by Ker Porter in the manuscript, perhaps intended to be filled in later, refers to the thirteenth-century Welsh-built castle Dolbadarn, set on the shore of Llyn Padarn in Llanberis, at the foot of Snowdon.</note>
+                    this is one large Tower situated on a rocky <del><gap unit="words" quantity="1" reason="illegible"/></del><add place="above">eminence</add>
+                    projecting boldly into the Lake. While the huge cloud Capped heights rose in sublime magnifficence around it, reflecting their proud forms into the 
+                    Crystal Liquid, every accident produced additional beauties to this exquisite collection of Nature’s incidents. not 
+                    a sound disturbed the Ears of our enraptured community. it was Sunday, 8 o clock, a heavenly Morning
+                <pb/>
+                <fw>f.71</fw>
+                    and we were in a boat. how truly Romantic!! the dashing stroke of the lusty watermen’s abilities, awoke our already slumbering sense of hearing that we might 
+                    enjoy with a still higher zest, the silence and the scene. by degrees we moved to the regular cadence of the oar into the bowels of the Landscape 
+                    the rocks of <gap unit="words" quantity="1" reason="illegible"/><supplied><placeName ref="pl1309">Dolbadarn</placeName></supplied> castle
+                    hung with tremendous awe above our heads, we leaped on shore, eat beef and bread, and saw the time worn eddifice.
+                    from the stile of its architecture its origin must have been far far distant, there are still a few outwork walls with mutilated loops 
+                    perceptable upon the rock it stands upon, the whole presented to my ideas 
+                <pb/>
+                <fw>f.73</fw>
+                    from every circumstance, a most perfect scene, and such as <persName ref="pe0557">Ossian</persName> knew. Leaving this on our rear we Journeyed 
+                    onward by the side of the upper Lake to the Village of <placeName ref="pl1527">Llanberis</placeName>, a poor miserable thumb and finger full of Huts. 
+                    where with considerable difficulty and dirt we procured some Tea. it was now 3 o clock when we moved on for <placeName ref="pl1528">Capel-Kerrig</placeName>
+                    10 miles farther. a quarter of a mile brought us to a scene perfectly opposite to the calm and delightful one we had so recently beheld. a very narrow pass 
+                    amidst masses of rock enormous to the sight and terrible to the mind led to the end of that days exertions. this spot presents to the traveller so desolate, 
+                    so dreary, so aweful, and so terror striking a view, that every <sic>discription</sic> will give but a sorry idea of its Sublimity.
+                <pb/>
+                <fw>f.75</fw>
+                    the vast pile of rocks towering one on each other, to a height nearly perpendicular for many many thousand feet, then Mountain upon Mountain reared their heads, 
+                    and last far piercing midst the heavens, rose in black majesty the triple headed <placeName ref="pl1183">Snowdon</placeName>.
+                    the roaring waters rushed in time worn tracts on every side, <del>from the</del> forming <del>large</del> loud cataracts and distant Lakes. 
+                    for four miles this museum of chaotic terrors presents itself when the way, winds ruggedly rude and uneasy round a stony Mountain side from whence at a considerable distance is descried the 
+                    lakes and <placeName ref="pl1753">New Inn at Capel-Kerrig</placeName>. nothing very interesting is observable in our front the whole way except the new turnpike road
+                   <note type="editorial">Part of the Holyhead-London road between Capel Curig and the north Wales coast, improved by Lord Penrhyn in the 1790s and by a turnpike trust in the early 1800s.</note>
+                    which when finished some say will be 
+                <pb/>
+                <fw>f.77</fw></p>
+                <p style="center"><placeName ref="pl1528">Capel Curig</placeName></p>
+                <p>pleasant for both man and beast, as the old one is the devil. <del>and</del> <gap unit="words" quantity="1" reason="illegible"/>
+                    on looking back <placeName ref="pl1183">Snowden</placeName> and its attendants present themselves neatly piled in a picturesque order to the sight., this is the
+                    perpendicular side of the mountain and consequently the most terrific and horrifying. on our arrival at the <placeName ref="pl1753">inn</placeName>,
+                    we were surrounded by Mob of drunken <placeName ref="pl0731">Welsh</placeName>-men all blood, dirt and scratchs, 
+                    which they had obtained singing Psalms and fighting. this is the Old Inn, and such a one, as, Authors fancy when they wish to Kill 
+                    a way worn traveller amidst the civil crafty cloak of wood emboweled <unclear>therein</unclear>, <gap unit="words" quantity="2" reason="illegible"/>
+                    such was that of <bibl type="authorial"><title ref="bi0627">Raymond in the Monk</title></bibl>,<note type="editorial">A reference to Matthew Gregory Lewis’s 1796 novel, The Monk: A Romance, in which the character of Raymond narrowly escapes being murdered while briefly lodging at a woodcutter’s cottage on his travels.</note> such
+                <pb/>
+                <fw>f.79</fw>
+                    was that of <bibl type="authorial"><title ref="bi0628">Mountfardington in the New Monk</title></bibl>,<note type="editorial">Henry Mountfardington, a character in The New Monk (1798), by ‘R.S.’ – a parody of Lewis’s The Monk.</note>
+                    and such were many others in many other Books. our bedroom to be sure if festoons of any Kind are admitted as ornaments, was elegantly and profusely decorated with Cobwebs in good taste
+                    and dust. the black beams, rotten laths, and cold slates, composed the ceiling, lose boards made the floor, between whose openings the apartment beneath could be observed. our 
+                    furniture was a stool and chair which we placed against the door to prevent intruders; and the walls and partition was hansomely 
+                    hung with woolen petticoats old stockings, pieces of timber and dirty shifts. such was and twenty times a worse idea must be
+                <pb/>
+                <fw>f.81</fw></p>
+                <p style="center"><placeName ref="pl1529">Nant Ffrancon</placeName></p>
+                <p>conceived of this our sleeping hole. but notwithstanding all the dreads that might be supposed to arise from such a concatenation of objects, 
+                    <del><gap unit="words" quantity="1" reason="illegible"/></del> we both slept well. at 8 the next Morning <date when="1799-07-28">28<hi rend="superscript">th</hi></date>
+                    we set off for <placeName ref="pl1595">Aber</placeName> 20 miles distance. after passing the grand <placeName ref="pl1529">Valley of Nanfranlin</placeName>
+                    tho’ nothing compared to that above <placeName ref="pl1527">Llanberris</placeName>. here are two picturesque Lakes, which in conjunction with one other forms a fine fall of water, 
+                    over a bold projecting rock. about two Miles onward, the view to the rear was excessively fine the day being rainy and consequently full of clouds the broad Masses of Shaddow 
+                    produce gave much solemnity
+                <pb/>
+                <fw>f.83</fw>
+                    to the scene. the forms of the high and steep mountain partook more of the <placeName ref="pl1165">alpine</placeName> shape than any we had yet seen, 
+                    they rose in larger piles on each other and the Lines became more broken and varied. on leaving this the road is by no means interesting 
+                    <placeName ref="pl1578"><persName ref="pe0420">Lord Penrhyn</persName>'s slate quarry</placeName> is curious and productive. 
+                    the face of the Land surrounding, by his order, is ingeniously besprinkled with clear white cottages whimsically formed in the bastard Gothic. 
+                    which dwellings are occupied (much horror to <persName ref="pe0420">his Lordship</persName>) by his <persName ref="pe1157">quarry-men</persName>.
+                    At 4 we arrived at <placeName ref="pl1595">Aber</placeName> where we dined and intended to sleep. But
+                <pb/>
+                <fw>f.85</fw></p>
+                <p style="center"><placeName ref="pl1595">Aber</placeName></p>
+                <p>Judge my horror at the sound, the house was full, and not a bed to be had. already I had trailed my incumbered body full 20
+                    tedious miles, weary’d and way worn, foot sore and exhausted. however good spirits of my own and those of our Host, renovated my dying endeavors, 
+                    and at 6 we set off for <placeName ref="pl1049">Conway</placeName> 9 miles farther. from the road which winds at the foot of 
+                    <placeName ref="pl1338">Penman Mower</placeName> we saw <placeName ref="pl1093">Anglesey</placeName> and in the offing the 
+                    <placeName ref="pl0707">Isle of Man</placeName>. At 9 o clock we crawl’d into this place where a good supper, and as good a bed made me “Myself again” ---</p>
+                <p><date when="1799-07-28">28<hi rend="superscript">th.30</hi></date></p>
+                <p>Remained in the place of Entertainment till after dinner, when I <gap unit="words" quantity="1" reason="illegible"/> towards
+                <pb/>
+                <fw>f.87</fw></p>
+                <p style="center"><placeName ref="pl1049">Conwy</placeName></p>
+                <p><placeName ref="pl1530">the Castle</placeName>. which is built on a rocky promontory with much military ability, and masonry strength. it is a Fortress of many Towers one of which has most strangely lost its lower parts, or foundation.
+                    appearing most tremendous to the gratified observer at its foot. the town is well begirt by its walls ancient, happily interspersed with towers and Gates. 
+                    this place is crammed with objects curious and interesting to the Antiquary or Painter – . by some means I have lost a few 
+                    days in my account of the diurnal calculation. we have seen a Lord!!!! And Breakfasted.</p>
+                <p><date when="1799-08-01"><hi rend="underline">August</hi> the first.</date></p>
+                <p>rained all day, consequently drew not a whit. ---</p>
+                <p><date when="1799-08-02">2<hi rend="superscript">d.</hi></date></p>
+                <p>rained again. yet made a few sketches.
+                <pb/>
+                <fw>f.89</fw>
+                    In the Evening <persName ref="pe0308 pe1153 pe1158">Mr Underwood Mr Nicolson and his friend</persName> Left me all alone at the Inn, my Invalid lower extremity being not in health sufficient, from 
+                    the late violent exertion to pursue my way on foot. Walked with several of the gay Ladies of <placeName ref="pl1049">Conway</placeName>
+                    – not much beauty. <persName ref="pe0912">Varley</persName> supped with me ---</p>
+                <p><date when="1799-08-03">3<hi rend="superscript">d.</hi></date></p>
+                <p>up at 4 o clock and set forward to Join my party at <placeName ref="pl1533">Llanrwst</placeName> on the Coach Box. the morning smelt 
+                    well and was clear. the road between <placeName ref="pl1049">Conway</placeName> and this place is extremely beautiful and picturesque, the valley being delightfully ornamented with the stream of 
+                    "<placeName ref="pl1049">Conway</placeName>'s rapid flood",<note type="editorial">A reference to Thomas Gray’s ‘The Bard. A Pindaric Ode’ (1757): ‘On a rock, whose haughty brow / Frowns o’er old Conway’s foaming flood’. See the Thomas Gray Archive for the full text of the poem: http://www.thomasgray.org/cgi-bin/display.cgi?text=bapo </note>
+                    elegantly and richly bordered with the verdant addition of beech, birch, wet hay and hedges
+                <pb/>
+                <fw>f.91</fw></p>
+                <p style="center"><placeName ref="pl1533">Llanrwst</placeName></p>
+                <p>however to take this vale “for all in all,” it certainly is the most luxuriant to the ocular perception I had seen in <placeName ref="pl0731">Wales</placeName>.
+                    the flanking hills are not so rudely naked as those in the bowels of the Country, their appearance therefore accords more with the vale beneath and consequently throws a happy
+                    degree of harmony which is in addition pleasing. at 6 I arrived at this place a respectable Market Town, prettily situated on the
+                    <placeName ref="pl1049">Conway</placeName>'s Banks, has also a handsome <placeName ref="pl1531">bridge <add place="above">built by <persName ref="pe1159">Inigo Jones</persName></add></placeName>
+                   <note type="editorial">Three-arched bridge dating from the early seventeenth century, though the connection to Inigo Jones is uncertain. See http://www.coflein.gov.uk/en/site/24053/details/pont-fawrllanrwst-bridge </note>
+                    which possesses a peculiar porclettic ability. <del><gap unit="words" quantity="3" reason="illegible"/></del> about a
+                    quarter of a Mile stands an old <placeName ref="pl1532">Mansion of the Gwidir Family</placeName>.<note type="editorial">A reference to Gwydir Castle, seat of the Wynn family. See DWB http://yba.llgc.org.uk/en/s-WYNN-GWY-1300.html</note>
+                    has got a pidgeon house and gothic staircase, a water mill and, and great Bull dog.
+                <pb/>
+                <fw>f.93</fw></p>
+                <p><date when="1799-08-04">4<hi rend="superscript">th.</hi>
+                <lb/>Sunday.</date></p>
+                <p>It rained till four o clock when <persName ref="pe0308">Underwood</persName> and myself accompanyed <persName ref="pe0485">Mr Goodwin</persName>
+                    to his <placeName ref="pl1877">Lead Mines</placeName><note type="editorial">Lead mining commenced in the Llanrwst area in the early seventeenth century.</note>
+                    about a mile from hence. In a wood to the right is a <placeName ref="pl1878">small chapel belonging to the house below already mentioned</placeName>.
+                    <placeName ref="pl1532">Gwydir</placeName> - we also visited the <placeName ref="pl1879">Church of Llanrwst</placeName>
+                    which contains several curious monuments a stone coffin &amp;.c.</p>
+                <p><date when="1799-08-05">5<hi rend="superscript">th.</hi></date></p>
+                <p>In the Events of yesterday I drew at the request of <persName ref="pe0308">Underwood</persName> the pretty female <persName ref="pe1160">Kitty</persName>
+                    the maid of the Inn – he being more than commonly attracted by her bodily charms. this morning we were amused, 
+                    delighted, and astonished by the performance of the <persName ref="pe1170">Musician</persName> of this place. his powers are great his appearance quite the reverse; cloddish in the extreme, fingers like the extremities of a bear, yet 
+                <pb/>
+                <fw>f.95</fw>
+                    they possess the agility an <persName ref="pe0913">Handell</persName>. add to this, he is a postilion. yes, this man of science plays the Harp and he drives. O! 
+                    <gap unit="words" quantity="1" reason="illegible"/> - <persName ref="pe1153">Mr Nicolson</persName> said very truly that such an ocular 
+                    observance, proves that this spot possesses not one single Gentleman, surely had their dwelt one, and had he heard my present subject 
+                    play from this moment he would no longer have <add place="above">driven</add> and from that moment the world, would have been gratified with the Luxury of his abilities.</p>
+                <p><date when="1799-08-06">6<hi rend="superscript">th.</hi></date></p>
+                <p><persName ref="pe1153">Mr Nicholson</persName> left us to return to <placeName ref="pl1049">Conway</placeName>. <persName ref="pe0308">Underwood</persName>
+                    and I went again to <placeName ref="pl1532">Gwyidir house</placeName> which we sketched, and stroamed a short distance down the Vale. 
+                    <persName ref="pe0485">Mr Goodwin</persName> obliged us much, and supped with us.</p>
+                <p><pb/>
+                <fw>f.97</fw></p>
+                <p style="center"><placeName ref="pl1477">Denbigh</placeName></p>
+                <p><date when="1799-08-07">7<hi rend="superscript">th.</hi></date></p>
+                <p>we left <placeName ref="pl1533">Llanrwst</placeName> about ten o clock for <placeName ref="pl1477">Denbigh</placeName>,
+                    the road from thence is one series of hills cultivated to their summits which gives the country a general resemblance of 
+                    <placeName ref="pl0780">Devonshire</placeName>. after the walk of a few miles the view back is extremely fine, as the long range of Mountains extend 
+                    <add place="above">themselves</add> in a grand line along the Horizon: above the rest <placeName ref="pl1183">Snowdon</placeName> still
+                    <del><gap unit="words" quantity="1" reason="illegible"/></del>maintained its superior magnifficence, and sublimity, by the quantity of Clouds which veiled its real height from human observance. 
+                    this walk was excessively fatiguing and not very interesting – we had a view of <placeName ref="pl1477">Denbigh</placeName>
+                    for 4 or 5 miles, before we arrived. it is a vastly nice and comfortable Town, the Houses are (some) ancient and odd. the <placeName ref="pl1880">Castle</placeName> 
+                <pb/>
+                <fw>f.99</fw>
+                    stands on a rock, commanding an extensive prospect of the rich and Luxurious <placeName ref="pl1443">Vale of Clwydde</placeName>
+                    which is by far the most superior in every respect to any I have yet seen. – </p>
+                <p><date when="1799-08-08">8<hi rend="superscript">th.</hi></date></p>
+                <p>Left <placeName ref="pl1477">Denbigh</placeName> about 10 o clock for <placeName ref="pl1534">Haywarden</placeName>. the road is extremely pleasant, and would highly delight Mortals whose 
+                    <hi rend="underline">views</hi> are very extensive, as they may see an extent of Country wonderfully pleasing. 
+                    both of Hill, Vale, sea, and sky. this was at the at the brow of <placeName ref="pl1535">Moel Arthur</placeName> a little Mountain, 
+                    which the road twisted around, leading to a dreary walk of some miles, which brought us out, amidst a world of trees and coal pits. 
+                    on we walked, and after much fatigue and difficulty, we passed
+                <pb/>
+                <fw>f.101</fw></p>
+                <p style="center"><placeName ref="pl0002">Chester</placeName></p>
+                <p>through <placeName ref="pl0703">Northorpe</placeName> and arrived at <placeName ref="pl1534">Haywarden</placeName> about
+                    ½ past 5 o clock – where we dined saw nothing worth observance, therefore proceeded in a post chaise to <placeName ref="pl0002">Chester</placeName>.</p>
+                <p><date when="1799-08-09">9<hi rend="superscript">th.</hi></date></p>
+                <p><placeName ref="pl0002">Chester</placeName> is a queer collection of Human residences, formed in a method singular and curious. old black beams, carved curlicues, and leaden windows, 
+                    formed these aged erections. the streets are not very wide the shops are on the first floor of the buildings 
+                    and recede a considerable way back, enough to form a gallery, free from rain, where the venders wares may bee purchased
+                    without the least inconvenience of wind or weather – .<note type="editorial">For a contemporary illustration of these streets, known as ‘The Rows’, see Thomas Webster’s 1807 watercolour sketch: http://collections.britishart.yale.edu/vufind/Record/3656906 </note>
+                    we left this on the 10<hi rend="superscript">th</hi>
+                <pb/>
+                <fw>f.103</fw>
+                    about 11 o clock, walking over a paved road for many miles, to the great annoyance of my lower extremities. this promenade is far from being interesting, 
+                    the country is flat, and like all others of a similar surface. much cultivation, and many trees enrich this earthly carpet. 
+                    In the distance we saw the rocky hill on which <placeName ref="pl1536">Beeston Castle</placeName> stands, the shape is extremely picturesque and gratifying. 
+                    about 11 miles from <placeName ref="pl0002">Chester</placeName> we stoped at a single house, where we dined it is called 
+                    <unclear>S/Land</unclear> away head. here we fortunately found a return Post Chaise, into which we steped, and in a short time
+                <pb/>
+                 <fw>f.105</fw></p>
+                <p style="center"><placeName ref="pl0005">Northwich</placeName></p>
+                <p>reached where the large <placeName ref="pl1881">Salt Manufactory</placeName> is.<note type="editorial">Salt has been mined in Cheshire since Roman times.</note>
+                    we again commenced perambulating and in an hour and ¾ arrived at <placeName ref="pl0005">Northwich</placeName> in perfect darkness, which is rather more than 7 miles from our last place of arrival. here we remained
+                    the whole night better attended and more comfortably refreshed than at any place of public dwelling we had entered since the commencement of our tour.</p>
+                <p><date when="1799-08-10">10<hi rend="superscript">th.</hi></date></p>
+                <p>at 7 we left this in a post Chaise, more like Gentleman tourists than dirty Artists. we Breakfasted at <placeName ref="pl0007">Macclesfield</placeName>
+                    and proceeded onwards for <placeName ref="pl0008">Buxton</placeName>. this road is worse than any road in the world, we were almost shook
+                <pb/>
+                <fw>f.107</fw></p>
+                <p><placeName ref="pl0008">Buxton</placeName></p>
+                <p>to death. the ascent and descent of the <placeName ref="pl0935">Derbyshire Hills</placeName> is so uncomfortably arranged. on looking back a perfect Panoramic View presents itself: 
+                    On this desperate rugged and disagreeable road the Carriage broke down, and with much difficulty and slow proceedings we reached <placeName ref="pl0008">Buxton</placeName>.</p>
+                <p><date when="1799-08-11">11<hi rend="superscript">th.</hi>
+                <lb/>Sunday.</date></p>
+                <p>Nothing wondrous – beheld the interesting town. the crescent is a very fine stone Building – <gap unit="words" quantity="1" reason="illegible"/>.</p>
+                <p><date when="1799-08-12">12<hi rend="superscript">th.</hi></date></p>
+                <p>saw <placeName ref="pl1538">Poole Cavern</placeName>. Much grand effect, and a good situation for Bastille subjects.</p>
+                <p><date when="1799-08-13">13. -</date></p>
+                <p>saw the <placeName ref="pl1882">Lover’s Leap</placeName> about one Mile from <placeName ref="pl0008">Buxton</placeName>, 
+                    in company with <persName ref="pe1171 pe0914">Mr
+                    <pb/>
+                    <fw>f.109</fw>
+                        and Miss Rebello</persName>. and my friend <persName ref="pe0308">Underwood</persName>. it most undoubtedly is a romantic scene, and would have been beautiful had not our tastes been elevated by 
+                    <placeName ref="pl1221">N. Wales</placeName>. a small rivulet runs at the bottom of this Chasm, for nothing else it can be called.</p>
+                <p><date when="1799-08-14">- 14<hi rend="superscript">th.</hi></date></p>
+                <p>we Left <placeName ref="pl0008">Buxton</placeName> on foot for <placeName ref="pl0071">Castleton</placeName>, distant 12 miles, over a most uninteresting and Barren Country, 
+                    hilly and Heathy, one Village we passed though called <unclear>Tiddswood/comb</unclear> which has a pretty Gothic Church built much like a Cathedral. – between this and 
+                    <placeName ref="pl0071">Castleton</placeName> we saw a great variety of
+                <pb/>
+                <fw>f.111</fw></p>
+                <p style="center"><placeName ref="pl0071">Castleton</placeName></p>
+                <p>Mines externally, both ancient and Modern. the first view of <placeName ref="pl0071">Castleton</placeName>is pleasing and singular as it lays in a rich Valley beneath, 
+                    and high reared behind it is perceptable <placeName ref="pl1883">Man Tor, or the Shivering Mountain</placeName> round the summit of which there is a roman entrenchment. 
+                    at its foot is the celebrated <placeName ref="pl1539">Odin Mine</placeName> - the town of <placeName ref="pl0071">Castleton</placeName>
+                    is celebrated also for the grand obscure and truly romantic infernal curiosity called the <placeName ref="pl1541">Devils Peak</placeName>, the
+                <pb/>
+                <fw>f.113</fw>
+                    <gap unit="words" quantity="1" reason="illegible"/> to this <gap unit="words" quantity="1" reason="damage"/> of wonders is rather neatly arranged along the edge of a stream, which runs from the Cavern. whose Mouth is awefully wide, and the 
+                    <del><gap unit="words" quantity="5" reason="illegible"/></del>yawn is rather capacious. the rock in whose bowels, this queer rock belongs, is perfectly perpendicular in front, exquisitely befringed 
+                    with hanging shrub trees long grass &amp;c - on its summit is perched with much antique grandeur and pretty appearance <add place="above">a Castle, whose</add>
+                    age is Vast, by the smallness of its remains.
+                <pb/>
+                <fw>f.115</fw>
+                    the Inside of this natural and ingenious exertion of Nature, is highly calculated for study, its colour, effect, and outlines, are grand at every step; the different appartments
+                    and the Choirs, shewn by the guide are extremely <del>grand</del> fine but the most singular is the voyage across the river, as the person, must be prostrate in a small boat, 
+                    for fear of his head being broke against the rocky ceiling which in this Spot is extremely low. – After being immured in 
+                    this dungeon for so long a time as two hours
+                <pb/>
+                <fw>f.117</fw>
+                    the effect of the dawn of day is <unclear>delightly</unclear> pleasing – being opposed by the strong dark and your eye full of the red light of the Candle 
+                    adds an additional strength of Colour to the beam which gives it the appearance of a very bright blue light. here I made several studies of different parts of the Cave. 
+                    Our party on this expedition was <persName ref="pe0914 pe1172 pe0308 pe1173">Miss Rebello and her Maid, Mr Underwood, a Man servant</persName> and my self.
+                    Leaving this for <placeName ref="pl1884">Matlock</placeName>, we passed <placeName ref="pl0009">Middleton dale</placeName>,<note type="editorial">Part of the Peak District. Porter’s sketches from this tour are not known to have survived, however the undated watercolour ‘Rocks at Matlock’, next on Porter’s itinerary, is probably a product of it. See http://www.tate.org.uk/art/artworks/porter-rocks-at-matlock-t09138</note> 
+                    a spot of considerable beauty and full of
+                <pb/>
+                <fw>f.119</fw></p>
+                <p style="center"><placeName ref="pl1542">Chatsworth House</placeName></p>
+                <p>fine subjects for the pencil, as the sides of the rocky projections were finely broke by rude buildings of Kilns ._._.. Not far from here we visited 
+                    <placeName ref="pl1542">Chatsworth House</placeName> a Seat of the <persName ref="pe0915">Duke of Devon<hi rend="superscript">r</hi>.</persName>
+                    there is nothing very singularly amusing here, it is a great empty Case full of awkward rooms clumsy chairs and no pictures, to be sure the Stair Case 
+                    and a room or two are painted all over in a sort of method, by someone who must have painted by the Mile. here are a suite of rooms which
+                <pb/>
+                <fw>f.121</fw>
+                    they said <persName ref="pe0527">Mary Queen of Scots</persName> had slept in. the bed is extremely high the Curtains are crimson Velvet richly embroidered, and the Tapestry of the room is 
+                    finely worked from designs by <persName ref="pe1110">Rubens</persName>, which must have been a more recent decoration than the rest of these appartments.<note type="editorial">Mary Queen of Scots was imprisoned at Chatsworth for extended periods between 1569 and 1584, by its owner George Talbot, 6th Earl of Shrewsbury, who was appointed custodian of Mary by Elizabeth I.</note>
+                    the next we visited was <placeName ref="pl1543">Haddon Hall</placeName> a seat of the <persName ref="pe0916">duke of Rutland</persName>
+                    not a chair in the House, tho’ all the Old tapestry is hanging and the whole air of the building carries the mind back to the days of ancient gloomy magnifficence.
+                <pb/>
+                <fw>f.123</fw>
+                    the building is a Castellated Mansion about the time of <persName ref="pe0670">Henry 7<hi rend="superscript">th</hi></persName>. the terrace is magnifficent,
+                    the Hall is not very large nor handsome, there is some rusty armour, which I longed to steal, and a few big Boilers in the Kitchen.</p>
+                <p>We next arrived at <placeName ref="pl1884">Matlock</placeName>a most pleasing situation, and highly delightful on account of its walks, town river &amp;c. - after
+                    remaining this delightful spot for a few days we Left it for <placeName ref="pl1545">Derby</placeName>. on this Journey nothing out of the common sort of Country presents
+                <pb/>
+                <fw>f.125</fw></p>
+                <p style="center"><placeName ref="pl1545">Derby</placeName></p>
+                <p>itself almost a mile <del>a mile</del> from the road we turned off through <persName ref="pe0917">L<hi rend="superscript">d</hi>. Scarsdales</persName>
+                    <del>house</del> park to see <placeName ref="pl1544">Kiddstone House</placeName>, a place of much magnificence full of fine pictures and gay marble. rich plate and gold furniture. 
+                    <persName ref="pe1174">Mrs Garnet the Old Housekeeper</persName> displays an uncommon degree of polite Loquacity, to which with the singular wizandness 
+                    of her person adds interest to interest. At <placeName ref="pl1545">Derby</placeName> we saw the Pocelane manufactory, and the next morning I left it on the roof of the Coach for
+                <pb/>
+                <fw>f.127</fw>
+                    <placeName ref="pl0699">London</placeName>, at which place I arrived the day following in good health and poor. So ends my 6 week Zig Zag of Human Incidents.</p>
+                <p style="center">- Amen.<note type="editorial">followed by a pen outline sketch of a figure from behind, with a long ?plait – titled ‘a couple of tail pieces –’</note>
+                <pb/>
+                <fw>f.129</fw></p>
+                <postscript><p>the General Character of the <placeName ref="pl0731">welsh</placeName> which I gathered partly from 
+                    <add place="above">my own</add> observations and partly from those informations some few more ingenuous than their Country man gave me is this. they are extremely selfish, 
+                    and if it is possible to cheat, or in any way take in a stranger the will, if one settles amongst them as a farmer or otherwise every art is used to injure him. they hamstring 
+                    his cattle open his Gates and break his inclosures in short every thing possible
+                <pb/>
+                <fw>f.133</fw>
+                    by which they can annoy him they do. but in some degree this may be accounted for, they are most commonly Methodists, and consequently -----------s the women are of the most disagreeable 
+                    dispositions one moment all good humour and affability the next all sulking, and ill nature, and apparently without any course whatsoever: they are continually Knitting both walking and sitting
+                    even in their religous Bawling Houses, their person are slovenly and dirty
+                <pb/>
+                <fw>f.135</fw>
+                    without shoes or stockings, their huge Ebony extremities create uncommon interresting ideas. this sex are mature very young and old very young, the Men are apparently in this respect
+                    like others, tho’ in <del><gap unit="words" quantity="1" reason="illegible"/></del> they differ much, being divested of every noble appearance and wanting all those points which a 
+                    <hi rend="underline">race</hi> of <hi rend="underline">true <placeName ref="pl0777">true Britons</placeName></hi> ought to be marked with. these are more Pigs than Children consequently more dirt than otherwise.
+                <pb/>
+                <fw>f.178</fw>
+                   <note type="editorial">[Pencil sketch of a seated woman brushing a shoe. The accompanying description reads, ‘Blue checked Handkerchief. Purple blue gown striped, do Petticoat – Black Hat’.] She may be ‘Miss Lloyd swan Hill Oswestry’, as noted at top of the page, or she may be the woman at Llanrwst described as ‘Kitty the maid of the inn’ and sketched at Underwood’s request (see f. 93).</note>
+                <pb/>
+                <fw>f.177</fw>
+                   <note type="editorial">[blank]</note>
+                    <pb/>
+                    <fw>f.176</fw>
+                   <note type="editorial">[blank]</note>
+                    <pb/>
+                    <fw>f.175</fw>
+                   <note type="editorial">[blank]</note>
+                <pb/>
+                <fw>f.174</fw>
+                    Accommodations
+                    <lb/><placeName ref="pl0740">Shrewsbury</placeName>.
+                    <lb/>At the sign of the Unicorn, may be found a clean, comfortable &amp; respectable accommodation. the people are civil. Only the landlady is watchful of her opposite neighbours least her customers 
+                    should seduce their daughters or their daughters seduce her customers. – mark !!! there lives a silversmith opposite who has a daughter what she wants we possess –. 
+                    <placeName ref="pl0741">Welshpool</placeName> is 17 miles from <placeName ref="pl0740">Shrewsbury</placeName> the chief and best Inn, is at the 
+                    <placeName ref="pl1510">Royal Oak</placeName> kept by <persName ref="pe1175">Mr Keate</persName> an extreme civil LandLord, the accommodations are likewise very fair, and the eatables are
+                <pb/>
+                <fw>f.173</fw>
+                   <note type="editorial">[blank]</note>
+                <pb/>
+                <fw>f.172</fw>
+                    wholesome and digestive. this Inn stands at the foot of the Town and commands an aspect up its centre street – <placeName ref="pl1511">Cann Office</placeName>
+                    is 14 miles and a half from the Last mentioned place, a single white and naked nasty house, <gap unit="words" quantity="1" reason="illegible"/>
+                    <unclear>Mrs</unclear> is very civil, the rooms are dripping with damp, (and the Servants cannot speak English) which I would pardon, but damn it 
+                    they are so stupidly brutish. the less I say of the better, it is the only place to be found there, therefore the best must be made of a bad bargain. 
+                    <placeName ref="pl1515">Mallwyd</placeName> is 14 miles from the last mentioned place. The reception here is extremely good the people are more than ordinarily civil and every thing is cheap, pallatable 
+                <pb/>
+                <fw>f.171</fw>
+               <note type="editorial">[blank]</note>
+                <pb/>
+                <fw>f.170</fw>
+                    and wholesome. <persName ref="pe1176">Two pretty attendants</persName> wait on the call of each hungry guest, <add place="above">but</add>
+                    in short I can not considering the country it is in, say too much in favour of so delightful <add place="above">an</add> accommodation – 
+                    <placeName ref="pl1517">Dolgelly</placeName> is 12 Miles from the last place. a straggling strange and stumbling town. the inn is the 
+                    <placeName ref="pl1886">Golden Lion</placeName>, the people civil, <add place="above">the</add> place nasty. you are crammed into a Common 
+                    <del><gap unit="words" quantity="1" reason="illegible"/></del><add place="above">Sewer</add> of a parlour, the <unclear>reservoir</unclear>,
+                    for Bag men, Itinerant Artists and sorts of fleeting customers. the Misery we experienced from this truly Vulgar assemblage together, with the awkward 
+                    &amp; unpolished assiduity of the female <unclear>Mares</unclear> of Waiters, so annoyed <persName ref="pe0308">Sir Thomas</persName>
+                    in Myself, that notwithstanding
+                <pb/>
+                <fw>f.169</fw>
+               <note type="editorial">[blank]</note>
+                <pb/>
+                <fw>f.168</fw>
+                    my invalid toe, the next Morning we Left, the dirt, ordinary and fine scenery for <placeName ref="pl1519">Barmouth</placeName> - 
+                    <placeName ref="pl1519">Barmouth</placeName> is 10 miles from <placeName ref="pl1517">Dolgelly</placeName> a queer sort of place, like a town taking flight, 
+                    as the dwellings are <add place="above">almost</add> all in the air. the Inn is decent on the whole; the <placeName ref="pl1887">Corsygedol Arms</placeName>
+                    is the Mark for Knowing the place of Public residence; in it you find a good ordinary and every thing comfortable discreet – the company are respectable, as most come for 
+                    the Benefit of washing their figures in the Sea. here is a harper good wine and Brandy; stupid waiting and dear washerwomen. – 
+                <pb/>
+                <fw>f.167</fw>
+               <note type="editorial">[blank]</note>
+                <pb/>
+                <fw>f.166</fw>
+                    <placeName ref="pl1520">Harlech</placeName> is 10 Miles (and those most <unclear>stupid</unclear>) from <placeName ref="pl1519">Barmouth</placeName>. 
+                    the Town is small and speckles the surface of an immense rock on which stands its <placeName ref="pl1521">Castle</placeName>. the <placeName ref="pl1888">Inn</placeName>
+                    at this place is rather better than from its appearance could be supposed. a small whitewashed sitting room up one pair of rotten stairs, 
+                    whose Leaden casement permitted the Entrance of Every rude blast: <del><gap unit="words" quantity="3" reason="illegible"/></del>
+                    which waisted more farthing candles than might otherwise have been saved. the decorations were simple and Elegant. the floor was cool and airy as the appartures 
+                    between each board was rather wide
+                <pb/>
+                <fw>f.165</fw>
+               <note type="editorial">[blank]</note>
+                <pb/>
+                <fw>f.164</fw>
+                    or so. our feeding was clean wholesome and <hi rend="underline">fair</hi>; but our <persName ref="pe1177">waiter</persName> was the “<hi rend="underline">fairest</hi> of the <hi rend="underline">fair</hi>
+                    all blushing beauty innocence and 19. the pleasing smirk of frisking youth played in exquisite forms around her mouth, 
+                    which created a sort of undulation on her cheek, most admirably charming to my gallant friend <persName ref="pe0308">Underwood</persName>. 
+                    – talking of the Maid puts me in mind of our Beds which indeed were famous. the room was truly that pictured by “youthful poets when they write” of bloody rogues who with the fairer semblance, invite a weary
+                <pb/>
+                <fw>f.163</fw>
+               <note type="editorial">[blank]</note>
+                <pb/>
+                <fw>f.162</fw>
+                    raymond to their throne. the damp dew trickled down the once white plaister’d walls of the appartment one <unclear>shattered</unclear>
+                    door lead god Knows where, whilst the other <add place="above">lead to</add> the Anti chamber to ours, which contained the much famed form of
+                    <persName ref="pe1177">Gwyn Owen</persName>, the pretty waiter!!!!!</p>
+                    <p><placeName ref="pl1522"><del>Maenturrogg</del> Maentŵrog</placeName>, 8 Miles from our last residence, here is much good, convenient, and respectable accommodation: the Beds were very good, the sitting room dark and dreary, 
+                        the Eatables satisfying and comfortable the porter good and the Washing dear. Another <persName ref="pe1178">Miss Owen</persName> keeps this celebrated hovel.</p>
+                    <p><placeName ref="pl1518">Beddkellert</placeName>, <add place="above">8 miles</add> there is an <placeName ref="pl1889">inn</placeName> to be sure – a <placeName ref="pl0731">welsh</placeName> one, a nasty one, and a one
+                    <pb/>
+                    <fw>f.161</fw>
+                   <note type="editorial">[blank]</note>
+                    <pb/>
+                    <fw>f.160</fw>
+                        by no means consonant to <persName ref="pl0775">English</persName> cleanliness. the good people most undoubtedly do all in their power to render things as well as they think comfortable: 
+                        this was the only place that gave me the <gap unit="words" quantity="1" reason="illegible"/>, vapours, or blue devils: <del><gap unit="words" quantity="3" reason="illegible"/></del>
+                        if a man did not mind what he said, it might be said to be costly.</p>
+                    <p><placeName ref="pl1565">Caernarvon</placeName> 12 miles from our Late residence <placeName ref="pl1890">the King’s head</placeName>
+                        not the first Inn, most undoubtedly but one of fair Aspect, both in eating drinking and sleeping, and best of all, wonderfully reasonable,</p>
+                    <p><placeName ref="pl1527">Llanberis</placeName> 8 miles from this last mentioned dwelling. a small Hovel, “worse than get out” – where the butter was all thumb 
+                        marks and the bread all treacle. it is cheap certainly for our tea was but 6 pence each –.</p>
+                    <p><placeName ref="pl1528">Capel-Kerrig</placeName>. 12 miles farther an <placeName ref="pl1891">Inn</placeName> little better, either in appearance or convenience
+                    <pb/>
+                    <fw>f.159</fw>
+                   <note type="editorial">[blank]</note>
+                    <pb/>
+                    <fw>f.158</fw>
+                        the people were boreishly polite all we got here was tea and Eggs. this was the delectable mansion, with the apartments of terrible aspect. 
+                        it seems a place for Murder, bloody sheets and Thieves!! – </p>
+                    <p><placeName ref="pl1595">Aber</placeName> is 20 Miles a <placeName ref="pl1892">neat clean house</placeName> with its  <unclear>desolation</unclear>
+                        as a place for passing residence <placeName ref="pl1892">the Bull’s Head</placeName>. here we faired comfortably and quick, the transition from our late palace made this shine with tenfold splendour 
+                        all was every thing, and comfort.</p>
+                    <p><placeName ref="pl1049">Conwy</placeName> 9 Miles. <placeName ref="pl1893">the Bull’s Head</placeName> the very best Inn in every respect we had occupied since our Leaving 
+                        <placeName ref="pl0699">London</placeName>. Kept by a <persName ref="pe1179">M<hi rend="superscript">rs</hi> <unclear>Read</unclear></persName> and
+                        a whole regiment of daughters. all sorts of accommodations both day and night are pure, wholesome
+                    <pb/>
+                    <fw>f.157</fw>
+                   <note type="editorial">[blank]</note>
+                    <pb/>
+                    <fw>156</fw>
+                        and certain. but they allow neither soap, nor Harper. It is otherwise the post office, and the head inn.</p>
+                    <p><placeName ref="pl1533">Llanrwst</placeName> is 12 miles distant from <placeName ref="pl1049">Conway</placeName>. <placeName ref="pl1894">The King’s head</placeName>,
+                        very comfortable considering. the people are extremely civil and  feed their customers very reasonably and wholesome. 
+                        besides which, there is to found the best Harper in all <placeName ref="pl1221">North Wales</placeName>. wonderful to say here was a gay wash Ball.</p>
+                    <p><placeName ref="pl1477">Denbigh</placeName> 20 miles. <placeName ref="pl1895">The Bull</placeName> a very pleasant house indeed, kept by one of the 
+                        <del><gap unit="words" quantity="1" reason="illegible"/></del> most civil old <persName ref="pe1180">woman</persName> I ever met with, every circumstance of existence was good, besides the felicity of a 
+                        <persName ref="pe1181">Male waiter</persName> and the company of a <persName ref="pe1182">droll Bagman</persName> &amp;c.
+                    <pb/>
+                    <fw>f.155</fw>
+                   <note type="editorial">[blank]</note>
+                    <pb/>
+                    <fw>f.154</fw>
+                        <placeName ref="pl1534">Haywaden</placeName> is about 20 Miles from this said <placeName ref="pl1895">Bull</placeName>, we only took 
+                        a sort of glance at the comforts. but indeed they seemed so few that I am glad we had not time sufficient to discover more, as the Habitation was not altogether pleasing and the 
+                        <persName ref="pe1183">Land Lady</persName> similarly formal as to Manner. this is the <placeName ref="pl1896">Stags head</placeName> &amp; the first Inn.</p>
+                    <p><placeName ref="pl0002">Chester</placeName> 7 Miles distant from <placeName ref="pl1534">Harden</placeName>. the sign <placeName ref="pl1897">the Red Lion</placeName>
+                        kept by a <persName ref="pe1184">M<hi rend="superscript">rs</hi> Roberts</persName>. here we were annoyed in no small degree by divers and sundry intoxicated Militia Men, who sprawled about in every direction, the accomodations 
+                        here is tollerably good. tho’ the best <placeName ref="pl1897">In</placeName> is kep by one <persName ref="pe1185">M<hi rend="superscript">r</hi> Paul</persName>, near
+                        <pb/>
+                     <fw>f.153</fw>
+                   <note type="editorial">[blank]</note>
+                    <pb/>
+                    <fw>f.152</fw>
+                        <placeName ref="pl1853">the Cathedral.</placeName></p>
+                    <p><placeName ref="pl0005">Northwich</placeName> <add place="above">24 miles</add> <placeName ref="pl1898">the Angel</placeName>
+                        an excellent House excellent attendance, and excellent Beds, here we experienced the utmost civility, the reason obvious, for we had ordered a Post Chaise for the next Morning.</p>
+                    <p><placeName ref="pl0007">Macclesfield</placeName> 13 Miles, another <placeName ref="pl1899">Angel</placeName>. here we Breakfasted, pretty decently upon the Whole – and proceeded for 
+                        <placeName ref="pl0008">Buxton</placeName>  – which is 11 miles, which place we arrived about 1 o clock. here we fed privately from the 
+                        <placeName ref="pl1900">Hotel</placeName> in comfort cleanliness and good company.</p>
+                    <p>at <placeName ref="pl0071">Castleton</placeName> – 12 Miles distant is the sign of <placeName ref="pl1901">the Castle</placeName> a place
+                    <pb/>
+                    <fw>f.151</fw>
+                   <note type="editorial">[blank]</note>
+                    <pb/>
+                    <fw>f.150</fw>
+                        unsociable in aspect, full of <gap unit="words" quantity="1" reason="illegible"/> from breakfast to bedtime, uncomfortable dinners, dirty rooms and horrid beds with sheets like 
+                        <unclear>wasps</unclear>, in short every accomodation is abominably <gap unit="words" quantity="1" reason="illegible"/>,
+                        and what is worse (than being oblige to sleep eat, and drink so tediously) the bills is dear in the extreme and the Servants Victuals 
+                        &amp;c are charged equal to the <placeName ref="pl1902">M<hi rend="superscript">rs</hi> or M<hi rend="superscript">r</hi>. at <unclear>Edensor</unclear></placeName>
+                        all is beautiful and delicious, comfortable, clean and wholesome, heartily enjoyable
+                    <pb/>
+                    <fw>f.149</fw>
+                   <note type="editorial">[blank]</note>
+                    <pb/>
+                    <fw>f.148</fw>
+                        delicate, amiable and exquisite, in short its inconveniences are comfort.</p>
+                    <p>the next was <placeName ref="pl1884">Matlock</placeName> a <placeName ref="pl1903">private Lodging</placeName> but like
+                        <placeName ref="pl0008">Buxton</placeName> fed from the Inn, here we existed synonimous to the above mentioned place in comfort, ease, and no danger of dying by dirt.
+                        <placeName ref="pl1545">Derby</placeName> <placeName ref="pl1904">the George and the head Inn</placeName>. Beds good, <unclear>dining</unclear>
+                        heartily, a <persName ref="pe1186"><placeName ref="pl0925">french</placeName> waiter</persName> stiff as a Poker and civil as a Coward, every thing but the beds were truly desolate and uncomfortable, dark, dreary and horrible well calculated for the
+                    <pb/>
+                    <fw>f.147</fw>
+                   <note type="editorial">[blank]</note>
+                    <pb/>
+                    <fw>f.146</fw>
+                        inspiration of the Blue Devils. here I end my accommodations and once more enjoy the comforts of a <hi rend="underline">Home!!!!!!!</hi> - </p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

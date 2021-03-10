@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1404">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>William Morris to Thomas Pennant, 28 July 1757</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>21558E</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc><additions><p>In Thomas Pennant's hand:
+                        <table>
+                            <row>
+                                <cell><list><item>Plane</item>
+                                <item>Sugar maple</item>
+                                <item>Flowering maple</item>
+                                <item>Chestnut oake</item>
+                                <item>Canada Poplar</item>
+                                <item/>
+                                <item/></list></cell>
+                                <cell><list><item>
+                                    Carolina Ash</item>
+                                <item>virg. Ash</item>
+                                <item>Montpelier maple</item>
+                                <item>N. England Scarlet maple</item>
+                                <item>virg. D<hi rend="superscript">o</hi>.</item>
+                                <item>Long Leaved alder</item>
+                                <item>cherry Plumb.</item></list></cell>
+                            </row>
+                        </table>
+                    </p></additions>
+                    </physDesc><additional><p>A pencil note in an archivist's hand reads: 'Found in 
+                        <bibl type="authorial">
+                            <title ref="bi0732"/>
+                            "Hortus Cliffortianus"
+                        </bibl>
+                        <persName ref="pe0162">George Clifford</persName>.'</p></additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0031">William Morris</persName>
+                    <date when="1757-07-28">28 July 1757</date>
+                    <placeName ref="pl1018">Holyhead</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1405"/>
+                    <ref type="prev" target="ct1403"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl1018">Holyhead</placeName>, 28<hi rend="superscript">th</hi>. July 1757 –</dateline>
+                    <salute>Good Sir,</salute></opener>
+                
+                <p><persName ref="pe0037">Doctor Ellis</persName> and my self arrived safe at this our <placeName ref="pl1018">Castrum</placeName>
+                    abo<hi rend="superscript">t</hi>. 3 Days ago, where we found all well,<note type="editorial">William Morris had been absent from 
+                    home for a fortnight on a fossil-hunting expedition, travelling through four Welsh counties and visiting Thomas Pennant at Downing.
+                    See his letter of 24 July 1757 to his brother Lewis, where he writes that he reached home the previous 
+                    evening. <hi rend="italic">ML</hi>, II, p. 494.</note> the Day after our return a ship Arrived here from 
+                    <placeName ref="pl3325">Barbado<del>e</del>s</placeName> to discharge Sugar it was lucky that she did not come in my 
+                    Absence.<note type="editorial">As deputy comptroller of the customs at Holyhead, William Morris would have needed
+                    to maintain a presence when ships returning from distant and lucrative voyages such as the one named here docked. See his reference to
+                    weighing a load of more than two hundred tons from a sugar ship which came into the port in August 1754, and his wistful comment on the
+                    difficulties of gaining any material benefit from this work because of a rivalry with the other Anglesey port of 
+                    Beaumares. William to Richard, 23 August 1754, in <hi rend="italic">ML</hi>, I, p. 305.</note>
+                </p>
+                <p>Your conjecture abo<hi rend="superscript">t</hi>. <placeName ref="pl3326">Maen Chwyfan</placeName> being a Cross set up by Christians
+                    on some religious occasion is Confirm'd by Two Pillars much resembling it in <placeName ref="pl3327">Disert Church</placeName> yard.<note type="editorial">Pennant closes
+                    his discussion of Maen Achwyfan in <hi rend="italic">A tour in Wales</hi> (2nd edn., 1784), p. 13, noting that it is like 'other pillars
+                    of antient date in several parts of Great Britain' 'evidently a Christian monument'. For images of two Celtic crosses now housed in the interior 
+                    of the Parish Church of St Bridget,
+                    Dyserth, but formerly placed in the churchyard, 
+                    see <ref type="http" target="https://www.megalithic.co.uk/article.php?sid=16833">here</ref> [accessed 15 July 2020].</note> One of them stands 
+                    endwise in a reclining posture &amp; call'd by the Natives y Groes (ie) the Cross; is abo<hi rend="superscript">t</hi>. 5 feet out
+                    of the Ground wrought all over w<hi rend="superscript">th</hi>. embellishments but no Figures of Animals or Letters that i could perceive.
+                    The Other lying Edgewise in the Church yard wall &amp; made use of for a Stile embelishe like the Other. the Cross on the Top in each Juts 
+                    out a little at the Ends, &amp; each imbossd at the Centre like your Maen.
+                </p>
+                <p>I observ'd that the House where <persName ref="pe0038">m<hi rend="superscript">r</hi>. Elli</persName>s of 
+                    <placeName ref="pl0361">Disert</placeName> lives is built of a Limestone in which are stratas of Flinty matter resembling that
+                    mention'd by <persName ref="pe0042">Woodward</persName><note type="editorial">William Morris refers to the work of John Woodward, 
+                        <bibl type="authorial">An attempt towards a natural history of the fossils of England<title ref="bi0047"/></bibl> (1729),
+                        which contains several references to Arkendale.
+                    </note> to be at <placeName ref="pl3328">Arkendale</placeName> in <placeName ref="pl0770">Yorkshire</placeName>, Time w<hi rend="superscript">d</hi>.
+                    admit of my Going to Examine the Quarry where it was dug.</p>
+                <p>I proposed going to <placeName ref="pl3329">Llan Dydno</placeName> <add place="above">in my return</add> in search of some of the many 
+                    Curiosities mention'd by <persName ref="pe0044">M<hi rend="superscript">r</hi>. Lhwyd</persName>, but the time failed the Jubilee at <placeName ref="pl1049">Conway</placeName> 
+                    likewise prevented my having the pleasure of seeing <persName ref="pe0046">M<hi rend="superscript">r</hi>. Holand</persName> to 
+                    deliver your Message &amp;c</p>
+                <p>Having met with some recent Alcyoniums<note type="editorial">The application of the word 'alcyonium' to denote a genus of coral dates from work by Linnaeus
+                in 1758 and thus post-dates this letter. The meaning here therefore relates to sessile marine invertebrates, in particular 
+                soft corals and sponges. See <hi rend="italic">OED</hi>.</note> betwixt <placeName ref="pl3170">Penman Rhôs</placeName> and 
+                    <placeName ref="pl3330">Rhôs Fynach</placeName>. I took hold of the first Opportunity of Coneying them you, in hopes you would
+                    receive them before they were emaciated. they were the Alc. ramoso-digitatum molle &amp;c of Ray's <bibl type="authorial">
+                        <title ref="bi0082">Syn.</title></bibl> Pa. 31.<note type="editorial">As indicated here, Ray refers to the 'Alcyonium ramoso-digitatum molle' 
+                            on p. 31 of his <hi rend="italic">Synopsis methodica stirpium 
+                    Britannicarum</hi> (1690; 3rd edn., London: Gulielmi &amp; Joannis Innys Regiae Societatis Typographorum, 1724).</note> – Had 
+                    y<hi rend="superscript">o</hi>. seen <add place="above">one of</add> them when first ta'en out of the Sea, you certainly 
+                    w<hi rend="superscript">d</hi>. have concluded them to <add place="above">be</add> the Originals of 
+                    M<hi rend="superscript">r</hi>. Lhwyd's Cartilago Mamillaris sive 
+                    u<del><gap unit="letters" quantity="1" reason="authorial"/></del>ber vaccinum &amp;c of which he hath given an 
+                    Icon –<note type="editorial">William Morris refers to Edward Lhuyd's 
+                        <bibl type="authorial"><title ref="bi0085">Lithophylacii Britannici ichnographia</title> (1699). The 'Cartilago mamillaris, 
+                            sive uber vaccinum referens' is listed as no. 1522 on p. 78, with an icon in Table 18.
+                    </bibl></note></p>
+                <p>The Plant calld by your Gardiner Bladder Flatmina,<note type="editorial">The reading of 'Flatmina' is clear, but cf. 'Ketmia' below and the 
+                examples of 'bladder ketmia' cited in <hi rend="italic">OED</hi> s.v. flower, n., goodnight, n., int., and adj., and modesty. The quotations including
+                this form equate the 'Bladder Ketmia' with the 'Hibiscus Trionum', 'Trionum annuum', and the English name 'flower of an hour'.</note> w<hi rend="superscript">ch</hi>. I took <add place="above">at first</add> to be
+                    the Corchorus. I find is the Alcea Peregrina of <persName ref="pe0150">Gerard</persName>, or Venice Mallow of 
+                    w<hi rend="superscript">ch</hi>. he gave a bad Icon.<note type="editorial">See John Gerard, <bibl type="authorial">
+                        <title ref="bi0104">The herball or Generall historie of plantes</title></bibl> (1633 edn.), p. 936, for a description and an icon 
+                        of the Alcea Peregrina or Venice Mallow.
+                    </note> And is the Alcea Peregrina Sive vesicaria of Parkinson's Parad. who gives a good Icon and a description that exactly
+                    Answers in all respects.<note type="editorial">For the 'Alcea peregrina sive vesicaria' in John Parkinson's <bibl type="authorial">
+                        <title ref="bi0107">Paradisi in sole paradisus terrestris, or, A Garden of All Sorts of Pleasant Flowers ... 
+                            with a Kitchen Garden ... and an Orchard</title> </bibl>, see pp. 368, 370, and for an 
+                    icon entitled 'Alcea Veneta. The Venice Mallow', ibid. p. 367, no. 2. Parkinson notes several Latin names, concluding that 'The most
+                    usuall english name is Venice Mallow'.</note> <persName ref="pe0150">Gerard</persName> is mistaken in the time the Flower
+                    shuts, which is as soon as it feels the heat of the Sun, &amp; not at noon.<note type="editorial">See Gerard, <hi rend="italic">The herball 
+                        or Generall historie of plantes</hi> (London, 1633),
+                        p. 937: 'it openeth it selfe about eight of the clocke, and shutteth vp againe at noone, about twelue a clock when it hath receiued 
+                        the beams of the Sun, for two or three houres, whereon it should seeme to reioice to look, and for whose departure, being then vpon the 
+                        point of declension, it seemes to grieue, and so shuts vp the floures that were open, and neuer opens them againe'.</note> You'll find
+                    it in Miller under the name of <hi rend="underline">Ketmia</hi> (Vessicaria). 19<note type="editorial">This is a reference to Joseph Miller,
+                    <bibl type="authorial"><title ref="bi0109">The gardener's dictionary</title></bibl> (1731). The name 'Ketmia vesicaria vulgaris'
+                appears as no. 19 under the entries for 'Hibiscus', with the names 'Common Bladder Ketmia, called Venice Mallow, or Flower of an hour' also given.
+                See ibid. (8th edn., London, 1768), unpaginated.</note>  should be glad of some 
+                    of the Seed for this important discovery.</p>
+                <p>I have sorted the Few Fossils &amp;c bro<hi rend="superscript">t</hi>. with me, &amp; now begin to Long for the Arrival of the 
+                    Grand Cargo.<note type="editorial">William Morris had evidently sent material gathered on his journey to Flintshire back to his home in Holyhead
+                        by sea.</note> Here are no Vessels as yet bound to your Parts. — I hope 
+                    <placeName ref="pl3332"><hi rend="underline">Morva Rhuddlan</hi></placeName> is daily improving, the Few men that were employd there the 
+                    22<hi rend="superscript">d</hi> Inst. were a Burlesque upon Roadmaking, and if an Estimate was to be made from their performance it must be a
+                    Dear Jobb indeed ––– May the <placeName ref="pl1216">Counties of Denbigh</placeName>, <placeName ref="pl1234">Carnarvon</placeName> &amp; 
+                    <placeName ref="pl1093">Anglesey</placeName> follow your Laudable Example that <placeName ref="pl1221">North-wales</placeName> may be no 
+                    more A terror to Travelers. –<note type="editorial">The responsibility for road maintenance at this time lay in the hands of local parishes,
+                        operating through the High Constable and the Quarter Sessions. See Bryn Ellis, 
+                    'Flintshire Quarter Sessions Rolls 1752–1830', <hi rend="italic">Flintshire Historical
+                        Society Journal</hi>, 36 (2003), 96–113. The work in question here, however, may be linked to a parliamentary act. 'An Act for amending, widening, and keeping in Repair, the Roads from the Town of <hi rend="italic">Wrexham</hi> ... 
+                    to <hi rend="italic">Pentre Bridge</hi> in the County of <hi rend="italic">Flint</hi>, and from the Town of <hi rend="italic">Mold</hi> to 
+                        <hi rend="italic">Northop</hi>, <hi rend="italic">Holywell</hi>, and <hi rend="italic">Rhuddlan</hi>, in the same County, and from thence to <hi rend="italic">The
+                    Ferryhouse</hi> opposite the Town of <hi rend="italic">Conway</hi> in the County of <hi rend="italic">Carnarvon</hi>, and from 
+                        <hi rend="italic">Ruthin</hi> to the said Town of <hi rend="italic">Mold</hi>' was among a series of Bills presented to be passed before the House
+                        of Lords on 28 June 1757. See <hi rend="italic">Journals of the House of Lords (1688–1834)</hi>, vol. 6, p. 188, 
+                        <ref type="http" target="https://parlipapers.proquest.com/parlipapers/result/pqpdocumentview?accountid=12799&amp;groupid=100095&amp;pgId=bfb4a13a-271e-494d-90b7-5cf9b7dddc75&amp;rsId=172CD111EC8#0">here</ref> 
+                    [accessed 19 July 2020].</note> <persName ref="pe0037">M<hi rend="superscript">r</hi>. Ellis</persName> Joins with me in humble
+                    respects to your Worthy <persName ref="pe0341">Father</persName> &amp; Sisters<note type="editorial">Pennant's twin sisters, 
+                        <persName ref="pe0341">Sarah</persName> and <persName ref="pe0237">Catherine</persName>.</note> and Compliments to your good Self we shall
+                    always retain the warmest gratitude for all Civilities receiv'd at <placeName ref="pl0001">Downing</placeName> –</p>
+                <closer><salute>I am
+                    <lb/>D<hi rend="superscript">r</hi>. Sir
+                    <lb/>your most obliged humble Serv<hi rend="superscript">t</hi>.</salute>
+                    <signed><persName ref="pe0232">W<hi rend="superscript">m</hi> Morris
+                    </persName></signed>
+                    </closer>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>

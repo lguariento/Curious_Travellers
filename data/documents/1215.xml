@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1215">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>66</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1798-01-15"/>
+                    <placeName ref="pl0759">Stratton street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName>. Jan<hi rend="superscript">y</hi>. 15. 1798</dateline></opener>
+                <p>I am very sorry to hear you have been so unwell, speaking of what is past, for by this time, I hope and trust your natural Good constitution has brought every thing within you, to rights again.</p>
+                <p>
+                    I have been confin’d to my room a great while, by one of my bad christmas coughs, which visit me at this season, as regularly as my christmas pyes, but I don’t believe it will be the death of me for all that. No man thinks himself so old, but that he may live one year longer, <hi rend="underline">that</hi>
+                    is my case, but in the meantime it is very lamentable to see all my friends and acquaintance descending to the grave before me, and all ones pursuits in life, growing gradually indifferent; singula de nobis anni prædantur euntes,<note type="editorial">'The years as they pass plunder us of one thing after another'. Bull quotes from Horace's <hi rend="italic">Epistles</hi>, Book II, epistle ii, line 55.</note>
+                    but tis the condition upon which we hold our lives, and must be submitted to.</p>
+                <p>
+                    The old mans head you enquire about, was engraved by <persName ref="pe0433">Vertue</persName>, as is supposed, for <persName ref="pe1851">Lord oxford</persName>, 
+                    the <del>old</del><add place="above">late</add> <persName ref="pe0369">Dutchess Dowager of Portland</persName>'s Father; the plate is a private one, and was in 
+                    <persName ref="pe0369">her Graces</persName> possession at the time of her death. it is the <rs type="art" ref="ar0449">portrait of Thomas Baskerville</rs>, who was a Gentleman living near 
+                    <placeName ref="pl2625">Reading</placeName>, and who became enthusiastic, or perhaps a little insane, but very good and charitable to the poor. He died about the year 1709, at the advanc’d age of 90. If you wish for any farther particulars respecting this eccentrical Man you will find a full account of him in 
+                    <bibl type="authorial"><title ref="bi0659">Goughs Topography</title></bibl>, page 23. 
+                    Edition 1<hi rend="superscript">st</hi>.<note type="editorial">Gough records Baskerville's nickname of 'The King of Jerusalem', and notes that he died 'about 1705, 
+                        aged upwards of ninety, as appears from a print of him'. See Richard Gough, <hi rend="italic">Anecdotes of British topography. Or, an historical account of what has been done for 
+                            illustrating the topographical antiquities of Great Britain and Ireland</hi> (London, 1768), p. 23.</note> as I am inform’d by 
+                    <persName ref="pe0415">Sir William Musgrave</persName>,, for I have not the book in <placeName ref="pl0699">London</placeName>, to refer to. <persName ref="pe0415">Sir William</persName> desired to be remember’d kindly to you.</p>
+                <p>
+                    I wrote to you about ten days ago, and sent the <rs type="art" ref="ar0352">prints of Drake</rs> and the other english Admiral
+                    you wanted,<note type="editorial">This was <rs type="art" ref="ar0353">Sir Humphrey Gilbert</rs>. See <ref target="1212.xml">1212</ref>.</note> together with my letter, to <persName ref="pe1814">M<hi rend="superscript">r</hi> Totter of Lincolns Inn</persName>,<note type="editorial">There may be a confusion here with a 'Mr Totty No. 4. Inner Temple', named by Bull in a marginal note to <ref target="1212.xml">1212</ref>.</note>
+                    who I understood was soon going to <placeName ref="pl0001">Downing</placeName>.. to that letter I refer you for every thing respecting the 
+                    <hi rend="underline">restoration</hi> of the <bibl type="authorial"><title ref="bi0023">Arctic Zoology</title></bibl>'s, and the <bibl type="editorial"><title ref="bi0690">Introduction</title></bibl> thereunto. Every thing about our deficiences went on à <sic>merveile</sic>,<note type="editorial">'wonderfully'.</note>
+                    and you would have had your wants supplied before this time, if <persName ref="pe1857">M<hi rend="superscript">r</hi> Hansard</persName>
+                    could have procur’d a copy of the <bibl type="authorial"><title ref="bi0023">Arctic Zoology</title></bibl>, (which I believe is out of print,) to work by. I borrow’d one a day or two ago, and sent it to him, and he promises to work off the sheets in question very shortly, upon paper of the size I gave him a pattern of. I have receiv’d the Drawings from 
+                    <persName ref="pe0324">M<hi rend="superscript">r</hi> Ingleby</persName>, which upon the whole, please me sufficiently, and would have given me perfect satisfaction, if I had not been accustom’d to <persName ref="pe0014">M<hi rend="superscript">r</hi> Gryfith</persName>'s pencil, to which 
+                    <persName ref="pe0324">M<hi rend="superscript">r</hi> Ingleby</persName>'s <hi rend="underline">must not be compared,</hi> altho’ I think he is improving. I limited him to ten pounds, but he has exceeded one third, his Bill amounting to 15 pounds. It will save me some trouble, and some risk, if you will have the goodness, to pay him
+                    <add place="above">ten pounds, having sent him the other five a short time since</add> whenever it may suit your leisure, and will in the mean time send me the name and address of any person, with whom you keep Cash in 
+                    <placeName ref="pl0699">London</placeName> and I will pay it to your account there <hi rend="underline">immediately</hi> after I receive your direction</p>
+                <p>
+                    Voluntary Contributions are begun in <placeName ref="pl0699">London</placeName> and <placeName ref="pl0776">Westminster</placeName>, <hi rend="underline">in <del><gap unit="letters" quantity="1" reason="illegible"/></del>a high stile</hi>,
+                    by the nobility and great officers of State, and by the opulent merchants of <placeName ref="pl0699">London</placeName>; but <del>of</del> this you will hear more about, in the public prints.<note type="editorial">The <hi rend="italic">Hampshire Chronicle</hi> reported in January 1798 on the arrangements set up for the public to make voluntary contributions to the war effort, naming among contributors the Lord Chancellor, Mr Dundas, and Lord Kenyon, and appealing in particular to 'people of property' whose interests it saw greatly at stake in view of the 'impending danger' to Britain's constitution and its laws. <hi rend="italic">Hampshire Chronicle</hi>, 27 January 1798.</note></p>
+                <p>
+                    It is said there are letters in town, stating that <persName ref="pe1788">Buonaparte</persName> is upon bad terms with the Executive Government of <placeName ref="pl0925">France</placeName>, on account of his address to the 
+                    <placeName ref="pl2626">Cisalpine Republic</placeName>,<note type="editorial">Napoléon addressed the Cisalpine Republic on 17 November 1797. Ida M. Tarbell (ed.), <hi rend="italic">Napoleon's Addresses: Selections fron the Proclamations, Speeches and Correspondence of Napoleon Bonaparte</hi> (Boston: Joseph Knight, 1896), p. 46.</note>
+                    containing <sic>prnciples</sic> of <sic>Royality</sic> offensive to all true and faithful Republicans, and that the council of Elders<note type="editorial">The Council of Ancients or Elders (Conseil des Anciens), the upper house of the Directory.</note>
+                    had order’d a copy of the said Address to be <del>burnt</del> burnt, by the common Executioner, and had decreed the author to have deserv’d ill of his country. the same letters add, that
+                    <persName ref="pe1788">Buonaparte</persName> was ill receiv’d, and ill attended to, at the late great fetê given at <placeName ref="pl1023">Paris</placeName>,
+                    and was <add place="above">not</add> applauded even by the Army.<note type="editorial">This refers to the celebrations attending Napoléon's return to Paris following the signing of the treaty of Campo Formio. Napoléon addressed the Directory on 10 December 1797, soon after his arrival in the capital. Contemporary accounts do not corroborate the impression given in Bull's letter, but suggest instead Napoléon's astounding self-command and the joyous festivity of his reception. William Hazlitt, <hi rend="italic">The life of Napoleon Buonaparte</hi> (2nd edn. 4 vols., rev. edn., London: Illustrated London Library, 1803), II, pp. 80–1; Napoléon, 'Speech to the Directory' (1797), at <ref type="http" target="https://www.bartleby.com/268/7/31.html">here</ref> [accessed 23 January 2019]; <hi rend="italic">Gloucester Journal</hi>, 25 December 1797.</note>
+                    It is suppos’d he has been inveigled to <placeName ref="pl1023">Paris</placeName>, by <persName ref="pe0366">Barras</persName> (his once Bosom friend) with assurances, that the Italian Army, to which he had endear’d himself so much, would soon be order’d to the 
+                    <placeName ref="pl1023">Capital</placeName>, instead of which the artful <hi rend="underline"><persName ref="pe2026">Seiees</persName></hi> has taken sufficient care, that <persName ref="pe1788">Bonnaparte</persName>’s Army should not come to <placeName ref="pl1023">Paris</placeName>; but be canton’d in small departments, in various parts of 
+                    <placeName ref="pl1164">Italy</placeName>, far enough remov’d from any influence their late beloved commander might have upon their operations. If these facts are founded in truth, the Executive Directory will let him down easy and he will be employ’d only in diplomatic business, which will soon sink him into insignificancy. but pray take notice that I do not commit my self to answer for the truth of all this account, which I detail to you, as told 
+                    to me <sic>en grose</sic>,<note type="editorial">'in broad terms'.</note> just now, by <persName ref="pe0384">Colonel Clinton</persName> - Aide de camp to the <placeName ref="pe0949">Duc of York</placeName>, who said he supposed it came from good authority, by which, (I imagin’d) he meant York house. 
+                    <persName ref="pe0331">My daughter</persName> is quite unwell, and I am apprehensive her complaints are of the same sort as destroy’d the delicate frame of her poor <persName ref="pe0336">Sister</persName>.
+                    Health and fraternity to the house of Pennant.</p>
+                <closer>
+                    <salute>– I am Dear Sir, yours much &amp; truly </salute>
+                    <signed><persName ref="pe0313">R<hi rend="superscript">d</hi>. Bull</persName>.</signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark"><gap unit="letters" quantity="1" reason="illegible"/> JA 15 98</stamp>
+                    <stamp type="postmark"><note type="editorial">Incomplete and illegible.</note></stamp>
+                    <stamp type="frank">FREE JA 1598</stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant</persName> Esq<hi rend="superscript">rs</hi>. | <placeName ref="pl0001">Downing</placeName> | <hi rend="underline"><placeName ref="pl0702">Flintshire</placeName></hi></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

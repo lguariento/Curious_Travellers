@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1072">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 64</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Along top of second page, in Richard Bull's hand</hi>:</p>
+                            <p>another <rs type="art" ref="ar1066">Wenlock tomb</rs> | pay <persName ref="pe0014">Moses</persName>.</p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1788-03-06"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street Piccadilly</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I lament much the complaint you labor under. may the rest of your troublesome companions quit you with the same ease as the 
+                    former. I shall be glad to hear you are freed fr<hi rend="superscript">m</hi> all apprehension. I dread the loss of friends 
+                    at my period of life: especially one who stands in the foremost rank. Pray give yourself no farther trouble about the 
+                    <rs type="art" ref="ar1062">muffs</rs> or <rs type="art" ref="ar1063">Tangiers</rs>. I bought a single <rs type="art" ref="ar1062">muff</rs>
+                    several years ago for one shilling: but I fear we have since raised the price. It was meant to paste in the 
+                    <bibl type="authorial"><title ref="bi0022">arctic Zoology</title></bibl> where I mention the rich f<del><gap unit="letters" quantity="1" reason="illegible"/></del>urs.<note type="editorial">Several references to the use of fur in dress are found in <hi rend="italic">Arctic zoology</hi>, including a specific reference to the use of the skins of the Wolverene, a 'local' bear in America, to make muffs. <hi rend="italic">Arctic zoology</hi>, I (1784), p. 67.</note>
+                    By the by I hope to send you a few sheets by the beginning of april: but of that you shall have advice. In 
+                    case I am to send any pacquets to whom may I inclose. <persName ref="pe0015">our M. P.</persName> is gone to 
+                    <placeName ref="pl0699">town</placeName>. In the hope that you go out let me request you to ask what a 
+                    Bookseller would <sic>chow</sic> for a fine copy of <persName ref="pe0885">Crozat</persName>'s <bibl type="authorial"><title ref="bi0428">cabinet</title></bibl>.
+                    I wish to change one for other books. But pray make no exertion on my account</p>
+                <closer>
+                    <salute>I am 
+                    <lb/>Dear Sir
+                    <lb/>most truely y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Th. Pennant</persName>.</signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> March 6<hi rend="superscript">th</hi> 1788</dateline>
+                </closer>
+            </div>
+            <div>
+                <p><stamp type="postmark">MR 8 88</stamp></p>
+                <p><stamp type="handstamp">00 <placeName ref="pl1251">HOLY | WELL</placeName></stamp></p>
+                <p><address>
+                    <addrLine>To | <persName ref="pe0313">Richard Bull Esq<hi rend="superscript">r</hi></persName> | <del><gap unit="letters" quantity="8" reason="illegible"/></del> <placeName ref="pl0759">Stratton <del>offices</del> Street Piccadilly | London</placeName></addrLine>
+                   </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

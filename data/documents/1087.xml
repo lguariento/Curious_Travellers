@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1087">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>15</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1789-06-18"/>
+                    <placeName ref="pl1372">West Cowes</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl1372">West Cowes</placeName>, <placeName ref="pl1020">Isle of Wight</placeName>.
+                <lb/>June 18. 1789</dateline></opener>
+                <p>My troubling you again, before I left town would have answer’d no purpose, because I could not come at the information you wanted, and I wish’d to give you, respecting the
+                    new River company, nor am I yet able to do it, in any degree effectually.<note type="editorial">On Pennant's interest in the 'new river' and New River Company see <ref target="1083.xml">1083</ref> and <ref target="1086.xml">1086</ref>.</note> <persName ref="pe0427">Alderman Skinner</persName>,
+                    the Auctioneer, who <hi rend="underline">is perfectly au fait to the subject</hi>, was the person I wish’d to have receiv'd my informations from, but I could not see him, in truth I fear, he is a little angry with me, for having employ’d 
+                    <persName ref="pe0395">Greenwood</persName> of late, altho the <persName ref="pe0427">Alderman</persName> has sold many thousand pounds of 
+                    <persName ref="pe0413">M<hi rend="superscript">r</hi>. Morices</persName> effects, on our account, but Gratitude only looks 
+                    forwards; Shame on her, She has no retrospect. All I have learn’d is, that there are 72 Shares, now worth 10,000£ each, tho 
+                    the original value was only 100£. the company divides according to the profits, and are very secret, in their management. –</p>
+                <p>I had formerly the <rs type="art" ref="ar1071">print of Sir W. Dixie</rs>, but I never knew it was from the painting in Christ church Hospital,
+                    or that there was any picture of him in <placeName ref="pl0699">London</placeName>. <persName ref="pe0278">Lord Mounstuart</persName>
+                    has now got it, whose disposition is too liberal to refuse you a copy of it, and I will get it done for you for a Guinea, at least I believe I can, because 
+                    one of Streets journeymen<note type="editorial">'[O]ne of Streets journeymen' may be a reference to a qualified artisan printer working on one of the streets central to the printing trade in London, among them Fleet Street in the City of London.</note> has lately done t<del><gap unit="letters" quantity="1" reason="illegible"/></del>wo
+                    for me, at that price, from the drawings you had the goodness to indulge <add place="above">me</add> with, the liberty of having copied, I mean 
+                    <rs type="art" ref="ar1065">Sir Henry Lea</rs>, and <rs type="art" ref="ar0302">Sir - Clough</rs>.<note type="editorial">For Pennant's mention of drawings of Lee and Clough see <ref target="1071.xml">1071</ref>.</note> They are not so well executed, as your drawings, in 
+                    <persName ref="pe0367">Basire</persName>'s hands, except as to colouring. I am at this place for the purpose of bathing my Knee in warm sea water, and am wi<del><gap unit="letters" quantity="1" reason="illegible"/></del>lling
+                    to believe I am mending, but at present, moves, and thats all. ’tis an unlucky ailment for me, for walking was almost my 
+                    o<del><gap unit="letters" quantity="3" reason="illegible"/></del>nly amusement without doors, and at my age, and with my infirmities I have no loose pleasures to spare. time was when I had a little odd kind of a sociable conviviality about me, but the sparks, if I had any, are all extinguish’d, and I am become an old Volcano burnt out, and have nothing better to do, than
+                    <lb/>“Walk sober off, before a Spritlier age
+                    <lb/>“comes tittering on, and Shoves me from the Stage.<note type="editorial">Alexander Pope, 'Imitations of Horace, Epistle II', lines 324–5.</note></p>
+                <p>I am realy asham'd to make you pay the postage of a letter like this, but I had rather risk giving offence, than that you should blame me for giving no kind of answer to a Business you seem’d anxious about. I am here without my family, and can tell you nothing from a place, where I have not one friend except the 
+                    <persName ref="pe0964"/><hi rend="underline">Stone eater</hi>,<note type="editorial"><hi rend="italic">OED</hi> defines 'stone-eater' as 'a conjuror who pretends to swallow stones', with an 1820 example. It is used here as a nickname for an acquaintance of Bull's.</note> who I shall invite to dinner to morrow, and what ever he asks for, I suppose I may give him a Stone without offending him.</p>
+                <closer>
+                    <salute>I desire my best remembrances to you, and your House, and am, as always, Dear Sir
+                        <lb/>Sincerely yours.</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+                <postscript>
+                    <p>P.S. I believe there is a good account of the new River company, in <bibl type="authorial"><title ref="bi0099">London, and the Environs discrib’d, 8vo. 1761</title>.</bibl> but my recollection often deceives me, let it not also deceive you. –</p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark">JU 1<gap unit="letters" quantity="1" reason="illegible"/> 89</stamp></p>
+                <p>
+                    <address>
+                        <addrLine><persName ref="pe0232">Thomas Pennant Esqr.</persName> | <placeName ref="pl0001">Downing</placeName> | <placeName ref="pl0702">Flintshire</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1086">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 77</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">On address sheet, in Richard Bull's hand</hi>:</p>
+                            <p>such sudden &amp; rough reforms shock ones feelings. | When <del>mu</del> so much is done in so little time | a great part must certainly be wrong, tho a | great part will have its benefits, when the | hour of violence is past<note type="editorial">Cf. <ref target="1089.xml">1089</ref>: 'Such sudden, and rough Reformations, shock one’s feeling[s.] when so much is done in so little time, a great part certainly must be done wrong, ’tho’ when the hour of violence is over...'.</note></p>
+                            <p><hi rend="italic">In another direction</hi>:</p>
+                            <p><bibl type="authorial"><title ref="bi0099">environs of London</title></bibl>, <gap unit="letters" quantity="7" reason="illegible"/> new River company<note type="editorial">This aide-mémoire on the subject of the 'new River company' is in response to a query by Pennant in <ref target="1085.xml">1085</ref>, to which Bull gave his attention in <ref target="1087.xml">1087</ref> and <ref target="1089.xml">1089</ref>.</note> <del><persName ref="pe0326">Sir Watkin</persName></del>
+                                <lb/>the odd arms of the | <del>Luttrel family</del><note type="editorial">For members of the Luttrell family see <persName ref="pe0980">Henry Luttrell</persName>, <persName ref="pe0981">Henry Lawes Luttrell</persName> and <persName ref="pe0983">Anne Luttrell</persName>.</note>
+                                <lb/>vid Goodall.<note type="editorial">This may be a reference to Walter Goodall, <bibl type="authorial"><title ref="bi0328">An introduction to the history and antiquities of Scotland. Containing many useful and curious particulars relating to the Antiquities of Scotland, either little known, or entirely overlooked by other Writers</title></bibl> (Edinburgh: printed for P. Anderson, MDCCLXXXII [1782]).</note></p>
+                            <p><hi rend="italic">In another direction</hi>:</p>
+                            <p>700£ expence here</p>
+                            <p><hi rend="italic">In another direction</hi>:</p>
+                            <p>They think the fall of them a fable, and that they live in Eden Still</p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1789-05-19"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street Piccadilly</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> May 19<hi rend="superscript">th</hi>. 1789.</dateline></opener>
+                <p>I received y<hi rend="superscript">r</hi> late favor with the novelty of regret. I hope you wrote in one respect in the vapours; 
+                    &amp; that by this time they are quite dispersed. drive them away by redoubled application to our elegant amusements. as to lameness, there can <sic>b</sic> 
+                    no fancy in that. I doubt not but you will be soon restored by the most skilful hand <placeName ref="pl0777">Britain</placeName>
+                can boast.</p>
+                <p>I would not importune you so much about the New river, if an account was not essential to me:<note type="editorial">See <ref target="1083.xml">1083</ref>, n. 1.</note> Neither have I any other friend to trouble you on the subject. If not improper I wish you would be so good as to favor me so far as to give a line to the person who is possessed of the knowlege of that concern. I ask no secrets.</p>
+                <p>I thank you for the hint about the <bibl type="authorial"><title ref="bi0068">mysterious mother</title></bibl>. &amp; 
+                    shall think myself uncommonly obliged to you for getting a copy for me. Let me add another. <bibl type="authorial"><title ref="bi0323">Granger</title></bibl>
+                    says you have a <rs type="art" ref="ar1071">print of Sir Wolstan Dixie</rs> from the the painting in Christ church hospital.
+                    Be so good as to get y<hi rend="superscript">r</hi> cheap artist to copy the print;<note type="editorial">Bull's 'cheap artist' has not been identified.</note> 
+                    &amp; it shall be allowed in our acc<hi rend="superscript">t</hi>.</p>
+                <p>my suit is ended with the <placeName ref="pl0002">chester</placeName> coach. the defendant offered to pay in court the 5<hi rend="superscript">£</hi>
+                    he <hi rend="underline">gave a receit for</hi>, &amp; also costs. my attorney advised me to accept it which I have done.<note type="editorial">This appears to be a reference to a court case instigated by Pennant against the Chester coach, presumably for a loss of property in transit between Chester and London.</note>
+                    You have therefore in my hands 2<hi rend="superscript">£</hi>. 10<hi rend="superscript">s</hi>. 0<hi rend="superscript">d</hi>.
+                    being equal to half the loss &amp; that I shall account to you for. I have a very trifle to do abo<hi rend="underline">ut <bibl type="authorial"><title ref="bi0039">London</title></bibl></hi> &amp;
+                    hope <persName ref="pe0111">m<hi rend="superscript">r</hi> Hughs</persName> will by this time have begun to print it.<note type="editorial">When Pennant's <hi rend="italic">Of London</hi> appeared in 1790, its printer was Robert Faulder, not Henry Hughs.</note> This has been a work of vast labor. I smile to see that the magazines have taken the hint 
+                    &amp; pour out their monthly engravings. In the last <bibl type="authorial"><title ref="bi0420">Gent's</title></bibl> is a very good one of an old Chapel.<note type="editorial">Three engravings of churches were printed in <hi rend="italic">The Gentleman's Magazine</hi> in April and May 1789. See <hi rend="italic">The Gentleman's Magazine</hi>, LIX, Part I, no. 4 (April 1789), 292+, 'The Chapel of St. Michael at Aldgate'; 300+, East End of St. Peter le Poor; and ibid., no. 5 (May 1789), 410+, 'West End of St. Peter le Poor'.</note>
+                    The scots did the same by my travels;<note type="editorial">Pennant refers to his Scottish tours: <bibl type="authorial"><title ref="bi0001">A Tour in Scotland 1769</title></bibl> (1771), <bibl type="authorial"><title ref="bi0008">A Tour in Scotland 1772, part I</title></bibl> (1774) and <bibl type="authorial"><title ref="bi0010">A Tour in Scotland 1772, part II</title></bibl> (1776).</note>
+                    for all their Prints histories, fisheries &amp;c &amp;c are in consequence of them.</p>
+                <p>I admire at miss Bulls's temperance<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note> <gap unit="letters" quantity="7" reason="illegible"/>
+                    go to bed at <hi rend="underline">2</hi> &amp; rise at <hi rend="underline">ten</hi>. Incredible!!! Blooming cheeks &amp;
+                    unwrinkl'd, will be their reward to extreme old age.</p>
+                <closer>
+                    <salute>Adieu
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p><persName ref="pe0014">Moses</persName> will most punctually obey y<hi rend="superscript">r</hi> orders.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark">
+                    <gap unit="letters" quantity="1" reason="illegible"/>A 22 <gap unit="letters" quantity="1" reason="illegible"/>9</stamp>
+                    <stamp type="handstamp"><gap unit="letters" quantity="1" reason="illegible"/><placeName ref="pl1251">OLYWEL</placeName><gap unit="letters" quantity="1" reason="illegible"/>
+                </stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> esq<hi rend="superscript">r</hi>. | <placeName ref="pl0759">Stratton street Piccadilly | London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

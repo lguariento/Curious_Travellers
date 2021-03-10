@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1065">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 55</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Sideways along fourth page, in Thomas Pennant’s hand</hi>:</p>
+                            <p><persName ref="pe0228">George Paton</persName> of <placeName ref="pl0076">Edinburgh</placeName></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1787-08-27"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline><placeName ref="pl0001">Downing</placeName> Aug. 27<hi rend="superscript">th</hi>. - 86<note type="editorial">The year '86' was probably added later by Richard Bull.</note></dateline></opener>
+                <p>I was much affected with the account of poor <persName ref="pe0293">M<hi rend="superscript">r</hi> Burel</persName>. 
+                    to hear of so heavy an affliction befalling a person I was making no unjust complaint of really touched my heart &amp;
+                    softened it into the most perfect forgiveness.</p>
+                <p>Take my word for it four out of the six parts of the <bibl type="authorial"><title ref="bi0062">great Sussex map</title></bibl>
+                    are engraven. I saw three or <sic>four four</sic> of them at <placeName ref="pl1385">Arundel Castle</placeName>. &amp; one or two no further
+                    <del>off</del> from you than the <placeName ref="pl2184">Fountain at Portsmouth</placeName>.
+                    they were done by <persName ref="pe0846">Yeakel</persName> &amp; <persName ref=" pe0847">Gardner</persName> under the patronage of the 
+                    <persName ref="pe0407"><choice><abbr>D.</abbr><expan>Duke</expan></choice> of Richmond</persName>. I am not without hopes of getting them as I have applied to a friend of his Grace’s.</p>
+                <p>If you can discover who has bought <persName ref="pe0093">Edmondson</persName>'s stock, the plate may be found.</p>
+                <p><persName ref="pe0014">Moses</persName>'s account went with the <del>p</del>drawings. The shell is the Pomatia see
+                    <bibl type="authorial"><title ref="bi0032">journey to London</title></bibl>. p. 336. in the note<note type="editorial">Pennant notes the reference correctly, as a note on p. 336 of <hi rend="italic">The journey from Chester to London</hi> (1782). See further <ref target="1064.xml">1064</ref>.</note>
+                    <persName ref="pe0379">M<hi rend="superscript">r</hi> Chiswel</persName> has caused <persName ref="pe0324">M<hi rend="superscript">r</hi> Ingleby</persName>
+                    <hi rend="underline">his</hi> Welsh artist to go &amp; draw many more houses for his <bibl type="authorial"><title ref="bi0619">welsh tour</title></bibl>. 
+                    if you wish it <persName ref="pe0014">moses</persName> shall copy them on thin paper for you.</p>
+                <p>I wish very much to reprint 60 copies of my <bibl type="authorial"><title ref="bi0025">Introduction to the arctic Zoology</title></bibl><note type="editorial">This apparently refers to 'Introduction of the Arctic World', first published in <hi rend="italic">Arctic zoology</hi> (1784), I, and suggests that Pennant had plans as early as the late 1780s for its reissue as the first of three volumes in a second edition in 1792, entitled <bibl type="authorial"><title ref="bi0690">Introduction to the Arctic zoology</title></bibl>.</note>
+                    on the same paper &amp; type as <bibl type="authorial"><title ref="bi0368"><persName ref="pe0045">Cook</persName>'s voyage</title></bibl>,
+                    the finest copy. I do not grudge you or any friend any little expences I may now &amp; then be on their account: but now think I have a little clame
+                    in calling the few the <hi rend="underline">very few</hi> on whose candor I can rely to bear a small proportion of expence in what I shall certainly 
+                    not gain, but most probably lose. It is a favorite work of mine, &amp; much so with foreigners. it is my whim that a few copies appear in splendor. 
+                    I put each copy at 2 guineas will <persName ref="pe0313">M<hi rend="superscript">r</hi> Bull</persName> take one or more?
+                    I say 60 copies: but only 50 will be for <placeName ref="pl0775">England</placeName>. the other ten I shall send gratuitously to foreign 
+                    ac<del>ca</del>ademies. take this plan in the light of a friend, as perfectly uninterested.</p>
+                <p><persName ref="pe0065">my son</persName> left me on Friday on his visit to <placeName ref="pl0925">France</placeName>
+                    &amp; <placeName ref="pl1202">Spain</placeName>. In less than a fortnight he will sail under your <placeName ref="pl1020">island</placeName>:
+                    if <persName ref="pe0313">you</persName> &amp; Miss Bulls<note type="editorial"><persName ref="pe0331">Elizabeth</persName> and <persName ref="pe0336">Catherine</persName> Bull.</note>
+                    meet him Pray honor him with a salute. As he goes first to <placeName ref="pl1410">Weymouth</placeName> to take leave of his
+                    <persName ref="pe0237">Aunt</persName>, he will embark at <placeName ref="pl1073">Southampton</placeName> or
+                    <placeName ref="pl1357">Portsmouth</placeName>.</p>
+                <closer>
+                    <salute>My best wishes attend you &amp; yours. Pray do not forget <persName ref="pe0383">M<hi rend="superscript">r</hi> Clark</persName>. I am
+                    <lb/>D<hi rend="superscript">r</hi> Sir
+                    <lb/>most truely y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                  </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

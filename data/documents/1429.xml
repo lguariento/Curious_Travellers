@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1429">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Jones to Thomas Pennant, 25 September 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR 2017 /TP169</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>item 6</locus></ab>
+                    </msContents>
+                    <physDesc><additions><p><hi rend="italic">Endorsement (in Thomas Pennant's hand)</hi>: 
+                        <persName ref="pe0322">M<hi rend="superscript">r</hi> Jones</persName>.</p>
+                        </additions></physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0322">John Jones</persName>
+                    <placeName ref="pl1553">Bodleian Library</placeName>
+                    <date when="1777-09-25">25 September 1777</date>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1431"/>
+                    <ref type="prev" target="ct1477"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Sir</salute>
+                </opener>
+                
+                <p>I am ashamed to have deferred answering your Letter so long, and sending my acknowledgments of your obliging Favour of a drawing of 
+                    the <rs type="art" ref="ar0459">Silver Harp</rs>. I wrote to <persName ref="pe0216">M<hi rend="superscript">r</hi> Morris</persName> immediately upon the receipt 
+                    of yours to enquire of him whether he had any Poems rehearsed at <placeName ref="pl1201">Caerwys</placeName>, worth communicating to 
+                    you, but I have received no Answer; from whence I conclude that he is not in <placeName ref="pl0699">Town</placeName>. The only 
+                    Poem that I know of produced there, is in <bibl type="authorial"><title ref="bi0610">J. D. Rhys's Grammar</title></bibl> pag: 242 which 
+                    is the more remarkable as containing in it the 24 Measures. I intended sending you a Translation of the "Constituta sui Edicta antiquitus 
+                    in usum Bardorum Musicorum Præscripta"<note type="editorial">'Rules established from ancient times for the purpose prescribed for the use of bardic musicians'.</note> in the Grammar above mentioned, (pag 295) but for want of more knowledge of the old British Musick, 
+                    and of corresponding Terms in English, I am under the Necessity of dropping my Design. The 
+                    <del><gap reason="illegible" unit="words" quantity="1"/></del><add place="above">Sorts</add> of Musicians as related 
+                    by <persName ref="pe2144">J. D. Rhys</persName> are eight, of which four are called graduates viz. Bards. Harpers. Crowders, &amp; vocal Performers. 
+                    The other four O<add place="above">r</add>ders contain the inferior Performers, such as played upon all sorts of Wind Instruments, Taborers, Fidlers, 
+                    or those who played upon the three stringed Crwth,<note type="editorial">'crowd'.</note> and vocal Performers, who were to play all manner of 
+                    Tricks, much in the style of our modern merry Andrews. <bibl type="authorial"><title ref="bi0610">J. D. Rhys. Gram:</title></bibl> p 303 
+                    <persName ref="pe2137">M<hi rend="superscript">r</hi> Warton</persName> in a Letter to <persName ref="pe2126">M<hi rend="superscript">r</hi> Price</persName> 
+                    acknowledges the receipt of your Favour, and says that he will give you ample Satisfaction respecting the 
+                    <placeName ref="pl0002">Chester</placeName> Plays &amp;. <persName ref="pe2126">M<hi rend="superscript">r</hi> Price</persName> desires his best 
+                    Compliments to you, and has sent you the inclosed Description of <placeName ref="pl1788">Raglan Castle</placeName>, which he requests may be put with 
+                    the rest of his Papers in your Hands when you have done with it –<note type="editorial">This enclosure has not survived with the manuscript, and there 
+                    is no mention of Raglan Castle in Pennant's work.</note>
+                </p>
+               
+                
+                <p>In persuing <persName ref="pe0216">M<hi rend="superscript">r</hi> Morris</persName>'s 
+                    <bibl type="authorial"><title ref="bi0707">MS of ancient British Music</title></bibl>, I found a piece with 
+                    this account of it. "The End of the <bibl type="authorial"><title ref="bi0712">Prelude of the Salt</title></bibl> <hi rend="underline">which was wont to be</hi> played before <persName ref="pe1645">Arthur</persName>'s Knights when the 
+                    <sic>Saltseller</sic> was placed upon the Table."<note type="editorial">Pennant reproduces this information in his discussion of the 
+                    eisteddfod, which he introduces with the words 'I find that a tune ...', footnoting his reference to 'Mr. Morris's MSS. of British music'.
+                    <hi rend="italic">A tour in Wales 1770 [1773]</hi> (2nd edn., 1784), I, p. 459.</note>
+                </p>
+                <p>I am much obliged to you for your kind promise of a <rs type="art"><ref target="ar0459">Drawing of the Silver Harp</ref></rs>. 
+                    I gave M<hi rend="superscript">r</hi> Edwards<note type="editorial">Mr Edwards has not been identified.</note> a rude drawing of it, which I 
+                begged of him to compare with the original, in order to know whether there is a remarkable Protuberance near the upper Extremity 
+                of the Belly of the Harp as represented in <persName ref="pe0216">M<hi rend="superscript">r</hi> Morris</persName>'s Drawing of 
+                    it. As <persName ref="pe0015">Sir Roger Mostyn</persName> is in Possession of this Medal by an hereditary Right he may possibly be able to give an 
+                account of the Bards Medals which the chief Bards wore upon their Shoulders. These were both of gold and Silver. on them were 
+                presented a Chair, or they were in the Shape of 
+                a Chair but which I cannot as yet make out. <del><gap reason="authorial" unit="letters" quantity="1"/></del> I am afraid that none of them 
+                are extant, and that little or no Account can by given of them at this Period.<note type="editorial">Pennant writes of the 'Penbardd or Pencerdd' (the 
+                chief bard) that he 'received the badge of the silver-harp; or that of a golden or silver chair, which he wore upon his shoulder'. See 
+                <hi rend="italic">A tour in Wales 1770 [1773]</hi> (2nd edn., 1784), I, p. 471.</note> I am with great Respect</p>
+                <closer><salute>Sir<lb/>
+                    your most obedient humble Servant
+                </salute>
+                    <signed><persName ref="pe0322">Jno Jones</persName>.</signed>
+                    <dateline><placeName ref="pl1553">Bodleian Library</placeName><lb/> 25 Sept 1777</dateline></closer>
+                
+            </div>
+            <div>
+                <p><address><addrLine><persName ref="pe0232">T. Pennant Esq<hi rend="superscript">r</hi></persName></addrLine></address></p></div>
+            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1170">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 120</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date>August 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline>Aug<hi rend="superscript">t</hi>. 1794<note type="editorial">The identity of the hand is uncertain, and the date is incorrect. Bull responds to the queries raised here in a letter of 3 September 1793 (<ref target="1171.xml">1171</ref>).</note></dateline></opener>
+                <p>
+                    since I seal’d the letter I found y<hi rend="superscript">r</hi> acc<hi rend="superscript">t</hi> of the lighthouses.<note type="editorial">See <ref target="1169.xml">1169</ref>.</note>
+                    but this will serve to ask – is there any modern house at <placeName ref="pl2530">Beaulieu</placeName>, &amp; whose.?</p>
+                <p>How does the house of Industry go on. does it continue its manufactures?</p>
+                <p>How is <persName ref="pe0383">M<hi rend="superscript">r</hi> Clarke</persName>. my best Complimts to him.</p>
+                <p>Is the passage thro’ the <placeName ref="pl2118">needles</placeName> really prohibited to men of war?</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1156">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 107a</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1792-09-17"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>This day the Letter annexed was returned to me.<note type="editorial">This appears to refer to <ref target="1155.xml">1155</ref>.</note>
+                    You see my attention: It was not my fault that it did not find you at <placeName ref="pl1608">Brighthelmstone</placeName> as you
+                    had said you will be.<note type="editorial">See <ref target="1157.xml">1157</ref>, where Bull explains his absence from Brighton when Pennant's letter arrived.</note> I cannot now add more than my wish that I was young to unite in a crusade against the infidels of 
+                    <placeName ref="pl0925">France</placeName>.<note type="editorial">Pennant probably refers to the September Massacres of 2 September 1792, when aristocrats and priests were murdered.</note>
+                    Heaven must leave them (not as it did David to his choice of Evils)<note type="editorial">2 Samuel 11–24 relates how David committed adultery with Uriah’s wife Bathsheba, then sought to destroy the evidence of his guilt even as far as ensuring the death of Uriah. God allowed him to make a series of mistakes, the 'choice of Evils' to which Pennant refers here.</note>
+                    but to the united Judgements of the sword famine &amp; pestilence. The destroying angels are now hovering over <sic>tha</sic>
+                    most detestable of countries.</p>
+                <closer>
+                    <salute>Adieu
+                        <lb/>Y<hi rend="superscript">rs</hi> most faithfully</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Sept<hi rend="superscript">r</hi>. 17<hi rend="superscript">th</hi> 1792.</dateline>
+                </closer>
+                <postscript>
+                    <p>with the same P.S.<note type="editorial">Cf. <ref target="1155.xml">1155</ref>, where the postscript reads 'Pray write soon'.</note>
+                        Pray let me know how you &amp; y<hi rend="superscript">rs</hi> do.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

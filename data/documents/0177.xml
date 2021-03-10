@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0177">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton: on bookselling matters; thanking him for
+                    accounts of various locales; requesting books</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>110-111</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-01-04"/>
+                    <placeName ref="pl0699">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0178"/>
+                    <ref type="prev" target="ct0176"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0699">London</placeName> Jan. 4<hi rend="superscript">th</hi> 1775.</dateline>
+                <salute>Dear Sir</salute></opener>
+
+                <p>y<hi rend="superscript">r</hi> two favors are before me. I have had leisure to
+                    peruse the excellent accounts of <placeName ref="pl0316">Dundee</placeName>
+                    &amp; beg you to forward the inclosed with my best thanks.</p>
+                <p>The list of maps will be welcome.</p>
+                <p>I told <persName ref="pe0180">M<hi rend="superscript">r</hi> Balfour</persName>
+                    that I had sold my whole impression to <persName ref="pe0026">M<hi rend="superscript">r</hi> White</persName>; else there is none I would
+                    oblige sooner.</p>
+                <p>Pray pick up for me (besides <bibl type="authorial"><title ref="bi0193">Crawfords
+                                <unclear reason="illegible">Renfrewshire</unclear></title></bibl>)
+                        <bibl type="authorial"><title ref="bi0141">Ballenden’s translation of
+                            Boethius</title></bibl> &amp; <bibl type="authorial"><title ref="bi0142">Sir D<hi rend="superscript">d.</hi> Lyndesay’s of the mounts
+                            Poems</title></bibl>.</p>
+                <p>Thanks for the good acc<hi rend="superscript">t</hi> of the <placeName ref="pl0383">Linlithgow</placeName> antiquity.</p>
+                <p><persName ref="pe0200">M<hi rend="superscript">r</hi> Lindsay of
+                        orkney</persName> is very kind. would that my power was equal to my wish to
+                    serve him.</p>
+                <p>Thanks to <persName ref="pe0185">M<hi rend="superscript">r</hi> Bisset</persName>
+                    for the acc<hi rend="superscript">t</hi> of <placeName ref="pl0749">Inchstuthil</placeName>. it tallies quite with my <rs type="art" ref="ar0169">engraven plan</rs>.</p>
+                <p><rs type="art" ref="ar0128">Beaton’s portrait</rs> is well done. I believe like:
+                    if not too old a cast. Let me have y<hi rend="superscript">r</hi> opinion &amp;
+                    of those who have seen it for I cannot so well remember.</p>
+                <p>I see <persName ref="pe0104">M<hi rend="superscript">r</hi> Gough</persName> the
+                        13<hi rend="superscript">th</hi> in my way home. What did <rs type="art" ref="ar0128">the portrait of Beaton</rs> cost you. I must pay for
+                    everything.</p>
+                <closer><salute>Dr Sir <lb/>y<hi rend="superscript">r</hi> obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed></closer>
+
+                <postscript>
+                    <p>y<hi rend="superscript">r</hi> directions next time to <placeName ref="pl0695">Mostyn</placeName></p>
+
+                    <p>Be so good as to forbid the cane rats traveling into <placeName ref="pl0731">Wales</placeName>; but let them be sent to <persName ref="pe0008">M<hi rend="superscript">r</hi> Banks’s</persName>
+                        <placeName ref="pl1651">new Burlington street</placeName> which will do as
+                        well. Stop. I will speak to <persName ref="pe0026">M<hi rend="superscript">r</hi> White</persName>.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

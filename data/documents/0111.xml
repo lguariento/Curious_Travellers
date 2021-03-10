@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0111">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton: plans for 1772 Tour and acquisition of
+                    drawings for an 'Iconical edition'</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>18-19</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1772-04-15"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0112"/>
+                    <ref type="prev" target="ct0110"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>D<hi rend="superscript">r</hi> Sir</salute></opener>
+
+                <p>your kind Letter of april 1<hi rend="superscript">st</hi> came safe to hand. my
+                    best compliments to <persName ref="pe0017">M<hi rend="superscript">r</hi>
+                        Clark</persName>: Let me beg that he w<hi rend="superscript">d</hi> favor me
+                    with his instructions &amp; Letters at the Post office at <placeName ref="pl0253">Carlisle</placeName> by the 28<hi rend="superscript">th</hi> of
+                    next month, or any that will be useful in the islands or the west may be
+                    delivered to <persName ref="pe0022">Doctor Ramsay</persName> who will be so food
+                    as to meet me this side <placeName ref="pl0229">Glasgow</placeName>.</p>
+
+                <p>I rejoice at y<hi rend="superscript">r</hi> zeal in procuring drawings: Let me
+                    impart a resolution by which you will see the use I mean to make of them if you
+                    will please to communicate any to me: It is my design in time to give an
+                    Iconical edition of my whole Tour, consisting of all the drawings of places I
+                    can procure, with explanations.<note type="editorial">No 'Iconical edition' of
+                        the tours in Scotland such as Pennant describes here was ever published, but
+                        Pennant did work on several private extra-illustrated copies over the
+                        following decades, now held in the National Library of Wales and recently
+                        digitised.</note> If y<hi rend="superscript">r</hi> Part of the isle favor
+                    this design by the free communication of drawings, It may depend on my part. No
+                    Print therefore will be disposed of except to such particular friends as
+                        <persName ref="pe0228">M<hi rend="superscript">r</hi> Paton</persName>.</p>
+
+                <p>I rejoice to hear that a new survey of <placeName ref="pl0701">the
+                        orknies</placeName> is to be given.</p>
+
+                <p>Please to make my complim<hi rend="superscript">ts</hi> to <persName ref="pe0022">D<hi rend="superscript">r</hi> Ramsay</persName>: let him know I have
+                    received his favor of April 7<hi rend="superscript">th</hi> &amp; will answer it
+                    in a post or two.</p>
+                <closer><salute>I am Dear Sir y<hi rend="superscript">r</hi> most obed<hi rend="superscript">t</hi> humble Serv<hi rend="superscript">t</hi></salute>
+                    <signed>Tho. Pennant</signed>
+                <dateline><placeName ref="pl0001">Downing</placeName> April 15<hi rend="superscript">th</hi> 1772.</dateline></closer>
+
+                <postscript>
+                    <p>Please to write to me at <placeName ref="pl0253">Carlisle</placeName> if
+                        agreable to you.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark"/><unclear reason="illegible">19 4</unclear></p>
+                <p><stamp type="handstamp"><placeName ref="pl0002">CHESTER</placeName></stamp></p>
+                <p><handShift/><hi rend="superscript"><hi rend="underline">y</hi></hi>6</p>
+                <p><handShift/><placeName ref="pl0696">House in Edin<hi rend="superscript">b</hi></placeName> stopt payt 26 March 1764.</p>
+                <p><handShift/><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> George Paton</addrLine>
+                        <addrLine>at the Custom House</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address>
+                </p>
+
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

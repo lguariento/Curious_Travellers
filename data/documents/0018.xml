@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0018">
+    <teiHeader type="w">
+        <fileDesc>
+            <titleStmt>
+                <title>Journal of a Tour into N. Wales by Sophia Hoare, 1808
+                    <date>1808</date></title>
+                <respStmt>
+                    <name>Edited with an introduction by Elizabeth Edwards</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>Hoare’s Bank Archives</repository>
+                        <idno>HFM</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>19/14/1</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="cy">Welsh</language>
+                <language ident="la">Latin</language>
+                <language ident="it">Italin</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb/>
+                <fw>f. 1r</fw>
+                <p>We left <placeName ref="pl0699">London</placeName> July 29. 1808 and arrived at <placeName ref="pl1347">Oxford</placeName>
+                    by Six O’Clock to Dinner: The Roads were delightful from the Rain that had fallen, after the very hot Weather we had experienced, 
+                    and it was more like a refreshing agreeable Airing, than a Journey which in general I have no particular fancy for. 
+                    I wrote a Note to our Friend <persName ref="pe1164">M<hi rend="superscript">r</hi> P.</persName> who had promised to be our Guide in seeing the Lions, to give notice of our Arrival, and asked him to Breakfast with us 
+                    the following Morning, that we might have plenty of time before us, to see all that was curious &amp; entertaining. We went first to 
+                    <placeName ref="pl1546"><hi rend="underline">the Theatre</hi></placeName>, a large Circular Building, where the Prize Poems are recited
+                   <note type="editorial">Poems awarded Oxford prizes, such as (in this period) the Newdigate Prize, were recited in the Sheldonian Theatre. Collections of prize-winning Oxford poetry were published from 1807; for some examples, see https://archive.org/details/b22018542</note>
+                    in the presence of the <persName ref="pe0915">Chancellor</persName><note type="editorial">Ceremonial head of the University of Oxford. In 1808 the Chancellor was William Cavendish-Bentinck (1738-1809), 3rd Duke of Portland.</note>
+                    who is seated
+                <pb/>
+                <fw>f. 1v</fw>
+                    in the <add place="above">Centre of the</add> Semi circular part, the Nobleman &amp; Doctors on his right &amp; left hand, with the Proctors 
+                    &amp; Curates in their Robes, Master of Arts, Batchelors &amp; Under Graduates in their respective habits &amp; places, together with Strangers
+                   <note type="editorial">I.e. those not affiliated with the university.</note> of both Sexes: making in all when filled upwards of 4000 Persons. – 
+                    The Building is adorned with Statues of the Founder <persName ref="pe0918">Archbishop Sheldon</persName> and the 
+                    <persName ref="pe0919">Duke of Ormond</persName> likewise <persName ref="pe0920">Sir Christopher Wren the Architect</persName>; 
+                    The Roof of the Theatre is very remarkable, being supported without Pillars although it is 80 Feet one way by 90 the other and only sustained by the Side Walls our next Visit was 
+                    to the Logic &amp; Moral Philosophy Schools where there is a very fine Collection of Statues, Marbles, Busts &amp;c.
+                    We saw likewise the Clarendon Printing office
+                <pb/>
+                <fw>f. 2r</fw>
+                    built in 1711 with the profits arising from <persName ref="pe0921">L.<hi rend="superscript">d.</hi> Clarendon</persName>'s
+                    <bibl type="editorial"><title ref="bi0215">History</title></bibl> – It is a most noble Edifice 115 feet in length &amp;
+                    consists of two lofty Stories – On the Top are Statues of the Nine Muses, and over the Entrance a Statue of the Earl of Clarendon.</p>
+                <p>The <placeName ref="pl1547">Radcliffe Library</placeName> was our next Object and very well worth seeing it is – It stands in a fine Area and 
+                    <persName ref="pe0922">D<hi rend="superscript">r.</hi> John Radcliffe</persName> left the sum of 40,000 Pounds to build it and provide a Librarian with 
+                    a Salary 150 <gap unit="words" quantity="1" reason="illegible"/> There are an immense Number of Books, which are continually increasing as one 
+                    Hundred a Year is appropriated to the buying of Books – There are two superb Roman Candlesticks in this Library, given to the University by 
+                    <persName ref="pe0883">Sir Roger Newdigate</persName>
+                <pb/>
+                    <fw>f. 2v</fw>
+                    found in the Ruins of <placeName ref="pl1548">the Emperor Adrian’s Palace at Tivoli, in the Campagna Romana</placeName>. - 
+                    We went next to <placeName ref="pl1549">Christ Church College</placeName> where our Guide left us for a short time while he went about some business of his own, 
+                    which gave us an Opportunity of examining the fine Collection of Pictures presented by <persName ref="pe0924">General Guise</persName>, 
+                    amongst the most remarkable of which are a <rs type="art" ref="ar0216">Portrait of Titian painted by himself</rs> likewise of the
+                    <rs type="art" ref="ar0218">Duke of Alva &amp; a Venetian Nobleman</rs> - The <persName ref="pe1187">Family of the Caraccis</persName> is presented in 
+                    <rs type="art" ref="ar0217">a Butcher’s Shop</rs> a most <rs type="art" ref="ar0220">beautiful Susanna &amp; the Elders by <persName ref="pe0925">Tintoret</persName></rs> 
+                    I think - and a <rs type="art" ref="ar0219">dying Magdalen supported by Cherubim</rs> one of the most beautiful Pictures I ever saw. The 
+                <pb/>
+                <fw>f. 3r</fw>
+                    Stair Case and Entrance to this <placeName ref="pl1549">College</placeName> have lately been greatly Altered &amp;
+                    improved by <placeName ref="pe1161">M<hi rend="superscript">r</hi> Wyatt</placeName>, and the Hall is by far the most magnificent Room 
+                    of the kind in <placeName ref="pl1347">Oxford</placeName>: the Roof framed of Timber curiously wrought. The Kitchen is likewise well worth seeing – In the 
+                    Church of this <placeName ref="pl1549">College</placeName> which is the Cathedral of the Diocese is some fine Painted Glass, and in the <placeName ref="pl1550">Tower</placeName>, 
+                    which makes a singular and beautiful Appearance on the outside of the Building are ten Celebrated Bells including the Great One called 
+                    <rs type="art" ref="ar0209"><hi rend="underline">Tom</hi></rs>, which weighs eight Tons &amp; a half on the sound of which the Scholars of the University 
+                    use to retire to their respective Colleges. <placeName ref="pl1551">All Souls Library &amp; College</placeName> was our next Sight, 
+                    the Chapel is famous for its fine
+                <pb/>
+                <fw>f. 3v</fw>
+                    <rs type="art" ref="ar0210">Altar Piece</rs> painted by <persName ref="pe0926">Mengs</persName>, and called by the Painters a 
+                    “Noli me tangere” in Allusion to the Subject which is our Saviour’s first Appearance in the Garden to Mary Magdalen after his Resurrection, when he says “touch me not” &amp;c.</p>
+                    <p><placeName ref="pl1551">The Library</placeName> is 300 Feet long and over the Book Cases are placed Busts of the Eminent Persons who were formerly Fellows of the College. – 
+                        The beautiful Gardens and Walks belonging to the Colleges pleased me as much as any part of it only that I grew very much tired 
+                        at last with seeing and hearing so much. – <placeName ref="pl1552">New College</placeName> however I was highly delighted with – the Chapel especially and the 
+                        <rs type="art" ref="ar0211">Great Window</rs> with <persName ref="pe1162">Sir Joshua</persName>'s beautiful designs painted
+                        by <persName ref="pe0927">Jarvis</persName></p>
+                <p><pb/>
+                <fw>f. 4r</fw>
+                    The <rs type="art" ref="ar0212">Altar piece of Sculpture</rs> is most exquisite performance consisting of five compartments over the Communion Table, representing in Marble Altorelivo 
+                    1. The Salutation of the Virgin Mary. 2 the Nativity of our Saviour. 3. The taking down from the Cross. 4. The Resurrection. 5. The Ascension. 
+                    They were done by a famous Artist <persName ref="pe0928">M<hi rend="superscript">r.</hi> Westmacott</persName> - the
+                    <rs type="art" ref="ar0213">Crozier</rs> of the Founder, <persName ref="pe1163">William of Wykeham</persName>, 
+                    is a well preserved piece of Antiquity – We went into the Garden Court which is separated from the garden by an Iron Gate &amp;
+                    Pallisade where we unluckily shut ourselves in and if we had not happen to find a student sitting reading in the Alcove who kindly lent us his Key, we might
+                <pb/>
+                <fw>f. 4v</fw>
+                    have been detained longer than we wished. The <placeName ref="pl1553">Bodleian Library</placeName> was unfortunately shut, so we only saw 
+                    the Picture Gallery where there was nothing very remarkable except a beautiful <rs type="art" ref="ar0214">Mary Queen of Scots by <persName ref="pe0595">Vandyke</persName></rs>.
+                    The Library is named after <persName ref="pe0929">Sir Thomas Bodley</persName> the principal Founder it is built in the Form of a Roman H 
+                    and is said to the greatest number of Books of any Library in <placeName ref="pl1176">Europe</placeName>. - I was extremely pleased with 
+                    <placeName ref="pl1554">Magdalen College &amp;  Chapel</placeName> the Windows of which are very fine – There is a very large 
+                    <rs type="art" ref="ar0215">Altar Piece of the last Judgement and underneath it a very fine Picture of our Saviour bearing his Cross</rs> supposed
+                    <pb/>
+                    <fw>f. 5.r</fw>
+                    to be by <persName ref="pe1108">Guido</persName> &amp; reckoned the finest Picture in the World, brought into <placeName ref="pl0775">England</placeName>
+                    by the late <persName ref="pe0954">Duke of Ormond</persName> - the Hall is handsomely fitted up &amp; adorned with many whole length Portraits of the late 
+                    President, Founder, Benefactors &amp;c - the Grove and Gardens belonging to this <del>Gar</del> <placeName ref="pl1554">College</placeName>
+                    are delightful and it contains about 40 head of Deer. We walked some time in the Water Walks as they are 
+                    called by the Side of the little River that surrounds the Paddock – After having seen all this thoroughly we returned to our 
+                    <placeName ref="pl1555">Inn the Star</placeName> where we remained to rest ourselves a few minutes and then <persName ref="pe1164">M<hi rend="superscript">r</hi> Pigou</persName> came again
+                <pb/>
+                <fw>f. 5v</fw>
+                    to conduct us to Dinner at <placeName ref="pl1556">his Chamber at Merton College</placeName> which he likewise showed us. We met at Dinner <persName ref="pe1165">a Friend of his 
+                        an agreeable Man</persName>, and after taking another Walk in <placeName ref="pl1556">Merton College Gardens</placeName>
+                    which are beautiful and quite private we stepped into our Chaise where I fell fast asleep and never woke till I arrived at 
+                    <placeName ref="pl1906">Chapel House</placeName>, where we  drank Tea and slept. On Sunday we set out for <placeName ref="pl1293">Birmingham</placeName>,
+                    and stopped in our Way to see <placeName ref="pl1557">Kennelworth Castle</placeName> which disappointed me but having heard so much of it, I was glad to see it. 
+                    The Building occupies a great deal of Space but there was nothing picturesque in the general appearance. <placeName ref="pl1558">Warwick Castle</placeName>
+                    fully answered my Expectations, it is quite
+                <pb/>
+                <fw>f. 6r</fw> 
+                    magnificent with all the grandeur of an Ancient Structure. It unites all the Convenience &amp; Elegance of a Modern Residence – the Water all Round – The fine Woods and 
+                    the prodigious thickness of the Walls in some part Six Yards thick proves the Strength &amp; solidity of ancient Architecture – a fine Collection of Pictures, particularly 
+                    <persName ref="pe0595">Vandykes</persName>, and the most beautiful inlaid Cabinets of various kinds &amp; forms that ever were seen likewise the old armoury, and some 
+                    <add place="above">warlike Instruments</add> collected by the present <persName ref="pe0930">Lord Warwick</persName> from the 
+                    <placeName ref="pl1656">South Seas</placeName>. We walked a little about the Plantations saw the green house &amp;c. &amp;c and returned to our Carriage, which we did not quit till our Arrival at 
+                    <placeName ref="pl1293">Birmingham</placeName><add place="above">Monday night</add> - the next Morning we were in hopes of seeing the <unclear>Manufacturers</unclear>
+                <pb/>
+                <fw>f. 6v</fw>
+                    and the Curiosities but the violent Storms of Rain impeded our progress and obliged us to return wet through to the <placeName ref="pl1907">Inn</placeName>,
+                    which we quitted when I had changed all my Cloaths – We could not stop at the <unclear>Soho</unclear>, though we passed close to it, the Rain was so violent – We arrived late at 
+                    <placeName ref="pl1562">Elsmere</placeName> where I was rather unwell and the Dinner or rather Supper was of the very worst description – We left 
+                    <placeName ref="pl1562">Elsmere</placeName> early that we might reach <placeName ref="pl1559">Brynbella</placeName> by their Dinner hour but we were detained at 
+                    <placeName ref="pl1857">Mold</placeName> by the want of Horses, and there being a Fair in the Street, all was bustle and Confusion – 
+                    <persName ref="pe0409">Miss <unclear>Gwen</unclear></persName> lived two Miles out of the <placeName ref="pl1857">Town</placeName>,
+                    or we should have paid her a Visit – the Road from hence to <placeName ref="pl1559">Brynbella</placeName>
+                <pb/>
+                <fw>f. 7r</fw>
+                    was beautiful but as we approached <placeName ref="pl1908"><persName ref="pe1166">my Mother</persName>'s</placeName>, the
+                    roughness and steepness made me fear least our Cattle should be unable to get there – At ½ past Five however we arrived, and were cordially welcomed in the Hall – They were at Dinner 
+                    <persName ref="pe1169">Salisbury</persName> with them <persName ref="pe0444">M<hi rend="superscript">r</hi> P.</persName> worse certainly that when I saw him last but likely to live some time.
+                   <note type="editorial">Gabriel Piozzi was suffering from severe gout, and died the following March (1809).</note> We dined and chatted all the Evening except taking a little turn and admiring the beautiful Situation 
+                    &amp; extensive prospect. We generally walked out in the Morning, once to <placeName ref="pl1560">Bachegraig</placeName>, and once
+                    up the steep Crag above the House from whence there is a still more beautiful View than from the House – <persName ref="pe0932 pe0317">Lord and L<hi rend="superscript">y.</hi> Kirkwall</persName>
+                    dined there on Thursday – and <persName ref="pe1167 pe1168">M<hi rend="superscript">r.</hi> Myddelton &amp; his Son</persName> anotehr Day - 
+                    <persName ref="pe0958">M<hi rend="superscript">r.</hi> Moore the Apothecary</persName>
+                <pb/>
+                <fw>f. 7v</fw>
+                    used generally to come in the Evening and on Sunday we went to <placeName ref="pl1561">S<hi rend="superscript">t.</hi> Asaph Cathedral</placeName>
+                    heard the <persName ref="pe0934">new Bishop</persName> who preached very well – <persName ref="pe0426">Dean Shipley</persName>
+                    read, and <persName ref="pe1166">my Mother</persName> with whom I went in the Chaise amused me with Stories of him and his disagreements with his Neighbours – 
+                    We went and came through <placeName ref="pl1262">Llanerch Park</placeName> which is a fine object from <placeName ref="pl1559">Brynbella</placeName>
+                    and well stocked with Deer. <persName ref="pe0935 pe1169">M<hi rend="superscript">rs.</hi> Mostyn and Salisbury</persName> came to Dinner
+                    and we arranged our Plans with her who was to accompany us in the Tour we purposed to make She was obliged to take <persName ref="pe1188">her Boys</persName>
+                    to the Sea, on the Tuesday following, so we fixed to set out by ourselves and meet her at <placeName ref="pl1518">Beddgelert</placeName> We
+                    accordingly left <placeName ref="pl1559">Brynbella</placeName> Monday ye
+                <pb/>
+                <fw>f. 8r</fw>
+                    9<hi rend="superscript">th</hi> and went through <placeName ref="pl1371">S<hi rend="superscript">t.</hi> Asaph</placeName> to
+                    <placeName ref="pl1203">Abergele</placeName> when we walked down to the Sea, the Style of bathing appears very inconvenient and the distance from the little Town is considerable – when
+                    the Horses were baited (for they had no fresh ones) we proceeded to <placeName ref="pl1049">Conway</placeName> -  the Road thither is finely diversified with Rock, Sea, Wood, 
+                    &amp; Mountain: and <placeName ref="pl1338">Penman Mawr</placeName> is a most striking <del>and</del> awful &amp;
+                    Grand Object, but immediately before, the first Entrance into this Mountainous Scene, the Road just admitting the Carriage 
+                    With the Steep rocky Sides of <placeName ref="pl1909">Penman Brach</placeName> on one side and the foaming Torrent with an immense Precipice on the other is even more grand than 
+                    <placeName ref="pl1338">Penman Mawr</placeName>. All this I should have said is after leaving <placeName ref="pl1049">Conway</placeName>
+                <pb/>
+                <fw>f. 8v</fw>
+                    where we were detained two hours for the ferry Boat,<note type="editorial">The Conwy estuary, which cuts across the North Wales coastal route, had to be crossed by means of a ferry.</note>
+                    and various impediments <unclear>dur</unclear> which time we took a Walk for the purpose of getting a better View of the <placeName ref="pl1530">Castle</placeName>
+                    and I attempted a Sketch of its beautiful remains. We then crossed over, took from refreshment and set out to <placeName ref="pl1563">Bangor Ferry</placeName> where we arrived late, 
+                    and our <persName ref="pe1189">Servants</persName> &amp; luggage still later for unfortunately one of their Wheels came off as they were descending <placeName ref="pl1338">Penman Mawr</placeName>. - The
+                    <placeName ref="pl1910">Inn at Bangor Ferry</placeName> was so full that we had wretched Accommodation but we were woke by an excellent 
+                    <persName ref="pe1190">Harper</persName> who amused us most agreeably, till our departure – as we were walking by the Side of the 
+                    <placeName ref="pl1564">Menai River</placeName> and admiring the beautiful Vessels on the Water, one attracted
+                <pb/>
+                <fw>f. 9r</fw>
+                    our Notice particularly, &amp; we were a good deal surprized on seeing one of the Gentlemen for there was a large Party on board 
+                    bowing to us and appearing to know us presently another did the same &amp; soon after he got into the Boat belonging to the Vessel and was rowed towards us – I then perceived that it was
+                    <persName ref="pe1191"><unclear>Cpn</unclear> Lloyd</persName> who came with a very polite Message from <persName ref="pe1192">M<hi rend="superscript">r.</hi> &amp; M<hi rend="superscript">rs.</hi> Owen Williams</persName>
+                    to whom the Vessel belonged, to <del>join</del><gap unit="words" quantity="1" reason="illegible"/> we would join their Party on the Water 
+                    &amp; dine with them at a House of theirs near <placeName ref="pl1049">Conway</placeName>; this however we declined, as We had fixed to go to 
+                    <placeName ref="pl1565">Caernarvon</placeName> and meet <persName ref="pe0935">Cecy</persName> the following Day at <placeName ref="pl1518">Beddgelert</placeName>
+                    <persName ref="pe0414">Sir Thi<hi rend="superscript">s.</hi> Mostyn</persName> was one of Party, and several other Ladies &amp;
+                    gentlemen with whom were not acquainted – the Drive from <placeName ref="pl1563">Bangor Ferry</placeName> to
+                <pb/>
+                <fw>f. 9v</fw>
+                    <placeName ref="pl1565">Caernarvon</placeName> is beautiful, and the Weather so uncommonly clear &amp; fine, that we were gratified with a distinct View of 
+                    <placeName ref="pl1183">Snowdon</placeName> and the long and vast Chain of Mountains <unclear>belnging</unclear> to it: We at length 
+                    got within Sight of <placeName ref="pl1565">Caernarvon</placeName>, and the fine Turrets of the <placeName ref="pl1566">Castle</placeName>
+                    made their appearance – the Building appears to have been on a more extensive scale than <placeName ref="pl1049">Conway</placeName>, but the situation is inferior, it is so choaked 
+                    up with Houses and what was formerly the outer Coast of the <placeName ref="pl1566">Castle</placeName> is now filled with Streets – the 
+                    <placeName ref="pl1911">Hotel</placeName> to which we were recommended, was too full to take us in, so we were obliged to take up our Abode at 
+                    <placeName ref="pl1567">the Sportsman</placeName> where our Dinner was excellent – Bed very small &amp; inconvenient. We took a charming Walk
+                <pb/>
+                <fw>f. 10r</fw>
+                    in the Evening, and I made a Drawing of some sort, surrounded by a Number of little dirty Children all chattering welch – indeed we had heard nothing Else from the lower 
+                    Classes since we left <placeName ref="pl1559">Brynbella</placeName>, and it was only now &amp; then that the Post Boys or the Maids at the 
+                    Inns could understand us or us them. We scrambled up a very steep Rocky Hill just above the <placeName ref="pl1911">Hotel</placeName>
+                    and I had some difficulty in getting down again, but we at length reached our <placeName ref="pl1567">Inn</placeName>, and the following Morning we were shown the Interior of the 
+                    <placeName ref="pl1566">Castle</placeName> and the Room, or the remains of it where <persName ref="pe0936">Edward 2<hi rend="superscript">nd.</hi></persName>
+                    was born.<note type="editorial">Edward II was born at Caernarfon Castle in 1284, possibly in what is known as the Eagle’s Tower.</note>  – Our Road from 
+                    <placeName ref="pl1565">Carnarvon</placeName> to <placeName ref="pl1518">Beddgelert</placeName> was beyond any thing beautiful &amp;
+                    I could not help trying to give some Idea of it on Paper while the Chaise was going on – The Situation of <placeName ref="pl1518">Beddgelert</placeName>
+                    is picturesque
+                <pb/>
+                <fw>f. 10v</fw>
+                    in the highest degree, so infinitely superior to what I had fancied it – The <placeName ref="pl1912 pl1913">little Bridge the Church</placeName>
+                    and the beautiful scattered Village at the foot of such an immense Mountain is very striking indeed<note type="editorial">For a contemporary depiction of Beddgelert by the artist Mary Smirke, see https://commons.wikimedia.org/wiki/File:Betgellert_bridge,_Carnarvonshire.jpeg</note>
+                    – in our Way hither we passed a <placeName ref="pl1914">Cottage of <persName ref="pe0937">Sir Robert Williams</persName></placeName>
+                    set in a most romantic Spot near a Cascade and opposite to the huge <unclear><placeName ref="pl1915">Llewelyn</placeName> Rock</unclear>.
+                    <placeName ref="pl1183">Snowdon</placeName> lay on our left hand &amp; on the right were <unclear>small</unclear> Lakes all bounded 
+                    &amp; surrounded with Mountains various in Size &amp; form, but all beautiful – We could have but very indifferent Accomodation at the Inn, 
+                    and could procure a Bed for <persName ref="pe0935">Cecy</persName> with the greatest difficulty – we were sitting at the Window admiring the View from it when she cantered up to us on her black Horse; I was delighted that all had turned
+                <pb/>
+                <fw>f. 11r</fw>
+                    out so exactly as we had planned it, with the addition of the finest Weather that ever was seen. – We dined very comfortably &amp; 
+                    afterwards, took a most beautiful Walk on the <placeName ref="pl1528">Capel Cerig</placeName> Road that she had come in the Morning – nothing could exceed it – the rushing Water 
+                    over the large heaps of Stones, the Mountains all round us with just Wood enough, and the goats skipping and bounding about regardless of the Precipices beneath them, 
+                    the setting Sun gilding and animating this delightful Scene, left us nothing to wish, that external objects could bestow. – On the following Morg 
+                    Aug<hi rend="superscript">st.</hi> 12 we all started on Horse back, to see <placeName ref="pl1568">Tremadoc</placeName>, and the Embankment all built and made by 
+                    <persName ref="pe0938">Maddocks</persName>, and a very
+                <pb/>
+                <fw>f. 11v</fw>
+                    wonderful Performance it is – We passed the <placeName ref="pl1525">Pont Aberglaslyn</placeName> and near it we met him driving a Curricle towards 
+                    <placeName ref="pl1518">Beddgelert</placeName> - he was very civil invited us to <placeName ref="pl1916">his House</placeName>
+                    &amp; proposed our all going in a Party to <placeName ref="pl1519">Barmouth</placeName> with <persName ref="pe1194">his Nieces</persName>
+                    &amp;c. &amp;c. The <placeName ref="pl1917">Salmon leap and Bridge</placeName> I determined to attempt drawing, in my Way to 
+                    <placeName ref="pl1571">Tan y bwlch</placeName> but <persName ref="pe0935">Cecy</persName> &amp; <persName ref="pe0940">Henry</persName>
+                    insisted on my taking some Remembrance of part of the Road near <placeName ref="pl1568">Tre Madoc</placeName> - which I did – 
+                    <placeName ref="pl1569">Tan yr allt</placeName> <placeName ref="pl1916"><persName ref="pe0938">M<hi rend="superscript">r.</hi> M</persName>'s Cottage</placeName>
+                    is charmingly situated, and over looking his Embankments which seem to succeed admirably, as what was was Sand &amp; Sea is now fine Pasture for Cattle and numbers were grazing on it, and other Fields appropriated to different agricultural 
+                <pb/>
+                <fw>f. 12r</fw>
+                    purposes. I looked in at the <placeName ref="pl1918">Inn</placeName> which will be capital when finished – there had been a large Party the Day before attending the Races, Plays Dinners 
+                    &amp;c. and a very fine Room for the purpose, over the <unclear>Future</unclear> <placeName ref="pl1919">Town Hall which served as the Theatre</placeName>.
+                    We returned to <placeName ref="pl1518">Beddgelert</placeName>, and towards <add place="above">Evening</add> <persName ref="pe0935">Cecy</persName>
+                    remounted after our Luncheon and arrived at <placeName ref="pl1571">Tan y bwlch</placeName> before us, and procured us a charming Lodging within a hundred Yards of the 
+                    <placeName ref="pl1889">Inn</placeName> which was as usual quite full – <placeName ref="pl1570"><persName ref="pe0939">M<hi rend="superscript">r.</hi> Oakley</persName>'s Woods</placeName>
+                    looked most inviting and the pretty little Vale of <placeName ref="pl1523">Festiniog</placeName> but we were too much tired to take a Walk after Dinner and to Day 
+                    Aug<hi rend="superscript">st.</hi> 13<hi rend="superscript">th</hi> it pours with Rain, the first we have seen since we set out. Aug 13<hi rend="superscript">th.</hi>
+                    Saturday – At Intervals the Weather became very tolerable notwithstanding
+                <pb/>
+                <fw>f. 12v</fw>
+                    the unfavourable Appearance of the Skies and after Dinner we took a most charming Walk in <placeName ref="pl1570"><persName ref="pe0939">M<hi rend="superscript">r.</hi> Oakley's</persName> Woods and Grounds</placeName>
+                    which are quite lovely – the prettiest <placeName ref="pl1920">Bridge &amp; Waterfall</placeName> than can be seen, &amp; 
+                    a sweet View of the River &amp; Vale between the Trees, <persName ref="pe0940">Henry</persName> met with <persName ref="pe1193">a Friend</persName>
+                    on our Return to the <placeName ref="pl1889">Inn</placeName>, indeed the whole Road and all the best of the Accommodations were taken by the Quantity of Company that was all flocking the same way – After much 
+                    Advice &amp; pro &amp; Con as to the impracticability of the Scheme we determined to go to <placeName ref="pl1520">Harlech</placeName> from
+                    <placeName ref="pl1570">Tan-y-bwlch</placeName> in the Chaise the Weather was too bad for <persName ref="pe0935">Cecy</persName> to ride so we all set out – but such a Road was never seen I think – in some parts quite
+                <pb/>
+                <fw>f. 13r</fw>
+                    perpendicular so very steep that it was with difficulty we could walk up, and how the Horses ever did it was amazing – and the least false step would have sent them all 
+                    over the immense precipice beneath – In one place where there was a sort of Gateway, the pass was so narrow that the Wall was obliged to be taken down to admit the Carriage – At last 
+                    after immeasurable perils &amp; dangers we saw <placeName ref="pl1521">Harlech Castle</placeName> rising beautifully in the distance and overlooking the <placeName ref="pl1921">Bay</placeName></p>
+                <p>It stands on a high Eminence and the outside Walls are very intire - We had something to eat at the little wretched <placeName ref="pl1922">Alehouse</placeName>
+                    while the Horses were
+                <pb/>
+                <fw>f. 13v</fw>
+                    baited, and proceeded to <placeName ref="pl1519">Barmouth</placeName> where there was a large <unclear>Party</unclear> at the ordinary the 
+                    <placeName ref="pl1923">Inn</placeName> quite filled and we were under the necessity of having two separate Lodgings – we walked a little in the Evening but the Rain and Wind were violent – 
+                    <persName ref="pe0941">Sir Watkin</persName> and <persName ref="pe1196">his sisters</persName> &amp;c &amp;c were there and he sent to invite us to his 
+                    <placeName ref="pl1574">Cottage at Bala</placeName>.</p>
+                <p>Monday 15<hi rend="superscript">th.</hi> We were fortunate in a beautiful Day to enjoy the fine Drive to <placeName ref="pl1517">Dolgelly</placeName> - it is
+                    one of the most beautiful ten Miles I ever saw <placeName ref="pl1866">Cader Idris</placeName> was however veiled in Clouds – we got house Room fortunately, and as the 
+                    Weather was fair I strongly advised taking the opportunity of seeing the Falls – Ponys 
+                <pb/>
+                <fw>f. 14r</fw>
+                    were accordingly procured and under the guidance of the most extraordinary looking Old Creature that ever was seen we sallied forth – 
+                    <placeName ref="pl1572">Dol <unclear>Mechyleth</unclear></placeName> which is in <placeName ref="pl1570"><persName ref="pe0938">M<hi rend="superscript">r.</hi>
+                        Maddock</persName>'s Grounds</placeName> was the first we saw it is beautiful dashing over large black Rocks with quantities of beautiful Wood growing in the most picturesque Manner possible, 
+                    this is about five Miles from <placeName ref="pl1517">Dolgelly</placeName>, we then proceeded to <placeName ref="pl1924">Caer Ryaidir</placeName>
+                    which is much the highest the fall being 60 feet and the <placeName ref="pl1925">Mowther Fall</placeName> which is near it I thought when I was here before by much the most beautiful but it has been 
+                    cruelly stripped of Wood – our Cattle were dreadfully tired before
+                <pb/>
+                <fw>f. 14v</fw>
+                    we reached our <placeName ref="pl1926">Inn</placeName> and we had hardly strength to force them on – we however effected it at about 9 – when we dined and retired to our Couches literally – Breakfasted 
+                    with <persName ref="pe0400">Sir Richard</persName> and <persName ref="pe0943">M<hi rend="superscript">r.</hi> Fenton</persName>
+                    who we found here and proceeded <add place="above">(a rainy Day)</add> to <placeName ref="pl1669">Bala</placeName> - dined and walked to 
+                    <placeName ref="pl1575"><persName ref="pe0400">Sir R</persName>'s Cottage</placeName><add place="above">(fine in the Evening)</add>
+                    to Tea. A low Building with a Colonade, stands in a Field close to the <placeName ref="pl1927">Lake</placeName> of which it commands a fine View. The Rooms very good indeed, and connected to the 
+                    <placeName ref="pl1575">Farm House</placeName> by a long passage and Steps. The next Morning being very fine <persName ref="pe0935">Cecy</persName>
+                    determined to ride to <placeName ref="pl1528">Capel Cerrig</placeName> across the Mountain a much nearer Way than we could go. – our Road lay along the Banks of the 
+                    <placeName ref="pl1138">Dee</placeName> which takes its Rise in <placeName ref="pl1927">Bala Pool</placeName> and the Scenery
+                <pb/>
+                <fw>f. 15r</fw>
+                    improves much in the first ten Miles to <del><placeName ref="pl1576">Carniogge</placeName></del><add place="above"><placeName ref="pl1303">Corwen</placeName></add>
+                    after which it is frightful as far as <placeName ref="pl1576">Caniogge</placeName> - Here, though I was very hungry it was impossible to procure a Morsel or any kind of Convenience, for unluckily there was an Auction – At 
+                    first I thought it was a Methodist Preacher, as I saw a strange looking Creature in great Agitation storming away in Welch and thumping an 
+                    Old Tub which was placed Bottom upwards, close to him, whose was considerably raised above the Crowd. From this place (which by the bye consists of but one House the 
+                    <placeName ref="pl1928">Inn</placeName> the Road is perfectly beautiful all the way to <placeName ref="pl1528">Capel Cerrig</placeName>
+                    indeed it surpassed any thing in point of Scenery I ever beheld – high Mountains beautiful Woods almost covering still more beautiful Rocks a broad Rushing Stream, numerous Cascades, in 
+                <pb/>
+                <fw>f. 15v</fw>
+                    short forming such an assemblage of the sublime and beautiful, that it should be <hi rend="underline">seen</hi>; to be properly felt, for description falls short in the  Attempt – 
+                    <placeName ref="pl1528">Capel cerrig</placeName> is a large single House built on an Eminence <unclear>commanding</unclear>
+                    the pretty <placeName ref="pl1927">Lake or Pool</placeName>, <del>sur</del>bounded by <placeName ref="pl1183">Snowdon</placeName>
+                    and its surrounding Mountains and affording a most picturesque Scene the Banks of the <placeName ref="pl1927">Lake</placeName> are covered with wild Myrtle and walking in an Evening would be delightful 
+                    but for the small stinging Flies which really bit and stung my Face &amp; Eyes to such a degree that I was half crazy with them – The next Morning 
+                    <persName ref="pe0935">Cecy</persName> left us on Horseback for <placeName ref="pl1577">Segroyt</placeName> as she had conducted us through the Tour and we had nothing more to see except what was to
+                <pb/>
+                <fw>f. 16r</fw>
+                    be seen from hence – So we set out in the Chaise with the Guide on Horse back leading our Ponies which we use to mount when the Ascent to 
+                    <placeName ref="pl1183">Snowdon</placeName> became difficult – this happened about four Miles from <placeName ref="pl1528">Capel Curig</placeName>
+                    and the pass we went was quite tremendous scarcely any path &amp; what there was, filled with large broken Stones &amp; pieces of Rock which had fallen down – The precipices we passed with but just 
+                    Room for our Ponies and the heigth together made me quite giddy so that <gap unit="words" quantity="1" reason="illegible"/> I did not so much enjoy the awfully grand Scenery by which 
+                    we were completely encompassed – The River dashing over the Rocks was our only guide till between an opening in one of the huge Rocks we espied 
+                    <placeName ref="pl1309">Dolbadarn Castle</placeName>, which together with the <placeName ref="pl1527">Village
+                <pb/>
+                <fw>f. 16v</fw>
+                        &amp; Lake of Llanberis</placeName> was the Object of our Excursion – At last after toiling and travelling many Miles, we came within Sight of the Water – so passing through 
+                    the Village which is composed of the most miserable mud Huts and a very picturesque <placeName ref="pl1929">Church</placeName>,
+                    all embosomed in Trees, we wound along by the Side of the Lake till we reached <placeName ref="pl1309">Dolbadarn Castle</placeName>
+                    - <persName ref="pe1195">M<hi rend="superscript">r.</hi> Ashton Smith</persName> who owns the <placeName ref="pl1930">Copper Works</placeName>
+                    near the <placeName ref="pl1309">Castle</placeName> has a <placeName ref="pl1931">Cottage</placeName> opposite to it – the <placeName ref="pl1527">Lake</placeName>
+                    it divided by a narrow neck of Land which has a bad Effect the lower Lake is one Mile in length, the Upper above the 
+                    <placeName ref="pl1309">Castle</placeName> 4 Miles – we returned to the <placeName ref="pl1527">Village</placeName> and our
+                    <persName ref="pe1197">Guide</persName> rode on before to procure us some refreshment . – This we found, in the  most miserable Hole I 
+                <pb/>
+                <fw>f. 17r</fw>
+                    ever beheld in the likeness of a House – the bare earth was the Floor, &amp; <hi rend="underline">that</hi> very uneven &amp;
+                    damp, the Walls were a mixture of Moss Stones, peat, and the old broken Beams one pane of Glass for a Window, and <add place="above">an</add>
+                    old Ladder for Staircase – the <persName ref="pe1197">Guide</persName> broiled us a Couple of Fish over a peat Fire in another 
+                    <hi rend="underline">Apartment</hi> and with some Eggs &amp; Milk we did very well. Returned over <placeName ref="pl1183">Snowdon</placeName> &amp;
+                    met the Carriage which I was happy enough to occupy – The next Morning we went through a fine Mountainous Country to see the 
+                    <placeName ref="pl1578">Slate Quarrys</placeName> and <placeName ref="pl1932"><persName ref="pe1198">Lady Penrhyn</persName>’s Cottage</placeName>
+                    opposite. There is a Lake on the Road there which is strikingly beautiful entirely surrounded by immense Mountains – the <placeName ref="pl1932">Cottage</placeName> is
+                    <pb/>
+                    <fw>f. 17v</fw>
+                    highly ornamented on the outside – and the most lovely Plants &amp; Flowers growing in at the Windows in the highest state of perfection 
+                &amp; luxuriance – Quantities of large Trees beside and a pretty little winding Walk down to the Waterfall which is a beautiful Object from the House – the 
+                    <placeName ref="pl1578">Quarry</placeName> was curious to a degree – hundreds of People employed. The Mountains appear to be all Slate – as they 
+                    frequently split it in part, with Gunpowder and have regular Roads &amp; Works carrying on at the different heights – large Walls of Slate 
+                    on every Side of us with great Machines Engines and Work people in all directions – we returned highly gratified dined and in the Evening attempted a Walk up the 
+                <pb/>
+                <fw>f. 18r</fw>
+                    opposite Mountain, which appeared from the <placeName ref="pl1933">Inn</placeName> Window very practicable but we found it quite the Contrary as the light failed us and we returned over Bogs 
+                    &amp; Stones fatigued to Death in the Dark – Saturday we started for <placeName ref="pl1577">Segroyt</placeName>, lost our Way and never arrived till two Hours after her Dinner hour – met 
+                    <persName ref="pe0317">L<hi rend="superscript">y.</hi> Kirkwall</persName> in the Dingle. Sunday we went to <placeName ref="pl1934">Denbigh Church</placeName>,
+                    we were too Early and walked all over the <placeName ref="pl1880">Castle</placeName>, sat on the Bowling Green till the Bell rang – 
+                    <persName ref="pe1199">Miss Mostyns</persName> sat in the Pew with us, expected to have met <persName ref="pe0742">M<hi rend="superscript">rs.</hi> Wynne</persName> &amp; 
+                    <persName ref="pe1200">Maria</persName> at Church – called on the <persName ref="pe0845">Mostyns</persName>, and afterwards went to 
+                    <placeName ref="pl1580">Gwanonog</placeName> – a large Party of Ladies there &amp; Children – <persName ref="pe1201">M<hi rend="superscript">rs</hi> Myddelton</persName> very
+                <pb/>
+                    <fw>f. 18v</fw>
+                    handsome, but looking half dead. Monday we went to <placeName ref="pl1935">Wickwor</placeName> - <persName ref="pe1202">Squire Jones</persName>
+                    called and mounted the Box with <persName ref="pe0940">Henry</persName> (at the risk of his Life) to shine to his <placeName ref="pl1477">Denbigh</placeName>
+                    Friends – We were delighted with <placeName ref="pl1935">Wickwor</placeName> &amp; walked all over it. Tuesday we went to <placeName ref="pl1581">Llewesog</placeName>
+                    - <persName ref="pe0611">M<hi rend="superscript">r</hi> Ed.<hi rend="superscript">d.</hi> Thelwall</persName> dined there – long Scene with 
+                    <persName ref="pe0742">M<hi rend="superscript">rs.</hi> W</persName> and <persName ref="pe1200">Maria</persName> in the Evening – we fixed to stay till Thursday – Wednesday took a long Walk – the 
+                    Woods &amp; Water beautiful Thursday we went nutting in the Boat &amp; Fishing – a large Party of <persName ref="pe0938">Maddocks</persName>'s from 
+                    <placeName ref="pl1936">Vron iw</placeName> <add place="above">called</add> - took <persName ref="pe1203">Bertie</persName>
+                    back in the Chaise he had rode there the Day before – <persName ref="pe0940">Henry</persName> walked back. found <persName ref="pe0935">Cecy</persName>
+                    arranging Matters for her Dinner – <persName ref="pe0932">L.<hi rend="superscript">d.</hi> Kirkwall</persName>
+                <pb/>
+                <fw>f. 19r</fw>
+                    <persName ref="pe1204 pe1205 pe1206 pe1207">D<hi rend="superscript">r.</hi> Myddelton M<hi rend="superscript">r.</hi> M Biddulph, Clough, D<hi rend="superscript">r.</hi> <unclear>Curmiss</unclear></persName>
+                    and ourselves were the Party It went off very well indeed &amp; they all staid till Eleven – Fryday it rained and <persName ref="pe1202">Squire Jones</persName>
+                    came to Dinner. Saturday <persName ref="pe0935">Cecy</persName> &amp; Self went to <placeName ref="pl1936">Vron iw</placeName>, <persName ref="pe0940">Henry</persName>
+                    walked to <placeName ref="pl1559">Brynbella</placeName>. Sunday we all went to <placeName ref="pl1934">Church at Denbigh</placeName>.
+                    met <persName ref="pe0845 pe1208">Mostyns Myddeltons</persName> &amp;c. and proceeded to <placeName ref="pl1045">Lleweney</placeName>
+                    there we walked about saw the House paintings &amp;c dressed when the Servants arrived, dined most sumptuously in the Great Hall nobody but ourselves and the 
+                    <persName ref="pe1209">Chaplain</persName> chatted all Evening, supped, and went to Bed – <persName ref="pe0935">Cecy</persName>
+                    very unwell – <persName ref="pe0317">L<hi rend="superscript">y.</hi> K</persName> likewise In the Morning walked all over the Grounds with 
+                    <persName ref="pe0932">L<hi rend="superscript">d.</hi> K.</persName> saw all his Variety of Telescopes 
+                <pb/>
+                <fw>f. 19v</fw>
+                    Books Maps, Fishing Tackle Hothouses Gardens &amp;c. <persName ref="pe0942">Sir Richard Hoare</persName> &amp; <persName ref="pe0943">M<hi rend="superscript">r.</hi> Fenton</persName>
+                    arrived – we all met at Dinner at <placeName ref="pl1559">Brynbella</placeName> except <persName ref="pe0317">L<hi rend="superscript">y.</hi> K</persName>
+                    who had a sore Throat – <persName ref="pe0444">M<hi rend="superscript">r.</hi> Piozzi</persName> had been very ill indeed, but was well enough to appear. The rest of the Party were 
+                    <persName ref="pe1210 pe1211">Sir John and Lady Williams</persName>, <persName ref="pe1212">Cap<hi rend="superscript">t.</hi> <unclear>Bose</unclear></persName>,
+                    the <persName ref="pe1204 pe1213">D<hi rend="superscript">r.</hi> and M<hi rend="superscript">r.</hi> Myddelton</persName>
+                    and our selves – Tuesday was rather wet, but we walked in the Evening – Wednesday <persName ref="pe1203">Bertie</persName> came on Horseback 
+                    <persName ref="pe1214">Lucy</persName> went away with him to <placeName ref="pl1937">Prestatyn</placeName> - a large Party came from 
+                    <placeName ref="pl1580">Gwanonog</placeName> -  very Showery – Thursday <persName ref="pe0940">Henry</persName> went Shooting with 
+                    <persName ref="pe0932">L<hi rend="superscript">d.</hi> K</persName> - <persName ref="pe0400">Sir Richard</persName> rode to 
+                    <placeName ref="pl1560">Bacheygraig</placeName> &amp;c. I walked a little with <persName ref="pe1166">my Mother</persName> took a View of the House.
+                    <persName ref="pe1215">Mr <gap unit="words" quantity="1" reason="illegible"/></persName>
+                <pb/>
+                <fw>f. 20r</fw>
+                    dines, <persName ref="pe0958">M<hi rend="superscript">r.</hi> Moore</persName> came in the Evening</p>
+                <p>Fryday y<hi rend="superscript">e.</hi> 2<hi rend="superscript">d.</hi> We left <placeName ref="pl1559">Brynbella</placeName> - left
+                    <persName ref="pe0400">Sir Richard</persName> there expecting <persName ref="pe0943">M<hi rend="superscript">r.</hi> Fenton</persName>,
+                    who we met in our Way to <placeName ref="pl1045">Lleweny</placeName> where we stopped to leave to Books <persName ref="pe0932">L<hi rend="superscript">d</hi> K</persName>
+                    had lent me – proceeded to <placeName ref="pl1246">Ruthyn</placeName> in a pouring Rain with difficulty Horses to take us on to <placeName ref="pl0793">Llangollen</placeName> - The
+                    last Ten Miles very fine – distant View of the Mountains – we took leave of the <placeName ref="pl1443">Vale of Cleydd</placeName> - and
+                    the Vale of <placeName ref="pl0793">Llangollen</placeName> opened to our View which tho’ small is extremely picturesque &amp;
+                    very striking – highly cultivated &amp; beautifully sequestered <placeName ref="pl0785">Valle Crucis Abbey</placeName> a charming Object, encompassed with Wood – we arrived at 
+                    <placeName ref="pl0793">Llangollen</placeName> and sent the Note <persName ref="pe1166">my Mother</persName> had given us to 
+                    <persName ref="pe0954">L<hi rend="superscript">y.</hi> Eleanor Butler</persName> - There was a famous <persName ref="pe1216">Methodist Preacher</persName>
+                    in the Village a Brother of <persName ref="pe0955">Sir Richard Hills</persName> - all the people in the Place were gone to hear him. We secured a very
+                <pb/>
+                <fw>f. 20v</fw>
+                    polite Invitation from the Ladies to Breakfast with them the following Morning. – We went at the hour appointed and found them not yet come down. The
+                    Cottage is full of Elegance and Convenience, and excellent Library in a small Gothick Room fitted up for the purpose, beautiful painted Glass, and quantities of Miniatures and Drawings by &amp;
+                    of their Friends – They had every new publication <bibl type="authorial"><title ref="bi0634">Marmion</title></bibl>
+                    most elegantly bound, sent them by the <persName ref="pe0956">Princess of Wales</persName>, and numberless other Prints in Books Drawing Materials, China, &amp;c.
+                    &amp;c. They showed us everything and were so agreeable in their Conversation &amp; manners that I felt quite unwilling to leave them We walked with 
+                    <add place="above">them</add> all over their beautiful little Grounds, which are highly picturesque and 
+                <pb/>
+                <fw>f. 21r</fw>
+                    well stocked with all useful as well as ornamental plants, Shrubs and Flowers – They gave us Partridge Fruit Flowers and what I vallued
+                    far more than all a sweet little Drawing of the Cottage by <persName ref="pe0957">Miss Ponsonby</persName>. They walked with us into the 
+                    <placeName ref="pl0793">Village</placeName> where we parted, resolving never to come again to <placeName ref="pl0793">Llangollen</placeName>
+                    without renewing our Acquaintance with these amiable Recluses – We had spent so many Hours in their agreeable Society that our plan of seeing 
+                    <placeName ref="pl0313">Hawkstone</placeName>, we were forced to relinquish so we passed <placeName ref="pl0468">Winstay</placeName>
+                    and <placeName ref="pl1256">Chirk Castle</placeName>, saw the <placeName ref="pl1609">Aqueduct</placeName> and Coal Works,
+                    navigable Canal till we came to <placeName ref="pl1562">Ellesmere</placeName> which is prettily situated with several fine pieces of Water – the Country now became very flat 
+                    &amp; uninteresting and we began to hear <placeName ref="pl0775">English</placeName> talked again by the common people. We arrived late &amp;
+                    tired to <placeName ref="pl0740">Shrewsbury</placeName> and
+                <pb/>
+                <fw>f. 21v</fw>
+                    found <placeName ref="pl1610">the Lion</placeName> an excellent Inn, where we dined, slept and Breakfasted on Sunday Morning 
+                    Sep<hi rend="superscript">r.</hi> 4<hi rend="superscript">th</hi> - Nothing interesting in the Road till we approached 
+                    <placeName ref="pl1706">Ludlow</placeName>, where the <placeName ref="pl1611">Castle</placeName> stands in a very commanding Situation, and the Town is well worth seeing – The Country around it is very woody, and the beautiful Remains of the 
+                    <placeName ref="pl1611">Castle</placeName> engaged our particular Attention – It is one of the Grandest Ruins I have seen, and the Circular Tower in the Interior is very striking and the fine Saxon Arch quite perfect. – We 
+                    passed several Gentleman’s Seats and not far from <placeName ref="pl0806">Worcester</placeName> we saw <placeName ref="pl1938"><persName ref="pe0731">L<hi rend="superscript">d.</hi> Foley</persName>'s an ugly Building</placeName>,
+                    and a bright Red brick <placeName ref="pl1939">Chapel</placeName> close to it. We arrived late at <placeName ref="pl0806">Worcester</placeName>
+                    where the <placeName ref="pl1940">Inn</placeName> was crowded as usual, but the accommodation tolerable – The <placeName ref="pl1941">Bridge</placeName> very
+                <pb/>
+                <fw>f. 22r</fw>
+                    handsome, &amp; broad well paved Streets. The Moon shone beautifully and numbers of of people were walking about, and the Bells ringing for the Victory over the 
+                    <placeName ref="pl0925">french</placeName> Troops in <placeName ref="pl1202">Spain</placeName> &amp; <placeName ref="pl1384">Portugal</placeName>
+                   <note type="editorial">A reference to events in the ongoing Peninsular War (1807-14) – British forces defeated the French at the Battle of Vimeiro, near Lisbon, in August 1808.</note>
+                    - It poured with Rain all Monday almost &amp; we could hardly get a tolerable View from the Chaise Windows, we passed <gap unit="words" quantity="1" reason="illegible"/>
+                    &amp; <placeName ref="pl1942">Beauchamp</placeName> - both fine places – it luckily cleared up for our Drive through 
+                    <placeName ref="pl1613">Blenheim Park</placeName> which is very grand indeed – the largest and finest piece of Artificial Water there is in the Kingdom, the Bridge is heavy, but the 
+                    <placeName ref="pl1613">House</placeName> looks like a Palace, and any one of the parts of which it is composed would contain a large Family 
+                    &amp; a suitable Establishment – we went thro’ <placeName ref="pl1943">Woodstock</placeName> and arrived at <placeName ref="pl1347">Oxford</placeName>
+                    at six o Clock to Dinner. I now considered myself
+                <pb/>
+                <fw>f. 22v</fw>
+                    as at Home, and the next Morning Tuesday the 6<hi rend="superscript">th.</hi> of Sep<hi rend="superscript">ber.</hi> we set out intending to walk on till the Carriages should overtake us but being attracted by a Print Shop in our Way we were so occupied with looking 
+                    over some Drawings &amp; Painting &amp;c. that we never saw the Chaises go by so it was lucky that we caught them again by their having the Sense to turn back for us. We arrived in Town about 6 o’Clock to Dinner.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

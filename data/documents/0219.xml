@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0219">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, requesting various works and thanking him for
+                    corrections to the map</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>174-175</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1777-02-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0220"/>
+                    <ref type="prev" target="ct0218"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>The following books will be acceptable from the Catalogue <lb/>2882 <bibl type="authorial"><title ref="bi0587">Urquhart</title></bibl>. <lb/>2885.
+                    Tweddale <lb/>3118 Spelman.<note type="editorial">The latter two books Pennant
+                        mentions are likely <bibl type="editorial"><title ref="bi0225">Alexander
+                                Pennecuik, <hi rend="italic">A geographical, historical description
+                                    of the shire of Tweeddale; with a miscelany and curious
+                                    collection of select Scotish poems</hi> (Edinburgh:
+                                1715)</title></bibl> and the historian and antiquary <bibl type="editorial"><title ref="bi0226">Sir Henry Spelman's, <hi rend="italic">Glossarium archaiologicum</hi> (London:
+                                1626-1664)</title></bibl>.</note> this last I want much the selling
+                    price in <placeName ref="pl0699">London</placeName> is 2 —10,<hi rend="superscript">d</hi> I also wish for <bibl type="authorial"><title ref="bi0142">Sir D. Lyndsays Poems</title></bibl>
+                    <unclear reason="illegible">q<hi rend="superscript">to</hi></unclear> edition in
+                    which is the poem I quote p 194 of my last volume.<note type="editorial">See
+                        Pennant, <bibl type="editorial"><title ref="bi0010"><hi rend="italic">Tour
+                                    in Scotland and Voyage to the Hebrides 1772 Part II</hi></title>
+                            (London: 1776),<biblScope unit="page"> p.194</biblScope></bibl>. Pennant
+                        quotes the following lines, probably attributed to Sir David Lindsay by the
+                        church historian Robert Wodrow in <bibl type="editorial"><title ref="bi0574"><hi rend="italic">The history of the sufferings of the Church
+                                    of Scotland</hi></title>, 2 vols., (Edinburgh: 1721-22),
+                                <biblScope unit="volume">i</biblScope>, <biblScope unit="page">p.33</biblScope></bibl>: <p><quote>
+                            <l>As for this cardinal, I grant,</l>
+                            <l>He was a man we might well want;</l>
+                            <l>God will forgive it soon.</l>
+                            <l>But of a truth the sooth to say,</l>
+                            <l>Altho' the loon be well away,</l>
+                            <l>The fact was foully done.</l>
+                        </quote></p> The above stanza is a separate work from Lindsay's poem of
+                        religious satire, <bibl type="editorial"><title ref="bi0644">'The tragedie
+                                of David Beton, Cardinall, and Archbishop of
+                            Saint-Androes'</title></bibl>, which reflects on the murder of <persName ref="pe0063">David Beaton</persName> in 1546.</note> I bought a copy in
+                        <placeName ref="pl0699">London</placeName> (date lost) a small quarto of 140
+                    pages. in page 96 is the <bibl type="authorial"><title ref="bi0644">Tragedy of
+                            David Beaton</title></bibl> a different poem from that I want. Pray can
+                    you copy the title of this book of mine as that leaf is lost. Thanks for the
+                    corrected bit of the <bibl type="authorial"><title ref="bi0209">map</title></bibl>. <persName ref="pe0006">Bailey</persName> says he has
+                    sent you a copy. So I hope it will soon be finished.</p>
+                <closer><salute>I am <lb/>Dear Sir <lb/>y<hi rend="superscript">rs</hi> most
+                        truely</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                <dateline>Febr. 14<hi rend="superscript">th</hi> 1777.</dateline></closer>
+                <postscript>
+                    <p>Have you found out another <rs ref="ar0128">Picture of Cardinal Beaton</rs>
+                        yet.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>at the Custom house</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

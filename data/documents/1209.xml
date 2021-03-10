@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1209">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 140</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1797-12-03"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r</hi> 3<hi rend="superscript">d</hi> 1797.</dateline></opener>
+                <p>I remained at <placeName ref="pl0796">Bath</placeName> above five weeks <sic>in daily</sic> of receiving news of y<hi rend="superscript">rs</hi> 
+                    &amp; <persName ref="pe0331">miss Bulls</persName> welfare &amp; your explanation of y<hi rend="superscript">r</hi> wants respecting the 
+                    <bibl type="authorial"><title ref="bi0023">arctic Zoology</title></bibl> which I should not have failed obeying to the best of my power. I fear you are not well when I consider your usual punctuality: I address myself to you in 
+                    <placeName ref="pl0699">London</placeName> imagining that you must have begun your town residence.</p>
+                <p>
+                    I returned home only last night thro perils of snow, very unusual at this early season. The <placeName ref="pl0796">Bath</placeName> 
+                    waters agreed with me; &amp; I came back highly improved health: but not in spirits, having lost <persName ref="pe0234">my daughter</persName><note type="editorial">Arabella married Edward Hanmer, a barrister-at-law, at Erbistock Parish Church on 20 November 1797. 
+                        Evans, 'The life and work of Thomas Pennant', p. 72.</note>
+                    by matrimony in a manner I far from approve. I never resist the wishes of a Lady in love affairs: we may as well endeavour to stop a swarm of Bees with a pitchfork. may they be happy.</p>
+                <p>
+                    <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName> unites with me in every good wish to <persName ref="pe0331">miss Bull</persName>
+                    &amp; yourself. &amp; remain with true regard</p>
+                <closer>
+                    <salute>Dear Sir
+                        <lb/>Y<hi rend="superscript">r</hi> affect. friend</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">B DE 5 9<gap unit="letters" quantity="1" reason="illegible"/></stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi> | <placeName ref="pl0759">Stratton street</placeName> <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

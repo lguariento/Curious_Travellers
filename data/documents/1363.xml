@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1363">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>To Thomas Pennant, of Downing, Esq., 20 April 1795</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wrexham</settlement>
+                        <repository>Philip Yorke, Tracts of Powys (1795)</repository>
+                        <idno>dedicatory letter</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0243">Philip Yorke</persName>
+                    <date when="1795-04-20"/>
+                    <placeName ref="pl1244">Erthig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1364"/>
+                    <ref type="prev" target="ct1362"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>
+                    <salute>Dear Sir,</salute></opener>
+                
+                <p>I attempted with some pains and to little purpose, the several pedigrees of the different descendants of
+                    <persName ref="pe0618">Bleddyn ap Cynfyn</persName>, the founder of our third Royal Tribe, but communications failing me, the design, 
+                    hath ended, for the present at least, in this slight Memoir of the Princes and Lords of <placeName ref="pl1224">Powys</placeName>, 
+                    only.<note type="editorial">This dedicatory letter, addressed to Pennant in recognition of Yorke's sense of the latter's huge contribution 
+                        to the field of Welsh antiquarianism (see <ref target="1361.xml">1361</ref>), prefaces Yorke's 1795 publication, <hi rend="italic">The Tracts of Powys</hi>. 
+                    The work focused on the descendants of Bleddyn ap Cynfyn, provided notes on the crown lordships of Powys, and argued against the anti-Galfridian view of the 
+                    origins of the ancient Britons expressed by Polydore Virgil. The <hi rend="italic">Tracts</hi> were expanded 
+                        in <hi rend="italic">The Royal Tribes of Wales</hi>, published in 1799. See <hi rend="italic">ODNB</hi>; <hi rend="italic">DWB</hi>.</note> Such as it is then,
+                    permit me to present it you, as to one, by whom 
+                our Antiquities have been best understood, and best illustrated. I have added the names of all the families I can find descended 
+                from this, as from the nineteen other Tribes: from that source alone, the information necessary must be sought; what we have abroad, 
+                is without anecdote, imperfect and uninteresting, and I detach this
+                with great submission among them, on a service of better intelligence: If with success, 
+                I would report progress; for I am free to think the race of <persName ref="pe2108">Cadwalader</persName>, more glorious 
+                    than the breed of <persName ref="pe2109">Gimcrack</persName>, and a Welsh Card, than a <placeName ref="pl3015">Newmarket</placeName> Calendar.</p>
+                  
+                <closer><salute>I am, Dear Sir, with great esteem,<lb/>
+                    
+                    Your very faithful and obedient Servant
+                </salute>
+                    <signed><persName ref="pe0243">Ph. Yorke.</persName></signed>
+                    <dateline><placeName ref="pl1244">Erthig</placeName>, April 20th. 1795.</dateline></closer>
+                
+                
+            </div>
+            <div><p><address><persName ref="pe0232">Tho<hi rend="superscript">s</hi>: Pennant Esq<hi rend="superscript">r</hi></persName><lb/>
+                <placeName ref="pl0001">Downing –</placeName><lb/>
+                
+                </address></p></div>
+               
+            
+            
+            
+        </body>
+    </text>
+</TEI>

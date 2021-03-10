@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1079">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 69</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1788-07-12"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> July 12<hi rend="superscript">th</hi> - 88</dateline></opener>
+                <p>In respect to the wish to have England &amp; Schetland<note type="editorial">Sections of '<bibl type="authorial"><title ref="bi0025">Introduction of the Arctic World</title></bibl>'.</note>
+                    back it is owing to what I said a desire to make your copy as perfect as my own: for after the parcel was sent I found numbers of drawing 
+                    relative to the <placeName ref="pl1476">Scottish isles</placeName>,<note type="editorial">For a 'List of Drawings made by Moses Griffith in my Tour to Scotland 1772. and of others presented to me on my journey', see one of three unnumbered notebooks in NLW 2530A. The second list within this notebook, headed 'Book No. II' includes numerous references to Scottish isles, including Bute, Arran, Y columbkil, Mull and <sic>Skie</sic>.</note>
+                    which I had not thought of. if you send them at michaelmas I ca<del><gap unit="letters" quantity="1" reason="illegible"/></del>n
+                    bring them up with all the remainder. the drawings were for you.<note type="editorial">Further on these drawings see <ref target="1077.xml">1077</ref> and <ref target="1078.xml">1078</ref>.</note></p>
+                <p>I hope to meet you in <placeName ref="pl0699">town</placeName> in December; very early in the month. not to find a New Binder for 
+                    <persName ref="pe0435">Wingrave</persName> is grown so negligent as almost to ruin for me my 
+                    <bibl type="authorial"><title ref="bi0368">set of <persName ref="pe0045">Cook</persName></title></bibl>. so rapidly have the arts travelled, that at 
+                    <placeName ref="pl0002">Chester</placeName> I find one, and at <placeName ref="pl1477">Denbigh</placeName>. another whom I shall trust in preferrence 
+                    to the workman of <placeName ref="pl1012">Fleetstreet</placeName>.</p>
+                <p>Was it not for the sort of Education I mean to give <persName ref="pe0235">my <hi rend="underline">little</hi> girl</persName>,
+                    I should be indifferent to <placeName ref="pl0699">London</placeName>: saving the sight of a few friends, among whom I need not name one. 
+                    The above is a home Education: for I detest the unnatural one of schools. when a widower I was forced to send 
+                    <persName ref="pe0234">my eldest</persName> to one. her mind was returned to me untainted: but her most elegant figure was shamefully injured.</p>
+                <p>I thank you for y<hi rend="superscript">r</hi> politics. Be so good as to continue them; for I hear nothing but 
+                    <del>the m</del>thro' the medium of news papers: &amp; what I see now respecting our domestic Jars frighten an old man, who dreads the return of faction 
+                    &amp; sedition.</p>
+                <p>The cruel shock of our Cotton trade affects my little town of <placeName ref="pl1251">Holy well</placeName>. The manufacturers there 
+                    <hi rend="underline">do</hi> keep on their legs: but have discharged multitudes of their people. the works there were superior to those of any other part of the Kingdom; 
+                    &amp; the most elegant. a foolish rapacity has brought about all this calamity.</p>
+                <p>I fancy we shall soon hear of the <persName ref="pe0894">northern semiramis</persName> following <persName ref="pe1462">her Husband</persName>.</p>
+                <p>Inclosed are some <rs type="art" ref="ar1068">Prints</rs> from olaffens <bibl type="authorial"><title ref="bi0333">Hist: of Iceland</title></bibl>.
+                    you will not get such easily. more may follow. I need not advise you to get the creases out. Among them are some of the newest fashions for the Benefit of 
+                    <persName ref="pe0331 pe0336">miss Bulls</persName>.<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note> I hope to see them next winter come towering into an assembly <sic>rom</sic> 
+                    toutes a L’Islandoises.<note type="editorial">'like real Icelandic girls'.</note></p>
+                <closer>
+                    <salute>Adieu
+                    <lb/>y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline><placeName ref=""/></dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

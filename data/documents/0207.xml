@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0207">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton: on the need for discretion when sending
+                    materials, George Low's M.S., and information on the MacGregors</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>155-156</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1776-03-26"/>
+                    <placeName ref="pl0699">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0208"/>
+                    <ref type="prev" target="ct0534"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sirre</salute></opener>
+                <p>Y<hi rend="superscript">r</hi> three favors met me here. my best thanks for them.
+                    was you to know the rapacity, the circumvention of mankind even about these
+                    matters not indeed of the first moment, you wd not be amazed at my caution. I
+                    have full confidence in you. I do not chuse to apply to <persName ref="pe0104">M<hi rend="superscript">r</hi> Gough</persName>.</p>
+                <p>I rejoice at <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                        Low’s</persName> recovery: &amp; at the arrival of his <bibl type="authorial"><title ref="bi0058">M.S.</title></bibl> I inclose a line to
+                    him: which please to forward. I beg my best complimts to <persName ref="pe0226">M<hi rend="superscript">r</hi> Panton</persName>. &amp; <persName ref="pe0133">M<hi rend="superscript">r</hi>
+                        <unclear reason="illegible">Law</unclear></persName>. and some prints
+                    welcome to the last. also to <persName ref="pe0279">M<hi rend="superscript">r</hi> Sympson</persName> I (think). I mean the Gentleman who sent the
+                    drawings to.</p>
+                <p>Pray to what work does the folio sheet of the Macgregors belong to?<note type="editorial"/></p>
+                <p>I shall do no more ab<hi rend="superscript">t</hi> that clan than barely refer to
+                    the authorities of y<hi rend="superscript">r</hi> acts of parlement.</p>
+                <p><persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> may mention
+                    anything <hi rend="underline">historically</hi> but with<hi rend="superscript">t</hi> entering into one party or other. Let him avoid controversy.</p>
+                <p>Thanks for <persName ref="pe0100">M<hi rend="superscript">r</hi>
+                        Freebairns</persName> sketches. Where is he now?</p>
+                <closer><salute>I am Dear Sir <lb/>affect<hi rend="superscript">ly</hi> &amp; truely
+                            y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">T. Pennant</persName></signed></closer>
+
+
+                <dateline><address>
+                        <addrLine><placeName ref="pl1647">N<hi rend="superscript">o</hi>11 vere
+                                street</placeName></addrLine>
+                        <addrLine>oxford ch.</addrLine>
+                    </address> march 26<hi rend="superscript">th.</hi> 1776.</dateline>
+                <postscript>
+                    <p>I stay till 25 of april here. </p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

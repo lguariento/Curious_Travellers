@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0405">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Mackenzie</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>NLS</repository>
+                        <idno>Delvine Papers, MS.1423</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>10-11</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-01-27"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0203">John Mackenzie</persName>
+                    <placeName ref="pl0287">Delvine</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0406"/>
+                    <ref type="prev" target="ct0404"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>
+                    <salute>Dear Sir</salute></opener>
+                <p>Many thanks for y<hi rend="superscript">r</hi> kind Letter &amp; correction of
+                    the <rs ref="ar0169">plan</rs>. <persName ref="pe0185">M<hi rend="superscript">r</hi>Bisset</persName> Minister of <placeName ref="pl0288">Caputh</placeName> hath lately obliged me with many proofs of <placeName ref="pl0287">Delvin</placeName> having been a roman station,<note type="editorial">See Pennant, See <bibl type="editorial"><title ref="bi0010">A tour in Scotland 1772, part II</title></bibl> (1776),
+                        p.70.</note> so malgré vous, you shall be successor to the conquerors of
+                        <placeName ref="pl0705">Caledonia</placeName>.</p>
+                <p>As you live not remote from <placeName ref="pl0113">Faskally</placeName>, Pray
+                    let me ask, if salmon ever get up the <placeName ref="pl0109">fall of the
+                        Tumel</placeName> within sight of that delicious place. if so, I shall be
+                    very glad if you would procure the exact height of the said fall.</p>
+                <p><persName ref="pe0228">M<hi rend="superscript">r</hi> G. Paton</persName> speaks
+                    something of y<hi rend="superscript">r</hi> expecting my <bibl type="authorial"><title ref="bi0005">appendix</title></bibl> to my <bibl type="authorial"><title ref="bi0002">oct<hi rend="superscript">vo</hi>
+                            edition</title></bibl>. I do not mean you such a fragment: but a quarto
+                    volume now printing more worth y<hi rend="superscript">r</hi> acceptance.<note type="editorial">Pennant is likely alluding to his intention to present
+                        Mackenzie with a copy of the forthcoming <bibl type="editorial"><title ref="bi0010">A tour in Scotland 1772, part II</title></bibl>
+                        (1776).</note> I am now in full employ on that subject. &amp; shall be
+                    pretty prolix on y<hi rend="superscript">r</hi> neigborhood, thanks to the
+                    communicative disposition of y<hi rend="superscript">r</hi> countrymen.</p>
+                <p>If you know of any singular tenures of manours: I should be happy in having an
+                    abstract. I wish much for a copy of a writ of fire &amp; sword.<note type="editorial">A form of royal warrant issued in the absence of
+                        government's capacity to act in a particular place or time, and violently
+                        enforced by one subject against another; an example of such a decree against
+                        two members of the Maclean family in 1675 is given as an appendix to
+                        Pennant, <bibl type="editorial"><title ref="bi0010">A tour in Scotland 1772,
+                                part II</title></bibl> (1776), pp.443-46.</note> excuse all this
+                    trouble. &amp; think me</p>
+                <closer><salute>with true regard, <lb/>Dear Sir <lb/>y<hi rend="superscript">r</hi>
+                        obliged &amp; obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline><placeName ref="">Downing</placeName> Jan. 27<hi rend="superscript">th</hi> 1775.</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>John Mackenzie esq<hi rend="superscript">r</hi>:</addrLine>
+                        <addrLine>of Delvin</addrLine>
+                        <addrLine>near Perth</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

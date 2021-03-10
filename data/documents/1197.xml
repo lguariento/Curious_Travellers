@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1197">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>59</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1797-02-06"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName>. February 6. 1797</dateline></opener>
+                <p>I found your last kind remembrance of me and mine, upon my table, when we arriv’d from the <placeName ref="pl1020">Isle of Wight</placeName>,
+                    about the middle of December, almost ever since which, I have had a sick family, &amp; myself ailing, and spiritness, and 
+                    <persName ref="pe0331">my daughter</persName> still worse than myself, nor do I believe she will ever recover the former cheerfulness, and, pour comble de Malheur,<note type="editorial">'to make matters worse'.</note> the vile yellow fever in the <placeName ref="pl0704">West Indies</placeName>,
+                    has carried off, two valuable friends of mine, and several of our very intimate acquaintance besides. I shall be glad to receive 
+                    my Whitford Parish,<note type="editorial">Bull refers to the <bibl type="authorial"><title ref="bi0034">'History of Whiteford Parish'</title></bibl> in <hi rend="italic">HPWaH</hi>.</note> but not sooner than may suit <persName ref="pe0014">M<hi rend="superscript">r</hi> Griffith</persName>'s
+                    leisure and convenience. I find a memorandum that I sent him the two title pages of my <hi rend="underline">large paper</hi>
+                    <bibl type="authorial"><title ref="bi0023">Arctic Zoology</title></bibl>, at the same time that the <bibl type="authorial"><title ref="bi0025">Introduction</title></bibl>
+                    of that work was remitted to him for his adorning the same. The <bibl type="authorial"><title ref="bi0025">Introduction</title></bibl> I receiv’d safely, but the title pages never were return’d. will you have the goodness, if an opportunity offers to enquire about them, and if not <sic>to found</sic>,
+                    perhaps you can tell me to whom I can apply for two others to replace them, as I do not just now recollect <del>for</del><add place="above">by</add> whom they were printed.</p>
+                <p>
+                    sometime since, you ask'd me for a <rs type="art" ref="ar0345">print of Marseille''s good Bishop</rs>, 
+                    which I could not then give you, but have now a duplicate at your service. I am not much in the way of hearing public news, but I hear many complaints of men and Measures, and I doubt not without reason. 
+                    <persName ref="pe0425">Lord Spencer</persName>, report says, will not continue at the head of the admiralty, unless a serious parliamentary enquiry is made into the reason’s for 
+                    <persName ref="pe1785">Lord Bridports</persName> delays before he left <placeName ref="pl2578">S<hi rend="superscript">t</hi>. Hellens</placeName>,
+                    as well as for the improper and unlikely Stations he took afterwards, for the intercepting the Enemie’s fleet on 
+                    <del><gap unit="letters" quantity="3" reason="illegible"/></del> its return to <placeName ref="pl1655">Brest</placeName>.<note type="editorial">This refers to the British response to a failed French attempt to land in Bantry Bay, County Cork, Ireland, in December 1796. Alexander Hood, Viscount Bridport, was ordered to set out to sea from Spithead on 20 December 1796 but failed to do so until 3 January 1797, with contemporary newspaper accounts noting on 7 January that he had sailed from St Helens on the Isle of Wight. <hi rend="italic">ODNB</hi>. R. B. McDowell, ‘The Age of the United Irishmen: Revolution and the Union, 1794–1800’, in Moody and Vaughan (eds.), <hi rend="italic">A New History of Ireland</hi>. IV, pp. 349–50; <hi rend="italic">Hampshire Chronicle</hi>, 7 January 1797.</note>
+                    not a question has yet been ask’d, who was to blame for the strange manner, in which our ships, had ran foul of one another, in going from 
+                    <del><gap unit="letters" quantity="several" reason="illegible"/></del> <placeName ref="pl2578">S<hi rend="superscript">t</hi>. Hellen's point</placeName>,
+                    nor why <persName ref="pe1785">Lord Bridport</persName>, did not sail without waiting for them, his force being more than adequate for the purpose intended. The Devil is a good Pilot, and I always thought, He would Steer his friends, the Savages of 
+                    <placeName ref="pl0925">France</placeName> out of our way, as he has always done hitherto. The last stroke in <placeName ref="pl1164">Italy</placeName>,
+                    will most likely oblige our only real ally, the <persName ref="pe1786">Emperor</persName>, to make a separate peace.<note type="editorial">This refers to the campaigns of Napoléon Bonaparte in Italy during 1796–7. The Austrian army surrendered under a concentrated force of French soldiers at the battle of La Favorita, outside Mantua on 16 January, and had withdrawn to the mountains by the end of the month. Mantua itself was captured on 2 February, leading to the signing of the Peace Preliminaries of Leoben on 18 April, a forerunner of the Treaty of Campo-Formio (18 October 1797). F. M. H. Markham, <hi rend="italic">Napoleon and the Awakening of Europe</hi> (London: English Universities Press, 1954), 17–33, esp. pp. 28–9; Jones, <hi rend="italic">Longman Companion to the French Revolution</hi>, p. 49.</note>
+                    We shall know more of this business, when the next <placeName ref="pl2579">Hamburgh</placeName> Mail arrives; at present it is said that the french had receiv’d a reinforcement of 30,000 fresh troops, which by neglect or other, the 
+                    <persName ref="pe1787">Imperial General</persName> had gain’d no intelligence about, and that <add place="above">the</add> 
+                    <persName ref="pe1786">Emperors</persName> troops being, for the greatest part, young and new recruits when opposed to the Veterans of 
+                    <placeName ref="pl0925">france</placeName>, were soon oblig’d to give way. It is hoped and believ’d however, that the Braggard 
+                    <persName ref="pe1788">Buonaparte</persName>, has, as usual, exagerated his accounts of the several actions.</p>
+                <p>
+                    I am afraid my very old friend <persName ref="pe0434">Lord Orford</persName>, is almost at his last stage. after combatting a fever for many days, in a manner quite astonishing for a man, of his age, and weak habit of body, an abscess has form’d under his arm, which must soon kill, or cure, but his friends hardly wish for the latter, because he has already suffer’d pain sufficient to deprive him of his intellects, so that the business of death being half done, it cannot be desirable, to have to begin it again at 87.</p>
+                    <p>
+                        a more mellancholy account has <hi rend="underline">just</hi> reach’d to me – <hi rend="underline">poor <persName ref="pe0379">Chiswell</persName></hi> - has
+                        shot himself <add place="above">dead</add> and I am actually so shock’d at the moment I am telling you so, that I cannot 
+                        <add place="above">add</add> another word, except our best, and our sincerest good wishes to you, and the House of Pennant.</p>
+                <closer>
+                    <salute>I am Dear Sir, with great truth,
+                    <lb/>Yours always</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+                <postscript>
+                    <p>P:S. since I wrote the within, a friend of poor unhappy <persName ref="pe0379">Chiswell</persName> has been with me. The horrid deed was done at his house in 
+                        <placeName ref="pl1388">Essex</placeName>, on friday last, <add place="above"><hi rend="underline">Febr 3<hi rend="superscript">d</hi></hi></add>,
+                        about 3 o’clock in his water closet. He had engag’d a party of friends to dine with him in <placeName ref="pl0961">Portland place</placeName>
+                        the same day. – the immediate cause – is at present suppos’d to have been from <add place="above">some</add> pecuniary difficulties arising from his having of late speculated too much in the funds 
+                        <add place="above">and other matters</add>. He had an Estate of 6000 per ann<hi rend="superscript">m</hi>. in <placeName ref="pl0775">England</placeName>,
+                        with which one would suppose any reasonable man would have been contented,, and his menage – did not seem above such an Estate..</p>
+                    <p>It is said, (and I hope with truth,) that the <persName ref="pe1789">Russian Paul</persName>, is desirous of an offensive and defensive alliance with 
+                        <placeName ref="pl0775">England</placeName>, and the <persName ref="pe1786">Emperor</persName>, and he will Send a large army, and as many ships as may be wanted, into any part of 
+                        <placeName ref="pl1176">Europe</placeName>, to be employ’’d against French. –</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

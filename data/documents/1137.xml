@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1137">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>35</locus></ab>
+                    </msContents>                    
+                    <physDesc>
+                        <additions><p><hi rend="italic">Endorsement in Thomas Pennant's hand at the top of the page</hi>: <hi rend="underline">Answ<hi rend="superscript">d</hi>.</hi></p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1791-07-26"/>
+                    <placeName ref="pl1013">North Court, Isle of Wight</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir.</salute><dateline><placeName ref="pl1013">North Court. Isle of Wight</placeName>. July 26. 1791.</dateline></opener>
+                <p>I don’t believe you have more pleasure in reading letters, merely as such, than I have in writing them, and nothing from hence being likely either to amuse, or to interest you, I thought I might as well hold my peace. </p>
+                <p>Having expected every week for more than a month past to be call’d to <placeName ref="pl0699">London</placeName>, I have omitted 
+                    paying the amount of <persName ref="pe0014">Moses Griffith</persName>'s Bill to <persName ref="pe0329">your Banker</persName>,
+                    but it shall not be much longer neglected, in the mean time, I take it for granted the delay is of small inconvenience to either 
+                    of You. inclosed is an exact statement of my debt, copied from your <hi rend="underline">own</hi>, and from <hi rend="underline">his</hi>
+                    detatch'd papers, which I shall suppose to be right unless I hear from you to the Contrary.<note type="editorial">The enclosure is not present with the manuscript letter.</note> I am endeavoring to procure a list of the 
+                    various birds frequenting the <placeName ref="pl2118">needle Rocks</placeName>, <add place="above">with</add> which <persName ref="pe0014">Moses</persName>'s
+                    elegant pencil may decorate my <bibl type="authorial"><title ref="bi0269">Vectis</title></bibl>. I am likely to take root here, not 
+                    from any predilection of my own, but because the climate seems so congenial to the healths of my daughters,<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>
+                    who are grown quite fond of a place, where they have expended a pretty large sum of late, somewhat imprudently in my opinion; but 
+                    they think the fall of man all a fable, and that they live in Eden still. <placeName ref="pl1372">Cowes</placeName> is now become 
+                    a perfect public place, and we begin to feel heavily the want of that retirement, which heretofore made <placeName ref="pl1013">Northcourt</placeName>
+                    so desirable to us; and pour comble de Malheur,<note type="editorial">'to make things worse'.</note> <persName ref="pe0465">the King</persName>
+                    is expected every day, to view the Fleet, which has for some time been anchor’d in a double line of battle, beautifull and 
+                    magnificent to behold. I, for one, hardly think they will let him be so far from <placeName ref="pl0699">London</placeName>
+                    just now, tho’ <persName ref="pe0436">Sir Richard Worsley</persName> has offer'd <placeName ref="pl1392">his house</placeName>,
+                    and is getting it ready. possibly he may come <del>quite</del> as privately as he can, to <placeName ref="pl1357">Portsmouth</placeName>,
+                    with the <persName ref="pe0849 pe0961">2 elder princesses</persName>,<note type="editorial">Charlotte Augusta Matilda, princess royal (1766–1828), queen of Württemberg, consort of Friedrich I; and Princess Augusta Sophia (1768–1840). <hi rend="italic">ODNB</hi>.</note> who have never  seen a Ship of warr. – I don’t find 
+                    <del><gap unit="letters" quantity="7" reason="illegible"/></del> any of the Captains have the least Idea of sailing to the 
+                    <placeName ref="pl1011">Baltic</placeName>, or any where else. The expense is enormous, but I dare believe <persName ref="pe0500">M<hi rend="superscript">r</hi>. Pitt</persName>
+                    will give good reasons for his apparent extravagance. your last letter complain’d of your being unwell, but I hope this will find all of the 
+                    House of Pennant in good health, and in perfect enjoyment of all their faculties. my deafness encreases upon me, otherwise, 
+                    I am very well, and very much yours</p>
+                <closer>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+                <postscript>
+                    <p>P.S.  simpleton, as I am, I never recollected till this moment, how easy it is, to <del>pay</del>
+                        discharge my debt to <persName ref="pe0014">Moses</persName>, by ordering <persName ref="pe0400">M<hi rend="superscript">r</hi>. Hoare</persName>,
+                        my Banker to pay the same, to your banker <persName ref="pe0329">M<hi rend="superscript">r</hi> Goslin</persName> - I will
+                        do it directly, and you may reckon it discharg'd accordingly. <persName ref="pe0422">Rainsford</persName> desires his best remembrances to You. –</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

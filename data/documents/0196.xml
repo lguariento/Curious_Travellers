@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0196">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton: thanking him for parcels and materials;
+                    clarification regarding Elizabeth Mure</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>137</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-09-29"/>
+                    <placeName ref="pl0699">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0197"/>
+                    <ref type="prev" target="ct0195"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0699">London</placeName> Sept<hi rend="superscript">r.</hi> 29<hi rend="superscript">th</hi> 1775</dateline>
+                <salute>Dear Sir</salute></opener>
+                <p>I received the two parcels here &amp; am much obliged to you for <bibl type="authorial"><title ref="bi0160">Dalrymple</title></bibl>. I see still
+                    that my only mistake was giving the name of Elizabeth to <persName ref="pe1008">Robert’s</persName> mistress. The surname was still <persName ref="pe1013"><hi rend="underline">more</hi> or <hi rend="underline">morham</hi></persName>. &amp; nothing <bibl type="authorial"><title ref="bi0160">Dalrymple</title></bibl> advances will save <persName ref="pe0147">L<hi rend="superscript">d</hi> Bute’s</persName> ancestor from
+                    being the Son of a Wh—.</p>
+                <p>I miss <bibl type="authorial"><title ref="bi0080"><hi rend="underline">moyse’s
+                                memoirs</hi></title></bibl> in the parcel. Pray describe to me the
+                    front of the <placeName ref="pl1041">new episcopal chapel</placeName> at
+                        <placeName ref="pl0076">Edinburgh</placeName>. are there Pillars or
+                    Pilasters in front? if the first I suppose them insulated &amp; form a Portico.
+                    is there an organ; painting above altar &amp; what subject?</p>
+                <p>Pray is <bibl type="authorial"><title ref="bi0173">the account of the clans by
+                            Buchanan</title></bibl> esteemed among you quite authentic?</p>
+                <p>I rejoice that <bibl type="authorial"><title ref="bi0081">M<hi rend="superscript">r</hi> Shaws book</title></bibl> is so near its appearance.</p>
+                <p>I stay here only a few days, being brought here in attending my children to
+                    school after their holydays. inclose as usual.</p>
+                <closer><salute>I am <lb/>Dear Sir <lb/>y<hi rend="superscript">r</hi> most obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi>
+                    <persName ref="pe0232">Tho. Pennant</persName></salute></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

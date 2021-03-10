@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1421">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to William Owen [Pughe], 11 April 179[?2]</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>13222C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>pp. 249–52</locus></ab>
+                    </msContents>
+                    <physDesc/>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl1862">Hanover Square</placeName>
+                    <date>179[?2]-04-11</date>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe2111">William Owen [Pughe]</persName>
+                    <placeName ref="pl3038">Penton Place, London</placeName>
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1422"/>
+                    <ref type="prev" target="ct1420"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute><persName ref="pe2111">M<hi rend="superscript">r</hi> Owen</persName></salute>
+                <dateline/></opener>
+                
+                <p><persName ref="pe2123">Doctor Williams</persName> did me the favor of calling but spoke so low that I could not understand the 
+                    object of the business. He talked of having my name to the plan about the Padoucas. I would chearfully give it, if that is 
+                    all: but <sic>if it follow’d by</sic> correspondencies, meetings or any trouble I must decline. I am now 65.<note type="editorial">This 
+                        suggests a date of 1791 for this letter, but a number of factors argue for a date of 1792. The Bull-Pennant correspondence suggests 
+                        that Pennant was not in London in April 1790 (<ref target="1129.xml">1129</ref> (7 April 1791) shows him instructing Bull to get a 
+                        print from London portrait 
+                        print dealer William Richardson and in <ref target="1131.xml">1131</ref> (16 April 1791) he is busily involved with 
+                        extra-illustrating at home in Downing). In 1792, on the other hand, he reports on 13 March 
+                        (<ref target="1151.xml">1151</ref>) that 'We are now forty miles on our way to town' and names 'No. 5 George Street Hanover Square' 
+                        as his address, noting that 'we shall not reach it till Friday' (which would have been 16 March 1792); and in a letter of 8 &amp; 9 May 
+                        (<ref target="1152.xml">1152</ref>) is making arrangements for Bull to visit him there in two days' time. Of the two publications by 
+                        Williams regarding the discovery of America by Madog, the second, <hi rend="italic">Farther observations</hi>, seems more attuned to 
+                        the contents of this letter by Pennant. It mentions the Padoucas several times (whereas the earlier publication makes no mention at all 
+                        of them), and appears, in its preface, to be urging the need for sending people out to explore the premise that Welsh, and Welsh-speaking 
+                        Indians, were alive on the north American continent. See <hi rend="italic">Farther observations, on the discovery of America, by Prince Madog ab Owen 
+                        Gwynedd, about the year, 1170</hi> (London: J. Brown, 1792), pp. iii–iv. April 1792 was the period of the formation of the Madogeion 
+                        Society, in which Pughe was highly influential, and the content of this letter from Pennant to Pughe may well reflect the bustle 
+                        surrounding that project. Carr, <hi rend="italic">William Owen Pughe</hi>, pp. 41–2; NLW 9072E, p. 255.</note> &amp; so oppressed with 
+                    engagements that I can undertake nothing more: so far from that, I am daily lessening my literary businesses. I beg to see you by yourself 
+                    any morning about 8: When I shall be glad to hear the extent of the plan. I am</p>
+                
+           
+                <closer><salute>y<hi rend="superscript">r</hi> sincere well wisher
+                </salute>
+                    <signed><persName ref="pe0232">T. Pennant</persName></signed>
+                <dateline>no 5: <placeName ref="pl3040">George street</placeName><lb/>
+                    <placeName ref="pl1862">Hannover sq.</placeName><lb/>
+                    April 11<hi rend="superscript">th</hi>.
+                </dateline></closer>
+            </div>
+            
+            <div>
+                <p><stamp type="postmark">[<hi rend="italic">triangular stamp</hi>]: <gap reason="illegible" unit="letters" quantity="several"/> W <gap reason="illegible" unit="letters" quantity="2"/> 
+                    <gap reason="illegible" unit="letters" quantity="several"/>; [<hi rend="italic">round stamp</hi>]: <gap reason="illegible" unit="letters" quantity="several"/></stamp>
+                    </p>
+                    
+                <p><address><addrLine><persName ref="pe2111">M<hi rend="superscript">r</hi> William Owen</persName><lb/>
+                    N<hi rend="superscript">o</hi> 20 <placeName ref="pl3038">Panton Place</placeName>.
+                </addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

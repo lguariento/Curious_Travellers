@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0166">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton: requesting information on Scottish sites;
+                    forthcoming publication of additions to <hi rend="superscript">Tour in Scotland
+                        in 1769</hi>; appealing to the Scottish clergy</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>94-95</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1774-09-17"/>
+                    <placeName ref="pl0699">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0167"/>
+                    <ref type="prev" target="ct0165"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p> I have now almost finished my errand; &amp; as I shall be able to set my face
+                    towards <placeName ref="pl0731">Wales</placeName> next week, hope to hear from
+                    you next month; or rather by the 5<hi rend="superscript">th</hi> of it when I
+                    trust I shall be restored to my studies.</p>
+                <p>The extracts relating to <placeName ref="pl0821">Athol</placeName> will be of
+                    much use to me.</p>
+                <p>a minute list of the Parishes in <placeName ref="pl0076">Edinburgh</placeName>,
+                    also the number of its inhabitants if lately computed.</p>
+                <p><bibl type="authorial"><title ref="bi0005">The appendix to my octavo editions of
+                            the Tour 1769 with the plates of the quarto</title></bibl> will be soon
+                    published. I consign it to <persName ref="pe0026">M<hi rend="superscript">r</hi>
+                        White</persName>, so beg you would desire <persName ref="pe0180">M<hi rend="superscript">r</hi> Balfour</persName> to apply to him. These
+                    additions make a volume of between one &amp; two hundred pages.</p>
+                <p>At present nothing new occurs.</p>
+                <closer><salute>I am <lb/>Dear Sir <lb/>y<hi rend="superscript">r</hi> faithfull
+                        humble Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed> Near <placeName ref="pl0699">London</placeName></closer>
+                <dateline>Sept<hi rend="superscript">r</hi> 17<hi rend="superscript">th</hi>
+                    1774.</dateline>
+
+                <postscript>
+                    <p>As I wish very much that the clergy of <placeName ref="pl0705">Scotland</placeName> may know how much I befriend them &amp; with what
+                        candour I treat them, I wish you would get quoted in the magazine with a
+                        proper preamble an extract from my voyage p.135. my observation on the bad
+                        condition of the scotch churches &amp; that quote, from</p>
+                    <p>"It is but common justice &amp;c<note type="editorial">Confusingly, the page
+                            reference given by Pennant seems to correspond to his account of the
+                            Scottish clergy in <bibl type="editorial"><title ref="bi0001">A tour in
+                                    Scotland 1769</title></bibl> (1771), while the quote is from a
+                            passage in <bibl type="editorial"><title ref="bi0008">A tour in Scotland
+                                    and voyage to the Hebrides 1772</title></bibl> (1774),
+                            p.154.</note></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

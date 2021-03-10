@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1053">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 53</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1786-03-04"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> March 4<hi rend="superscript">th</hi> 1786.</dateline><salute>Dear Sir</salute></opener>
+                <p>I sincerely congratulate you, &amp; <persName ref="pe0346">M<hi rend="superscript">rs</hi> Luther</persName>
+                    on the great acquisition of fortune.<note type="editorial">See <ref target="1052.xml">1052</ref>.</note> may health &amp; every other blessing give you the full relish of it. I hope no calls 
+                    from bad health in any of your family will make another retreat from <placeName ref="pl0699">the Capital</placeName> necessary,
+                    for I now find your presence there no small addition to my comfort whenever I happen to visit the place. But for the 
+                    uncommon severe return of winter, we should have set out in about a weeks time: now our journey is uncertain, because we 
+                    dare not venture our two little ones,<note type="editorial"><persName ref="pe0235">Sarah</persName> and <persName ref="pe0421">Thomas</persName> Pennant, junior.</note> who were to have visited town at the request 
+                    of certain relations who appeared anxious to see them. Whenever I come I shall bring with me the Tours in Wales<note type="editorial">See <ref target="1051.xml">1051</ref>, n. 1, which identifies the edition being extra-illustrated at this time as <bibl><title ref="bi0015">A tour in Wales</title></bibl> (2nd edn., 1784)</note> &amp; <bibl type="authorial"><title ref="bi0032">the journey to London</title></bibl> to be bound. since you had your sets
+                    many additions are made which <persName ref="pe0014">moses</persName> will be happy to execute for you: He will have done near a dozen in 
+                    <bibl type="authorial"><title ref="bi0032">the journey</title></bibl> since yours reached you. The man with the <rs type="art" ref="ar0253">virgula divinatoria</rs> was taken from <persName ref="pe0798">Agricola</persName> <bibl type="authorial"><title ref="bi0155">de re metallica</title></bibl>.
+                    I thank you for <rs type="art" ref="ar0133"><persName ref="pe0782">Admiral Seymour</persName></rs>. Before I bind
+                    <bibl type="authorial"><title ref="bi0032">the journey</title></bibl> I shall new-write the whole account of the 
+                    pictures at <placeName ref="pl1342">Hatfield</placeName><note type="editorial">For Pennant's description of portraits at Hatfield, Hertfordshire, see <hi rend="italic">The journey from Chester to London</hi> ([1782]), pp. 403–11. It is noted on p. 411 that 'Since this account of these pictures was taken, they have been differently arranged'.</note>
+                    according to the present arrangement. This shall be printed, &amp; the old leaves cancelled. let me honestly premise that I 
+                    cannot bear every expence of collecting matter, printing these gratuitous affairs, &amp;c &amp;c. I shall expect those 
+                    interested to go a small share &amp; that I think my friend will not refuse. Pray send me the name of some M. P. to whom I may inclose 
+                    now <persName ref="pe0015">Sir R. M.</persName> is setting out. I will also bring up the <bibl type="authorial"><title ref="bi0025">Introduction to the arctic Zoology</title></bibl> in its half binding you will see what a rich volume I have made of it: but I know you will soon beat me so zealous, 
+                    &amp; conversant are you in prints. I <del>am</del> have some where read that <persName ref="pe0799">Aristotle</persName>
+                    lays it down as a certainty that no great attempts are wisely undertaken or successfully executed after our forty ninth year.<note type="editorial">Aristotle, <hi rend="italic">Rhetoric</hi>, part 14: 'The body is in its prime from thirty to five-and-thirty; the mind about forty-nine'.</note>
+                    you will certainly brand me with foll<del><gap unit="letters" quantity="2" reason="illegible"/></del>y when I tell you I am going to
+                    <hi rend="underline">finish</hi> my <bibl type="authorial"><title ref="bi0037">Indian Zoology</title></bibl> on the plan of the 
+                    <bibl type="authorial"><title ref="bi0022 bi0023">arctic</title></bibl> at a period in which I want but 
+                    <hi rend="underline">four months of sixty</hi>. I give up the pretensions to the wisdom, but will not to the success of the attempt, 
+                    unless I meet with certain external obstructions which the successful are almost sure of 
+                    m<del><gap unit="letters" quantity="2" reason="illegible"/></del>eeting.
+                    I will anticipate your idea of the <persName ref="pe0809">archbishop of Grena<supplied>d</supplied>a</persName>
+                    in <bibl type="authorial"><title ref="bi0615">Gil Blas</title></bibl>: for I suspect that Idea 
+                    wi<supplied>ll</supplied>
+                    arise in your mind.<note type="editorial">Rash, vain and susceptible to flattery, the archbishop of Granada in Lesage's <hi rend="italic">Gil Blas</hi> suffers from 
+                        diminished capacities following an apoplectic fit, producing a sermon which is no better than 'a vague discourse, the rhetoric of an old professor, 
+                        a mere capucinade'. Alain René Lesage, <hi rend="italic">The Adventures of Gil Blas de Santillane</hi>, trans. Tobias Smollett (3 vols., London, 
+                        1819), II, p. 221. For Pennant's fears of emulating the archbishop and his determination to 'hang up my pen in time' lest he should do so, see his 
+                        comments in the Advertisement to <hi rend="italic">Of London</hi> (1790), p. v.<note type="editorial">
+                    </note>
+                    </note> But why <sic>may not the be</sic> a second spring in the animal man as well as the vegetable world. Do not you think it wise at lest
+                    in <del><gap unit="letters" quantity="7" reason="illegible"/></del> one who is advanced in life to approach towards the sun,
+                    &amp; to be invigorated with its rays in a region over which it shines with fuller power than in this frozen clime?<note type="editorial">Pennant describes the geographical foci of further volumes of his 'Outlines of the Globe'.</note> Think of being made attendant in my ideal voyage along the soft shores of 
+                    <placeName ref="pl1202">Iberia</placeName>, till we reach the sultry <placeName ref="pl1352">Senegal</placeName>; sail along the 
+                    barbarous coast of <placeName ref="pl1353">Africa</placeName>, double the cape, &amp; inhale the <placeName ref="pl1354">Sabæan</placeName>
+                    odors of <placeName ref="pl1355">antient arabia</placeName>. be enraptured with <placeName ref="pl1024">India
+                        &amp; its islands</placeName>; &amp; point out to you the novel beauties of the creation in all that that 
+                    can be pleasing to Eye smell or taste, Happily the paper proves a ne plus,<note type="editorial">Short for 'ne plus ultra', translatable here as 'command to go no further'.</note>
+                    but not to what <gap unit="letters" quantity="1" reason="illegible"/> will never cease that of subscribing myself</p>
+                <closer>
+                    <salute>Dear Sir
+                    <lb/>most truely &amp; affect<hi rend="superscript">ly</hi> y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Thomas Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>Remember me to <persName ref="pe0293">M<hi rend="superscript">r</hi> Burrel</persName> &amp; <persName ref="pe0332">M<hi rend="superscript">r</hi> Storer</persName>.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

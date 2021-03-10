@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1165">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 111</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">On the address sheet</hi>:</p>
+                            <p><table>
+                                    <row>
+                                        <cell>
+                                            <lb/>
+                                            <lb/>
+                                            <lb/>
+                                            <lb/>
+                                            <lb/>
+                                            <lb/>
+                                            <lb/>
+                                            <lb/>
+                                            <lb/>
+                                            <lb/>-----<lb/> 2. </cell>
+                                        <cell> 5.<lb/> 2.<lb/> 2.<lb/> 3.<lb/> 5.<lb/> 2.<lb/>
+                                            <lb/>
+                                            <lb/>
+                                            <lb/>
+                                            <lb/>-----<lb/> – </cell>
+                                        <cell>
+                                            <lb/>
+                                            <lb/>
+                                            <lb/> 5.<lb/>
+                                            <lb/> 20.<lb/> 2.<lb/> 4.<lb/> 5<lb/> 5.<lb/>-----<lb/>
+                                            12. </cell>
+                                        <cell>
+                                            <lb/>
+                                            <lb/>
+                                            <lb/><lb/><lb/><lb/> 6. <lb/><lb/><lb/> 6<lb/>-----<lb/>
+                                            – </cell>
+                                    </row>
+                                </table></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1793-03-16"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute>
+                    <dateline><placeName ref="pl0001">Downing</placeName> March 16<hi rend="superscript">th</hi> 1793.</dateline></opener>
+                <p>I am sorry to hear of your complaints. I wish you had, like me, braved the
+                    assaults of cold &amp; heat from y<hi rend="superscript">r</hi> earliest days,
+                    &amp; you w<hi rend="superscript">d</hi> not have felt this metamorphosis in
+                        y<hi rend="superscript">r</hi> later days. I feel a much more solid evil;
+                    not in myself, but from a heavy visitation my dear <persName ref="pe0235">youngest daughter</persName> has had, of a disorder in one eye: we are
+                    under the best hands, yet in compliance with the solicitations of friends we
+                        sh<hi rend="superscript">d</hi> immediately come up to <placeName ref="pl0699">town</placeName>, to try the medical help if the faculty there
+                        <add place="above">were she able to travel.</add> - we have good hopes all
+                    will do well yet. She gains strength; &amp; other promiseing symptoms
+                    appear.</p>
+                <p> I refer you to <persName ref="pe0065">my Son</persName> for the rest.
+                        <del>t</del>he will be in <placeName ref="pl0699">town</placeName> on
+                    Tuesday: &amp; brings with him, <bibl type="authorial"><title ref="bi0023">yr
+                            arctic Zoology</title></bibl>. I am sorry more drawings were not done,
+                    but <persName ref="pe0014">moses</persName> past most part of last year with us.
+                    – little work for myself. – Soon will appear my <bibl type="authorial"><title ref="bi0041">literary life</title></bibl>: much is left out of what is
+                    in <bibl type="authorial"><title ref="bi0686">y<hi rend="superscript">r</hi> M.S. copy</title></bibl>, &amp; much added with all <bibl type="authorial"><title ref="bi0179">my miscellanies</title></bibl> except
+                    one.</p>
+                <p> How do I congratulate you, on the prospect The french have of feeling in all
+                    their vigour the scourges of sword civil war &amp; famine: how finely has the
+                    tide turn’d. I scarcely can predict anything but a counter revolution,<note type="editorial">A revolt by peasants in the western département of the
+                        Vendée was triggered by attempts to enforce the military levy of 24 February
+                        1793. During March the rebels gained control of several town in the area
+                        before troops were sent to counter them in May 1793. Jones, <hi rend="italic">Longman Companion to the French Revolution</hi>, pp.
+                        26–7.</note> &amp; possibly a return <hi rend="underline">of
+                    despotism</hi>.</p>
+                <p> I hope miss Bulls<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include parse="text" href="Bulls.xml"/></note> enjoy
+                    better health than their. <gap unit="words" quantity="several" reason="authorial"/><note type="editorial">A gap in the manuscript at this point is perfectly
+                        deliberate and refers to Bull’s ‘metamorphosis’, described in the opening
+                        paragraph. That in turn is a response to a comment made by Bull in his
+                        letter to Pennant, 8 March 1793 (<ref target="1164.xml">1164</ref>).</note> my best wishes attend
+                    you all!</p>
+                <closer>
+                    <salute>I am Dear Sir <lb/>most sincerely y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>By all means buy <bibl type="authorial"><title ref="bi0654">Barres</title></bibl> or <bibl type="authorial"><title ref="bi0201">Buffon</title></bibl> for the pretty plates to decorate y<hi rend="superscript">r</hi> arctic quadrupeds.</p>
+                </postscript>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">B MR 18 93</stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp>
+                </p>
+                <p><address>
+                        <addrLine><persName ref="pe0313">Richard Bull</persName> esq<hi rend="superscript">r</hi> | <placeName ref="pl0759">Stratton
+                                street</placeName> | <placeName ref="pl0699">London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

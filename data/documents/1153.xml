@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1153">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 106</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">On address side, in Richard Bull's hand</hi>:</p>
+                            <p><placeName ref="pl2501">Cliffords Tower</placeName>. <placeName ref="pl2502">Woolarton Hall</placeName>.</p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl1290">Beverey</placeName>
+                    <date when="1792-05-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I hope you will keep 2 of the indian portraits one of the heads of the [?<unclear>trapping</unclear>] Rub-rust. 
+                    I wish much for one with a sallow complexion &amp; white beard: &amp; another with a black skin. They will be of real use to me: 
+                    &amp; not to stare at.<note type="editorial">Pennant's interest in Indian heads presumably related to his work on 'Outlines of the Globe'.</note>
+                    Pray put them to acc<hi rend="superscript">t</hi>. I do not beg. all my communications to you are spontaneous &amp; en
+                    amitié.<note type="editorial">'in friendship'.</note> If I succeed in my request, Pray send them speedily to <persName ref="pe0015">Sir R. M.</persName>
+                </p>
+                <closer>
+                    <salute>Adieu
+                        <lb/>Yrs most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                    <dateline><placeName ref="pl1290">Beverey</placeName>
+                    <lb/>may 13<hi rend="superscript">th</hi><note type="editorial">in another hand:</note>-92</dateline>
+                </closer>
+            </div>
+            <div>
+                <p><stamp type="postmark">A MA 14 92</stamp>
+                    <stamp type="handstamp"><placeName ref="pl0806">WORCESTER</placeName></stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> esq<hi rend="superscript">r</hi>. | <placeName ref="pl0759">Stratton Street</placeName> | <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0408">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Donald MacQueen to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP297</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>2</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0069">Donald MacQueen</persName>
+                    <date when="1773-01-15"/>
+                    <placeName ref="pl0742">Kilmuir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0409"/>
+                    <ref type="prev" target="ct0407"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="gd">Gaelic</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="enclosed">
+                <fw>p. 1<hi rend="superscript">st</hi></fw>
+                <p>of Buildings.</p>
+                <p>I amused myself for a Peice of a day very Lately in opening up one or two of our
+                    Subterraneous houses Which are numerous <del rend="overstrike">on the Face</del>
+                    on the face of the Islands — the dreary unwholesome habitations of the first
+                    Adventurers into it. They are something about six and twenty feet Long, three
+                    feet wide And four feet deep. The Side are regularly faced with stone to keep
+                    the Earth from falling in And covered over with Flags which are overlaid with
+                    Turf so As to be Upon a Level with the Ground around it. There is a passage to
+                    it at one of the Ends two feet And one half Square, by two Steps of a
+                    Stone-stair, which if covered with Turf or bundle of heather woud bid defiance
+                    to the Narrowest Search for discovery. A rising ground And a dry Mould were
+                    chosen for these dismal Seats. I can Easyly see they never Made Use of Feuel
+                    within them, for a blast of Smoak woud Smother the Whole Miserable family within
+                    the narrow Vault; And it is Uncertain whether the Savage Inhabitant knew Any
+                    thing of the Use of fire for it is Certain the forced fire with which they
+                    burned their Sacrifices in a Later Period was raised Up by the Uninterrupted
+                    burning of a stake or wimble of hard wood into a peice of Oak; at which
+                    Operation Nine Men Assisted. Be that how it will, this retreat of Security from
+                    the Inclemency of Winter, which must have been very Severe in a Northern
+                    Uncultivated Countrey, And from the bloody violence of a starving undisciplined
+                    Neighbourhood, was, when Society was a Litle more Regularly formed and some
+                    faint rude Attempts made in the Art of Husbandry, converted into a Granary for
+                    keeping Up their Corn. To Secure it from the Ravenous Claws of their Neighbours
+                    And to keep <add place="above">it</add> for Long preservation, at a distance
+                    from the heat of the Sun, Untill they returned from any of their foreign
+                    Expeditions it was properly Judged to Lay it Up in these dark Recesses. In the
+                    Gaulic Language <del rend="overstrike">Gradan</del> the burnt corn is called <hi rend="underline">Gradan</hi>, the Kiln-dryed Tirigh. You will find by <bibl type="authorial"><title ref="bi0079">Q. Curtius</title></bibl>
+                    <bibl type="authorial"><title ref="bi0635">Pliny</title></bibl> And others that
+                    the Artificial Caves of which I speak were by the Antient Inhabitants of
+                        <placeName ref="pl1176">Europe</placeName> called Siros or Siris; it is then
+                    Natural to Suppose that the Kiln-dryed which is latest for keeping derived it's
+                    name from the common name of the Granary And that <hi rend="underline">Aran</hi>-(bread)-Tirigh is the bread of Siros or Siris. for Immediate Use they
+                    burned the Corn, As we do to this day, tho indeed in face of the Proprietors
+                    Commands. <del rend="overstrike">But I return from this digression to consider
+                        the Habitations of our Ancestors</del>. Nature indeed offered them caves for
+                    their Lurking places but As commodious ones of that Sort are not Numerous And
+                    Might be Easyly found out, Necessity taught them to Make Use of their hands on
+                    dry Ground As Above or to fortify the Cave with a Stone wall where that coud be
+                    conveniently done. There is a remarkable <pb/><fw>p.2<hi rend="superscript">d.</hi></fw> One of this kind on the East Side of <placeName ref="pl0950">Troternish</placeName>. It is a Cave in the face of a Rock
+                    towards <add place="above">the</add> Sea, to which they might Scramble up by
+                    climbing but As the mouth of it was wide they raised a Strong wall Upon the
+                    Precipice which brought it to a narrow compass And by a few steps of stone stair
+                    on the Inside they got into a Warm Spacious Hall. They must have made Use of
+                    Ladders to get Up to the top of the Wall or have Learned the Art of Climbing
+                    better <add place="above">than</add> We of this Generation. One man with a
+                    Lap-ful of Small Stones coud keep off a <del rend="overstrike"><gap reason="illegible" unit="letters" atLeast="4" atMost="6"/></del> Army
+                    furnished with all the Artillery of that day.</p>
+                <p><del rend="overstrike">The next Improvement in building of which there <unclear reason="illegible">are</unclear></del> I must Observe here that the
+                    Gaulic vocable for a Cave is <hi rend="underline">Ŭagh</hi> And that the Only
+                    word which our Copious Language affords for Giant is <hi rend="underline">Uagher</hi>, that is, the Inhabitant of a Cave. In the old tales &amp;
+                    poems in which these savages Are Mentioned, they Are represented As Cannibals
+                    who Eat all sort of Fleshes raw in No degree better Civilized than <persName ref="pe0673">Polypheme</persName> in <bibl type="authorial"><title ref="bi0224">the Odessey</title></bibl> And if they knew Any thing about
+                    fire they were quite Ignorant of the Principal use of it. Men unfurnished with
+                    suiteable Arms for hunting or with tacle for fishing sticks And Stones being the
+                    Only Weapons of that Time And when afterwards they Invented Arrows they were
+                    only pointed with flints I say, with these clumsy weapons they must often have
+                    been Exposed to the horrors of Famine the more so, that they did not know the
+                    Way of Laying up provisions Against a time of Scarcity. In a terrible Extremity
+                    when Every Source of Relief was shut up we cannot wonder that they <unclear reason="illegible">devoured</unclear> their visitors; what Unnatural Motions
+                    hath Famine in time of a Siege raised in the Human heart And in the heart of
+                    that Mother in <bibl type="authorial"><title ref="bi0067">2<hi rend="superscript">d</hi> Kings Chap. 6. v29.</title></bibl> These
+                    Savages are represented in Fable as Men of Mighty Stature — Fear hath Also
+                    taught the Grecians &amp; Romans to point out the Scythians And Gauls After the
+                    Same Manner.</p>
+                <p>The next improvement in building of which there are Any traces remaining, is that
+                    of the Danish Dūns. History (<bibl type="authorial"><title ref="bi0087">Torfæūs</title></bibl>) bears testimony to the Arrivals of the Danes or
+                    rather Norwegians, in <placeName ref="pl0708">the Western Isles</placeName> in
+                    the beginning of the Ninth Century. If <persName ref="pe0557">Ossian's</persName> Authority can be depended on they made Several Descents
+                    on them And on <placeName ref="pl0889">Irland</placeName> in a much Earlyer
+                    Period for the Sake of Plunder or of shewing their Heroism in these Military
+                    days; but in the Ninth Century After conquering the Islands they setled in the
+                        <del rend="overstrike"><gap reason="illegible" unit="letters" quantity="3"/></del>
+                    <add place="above">where they were</add>
+                    <del rend="overstrike">and</del> governed <del rend="overstrike">them</del> by a
+                    Viceroy from the Mother-countrey. A litle Experience woud have Instructed them
+                    in the propriety of Living within Strong holds among their Enemies who 'tho they
+                    were Obliged <pb/><fw>p.3<hi rend="superscript">d</hi></fw> To yield to a
+                    Superior force preserved that Spirit of Liberty and Independancy which was
+                    Natural to all Celtic Tribes. A rising ground faced on all sides with A Rock was
+                    generally chosen for the seat of the Burgh for so our Duns were called in the
+                    Language of the Builders And the word is preserved and frequent in the compound
+                    Names of these places Where Such buildings have been Erected. on the brink of
+                    this Rock they put up a thick Strong Wall of Uncommon height And thickness, in
+                    which they Employed <add place="above">stones</add> of a prodigious Size by mere
+                    Strength of Arm for they knew of no Machine proper for raising And transporting
+                    Weighty bodies. The Inclosure is perfectly Circular and the Stones Laid on the
+                    out and Inside with great Art And Skill for tho they were Ignorant of the Use of
+                    Cement it stands firm And Unmoved to this day Except where <add place="above">it</add> is pulled down for modern work. There is an opening in the heart
+                    of the wall all round, thro which they coud get Up to the Top by an Easy Ascent
+                    from a passage <del rend="overstrike">near</del>
+                    <add place="inline">or</add> Entry near the foundation. This vacancy served to
+                    keep their Arms and Utensils safe from the Injuries of the Weather As well as to
+                    give them access to the Summit of the wall to Observe the Motions of their
+                    Enemies or drive them off in case of a near approach. In the wide Space which is
+                    surrounded by this fortification they built their huts or Cabins where the men
+                    with their wives And Children Lodged together And this is what they called a
+                    Burgh or Town in the same Manner as the Antient Brittans cut a Large Circle
+                    within a wood where after they had fortifyed it with a ditch And heaped Up trees
+                    all round they built huts And Stables for themselves And their Catle And this
+                    they Called a Town (<bibl type="authorial"><title ref="bi0248">Cæsar 5.2<unclear reason="illegible">1</unclear>.</title></bibl> and <bibl type="authorial"><title ref="bi0252">strabo 4.200</title></bibl>).These Duns
+                    are very numerous in this Island And Each within sight of Another that in case
+                    of Any Sudden Assault they might convey a general Alarm to their friends by the
+                    signal of a Torch. They had besides much more Spacious Duns for their Cows,
+                    called Boaghun Answering in point to the Cuballum of <bibl type="authorial"><title ref="bi0261">Livy</title></bibl> among the Gallogræcians, for
+                    the Use names mean an Inclosure for Cows and I reckon they were as well
+                    contrived for the Security of the Catle among these ferocious, Lawless
+                    Itinerants into <placeName ref="pl1622">Asia</placeName>, As here, tho they
+                    might happen to need cow's dung for feuels in the Absolute want of better.</p>
+                <p><placeName ref="pl1621">The Monastery on Columbas Lake</placeName> in My
+                    Neighbourhood, mentioned in the <bibl type="authorial"><title ref="bi0339">Chronicle of Man</title></bibl> under the year 1223 If I remember, did
+                    not trust <add place="above">so far</add> to the Sanctity of the Inhabitants or
+                    the place, tho Surrounded with water, As to neglect the Precaution
+                            <pb/><fw>p.4<hi rend="superscript">th</hi></fw> of being fortifyed in
+                    the same manner With the Danes within a Strong wall without Cement Where the
+                    Several Cells And appartments Are still very apparent. From Which Circumstance I
+                    conclude that at the time of founding it Druidism prevailed in the Islands, for
+                    the Superstition of the People, the common attendant of Barbarity and Ignorance,
+                    woud have Otherwise been fence Enough without the trouble of Lending an Immense
+                    heap of Large Stones for their further protection from the bands of Ruffians.
+                    The <placeName ref="pl1621">Chapel Upon the Island</placeName> adjacent to this
+                    Monastery is made Up with Lime which is Argument Enough for its being a much
+                    Later Work for the Chapels round the Countrey Which <add place="above">are</add>
+                    Many in Number, one in Every district And in Every Island Upon the Coast Are for
+                    the most part built without Cement. to these Chapels a monk from the Monastry
+                    repaired, Each in his turn, for the Performance of Religious Services to the
+                    Inhabitants in the Neighbourhood. The place Where the Monks Landed when Entering
+                    Upon their Mission is called <placeName ref="pl2655">Pein-oran</placeName>, that
+                    is, the Land of Prayer, Whence they Set out Every one to his Appointment, After
+                    Solemnly committing themselves And their Work to the Blessing And Protection of
+                    the Most High. This Monastery As well As all the Monasteries And Bishops too in
+                    the Kingdom And North of <placeName ref="pl0775">England</placeName> was Under
+                    the Jurisdiction of that of <placeName ref="pl0651"/> Whence Christianity was
+                    first propagated Amongst Us. From the Monasteries, Abbacies And Priories
+                    Established by that Antient And Religious Community Missionaries were Ordered
+                    out to the different districts where they were thought Most Necessary for the
+                    Division of Parishes is a Late Work And did not take place in this Island Untill
+                    the End of the Reign of <persName ref="pe0533">King James the 6<hi rend="superscript">th</hi></persName> or the beginning of <persName ref="pe0600">K. Charles</persName> his Reign. It is Certain the Priests,
+                    preceeding that Period, did not take the vow of Celibacy for Many of them were
+                    Marryed. Besides the Tradition which Assures Us of this fact the names of
+                    Several Clans bear testimony to it — MacNab (the Abbot's son) Macphrier (the
+                    prior son) MacPherson (the Parsons son) Macvean, the Vicars son. <add place="above">mac</add>Haggart the Priests Son. I am Much of Opinion that
+                    the distinguishing Tenets of the Popish Superstition were never deeply <unclear reason="illegible">rivetted</unclear> in this Part of <placeName ref="pl0711">the Highlands</placeName> for <placeName ref="pl0651">Icolumbkill</placeName> conformed to them very Late And that faintly. And
+                    when our Kings and some of our Nobles began to travell Abroad &amp; imported
+                    that Expensive ruinous Superstition, <placeName ref="pl0708">the Western
+                        Isles</placeName> were As independant of the Public Seat of Administration
+                    As of the See of <placeName ref="pl1623">Rome</placeName> itself, And may Justly
+                    be supposed to have kept by the Instructions they received at first, which were
+                    founded on the writings of the prophets Evangelists And Apostles As were those
+                    of all the Culdees in the Kingdom (in the Charters called Killedei that is,
+                    Gille-dhe, the Servants of God) who wore out in the fourteenth Century As did
+                    the Monastery of <placeName ref="pl0651">Icolumbkill</placeName> being gradually
+                    striped of all its Extensive Possessions, for the <placeName ref="pl1026">Monastery of Holy-rude house</placeName> As appears by the <pb/><fw>p.5<hi rend="superscript">th</hi></fw> Foundation Charter was Endued with the
+                    Lands belonging to it in <placeName ref="pl1624">Galloway.</placeName> The
+                        <placeName ref="pl1625">Church of Snizort</placeName> which stands on an
+                    Island in the River which divides the Estate of Macdonald from that of MacLeod
+                    is a Large Fabric made Up of Stone &amp; Lime and was dedicated to <persName ref="pe0066">Columba</persName> And Possessed by a Parcel of his Monks but
+                    at Length fell into the hands of the Templars who, it is said, were burned
+                    together with it for Stealing the Cows in the Neighbourhood, much about the
+                    time, I suppose when <persName ref="pe0117">Pope Clement the 5<hi rend="superscript">th</hi></persName> suppressed that Order at the
+                    desire &amp; by the Contrivance of <persName ref="pe0152">Philip the fair of
+                        France.</persName></p>
+                <p>Here I will remark that the <add place="above">oldest</add> Churches have been
+                    dedicated to the Family of <persName ref="pe0236">Christ</persName> or to
+                        <persName ref="pe0066">Columba</persName>, Such As the <placeName ref="pl1631">Church of the Family</placeName> in <placeName ref="pl1632">Carenish</placeName> of <placeName ref="pl0853">Uist</placeName>,
+                        <placeName ref="pl0843">Kil-Christ</placeName> of <placeName ref="pl0839">Strath</placeName> And to <persName ref="pe0066">Columba</persName>, Many.
+                    In the Later times when Saintship peeped in to our Corner. <persName ref="pe0334">St Mary</persName> St Clement<note type="editorial">Possibly a
+                        reference to <placeName ref="pl1633">St Clement's Church</placeName>,
+                            <placeName ref="pl1634">Rodel</placeName>, <placeName ref="pl0954">Harris</placeName>. The exact identity of the dedicatee is
+                        uncertain.</note>
+                    <persName ref="pe0394">St Asaph</persName> and more of them were honoured with
+                    Religious Edifices. The Gaulic name of a Church is Clachan, from a Stone which
+                    was originaly put up in the place and consecrated, next, Kile from Cella where a
+                        <add place="above">hut</add> was put up for some Culdee but now it is
+                    Generally called Eglish which is Surely derived from the Greek.</p>
+                <p>Some of our Lakes have been Also consecrated — there is a remarkable one of them
+                    in this Parish, <placeName ref="pl1635">Loch Shiant</placeName>, which is
+                    distilled from Other two Lakes from which there is no Visible Run, thro a hill,
+                    by four And twenty Springs Which fall into a pretty bason And so the Lightest
+                    And most transparent Water I Ever saw. Sick people have often come to bath in it
+                    And by the power of Imagination As much As by the virtue of the Water have
+                    returned home in much better health than before.</p>
+                <p>Of Incantations</p>
+                <p>There is none of the common Maladies or distressful Accidents incident to Man or
+                    Beast but they had a particular Charm cut out for Each of them. And tho they Are
+                    Mostly made Up of Unmeaning Jargon And a Religious Address to the Deity or to
+                    Some of the Saints, the Love of Health and the power of Superstition have
+                    reconciled many to the Use of them but they are now thorowly cured of that
+                    folly. I have picked up Several of these Charms When I was a boy And will here
+                    Subjoin the translation of that for the Toothach: "<persName ref="pe0674">Abraham</persName> Stood on the Summit of <placeName ref="pl1636">Mount
+                        Pesselane (Montpelier)</placeName> grievously tormented with the Toothach
+                    And complained. <persName ref="pe0236">Jesus Christ</persName> answered And
+                    said, Let Neither Worm, nor Cold Rheum, nor pain Lodge in you Gums Any Longer —
+                    All Countries, the most Civilized have had their Vulgar Errors And Incantations
+                    were Every Where Much practised. Those amongst Us Seem to have been fitted by
+                    designing priests to the Religious System they taught.</p>
+                <pb/>
+                <fw>p.6<hi rend="superscript">th</hi></fw>
+                <p>The Extreme Ignorance of the people made way for the most Extravagant
+                    Superstition without fearing Any contradiction on the part of Phylosophy, to
+                    which Palmistry, presages by the flying of Birds, the prophecy of Dumb persons,
+                    the Second Sight, the taking away the Substance of a Neighbour's Milk &amp;c
+                    owed <add place="above">also</add> their Existence and a Long-lived Custom
+                    prolonged their <unclear reason="illegible">date</unclear> When we were a Little
+                    more Enlightened, but of all this Trumpery their are no traces now remaining,
+                    tho in my Memory the Belief of some Silly persons was Strongly Tinctured with
+                    it.</p>
+                <p>Of Salt</p>
+                <p>In all the Islands their Salt was Originally made of burnt Sea ware. I have Often
+                    Eaten Cheese cured with it. They Seldom Use it now Except in <placeName ref="pl0737">St Kilda</placeName> And Among poor people in the Smaller
+                    Isles. I remember <persName ref="pe1913">Old Kingsburgh</persName> told me that
+                    he Saw flesh Cured after this Manner in his Stepfather's House in <placeName ref="pl2473">the Long Island</placeName>. We call it in our Language
+                    Mur-Luah that is the Ashes of Mur. Any Solid body fallen into Ashes or Small
+                    particles is Mur. Thus we Learn from <bibl type="authorial"><title ref="bi0635">Pliny</title></bibl> that the Germans burned Oaks And Other woods And
+                    Extinguished the Coals with Salt water or When at a distance from the Sea with
+                    Mineral Water And Used the Ashes for Such under the Name of Muria. They thought
+                    a Well impregnated with Nitre so very Necessary in An Operation of this sort
+                    that <bibl type="authorial"><title ref="bi0342">Tacitus</title></bibl> informs
+                    Us that the Hermondurians &amp; Catti fought a horrid rather than a bloody batle
+                    for the property of One of them. From this it appears that this kind of Salt was
+                    once in general Use.</p>
+                <p>Of Husbandry</p>
+                <p>When a Stranger comes in to the Isles in the summer season and sees our fine
+                    Expansive fields, Such as we have in this Parish where I now reside, he will be
+                    Apt to imagine that it is owing to the Ignorance or Indolence of the People or
+                    to both together that they can want bread from themselves or provender for their
+                    Catle: but no Conclusion can be more Unjust than this, for they have As much
+                    Sense And Sagacity As Any common people can pretend to And it is owing to their
+                    health And Strength that they Are Able to beat the toil they Undergo. The soil
+                    they strugle with in my Neighbourhood is not of the Light Loose kind which they
+                    coud Easyly turn With the Plough, it is for the Most Part, of a deep Clay of a
+                    Strong texture which they must till with crooked Spades that it might be fairly
+                    Laid out before the Sun And Air, Which by this Management yields a plentiful
+                    Crop without Any Manure. The Second And third Crop they raise by Means of the
+                    Plough And Where they think its Necessary help the Growth <pb/><fw>p.7<hi rend="superscript">th</hi></fw> By laying on Dung from their Bires or
+                    Middens or if they Are near the Shores &amp; mean to raise Barley by plenty of
+                    Seaware. This Expence of Labour on a rich Soil woud seem to promise a Plentiful
+                    harvest but nothing can be more uncertain than that. Indeed When the spring is
+                    dry, the Summer warm And <del rend="overstrike"><unclear reason="illegible">fine</unclear></del> harvest free of continual rains &amp; storms we
+                    have not only plenty for ourselves but Are Able to Supply our Neighbours but
+                    this Seldom <add place="above">is</add> the Case. In this very <placeName ref="pl0715">Island of Sky</placeName>, we rarely have one Week of fair
+                    Weather If I Except the Summer Season. We Seldom Sow our Seeds Untill our fields
+                    begin to dry Up in the month of April And As Seldom have a hot Summer Which must
+                    needs retard our Harvest. Our Hay, which is for the most part the Natural Growth
+                    is Generally gathered <add place="above">in</add> About the End of August And
+                    then Rains <sic>beginn</sic> attended with Moderate Winds which blow stronger as
+                    the Season proceeds Untill the Equinoxial Storms, who seldom fail to visit Us,
+                    come on And Shake all our Standing Corn And damage Such As Are cut down. When
+                    the Weather casts up in this stile As it often doth, there remains great
+                    Scarcity for Man And Beast. It may be Said that the Injuries of the Climate
+                    might be in a great Measure <add place="above"><del rend="overstrike">be</del></add> prevented by skillful Management; And that the Fields shoud
+                    be twice tilled over, — that great Quantities of Manure shoud be Laid on them
+                    And that they shoud be plated with the Earliest Corn. Experience is the best
+                    Guide in Every Countrey — our Landlords And others have sometimes been very
+                    Unsuccessful in Attempts of that kind And indeed the Generality of the People
+                    are by this time too poor to quit the beaten Track And must decline to run into
+                    Uncertainties. That Maxim of old <persName ref="bi0663">Cato's</persName> holds
+                    good here in a Particular Manner Nihil Minus Expedire, quam Agrūm Optime colere.
+                    The Small oats hath, by the Experience of Ages, been found the fitest for our
+                    Climate, as being less lyable to Shakeing; the Barley indeed woud prevent the
+                    storms but they are deficient the Article of Manure to raise Any considerable
+                    Stock of it. In short the people drudge<unclear reason="illegible">'s</unclear>
+                    on in mending their Inclosures which are made of Turf, in makeing folds for
+                    their Catle, in Cutting And drying their Peats, in weeding their Corns, in
+                    Mowing their hay, in Shearing in thatching their houses And tillage And if
+                    thorow bad weather or Any other Accident they Are Late in Any of these Articles
+                    that Inconvenience rūns tho' the whole work of the year. I must not forget that
+                    potatoes, the best present we Ever had from <placeName ref="pl0697">America</placeName>, is Lately become a great source of Relief — that And
+                    the Herring-fishing when it casts Up in a Neighbourhood is now a Mighty
+                    preservative from Want.</p>
+                <p>The Foggy Uncertain Climate hath Certainly contrived this Country for Pasturage —
+                    that high Cluster of hills in the heart of the Island <add place="above">(<placeName ref="pl0841">Kullen</placeName>)</add> us So very prolific
+                    of Rain And Storms that we can depend Upon Nothing but our Catle And that Only
+                    in a <pb/><fw>p.8<hi rend="superscript">th</hi></fw> Good or Middling year for
+                    if the Crops set upon the Ground or the hay — harvest is too Late, they will
+                    certainly yield to the Severity of a bad Spring. Yet our Rents, our implements
+                    for tillage, our drink, our Everything must be derived from the Sale of black
+                    Catle. The General Marrain which prevailed Among the in Spring Last, the great
+                    fall in the price of those that remained the purchasing of meal from distant
+                    Countries And the Absolute want of Specie' which hath all gone to <placeName ref="pl0697">America</placeName> hath reduced the people to a Most dismal
+                    Situation.</p>
+                <p>You are So good As to Mention the Hospitality you met with; had You come ten
+                    years Ago you had Seen Every thing wear a different face — You had been conveyed
+                    from district to district by a <hi rend="underline">Cavalcade</hi> of the better
+                    sort of Men And their Sincere attempts to make you happy woud make you really
+                    So. The people seem apprehensive that these days will not soon return — they are
+                    much fallen from their Usual Chearfulness and Industry, being Uncertain whether
+                    it is their fate to Pass <placeName ref="pl1084">the Atlantic</placeName> after
+                    their Friends or Stay at home Strugling with difficulties Among the Beggars
+                    &amp; Bastards And Other Silly Connections of those who went Abroad As well As
+                    Among the poor which naturally cast up And must Multiply pretty fast in Such a
+                    Land As ours.</p>
+                <p>There is an Emigration to <placeName ref="pl0697">America</placeName> Sett on
+                    foot on the 30<hi rend="superscript">th</hi> past in this Countrey to Which Some
+                    from <placeName ref="pl2656">Kintail</placeName> on the Continent have acceded
+                    tho there is no Return from the Ship which Sett out in September Last for
+                        <placeName ref="pl2657">N. Carolina.</placeName> The spirit of Emigration is
+                    now become a distemper of a Most <add place="above">contagious</add> Kind — the
+                        <hi rend="underline">Enthusiasm</hi> flies from face to face, Which took
+                    it's rise from an Injudicious Augmentation of Rents. Add to this that the
+                    Leading Clan or in other words the Cadets of the Proprietor's family had more
+                    Respect And favour Shewed them than the Inferior Tribes And in particular Made
+                    up their Chief's Privy Council And were Generally Employed As his Factors and
+                    Drovers, the Only Offices of profit &amp; Respect in his Gift. If one were all
+                    at once to break with his <sic>olds</sic> friends &amp; put himself into the
+                    hands of a few of the Smaller Tribes the Former had no Cause to Look for Mercy
+                    or favour And woud probably put themselves at the head of the discontented and
+                    Lead them Away While Any One of them Remained. <unclear reason="Illegible">Amicitiæ Magis Sunt descendæ quam descindendæ</unclear> is a good General
+                    Rule. How these Evils can be remedyed is to the wrong side of My comprehension —
+                    I was one of the very few who declined to declined to buy Repentance at the rate
+                    at which it Sold at our Sell.</p>
+            </div>
+            <div type="letter">
+                <opener>Sir</opener>
+                <p>I received your polite Letter by Last Post and sat down to write the Enclosed
+                    Papper, Which only contains what Offered itself at the time without that
+                    Regularity and Order which the Honour and Respect I bear You woud require at My
+                    hands. I had no Amanuensis near me and the Emigration now on foot to <placeName ref="pl0697">America</placeName> And the Relaxation in Public Discipline
+                    Employs Many of Us not Much to our Taste. I am Upon the whole Obliged to send
+                    You the Papper As it came warm from my head — You can however Make Something of
+                    it And fil a Paragraph here And there from it, to Your Design. I will next send
+                    you some Account of the Monuments of Druidism which lie thick Scattered over the
+                    face of the Countrey And from their Numbers declare that the Antient Inhabitants
+                    were Religious over Much; yet before I give you further trouble I woud Incline
+                    to know Whether you Immagine that in My way of Writing, it may be worth your
+                    reading.</p>
+                <p>Your <sic>Humany</sic> and public Spirit determined you to take some Concern in
+                    the Misery of this Countrey — May Every Attempt for relieving it Prosper.
+                    Whatever Information My Prudence and Abilities will permitt me to good will not
+                    be wanting</p>
+                <closer><salute>As I am with <lb/>Sincere Esteem Dr Sir <lb/>Your most Obedient
+                        humble Servant</salute>
+                    <signed><persName ref="pe0069">Don: Macqueen</persName></signed>
+                    <dateline><placeName ref="pl0742">Kilmuir</placeName> January 15<hi rend="superscript">th</hi>
+                        <lb/>1773.</dateline></closer>
+                <postscript>
+                    <p>Near the Seat of Every great Man, there stands a hill called Cnock an Eirich
+                        that is the hill of pleas, where they held their General Council and the
+                        Chieftain with the Assistance of his best friends, his Assessors determined
+                        all the differences that subsisted within his Tribe.<note type="editorial">MacQueen's account of the 'hill of pleas' is integrated into Pennant's
+                            description of Duntulm in <bibl type="editorial"><title ref="bi0008">A
+                                    tour in Scotland and Voyage to the Hebrides 1772</title></bibl>
+                            (1774), p.350.</note> There is one of these hills at <placeName ref="pl0666">Kingsburgh</placeName>, at <placeName ref="pl0667">Duntulm</placeName>, at <placeName ref="pl2658">Ulimsk</placeName>.
+                        When our <persName ref="pe1914">King Malcom</persName> feūed out his Lands
+                        to his Barons, he Only reserved for himself <placeName ref="pl2659">Mote-hill</placeName>, now called <placeName ref="pl2659">Muthill, of
+                            Scoon</placeName>
+                        <add place="above"><placeName ref="pl2659">mons placiti de
+                            Sconâ</placeName></add> where he determined the Pleas betwixt his
+                        Barons, for Mote is the Gaulic word for a Court.<note type="editorial">The
+                            legend of an ancient constitution Scottish constitution founded on a
+                            feudal community of the realm as an important article of Boece's <bibl type="editorial"><title ref="bi0134">Scotorum
+                                historiae</title></bibl> and the fourteenth-century legal digest
+                                <bibl type="editorial"><title ref="bi0739">Regiam
+                                Majestatem</title></bibl>. These documents form the basis of
+                            Pennant's account of the Moot Hill of Scone in <bibl type="editorial"><title ref="bi0010">A tour in Scotland 1772, part
+                                II</title></bibl> (1776), p.115. See also Colin Kidd, <hi rend="italic">Subverting Scotland's Past</hi> (Cambridge: Cambridge
+                            University Press, 1993). </note> Of Old they held their Civil And
+                        Religious Assemblies in a grove or in the Top of a Mountain consecrated to
+                        the Supreme or to Some of the Subaltern Divinities, Which was a Sanctuary
+                        Where Peace And Civility Must be Observed Under the Eye And Protection of
+                        the Guardian of the State. A precaution the Absolutely Necessary Among these
+                        ferocious Military Mortals And from this practice surely our <hi rend="underline">Cnock an Eirich</hi> derived all its Importance.</p>
+                    <p>There is near <placeName ref="pl2660">the house of Aird</placeName> in My
+                        Neighbourhood, a vein of Limestone of Considerable Extent Which is no Other
+                        than An Aggregate of Various Shells — Some of them we know And Others Are
+                        not to be met with on our Coasts.</p>
+                    <p>Burning the Bodies of the dead was a practice in this Island in a very
+                        distant Period — It was done <add place="above">in</add> honour of the great
+                        men among them Who had Signalised themselves in Military Prowess. Their
+                        Ashes were Laid up in Urns made of Clay which covered with a thin stone were
+                        put into a Stone-coffin covered over with a prodigious heap of stones. Many
+                        Urns have been found within One of these heaps. They Are very Numerous in
+                        this Island. called in our Language Barp, <add place="above"> or Cairn</add>
+                        whence perhaps the English word Barrow.</p>
+                    <p>I have been often Surprized to hear the Old men in the Isles Speak As if
+                        their Ancestors had Some faint Knowledge in Astronomy. They Are Still
+                        Acquainted with the Pole, Charles-wain Which they call Seackeran, ie the
+                        Seven Stars, the Pleiades And a few more. In the Heroic times when Robbery
+                        was attended with not Infamy but reckoned honourable if committed with out
+                        their own Tribe Men for the Sake of Secrecy were Obliged to keep the Sea All
+                        Night in their Long Boats Whither they carryed their Plunder from one Island
+                        to Another Or from the Continent. Necessity, the Mother of Invention Put
+                        them on takeing Up Some of the Stars for their Guides And for knowing the
+                        Progress of the Night. I woud indeed rather attribute their Knowledge in
+                        this Respect to Tradition but that I find no traces of it Upon the Main Land
+                        Where they had Litle or no Occasion for it, And Indeed that want of Occasion
+                        to Use it might be The Cause of the Tradition's dying away among them. Be
+                        that how it will, our People Regulate many of their Operations by the Course
+                        of the Moon. one thing Succeeds better in the Increase and another in the
+                        Decrease and of this Error, if it be an Error, the common Tennants cannot be
+                        cured, nor woud I presume to Extirpate it Altogether for if <bibl type="authorial"><title ref="bi0351">Dr mead's Theory of the flux and
+                                Reflux of the Atmosphere analogous to that of the Sea</title></bibl>
+                        be true, as I believe it is, it must be a Matter of Certainty that the
+                        Increase and Decrease have a considerable Influence Upon Many things here
+                        below but As that Influence May be counteracted by several other Causes I am
+                        sure our people keep too close to their Rule.</p>
+                    <p>I trouble you with too much of this Trash. Adieu.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><handShift/>M<hi rend="superscript">r</hi> Macqueen <lb/><placeName ref="pl0715">skye.</placeName></p>
+                <p><handShift/><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>Thomas Pennant Esqr.</addrLine>
+                        <addrLine>of Downing.</addrLine>
+                    <addrLine>To the care of <persName ref="pe0018">Mr Jackson</persName> Secretary to
+                            the Post Office</addrLine>
+                    <addrLine><placeName ref="pl0076">Edin<hi rend="superscript">r.</hi>
+                            —</placeName></addrLine>
+                    </address></p>
+                <p><stamp type="handstamp"><placeName ref="pl0660">SCONSER</placeName></stamp></p>
+            </div>
+        </body>
+    </text>
+</TEI>

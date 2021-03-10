@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1189">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>56</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1795-12-21"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName>. December 21. 1795</dateline></opener>
+                <p>I did not write any letters, except upon business, when our late most heavy misfortune fell upon us,<note type="editorial">Bull refers to the death of his younger daughter, <persName ref="pe0336">Catherine</persName>. She died at Northcourt on 13 October 1795. Courtney, 'Richard Bull'.</note>
+                    and less likely was I to write to you, who wanted the friendly balm of comfort yourself, as much as I do, and God knows at this moment, I am very unable 
+                    to administer it. time and Resignation are the best Doctors, and I hope we shall both be the better for them, tho’ as yet I hardly know where to look for comfort. 
+                    it has been a very heavy stroke upon a deaf and infirm old Parent like myself, who stood in need of all those little attentive duties, which She exercised with so much ease to herself, and so much benefit to me. 
+                    To her wretched <persName ref="pe0331">sister</persName>, the loss is irreparable, no two Beings were ever so attach’d to each other; 
+                    <lb/>“Their double Bosoms seem’d to wear one heart, 
+                    <lb/>“whose <sic>hours,</sic> whose Beds, whose meals, and exercise,
+                    <lb/>“were still together, who twinn’d as t’were – in love 
+                    <lb/>“inseparable.<note type="editorial">Bull quotes from Shakespeare, <hi rend="italic">Coriolanus</hi>, IV, iv ('Friends now fast sworn, / Whose house, whose bed, whose meal, and exercise, / Are still together, who twin, as 'twere, in love / Unseparable ...').</note>
+                    – – – She never show’d the least fear of death, nor could any pains sour that sweet disposition, which no blessings could spoil, and not one vice could ever taint. But enough upon a Subject, which I love to think upon, tho’ it kills me to give my thoughts utterance.</p>
+                <p>
+                    I am preparing to follow your wholesome advice, by pursuing my former amusements, and running my head into every cheating-print shop, whose owners are all rogues alike, and most so to those who have been their best benefactors. 
+                    <bibl type="authorial"><title ref="bi0039">your London</title></bibl>, and your other publications replete with anecdote, selling so well, have brought forward a hundred treatises of the same kind, tho’  not of the same merit, but they are rapidly purchased notwithstanding. 
+                    I for one, have discriminated, and bought very few books of this sort, except what relate to the <placeName ref="pl1020">Isle of Wight</placeName>, of which there are many, but so wretchedly executed both with regard to history, and ornament, that I am quite asham’d of them. I think, and I dare believe you think yourself in good luck, 
+                    to have escaped so well from your accident, which seem’d to threaten at least your walking satisfactions for the remainder of your life. I wish very much to bind up your 
+                    <bibl type="authorial"><title ref="bi0023">Arctic Zoology</title></bibl>, before I go hence to my long home, but I am sadly at a loss for materials, and drawings of animals. The world is just now 
+                    <persName ref="pe0494">Shakespear</persName> mad, as it was a little while since, with Johnsoniana's.<note type="editorial">'Sayings, etc., of or about <persName ref="pe0073">Dr. Samuel Johnson</persName>; matters connected with Dr. Johnson'. The earliest example is dated 1776. <hi rend="italic">OED</hi>.</note>
+                    <bibl type="authorial"><title ref="bi0658">Malone’s Edition</title></bibl> sleeps in peace, but a another <bibl type="authorial"><title ref="bi0688">Q<hi rend="superscript">o</hi>.
+                        Edition with beautiful prints</title></bibl>, is soon coming out, and to be publish’d, I believe, by <persName ref="pe0387">Edwards</persName>.<note type="editorial">This reference to the bookseller James Edwards appears to be based on misinformation. Edwards's involvement with the 1790 Malone edition of Shakespeare is signalled in the list of publishers by the name 'J. Edwards', but no record of a further Shakespeare edition published by him has been identified. </note> The field of Politic’s is too large for such a confused head as mine to enter upon, but I hope and trust that all will end in peace, and plenty, and that this little Kingdom, which I feel proud to be a native of, will have had the glory of confirming 
+                    the rights of all distinctions of people throughout the world, and if it can be done, I hope the Slave trade will e’re long be quite at an end.</p>
+                <closer>
+                    <salute>My unhappy solitary <persName ref="pe0331">daughter</persName>, joins me, in every good wish for the well fare of you and yours, and I am, believe me,
+                        <lb/>Sincerely yours</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">DE 21 95</stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant</persName> Esq<hi rend="superscript">re</hi>. | <placeName ref="pl0001">Downing</placeName> | <placeName ref="pl0702"><hi rend="underline">Flintshire</hi></placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

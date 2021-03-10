@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0165">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on plates of views, his trip to the Isle of
+                    Man and communication with George Low</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>92-93</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1774-08-16"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0166"/>
+                    <ref type="prev" target="ct0164"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>D<hi rend="superscript">r</hi> Sir</salute></opener>
+                <p>y<hi rend="superscript">r</hi> many favors I found yesterday on my return. I
+                    think I can scarce hit <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                        Low</persName> if I write: so if you try pray thank him for his very
+                    acceptable Letter &amp; let him know, I will certainly send one to meet him at
+                        <placeName ref="pl2732">Stromness</placeName>.</p>
+                <p>I mean no profits on the plates of the oct<hi rend="superscript">vo</hi> edition.
+                    I expect but my charges: &amp; publish them merely to prevent the purchasers of
+                    the third edition from being obliged to buy the <gap reason="illegible" unit="letters" quantity="3"/> on account of the plates.</p>
+                <p>I earnestly wish <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                        Low</persName> may get the sight of the coins, or perhaps obtain a few.</p>
+                <p>No silver coin ever in <placeName ref="pl0707">Man</placeName>.</p>
+                <p>The money was apparently taken out of my Letter by our P.master who has just been
+                    discharged for other knaveries. but there is no fixing this on him. you must be
+                    paid.</p>
+                <p>Many thanks for the seal.</p>
+                <p><persName ref="pe0293">Burrels</persName> M.S. will be acceptable. <persName ref="pe0105">M<hi rend="superscript">r</hi> Grose</persName> was with me in the
+                        <placeName ref="pl0707">isle of Man</placeName>. I think with what <add place="above">drawings</add> I have &amp; some more I could publish plates
+                    of views in <placeName ref="pl0705">Scotland</placeName> supplementary to <persName ref="pe0273">Slezer</persName>. I should rather say that I could get a Bookseller
+                    to do it, for I would not risque the expence.</p>
+                <p>Pray are those you sent of <persName ref="pe2013">M<hi rend="superscript">r</hi>
+                        Clarks</persName> published for sale. or only given away.</p>
+                <closer>I am Dear Sir y<hi rend="superscript">r</hi> obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Aug. 16<hi rend="superscript">th</hi> 1774.</dateline></closer>
+                <postscript>
+                    <p> on reading <persName ref="pe0156">M<hi rend="superscript">r</hi> Low’s</persName>
+                        Letter again I see he will be at home before a Letter can reach him, so I
+                        write.</p>
+                    <p>I take <persName ref="pe0065">my son</persName> to <placeName ref="pl0699">London</placeName> to school next week so
+                        it will be in vain to write to me till the last week in next month.
+                        dreadfull rainy weather here for a fortnight past, fine weather in
+                            <placeName ref="pl0707">Man</placeName>. </p>
+                    <p> Pray put the Letter to <persName ref="pe0168">M<hi rend="superscript">r</hi>
+                            Marshall</persName> into the post.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

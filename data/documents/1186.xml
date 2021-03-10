@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1186">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 124</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1795-09-14"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> sept<hi rend="superscript">r</hi> 14<hi rend="superscript">th</hi> 1795</dateline></opener>
+                <p>I remained anxious for hearing from you. fearful that you was ill; &amp; odd to say fearful that you was well. I bear ill the neglect of friends: therefore 
+                    almost wished to find some excuse for you. Yet I must say that it gave me much concern that you had so substantial a one. I hope it is entirely removed, and that you
+                    gave so speedy a proof that I still have a place in your memory. When I wrote last I had just taken to my bed on account of my knee pan. I lay recumbent six weeks 
+                    &amp; five days in possession of patience, spirits &amp; my full faculties. I pursued my studies as usual &amp; part of the inclosed is a proof of my ease of mind. It is the last leaves of a 
+                    <bibl type="authorial"><title ref="bi0034">history of Whiteford</title></bibl> my native parish; that of the adjacent <placeName ref="pl1251">Holy well</placeName>
+                    goes to the press next week &amp; both form a largish book. I disposed of the copy to <persName ref="pe2024">White</persName> at (as usual a low price. 
+                    He has acted with much liberality about the plates &amp; spares no cost. I shall send you a print very soon as a proof. he is a very different man from 
+                    <persName ref="pe0026">his father</persName> &amp; reconciles me to the shop. He made me or rather my <bibl type="authorial"><title ref="bi0475">out lines of the Globe</title></bibl>
+                    a visit this summer. We made a verbal agreement for <del><gap unit="letters" quantity="1" reason="illegible"/></del> copies of them when better 
+                    times arrive.<note type="editorial">Only two volumes of Pennant's manuscript 'Outlines of the Globe' were published by Benjamin White &amp; Son. Both 
+                        <hi rend="italic">The View of India Extra Gangem, China, and Japan. Vol. III</hi> and <hi rend="italic">The View of the Malayan Isles, New Holland, and the Spicy Islands. Vol. IV</hi> 
+                        were edited by David Pennant and published posthumously by John White in 1800. It is not clear whether the arrangement with the White firm at this 
+                        stage stipulated that these were to be the published sections of the work; the reference in this letter to an arrangement which prevents Pennant 
+                        from allowing a copy of the section on the Isle of Wight to be made for Bull suggests that the Whites may have had plans to publish a substantial 
+                        part of the manuscript, if not the whole.</note> This agreement will I fear 
+                    make him think that no part sh<hi rend="superscript">d</hi> be parted with. This will prevent me from communicating the <bibl type="authorial"><title ref="bi0657">copy</title></bibl> You wish,
+                    as I otherwise w<hi rend="superscript">d</hi> chearfully have done.</p>
+                <p>
+                    To return to my knee pan. I am restored to the blessing of the use of my limbs, can walk two or three miles without fatigue &amp;
+                    ride tolerably. &amp; this in less than five months. How many have I heard limping for life: or confined for almost as many years! I am truely thankful for this favor of Providence, for enabling me to pass with comfort the remnant of my days</p>
+                <p>
+                    I have now about me my whole stock, <persName ref="pe0234">daughter</persName> two sons<note type="editorial">Pennant refers to <persName ref="pe0065">David</persName> 
+                        and <persName ref="pe0421">Thomas Pennant, junior</persName>.</note> &amp;
+                    a most amiable <persName ref="pe0814">daughter in law</persName> in a fair way to make me a grandfather. All unite in best Compliments 
+                    &amp; wishes to <persName ref="pe0313">m<hi rend="superscript">r</hi> Bull</persName> &amp; his two daughters.<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>
+                    my best wishes are closely united.</p>
+                <p>
+                    As to <persName ref="pe0014">moses</persName> he has for sometime past given himself to miniature painting. His portraits are exquisite but he loses so much time that I fear he never will get what he ought. He 
+                    sh<hi rend="superscript">d</hi> stick to his old branches &amp; then w<hi rend="superscript">d</hi> be able to lay up a little money. He promises to do all you wish when winter comes on. His 
+                    <persName ref="pe0345">son</persName> promises to be a genius in music as well as painting.</p>
+                <p>
+                    As to franks <persName ref="pe0015">Sir R. M.</persName> lives on one side of me &amp; the <persName ref="pe0365">Bishop</persName> the other. You may inclose to the former if you please at <placeName ref="pl0695">Mostyn</placeName> <placeName ref="pl0702">Flintshire</placeName>.</p>
+                <closer>
+                    <salute>Adieu, Dear Sir,
+                    <lb/>Y<hi rend="superscript">rs</hi> most affect<hi rend="superscript">ly</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName>.</signed>
+                </closer>
+                <postscript>
+                    <p>P.S. <persName ref="pe0379">M<hi rend="superscript">r</hi> Chiswell</persName> &amp;c were with me 3 or 4 days &amp; went away much content with the place.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

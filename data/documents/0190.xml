@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0190">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, thanking him for various services</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>127-128</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-06-22"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0191"/>
+                    <ref type="prev" target="ct0189"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> June 22<hi rend="superscript">d</hi> 1775.</dateline>
+
+                <salute>Dear Sir</salute></opener>
+                <p>Thanks for two kind Letters. the extract from <bibl type="authorial"><title ref="bi0160">Dalrymple</title></bibl> was most welcome. if you meet any
+                    more about <placeName ref="pl0651">Iona</placeName> or any other island I shall
+                    be happy to have it.</p>
+                <p>Thanks for the care of the box; whose contents will lay me under great
+                    obligations to <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                        Low</persName>. I shall write to him on receit. as to his drawings let him
+                    know he may command <persName ref="pe0014">my Servant</persName> to do them over
+                    again.</p>
+                <p>Thanks also to you on account of <persName ref="pe0165">M<hi rend="superscript">r</hi> Tunstall</persName>: Who I dare say will be grateful.</p>
+                <closer><salute>adieu very very busy with the press. <lb/>y<hi rend="superscript">rs</hi> sincerely</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed></closer>
+
+                <postscript>
+                    <p><persName ref="pe0062">M<hi rend="superscript">r</hi> Darell</persName> an
+                        old schoolfellow of mine &amp; very worthy friend of mine will give you a
+                        Letter from me. Pray shew him y<hi rend="superscript">r</hi> city, &amp;c,
+                        &amp;c.</p>
+
+
+                    <p>Pray tell me in y<hi rend="superscript">r</hi> next in what year <persName ref="pe1012">Boethius</persName> was born &amp; when he died.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom house</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

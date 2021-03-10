@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0404">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Mackenzie</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>NLS</repository>
+                        <idno>Delvine Papers, MS.1423</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>8-9</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1774-12-07"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0203">John Mackenzie</persName>
+                    <placeName ref="pl0287">Delvine</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0405"/>
+                    <ref type="prev" target="ct0403"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>
+                    <salute>Dear Sir</salute></opener>
+                <p>Your polite answer through <persName ref="pe0228">M<hi rend="superscript">r</hi>
+                        Paton</persName> demands my immediate thanks.<note type="editorial">See
+                        Pennant's letter to Paton on <ref target="0172.xml">7 December
+                        1774</ref>.</note> I have said much of y<hi rend="superscript">r</hi> place,
+                    &amp; am engraving a <rs ref="ar0169">plan</rs> taken by a scavant who wishes to
+                    be nameless you will find it in a volume I trust you will accept when
+                        published.<note type="editorial">The plan Pennant mentions was by <persName ref="pe0054">Colonel William Roy</persName>, whose views of Roman
+                        encampments at Ardoch, Comrie and Inchtuthill were published in Pennant’s
+                            <bibl type="editorial"><title ref="bi0010">A tour in Scotland 1772, part
+                                II</title></bibl> (1776), plates VII, IX and X, fifteen years before
+                        their posthumous appearance in Roy’s own <bibl type="editorial"><title ref="bi0202">Military Antiquities in North Britain</title></bibl>
+                        (1793). See WCRO CR2017/TP19.</note></p>
+                <p>The point I wish information about relates to the account given by <persName ref="pe0161">Maitland</persName> in his <bibl type="authorial"><title ref="bi0182">history of Scotland I.</title></bibl> p.199 of a Hypocaust
+                    &amp; other antiquities found at <placeName ref="pl0287">Delvin</placeName>. If
+                    any be so good as to confirm &amp; particularise them. a line addressed to me
+                        <placeName ref="pl1647">no 11 vere street oxford Chapel</placeName> will
+                    find me in <placeName ref="pl0699">London</placeName> for a month to come.</p>
+                <p>I shall be extremely happy to be of any use to you there being with much esteem </p>
+                <closer><salute>Dear Sir <lb/>Y<hi rend="superscript">r</hi> obliged &amp; most
+                            obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r.</hi> 7<hi rend="superscript">th</hi> 1774.</dateline></closer>
+                <postscript>
+                    <p>Be so kind as to give me the name of the Ferry over the <placeName ref="pl0096">Tay</placeName>, where I had the mortification of leaving
+                        you so wet.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>John Mackenzie esq<hi rend="superscript">r</hi>:</addrLine>
+                        <addrLine>of Delvin</addrLine>
+                        <addrLine>near Perth</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

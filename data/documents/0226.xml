@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0226">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, complaining about his engraver and directing
+                    George Low's manuscripts to Benjamin White in London</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>186-187</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1777-08-08"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0227"/>
+                    <ref type="prev" target="ct0225"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>D<hi rend="superscript">r</hi> Sir</salute></opener>
+                <p>Hasty thanks are due for <persName ref="pe0214">M<hi rend="superscript">r</hi>
+                        Williams</persName>
+                    <bibl type="authorial"><title ref="bi0235">ingenious Essay</title></bibl>. My
+                    thanks also to him for one in q<hi rend="superscript">to</hi> I had by <persName ref="pe0226">M<hi rend="superscript">r</hi> Panton</persName>.</p>
+                <p>I am sorry for <persName ref="pe0006">Bailey’s</persName> negligence: but really cannot
+                    help it. He is a most remiss man; &amp; I often regretted the employing him.</p>
+                <p>I beg my best wishes to <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                    Low</persName>. I beg to have his <bibl type="authorial"><title ref="bi0058">M.S.S</title></bibl>: if ready, &amp; fair by means of <persName ref="pe0026">M<hi rend="superscript">r</hi> White</persName>. perhaps he may get a
+                    scribe in y<hi rend="superscript">r</hi> city. I hope he is concise for that is
+                    what the public admire. I long for <rs ref="ar0204">his drawings</rs> which <persName ref="pe0014">my
+                        Servant</persName> shall finish this winter. I need not recommend a safe
+                    conveyance to <persName ref="pe0026">M<hi rend="superscript">r</hi>
+                    White</persName>.</p>
+                <closer><salute>I <lb/>am Dear Sir <lb/>Y<hi rend="superscript">r</hi> affect humble
+                            Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                <dateline><placeName ref="pl0001">Downing</placeName> Aug. 8<hi rend="superscript">th</hi>
+                    1777.</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton,</addrLine>
+                        <addrLine>Custom house</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0264">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 31 October 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>22-23</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-10-31"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0266"/>
+                    <ref type="prev" target="ct0263"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>an annual train of visits from 20 to 30 miles distance prevented me from sooner
+                    answering y<hi rend="superscript">r</hi> kind favour. I blush at my late
+                    gratitude to <persName ref="pe2013">M<hi rend="superscript">r</hi> Clerk</persName>
+                    for till y<hi rend="superscript">r</hi> Letter arrived I did not know I was
+                    indebted to <hi rend="underline">him</hi> for the valuable present. Pray convey
+                    my best thanks to him and as a further mark of the sense I have of his
+                    acceptable gift, offer to him a copy of either the <bibl type="authorial"><title ref="bi0012">Welsh Tour</title></bibl> or <bibl type="authorial"><title ref="bi0231">Flora scotica</title></bibl> which he pleases.*<note type="authorial">*
+                                take it from <persName ref="pe0192">M<hi rend="superscript">r</hi>
+                            Elliot</persName>.</note> Let me make free to say that views of
+                    <placeName ref="pl0205">Inverlochy castle</placeName>, <placeName ref="pl0206">Fort
+                        William</placeName> or <placeName ref="pl0198">augustus</placeName> or of any of
+                    those parts will be welcome.</p>
+                <p><persName ref="pe0039">M<hi rend="superscript">r</hi> Bruce</persName> once shewed me a
+                    vast collection of drawings of plants, many of fish, some of Birds &amp;
+                    quadrupeds. all exquisite &amp; faithful. <persName ref="pe0039">M<hi rend="superscript">r</hi> Banks</persName> vouchd for the botanic class
+                    I for the Zoologic. he also shewed 3 fine drawings of antiquities. It is
+                    certainly strange that one who has drawn so well, will not draw any more.</p>
+                <p>Pray enquire if all the copies of my <bibl type="authorial"><title ref="bi0028">Genera
+                    of birds</title></bibl> given to <persName ref="pe0022">D<hi rend="superscript">r</hi> Ramsay</persName> are sold for I want some. my
+                    poor friend sent me <bibl type="authorial"><title ref="bi0186">Skinner Scotch
+                            roads</title></bibl>.</p>
+                <p>I shall content myself with <bibl type="authorial"><title ref="bi0299">maitland</title></bibl>. for tho dull he is faithful.</p>
+                <p>I am sorry for the spirit of sedition that spreads so universally. want is coming
+                    on us like an armed train. but we shall all be in the same ease. but as a man of
+                    Letters I lament the gothic times that must be concomitant in all times I
+                    rest</p>
+                <closer><salute>faithfuly y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Oct<hi rend="superscript">r</hi>
+                        31. 1779.</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>Mr Paton </addrLine>
+                        <addrLine>Custom House</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+                <p><stamp type="handstamp"><placeName ref="pl0703">Northop</placeName></stamp></p>
+                <p><hi rend="superscript">FREE</hi><persName ref="pe0015">RMostyn</persName></p>
+                <p><stamp type="frank">FREE</stamp></p>
+                <p><stamp type="postmark">3/NO</stamp></p>
+            </div>
+        </body>
+    </text>
+</TEI>

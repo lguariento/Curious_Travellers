@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1312">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hugh Davies to Thomas Pennant, 5 December 1794</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017 /TP20/1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc/>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent"><persName ref="pe0903">Hugh Davies</persName>
+                    <date when="1794-12-05">5 December 1794</date>
+                    <placeName ref="pl1595">Aber</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001"/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1313"/>
+                    <ref type="prev" target="ct1311"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>
+                    <salute>Dear Sir,</salute></opener>
+                
+                <p>I do not delay to let you know that I have survived the dressing I underwent on Wednesday; by the continual rain my hand is 
+                    blistered in holding the bridle; the current of Water at <placeName ref="pl1596">Tal y Cafn</placeName> was really frightful, 
+                    and no line to conduct us across the river as usual!</p>
+                
+                <p>A tremendous gale of wind, which continued about eight and forty hours, and came on the next day after I came to 
+                    <placeName ref="pl0001">Downing</placeName>, has caused great losses in this neighborhood, and in some part of 
+                    <placeName ref="pl1093">Anglesea</placeName>; many ricks of hay have been Entirely swept away; fruit &amp; and the trees torn up; 
+                    houses unroofed &amp;c &amp;c I thank God by the activity of my servants and kind neighbours my little stock of hay was with 
+                    difficulty saved –<lb/>
+                    O! præclarum diem<note type="editorial">'Oh, what a beautiful day!' See Cicero, 
+                        <hi rend="italic">Cato Maior de Senectute</hi>, ed. by J. G. F. Powell (Cambridge: Cambridge University Press, 1988), p. 90.</note> 
+                    &amp;c  is certainly an <hi rend="underline">Ecphonesis</hi> or <hi rend="underline">Exclamatio</hi> which are synonymous;<lb/>
+                    Concitat Ecphonesis et Exclamatio mentem,<lb/>
+                    <hi rend="underline">Heu pietas</hi>!<note type="editorial">'An exclamatory phrase and exclamation excite the mind; Alas for piety!' Cf. 'Concitat Ecphoneses 
+                        &amp; Exclamatio mentem. | Heu pietas! ô spes falsas! prohvana [sic] voluptas!' etc. John Smith, <hi rend="italic">The Mystery of 
+                            Rhetorick Unveiled</hi> (10th edn., London: printed for R. Wilkin, B. Tooke, D. Midwinter et al, 1721), p. 104.</note> 
+                    <hi rend="underline">Salve læta dies</hi>!<note type="editorial">'Hail, happy day!'. 
+                        Ovid, <hi rend="italic">Fasti</hi>, book I, 65, line 23.</note> <hi rend="underline">O, tempora</hi>!<note type="editorial">'Oh, what times!' 
+                            quoting an oft-repeated phrase of Cicero ('O tempora o mores').</note>  &amp;c &amp;c
+                </p>
+                
+                <p>I believe <persName ref="pe0139">M<hi rend="superscript">r</hi>. Lightfoot</persName> has noticed no plant growing near <placeName ref="pl0001">Downing</placeName> 
+                    besides a variety of the <hi rend="underline">Anemone</hi> <hi rend="underline">nemorosa</hi>;<note type="editorial">'Mr. Lightfoot ... 
+                        discovered in my woods, in the month of May, a variety of the <hi rend="italic">anemone nemorosa</hi>, Sp. Pl. 762, with the leaves 
+                        dotted on the back, like the fructifications of a polypody, precisely corresponding with the figure of a supposed Fern, recorded in 
+                        Mr. <hi rend="italic">Ray</hi>'s Synopsis, 124, after N<hi rend="superscript">o</hi> 24. and fig. I. tab. iii. at p. 128.' 
+                        <hi rend="italic">A tour in Wales</hi> (1784), I, p. 19. The 'Anemone nemorosa' is one of several species mentioned in this paragraph to which Pennant 
+                    referred in <hi rend="italic">HPWaH</hi>, pp. 152–3, citing the bibliographic source given by Davies in this letter in many cases.</note>  viz. foliis dorso punctatis,<note type="editorial">'the back of the leaves speckled'. Cf. Pennant's 
+                            description in n. 5, above.</note> the leaves of which from that singularity have been mistaken for a Fern. You have the <hi rend="underline">chlora</hi> 
+                    <hi rend="underline">perfoliata</hi><note type="editorial">'Chlora perfoliata', the 'Yellow Centaury', 'familiar ... in chalk countries, easily known by its eight yellow 
+                        petals and perfoliate, or rather connate, leaves'. <hi rend="italic">OED</hi> s.v. centaury, quoting a 1903 definition.</note> 
+                    <add place="above"><bibl type="authorial"><title ref="bi0178">Syst. Pl:</title></bibl> II 161</add> an Elegant and rather rare plant; and the following deserve 
+                    notice as not common;<lb/>
+                            <hi rend="underline">Lithospermum</hi> <hi rend="underline">arvense</hi>, 
+                    <add place="above"><bibl type="authorial"><title ref="bi0718">Syst.</title></bibl> I. 
+                        385</add> A<hi rend="underline">nchusa sempervirens</hi>,<note type="editorial">'Anchusa sempervirens', 'evergreen alkanet', a plant belonging to the genus Anchusa.</note> 
+                    <add place="above"><bibl type="authorial"><title ref="bi0718">Syst. Pl.</title></bibl>  I. 389.</add> 
+                    <hi rend="underline">Campanula</hi> <hi rend="underline">latifolia</hi>,<note type="editorial">'Campanula latifolia', the giant 
+                        bell-flower. <hi rend="italic">OED</hi> s.v. bell-flower, citing an 1882 example.</note> <add place="above"><bibl type="editorial"><title ref="bi0718">Syst Pl.</title></bibl> 458.</add>, 
+                    <hi rend="underline"><sic>Phellandrum</sic></hi> <hi rend="underline">aquaticum</hi><note type="editorial">'Phellandrium Aquaticum', given as name 
+                        for 'waterwort' in an 1807 publication. See <hi rend="italic">OED</hi> s.v. waterwort, n.</note> 
+                    <add place="above"><bibl type="editorial"><title ref="bi0718">Syst. P.</title></bibl> I. 701.</add> 
+                    <hi rend="underline">Trifolium</hi> <hi rend="underline">fragiferum</hi>,<note type="editorial">'Trifolium fragiferum', 
+                        the 'strawberry trefoil'. <hi rend="italic">OED</hi> s.v. strawberry, quoting a 1731 example. Ibid. s.v. 
+                        strawberry-bearing trefoil, defines 'trifolium fragiferum as the 'strawberry clover', with a 1796 example.</note> 
+                    <add place="above"><bibl type="editorial"><title ref="bi0718">Syst Pl.</title></bibl> III. 559</add>, <hi rend="underline">Tragopogon</hi> 
+                    <hi rend="underline"><sic>pratense</sic></hi><note type="editorial">'Tragopogon pratensis', one of two plants known as 'goat's beards'. 
+                        The genus 'Tragopogon' in later usage signifies a class of herbaceous plants with yellow or purplish dandelion-like flowers. <hi rend="italic">OED</hi>.</note> 
+                    <add place="above"><bibl type="authorial"><title ref="bi0718">Syst. Pl.</title></bibl> III 611.</add>, <hi rend="underline">Erigeron</hi> 
+                    <hi rend="underline">acre</hi>,<note type="editorial">'Erigeron' is the Greek name of the Groundsel, 'because in the Spring it looketh hoarie, 
+                        like an old gray beard'. <hi rend="italic">OED</hi> s.v. erigeron, quoting a 1601 translation of Pliny's <hi rend="italic">Hist. World</hi>. 
+                        For specimens of the 'Erigeron acre' from the Linnean Collections, see 
+                        <ref type="http" target="http://linnean-online.org/cgi/search/simple?q=erigeron+acre&amp;_action_search=Search&amp;_action_search=Search&amp;_order=bytitle&amp;basic_srchtype=ALL&amp;_satisfyall=ALL">here</ref> [accessed 12 August 2019].</note> 
+                    <add place="above"><bibl type="authorial"><title ref="bi0718">Syst Pl.</title></bibl> III, 781</add> <hi rend="underline">Serapias</hi> <hi rend="underline">palustris</hi><note type="editorial">See 
+                        <hi rend="italic">OED</hi> s.v. marsh, n.1 for 'Serapias palustris'. The definition by Lightfoot, <hi rend="italic">Flora Scotica</hi> (1777), 
+                        I, p. 527, is quoted: 'Marsh Helleborine ... In rough boggy pastures and marshes, but not common'.</note> 
+                    <add place="above"><bibl type="authorial"><title ref="bi0718">Syst. Pl.</title></bibl> IV.</add>; and among the cryptogamous plants, with which 
+                    your dingles certainly abound,<note type="editorial">Cf. Pennant on his own native Flintshire, in <hi rend="italic">HPWaH</hi>, p. 153: 'The picturesque dingle Nant-y-bi 
+                        abounds with what the botanists name the cryptogamous plants'.</note> these <sic>clame</sic> particular notice, <hi rend="underline">Polypodium</hi> 
+                    <hi rend="underline">oreopteris</hi> Lin. Soc. Trans. I. 181.<note type="editorial">The 'polypodium' is a large genus of ferns of the family Polypodiaceae. <hi rend="italic">OED</hi>. 
+                        For the 'Polypodium Oreopteris', see J. Dickson, 'Observations on Polypodium Oreopteris, accompanied with a Specimen from Scotland', 
+                        <hi rend="italic">Transactions of the Linnaean Society</hi>, I (1791), 181–2. Lighfoot's failure properly to identify this fern is noted, as is 
+                        its abundance in England and Scotland, particularly the latter.</note>  – <hi rend="underline">Bryum</hi> 
+                    <hi rend="underline">Extinctorium</hi>;<note type="editorial">'Bryum extinctorium', cited in a 1792 publication in <hi rend="italic">OED</hi> s.v. burst.</note> 
+                    <hi rend="underline">Bryum</hi> <hi rend="underline">callistomam</hi>;<note type="editorial">A member of the genus 'Bryum'.</note>  <bibl type="authorial"><title ref="bi0633">Dicks.</title></bibl> 
+                    fascic. III. t. 7. f. 10. <hi rend="underline">Iungermannia</hi> <hi rend="underline">ciliaris</hi>;<note type="editorial">A member of the family 
+                        Jungermanniaceæ, the Scale-mosses. <hi rend="italic">OED</hi> s.v. jungermanniaceaous.</note> <hi rend="underline">Lichen</hi> <hi rend="underline">concentricus</hi>, 
+                    Lin . Soc .Trans. II. 284.<note type="editorial">For Hugh Davies's published observations on the 'Lichen Concentricus', an example of which he found in Whitford parish, 
+                        Flintshire, see his 'Descriptions of Four New British Lichens', <hi rend="italic">Transactions of the Linnean Society</hi>, II (1794), 283–285, 
+                        esp. 284.</note> <hi rend="underline">Lichen</hi> <hi rend="underline">querneus</hi>,<note type="editorial">'Lichen querneus', oak lichen. Described as 'Lichen querneus of Dickson', noting that its place of 
+                            growth is on the trunks of old oak trees, in T. F. Forster, <hi rend="italic">Flora Tonbrigensis; or, A catalogue of plants growing wild in the 
+                                neighbourhood of Tonbridge Wells, arranged according to the Linnæan system, from Sir J. E. Smith's Flora Britannica</hi> (London: printed and 
+                            sold by Richard and Arthur Taylor, 1816), p. 149.</note> <bibl type="authorial"><title ref="bi0633">Dicks.</title></bibl> fascic. I. p. 9. 
+                    <hi rend="underline">Agaricus</hi> <hi rend="underline">piperatus</hi>, &amp; <hi rend="underline">deliciosus</hi>;<note type="editorial">'Agaricus', 
+                        a Latin form for 'agaric', originally the bracket fungus Fomitopsis officinalis. <hi rend="italic">OED</hi> s.v. agaric, n. and adj..</note> 
+                    <hi rend="underline">Boletus</hi> <hi rend="underline">suberosus</hi><note type="editorial">For Pennant's comments about the '<hi rend="italic">Boletus suberosus</hi>. 
+                    Cork boletus', 'sometimes cut and shaped by the country people, and used as corks for their bottles', see <hi rend="italic">HPWaH</hi>, p. 155.</note> 
+                    <hi rend="underline">Helvella</hi> <hi rend="underline">mitra</hi>;<note type="editorial">'Helvella mitra', the Bishop's Mitre mushroom. 
+                        <hi rend="italic">OED</hi> s.v. turban &gt; turban-top.</note> <hi rend="underline">Perira</hi> <hi rend="underline">coccinea</hi>, 
+                    <bibl type="authorial"><title ref="bi0015">Tour in Wales</title></bibl> 
+                    <gap reason="authorial" unit="letters" quantity="several"/>? fig <gap reason="authorial" unit="letters" quantity="several"/>?<note type="editorial">Various 
+                        fungi bearing as their second name 'coccinea' are listed in <hi rend="italic">OED</hi>. If 'Perinea coccinea' is the example linked with an 
+                        illustration in Pennant's <hi rend="italic">A tour in Wales</hi>, it may be the 'Scarlet Mushroom' illustrated by Moses Griffith in ibid. 
+                        (2nd edn., 1784), II, plate II. Pennant describes it as 'a scarlet kind of mushroom, unnoticed by <hi rend="italic">Linnæus</hi>; but described by 
+                        Mr. <hi rend="italic">Ray</hi>, p. 18, No 5. of his Synopsis of <hi rend="italic">British</hi> Plants. Ibid., p. 19.</note> &amp;c– &amp;c–
+                </p>
+                
+                <p>I beg my very respectable Compliments to <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName> and am, Sir, </p>
+                
+                
+                <closer><salute>your most obliged &amp; obed<hi rend="superscript">t</hi>. Serv<hi rend="superscript">t</hi>.
+                    
+            </salute>
+                    <signed><persName ref="pe0903">Hugh Davies</persName>.</signed>
+                   
+                    <dateline><placeName ref="pl1595">Aber</placeName><lb/>
+                        Dec<hi rend="superscript">r</hi>. 5<hi rend="superscript">th</hi>. 1794</dateline></closer>
+            </div>
+            <div>
+                <p><address><persName ref="pe0232">Thomas Pennant Esq<hi rend="superscript">r</hi></persName></address></p>                    
+            </div>
+        </body>
+    </text>
+</TEI>

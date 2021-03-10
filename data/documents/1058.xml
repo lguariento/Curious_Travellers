@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1058">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 10</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p>9. &amp; <del><gap unit="letters" quantity="2" reason="illegible"/></del> 10; <persName ref="pe0408">the Lysons</persName>.<note type="editorial">Added in pencil.</note> <persName ref="pe0408 pe0409 pe0410"/></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1787-04-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I have no scruple of taking y<hi rend="superscript">r</hi> duplicates: but wish an acc<hi rend="superscript">t</hi>
+                    cd be kept of what we pay for. I am not in the way of getting <persName ref="pe0402">Hollars</persName>.
+                    you are <sic>pray buy for</sic> his <placeName ref="pl1379">Queenborough</placeName>, <placeName ref="pl1380">Dorchester</placeName> &amp; <rs type="art" ref="ar1046">cows</rs>. &amp; Be so good as to ask the price of his <rs type="art" ref="ar1047">5 <placeName ref="pl1381">Dovers</placeName></rs>.</p>
+                <closer>
+                    <salute>Y<hi rend="superscript">rs</hi> most truely<lb/>
+                        <persName ref="pe0232">TP.</persName></salute>
+                    <dateline>April 17<hi rend="superscript">th</hi> 81<note type="editorial">Richard Bull has added the year '81' to the date given by Pennant. The contents, together with the possibility that Bull may have confused the figures '1' and '7', suggests that 1787 is the probable date of this letter.</note></dateline>
+                </closer>
+                <postscript>
+                    <p>I wish a few rich men w<hi rend="superscript">d</hi> join in printing 100 Copies of my <bibl type="editorial"><title ref="bi0475">outlines</title></bibl>.
+                    I tho not <hi rend="underline">very</hi> rich w<hi rend="superscript">d</hi> buy my part.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Mr Bull</persName> | <placeName ref="pl0759">Stratton street</placeName></addrLine>
+                        <addrLine/>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

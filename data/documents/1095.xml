@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1095">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>21</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1790-01-02"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir.</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName>, Jan<hi rend="superscript">y</hi>. 2. 1790</dateline></opener>
+                <p>I don’t know from what original <persName ref="pe0014">Moses Griffyth</persName>, has taken the 
+                    <rs type="art" ref="ar0041">drawing of M<hi rend="superscript">r</hi>. Pitt</rs>, which he sent me at the End of your 
+                    <bibl type="authorial"><title ref="bi0025">Introduction to the Arctic Zoology</title></bibl>, but it has a Stronger likeness,
+                    and more of character, and spirit, than any Picture, or print, I have yet seen of that wonderful young man. I mean this, by way 
+                    of preface, before I ask you whether you have any objection to my getting it engraved <add place="above">for sale</add> it shall 
+                    be done well, or not at all, and I will reserve half a dozen Impressions for you, and myself. pray give me your answer and I beg 
+                    you to understand, that it is not a matter, I make a point of, if you have any objections that do not occur to me. – now I 
+                    <add place="above">am</add> upon the subject of Prints, let me ask you, whether you have got the <rs type="art" ref="ar0158">four Apostles</rs>
+                    <del>who</del> by <persName ref="pe0675">Rousellet</persName>, the originals of which you mention to be in <placeName ref="pl0951">Broad lane House</placeName>.
+                    
+                    if not, I can give you a Set. the Arms <persName ref="pe0014">Moses</persName> has sent me, with the Barons Coronet, and a royal Coronet annex’d, are, I apprehend the 
+                    <rs type="art" ref="ar0156">Arms of Lutterel</rs>, and that thereby hangs a tale, but what the Story is, or where I am to place the drawing I know not; pray have the 
+                    goodness to inform me.</p>
+                <p>If there is any news, I am not in the way of hearing it. – It is said the <persName ref="pe0393">Prince of Wales</persName>,
+                    has got again into debt to a vast amount, and that he has lately borrow’d 300,000, on post obit’s,<note type="editorial">'A bond given by a borrower, securing to the lender a sum of money to be 
+                        paid on the death of a specified person from whom the borrower expects to inherit.' <hi rend="italic">OED</hi>.</note>
+                    which his <persName ref="pe0949 pe0959">two next brothers</persName> have guarantee’d, &amp; the payment to be made by either brother who may come 
+                    to the Crown.<note type="editorial">The brothers in question were Frederick, duke of York (1763–1827), and William, duke of Clarence, later 
+                        William IV (1765–1837).</note> The 
+                    <persName ref="pe0418">Duke of Orleans</persName> is little respected here, it is generally believ’d that he meant to have assasinated his 
+                    <persName ref="pe0824">King</persName>, and that <persName ref="pe0979">La Fayette</persName> knew it, and told him he had his head in his 
+                    pocket, if he chose to take the forfeit, but He advis’d him to get a passport, and <del><gap unit="letters" quantity="1" reason="illegible"/></del>away 
+                    to <placeName ref="pl0775">England</placeName>, as fast as he could.<note type="editorial">For an account of the relations of Orléans and Lafayette 
+                        following the events of 5–6 October 1789, when crowds marched to Versalles to vent their anger against the monarch, see Tom Ambrose, 
+                        <hi rend="italic">Godfather of the Revolution: The Life of Phillippe Égalité, Duc D'Orléans</hi> (London: Peter Owen, 2008), pp. 169–70.</note> My <persName ref="pe0336">daughter</persName> 
+                    is better, but does not gain strength, indeed she was never a Giantess. I hope you, and your house, enjoy your healths.
+                    – Employ me, if you want such <gap unit="letters" quantity="4" reason="illegible"/> trifling services as I have to offer you, </p>
+                <closer>
+                    <salute>&amp; believe me, Dear Sir,
+                        <lb/>Yours always.</salute>
+                    <signed><persName ref="pe0313">R: B -</persName></signed>
+                </closer>
+                <postscript>
+                    <p>P.S. while I was sealing my letter, I receiv’d yours,<note type="editorial">See <ref target="1094.xml">1094</ref>.</note> – ––– <del><gap unit="letters" quantity="4" reason="illegible"/></del> 
+                        I am expecting company every moment to dine, so can only say, I will go to <persName ref="pe0387">Edwards</persName>,
+                        on monday morning, and as soon as I gain the intelligence you wish for, I will trouble you with another letter, as bad 
+                        written as this is, which I could write better, if I would, and so could you, but neither of us think it worth while. –</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

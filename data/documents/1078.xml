@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1078">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>13</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1788-07-06"/>
+                    <placeName ref="pl1013">Northcourt, Isle of Wight</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl1013">Northcourt, Isle of Wight</placeName>, July 6. 1788</dateline></opener>
+                <p>Having lost my old Housekeeper, who liv’d with me forty years, and having left a new Servant behind me in 
+                    <placeName ref="pl0699">town</placeName>, who sent my letters into <placeName ref="pl1388">Essex</placeName>, instead of
+                    <placeName ref="pl1471">Hampshire</placeName>, I have been depriv’d of the pleasure of yours till within these few days..</p>
+                <p>Forgive my stupidity If I don’t construe your letter right; am I to return the letter press of 
+                    England and orkney,<note type="editorial">Sections of '<bibl type="authorial"><title ref="bi0025">Introduction of the Arctic World</title></bibl>' undergoing extra-illustration by both Pennant and Bull. See <ref target="1077.xml">1077</ref>, where Pennant also mentions 'a forgotten treasure of drawings relative to [Orkney]'.</note>
+                    or the drawings you last sent me? I shall obey your commands in either, but I know not how to get at them, being lock’d up in 
+                    my Bureau in <placeName ref="pl0759">Stratton Street</placeName>, till I go next to <placeName ref="pl0699">town</placeName>,
+                    which will hardly be sooner than Michaelmas, when business will call me there for a few days.</p>
+                <p>I naturally supposed they were intended for <bibl type="authorial"><title ref="bi0025">my book</title></bibl>,
+                    (<hi rend="underline">the drawings I mean</hi>) and have rang’d them therein, but luckily had no time to paste them in their 
+                    proper places, so, if you desire it, you shall most certainly have them return’d, malgré moi,<note type="editorial">'in spite of myself'.</note>
+                    and when <persName ref="pe0014">Moses</persName> has leisure to copy them, I shall rejoice to have them back again, for my 
+                    own use and benefit. I am au desespoir<note type="editorial">'in despair'.</note> respecting a good binder; I quarrel with 
+                    <persName ref="pe0435">Wingrave</persName> eternally, and go to others who use me worse; <persName ref="pe0889">Lord Sandys</persName>
+                    recommended me one <persName ref="pe0890">Walther</persName>, a German, who does well, but his prices are enormous, and his lettering not even.</p>
+                <p>I know little and care less, what is doing in <placeName ref="pl0699">London</placeName>, but I have a good 
+                    <persName ref="pe0891">french correspondent</persName>, who tells me the Storm in <placeName ref="pl0925">that Country</placeName>
+                    encreases, tant mieux pour nous.<note type="editorial">'so much the better for us'.</note> it is very probable the
+                    Etats Generaux<note type="editorial">On 19 November 1787 Louis XVI agreed to the convocation of the 'Estates-General' before 1792. The first meeting in fact took place on 5 May 1789.</note>
+                    will be conven’d e’er long, the clergy having made a remonstrance tending to hasten such a convention. all their troubles take their rise from the 
+                    American war; the day of retribution is come. <persName ref="pe0892">Mons<hi rend="superscript">r</hi>. Necker</persName>
+                    borrow’d money, and while the Bill was not brought in, the War was popular, its aim being to distress <placeName ref="pl0777">Great Britain</placeName>.
+                    now pay day is come. – the <persName ref="pe0824">monarch</persName>, &amp; the nation find the war cost money. – the nation dislikes parting with money, and the 
+                    <persName ref="pe0824">monarch</persName> wishes to retain his power.</p>
+                <p>The <persName ref="pe0893">Emperor</persName> seems to be making a bad figure against the Turks.<note type="editorial">Austria entered an ongoing war between Russia and Turkey on 9 February 1788 and continued at war with Turkey until 1791.</note>
+                    the <persName ref="pe0894">Empress</persName> is Stop’d in her career, because <persName ref="pe0895">M<hi rend="superscript">r</hi> Thornton</persName>
+                    will not supply her with transports. this gives one a poor opinion of <placeName ref="pl1474">Russian</placeName> Force,
+                    when we see a transport monger, stopping the mighty armaments of her Hyperborean Majesty. The report is that 
+                    <placeName ref="pl1475">Sweden</placeName> has got together her fleet by having the money advanc’d by <placeName ref="pl0777">G. B.</placeName><note type="editorial">The Russo-Swedish War of 1788–1790 began as the Swedish open sea fleet put out to sea on 9 June 1788. Western powers, including Great Britain, lobbied for a war in the north as a means of diverting Catherine II of Russia from her successful campaign against Turkey.</note>
+                    - tis true money don’t abound in that country, and as it could not come from <placeName ref="pl0925">France</placeName>,
+                    it is naturally supposed it is issued by the good city of <placeName ref="pl0699">London</placeName>. 
+                    Foreign nations consider this country as a perfect Fortunatus’s Cap;<note type="editorial">In the German tale of Fortunatus, popular in fifteenth- and sixteenth-century Europe, Fortunatus is given a purse containing a boundless fortune by the goddess Fortune, and steals from a sultan a hat able to transport its wearer wherever he wishes.</note>
+                    put in your hand and you are sure to find an everlasting treasure. If I live to return to <placeName ref="pl0775">England</placeName>,
+                    I will write again, and tell you the news of the day, in the mean time receive my thanks, for <sic>claring</sic> 
+                    up every doubt respecting the Patagonians.<note type="editorial">A reference to Pennant, <bibl type="authorial"><title ref="bi0033">Of the Patagonians</title></bibl>.</note> we are very gay here, Sailing matches, music meetings, ship wrecks, and 
+                    <persName ref="pe0896">Wilkes</persName> &amp; <persName ref="pe0897">his daughter</persName>, who are become our neighbors. – I hope you are all well – 
+                    Stet Fortuna Domus.<note type="editorial">'Let the good fortune of the house endure'.</note> I, and mine are well, and what is better, contented and happy.</p>
+                <closer>
+                    <salute>I am Dear Sir, yours very truly</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+                <postscript>
+                    <p>we have no members of Parliament here – pray respect me, for I am become a <hi rend="underline">Great Grand</hi> father
+                        by the birth of <persName ref="pe0898">Sir John Swinburne</persName>'s boy. -</p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark">JY 8 88</stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant</persName> Esqr. | <placeName ref="pl0001">Downing | <hi rend="underline">Flintshire</hi></placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

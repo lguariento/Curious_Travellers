@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1361">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Philip Yorke to Thomas Pennant, 19 July 1791</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>Warwickshire County Record Office</repository>
+                        <idno>CR 2017/TP401/5</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0243">Philip Yorke</persName>
+                    <date when="1791-07-19"/>
+                    <placeName ref="pl1203">Abergele</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1362"/>
+                    <ref type="prev" target="ct1360"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>
+                    <salute>Dear Sir,</salute></opener>
+                
+                <p>I don't know that you will relish being troubled on the score of the Welsh tribes; You once thought of doing something with 
+                    them, yourself: <bibl type="authorial"><title ref="bi0593">Vaughan of Hengwrt's account</title></bibl> is dry, short, and 
+                    unsatisfactory;  their numerous descendants will furnish anecdote, and some, should enliven so dry a subject: perhaps, you 
+                    will let your <persName ref="pe0404">writer</persName>, copy answers, to a few Queries; In Barrington's 
+                    <bibl type="authorial"><title ref="bi0591"><sic>Gwedi</sic> History</title></bibl> is the relationship as it stands, between the 
+                    present <persName ref="pe0326">Sir W: W. Wynne</persName>, and <persName ref="pe0607">Sir John of Wynnstay</persName>; If I 
+                    conceive it right, <persName ref="pe0608">Sir W. Williams</persName>, the son of the <persName ref="pe0609">speaker</persName> 
+                    married the daughter, and <persName ref="pe0610">heiress</persName> of <persName ref="pe0611">Edw. Thelwal</persName> of 
+                    <placeName ref="pl1204">Plas y ward</placeName>; Her <persName ref="pe0680">Mother</persName> was a <sic>Grandaughter</sic> of old 
+                    <persName ref="pe0321">Sir John</persName>, the Historian, &amp; Sir Watkin to whom Sir J: left his 
+                    Estate,<note type="editorial">The relations outlined here are complex, and may be confused. The Sir J: to whom Yorke refers is unlikely 
+                        to be Sir John Wynn, first baronet, whose Gwydir estate was bequeathed to Robert Bertie, first duke of Ancaster. It may, rather, 
+                        be a reference to Sir John Wynn, fifth baronet (<hi rend="italic">c</hi>.1628–1719), of Rhiwgoch, Merionethshire, and Wynnstay, 
+                        Denbighshire. He bequeathed the Wynnstay estate to Jane (née Thelwall), through whom it came to <persName ref="pe0608">Sir William Williams</persName>, second baronet 
+                        (<hi rend="italic">c</hi>.1665–1740), her husband, and their son Sir Watkin Williams Wynn, third baronet (?1693–1749), of 
+                        Wynnstay, Denbighshire. <hi rend="italic">Hist P</hi>.</note> was of course his first Cousin's <add place="above">grand-</add>son, 
+                    and his great-<hi rend="underline">Welsh nephew</hi>: Pray, <hi rend="underline">what length of time did the late 
+                    <persName ref="pe0612">M<hi rend="superscript">r</hi>. Wynne of Bodyscallan</persName> set for the <placeName ref="pl1247">Carnarvonshire Boroughs</placeName>, 
+                    and what year did he dye: When did <persName ref="pe0613">Billy Bodvel</persName> dye, and how long did he set for that 
+                    <placeName ref="pl1234">County</placeName>: When did <persName ref="pe0681">Lady Prendergast</persName> dye: 
+                    <persName ref="pe0614">D<hi rend="superscript">r</hi>. Gabriel Goodman</persName>, Dean of <placeName ref="pl0776">Westminster</placeName></hi>, and 
+                    the Founder of <placeName ref="pl3068">Ruthin school</placeName>, <persName ref="pe0375">Camden</persName>'s patron, was <hi rend="underline">he not a Welshman? and 
+                        the Father of <persName ref="pe0615">Bishop Goodman</persName>?<note type="editorial">Yorke appears to have confused the generational 
+                        order of the Goodman family as well as the identity of its members. Gabriel Goodman was uncle to Godfrey Goodman, bishop of Gloucester.</note>  of what See?</hi> I  know your books  will answer these Questions in an instant, if 
+                    I could get over to them; As I cannot at present determine that time, so I wish this information by letter, for I stop for want of it: It will be 
+                    well if it pleases you to send me some sense on the general matter, but I rather guess you are in another world, and will despise this, at present.<note type="editorial">Yorke 
+                        may be referring to Pennant's preoccupation with his <bibl type="authorial"><title ref="bi0475">'Outlines of the Globe'</title></bibl> at this time. See, for example, <ref target="1136.xml">1136</ref> and <ref target="1142.xml">1142</ref>.</note> 
+                    <persName ref="pe0333">Bloddy</persName> will only write from his pate, and good memory, and will <add place="above">not</add> set on a Chair, 
+                    and Consult Books, otherwise, I had not troubled you, as above. I shall take great care of <unclear>y<hi rend="superscript">t</hi></unclear>. 
+                    Pedigree, till I have a safe opportunity of sending it over: <persName ref="pe0333">Bloddy</persName> has promised me <persName ref="pe0616">Powell</persName>'s 
+                    <bibl type="authorial"><title ref="bi0590">latin verses, on the Tribes</title></bibl>, He was of <placeName ref="pl1198">Ednop</placeName>, in 
+                    <placeName ref="pl1245">South-Wales</placeName>; I wish I knew more of him, as well as of his namesake, our <persName ref="pe0617">Historian, of Ruabon</persName>. 
+                    Anecdotes, and Characters of Great men, are exhausted; some thing might still be had from those of a second rate: You have gathered the Welsh 
+                    Harvest of History, so close, that there is scarce any. thing to Glean after you, especially in greater matters. 
+                    <gap unit="letters" quantity="several" reason="authorial"/> Shall I say something of this sort, of <persName ref="pe0333">Bloddy</persName>:<lb/>
+                    To the <persName ref="pl1200">House of Kymbychan</persName> of this tribe, (<persName ref="pe0618">Bleddyn ap Cynfyn</persName>) we are 
+                    indebted for a worthy man, and excellent Welsh Genealogist, the <persName ref="pe0333">reverend John Lloyd</persName> Rector 
+                    of <placeName ref="pl1201">Caerwis</placeName>; He is a liberal and living light to all who pry into pedigree: that loose 
+                    fellow <persName ref="pe0682">Foote</persName> ridiculed, and with some success, our natural love of Ancestry, but <placeName ref="pl1202">Spain</placeName> 
+                    was, not ultimately obliged to <persName ref="pe0619">Cervantes</persName>; his ingenuity tis true, was an honour to his Country, but in removing 
+                    the speck, he injured the Eye itself, of her national Gallantry, and the Spanish Infantry has been no longer distinguished as the 
+                    first in Europe. <gap unit="letters" quantity="several"/> But of this Enough, and I remain always, Dear Sir,</p> 
+                <closer><salute>
+                    Your affect:<hi rend="superscript">te</hi> Servant,
+                    </salute>
+                    <signed><persName ref="pe0243">Ph: Yorke</persName></signed>
+                    </closer>
+                <dateline><placeName ref="pl1203">Abergele</placeName>, July 19<hi rend="superscript">th</hi>: 1791.</dateline>
+            
+                <postscript><p>If I should put a Motto –<lb/>
+                    <sic>ridentem</sic> dicere verum<lb/>
+                    Quid vetat –<note type="editorial">'Ridente dicere verum quid vetat': 'What prevents me from telling the truth while smiling?' 
+                        Horace, <hi rend="italic">Satires</hi>, book I, satire 1, line 24.</note> 
+                    
+                    </p></postscript></div>
+                
+            
+            
+            
+        </body>
+    </text>
+</TEI>

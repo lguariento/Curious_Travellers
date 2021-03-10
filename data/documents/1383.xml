@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1383">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Lloyd, Caerwys, to Thomas Pennant, 31 December 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>15422C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">in Thomas Pennant's hand</hi>:</p>
+                                <p><table>
+                                    <row>
+                                        <cell><placeName ref="pl0002">Chester</placeName><lb/>
+                                            <placeName ref="pl1325">Kelyn bush</placeName><lb/>
+                                          <placeName ref="pl1326">Avon wen</placeName><lb/>
+                                            <placeName ref="pl1327">Bodvari</placeName><lb/></cell>
+                                        <cell> <lb/>
+                                            12<lb/>
+                                             7.<lb/>
+                                            <hi rend="underline">2</hi><lb/>
+                                            21</cell>
+                                    <cell><lb/>
+                                    <lb/>
+                                    1<lb/>
+                                    <hi rend="underline">4.0</hi><lb/>
+                                    5...0..</cell></row>
+                                </table></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0333">John Lloyd</persName>
+                    <date when="1777-12-31"/>
+                    <placeName ref="pl1201">Caerwys</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref=""/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1384"/>
+                    <ref type="prev" target="ct1382"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline/><salute>Dr <hi rend="superscript">r</hi>Sir</salute></opener>
+                
+                <p>If you look into <bibl type="authorial"><title ref="bi0592">Powel</title></bibl> page 210 You will find That 
+                    <persName ref="pe0759">Kyric</persName> &amp; 
+                    <persName ref="pe0760">Eineon Evell</persName> were Twin Bastards to 
+                    <persName ref="pe0633">Madoc ap Meredydd ap Bleddyn</persName>, Prince of the lower powys, from him denominated 
+                    <placeName ref="pl1215">Powys Fadoc</placeName>; Evell signifies a Twin, 
+                    <persName ref="pe0759">Kynric</persName> had for his portion <placeName ref="pl1321">Eglwyseg</placeName>, of which he is always Styled Lord. 
+                    – <persName ref="pe0761">M<hi rend="superscript">r</hi> Salusbury</persName> in 
+                    <bibl type="authorial"><title ref="bi0608">his account</title></bibl> of the 
+                    <persName ref="pe0763">Eyton Family</persName>, styles him likewise 
+                    Lord of <placeName ref="pl1322">Treuddyn</placeName> &amp; <placeName ref="pl1323">Molds dale</placeName>, 
+                    These Territories I have found <sic>elswhere</sic> ascribed to him &amp; I suppose with some truth, as the 
+                    <persName ref="pe0762">Davies’s</persName> of <placeName ref="pl1324">Gwysaney</placeName> the 
+                    <persName ref="pe0763">Eytons</persName> of <placeName ref="pl1048">L<unclear>ees</unclear>wood</placeName> 
+                    <persName ref="pe0764">Wynnes</persName> of <placeName ref="pl1047">Tower</placeName> &amp;c in this neighbourhood are lineally 
+                    descended from him. – The Historical account of the Battle at <placeName ref="pl1047">Tower</placeName><note type="editorial">Pennant 
+                        includes an account of the battle at Tower between its inhabitant, Reinallt ap Gryffydd ap Bleddyn, and the followers of the linen-draper and 
+                        Chester mayor, Robert Bryne, in <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), I, pp. 399–400, and also mentions that Reinallt's 'actions were 
+                        celebrated at the time, in poems still extant; particularly by <hi rend="italic">Lewis Glyn Cothi</hi>, in an <hi rend="italic">Awdl</hi>'.</note> you have in English, 
+                    it is likewise prefixd in welsh to one of these poems, but not extracted from them, as they contain nothing but a <sic>meer</sic>
+                    Rhapsody of Encomiums upon the Chieftain &amp;c If I can pick any thing to your purpose out of them I will send it by saturday, 
+                    I will wait of you <sic>assoon</sic> as I think myself able to venture out. This frosty weather agrees but indifferently with me
+                    
+                    I am, with my best Respects to <persName ref="pe0238">M<hi rend="superscript">rs</hi></persName> &amp; 
+                    <persName ref="pe0234">Miss Pennant</persName> &amp; wishing you all a Happy new year
+                </p> 
+                <closer><salute>Your most obliged<lb/>Humble Sert &amp;c<lb/></salute>
+                    <signed><persName ref="pe0333">John Lloyd</persName></signed>
+                    <dateline><placeName ref="pl1201">Caerwys</placeName><lb/> Decemb<hi rend="superscript">r</hi>. 31: 1777</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant Esq<hi rend="superscript">r</hi></persName></addrLine>
+                        
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

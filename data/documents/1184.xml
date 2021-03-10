@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1184">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 123</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">Endorsement in Richard Bull's hand</hi>:</p>
+                            <p>about ornamented Quadrupeds &amp; more Birds.<note type="editorial">As in <ref target="1175.xml">1175</ref>, this may be a reference to Bull's efforts to illustrate his large paper <bibl type="authorial"><title ref="bi0023">Arctic zoology</title></bibl>, vol. I, which included quadrupeds as well as birds.</note></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1795-04-13"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>
+                    I am condemned to some weeks recumbency, lying like <rs type="art" ref="ar0311">patience on a monument</rs>
+                    smiling on a broken knee-pan. I had the accident this day <del>s<gap unit="letters" quantity="several" reason="illegible"/></del>
+                    sevenight; but am calm, resigned &amp; in most equal &amp; good spirits. The pan, split in two, has been most skilfully reduced; 
+                    &amp; I have every prospect of a <del>good</del> good <del>cure</del>, but from the nature of the case, not a speedy recovery. I retain 
+                    my ardour for our amusements &amp; <del><gap unit="letters" quantity="several" reason="illegible"/></del> employ <persName ref="pe0404">my secretary</persName>
+                    fully &amp; am swelling the <bibl type="editorial"><title ref="bi0023">arctic zoology</title></bibl> to 4 M.S. volumes. may you 
+                    &amp; the Ladies<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>
+                    retain equal spirits in better health. The same wish attends <persName ref="pe0332">M<hi rend="superscript">r</hi> Storer</persName>.</p>
+                <p>
+                    Be so good as to give <persName ref="pe0065">my son</persName> the sketch of the Lady’s head I sent 
+                    to you.<note type="editorial">The sketch appears to have been one of the <rs type="art" ref="ar0320">Hampton Court Beauties</rs>. See <ref target="1182.xml">1182</ref> and <ref target="1183.xml">1183</ref>.</note>
+                    He may get it, ascertaind, <del>at</del> I write on a portfolio on my sane knee. as the attitude is not very pleasing excuse more at present.</p>
+                <closer>
+                    <salute>Adieu, D<hi rend="superscript">r</hi> Sir
+                        <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName>
+                    <lb/>April 13<hi rend="superscript">th</hi> 1795</dateline>
+                </closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine><persName ref="pe0313">Richard Bull Esq<hi rend="superscript">r</hi>.</persName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

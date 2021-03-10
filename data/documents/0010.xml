@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0010">
+    <teiHeader type="w">
+        <fileDesc>
+            <titleStmt>
+                <title>Frances Crewe, ‘Welch Journal’
+                    <date>1795</date></title>
+                <respStmt>
+                    <name>Edited with an introduction by Elizabeth Edwards</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>British Library</repository>
+                        <idno>Add. MS 37926</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb n="131r"/>
+                <fw>f. 131r</fw>
+                <p><hi rend="underline">Welch Journal <date>Aus<hi rend="superscript">t</hi> 20<hi rend="superscript">th</hi> 1795</date></hi></p>
+                <p>Addressed to the <hi rend="underline">Hon<hi rend="superscript">ble</hi> <persName ref="pe1244">Miss Fox</persName></hi></p>
+                <p style="center"><hi rend="underline"><placeName ref="pl0792">Wrexham</placeName> Thursday</hi></p>
+                <p>Left <placeName ref="pl1506">Crewe Hall</placeName> this Morning after Breakfast stopped to dine at <placeName ref="pl0002">Chester</placeName>,
+                    &amp; arrived here this Evening to drink Tea with <persName ref="pe1024">Miss Hayman</persName>, found her very well disposed 
+                    towards an Excursion into <placeName ref="pl1235">Merionethshire</placeName> &amp; she &amp; <persName ref="pe1025">Emma</persName>
+                    &amp; I have agreed to set off together tomorrow in the open Chaise &amp; to go as far as <placeName ref="pl1517">Dolegelly</placeName>
+                    &amp; <placeName ref="pl1519">Barmouth</placeName> if we can –</p>
+                <p style="center"><hi rend="underline"><placeName ref="pl0793">Langollen</placeName> Friday -</hi></p>
+                <p>Breakfasted here this day, but shall not stop to look about us, as we wish to lose no time, &amp; know that this place is always 
+                    within our reach – have sent a Civil Message to the <persName ref="pe0954 pe0957"><hi rend="underline">Hermit</hi> <hi rend="underline">Ladies</hi></persName>
+                    with appologies for not Calling – </p>
+                <p style="center"><hi rend="underline">Same day <placeName ref="pl1303">Corwen</placeName></hi></p>
+                <p>This Village is famous for being one of the Places where the <hi rend="underline">Eistedfod</hi> (or the meeting of the Bards)
+                    <note type="editorial">Eisteddfod – Welsh bardic gathering (literally ‘a sitting’) and latterly cultural and literary festival, revived in London and Wales in the 1790s.</note>
+                    were held in former days, we have passed through a beautiful Valley, but our weather has not been favourable for views, tho it has shown us the waterfalls in great perfection – </p>
+                <p style="center"><hi rend="underline">Same day <placeName ref="pl1669">Bala</placeName></hi></p>
+                <p>The road we have gone this day has been rough &amp; hilly, &amp; as there are no fences on the Edges of the Rocks, no one should venture it in the dark, 
+                    the approach to this Town is very pretty &amp; the <placeName ref="pl1927">lake</placeName> on which it stands
+                    <pb n="131v"/>
+                    <fw>f. 131v</fw>
+                    &amp; through which the <placeName ref="pl1138">River dee</placeName> runs, is said to be four miles long &amp;
+                    rather more than half a mile Broad, but from the little I have seen of it yet, its Banks appear to want wood – this <placeName ref="pl1927">lake</placeName> belongs to 
+                    <persName ref="pe0326">Sir W. Williams</persName> &amp; is famous for a fish in it called the Gwenard <add place="above">Gwiniart<note type="editorial">in pencil and in other hand</note></add><note type="editorial">Gwenard/Gwiniart – Gwyniad, freshwater whitefish found only in Bala Lake.</note>
+                    which is to be found no where else – The <placeName ref="pl2426">Inns</placeName> are boath full at preasant but we are lodged at 
+                    <placeName ref="pl2427">a Gentlemans house</placeName> - </p>
+                <p style="center"><hi rend="underline">Saturday 2, O Clock</hi></p>
+                <p>we are still at <placeName ref="pl1669">Bala</placeName>, for one of our Horses fell down Yesterday &amp; hurt his knee so much that 
+                    the <persName ref="pe0482">Coachman</persName> is fearful of Venturing on to day, there are no post horses here, &amp; 
+                    if we lose one whole day out of the short time we have for our Journey we shall never see <placeName ref="pl1866"><hi rend="underline">Cader Idris</hi></placeName>
+                    which is my Great ambition!</p>
+                <p style="center"><hi rend="underline">Same day 4, O Clock</hi></p>
+                <p>after much deleberation &amp; consultation &amp; many <hi rend="underline">wise</hi> Plans <add place="above">adopted</add>
+                    by us all &amp; the minute after rejected, we came to a resolution of sending for post Horses from <placeName ref="pl1303">Corwen</placeName>,
+                    &amp; keeping them as long as we wanted them while our own should remain here to recover their fatigues, the sun now begins to 
+                    shine again the dinner is Getting Ready &amp; we hope to arrive at <placeName ref="pl1517">Dolegelly</placeName> 
+                    this Evening before dark <persName ref="pe1024">Miss Hayman</persName> tells me we must absolutely go as far as 
+                    <placeName ref="pl1519">Barmouth</placeName> for that the</p>
+                    <pb n="132r"/>
+                    <fw>f. 132r</fw>
+                    <note type="editorial">See note *</note>
+                    <pb n="132v"/>
+                    <fw>f. 132v</fw>
+                    <note type="editorial">Blank page</note>
+                    <pb n="133r"/>
+                    <fw>f. 133r</fw>
+                <p>Drive to that place is <hi rend="underline">perfection itself</hi> we are it seems to wind round the bottoms of some hills along the sea side which will 
+                    serve as a good contrast to the Clouds we past through yesterday, I have been amusing myself by asking Questions of the 
+                    <persName ref="pe1616">Inn keeper</persName> &amp; <persName ref="pe1617">Attendants of this house</persName>
+                    concerning the Traditions of this County, the Common people here all talk of their Old Chieftains with pleasure &amp;
+                    <persName ref="pe0495">Owen Glendowes</persName> Exploits &amp; achievment, remain just as much in the memories of the people of 
+                    <placeName ref="pl1221">North-Wales</placeName> as the <persName ref="pe1027">Great Duke of Malbro’s</persName> do in <add place="above">ours</add>
+                    <del><gap unit="lines" quantity="2"/></del> Indeed his Bard (<persName ref="pe1026">Iolo Gosth</persName> - sic) was a more
+                    <hi rend="underline">animated</hi> panegyrist than <del><gap unit="words" quantity="1"/></del> <persName ref="pe1028">Adison</persName>
+                    whose poem was to be <hi rend="underline">said</hi> &amp; not <hi rend="underline">sung</hi> like the poems of 
+                <hi rend="underline">these</hi> parts -</p>
+                <p style="center"><placeName ref="pl1517">Dolegelly</placeName> <hi rend="underline">Saturday</hi> E<hi rend="superscript">vng</hi></p>
+                <p>Our post Horses arrived at <placeName ref="pl1669">Bala</placeName> at about five O Clock &amp; we sat off 
+                    <hi rend="underline">tantivy</hi><note type="editorial">At full gallop, swiftly</note> for this Curious Town where we mean 
+                    to rest to night, we have had a most Enchanting drive &amp; stopped to get out and walk sometimes and <persName ref="pe1024">Miss Hayman</persName>
+                    &amp; <persName ref="pe1025">Emma</persName> could not resist taking some of the views, we came to the source of the 
+                    <placeName ref="pl1138">Dee</placeName>, it rises near a Rock on the Right side of the Road, &amp; they say in this Country, that its rapidity 
+                    is so great that it runs through <placeName ref="pl1927">Bala lake</placeName> without mixing with its waters and from this <hi rend="underline">Retains</hi>
+                    its Black <unclear>Peer</unclear> colour so long, but this many do not believe, this Town is 18 Miles from 
+                    <placeName ref="pl1669">Bala</placeName> &amp; stands at the foot of lofty <placeName ref="pl1866">Cader Idris</placeName></p>
+                <pb n="133v"/>
+                <fw>f. 133v</fw>
+                <p>"“In a Maze;
+                    <lb/>“Lost I gaze.
+                    <lb/>“Can our Eyes;
+                    <lb/>“Reach thy size!<note type="editorial">A quotation from Alexander Pope’s ‘Lilliputian Ode’, one of his ‘Gulliverian’ poems written in 1726 in response to Jonathan Swift’s 
+                        <hi rend="italic">Gulliver’s Travels</hi> and subsequently published in a preface to the <hi rend="italic">Travels</hi>.
+                        See Dustin Griffin, <hi rend="italic">Swift and Pope: Satirists in Dialogue</hi> (Cambridge: Cambridge University Press, 2010), pp. 83-6.</note></p>
+                <p>+ <persName ref="pe0232">Mr. Penant</persName> asserts that this Mountain is 950 yards in height at one point – it contains one Lake - <placeName ref="pl1183">Snowdon</placeName> two<note type="editorial">This passage is written in an outline box to the right of the stanza above. See <hi rend="italic">A Tour in Wales</hi>, Volume 2, p. 99.</note></p>
+                <p>Seariously this Mountain<note type="authorial">[note in different hand] <persName ref="pe0232">M<hi rend="superscript">r</hi> Penant</persName> discovered the Pumice Stone here, &amp;
+                    many other Circumstances convinced him that it once was a Volcano –</note><note type="editorial">See <hi rend="italic">A Tour in Wales</hi>, Volume 2, p. 98. (f. 134r)</note>
+                    beats every thing I ever saw since I was a Child, in <placeName ref="pl1164">Italy</placeName>! it is true I have seen 
+                    <placeName ref="pl1183">snowdon</placeName> <hi rend="underline">at a distance</hi>, but then that stands in a Range of other Mountains 
+                    &amp; it seems that it is its highest <hi rend="underline">point <add place="above">only </add> that beats this</hi>, &amp; in all 
+                    <hi rend="underline"><placeName ref="pl1183">Snowdonia</placeName></hi> there are no Rocks so uniformly high as this Guigantic 
+                    <del><gap unit="words" quantity="1" reason="illegible"/></del> one! the Road as been  very good all the way, &amp; the Horses of this Country 
+                    are so sure footed, that they Venture to Gallop where our Horses I think would only attempt a fair sound pace, we passed through 
+                    <placeName ref="pl1258">Glendowry Vale</placeName> <add place="above">(between <placeName ref="pl0793">Langollen</placeName> &amp; <placeName ref="pl1303">Corwen</placeName>)</add>
+                    which many persons admire still more than <placeName ref="pl0793">Langollen Vale</placeName> &amp; <hi rend="underline">Connoiseuese in prospects</hi>
+                    prefer it from it being terminated by so sublime an object as <placeName ref="pl1866">Cader Idris</placeName> for a 
+                    <hi rend="underline">Back Ground</hi>, but Comparisions, if they are not odious, are at least <hi rend="underline">troublesome</hi>,
+                    &amp; I am sure it is better policy to suppose <hi rend="underline">two</hi> objects to be perfect instead of one, they have certainly quite distinct Characters, – for in 
+                    <placeName ref="pl0793">Langollen</placeName> the mountains are not so high, but they are much more Cultivated, 
+                    <placeName ref="pl1258">Glendowery vale</placeName> reminded me in wild parts of it, of some hills I have seen in 
+                    <placeName ref="pl0935">Derbyshire</placeName> &amp; <placeName ref="pl0793">Langollen</placeName> of the 
+                    <placeName ref="pl2455">County of Vilklow</placeName> about the <del><gap unit="lines" quantity="1" reason="illegible"/></del></p>
+                <pb n="134r"/>
+                <fw>f. 134r</fw> 
+                <note type="editorial">See note **</note>
+                <pb n="134v"/>
+                <fw>f. 134v</fw>
+                <note type="editorial">See note **</note>
+                <pb n="135r"/>
+                <fw>f. 135r</fw>
+                <p><placeName ref="pl0587">Douglas</placeName>, &amp; <gap unit="words" quantity="1" reason="illegible"/>
+                    but each of them are more Romantic to My Eyes than any part of <placeName ref="pl0935">Derbyshire</placeName>
+                    I have ever seen except <placeName ref="pl1884">Matlock</placeName> &amp; in short you may if you will, consider them as the 
+                    Sachrafisa &amp; <hi rend="underline">Ameret</hi> of the wild <placeName ref="pl2456">Dingles Dell</placeName> &amp;
+                    <placeName ref="pl2457">Alley Greens</placeName> that we have lately gone through – we have heard nothing but welch harps 
+                    &amp; welch Language since we left <placeName ref="pl1303">Corwen</placeName>,<note type="authorial">[in another hand] Many Players of inferior Instruments were admired at their Eistedfods
+                        (or great meetings) such as <hi rend="underline">pipers</hi> <persName ref="pe1629">Crwthers <hi rend="underline">Bon</hi> <hi rend="underline">y</hi> <hi rend="underline">Glor</hi></persName>
+                        sometimes in French Jongleur, in English corrupted into Jugler, &amp; <hi rend="underline">Bungler</hi> to Express 
+                        <hi rend="underline">Vulgar</hi> attempts of Art in general. (f. 134v)</note>
+                    we stopped at a halfway house which seemed to be as old as the hills, &amp; the sign over the door was picture 
+                    of <persName ref="pe1029">Howel Dha</persName>, their Great law giver of the 10<hi rend="superscript">th</hi>
+                    Century – you must pronounce the last syllable of his name as if it where TH remember &amp; not DA as it is pronounced with us – 
+                    we passed by a nother <placeName ref="pl2463">Inn</placeName>, in a nother wild part, &amp; an old 
+                    Druid was the sign here, the Modern minstre<add place="above">l</add>s take good care to Cherish the memory of former times – nothing is more 
+                    che<del>a</del>rful nor yet more melancholy than to be greeted as one is at every Inn by venerable blind men who play airs of 
+                    the <placeName ref="pl0731">Country</placeName>, as wild, &amp; yet as harmonious as the beauties they are deprived from seeing! we met droves 
+                    of Cattle &amp; when we desired the <persName ref="pe1633">Postilian</persName> to ask wither they were going, the Answer was to 
+                    <hi rend="underline"><placeName ref="pl0775">England</placeName></hi> this was one of many <hi rend="underline">small</hi>
+                    occurrances which reminded me to day of being in a foreign Country &amp; indeed in many respects it is very different, 
+                    the Maners, the Language, the music are all new now; we have seen a great Quantity of Goats &amp; a large flock came down to the road side while some young Cattle were grazing on
+                    <pb n="135v"/>
+                    <fw>f. 135v</fw>
+                    Green patches in the Rocks – I could not help watching their dexterity, &amp; asked the <persName ref="pe1633">postilion</persName>
+                    if ever it happened that <add place="above">any of</add> them fell from their vaste heights &amp; met with accidents, he said no, 
+                    <hi rend="underline">they</hi> never did, but that poor sheep often broke their necks by falling down from Rock to Rock, 
+                    &amp; yet I am sure we saw sheep &amp; cows &amp; <hi rend="underline">people</hi> too, who appeared to skip about the craggy places in as 
+                    <hi rend="underline">Masterly</hi> a manner as the Goats, we saw a very <placeName ref="pl2464">Romantic Bridge</placeName> thrown over the <placeName ref="pl1138">River</placeName> which rises near the Source of the <placeName ref="pl1138">Dee</placeName>, 
+                    and runs thro this <placeName ref="pl1517">Town of Dolegelly</placeName>, the country seems well cultivated up this Valley, 
+                    &amp; most part of it I understood belongs to <persName ref="pe1030">Sir R Vaughn</persName> whose <placeName ref="pl2474">house</placeName> is a few miles from here – his libery 
+                    still contains Manuscripts of the <hi rend="underline">6<hi rend="superscript">th</hi> Century</hi> when <persName ref="pe1645">prince <hi rend="underline">Arthur</hi></persName>
+                    <hi rend="underline">fought</hi>, &amp; <persName ref="pe1646"><hi rend="underline">Talliesan</hi></persName> <hi rend="underline">wrote</hi>
+                    and from which time, to the beginning of the wars of <placeName ref="pl0763">York</placeName> &amp; <placeName ref="pl0262">Lancaster</placeName>
+                    there where no Poets of such note; but all this you may Read of in <persName ref="pe1647 pe1648 pe1649">M<hi rend="superscript">r</hi> Renart M<hi rend="superscript">r</hi> Jones M<hi rend="superscript">r</hi> Evans</persName>
+                    &amp; many more antiquarians who have collected information <add place="above">from</add> this &amp; other Libraries, for as 
+                    <persName ref="pe1651">Montangne</persName> says, <hi rend="underline">Je N’enseigne point je raconte</hi>,<note type="editorial">‘I do not teach, I only tell’ – A quotation from Michel de Montaigne’s <hi rend="italic">Essays</hi>, Book 3, Chapter 2.</note>
+                    &amp; so I shall now resume my <hi rend="underline">pribbles</hi> &amp; my <hi rend="underline">prabbles</hi> about <placeName ref="pl0731">wales</placeName> - This
+                    <placeName ref="pl2477">Inn</placeName> is not unlike many German Inns I have seen, the Room we sit in is rather long than other wise, but it has bare walls, the chambers are what some persons I know would 
+                    not like much to occupie, but we are well <hi rend="underline">paid</hi> by what we have already seen, for a few small Inconveniences 
+                    &amp; after all fatigue is often as good as sauce for <hi rend="underline">sleep</hi>, as hunger is for <hi rend="underline">food</hi>.</p>
+                <pb n="136r"/>
+                <fw>f. 136r</fw>
+                <p>Balls have sometimes been given in this very Room, &amp; During the Assizes<note type="editorial">Assizes – Courts held in main county towns.</note>
+                    a few years ago, the Expences of one Ball were defrayed for a few shillings and till the new Irish road by <placeName ref="pl0740">Shrewsbury</placeName>
+                    <note type="editorial">New Irish road – The coaching route between Shrewsbury (beyond that, London) and Holyhead, through Llangollen and Corwen, was established by a Shrewsbury hotelkeeper, Robert Lawrence, in 1780. See Jamie Quartermaine, Barrie Trinder and Rick Turner, <hi rend="italic">Thomas Telford’s Holyhead Road: The A5 in North Wales</hi> (York: Council for British Archaeology, 2003), p. 8.</note>
+                    was made <del>no</del><add place="above">few</add> <hi rend="underline">English</hi> persons were ever known to <hi rend="underline">stray as far as this</hi>!
+                    &amp; the inhabitants of <placeName ref="pl0731">wales</placeName> about <placeName ref="pl0792">Wrexham</placeName> say that it was even surprising 
+                    <hi rend="underline">there</hi> to here of the Excessive Cheapness of provisions in this Neighbourhood, we have looked at the 
+                    <placeName ref="pl1333">Church</placeName><note type="editorial">St Mary’s Church, Dolgellau, contains a fourteenth-century effigy of a Nannau family ancestor, Meurig ab Ynyr Fychan (see <ref type="http" target="https://www.peoplescollection.wales/items/27644">here</ref>), which may be the monument referred to by Crewe in the following lines.</note>
+                    &amp; Church Yard since we arived, the first is a small old Building without pews in it with a Gallery above stairs, &amp; Benches below, the 
+                    last contains several Tombstones some of which they call <hi rend="underline">Cromlecks</hi> Erected one upon another rather in the 
+                    Stowhenge fashion,<add place="above">as</add> a few stones support one large one on the top, the Grandest Monuments we saw were those of
+                    <persName ref="pe1030">Sir R Vaughns</persName> Ancesters T<add place="above">he</add> <hi rend="underline">Nanny Family</hi> &amp;
+                    as the Name of his Estate &amp; Place is Nanny, I conclude that Goats which were calld <hi rend="underline">Nanny Goats</hi>
+                    first came from hence, &amp; this conjecture rather amuses me, because I till now always thought People said <hi rend="underline">Nanny Goats</hi>
+                    as they say <hi rend="underline">Baa</hi> lambs or <hi rend="underline">Moo</hi> Cows to please Children in a Namby Pamby way –</p>
+                <p style="center">Saturday <hi rend="underline">10, O Clock at Night</hi></p>
+                <p>At about 8, O Clock very soon after we had viewed the Church &amp; Tombstones our Curiosity led us to strole up into some Part of our Mountain, 
+                    &amp; as the Evening was fine we were out so long as to alarm the Servants for our safety
+                    <pb n="136v"/>
+                    <fw>f. 136v</fw>
+                    &amp; when we returned to our <placeName ref="pl2477">Inn</placeName> the <placeName ref="pe1651">Landlady</placeName>
+                    (who is an English woman) told us they were gone different ways in search of us, but it was quite impossible to return home while we had a Glimpse of Remaining light; 
+                    I am sure that unless you were used to such scenes as these, you can have no conception of what we beheld this Evening; <persName ref="pe0494">Shakespears</persName>
+                    <placeName ref="pl1381">dover</placeName> cliff View,<note type="editorial">A reference to Shakespeare’s King Lear, Act 4, Scene 1, where Gloucester contemplates committing suicide at Dover (‘There is a cliff, whose high and bending head looks fearfully in the confined deep: Bring me to the very brim of it, and I’ll repair the misery thou dost bear’). For a contemporary illustration of ‘Shakespeare’s Cliff’, by Turner, see <ref type="http" target="http://www.tate.org.uk/art/artworks/turner-girtin-dover-a-boat-on-the-shore-near-shakespeares-cliff-d36619">here</ref>.</note>
+                    has no resemblance to it, for we did not climb far Enough to produce the sort of <add place="above">giddy</add> sensation which more height Gives, but all was awful 
+                    &amp; tremendous that we viewed, &amp; the very winds blew in sounds Quite new to me: we rested sometimes in sort of Landing places, from which we heard Caskades 
+                    below, &amp; which <persName ref="pe1024">Miss Hayman</persName> &amp; <persName ref="pe1025">Emma</persName> walked out of my sight in search of the
+                    scented Gale<note type="editorial">Scented Gale – Myrica gale, shrub also known as bog myrtle or sweetgale.</note>
+                    which Grows about these hills &amp; some times perfumes the air, I stood still to contemplate the whole scene around me, which I defy anyone to have observed for some Minutes, without 
+                    great astonishment. Clouds where passing <del><gap unit="words" quantity="1" reason="illegible"/></del> <add place="above">below</add>
+                    the spot I stood upon, &amp; Mountains over them Bursting through still higher Clouds almost as if they themselves had motion! Heaven 
+                    &amp; Earth appeared to be Entangled, &amp; Each contending for effect – they lost to my poor eyes all distinctness of Character – “Each seemed either”
+                    <note type="editorial">A reference to John Milton, <hi rend="italic">Paradise Lost</hi>, Book 2, ll. 666-70 – a passage of the text in which Satan has just journeyed to the gates of hell: 
+                        <lb/>The other shape,
+                        <lb/>If shape it might be call’d that shape had none
+                        <lb/>Distinguishable in member, joynt, or limb,
+                        <lb/>Or substance might be call’d that shadow seem’d,
+                        <lb/>For each seem’d either…</note>
+                    till the setting sun at last shone forth again &amp; relieved me from this strange surprise – very soon after this my companions returned: 
+                    &amp; as the Night was coming on we determined on Returning to our <placeName ref="pl2477">Inn</placeName>, <persName ref="pe1024">Miss Hayman</persName>
+                    smiled when I told her my story &amp; expressed <hi rend="underline">my</hi> <hi rend="underline">amazements</hi>, and she assured me that what I had been witness to that
+                    <pb n="137r"/>
+                    <fw>f. 137r</fw>
+                    Evening was very common here, &amp; that she had once seen a whole Vale Envelop’d by a fog which fog by degrees rose into the form of a Cloud, 
+                    &amp; settled over <placeName ref="pl1519">Barmouth</placeName> the Cloud was illuminated by sunshine Extremely Bright, &amp; 
+                    as it rose the houses of the Town appeared one by one from under it, &amp; while she saw all this, she was riding very Quitely 
+                    with some friends on the opposite side the <gap unit="words" quantity="1" reason="illegible"/>, you must know that I dont think I should like much to 
+                    <hi rend="underline">live</hi> in these topsy Turvy Countries, where nature makes such havoc with ones senses, &amp; 
+                    so often insults poor old Experience! we mean to rise the lark tomorrow &amp; drive to <placeName ref="pl1519">Barmouth</placeName>
+                    where it is possible we may see the <placeName ref="pl1183"><hi rend="underline">Snowdonia</hi> or <hi rend="underline">Carnarvon</hi> Range</placeName> -</p>
+                <p style="center"><hi rend="underline">Sunday</hi> -</p>
+                <p>our Journey to <placeName ref="pl1519">Barmouth</placeName> answered very well, &amp; our weather is now more beautiful than it has been yet –</p>
+                <p style="center"><hi rend="underline"><placeName ref="pl1519">Barmouth</placeName></hi> -</p>
+                <p>To a large Village in the <del>Carnarvon</del><add place="above"><placeName ref="pl1241">Cardigan</placeName></add>
+                    <note type="editorial">illegible pencil insertion here</note> bay about 12 Miles from <placeName ref="pl1517">Dolegelly</placeName>
+                    the houses &amp; Inns here are all built against a <del>large</del> Rock which Juts out upon the ocean, &amp; many people think has a great Resemblance to 
+                    <placeName ref="pl1010">Gibralter</placeName>, the Rock being almost perpendicular for a length of way behind <add place="above">the</add>
+                    buildings, we saw some Vessels of a Middling size in which we were told Wool &amp; Flannels were shipped off from hence, &amp; 
+                    the great Trade of this Country is <hi rend="underline">woollen Manufactory</hi>, you see no women nor <hi rend="underline">Children</hi>
+                    who are not <hi rend="underline">knitting</hi>, &amp; it seems the men knit very much too, but I cannot say I saw more 
+                    <pb n="137v"/>
+                    <fw>f. 137v</fw>
+                    than one <hi rend="underline">man</hi> employing himself so, &amp; we all remarked it as a singularity they send all the work they do of this sort to 
+                    <gap unit="words" quantity="1" reason="illegible"/> &amp; <placeName ref="pl1669">Bala</placeName> fairs &amp; when we were at <placeName ref="pl1669">Bala</placeName>
+                    we bought some of the Curious works it being Fair time then, &amp; I got a pair of mens stockings for 10 pence which I shall keep as a Curiosity – but to 
+                    return to our own Histories we had a very Charming drive along the Sea side for several Miles before we arived at 
+                    <placeName ref="pl1519">Barmouth</placeName>, &amp; the Road which is lately made round the bottom of the Rocks is perfectly safe as well as good, the stone out of which it is cut is of a slaty Colour 
+                    &amp; we like wise saw a great Variety of Coloured Marbles scattered about the Ground when ever we took our walks &amp; 
+                    stopped <hi rend="underline">to look about us</hi>, there are two or three Inn at <placeName ref="pl1519">Barmouth</placeName>
+                    &amp; we were carried to Breakfast at that which contains the largest Company for people live in the same manner here <del>that</del>
+                    they do at <placeName ref="pl0008">Buxton</placeName>, <placeName ref="pl1884">Matlock</placeName> or any other publick places, &amp; 
+                    when<note type="authorial">[different hand:] ‘The Table D’hote has Continued almost the same as in <persName ref="pe1652">Chaucers</persName>
+                    time, in remote parts of this <placeName ref="pl0731">Kingdom</placeName>, &amp; I can remember when the <persName ref="pe1653">Landlord of Buxton</persName>
+                        Carved for Travellers in the old Hall there. –’. (f. 138r)</note>
+                    we found we could get some dinner at 3’ O Clock here <hi rend="underline">wether we ordered any or not</hi>, we were <hi rend="underline">determined</hi>
+                    in not Going Back till the Cool of the Evening, &amp; as soon as we had eat our Breakfast, we resolved on going to Church &amp;
+                    hearing the Service performed in the Welch Language which was Curious &amp; not unpleasant for once, the Language now appeared 
+                    to me very different from what it had ever done before, &amp; I though it much more pleasant it is true there is a sort of 
+                    <del><gap unit="words" quantity="1" reason="illegible"/></del> Gutral uncouthness in it to <hi rend="underline">English</hi>
+                    <hi rend="underline">Ears</hi>, but there is also something <hi rend="underline">grand</hi> &amp; <hi rend="underline">imposing</hi> in some words where
+                    <pb n="138r"/>
+                    <fw>f. 138r</fw>
+                    <note type="editorial">See note **</note>
+                    <pb n="138v"/>
+                    <fw>f. 138v</fw>
+                    <note type="editorial">See note **</note>
+                    <pb n="139r"/>
+                    <fw>f. 139r</fw>
+                    many vowels occur to open the mouth<note type="authorial">[different hand:] ‘– to read Welsh a right knowledge of the Alphabet in all that is necessary 
+                        <del><gap unit="words" quantity="1" reason="illegible"/></del> for <del><gap unit="words" quantity="1" reason="illegible"/></del>
+                        the letters retain one invariable sound which must be distinctly pronounced, as there are no muted letters those that are circumflexed must be pronounced long as 
+                        bôn like <hi rend="underline">bone</hi> <hi rend="underline">burn</hi> boon, <hi rend="underline">bin</hi> <hi rend="underline">been</hi> <hi rend="underline"/>,
+                        C as C English in Can but never soft as in City. – 
+                        <lb/>dd as <hi rend="underline">th</hi> in <hi rend="underline">then</hi> - being soft, not hard as in thought –
+                        <lb/>F. as V. in English
+                        <lb/>G as G English in God, but never soft as in <hi rend="underline">Genious</hi> &amp;c
+                        <lb/>U as <hi rend="underline">I</hi> in English as in <hi rend="underline">bliss</hi> <hi rend="underline">this</hi> it &amp;c. -
+                        <lb/><persName ref="pe1248">Warrington</persName>'s <bibl type="authorial"><title ref="bi0183">His.<hi rend="superscript">y</hi> of Wales. -</title></bibl></note>
+                    <note type="editorial">[‘To read Welsh’ – This passage is taken from a prefatory guide to Welsh pronunciation in William Warrington’s <hi rend="italic">The History of Wales, in Nine Books</hi> (1788). See p. ix. Warrington may in turn have borrowed this guide from a prefatory note in Edward Jones’s 1784 <hi rend="italic">Musical and Poetical Relicks</hi> (n.p.)]. (f. 138v)</note>
+                    freely, &amp; so as to Give Room for <hi rend="underline">Emphasis</hi> &amp; <hi rend="underline">Energy in long sentences</hi>
+                    &amp; there was a degree of <hi rend="underline">Nature</hi> <hi rend="underline">fervor</hi>, &amp; yet <hi rend="underline">decorum</hi>
+                    in the Responses from this simple Congregation as struck me to be particularly pleasing; the Church of this parish is two miles from the Inn where we were accommodated it is very old 
+                    &amp; pittoresque on the outside situated on a Rock near the sand we drove up on to it, &amp; so high as to require many steps (now all broken) to help one up to it, it has a bell on the 
+                    <hi rend="underline">outside</hi> which I think gives a degree of Beauty to such rural Buildings, <persName ref="pe1654">The Gentleman who officiated</persName>,
+                    was so good as Give his text in <hi rend="underline">our</hi> Language as well as his own in compliment to us, but his foreign accent was so prevailing that I hardly think we should have understood him had we 
+                    not known the verse in <bibl type="authorial"><title ref="bi0067">S<hi rend="superscript">t</hi>. Luke</title></bibl>, from which he preacht – 
+                    &amp; I understand that there are many Famelies still among the Gentry of <placeName ref="pl1221">North Wales</placeName>
+                    who cannot speak one word of English, we saw an Island from the Church Yard which we were told afterwards was 
+                    <placeName ref="pl2478">Barsey Island</placeName> about 7 Miles off, it is 2 Miles in length &amp; Contains one Village in which there are a few 
+                    Inhabitants Chiefly fisherman, there are (I understand) some druid ruins on it which people sometimes go to look at, &amp;
+                    like <add place="above">wise</add> a pretty Chappel built in the early ages of Christianity, &amp; still in good preservation; when we returned to our public Inn 
+                    or rather public house we heard that dinner would be served in the Hall at 3 O Clock, that the Company would not be very numerous as several persons were just gone, but that we might eat good fish &amp;
+                    <pb n="139v"/>
+                    <fw>f. 139</fw> 
+                    Mutton &amp;ca to a tune on the Harp if we chose it at two shillings &amp; four pence a head, wine Included, we then retired to rest about an hour in the heat of the day 
+                    &amp; about 3 O Clock heard a bell which summoned us to the Hall where we Joined the Company – the Table was far from being Crouded 
+                    &amp; would have held many more but we met with <add place="above">some</add> very Conversith as well as <hi rend="underline">odd</hi>
+                    persons of boath sexes, &amp; among the <hi rend="underline">odd</hi> was the famous <persName ref="pe1033">Poetess <add place="above">of <placeName ref="pl1017">Litchfield</placeName></add> Miss Seyward</persName>
+                    who I have no great Inclination to meet again tho for <hi rend="underline">once</hi>, she was rather entertaining, she appeared to no longer young, 
+                    but as if she had been rather handsome tho upon too large a scale, her manner &amp; conversation are just what one often sees in 
+                    <hi rend="underline">professed blue stocking Ladies</hi>, affected helplessness, &amp; affected pendantry, for her discourse always tasted of the 
+                    <hi rend="underline">Book</hi> she had read, &amp; nothing <hi rend="underline">Genuine</hi>, nothing engaging in what she said, her Enthusiasm seemed artificial when she described the Impressions which were 
+                    made upon upon her mind; by the scenery around her, &amp; her <hi rend="underline">Epithets</hi> were all so Undiscriminating that I should think it must be impossible she should have much power of penetration in her 
+                    understanding, you must know that I think nothing so soon betrayed <del><gap unit="words" quantity="1" reason="illegible"/></del>
+                    <add place="above">distorted taste</add> as <hi rend="underline">Misplaced</hi> <hi rend="underline">Epithets</hi>, the Chief topics of General 
+                    <unclear>convenatur</unclear> were, of Course, the vareous Beautiful scenes we had traveled through, every body felt interested about 
+                    <hi rend="underline">this</hi>, &amp; some of the Gentlemen at talk had much <hi rend="underline">local</hi> knowledge particularly one 
+                    <persName ref="pe1655"><hi rend="underline">Clergyman</hi></persName> who appeared to be a man of Letters as well as an Inhabitant of this Country, with him 
+                    <persName ref="pe1033">Miss Seyward</persName> fought stoutly about<note type="authorial">[different hand:] <persName ref="pe1656">Merlin</persName>
+                        <lb/><persName ref="pe1645">Arthur</persName>	}[bracket goes around all 4 names] all of the 6.<hi rend="superscript">th</hi> Century 
+                        <lb/><persName ref="pe1657">Vortigern</persName>
+                        <lb/><persName ref="pe1646">Talliesan</persName> 
+                    <lb/> 
+                        <lb/><persName ref="pe1646">Talliesan</persName><note type="editorial">Taliesin – Sixth-century Welsh bard whose verse is thought to survive in ‘Llyfr Taliesin’ (The Book of Taliesin’), a fourteenth-century Welsh manuscript. The ‘Taliesin tradition’ foregrounds his poetic craft and his reputed prophetic gifts, which together made him a key figure for later writers.</note> is Considered as the <persName ref="pe1107">Homer</persName> of
+                        <placeName ref="pl0731">Wales</placeName> the first Historian as well as Poet, &amp; he has in his Works transmitted such Vestiges 
+                        as throw new light on the knowledge &amp; manners of the ancient Britains, &amp; their druids. – Some of the translations I have seen of 
+                        <persName ref="pe1646">Talliesan</persName>'s Poetry breathe much the same fire which <persName ref="pe1658">M<hi rend="superscript">r</hi> Gray</persName>'s
+                        Muse was inspired by in our days – “ Thoughts that breathe”
+                        <lb/>"&amp; Words that burn”!<note type="editorial">[‘Thoughts that breathe’ – Thomas Gray, ‘The Progress of Poesy. A Pindaric Ode’, l. 110. See here <ref type="http" target="">http://www.thomasgray.org/cgi-bin/display.cgi?text=pppo</ref></note>
+                    <lb/>
+                        <lb/><persName ref="pe1656">Merlin</persName> I believe was famous as a Bard as well as Prophet but the Traditions concerning him are not so certain.
+                    <lb/><hi rend="underline">Welsh Fragments</hi></note>
+                    <placeName ref="pl2479"><hi rend="underline">Merlins Cave</hi></placeName> &amp; <placeName ref="pl2480">Arthurs Cradle</placeName>,
+                    &amp; the clasical Sonne of the <placeName ref="pl1138">River Dee</placeName>, which <hi rend="underline">she</hi> insisted upon it, 
+                    <hi rend="underline">her</hi> favourite poet
+                    <pb n="140r"/>
+                    <fw>f. 140r</fw> 
+                    <note type="editorial">See note **</note>
+                    <pb n="140v"/>
+                    <fw>f. 140v</fw>
+                    <note type="editorial">See note **</note>
+                    <pb n="141r"/>
+                    <fw>f. 141r</fw>
+                    <persName ref="pe1659">Spencer</persName> could <hi rend="underline">not</hi> mistake about; &amp; which 
+                    <hi rend="underline">he</hi> had placed in the <gap unit="words" quantity="1" reason="illegible"/> <unclear>Rocks</unclear>
+                    a few miles from thence, but which this Gentleman, <persName ref="pe1024">Miss Hayman</persName> &amp; several other persons at talk, 
+                    <hi rend="underline">assured her</hi>, took its rise <hi rend="underline">from a Bog</hi> some Miles farther off! Thus alass -
+                    <lb/>“Her doughty Giants all are slain or fled!
+                    <lb/>"&amp; all her Knights blue Green &amp; dead!<note type="editorial">George Crabbe, <hi rend="italic">The Library. A Poem</hi> (London 1781), p. 28.</note>
+                    <lb/>However (perhaps to <hi rend="underline">My</hi> shame) I could still have <del><gap unit="words" quantity="1" reason="illegible"/></del>
+                    <add place="above">condoled</add> with her this <hi rend="underline">Reasonable affliction</hi> if she had not provoked my spleen by 
+                    <del><gap unit="words" quantity="1" reason="illegible"/></del><add place="above">abruptly</add> asking me almost as soon as we began our meal, 
+                    &amp; in the presence of the <hi rend="underline">whole Table</hi> If I was not <hi rend="underline">the</hi> Lady Celabrated 
+                    in the famous poem of <persName ref="pe0484">M<hi rend="superscript">r</hi> Fox</persName>?<note type="editorial">Fox’s poem ‘To Mrs Crewe’ was written in 1775 and became widely known, reprinted in several periodicals and anthologies. For the full text of the poem, see Michael Allan (ed.), <hi rend="italic">An English Lady in Paris: the diary of Frances Anne Crewe 1786</hi> (Oxford-Stockley Publications, 2006), pp. 229-30.</note>
+                    – what could I say? I was distressed – but <hi rend="underline">forced</hi> to Stammer out <hi rend="underline">the truth</hi>,
+                    which was yes, &amp; that I considered it as <hi rend="underline">a very high honour</hi>, she was not satisfied with this, for she hallowed out 
+                    <hi rend="underline">across the Table</hi> to a Gentleman who sat opposite “this sir <hi rend="underline">is</hi> the Lady to whom
+                    <persName ref="pe0484">M<hi rend="superscript">r</hi> Fox</persName>'s beautiful poem was addressed”, we picked up many anecdotes which we heard conversed upon by Gentlemen who 
+                    dined at Table, &amp; who appeared to be <hi rend="underline">real</hi> Enthusiasts about their <hi rend="underline">own</hi>
+                    Country – its former Heroes, its minstrils, &amp; poetry, which <persName ref="pe1033">Miss Seyward</persName> seemed very inquisitive about, 
+                    &amp; one Gentleman repeated to her some lines<note type="authorial">[different hand:] 5. A Welsh Pennillion by <persName ref="pe1026">Iolo Goch</persName> in 1390. –
+                        <lb/>Duw tyner, Duw ner, Duw Nav
+                        <lb/>Duw erygledd – Duw Arglwydd gorruchav!
+                        <lb/>Duw yw vy mywyd am Dav
+                        <lb/>Duw bŷth, mis di-obeitheav</note><note type="editorial">A Welsh Pennillion – This stanza is attributed to <persName ref="pe1026">Iolo Goch</persName> in the 1794 edition of Jones’s <hi rend="italic">Musical and Poetical Relicks</hi> - see p. 76.</note>
+                    of one of their most Esteemed Bards, to prove how fond they had been of allitteration &amp; how ingeneous they were 
+                    <del><gap unit="lines" quantity="1" reason="illegible"/></del> to Compose good poetry by <del><gap unit="words" quantity="1" reason="illegible"/></del>
+                    severe Rules, this Poem was upon a relegeous subject, &amp; it is to be found
+                    <pb n="141v"/>
+                    <fw>f. 141v</fw>
+                    in <persName ref="pe1648">Jones</persName>'s <bibl type="authorial"><title ref="bi0185">colection of Welch fragments</title></bibl>
+                    I have looked at it since, but it is one of the few he has incerted <hi rend="underline">without translation</hi> in the course of their conversation there was much said about meetings which are still in use here – called 
+                    <hi rend="underline">Pennils</hi>,<note type="authorial">[different hand:] “with Charming Symphony they introduce 
+                        <lb/>Their pleasing Song, &amp; waken Raptures high!
+                        <lb/>No Voice Exempt, no Voice but well can Join
+                        <lb/>Melodious part” – <persName ref="pe1660">Milton</persName><note type="editorial">Milton – An extract, slightly misquoted, from Paradise Lost, Book 3, ll. 368-71. The misquotation (e.g. ‘Their pleasing Song’ for ‘Their sacred song’ in line 369) suggests that the author is quoting from Edward Jones’s <hi rend="italic">Musical and Poetical Relicks</hi> - see p. 31 (1784 edition).</note>
+                    <lb/>
+                        <lb/>So Varying still their Moods observing yet in all
+                        <lb/>their <hi rend="underline">Quantities</hi> their rests their <hi rend="underline">Ceasures Metrical</hi>
+                        <lb/>For to that sacred skill they most themselves apply
+                        <lb/>addicted from their birth to Poesie!
+                        <lb/>That in the Mountains those who scarce have seen <add place="above">a book</add>
+                        <lb/>Most skilfully will make as if from <hi rend="underline">Art</hi> they took!
+                        <lb/><persName ref="pe1661">Mychael Drayton</persName><note type="editorial">Drayton – A quotation from Michael Drayton’s epic topographical poem Poly-Olbion published in two parts in 1612 and 1622. See Song 4, ll. 185-90: <ref type="http" target="http://poly-olbion.exeter.ac.uk/the-text/full-text/song-4">here</ref> Pennant also quotes this passage in his account of the Eisteddfod, which may be the immediate source for this note in the text (see <hi rend="italic">A Tour in Wales</hi>, Volume 1, p. 478) (f. 142r)</note>
+                        <lb/><bibl type="authorial"><title ref="bi0519"><hi rend="underline">Poly Olbion</hi></title></bibl></note>
+                    or <hi rend="underline">Pennillions</hi>,<note type="editorial">Pennilllion – Literally ‘verses’ or ‘stanzas’; Welsh vernacular song.</note>
+                    one had been held at <hi rend="underline">this very Inn</hi> the Evening before last, &amp; on those occasions its seems it is the Custom for 
+                    <hi rend="underline">every body in</hi> Company to sing a verse round the harp, <del>Roscollion</del><add place="above">Nos Calan<note type="editorial">in pencil</note></add> 
+                    is the most common Tune, &amp; the easiest (they say) to adapt words to, which they either invent at <hi rend="underline">the moment</hi>,
+                    or <hi rend="underline">recollect out</hi> of <hi rend="underline">Other</hi> Songs, &amp; no Changes nor inovations which they ever had in this Country 
+                    have interfeared with this <add place="above"><del><gap unit="words" quantity="1" reason="illegible"/></del> very Ancient</add>
+                    <hi rend="underline">Custom</hi> they enjoy it <hi rend="underline">still very much</hi>, &amp; many very unlearned people are 
+                    <hi rend="underline">quick at it</hi>, &amp; they make matches of Pennillions against their Neighbours sometimes <hi rend="underline">parish</hi>
+                    against <hi rend="underline">Parish</hi> still just as they do with <hi rend="underline">Prison <unclear>Barrs</unclear></hi> in
+                    <placeName ref="pl1362">Cheshire</placeName> &amp; <placeName ref="pl1367">Staffordshire</placeName>, &amp; as they do with many more active Games all over 
+                    <placeName ref="pl0775">England</placeName>, I understand however that all this Poetry &amp; Singing is Generally accompanied with 
+                    <hi rend="underline">dancing</hi> here, &amp; that on a Sunday Evening, even about <placeName ref="pl0792">wrexham</placeName> 
+                    they danced very much of late, but since so many are become Methodists this wholesome Innocent amusement has been much left off 
+                    <hi rend="underline">on Sundays</hi> -</p>
+                <p style="center"><hi rend="underline"><placeName ref="pl1303">Corwen</placeName> Monday</hi> <hi rend="underline">afternoon</hi></p>
+                <p>
+                    we left <placeName ref="pl1517">Dolegelly</placeName> early this morning &amp; are baiting our horses here, our drive back from 
+                    <placeName ref="pl1519">Barmouth</placeName> to <placeName ref="pl1517">Dolegelly</placeName> in the Evening was much 
+                    <gap unit="words" quantity="1" reason="illegible"/> than we had in the Morning (as the tide was then low &amp; there was
+                    <pb n="142r"/>
+                    <fw>f. 142r</fw> 
+                    <note type="editorial">See note **</note>
+                    <pb n="142v"/>
+                    <fw>f. 142v</fw>
+                    <note type="editorial">blank</note>
+                    <pb n="143r"/>
+                    <fw>f. 143r</fw>
+                    a mist which almost obscured the Charming Vale we drove through &amp; a great part of the high Range of Rocks on our left were Eclipsed by passing clouds tho the effect at intervals, was 
+                    again wonderful, but it is <hi rend="underline">dangerous</hi> to attempt descriptions of this sort, &amp; one might almost as well attempt to describe the 
+                    sounds which we have heard this last half hour from the delightful harper of this place now playing to <persName ref="pe1034">Sir John Leicester</persName>
+                    &amp; his Company at dinner in the Room adjoining – our horses are quite well again &amp; we are travelling at our ease towards home we have now time Enough for all we mean to do, 
+                    we might make our Journey a more regular Tour if we would, by Going through <placeName ref="pl1246">Ruthin</placeName> bit I have not seen
+                    <placeName ref="pl0793">Langollen</placeName> <hi rend="underline">well</hi> in winter, &amp; I like to look at some places 
+                    <hi rend="underline">twice</hi> &amp; to enjoy them with <hi rend="underline">repose</hi> sometimes, rather than to be <hi rend="underline">always stunned</hi>
+                    by amazement &amp; <hi rend="underline">admiration</hi> as I have been lately! -</p>
+                <p style="center"><hi rend="underline"><placeName ref="pl0793">Llangollen</placeName></hi>, Evening same day</p>
+                <p>We have had a bright Sunshine all this day &amp; before we left <placeName ref="pl1303">Corwen</placeName> we walked to look at the 
+                    <placeName ref="pl1665">Church</placeName> &amp; Church yard, they are boath much the handsomest we have seen yet, &amp; they Contain antiquities of very great importance, 
+                    to so accurate &amp; minute an observer as <persName ref="pe0232">M<hi rend="superscript">r</hi> Pennant</persName><note type="editorial">See <hi rend="italic">A Tour in Wales</hi>, Volume 2, p. 70 for Pennant’s account of this place.</note>
+                    but to <add place="above">mere</add> <hi rend="underline">Clod Pole travelers</hi>, who come <hi rend="underline">after him</hi>
+                    like ourselves who have no <hi rend="underline">minds Eye like his</hi>, nothing but <hi rend="underline">General Enthusiasm</hi>,
+                    without <hi rend="underline">patriotism</hi> to <del><gap unit="words" quantity="1" reason="illegible"/></del> <add place="above">inspire</add>!
+                    <hi rend="underline">to us</hi>, very much is lost! the drive back from <placeName ref="pl1517">Dolegelly</placeName>
+                    tho full of Variety is not so good as <hi rend="underline">to it</hi>, the View of the lake &amp; approach to <placeName ref="pl1669">Bala</placeName>
+                    were better this way, but some <gap unit="words" quantity="1" reason="illegible"/> I think would Miss the Back Ground of 
+                    <placeName ref="pl1866">Cader Idris</placeName>, a good deal of the Road to <placeName ref="pl1303">Corwen</placeName> is rather <del><gap unit="words" quantity="1" reason="illegible"/></del><add place="above">dreary</add>
+                    <pb n="143v"/>
+                    <fw>f. 143v</fw>
+                    owing to the <unclear>Tuberies</unclear> which are very frequent all the way from thence to <placeName ref="pl1517">Dolegelly</placeName>, &amp; 
+                    even disfigure the very magnificent road from thence to <placeName ref="pl1519">Barmouth</placeName>, we have had a cheerful afternoon for the 
+                    <placeName ref="pl1258">Glendowry Vale</placeName> it is not possible to have seen it to Greater advantage, about 2 or 3 Miles from 
+                    <placeName ref="pl1303">Corwen</placeName> is the site of <placeName ref="pl2481">Glendowers Palace</placeName>, a fine old wood on the opposite side which once was a part of his Extensive Park 
+                    &amp; Orchard, so much celebrated in welsh verse, &amp; now belonging (I believe) to some of his descendants of the name of 
+                    <persName ref="pe1662">Owen</persName> who are in possession of this Estate <del><gap unit="words" quantity="1" reason="illegible"/></del>
+                    but who has not I think improved that part of it by <hi rend="underline">stick plantations</hi> over old Mounds of 
+                    <hi rend="underline">Earth</hi> &amp; <hi rend="underline">artificial projections</hi> of the Ground which <hi rend="underline">prove it</hi>
+                    to have been an <hi rend="underline">important</hi> spot, I hate to see the <hi rend="underline">Character</hi> of a place attacked, &amp;
+                    particularly in such large Extensive Grounds as these where one should think there must be full space Enough for the <hi rend="underline">preasant Generation</hi>
+                    but there is a rage to plant <hi rend="underline">tops</hi> of hills, &amp; yet all that we admire in fine natural prospects seems to be Just the Contrary, for it is the 
+                    <hi rend="underline">hollow</hi> at the <hi rend="underline">bottom</hi> of all hills that Give effect, I am wandering in too 
+                    <hi rend="underline">pittoresque a manner</hi> for the preasant purpose &amp; So I return, We stopped the Chaise for a few moments to admire the Ghost of Glendowes 
+                    habitation &amp; it was not unpleasant to reflect on all we had so lately read &amp; heard of a man so much connected with the most remarkable History of our own Country, to trace “the Irregular 
+                    <del>of</del> Wild Glendowr" the <hi rend="underline">Butt of Hotspur</hi>,<note type="editorial">See Shakespeare’s <hi rend="italic">Henry IV</hi>, Part 1 for the characters Hotspur and Glendower.</note>
+                    &amp; yet the Rival of one of Greatest Monarchs to his <hi rend="underline">Country house</hi>!! <persName ref="pe0232">M<hi rend="superscript">r</hi> Pennant</persName>
+                    quotes Glendower’s <hi rend="underline">own</hi> account of his conquest over <placeName ref="pl0775">England</placeName>, &amp;
+                    as it is a boast of <hi rend="underline">facts</hi> &amp; not of “Spirits from the <hi rend="underline">Vasty</hi> deep,"<note type="editorial">A quotation from <hi rend="italic">Henry IV</hi>, Part 1. See Act 3, scene 1, l. 51.</note>
+                    it is <hi rend="underline">fair to</hi> his <hi rend="underline">fame</hi> to see, it does not only Vibrate on <hi rend="underline">harpers strings</hi>,
+                    but in the <hi rend="underline">Hearts</hi> of all welch Patriots
+                    <pb n="144r"/>
+                    <fw>f. 144r</fw>
+                    “Three times did Henery Bolenbroke make head against my pow’rs – thrice on the banks of Roye &amp; Sandy bottom’d severn, I sent him weather beaten back” 
+                    but I am not sure I quote this passage right, as I cannot get at the Book this Minute<note type="editorial">Pennant quotes this passage from <hi rend="italic">Henry IV</hi>, Part 1 (3.1.61-4) in <hi rend="italic">A Tour in Wales</hi>, Volume 1. See p. 372.</note>
+                    – his talants as a Politician are as much remembered as if he had been <hi rend="underline">successful</hi> in <hi rend="underline">all</hi>
+                    his wars &amp; he knew at least the Powers of Poetry &amp; <hi rend="underline">Minstrelsy</hi> over the <del><gap unit="words" quantity="1" reason="illegible"/></del>
+                    <add place="above">hearts</add> of his own Countrymen, for the same Cunning which made our Edward destroy this unhapy 
+                    Class of men, encouraged <hi rend="underline">him</hi> to pay the Greatest Court to them, as <hi rend="underline">Historians</hi>
+                    who could easily transmit his deeds to a future Generation –</p>
+                <p style="center">“His Gallant actions still are told,
+                    <lb/>“By Youthful Bards, by Druids old.
+                    <lb/>“And <hi rend="underline">grateful Cambrias songs</hi>."<note type="editorial">A quotation from a translation by the Rev. Richard Williams (1747-1811), of Vron near Mold, of a praise poem to Glyndŵr by the bard Gruffudd Llwyd (fl. c. 1380-1410). This translation was first published as an appendix to John Thomas’s <hi rend="italic">History of the Island of Beaumaris</hi> (1775). The poem appears (along with several other translations by Williams) in Volume 1 of <hi rend="italic">A Tour in Wales</hi> (see pp. 334-8; see p. 336 for the stanza quoted here by Crewe). See also Dafydd Johnston, ‘Shaping a Heroic Life: Thomas Pennant on Owen Glyndwr’, in Mary-Ann Constantine and Nigel Leask (eds), <hi rend="italic">Enlightenment Travel and British Identities: Thomas Pennant’s Tours in Scotland and Wales</hi> (London and New York: Anthem Press, 2017), pp. 105-23.</note></p>
+                <p>And his old Bard call’d Gruffdd who lived at this Court for many Years Pathetically <hi rend="underline">laments him when he says –</hi></p>
+                <p style="center">“Thy sweet remembrance ever dear;
+                    <lb/>“Thy name still usher’d by a tear,
+                    <lb/>“My Inward anguish speak!
+                    <lb/>“How could thou Cruel Owen go?
+                    <lb/>“And leave the bitter tear to flow,
+                    <lb/>“Down Gruff<hi rend="underline">dd's</hi> <hi rend="underline">furrowed</hi> cheek?<note type="editorial">A further quotation from the poem referenced in note 46. See <hi rend="italic">A Tour in Wales</hi>, Volume 1, p. 335.</note></p>
+                <p>
+                    And another time when hope is not <hi rend="underline">quite</hi> lost, &amp; that the poor old Bard strikes his loudest notes, he says – </p>
+                <p style="center">“But terrible in war thou art
+                    <lb/>“And swift &amp; Certain is the dart
+                    <lb/>“Thou hurlest at a Saxons heart.”<note type="editorial">A further quotation from the poem referenced in note 46. See <hi rend="italic">A Tour in Wales</hi>, Volume 1, p. 338</note>
+                    <pb n="144v"/>
+                    <fw>f. 144v</fw>
+                    “Success &amp; Victory are thine,
+                    <lb/>“Owen Glendowry is divine;<note type="editorial">A further quotation, slightly misquoted, from the poem referenced in note 46. See <hi rend="italic">A Tour in Wales</hi>, Volume 1, p. 338</note></p>
+                <p>
+                    Sincs <hi rend="underline">his age</hi>, however, no battels were ever fought between the Saxons &amp; the Welch of any consequence, 
+                    &amp; Libery for many years declined in proportion <del><gap unit="words" quantity="1" reason="illegible"/></del><add place="above">to her being</add>
+                    <hi rend="underline">tyrannically</hi> sought <del>for</del><add place="above">after</add></p>
+                <p style="center"><hi rend="underline"><placeName ref="pl0792">Wrexham</placeName> Tuesday</hi> Evn<hi rend="superscript">g</hi></p>
+                <p>Soon after our arrival at <placeName ref="pl0793">Langollen Town</placeName>, we received a note from <persName ref="pe0954">Lady Ealenor Butler</persName>,
+                    &amp; <persName ref="pe0957">Miss Ponsonby</persName>, (the two <hi rend="underline">Hermit Ladies</hi>) to invite us to Breakfast with them this morning, accordingly about 9 O Clock we stroled 
+                    on foot to their Beautiful Retreat, we found a Breakfast Ready, Compos’d of the best things of every sort, &amp; we found a 
+                    <persName ref="pe1663">Daughter of Sir Roger Mostins</persName> &amp; <persName ref="pe1664">her husband M<hi rend="superscript">r</hi> Chanres</persName>
+                    paying a Visit to those Hospital Ladies, for <add place="above">tho</add> they live so secluded from the world themselves, &amp;
+                    never Stir for any time together from this Romantic place, they are obliging &amp; polite to all trave<add place="above">l</add>lers
+                    who come recomended by their own old friends in <placeName ref="pl0889">Ireland</placeName>, we walked over the whole of this little Paradise, 
+                    &amp; as we had the advantage of a Clear Morning, nothing could appear more Enchanting than the scenery around it, there is much of 
+                    <hi rend="underline">Corectness</hi> as well as <hi rend="underline">Variety</hi> in all they have done, for they have preserved the Gothic taste 
+                    <hi rend="underline">through out</hi>, &amp; not mixed it, as is so common with <hi rend="underline">modern</hi> ornaments when they first Established themselves here about 16 years ago the 
+                    <placeName ref="pl1614">Cottage</placeName> Consisted of a parlour &amp; Kitchen below stairs only, but by the addition of a library below 
+                    &amp; 2 or 3 small rooms
+                    <pb n="145r"/>
+                    <fw>f. 145r</fw>
+                    it has been large Enough to Contain their Family, which I understand consists of 3 Servants besides one old female who fled hither with them 
+                    &amp; who has ever since been a faithful Housekeeper &amp; Steward, the <placeName ref="pl0793">Town of Langollen</placeName>
+                    Supplies them very well with the necessaries of life, &amp; when they ever are visited by their friends from any Great distance, they procure good apartments for them at the Inn,
+                    It is but a few years however, &amp; since the <placeName ref="pl0740">Shrewsbury</placeName> road to <placeName ref="pl1018">Holy head</placeName>
+                    was made they they ever had any <hi rend="underline">Chance</hi> of seeing their Friends, I can remember well that a very short time ago no mortal liked to Venture by 
+                    <placeName ref="pl0793">Langollen</placeName> Roads &amp; it is most certain that these Ladies lived at a distance from all society for a long time after they sheltered themselves in this wild spot, 
+                    &amp; they were first discovered by their Neighbours, to be of the Better sort, by <del><gap unit="words" quantity="1" reason="illegible"/></del>
+                    <add place="above">some</add> Charitable acts they performed in their scattered Hamlet, it is but Justice however to them to observe that all who have Visited them, 
+                    agree in saying that neither the Missfortunes of their youth, not the life of Independent Solitude they have passed, have in the least degree produced Ill humour, or stiffness in their Manners, on the 
+                    Contrary, their discourse is Cheerful, Obliegeing &amp; Indulgent, there is no vain Cant, or stupid Pride about themselves in any thing they say, they talk with Praise 
+                    &amp; Gratitude of their own Neighbourhood, a great part of which has been very Constant in Friendly attentions towards them &amp;
+                    they lead a life which tho on the first View, appears to be very singular, is in fact no other than the life of persons neither Young nor rich, nor happy enough to Encounter 
+                    <hi rend="underline">Ill temper</hi> or <hi rend="underline">false Friendship</hi> any more – but I am not writing their History 
+                    &amp; Indeed who would wish to learn the History
+                    <pb n="145v"/>
+                    <fw>f. 145v</fw>
+                    of <hi rend="underline">unhappy</hi> <hi rend="underline">Broils in Families</hi>, &amp; so I return to where I set off which was from their 
+                    <hi rend="underline">Gothick Library</hi>:<note type="editorial">For a modern photograph of the library at Plas Newydd, showing an example of its stained glass, see <ref type="http" target="https://commons.wikimedia.org/wiki/File:Plas_Newydd_-_Bibliothek.jpg">here</ref>.</note>
+                    this Room is fitted up with Pictures &amp; Drawings Painted Glass &amp;c but rather too small to contain the number of things they have placed in it 
+                    &amp; a few feet more would have made it perfect their Books are most of them the finest Editions, not collected <hi rend="underline">regularly</hi>
+                    but at different times for them by their Friends who have taken this opportunity of making them rich preasants of Choice Editions – they are very fond of 
+                    Paintings and Drawings &amp; seem to have Great variety of these – the life they lead appears to be very healthful for they have much Exercise 
+                    &amp; Employment <hi rend="underline">our of Doors</hi> &amp; pride themselves in their Kitchen Garden, their Gravel walks, &amp;
+                    thick plantations which now Entirely hide the Neighbouring hutts - we saw <placeName ref="pl0794"><hi rend="underline">Derens</hi> <hi rend="underline">Beam</hi></placeName>
+                    <add place="above"><placeName ref="pl0794">Castel Dinas Bran</placeName></add><note type="editorial">superscript in pencil and different hand</note>
+                    or <placeName ref="pl0794"><hi rend="underline">Crow Castle</hi></placeName> (which ever you like to call it) much better from their window seat than from any part of the Road we have since past, it stands on a mountain which Soars above its fellows 
+                    <hi rend="underline">here</hi>, tho not a mountain which <hi rend="underline">goas to Mahomet</hi>, &amp; to be sought for 
+                    <hi rend="underline">only</hi> in the skies! this Castle is a most striking Object, <del><gap unit="words" quantity="1" reason="illegible"/></del>
+                    <add place="above">from</add> <placeName ref="pl0793">Langollen Valley</placeName>, &amp; at the bottom of this Valley the 
+                    <placeName ref="pl1138">River dee</placeName> appears to more advantage than it ever has done yet, &amp; the Hanging woods 
+                    &amp; waterfalls all are at <hi rend="underline">a very small distance</hi> from <placeName ref="pl1614">these Ladies Cottage</placeName>,
+                    in their <hi rend="underline">Greatest Glory</hi>, we asked if the Top of this high place ever discovered <hi rend="underline">Cloud Capt Towers</hi> like those
+                    <pb n="146r"/>
+                    <fw>f. 146r</fw> 
+                    <note type="editorial">blank page</note>
+                    <pb n="146v"/>
+                    <fw>f. 146v</fw>
+                    <note type="editorial">See note **</note>
+                    <pb n="147r"/>
+                    <fw>f. 147r</fw>
+                    Emminences we had left behind, &amp; were told that all mountains <add place="above">had</add> affective power, &amp;
+                    <hi rend="underline">this</hi> was frequently Envellop’d from <hi rend="underline">their</hi> view, but that it was but seldom, clouds rested 
+                    <hi rend="underline">long</hi> there being no <hi rend="underline">other</hi> hills of nearly equal height except at a Great
+                    <note type="authorial">[different hand:] “Mountains on whose barren breasts
+                        <lb/>The Lab’ring Clouds do often rest”<note type="editorial">Milton – A quotation from John Milton’s ‘L’Allegro’ (composed in the 1630s, first published 1645). See ll. 73-4. (f. 146v)</note></note>
+                    distance – that the Variety of tints on the different parts of this fine landscape, produced sometimes <add place="above">gave</add>
+                    Great delight to persons <hi rend="underline">fond of Painting</hi>, tho <persName ref="pe1245">M<hi rend="superscript">r</hi> Repton</persName>
+                    had called to desire admittance there last Summer, but from not knowing who he was, they had refused to see him – <placeName ref="pl0794">Crow Castle</placeName>
+                    has a Greater Effect than most other Castles I have seen, being a very <hi rend="underline">long</hi> Building at the 
+                    <hi rend="underline">very top</hi> of the mountain, so as to let in Light through all its appertures, it seems it was the Residence of Glendour’s greatest Enemy 
+                    <persName ref="pe1035">L Grey</persName>, &amp; had been famous long before that time as the <hi rend="underline">birth</hi>
+                    place of a princess who was the Constant theme of the Great <hi rend="underline"><persName ref="pe1036">Howels</persName> Muse</hi>:
+                    in short <hi rend="underline">they</hi> were the Laura and Petrauct<note type="editorial">Laura and Petrauct – A reference to the fourteenth-century poet and scholar Petrarch, who composed a body of work addressed to ‘Laura’ – a figure who may be real, pseudonymous or invented. Petrarch was particularly associated with the sonnet form, which underwent a major revival in the second half of the eighteenth century.</note>
+                    of these wild haunts, &amp; if you like to know <hi rend="underline">more</hi> <hi rend="underline">about them</hi>, look into some of the modern authors I have named,
+                    <note type="editorial">It is likely that Crewe encountered the story of Hywel and Myfanwy in Pennant’s Welsh tours (as the footnotes to her poem ‘Llangollen Vale’ show Anna Seward also did). For a translation of one of Hywel’s poems addressed to Myfanwy, translated by Richard Williams (see note 47), see <hi rend="italic">A Tour in Wales</hi>, Volume 1, pp. 298-301.</note>
+                    &amp; you will see many lines translated from the welch, written in the 12<hi rend="superscript">th</hi> Century by <persName ref="pe1036">Howel ap Einion</persName>
+                    upon my <gap unit="words" quantity="1" reason="illegible"/> <persName ref="pe1037"><hi rend="underline">Vichan</hi></persName> - 
+                    after taking leave of this good Company, &amp; being loaded with fine fruit for our Journey, we proceeded to the <hi rend="underline"><placeName ref="pl0785">Valy Cruses</placeName></hi>
+                    - <hi rend="underline">an ancient place formerly</hi>, once a <del><gap unit="words" quantity="1" reason="illegible"/></del><add place="above">Convent</add>
+                    of Cirestion Monks – many of the Cloisters are in the highest preservation &amp; it stands very low so as to admit nothing but 
+                    <hi rend="underline">Gloomy light</hi> through large old Trees which Grow Quite wild through the gothic arches, &amp; are Blended by time with the whole of the Remaining Building; here 
+                    we reposed ourselves once more, as this day is very hott, &amp; our approach had been by a walk over a style &amp; through an awkward path - &amp; 
+                    here we could have stayd all day, at least for several hours for there cannot be a more inviting spot the
+                    <pb n="147v"/>
+                    <fw>f. 147v</fw>
+                    only fault to be found in it is a Room built for the Convenience of those who carry Cold meat &amp; wish to dine there, &amp;
+                    who ever has contrived it has managed it as ill as possible – for <hi rend="underline">repose to the mind</hi> is spoilt by such 
+                    <unclear>Contrapted</unclear> Architecture, &amp; (as <unclear>Filburina</unclear> says) it quite ruins all ones feelings!</p>
+                <p style="center"><hi rend="underline"><placeName ref="pl0497">Newton</placeName> a mile from <placeName ref="pl0002">Chester</placeName></hi></p>
+                <p>
+                    <persName ref="pe1025">Emma</persName> &amp; I spent a very pleasant evening with friends at <placeName ref="pl0792">wrexham</placeName>
+                    who came to visit us at our Inn, we should have liked better to have been better lodged, as the day was warm &amp; the noise of the town by so much Military going through it, did not bring to mind the 
+                    <hi rend="underline">purling streams &amp; Gurgling brooks</hi> nor <hi rend="underline">dashing waterfalls</hi> we had been so familiar with of late, but the Landlady told us that 
+                    <persName ref="pe1038">M<hi rend="superscript">r</hi> Wilkinson</persName> (the Iron factor) had a <hi rend="underline">right</hi>
+                    to the <hi rend="underline">best apartment whenever he came into the Town</hi> &amp; as <add place="above">some</add> modern Philosophers rather 
+                    <hi rend="underline">wish to destroy all Old fashioned</hi> Gallantry from their <hi rend="underline">own sex</hi> to <hi rend="underline">ours</hi>,
+                    I was not surprized he enjoyed himself, &amp; his <persName ref="pe1665"><hi rend="underline">Negus</hi></persName> all the Evening in the 
+                    <hi rend="underline">Grand</hi> apartment &amp; Triumphed over us, poor Ladies in our little parlour next to the street below, Oh Madam (Says the Landlady) 
+                    <persName ref="pe1038">Mr Wilkinson</persName> <hi rend="underline">made</hi> <hi rend="underline">a bargain he</hi> should always have the <hi rend="underline">best</hi>
+                    apartment, &amp; once when the house was full &amp; <persName ref="pe0941">Sir Watkin</persName> was living upstairs with the Militia, 
+                    <hi rend="underline">he had him turned out</hi> because of <hi rend="underline">his right</hi> (to his <hi rend="underline">Iron</hi> <hi rend="underline">age</hi>
+                    we thought) we paid a Visit to <persName ref="pe1024">miss Hayman</persName> at <placeName ref="pl2482">her Mothers house</placeName>
+                    before we left <placeName ref="pl0792">Wrexham</placeName> &amp; were very sorry to part with her as we always are but she promised to let us shew her some of the little Lions of 
+                    <placeName ref="pl1367">Staffordshire</placeName><note type="editorial">Probably a reference to exterior features at Crewe Hall, such as the balustrades, which featured lions on alternate piers. A lion and griffin flanked the steps to the main entrance; see <ref type="http" target="https://historicengland.org.uk/listing/the-list/list-entry/1138666">here</ref></note>
+                    in return for the Gloreous scenes she had displayed to us, I shall say nothing of the 
+                    <pb n="148r"/>
+                    <fw>f. 148r</fw>
+                    Numerous beauties of this <hi rend="underline"><placeName ref="pl0792">wrexham</placeName> Neighbourhood</hi> as they may furnish a Journal for some future Day 
+                    <add place="above">but</add> tho they are in many respects preferable to those we have left at a distance they only <hi rend="underline">solicit</hi>,
+                    they do not <hi rend="underline">Storm</hi> <del><gap unit="words" quantity="1" reason="illegible"/></del> attention; when we arived
+                    at <placeName ref="pl0002">Chester</placeName> we found a busy scene for the Sherriffs Coach with <hi rend="underline">all its</hi> <hi rend="underline">pageantry</hi>
+                    was Going in <hi rend="underline">Procession</hi> to meet the Judges just coming into Town for the assises, &amp; as most of the Gentlemen of the grand Jury, 
+                    &amp; many more of Various descriptions were looking out of the <add place="above">Inn</add> window, <del><gap unit="words" quantity="1" reason="illegible"/></del> &amp; 
+                    we in a Manner found ourselves <hi rend="underline">to be part of a publick show</hi>, we were not sorry to Get Quitely out of the Town, &amp;
+                    sent our Message to <persName ref="pe1246">M<hi rend="superscript">r</hi> Crewe</persName> at the Inn instead of stopping there, we found 
+                    <persName ref="pe1040 pe1041">M<hi rend="superscript">r</hi> &amp; M<hi rend="superscript">rs</hi> Hesketh</persName>, <persName ref="pe1666">M<hi rend="superscript">r</hi> Lane</persName>,
+                    &amp; <persName ref="pe1667">M<hi rend="superscript">r</hi> Hinchcliffe</persName> very glad to see us but not expecting us so soon, Indeed considering that we were about only 
+                    <hi rend="underline">one week</hi> we have made Good use of our Time &amp; seen many things – I shall now look over my little Journal 
+                    &amp; if I recollect anything which I have omitted likely to amuse you I will put it down.</p>
+                <p style="center"><placeName ref="pl1506">Crewe Hall</placeName> Sunday 30<hi rend="superscript">th</hi></p>
+                <p>Continued two days at <placeName ref="pl0497">Newton</placeName> passed again through <placeName ref="pl0002">Chester</placeName> on Friday, where I met my 
+                    <persName ref="pe1043">Eldest Brother</persName> just landed from <placeName ref="pl1673">Dublin</placeName> &amp; after seeing our Friends in the Town, he returned with me here 
+                    &amp; stayd till this Morning – Yesterday I was employed in shewing him the water, farm, &amp; other Improvements of this place 
+                    <del>h</del>as it is many Years since he called, &amp; to day I have looked over my little <hi rend="underline">Welch Journal</hi>
+                    meaning to put down what ever occurs to my mind which I may have forgot
+                    <pb n="148v"/>
+                    <fw>f. 148v</fw>
+                    In the first place I forgot to mention the distances of the stages, from <hi rend="underline"><placeName ref="pl1506">home</placeName></hi> to
+                    <placeName ref="pl0792">Wrexham</placeName> <hi rend="underline">20 miles</hi>, to <placeName ref="pl0793">Langollen</placeName>
+                    <hi rend="underline">14</hi>, <placeName ref="pl1303">Corwen</placeName> <hi rend="underline">10</hi>, <placeName ref="pl1669">Bala</placeName> <hi rend="underline">10</hi>,
+                    <placeName ref="pl1517">Dolegelly</placeName> <hi rend="underline">18</hi>, <placeName ref="pl1519">Barmouth</placeName> <hi rend="underline">10</hi>,
+                    In the next place the roads were good all the way, wide Enough for 2 Carriages a breast, very smooth &amp; seldom steep – there are no attempts made to Climb Mountains of such Gigantic heights so that travelers 
+                    wind round the Edges of the Rocks instead, the Houses of the Towns &amp; Villages were built of slate Stone of which these Rocks are Compos’d &amp;
+                    have a more agreeable appearance than if they were Red brick, but do not look quite so Cheerful as whiter buildings in <placeName ref="pl0800">Cumberland</placeName>,
+                    tho perhaps they blend better, we saw many handsome women &amp; Children &amp; the men all appeared to me rather tall, but it seems this 
+                    <placeName ref="pl1235">Country of <hi rend="underline">Merioneth</hi></placeName> <hi rend="underline">was</hi> <hi rend="underline">ever</hi>
+                    <hi rend="underline">famous</hi> for the <hi rend="underline">Good</hi> looks <hi rend="underline">of its</hi> <hi rend="underline">Inhabitants</hi>,
+                    <note type="authorial">[different hand:] Translation of a Pennillon in the Early Ages. – 
+                    <lb/> 
+                        <lb/>In Mona’s Isle melodious notes resound
+                        <lb/>In <placeName ref="pl1443">Clwyds rich Vale</placeName> nectarous fruits abound
+                        <lb/>Flints Verdant tract Conceals the useful ore
+                        <lb/>Much its minerals fam’d for Women more
+                        <lb/><persName ref="pe1668">Rev.<hi rend="superscript">d</hi> M<hi rend="superscript">r</hi> Williams
+                            <lb/>of <placeName ref="pl1936">of Vron</placeName></persName><note type="editorial">Translation of a Pennillon – A quotation probably taken from Jones’s <hi rend="italic">Musical and Poetical Relicks</hi> (see p. 32 in the 1784 first edition). (f. 149r)</note></note>
+                    &amp; they are of a lower stature in most <hi rend="underline">other</hi> <hi rend="underline">parts</hi> <hi rend="underline">of <placeName ref="pl0731">Wales</placeName></hi>, there is nothing remarkable in the Dress of the Men, but the Women all wear black felt hatts 
+                    &amp; preserve the old <hi rend="underline">English Mob</hi><note type="editorial">Mob [cap] – Cloth cap, usually with a frilled edge, typically worn indoors by women in this period.</note>
+                    so nearly lost in <placeName ref="pl0775">England</placeName>, the Cottages we saw were much more tight &amp; good than those in 
+                    <placeName ref="pl0935">Derbyshire</placeName> but few of them had any Gardens except very near the Town, The Inns were not clean any where 
+                    &amp; less so at <placeName ref="pl1517">Dolegelly</placeName> &amp; <placeName ref="pl0793">Langollen</placeName>
+                    than any other places, however I think I heard they were soon to be improved, the provisions good all the way &amp; 
+                    the Mutton of so high a flavour that some have objected to it from its resemblance to game they served up a pickle made of samphire which we liked very well – we likewise found good fish <hi rend="underline">every where</hi>, &amp; tasted of a fish
+                    <pb n="149r"/>
+                    <fw>f. 149r</fw>
+                    <note type="editorial">See note **</note>
+                    <pb n="149v"/>
+                    <fw>f. 149v</fw>
+                    <note type="editorial">Blank page</note>
+                    <pb n="150r"/>
+                    <fw>f. 150r</fw>
+                    Called the gurnard peculiar to the <placeName ref="pl1927">Lake of Bala</placeName>, &amp; admired <add place="above">very much</add>
+                    by all <hi rend="underline">Connoisseurs in Eating</hi>, it has been compared to fish of different sorts, but struck us to resemble Whiting more than any thing else, we met with Vegetables of 
+                    all sorts besides good Potatoes, &amp; the Poultry at the <placeName ref="pl1519">Barmouth</placeName> ordinary was remarkably fine, the Common people of this Country live more upon oat 
+                    <hi rend="underline">Cake &amp; mead</hi> than on bread &amp; beer, so that a scarcety of Wheat to them will never <add place="above">be</add>
+                    such a Grievence as it is to us, they have likewise liquor made of Berries from their Rocks &amp; we were very desirous of seeing what they call 
+                    <hi rend="underline">cloud</hi> <hi rend="underline">Berries</hi> which grow only on the very tops of the Mountains but these of Course are scarce, I thought the people in General looked comfortable 
+                    &amp; happy they are much more Cheerful &amp; Cordial in their manners than the English people I had an opportunity of seeing them in their fair of 
+                    <placeName ref="pl1669">Bala</placeName> <hi rend="underline">quite at their ease</hi> &amp; much more merry than I have seen them at the fair of 
+                    <placeName ref="pl0002">Chester</placeName>, I dont recollect our meeting any beggars except a very few little tumbling Children on the road, we passed by some Gentlemens houses which seemed good, 
+                    &amp; Comfortable from additions which have been made to them as family seats, but I do not believe we were near any fine places between 
+                    <placeName ref="pl0793">Langollen</placeName> &amp; <placeName ref="pl1519">Barmouth</placeName> tho I heard of some that are likely to become so from 
+                    <persName ref="pe1245">M<hi rend="superscript">r</hi> Reptons</persName> improvements, the Famely seats in <placeName ref="pl0731">wales</placeName> were not attended to in former days as they were with us, &amp;
+                    I should suppose but little was ever done in Countries where there are so many Natural advanges, <placeName ref="pl1221">North wales</placeName>
+                    retains the same Hospitality it was ever famous for, &amp; we had an instance of this in our short Excursion, as we were lodged very well in 
+                    <placeName ref="pl1669">Bala</placeName> at a Gentlemans house, the Inns being all full, the Gentleman was out himself, but we received as much attention from his Servants, by the by we discovered <hi rend="underline">there</hi>
+                    <pb n="150v"/>
+                    <fw>f. 150v</fw>
+                    how much they are behind us in the dress of Children, which still in some measure confines the limbs of their <hi rend="underline">infants</hi><note type="editorial">A reference to the practice of swaddling.</note>
+                    but the welch are still in an ignorant tho not a rude state according to <hi rend="underline">ones</hi> sense of the word a few years ago there was a Malitia  meeting in
+                    <placeName ref="pl1517">Dolegelly</placeName> at the sign of <hi rend="underline"><placeName ref="pl1898">the Angel</placeName></hi>,
+                    the Inn keeper paid a Complement to the Col.<hi rend="superscript">n</hi> by dressing the sign in <hi rend="underline">Regimentals</hi>, &amp; 
+                    the wings of the Angels remained till within these few years, <hi rend="underline">sticking</hi> out of <add place="above">each<note type="editorial">different hand</note></add>
+                    sleeve of the <hi rend="underline">Red Coat</hi>, this story <persName ref="pe1024">Miss Hayman</persName> assured me was fact – there are not many Post Horses out of the Irish road but they are beginning to get more since 
+                    <hi rend="underline">they are beginning</hi> it has become the fashion for People to Bath at <placeName ref="pl1519">Barmouth</placeName> &amp; to make <gap unit="words" quantity="1" reason="illegible"/>,
+                    the road was crowded <del>all</del> this whole summer, &amp; the Inn keeper said they never were so over run with Company, we heard of the 
+                    <persName ref="pe1044">Margrave of Anspach</persName>, <persName ref="pe1045">L<hi rend="superscript">d</hi> Mansfield</persName>,
+                    <persName ref="pe1247">L<hi rend="superscript">d</hi> Cliffden</persName>, <persName ref="pe1669">M<hi rend="superscript">r</hi> Douglas</persName>, 
+                    <persName ref="pe1034">S. J. Leicester</persName>, &amp; several more whose names we knew – If ever you make a Tour into 
+                    <placeName ref="pl0731">wales</placeName> you must not forget to take <persName ref="pe0232">M<hi rend="superscript">r</hi> Penant</persName>, he bestows all his tediousness upon your worship that is Certain but 
+                    <hi rend="underline">on the spot</hi>, this makes him very satisfactory, &amp; if you wish to read a History of <placeName ref="pl0731">wales</placeName>
+                    <bibl type="authorial"><title ref="bi0183">M<hi rend="superscript">r</hi> Warringtons</title></bibl> Is reckoned the best, I have not Got him yet, but from the Peep I had when I borrowed it, it appeared to me 
+                    as if his style was pleasant, the welch recommend his as more <hi rend="underline">Just</hi> than former writers &amp;
+                    <pb n="151r"/>
+                    <fw>f. 151r</fw> 
+                    <note type="editorial">blank page</note>
+                    <pb n="142v"/>
+                    <fw>f. 142v</fw>
+                    <note type="editorial">See note **</note>
+                    <pb n="152r"/>
+                    <fw>f. 152r</fw>
+                    Complain much for the misrepresentations made of their Country by our Histories not only from their <hi rend="underline">injustice</hi>,
+                    but from their ignorance <add place="above">particularly</add> of the British tongue, many of them say that there are Manuscripts 
+                    <hi rend="underline">existing</hi> still which prove they were a Greater people in that part of the Island, than in any other, Long before, 
+                    &amp; since the conquest, &amp; that it has been an injury <add place="above">to</add> them to have it supposed them <hi rend="underline">only</hi>
+                    <hi rend="underline">runaways from <placeName ref="pl0775">England</placeName></hi> when they have so many Estates and Pedigrees to prove them to have stood firm upon 
+                    <hi rend="underline">their own soil</hi>, they say that most things considered as Luxuries in <hi rend="underline">other</hi>
+                    Countries could never <hi rend="underline">compensate to them</hi> for the loss of blessings they enjoy at home, that they were were, 
+                    &amp; ever shall be an <hi rend="underline">Indolent</hi> tho a <hi rend="underline">brave</hi> race of People, &amp; that the long habit they have been in, of Cultivating their 
+                    <hi rend="underline">Imagination</hi> more than their <hi rend="underline">lands</hi>, has in a manner unfitted them for Philosophy of any 
+                    <hi rend="underline">other sort</hi>! the Manners<note type="authorial">[different hand:] ‘Early Poetry has certainly in all Countries been known to give the most Exact Picture of Life 
+                        &amp; manners &amp; is much wished therefore by some of the Learned, that writings of Welsh Bards sh.d be Explored &amp;
+                        published not merely as <gap unit="words" quantity="1" reason="illegible"/> of Poetical &amp; Philosophical pleasure, but as stores of Hystorical Information
+                        <lb/><persName ref="pe1648">Jones</persName>'<note type="editorial">[‘Early poetry’ – A quotation adapted from Jones’s <hi rend="italic">Musical and Poetical Relicks</hi>, p. 10 (1784 edition) (f. 151v) </note></note>
+                    of the too Countries are certainly at this small distance very distinct, &amp; they still preserve many of the old feudal fashions quite lost with us, the History of their Bards contains histories of 
+                    <hi rend="underline">our</hi> Country which they Laugh at <hi rend="underline">us</hi> for not knowing <hi rend="underline">as well</hi>
+                    as they, &amp; it is but very lately that they have recovered from their bitter resentment towards us which they found Cherished in many ungenerous &amp; impolitic Chronicles.
+                    <pb n="152v"/>
+                    <fw>f. 152v</fw>
+                    of their tribes, but this whole Country is so wild &amp; romantic in most respects, that even <persName ref="pe0232">M<hi rend="superscript">r</hi> Penant</persName>
+                    (a very litteral &amp; cold author) who gives as it where an <hi rend="underline">inventory</hi> of every thing <add place="above">he sees</add>
+                    finds it impossible when he travils where <hi rend="underline">we</hi> <hi rend="underline">have</hi> <hi rend="underline">done</hi>,
+                    to avoid taking a <hi rend="underline">poetical</hi> as well as an Historical View of the Morals &amp; manners of <hi rend="underline">old</hi>
+                    <hi rend="underline">Britains</hi> &amp; he frequently deviates from <hi rend="underline">reason</hi> into <hi rend="underline">sentiment</hi>
+                    when he writes such Customs as can <hi rend="underline">never</hi> be accounted for except by the <hi rend="underline">irregular</hi>
+                    laws of Unrefined <hi rend="underline">Enthusiasm</hi>! their love for music has been ever the same, the Crwth<note type="authorial">[different hand:] ‘The Rebec I believe was much like the Crwth, an 
+                        <hi rend="underline">imperfect fiddle’</hi> (f. 153r)</note><add place="above">12</add> I fancy by what I have heard, 
+                    was an imperfect fiddle, It is Quite lost now, &amp; <persName ref="pe1024">Miss Hayman</persName> told me she had hardly any recollection of it, but the Harps they play upon, are heard, or seen 
+                    <hi rend="underline">still</hi> in the Corner of every Hall, they are of the same shape as the German harps, they have no pedals, but a Contrivance Sometimes on the top for Changing keys, 
+                    &amp; they produced accidental flats &amp; sharps with great ease since <persName ref="pe1046">M<hi rend="superscript">Parrey</hi></persName>
+                    added another row of strings, before this time I should think players must have found the Instrument perplexing, however it is surprising to observe the dexterity with which the meanest of them run up and
+                    <pb n="153r"/>
+                    <fw>f. 153r</fw> 
+                    <note type="editorial">see notes ** and **</note>
+                    <pb n="153v"/>
+                    <fw>f. 153v</fw>
+                    <note type="editorial">See note **</note>
+                    <pb n="154r"/>
+                    <fw>f. 154r</fw>
+                    Down the notes, &amp; one must be dull indeed not to be struck through &amp; through with <hi rend="underline">wonder</hi>
+                    the <hi rend="underline">first</hi> time one sees so many of these simple People display skill &amp; tallant in music, so 
+                    <hi rend="underline">disproportioned</hi> to their Sciences in General, for they are not to be compared to <hi rend="underline">common</hi>
+                    <hi rend="underline">fiddlers</hi> found in every street, who play <hi rend="underline">Mechanically</hi>, nor is the harp an instrument of simple melody, even in 
+                    <hi rend="underline">common</hi> hands <hi rend="underline">here</hi>,for it is playd with <hi rend="underline">taste</hi> &amp; <hi rend="underline">feeling</hi> &amp;
+                    a Variety of Arpeggios to the same Air, which as <hi rend="underline">never</hi> could be produced without much <hi rend="underline">knowledge in the Art</hi>,
+                    &amp; much still Conjectured concerning the <hi rend="underline">Origin</hi> of the welch Harp but I believe that doctors all differ still, 
+                    <del>that</del><add place="above">the</add> best harpers we heard were at <placeName ref="pl1303">Corwen</placeName> &amp; <placeName ref="pl0793">Langollen</placeName>,
+                    &amp; one of these was a poor Woman who swept the strings as if she had been inspired: &amp; tho the profession is not encouraged as it was a few years ago – I believe some 
+                    <hi rend="underline">Charitable</hi> <unclear>rites</unclear> are still <hi rend="underline">retained for blind people</hi>
+                    such as belonged to the <hi rend="underline">laws of their Eisteddfods</hi>, the sounds of the welch harp are too loud for small Rooms, but in the 
+                    <hi rend="underline">open</hi> Air or in <hi rend="underline">large</hi> Halls they are delightfull! the people here appear to love harmony<note type="authorial">[different hand:]
+                        wondrous Men!
+                        <lb/>“Ye whose skilled fingers know how best to lead
+                        <lb/>“Through all the <hi rend="underline">Maze of Sound</hi>, the wayward Step
+                        <lb/>“Of Harmony, recalling oft &amp; oft,
+                        <lb/>“Permitting her unbridled Course to rush
+                        <lb/>“Through dissonance of Concord! sweetest then
+                        <lb/>“Ev’n when expected harshest”<note type="editorial">[‘wondrous Men’ – a quotation from William Mason, <hi rend="italic">Caractacus, A Dramatic Poem</hi> (London: R. and J. Dodsley, 1759), pp. 26-7. (f. 153v)</note></note>
+                    more than <hi rend="underline">Melody</hi> for they Give the <hi rend="underline">Chord</hi> of almost every <add place="above">note</add>
+                    &amp; deal so much in arpeggioas <add place="above">as</add> to make it distracting
+                    <pb n="154v"/>
+                    <fw>f. 154v</fw>
+                    Sometimes to moderate lovers of the Instrument, not anxious to follow the original air through all its mazes – but 
+                    <add place="above">to</add> <hi rend="underline">real</hi> Enthusiasts, a <hi rend="underline">number of harpers playing all together</hi><note type="authorial">[different hand:]
+                        ‘– And the sound
+                        <lb/>Symphonious of ten thousand Harps that tuned
+                        <lb/>Angelic Harmonies! –’<note type="editorial">‘And the sound’ – A quotation from Milton, Paradise Lost, Book VII, ll. 558-60.</note></note>
+                    <lb/> 
+                        <lb/>“Angelic Harps are in full Concert heard
+                        <lb/>And Voices Chanting to the wood Crown’d Hills!<note type="editorial">‘Angelic Harps’ – A quotation from James Thomson, ‘Summer’ (first published 1727), ll. 558-9. (f. 155r)</note>
+                    as they did at one of our Kings Coronations, must have had a wonderful Effect! I herd no singing while I was in
+                    <placeName ref="pl0731">wales</placeName> except the Spalms at Church &amp; they were much the same as ours not in Unison as in some Churches, but in different Parts, – It would be wanting in respect to the 
+                    <hi rend="underline"><placeName ref="pl1138">River Dee</placeName></hi> (which <persName ref="pe1660">Milton</persName> 
+                    says “spreads her wizzard streams, where our old Bards the <add place="above">famous</add> Druids Lye”)<note type="editorial">Adapted from John Milton, <hi rend="italic">Lycidas</hi> (composed 1737, first published 1738), ll. 53 and 55.</note>
+                    not to say something more, than that we traced it to its very source! Its broadest Channel is (I believe) close to the walls of 
+                    <placeName ref="pl0002">Chester</placeName>, &amp; it has a dignified appearance on its approach to that venerable City, &amp; much
+                    Importance as a <hi rend="underline">great River</hi> for several miles, but it was <hi rend="underline">after this</hi>, &amp; when it was both 
+                    <hi rend="underline">borrowing</hi> &amp; <hi rend="underline">lending</hi> Graces to their objects, that it became <hi rend="underline">most</hi>
+                    Enchanting; &amp; as if with its <add place="above">own</add> sparkling rays, it Illuminates the whole view near us! often did we observe it in these splendid Valleys acting 
+                    <hi rend="underline">vareous parts</hi> &amp; Oh then it was we became quite dazzled! &amp; so delighted were we with all these scenes, &amp;
+                    so fatigued with our own barren Exclamations, that we all agreed to be <hi rend="underline">quite silent</hi> – I recollect that while near the new bridge 
+                    &amp; while in <placeName ref="pl1258">Glendowry</placeName> &amp; <placeName ref="pl0793">Langollen Vales</placeName>,
+                    we hardly ever spoke! or if we did, 
+                    <pb n="155r"/>
+                    <fw>f. 155r</fw> 
+                    <note type="editorial">See note **</note>
+                    <pb n="155v"/>
+                    <fw>f. 155v</fw>
+                    <note type="editorial">blank page</note>
+                    <pb n="156r"/>
+                    <fw>f. 156r</fw>
+                    It was only between long pauses that <add place="above">involuntarily</add> we cried out sometimes <add place="above">all togther</add>,
+                    did you ever? no never – “the Gods need not make one <hi rend="underline">very poetical</hi>" to be susceptible to impressions from scenery so 
+                    <hi rend="underline">rich</hi> as to excite <hi rend="underline">Gratitude</hi> as much as <hi rend="underline">admiration</hi>, &amp;
+                    which no mortal has ever Yet seen with out <hi rend="underline">some</hi> Emotion! as is it adressed   itself as much to the 
+                    <hi rend="underline">soul</hi> as to the <hi rend="underline">Eyes</hi> of all beholders “<hi rend="underline">the pomp &amp; prodigality of Heaven</hi>",<note type="editorial">A quotation from Thomas Gray’s ‘Stanzas to Mr Bentley’ (composed c. 1751-53). Richard Bentley illustrated six of Gray’s poems in a volume published in 1753. For the text of the poem, see <ref type="http" target="http://www.thomasgray.org/cgi-bin/display.cgi?text=stbe">here</ref></note>
+                    but I have done – because I know that <hi rend="underline">raptures</hi> are not <hi rend="underline">transferable</hi>; how ever pray make this Journey yourself; Remember I do not Recomend these Countries as
+                    <hi rend="underline">Constant habitations</hi>, for I believe many Inconveniences would be Experienced, which <hi rend="underline">we all</hi>
+                    Escape who live Else where, but Excursions like these are pleasant Episodes in ordinary life, &amp; afford <hi rend="underline">wholesome</hi>,
+                    as well as <hi rend="underline">Cheerfull</hi> Holidays to the Imagination –</p>
+                <p style="right">Finis</p>
+                <p><handShift/>“Let us all ring <hi rend="underline">Fancy's</hi> Knell
+                    <lb/>I’ll begin it – ding dong Bell”<note type="editorial">A quotation from Shakespeare, <hi rend="italic">The Merchant of Venice</hi>, Act 3, scene 2, ll. 69-70.</note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

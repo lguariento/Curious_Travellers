@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1381">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Lloyd, Caerwys, to Thomas Pennant, 8 September 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>15422C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                        
+                    </msContents>
+                    
+                    <physDesc><additions><hi rend="italic"> in pencil</hi>:<lb/>  3600<lb/>
+                        4<lb/>
+                        ----<lb/>13400
+                    </additions></physDesc>
+                    
+                    <additional><p><hi rend="italic">Condition</hi>: There is a small tear in the paper.</p></additional>
+                </msDesc>
+               
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0333">John Lloyd</persName>
+                    <date when="1777-09-08"/>
+                    <placeName ref="pl1201">Caerwys</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1382"/>
+                    <ref type="prev" target="ct1380"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline/><salute>D<hi rend="subscript">r</hi>
+                        Sir</salute></opener>
+                
+                <p>I am glad that you are convinc,<hi rend="superscript">d</hi> about the scene of this <placeName ref="pl1315">Battle</placeName>; vide 
+                    Cadlys in <bibl type="authorial"><title ref="bi0607">Davies’s Dictionary</title></bibl> &amp;, 
+                    I believe, you will find it <sic>Renderd</sic>  
+                    Palatuim Castrense, from Cad an army &amp; Llys palace. I have no doubt that this spot 
+                    was <persName ref="pe0495">Owen</persName>’s head quarters, near it are several Circular mounts,
+                    whether Sepulchral 
+                    or defensive I can’t pretend to determine as it is at least twenty years since I saw them, 
+                    I think they are well worth a Review, especially as you intend giving an account of the 
+                    Battle. – Above <placeName ref="pl1312">Bagill pentre</placeName> stands an eminence, calld
+                    to this day <placeName ref="pl1313">Bryn 
+                    dychwelwch</placeName>, this last word is the imperative of the verb dychwelyd, &amp; signifies 
+                    return or retreat. I make no doubt that <add place="above">it</add> was the Spot, whence 
+                    <persName ref="pe0495">Owen</persName> Issued 
+                    such a Command, before his army retreated to <placeName ref="pl1314">Kil owen</placeName>; The Singularity 
+                    of 
+                    <add place="above">the</add> name is <add place="above">a</add> Convincing proof.<note type="editorial">For Pennant's close
+                        use of the material communicated in this letter, see <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), I, p. 86.</note>  If you please, 
+                    I will accompany you to view 
+                    these places &amp; likewise a large<unclear>r</unclear> <unclear>a</unclear>rtificial  mount that 
+                    stands, as I was inform,<hi rend="superscript">d</hi>, 
+                    about a mile above the <placeName ref="pl1289">Town of Flint</placeName>. 
+                    –<note type="editorial">There is a gap left in the manuscript here.</note> I am sorry to find that 
+                    your 
+                    pain still continues &amp; hope that 
+                    you bear it like a true Philosopher. – I remain with my best Respects to <persName ref="pe0238">M<hi rend="superscript">rs</hi> 
+                    Pennant</persName> &amp;c</p> 
+                <closer><salute>your very Humble Sert &amp;c<lb/></salute>
+                    <signed><persName ref="pe0333">John Lloyd</persName></signed>
+                    <dateline><placeName ref="pl1201">Caerwys</placeName>
+                        Sept<hi rend="superscript">r</hi> 8: 1777</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant Esq<hi rend="superscript">r</hi></persName></addrLine>
+                        <addrLine><placeName ref="pl0001">Downing</placeName></addrLine>
+                    <addrLine/>
+
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

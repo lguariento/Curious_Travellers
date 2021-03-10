@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1372">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Lloyd, Hafodunos and Wigfair, 4 January 1791</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>NLW</repository>
+                        <idno>12421D</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1791-01-04">4 January 1791</date>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0803">John Lloyd</persName>
+                    <placeName ref="pl1369">Wigfair</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1373"/>
+                    <ref type="prev" target="ct1371"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Dear Sir</salute></opener>
+                
+                <p>That many happy returns of this season may attend you is the united wish of this family.</p>
+                
+                <p>I shall not trouble you with attending on the affair of the <unclear>hollies</unclear> which is made up on honorable terms. The 
+                    advertisement is gone to the post,<note type="editorial">This advertisement of 4 January 1791 has not been identified.</note> 
+                    &amp; I hope the example will be followed by y<hi rend="superscript">r</hi> county. If I omit any <unclear>atrititive</unclear> 
+                    men it is thro' forgetfulness. <persName ref="pe0819">Messrs Smalley &amp; Co</persName> desire me to add a<del><gap reason="illegible" unit="letters" quantity="1"/></del> declaration on their part to be printed at the foot of our advertisement. Let us be civil, 
+                    but firm.</p>
+              
+                <p>Adieu</p>
+                
+                <closer><salute>Y<hi rend="superscript">rs</hi> faithfully
+                </salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed></closer>
+                <dateline><placeName ref="pl0001">Downing</placeName> Jan<hi rend="superscript">y</hi> 4<hi rend="superscript">th</hi> 1791</dateline>
+                
+            </div>
+            
+            <div>
+                <p><address><addrLine><persName ref="pe0803">John Lloyd esq<hi rend="superscript">r</hi></persName><lb/> 
+                    <placeName ref="pl1369">Wŷg Fair</placeName> ––––––
+                    </addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

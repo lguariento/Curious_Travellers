@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1171">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>48 1-2</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1793-09-03"/>
+                    <placeName ref="pl1013">North Court</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir.</salute> <dateline><placeName ref="pl1013">North Court</placeName> <placeName ref="pl1020">Isle of Wight</placeName> September 3<hi rend="superscript">d</hi>. 1793.</dateline></opener>
+                <p>I am often going in <hi rend="underline">to <placeName ref="pl0775">England</placeName></hi>, and it happen'd to be my fate to be at 
+                    <placeName ref="pl1073">Southampton</placeName>, when both your last Letters arrive'd,<note type="editorial">Letters <ref target="1169.xml">1169</ref> and <ref target="1170.xml">1170</ref>.</note>
+                    so that I did not receive either till my return. I now hasten to answer each as well as I can, but first of all, allow me to 
+                    congratulate you, and myself, on the pleasant event of <persName ref="pe0336 pe0235">our children</persName>'s being in a way to be well, 
+                    which, I hope, will prevent a journey to <placeName ref="pl0796">Bath</placeName> on my part, and a second trip to <placeName ref="pl1203">Abergelli</placeName> on yours.</p>
+                <p>
+                    We are endeavoring to establish an House of Industry in the <placeName ref="pl1388">County of Essex</placeName>, similar
+                    to this in the <placeName ref="pl1020">Isle of Wight</placeName>, and our intelligent friend <persName ref="pe0383">M<hi rend="superscript">r</hi>. Richard Clarke</persName>,
+                    sent the <hi rend="underline">Essex Gentleman</hi>, the enclos’d answers to the Queries, he desir’d him to reply to, and which will perhaps give 
+                    you a sufficient insight into the management thereof. If I have sent it to you before, pray forgive a poor old man, 
+                    whose memory leaves him a pace. If you wish for a totte of the rates of our packet boats, I will procure one for you.</p>
+                <p>I took the following Extract, from the Register book of <placeName ref="pl1479">Newport</placeName> Parish, this morning.</p>
+                <p style="indent">Burials. - <date>September 1650</date>. ------
+                    <lb/><persName ref="pe1727">Elizabeth, Daughter of King Charles</persName>. - 24 (I know not what 24 means. She was not so old, I <hi rend="underline">believe</hi>)</p>
+                <p>I understand, that when the Church at <placeName ref="pl1479">Newport</placeName>, was repair’d, some years since, her Coffin was taken up, 
+                    and replaced as soon as could be afterwards. There was an inscription upon it, which a copy of was taken, but I cannot procure it with authenticity, but I will 
+                    endeavor to do it.<note type="editorial">Elizabeth, daughter of Charles I, was buried at St Thomas’s church, Newport, Isle of Wight. For Pennant's account of her death on 8 September 1650, see <hi rend="italic">From Dover to the Isle of Wight</hi> (1801), pp. 166–7. This includes a print from a drawing made on the spot, and communicated by Bull, of Princess Elizabeth’s coffin, found on 24 October 1793 (‘the coffin and urn containing her remains … in a very perfect state’). It is accompanied by the inscription on the lid of the coffin: ‘ “Elizabeth, second daughter of the late King Charles, deceased Sept 8, 1650” ’.</note>
+                    <persName ref="pe0383">M<hi rend="superscript">r</hi> Clarke</persName> thinks it was merely her name <del><gap unit="letters" quantity="2" reason="illegible"/></del>
+                    age, and time of her death. I <hi rend="underline">suppose</hi> She was allow’d to attend her <persName ref="pe0600">father</persName>,
+                    when he came to <placeName ref="pl1358">Caris brooke Castle</placeName>, and that she removed to <placeName ref="pl1479">Newport</placeName>, 
+                    after he left it, where She certainly died.</p>
+                <p>
+                    I think verily I have read in <bibl type="authorial"><title ref="bi0655">Peck</title></bibl>, or in some printed account or other, that she was put 
+                    P<hi rend="underline">re</hi>ntice to a mantua maker at <placeName ref="pl1479">Newport</placeName>;<note type="editorial">Francis Peck, <hi rend="italic">Desiderata curiosa, or, a collection of divers scarce and curious pieces, relating chiefly to matters of English history</hi> (2 vols., 1732–5), contains a letter dated 28 October 1650 from Anthony Mildmay to William Lenthall, on behalf of the surviving children of Charles I, following Princess Elizabeth's death. A footnote provides further details regarding her last weeks, including the claim that she died not at Newport, as asserted by Bull, but at Carisbrooke castle. No mention is made of her being apprenticed to a mantua maker. Pennant appears to have rejected any suggestion that Elizabeth was forced to do menial work, and gives no credence to ‘the report that the Republicans intended to bind Lady Elizabeth apprentice to a button-maker’. <hi rend="italic">From Dover to the Isle of Wight</hi> (1801), p. 166.</note>
+                    but I would by no means lead you into inaccuracies of this sort, because my memory is exceeding bad, and occasions me to 
+                    make sad blunders. – but when I tell you any fact that I am <hi rend="underline">assur'd</hi> of, you may depend upon my veracity.
+                    <persName ref="pe0383">M<hi rend="superscript">r</hi>. Clarke</persName> returns his compliments to you, and desires me to say, if you wish for any informations respecting this 
+                    <placeName ref="pl1020">Island</placeName>, and will take the trouble to write to him, He will do his best to be in the smallest degree useful to you. – 
+                    He told me there is no actual prohibition, respecting Men of War’s passing <hi rend="underline">thro' the <placeName ref="pl2118">Needles</placeName></hi>,
+                    but the Lords of the Admiralty, desire that the Captains of King’s ships, should understand it is a passage too  hazardous for 
+                    <del>us</del>them to attempt. He could not tell me to how low a rate their apprehensions extended. – There is no House of <placeName ref="pl2530">Beaulieu</placeName>,
+                    except the old family mansion, now standing, and kept up in tollerable repair. <persName ref="pe0436">Sir <hi rend="underline">Richard Worsley</hi></persName>
+                    has alter’d the places of very many of his pictures since you receiv’d my <bibl type="authorial"><title ref="bi0065">List</title></bibl>,
+                    and there are several good ones which have been lately added; together with some fine pieces of Sculpture. I believe I mention’d to You, among the rest, a very admirable
+                    <bibl type="authorial"><title ref="ar0366">Groupe of a young Bacchus &amp;<hi rend="superscript">c</hi></title></bibl>,
+                    which many persons of the best judgement, have pronounc’d to be excell’d by very few Statues now existing.</p>
+                <p>
+                    The <persName ref="pe0436">Baronet</persName> himself is a very eccentrical, whimsical man. After bringing home a large collection of every thing in the way of Vertû, and after fitting up 
+                    <placeName ref="pl1392">Appuldurcombe Park</placeName>, in the most expensive manner, He has now vacated his seat in Parliament, and is going Resident to 
+                    <placeName ref="pl2346">venice</placeName>, probably to remain there for years to come. I should have told you that only two years ago, he began, and 
+                    <add place="above">has</add> just now finish’d a Cottage under the Cliff, near <placeName ref="pl2404">S<hi rend="superscript">t</hi>. Laurences</placeName>,
+                    in a situation singularly Romantic; it stands upon a rising ground a little way from the sea, to which it gradually declines, and 
+                    <add place="above">which</add> is seen from the House and grounds, through different clumps of trees, in twenty different directions. the View behind the House 
+                    is upon the greatest Scale imaginable, foliage rising above foliage for miles together, and finish’d by a long range of those Stupenduous Cliffs,
+                    <hi rend="underline">called <placeName ref="pl2532">under Cliff</placeName></hi>, a great part of which is so regularly perpendicular, that it seems the rampart of some vast 
+                    <del><gap unit="letters" quantity="3" reason="illegible"/></del> Castle. several fine Springs of the Clearest water, and in natural cascades, run through the 
+                    <del>Grounds</del>, and fall down the Cliffs into the sea. The only fault it has, in my opinion, is the smooth-work’d stone, with which the house is built, 
+                    and the nice inlaid furniture, and statuary marble chimney peices, which puts one in mind of a trim <placeName ref="pl0699">London</placeName>
+                    apartment, more than what one expects to find in a Cottage. The Exposure is full south, and shelter’d from all cold winds, which he has taken advantage of, and planted a vineyard of some acres, and brought a 
+                    Vendangear from the <placeName ref="pl1725">South of France</placeName> to overlook the Vintage, but He told me, he was apprehensive the violence of the South west winds in this country, would prevent the 
+                    Grapes coming to perfection, at least would very much disturb the roots of the vines, and hinder their growth. – <placeName ref="pl1372">Cowes</placeName>
+                    is growing into a regular watering place, and there are now many families of high rank, and fashion there, and very paltry Houses, built with a few planks saved from the wrecks 
+                    of Ships, and so thin in their construction, that when the door shuts hard, the House trembles from its foundation, let for six and eight guineas a week. – they are going to build a
+                    circus on the Hill above the Church. –—–– the fix’d inhabitants of the <placeName ref="pl1020">Island</placeName> complain bitterly of the great increase of the price of Provisions, 
+                    &amp; Horse provander, which have risen in a threefold degree since I came here; in short, what with the Army at <placeName ref="pl2533">Gosport</placeName>,
+                    the Fleet at <placeName ref="pl1637">Spithead</placeName>, and the company at <hi rend="underline"><placeName ref="pl1372">Cowes</placeName></hi>, the 
+                    po<hi rend="underline">or Bulls</hi>,<note type="editorial">Bull refers to himself and to his daughters, <persName ref="pe0331">Elizabeth</persName> and <persName ref="pe0336">Catherine</persName>.</note>
+                    are almost depriv’d of their daily bread; notwithstanding which, I have agreed for the purchase of <placeName ref="pl1013">this place</placeName>,
+                    and the Estate immediately surrounding the same, and expect the ratification of the treaty every day. Since you saw it, I have made many improvements here, and should my 
+                    life <add place="above">and health</add> already beyond the age of man, extend a year, or two, or three longer, it will be such a place as I shall wish you to see again, and, seeing what 
+                    yo<hi rend="underline">u saw,</hi> to be surprized at, in its improved state. ––––––</p>
+                <p>
+                    our new Governor <persName ref="pe1532">M<hi rend="superscript">r</hi> Orde</persName>, who perhaps you know, or perhaps you don't know, has fix’d his residence in the 
+                    <placeName ref="pl1020">Island</placeName>. He is a very sensible, Sociable, and agreeable companion, with the most polish'd manners of a Gentleman. He has repair’d 
+                    <placeName ref="pl1358">Caris brook Castle</placeName> so completely and with so much judgement, that <add place="above">it</add> is
+                    now a very good dwelling house. The Great hall is become one of the best eating rooms I ever saw, and <hi rend="underline">as good eating in it</hi>.
+                    The roads all round are level’d, and the approaches are made easy, and wherever a tree will grow, it is planted. Besides this, he has built a new Cottage, as it is call'd but in fact 
+                    <hi rend="underline">a very good Hou</hi>se, with large Gardens, and pleasure grounds, at a place call'd <placeName ref="pl2534">Fern hill, near Wooton Bridge</placeName>,
+                    where the tide rises, and washes the meadows under his house, but I must confess, that the mud half the day takes much from the beauty of the place, when the tide is low. at one side 
+                    of his house he has erected a tower 80 feet high, which overlooks <placeName ref="pl1637">Spithead</placeName>, and takes in the <placeName ref="pl1073">Southampton</placeName>
+                    river for a great way up. you will very naturally suppose all this requires a long pocket, and He has it. <persName ref="pe1729">M<hi rend="superscript">rs</hi> Orde</persName>
+                    was a natural daughter of the <persName ref="pe1730">last Duke of Bolton</persName>, and the House at <placeName ref="pl2535">Hackwood</placeName>,
+                    and <placeName ref="pl0471">Bolton Castle in Yorkshire</placeName>, with almost all the real Estates, to the amount of more than 12,000 a year are settled upon her, and her children, after the death of the 
+                    <persName ref="pe1731">present old Duke of Bolton</persName>;  and She had 30,000 when she married <persName ref="pe1532">Orde</persName>. -</p>
+                <p>
+                    and now I think I have given you a good dose of the <placeName ref="pl1020">Isle of Wight</placeName>, &amp; its inhabitants, and if You want to know any thing more about it, I refer you to 
+                    <persName ref="pe0383">Rich<hi rend="superscript">d</hi>. Clarke Esq<hi rend="superscript">r</hi>.</persName> at <placeName ref="pl1479">Newport</placeName>,
+                    who is au fait to give you any information you may wish, much better than I can do.</p>
+                <p>
+                    I am sorry <placeName ref="pe0014">Moses</placeName> shews symptoms of Methodism. It may do his Soul good, but his body, and his pencil, will be a great deal 
+                    the worse for it. – I have no objection to allow a little matter towards the re-engraving <rs type="art" ref="ar0044">M<hi rend="superscript">r</hi>. Lloyd's portrait</rs>,
+                    but I hope it will not be much because I have, and I dare say you have, engagements of this sort without end. I am very sorry you have such a loss to lament, as he must be. 
+                    you and I can’t be looking out for new friends and companions now. Remember me, and mine kindly to you and yours. – altho’ I apprehend the war cannot be avoided, I dont 
+                    like the plan of carrying it on. – The french will meet us for ever <del>upon</del> upon the present ground, and can afford to lose 5000 men to our 500. the little victories our Gazettes are fill’d with, 
+                    must ruin <gap unit="letters" quantity="1" reason="illegible"/>Us in the end.</p>
+                <closer>
+                    <salute>Believe me Dear Sir, sincerely yours.</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull.</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

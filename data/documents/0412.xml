@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0412">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Donald MacQueen to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP297</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>7</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0069">Donald MacQueen</persName>
+                    <date when="1774-01-19"/>
+                    <placeName ref="pl0742">Kilmuir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0413"/>
+                    <ref type="prev" target="ct0412"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="gd">Gaelic</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I had your kind favour Yesterday, And now sit down to make an answer to it. We
+                    have Baron Baileys amongst Us, Who decide the maters of Property which do not
+                    Exceed 40 Shillings Sterling, — the Jurisdiction Act hath thus restricted them,
+                    And the bulk of our Processes Among the Smaller people Seldom come Up to that
+                    Sum. We have also a Sherriff Substitute, Who hath his commission from the
+                    Sheriff-depúte of <placeName ref="pl2230">Inverness-shire</placeName>, some of
+                    our Processes, however, are brought to <placeName ref="pl0156">Inverness</placeName> And others to the Court of Session, where the
+                    Subjects of importance or the Passions of Parties are wrought Up too high to
+                    attend to the calm Reflections of Reason or to the Less compulsive decrees of a
+                    Small Judge.</p>
+                <p>Tiern is the Laird and Armen is properly a Military Leader, arm-man, that is, the
+                    man of Arms. The Proprietor of Lands was Always the Armen of his own Men, but
+                    when Several of these Independant Chieftans Joined together the Principal was by
+                    way of Eminence called the Armen. I have been always of Opinion, that the
+                    Destroyer of <persName ref="pe1965">Quintilius Varus</persName> and the Legions
+                    Under him in <placeName ref="pl1472">Germany</placeName> the celebrated
+                        <persName ref="pe1966">Arminius</persName>, had this name bestowed Upon him
+                    from his Office, As being the Leader of the German Tribes And the brave
+                    undaunted Asserter of the Liberties of his Countrey, whom neither bribes threats
+                    or Losses could Unhinge, tho he was Engaged with the Power of <placeName ref="pl1623">Rome</placeName> in it's most flourishing state, supported by
+                    his brother, his Father in Law &amp; Other deserters from the common Cause.
+                    Therefore, to inflame the courage of Other Chiefs, the Bards Employed their
+                    Talents Upon him And he became the war-Song of the barbarous Nations down to the
+                    days of <persName ref="pe1967">Tacitŭs</persName>, As our Armens Also continued
+                    to be Long after they were Laid Low.</p>
+                <p><persName ref="pe1961">Nero's</persName> Insatiable Passion for fame &amp;
+                    Popularity, to which Natural Talents seem to have Entitled him, if they were not
+                    to Inconsiderably quieted, Led him among other Tryals of Skill, to pass a bow,
+                    that he woud Enter the Lists as a bagpiper, Utricularis, which he never woud
+                    have done, if he had not already Learned the Trade And if it was not much in the
+                    hands of Others. See <bibl type="authorial"><title ref="bi0675">Sueton.'s
+                            Nero</title>
+                        <biblScope unit="chapter">Chap. 54.</biblScope></bibl>
+                    <pb/><persName ref="pe1968">Canus</persName> also an Eminent Piper of the Court
+                    of <persName ref="pe1969">Galba</persName>, (chorautus) who from the Merite of
+                    his musical Instrument seems, to <bibl type="authorial"><title ref="bi0676">Martial</title></bibl>, capable of Patronizing the Suitors for
+                    preferment at <placeName ref="pl1623">Rome</placeName>, if they should beat
+                    applause to his Singing, woud in the Same Poet's opinion Scorn to be a Bagpiper,
+                    when he puts it as an Unseemly question to Priscus Et concupiscat esse Canus
+                    Ascaulis.' This is Enough to prove that the Bagpipe was in Use down from the
+                    days of <persName ref="pe1969">Galba</persName> And As the Romans &amp; Greeks
+                    had already reed-pipes on their Theatres, at their feasts &amp; Religious
+                    processions for Many preceeding Ages, the Addition of the Bag must naturally be
+                    Supposed An Improvement of theirs, which was introduced by them among the
+                    barbarous Tribes, more probably among the Gauls who before this period had pipes
+                    of no kind that we can See. An old Greek poet says that the Pipers blew out a
+                    part of their Souls at the first blast into the Instrument And to this day they
+                    continue As Litle remarkeable for the mental faculties As the Other Eminent
+                    professors of Music, Whose Whole study, attention &amp; happyness dwells on
+                    &amp; consists in diversifying And adjusting Small holes And Crotchets to <add place="above">one</add> Another.</p>
+                <p>I think I writ you something about Charms. I wished I had put you in mind that
+                    the Grave old <bibl type="authorial"><title ref="bi0663">Cato</title></bibl> had
+                    dealt in that Sort of Stuff. Chaps 160 de re rustica p.89 Ed, plantin, 159 &amp;
+                    S.F. (Sumtas fracto) Motas danaries clarico dardu<del rend="overstrike">nd</del>ries Astataries. This is the Charm he prescribes for a Strain. None of
+                    our old wives need be Ashamed of this folly when the Venerable Sage recommends
+                    Such unmeaning Jargon for the Relief of the distressed. I am sure he knew he
+                    coud produce no Effects but divert the Mind a Litle &amp; inspire it with the
+                    hopes of recovery. I coud repeat Several of this complexion Which were once
+                    highly valued tho our common people have now got so much Phylosophy into their
+                    heads As to despise Every Species of Superstition.</p>
+                <p>I do not remember whether I mentioned an Observation to you I long since made
+                    "That among an Unmixed people the different Tribes have their different
+                    Characteristics — this is no where So <pb/>Visible as among the Highland Clans —
+                    the founder of Each family hath Struck his Leading colors into All his race —
+                    Education continues from one Generation to Another what neither Commerce, a
+                    mixture with strangers or a change of Government among them hath hitherto
+                    defaced. I would point out these distinguishing qualities of Several of them but
+                    I will rather Say that the Julian, Manlian, the Cato families &amp;c were from
+                    first to Last distinguished by their different Characters.</p>
+                <p>When you are pleased to Send me the book you will <sic>ordered</sic> it to be
+                    delivered to <persName ref="pe0446">Mr Norman MacLeod</persName> Preacher of the
+                    Gospel, to be found at <persName ref="pe1964">Mr Duncan Macdonald's</persName>
+                    writer at <placeName ref="pl0076">Edin<hi rend="superscript">r</hi></placeName>
+                    And he will immediately fall Upon a way of conveying it.</p>
+                <closer><salute>I am, Dr Sir, with much Esteem <lb/>Your very Obedient humble
+                        Servt</salute>
+                    <signed><persName ref="pe0069">Don: Macqueen</persName></signed></closer>
+                <dateline><placeName ref="pl0742">Kilmuir</placeName> Janry the 19<hi rend="superscript">th</hi>
+                    <lb/>1774</dateline>
+                <postscript>
+                    <p>The <placeName ref="pl0715">Sky</placeName> Emigration <table>
+                            <row>
+                                <cell><list>
+                                        <item>From <placeName ref="pl0956">portrie</placeName> &amp;
+                                                <placeName ref="pl0655">Sleat</placeName> in the
+                                            year 1771.</item>
+                                        <item><placeName ref="pl2711">Bracadle</placeName> in the
+                                            year — 1772 ..</item>
+                                        <item><placeName ref="pl0956">Portrie</placeName> &amp;
+                                                <placeName ref="pl0955">Uist</placeName> in the — ..
+                                            1773 ...</item>
+                                        <item><placeName ref="pl2711">Bracadle</placeName> in the .
+                                            ... 1773.</item>
+                                    </list></cell>
+                            </row>
+                            <row>
+                                <cell><list>
+                                        <item>400</item>
+                                        <item>240</item>
+                                        <item>230</item>
+                                        <item>150</item>
+                                        <item>1020</item>
+                                    </list></cell>
+                            </row>
+                        </table></p>
+                    <p>Some of these Numbers came from the Main Land</p>
+                </postscript>
+            </div>
+            <div>
+                <p><handShift/>armin &amp; Tiern.</p>
+
+                <p><handShift/><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>Thomas Pennant Esqr,</addrLine>
+                        <addrLine>of Downing </addrLine>
+                        <addrLine>in Flintshire</addrLine>
+                        <addrLine>South Brittain.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

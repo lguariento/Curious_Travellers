@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1015">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 17</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1782-01-29"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton street Piccadilly</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName>
+                        <choice>
+                            <abbr>Jan.</abbr>
+                            <expan>January</expan>
+                        </choice> 29<hi rend="superscript">th</hi>. 1782.</dateline><salute>Dear
+                        Sir</salute></opener>
+                <p><persName ref="pe0238">My good woman</persName> is much more indifferent
+                    to <placeName ref="pl0699">London</placeName> than myself. her
+                    attachment to our two little
+                        ones quite supersedes all desires after the Capital.<note type="editorial">Pennant refers to the two children from his second marriage, <persName ref="pe0235">Sarah</persName> and <persName ref="pe0421">Thomas, junior</persName>.</note> She offers
+                    me a furlow; but I am so old fashioned that I decline it. I suppose that this
+                    year every face will bear the most morose aspect; &amp; that alone will sour the
+                    amusements of the town.</p>
+                <p>You forget that you sent me the letter press of <bibl type="authorial"><title ref="bi0013">snowdon</title></bibl> let into Large paper. on
+                            wh<del><gap unit="letters" quantity="2" reason="illegible"/></del>ose
+                    margins numbers of drawings are already done for you.</p>
+                <p><persName ref="pe0014">Moses</persName> has all the copies of <bibl type="authorial"><title ref="bi0032">The Journey to
+                        London</title></bibl> on L.P. by way of perquisite &amp; will be glad to
+                    serve any Gentleman who bespeaks them. for the comfort of posterity <persName ref="pe0344">his spouse</persName> brought him the last week a
+                        <persName ref="pe0345">young Moses</persName>.</p>
+                <p>I wish much to get the welsh
+                            Tour fully <sic>of my my</sic> mind; so have begun t<del>a</del>he
+                    last part.<note type="editorial">Taken collectively, this refers to
+                        <bibl type="authorial"><title ref="bi0014"/>Continuation of the Journey</bibl> (London: Henry Hughes, 1783), subdivided into
+                        part I, 'The Continuation of the Journey', and part II, 'From Downing to
+                        Montgomery and Shrewsbury'.</note> I have also sent out 6<hi rend="superscript">d</hi> worth of patriotism styled <bibl type="authorial"><title ref="bi0035">free thoughts on the milita
+                        laws</title></bibl> which I hope will do more good than all my works put
+                    together.</p>
+                <p>My best <choice>
+                        <abbr>complim<hi rend="superscript">ts</hi></abbr>
+                        <expan>compliments</expan>
+                    </choice> attend <persName ref="pe0346">M<hi rend="superscript">rs</hi>
+                        Luther</persName> &amp; Miss
+                            Bulls:<note type="editorial"><persName ref="pe0331">Elizabeth</persName> and <persName ref="pe0336">Catherine</persName> Bull.</note> neither let <persName ref="pe0332">M<hi rend="superscript">r</hi> storer</persName> be forgotten. I am</p>
+                <closer><salute>Dear Sir <lb/>Most truely <choice>
+                        <abbr>Y<hi rend="superscript">rs</hi></abbr>
+                        <expan>Yours</expan>
+                    </choice></salute>
+                    <signed><persName ref="pe0232"><choice>
+                                <abbr>T</abbr>
+                                <expan>Thomas</expan>
+                            </choice> Pennant.</persName></signed></closer>
+                <postscript>
+                    <p>If any duplicate prints relative either to <bibl type="authorial"><title ref="bi0013">snowdon</title></bibl> or <bibl type="authorial"><title ref="bi0032">Journey to
+                            London</title></bibl> falls in <choice>
+                            <abbr>y<hi rend="superscript">rs</hi></abbr>
+                            <expan>your</expan>
+                        </choice> way I shall be vastly obliged to you for them.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark">penny post.;<note type="editorial">Handwritten by
+                            Pennant.</note> PENY POST PAID <gap unit="letters" quantity="3" reason="illegible"/><note type="editorial">This is a triangular mark in ink.</note></stamp>
+                    <gap unit="letters" quantity="3" reason="illegible"/> <stamp type="postmark">A 5 O'CLOCK<note type="editorial">A round stamp.</note></stamp></p>
+                <p><address>
+                        <addrLine><persName ref="pe0313">Richard Bull</persName>
+                            <choice>
+                                <abbr>esq<hi rend="superscript">r</hi></abbr>
+                                <expan>esquire</expan>
+                            </choice> | <placeName ref="pl0759">Stratton street</placeName> |
+                            <placeName ref="pl2035">Piccadilly</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

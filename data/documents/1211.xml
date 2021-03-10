@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1211">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 131</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1797-12-13"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r</hi> 13<hi rend="superscript">th</hi> 1797.</dateline></opener>
+                <p>In return for your very entertaining favor of December 4<hi rend="superscript">th</hi> I have the pleasure of saying that I can send you comfortable news respecting your imaginary losses. In the first place the title pages, dedication &amp; fore pages of the Preface to the 
+                    <bibl type="editorial"><title ref="bi0690">Introduction to the the arctic Z:</title></bibl> have been found.</p>
+                <p>
+                    In respect to the title pages to the <bibl type="authorial"><title ref="bi0023">arctic zoology</title></bibl> with the <rs type="art" ref="ar0354">Elks head</rs> &amp; &amp; the pied duck &amp; the direction,<note type="editorial">For the title pages to 
+                        the <hi rend="italic">Arctic zoology</hi> which Bull claimed he was missing, see his letter to Pennant, 
+                        <ref target="1210.xml">1210</ref>. Pennant writes of the 'direction' in answer to Bull's queries regarding 'directions for placing the plates 
+                        of vol: I.' and 'the directions for placing the plates of VOL. II.'. This suggests that Bull was working on extra-illustrating the 
+                        second edition, where the directions appear at the beginning of each volume (rather than the first edition, which amalgamates 
+                        these directions in vol. I). Note that Hughs, named as the person able to reprint both title pages and direction for placing the 
+                        plates, was the printer of the first, not the second, edition, however.</note>
+                    if I cannot find them, they can be readily replaced by reprinting the pages. which I shall give directions about to <persName ref="pe0111">M<hi rend="superscript">r</hi> Hughs</persName>.
+                    As to the supposed mistake in the <bibl type="authorial"><title ref="bi0034">history of Whiteford</title></bibl> page 173 to 184 it is of no sort of importance for there is no omission between them, a mistake of the printer’s which I found out long ago. The<del>se</del>
+                    losses shall be supplied in the first parcel <persName ref="pe0324">M<hi rend="superscript">r</hi> Ingleby</persName> sends: but the two title pages with Elks head that: must be done in 
+                    <placeName ref="pl0699">London</placeName> under your directions conveyd thro y<hi rend="superscript">r</hi> humble servant. This business has stirred me up to complete the illumination of my 
+                    <del>arctic</del> copy of the <bibl type="authorial"><title ref="bi0023">arctic Zoology</title></bibl>, towards which I find I have a rich hoard which I had not seeen for years past.</p>
+                <p>
+                    I rejoice at y<hi rend="superscript">r</hi> happy change of health. long may you enjoy it. The horrid wet which reigns here affects my stomach &amp; certainly lessens the benefit of the <placeName ref="pl0796">Bath</placeName> waters.</p>
+                <p>
+                    The same unanimity is found in this country as in other places. The taxes will bear hard especially on a certain class which includes the vain, who have been exerting every nerve to ape their betters by imprudent <gap unit="letters" quantity="several" reason="illegible"/> emulation.</p>
+                <p>
+                    The best wishes of this house attend <persName ref="pe0331">miss Bull</persName> &amp; yourself.</p>
+                <closer>
+                    <salute>Adieu
+                    <lb/>Dear Sir,
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>You will lay me under fresh obligation <sic>by by</sic> communication of any authentic news</p>
+                </postscript>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">DE 15 97</stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi>. | <placeName ref="pl0759">Stratton street</placeName> | <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

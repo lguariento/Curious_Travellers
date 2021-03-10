@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1415">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to William Owen [Pughe], 16 April 1789</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>NLW</repository>
+                        <idno>13222C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>pp. 127–30</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic"><lb/>on address side</hi>: <placeName ref="pl3018">S<hi rend="superscript">t</hi>, Sav<hi rend="superscript">r</hi></placeName>, 
+                            <unclear>ab</unclear>  L<hi rend="superscript">th</hi>. 400y... <gap reason="illegible" unit="letters" quantity="1"/>b<hi rend="superscript">t</hi>. 
+                            30 f<hi rend="superscript">t</hi>. b. Coal Copperas from <placeName ref="pl3019">Writtlsea</placeName> <placeName ref="pl1388">Essex</placeName><lb/>
+                            <gap reason="illegible" unit="letters" quantity="1"/> Clay from <unclear>pool</unclear> <del><gap reason="illegible" unit="letters" quantity="several"/></del> 
+                            <placeName ref="pl3020">Lime House New cut</placeName> beg<hi rend="superscript">n</hi>. ab<hi rend="superscript">t</hi>- 20 Y. ago<lb/>
+                            Trade Coal. Corn flour <add place="above">Malt</add> &amp;c. <gap reason="illegible" unit="letters" quantity="3"/>s tow<hi rend="superscript">ds</hi>. 
+                            <placeName ref="pl3021">Bow</placeName>. Bow-lock - <add place="above">on 
+                                <placeName ref="pl3022">River Lea</placeName></add> joins it up the <gap reason="illegible" unit="letters" quantity="1"/> <sic>Bason</sic> is to be 
+                            cut at <placeName ref="pl3023">Blackwall</placeName></p>
+                            
+                            <p>E: India Warehouse<lb/>
+                                Inside court 20 by 50 y<hi rend="superscript">ds</hi><note type="editorial">The measurements of the inside court given here correspond to those published in 
+                                    <hi rend="italic">Of London</hi> (1790), p. 252.</note> 
+                                Extreme breadth 54 y<hi rend="superscript">ds</hi>.<lb/>
+                                60<lb/>
+                                <lb/>
+                                3<lb/>
+                                50<lb/>
+                                <lb/>
+                                34<lb/>
+                                <hi rend="underline">3</hi><lb/>
+                                102<lb/>
+                                <hi rend="underline">150</hi><lb/>
+                                25<del>0</del>2<lb/>
+                                <lb/>
+                                54<lb/>
+                                <hi rend="underline">3</hi><lb/>
+                                162<lb/>
+                            </p>
+                        </additions></physDesc>
+                    
+                    
+                    <additional><p><hi rend="italic">Condition</hi>: a small rectangular section of p. 128, containing Pennant's signature, has been deliberately cut out. This 
+                        also affects the reverse, p. 127.</p></additional></msDesc>
+                    
+                
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1789-04-16">16 April 1789</date>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe2111">William Owen [Pughe]</persName>
+                    <placeName ref="pl3024">No. 73 New Bond Street</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1416"/>
+                    <ref type="prev" target="ct1414"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute><persName ref="pe2111">M<hi rend="superscript">r</hi> Owens</persName></salute></opener>
+                
+                <p>To <persName ref="pe0328">m<hi rend="superscript">r</hi> Fauld<gap reason="page torn" unit="letters" quantity="2"/></persName> <gap reason="page torn"/> 
+                    <add place="above">– are Inclosed</add><note type="editorial">The words added above the line appear to be in a different hand.</note> <del>are</del> some 
+                    corrections or additions to my M.S. of London<note type="editorial">Pennant writes of his draft work on London, the first edition of which was published by Robert Faulder in 1790
+                        under the title <bibl type="authorial"><title ref="bi0039">Of London</title></bibl>.</note> which <persName ref="pe0328">M<hi rend="superscript">r</hi> Faulder</persName> 
+                    will assist in putting in their proper place. Pray do it as nicely as you can.</p>
+                
+                <p>Please to copy</p>
+                
+                <p>Pray transcribe &amp; send to me what I have said of <persName ref="pe0985">Henry V</persName>. when Prince of wales, &amp; 
+                    <persName ref="pe2112">Sir John Elliot</persName> p. 53.<note type="editorial">This refers to Pennant's account of the imprisonment at the 
+                        King's bench prison of Henry V whilst prince of Wales on the order of the 'honest judge Gascoigne, for striking or insulting him on the 
+                        bench'. The incident was reported by Sir Thomas Elyot (rather than John, as given here), Pennant notes. 
+                        <hi rend="italic">Of London</hi> (1790), pp. 38–9. The reference to 'p. 53' in the text of the letter may be in the hand of 
+                        William Owen [Pughe].</note> about a dozen lines will do. I will return it corrected with that page respecting <unclear>Elis</unclear> 1.<note type="editorial">
+                            This may be a reference to <persName ref="pe0357">Elizabeth I</persName>, who makes numerous appearances in Pennant's <hi rend="italic">Of London</hi> (1790). 
+                        </note></p>
+                
+                
+                <p>If you could have leisure to go as far as <placeName ref="pl3018">s<hi rend="superscript">t</hi> Saviours Dock</placeName> behind 
+                    <placeName ref="pl3025">Bermondsey</placeName> I wish for a general account of its size &amp; what barges or vessels frequent it. also if there 
+                    is not a new prison building near <placeName ref="pl3026">Battle Bridge</placeName>.<note type="editorial">Battle-bridge, named after 
+                        the abbot of Battle, is noted in <hi rend="italic">Of London</hi> (1790), p. 55, but no mention is made of a prison being built 
+                        nearby.</note> <persName ref="pe0328">M<hi rend="superscript">r</hi> Faulder</persName> will get y<hi rend="superscript">r</hi> letters franked.</p>
+              
+                <closer><salute>I am<lb/>
+                    y<hi rend="superscript">r</hi> friend
+                </salute>
+                    <signed><persName ref="pe0232">Th. Pennant</persName></signed><note type="editorial">The original signature has been torn out, and replaced 
+                    by Pennant's name in another hand.</note></closer>
+                <dateline><placeName ref="pl0001">Downing</placeName> April 16<hi rend="superscript">th</hi> 1789.</dateline>
+                <postscript><p>If you c<hi rend="superscript">d</hi> conveniently cross the river I wish you c<hi rend="superscript">d</hi> learn the uses of the 
+                    canal from <placeName ref="pl3027">Bromley</placeName> near <placeName ref="pl3021">Bow</placeName> which ends in the <placeName ref="pl1389">Thames</placeName> 
+                    <del><gap reason="illegible" unit="letters" quantity="several"/></del>west of <placeName ref="pl3028">Lime house dock</placeName>.<note type="editorial">See 
+                        <hi rend="italic">Of London</hi> (1790), p. 283, and <ref target="1416.xml">1416</ref>.</note> What commodities are brought down:? &amp; 
+                    <del>whether</del>has not this new canal annihilated the use of the <placeName ref="pl3022">River Lea</placeName> from its mouth near 
+                    <placeName ref="pl3023">Blackwall</placeName>, to <placeName ref="pl3027">Bromley</placeName>?<note type="editorial">The canal in question, 
+                        about a mile and a quarter in length, is named as 'the New Cut, or Poplar canal' in <hi rend="italic">Of London</hi> (1790) and was observed by 
+                        Pennant '[i]n our walk through Limehouse'. For Pennant's account of it see ibid., pp. 283–4.</note></p>
+                    <p>also in y<hi rend="superscript">r</hi> return to observe whether the <placeName ref="pl3043">old navy office</placeName> is pulled down &amp; new buildings erected 
+                        for the purpose of <unclear>a i</unclear> east india <gap reason="illegible" unit="letters" quantity="1"/>warehouse.<note type="editorial">Upon 
+                            the removal of the Navy Office to Somerset house, the old building was replaced by 'a most magnificent warehouse' by the 'India company'. 
+                            <hi rend="italic">Of London</hi> (1790), p. 252.</note></p>
+                </postscript>
+            </div>
+            
+            <div>
+                
+                <p><address><addrLine>To<lb/> <persName ref="pe2111">M<hi rend="superscript">r</hi> William Owen</persName><lb/> 
+                    at <persName ref="pe2113">Mess<hi rend="superscript">rs</hi> Owen &amp; <gap reason="illegible" unit="letters" quantity="1"/>ockley</persName>’s <lb/> 
+                    <placeName ref="pl3024">No. 73.<lb/>new Bondstreet</placeName>.
+                    </addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

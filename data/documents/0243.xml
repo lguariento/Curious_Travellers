@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0243">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on returning Low's manuscript and the Earl of
+                    Fife's family history</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>214-215</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1778-07-14"/>
+
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0244"/>
+                    <ref type="prev" target="ct0238"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Last week I sent <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                        Low’s</persName>
+                    <bibl type="authorial"><title ref="bi0058">M.S.</title></bibl> to <persName ref="pe0043">M<hi rend="superscript">r</hi> Cadel</persName> &amp; hope it
+                    will find its way safely to you. I wish him a safe voyage &amp; success. I
+                    caused his <rs ref="ar0234">drawing of the bird catching</rs> in <placeName ref="pl0701">orkney</placeName> to be done over again by an elegant hand
+                    &amp; have put it to the engraver. It is finely retouched but with great
+                    fidelity.</p>
+                <p>I truely lament the probable fate of my worthy friend <persName ref="pe0022">Ramsay</persName> but hope a better account of him.</p>
+                <p><hi rend="underline">Under the rose</hi> I beg the pedigree of the <persName ref="pe0090">Earl of Fife’s</persName> family: I mean only to the gran
+                        father<note type="editorial"><persName ref="pe1259">William Duff, earl of
+                            Fife and Lord Braco of Kilbryde</persName>.</note> who I believe was its
+                    founder. By what means the wealth was acquired &amp; whether this man or his
+                    father was made the irish Peer. who was also Braco Duff?<note type="editorial">Possibly a reference to William Duff, earl of Fife's alternative title of
+                        Lord Braco, or to the cousin whom he succeeded to the latter title.</note>
+                    all that you say shall be kept a total secret.</p>
+                <closer><salute>I am <lb/>D<hi rend="superscript">r</hi> Sir y<hi rend="superscript">r</hi> faithful humble Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed>
+
+                <dateline>July 14<hi rend="superscript">th</hi> 1778.</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom House</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

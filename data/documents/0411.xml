@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0411">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Donald MacQueen to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP297</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>6</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0069">Donald MacQueen</persName>
+                    <date when="1773-11-20"/>
+                    <placeName ref="pl0742">Kilmuir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0412"/>
+                    <ref type="prev" target="ct0410"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="gd">Gaelic</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="enclosed">
+                <fw>p.1<hi rend="superscript">st.</hi></fw>
+                <p>Notes –––––</p>
+                <p>Two Vessels went from <placeName ref="pl0715">Sky</placeName>, <placeName ref="pl0955">Uist</placeName> and <placeName ref="pl2656">Kintail</placeName> a part of <persName ref="pe0155">Lord
+                        Seaford's</persName> Estate on the opposite continent And two more from
+                        <placeName ref="pl0712">Lewis</placeName> with men, women &amp; Children to
+                        <placeName ref="pl0697">America</placeName>. The Proprietors took the Alarm,
+                    reduced their rents And passed from Services &amp; Small taxes to Which their
+                    people were formerly bound. <persName ref="pe0155">Lord Seaford</persName> hath
+                    Shewn a good disposition but found cause not to dismiss his Factor. This
+                    conduct, if persisted in, will Surely break the Spirit of Emigration — some of
+                        <persName ref="pe0447">Alexander Macdonald's</persName> people, After
+                    signing with the rest, Stoped short but Whether the remains of the former Spirit
+                    combined with fears And small disappointments, may not spring up into a flame is
+                    still Uncertain, for if there is Any Early attempt made to mend the rent-role,
+                    the tumult which is now nearly Laid will rouse itself with greater violence.
+                        <persName ref="pe0446">The Laird of MacLeod</persName> a young man under Age
+                    So full of good Sense, Humanity &amp; Condescension, that tho he is burdened
+                    with an Immense Load of debt, he hath reduced his Rent-role to the abilities of
+                    the people And made a full conquest of their hearts. A Numerous Clan Acknowledge
+                    him for their friend and Protector, who if he persists in the present Measures,
+                    will soon stretch Every Nerve to relieve him from his difficulties. I shall be
+                    Extremely glad that you mention him in Some Such Light in your Publication, that
+                    he might be Led by it, to preserve the Character he So Early attempts to
+                    acquire, And that you may not Suppose that I am guided by any of the partial
+                    affections, from which I am intirely free as being on another Estate, <persName ref="pe0073">Dr Samuel Johnson</persName> will, I am Sure, confirm this
+                    Truth, for he hath been Much in his company while he remained in <placeName ref="pl0715">Sky</placeName>.</p>
+                <p><persName ref="pe0447">Sir Alexander Macdonald of Macdonald</persName>, <persName ref="pe0446">Norman MacLeod of MacLeod</persName>, <persName ref="pe0448">John MacLeod</persName> of <placeName ref="pl0952">Rasay</placeName> and
+                        <persName ref="pe1950">Charles Mackinnon of Mackinnon</persName> are the
+                    only proprietors in <placeName ref="pl0715">Sky</placeName>. <persName ref="pe0447">Sir Alexander Macdonald</persName> is Lineally descended of the
+                    Lords of the Isles, the three Last of Whom were Earls of <placeName ref="pl1142">Ross</placeName>, the Heirs &amp; Successors of <persName ref="pe1951">SumerLed</persName>, the famous Thane or Depute Sovereign of <placeName ref="pl0818">Argyle</placeName>, who <unclear reason="illegible">on</unclear>
+                    <pb/><fw>2<hi rend="superscript">d</hi></fw> Account of his being marryed to
+                        <persName ref="pe1952">a Daughter of Olave King of Man</persName>, assumed
+                    the Superiority of the Isles; his power And distance from the Seat of Royalty
+                    tempted him as well as Eight or more of his Successors, to Assert something like
+                    An Independancy on the Crown of <placeName ref="pl0705">Scotland</placeName>,
+                    Untill <persName ref="pe1953">John</persName> the Last of them by Entering into
+                    a Treaty with <persName ref="pe1954">Edward King of England</persName> against
+                    his Rightful Sovereign <persName ref="pe1955">James the 3<hi rend="superscript">d.</hi></persName>, of which there is a Coppy in <persName ref="pe0977">Rimer's</persName>
+                    <bibl type="authorial"><title ref="bi0673">fœdera</title></bibl>, forefeited
+                    titles And all, When the Earldom of Ross was Unalienably annexed to the Crown in
+                    the year 1476. And he at the Mediation of <persName ref="pe1956">the
+                        Queen</persName> a Daughter of <placeName ref="pl2709">Denmark's</placeName>, was afterwards restored to the Lordship of the Isles.
+                    This <persName ref="pe1953">John</persName> gave to his brother <persName ref="pe1957">Hugh</persName> a Charter of by much the greater part of the
+                    Estate now possessed by <persName ref="pe0447">Sir Alexander
+                        Macdonald</persName>, dated at <placeName ref="pl0682">Aros</placeName> in
+                        <placeName ref="pl0729">Mull</placeName> in the year 1495. And as the Line
+                    of <persName ref="pe1953">John Lord of the Isles</persName> is long since
+                    Extinct, the descendants of his brother <persName ref="pe1957">Hugh</persName>
+                    seem to bid fairest for the Right of Representation.</p>
+                <p>The Families of MacLeod of <placeName ref="pl0954">Harris</placeName> and
+                        <placeName ref="pl0952">Rasay</placeName> a branch of the Family of the
+                    MacLeods of <placeName ref="pl0712">Lewis</placeName> who were very considerable
+                    in their day are according to an Uncontradicted Tradition descended of the Kings
+                    of <placeName ref="pl0707">Man</placeName>, for when a Cession was made of the
+                    Kingdom of the Isles by <persName ref="pe1958">Magnus the 4<hi rend="superscript">th</hi> of Norway</persName> to <persName ref="pe1959">Alexander the 3<hi rend="superscript">d</hi> of
+                        Scotland</persName>, a provision <add place="above">was made</add> for
+                    Securing the Rights And Possessions of Such of the Norvegian Subjects as
+                    inclined to remain where they were. Several made choice of keeping their
+                    possession in the Isles, rather than throw themselves Upon the dice of Fortune
+                    in <placeName ref="pl0835">Norway</placeName>, whose posterity are now Existing,
+                    the many of them have been brought Low, by the revolutions which are frequent
+                    Among Military tribes, yet the MacLeods of <placeName ref="pl0954">Harris</placeName> And <placeName ref="pl0952">Rasay</placeName> Also,
+                    preserved an honourable rank, without Loseing or Acquiring a Single Acre of
+                    ground for time Immemorial And tho <persName ref="pe0446">the present
+                        MacLeod's</persName> Situation Seems very distressful his parts firmness
+                    &amp; perseverance promise, in time to Extricate Him from Every
+                    Incumberance.</p>
+                <p>The Clan Mackinnon As well as the Grants &amp; Macgregors call themselves Clan
+                    Alpin, that is the descendants of <persName ref="pe1960">Alpin</persName>, who
+                    was <add place="above">a</add> King of the Scots <pb/>
+                    <fw>3<hi rend="superscript">d.</hi></fw> In the 9<hi rend="superscript">th</hi>
+                    Century. <persName ref="pe1950">Mackinnon</persName> possesses an Estate in
+                        <placeName ref="pl0715">Sky</placeName> &amp; <placeName ref="pl0729">Mull</placeName> down from the time of the Lordship of the Isles.</p>
+                <p>Who is Chief of a Highland Clan When it hath been Split into different And
+                    independant families before we had Any great knowledge or Letters, is a question
+                    of more Curiosity than Use And ill to Solve. The former Importance of the Chief,
+                    when his Clan wou'd fly to his banners in the days of Military prowess, is in
+                    our days of Peace utterly cancelled. The calmer Arts of Industry And the more
+                    violent passion for Money than Renown, have pulled it Up from the roots.
+                    Countenance, recommendation And protection from Injuries, Some Shreds of them,
+                    in some places <add place="above">is all that</add> remain of the old Spirit And
+                    Whoever is most capable &amp; willing to Serve the Clan in these respects, is
+                    Chief for the time, While the true Representative According to the present Laws
+                    of Succession, May be Lurking Unheeded in a Corner. Among a Variety of Tribes of
+                    the same Clan Each have their pretensions which hath frequently given Occassion
+                    to Disputes Among themselves. It is now Scarce worth their While, Surely not
+                    worth the pains of a disinterested person to Setle the difference, tho the Case
+                    were more clear than it is. In a Line Where Every degree is not Ascertained by
+                    Charters, Sasines, contracts of Marriage, Untill you Arrive at the first founder
+                    of a Family, you are but groping in the dark. Tho' one Assumes the original
+                    Motto and a great part of the Arms of a Family More than a Century ago, can this
+                    pass for Any proof When all who Lay their Claims have not been called to the
+                    Lyon's Office for their Interest? The determination of the question is an
+                    Invidious task, And in the Main impossible to Answer.</p>
+                <p>The Bag-pipe was known to the Romans (<persName ref="pe1961">Nero</persName> had
+                    one) who woud very probably introduce the Use of it into <placeName ref="pl2663">Gaul</placeName>, where it was As Necessary As the pipe or flute was among
+                    the Lacedemonians to keep them to a Regular March and Moderate their Ardour
+                    &amp; Impetuosity in Batle. It is the Character of the Gauls that in their first
+                    onset they were more than men and if the Enemy coud bear their first Impressions
+                    they were Less than <pb/><fw>4<hi rend="superscript">th</hi></fw> Women, for
+                    their wild Unrestrained violence woud Soon Exhaust their Vigour and Spirit. The
+                    bag-pipe, then, woud be an Important War-like implement, on account of the
+                    Loudness &amp; regularity of it's Music And the Romans cou'd scarce miss to
+                    furnish them with it when they took them into their Armies, to keep them to
+                    order and discipline. We have had the harp And the pipe from <placeName ref="pl0889">Irland</placeName>, where our Great men too the grand tour of
+                    former days when it was the Kingdom of Saints &amp; Geneologies And I find by an
+                    Antient Song that they had some of the Belgæ among them perhaps from those of
+                        <placeName ref="pl2003">South Brittain</placeName>, who or some other
+                    Warlike tribe of Gauls might have furnished them with the Bag-pipe. Be that how
+                    it will, MacLeod, for time Immemorial kept a College of pipers Upon his Estate
+                    by the Mackrūmens who Enjoyed an Appointment in Lands And were resorted to by
+                    apprentices from the Neighbourhing Chieftans. Macdonald had also his Mackarters
+                    and Irish tribe in the Same Employment, one whom, it is said, played a Lively
+                    tempestuous tūne, still on the finger-Ends of the pipers, at the batle of
+                        <placeName ref="pl2486">Harlaw</placeName> fought by <persName ref="pe1962">Donald Lord of the Isles</persName> against <persName ref="pe1963">Robert
+                        Duke of Albany</persName> in the year <sic>14ii</sic>.</p>
+                <p>The Danish forts Are called Dūns in Erse, but originally they were called by the
+                    builders Būrrows, which word is still preserved in the names of the places where
+                    they stand. Dun answers to the Latin word arx and means a fort or a high round
+                    hill Such as <placeName ref="pl2710">Dun-canna</placeName> at <placeName ref="pl0952">Rasay</placeName>. I am not surprised tho there may be few
+                    traces of these Duns in <placeName ref="pl0835">Norway</placeName> or <placeName ref="pl2709">Denmark</placeName>, for people who put Up in a conquered
+                    coūntrey among their Enemies will stand more in need of a Fortification than
+                    Where they Are at home among their friends. At the Same time our Norvegian Duns
+                    are so regularly built; that I am sure they were not novices in Masonry who put
+                    them up And <add place="above">if</add> building in Stone was introduced to
+                        <placeName ref="pl0777">Brittain</placeName> &amp; <placeName ref="pl0889">Irland</placeName> by these Northern Adventurers, I am apt to believe that
+                    some even of these old forts woud be found particularly in <placeName ref="pl0835">Norway</placeName>. Nature woud soon point out the Art of
+                    Fortification, for Security <pb/><fw>5<hi rend="superscript">th.</hi></fw> In
+                    time of fewer Numbers or of a defeat, Sometimes by opening up <add place="above">a</add> deep broad ditch And throwing the Earth to the Inside, Sometimes,
+                    by felling trees in the heart of a thick wood And Piling them over One Another
+                    &amp; at Other times by raising a stout Stone Wall round the Town As they called
+                    it. We have a few traces of the Ditch-fortification and Several of the Duns
+                    which are Surely Norvegian.</p>
+                <p>The Urns Are found in Large cairns within a stone chest composed of four stone
+                        <add place="above">standing on Edge &amp; one below another Above</add>
+                    standing on the Lowest Stone covered with a thin flat stone of small weight.
+                    This Chest And Sometimes more than One are found in the Same Cairn under a
+                    prodigious heap of Stones.</p>
+            </div>
+            <div type="letter">
+                <opener><salute>Dr Sir</salute></opener>
+                <p>I received Yours Last week only for it came by <placeName ref="pl0665">Dunvegan</placeName>. <placeName ref="pl0660">Sconser</placeName> is the
+                    Next Office to me And when you are pleased to write me Again pray address it by
+                        <placeName ref="pl0660">Sonser</placeName>. I return you thanks for the <rs ref="ar0358">view</rs> of <placeName ref="pl0715">Inveraray house</placeName>
+                    which is prettily executed. I shall be glad to receive the views in <placeName ref="pl0715">Sky</placeName> of which I am a better Judge.<note type="editorial">Pennant's <bibl type="editorial"><title ref="bi0008">A tour in Scotland and
+                                Voyage to the Hebrides</title></bibl> (1774) would contain a number
+                        of Moses Griffith's views of Skye: <rs ref="ar0359">'Women at the <hi rend="italic">Quern</hi>, and at the <hi rend="italic">Luagh</hi>,
+                            with a view of TALYSKIR'</rs>, plate XXXIV, p.328; <rs ref="ar0040">'View from <hi rend="italic">Beinn-na-caillich</hi>, in Skie'</rs>,
+                        plate XXXV, p.329; <rs ref="ar0360">'View of DUNVEGAN castle, and the loch
+                            beyond'</rs>, plate XXXVII, p.338, and <rs ref="ar0362">'DUN-TUILM
+                            castle'</rs>, plate XXXVIII, p.350.</note> It is right you mention
+                        <persName ref="pe0446">MacLeod</persName> for his own Sake and for that Sake
+                    of Others but your are not to Mention Me on that Occassion. The remains of
+                    Chieftancy Might be turned to good Account on Every Estate where the Spirit of
+                    it, is so faint that by Any Management it cannot be applyed to bad purposes.</p>
+                <closer><salute>I shall be glad to hear from you when you Are at Leasure for I am
+                        with Much Esteem, Dr Sir, <lb/>Your Most Obedient <lb/>&amp; <lb/>Most
+                        humble Servt</salute>
+                    <signed><persName ref="pe0069">Don: Macqueen</persName></signed>
+                <dateline><placeName ref="pl0742">Kilmuir</placeName> Nov. 20<hi rend="superscript">th</hi>
+                    <lb/><hi rend="underline">1773</hi></dateline></closer>
+                <postscript>
+                    <p>I coud Only mean by the poor's multure that the Millars generally Grind their
+                        gleanings on the field And their Contributions from Among the Tennants
+                        without paying multure.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><handShift/>answered Dec<hi rend="superscript">r</hi> 21<hi rend="superscript">st</hi> 1773.</p>
+                <p>M<hi rend="superscript">r</hi> Macqueen <lb/>on the clans of Skie</p>
+                <p><handShift/><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>Thomas Pennant Esqr,</addrLine>
+                        <addrLine>of Downing in Flintshire</addrLine>
+                        <addrLine>South Brittain.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

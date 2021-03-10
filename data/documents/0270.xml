@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0270">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 2 January 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>33</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-01-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0537"/>
+                    <ref type="prev" target="ct0268"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline>Jan 2 .1780</dateline>
+                    <salute>Dear Sir</salute></opener>
+
+                <p>The best wishes of the season attend you, with many happy successions. I beg my
+                    compliments to <persName ref="pe0274">M<hi rend="superscript">r</hi>
+                        Smellie</persName>; &amp; shall be very happy to receive his first volume
+                    &amp; to have it left at <persName ref="pe0146">M<hi rend="superscript">r</hi>
+                        Longman’s</persName> bookseller <placeName ref="pl2405">Pater noster
+                        row</placeName>.<note type="editorial">A reference to William Smellie's
+                            translation of de Buffon's <bibl type="editorial"><title ref="bi0302">Natural
+                                History</title></bibl> (Edinburgh: 1780).</note> I am
+                    very sorry that my time is so extremely taken up that I cannot enter into any
+                    new correspondencies. I shall tho’ from time to time send him any remarks on
+                    animals which may occur &amp; likewise furnish him with referrences to my new
+                    edition of the <bibl type="authorial"><title ref="bi0030">synopsis of Quad<hi rend="superscript">s.</hi></title></bibl> soon going to the press. I
+                    presume as he has printed but three vol<hi rend="superscript">s</hi> he is not
+                    arrived at the animals. you shall have the paper in a few posts. I trust I shall
+                    not be denied the set of q<hi rend="superscript">to</hi> prints.</p>
+                <p>had you not best send <persName ref="pl2405">M<hi rend="superscript">r</hi>
+                        Popes</persName> book (with his consent) to <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName>.<note type="editorial">A
+                        reference to Alexander Pope's translation of Thormodus Torfæus, <bibl type="editorial"><title ref="bi0087">Orcades seu rerum Orcadensium
+                                historiae</title></bibl> (1697), parts of which would appear under
+                        the title 'Extracts from Torfæus' in an appendix to Cordiner's <bibl type="editorial"><title ref="bi0250">Antiquities and Scenery of the
+                                North of Scotland, in a Series of Letters to Thomas Pennant</title>
+                            (London: 1780), pp.121-170.</bibl></note></p>
+                <p>I shall be greatly indebted to <persName ref="pe2013">M<hi rend="superscript">r</hi> Clerk</persName> for any favors. I have wrote about the <bibl type="authorial"><title ref="bi0028">genera of birds</title></bibl>: &amp;
+                    hope you have had my letter respecting <persName ref="pe0082">D<hi rend="superscript">r</hi> Robertson</persName>.</p>
+                <closer><salute>I am D<hi rend="superscript">r</hi> Sir <lb/>Your very faithful
+                        humble Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Th. Pennant.</persName></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

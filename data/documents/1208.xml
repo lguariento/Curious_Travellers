@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1208">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 139</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">On address side in Richard Bull's hand</hi>:</p>
+                            <p>Q. what <persName ref="pe0324">Ingleby</persName>'s drawings doing for me – and omit those I don’t want.</p>
+                            
+                        </additions>
+                    </physDesc>
+                    <additional><p><hi rend="italic">Condition</hi>: tight binding of the manuscript may have rendered some full stops invisible</p></additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1797-10-19"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl1013">North Court</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Oct<hi rend="superscript">r</hi> 19<hi rend="superscript">th</hi> 1797</dateline></opener>
+                <p>I arrived here from <placeName ref="pl1347">oxford</placeName> on Tuesday after settling my good <persName ref="pe0421">Tom</persName> at <placeName ref="pl1549">Christchurch</placeName>.
+                    I trust &amp; believe I brought him up proof against the corruptions of the place, the effect of the times. want of health &amp; 
+                    want of spirits occasioned my visit to <placeName ref="pl0796">Bath</placeName>. I do not know to whom I can pour out the causes so properly as to a friend who will bear with them &amp; who besides is not 
+                    <hi rend="underline">ignarus mali</hi>.<note type="editorial">'unacquainted with misfortune'.</note> my loss in 1794 began the carreer 
+                    of visitations. The wound was scarcely healed before the death of <persName ref="pe0015">Sir Roger Mostyn</persName> &amp; all the consequential evils, opened it afresh. 
+                    The degraded conduct of his <persName ref="pe0414">heir</persName>, his ingrat<del>u</del>itude to his <sic>guardians &amp;</sic> are fresh aggravations of the trouble, &amp; the successful divisions created by the villanous church man the 
+                    <persName ref="pe0426">dean</persName> have produced dissensions truely tremendous. Death hath made frequent also among my friends but the loss of two of my humble ones affected me most poignantly. one a faithful servant who lived above 50 years in the family of 
+                    <persName ref="pe0219">my first wife</persName> and my own. a woman zealous in every interest of her master or mistress. She fell in my sight of an apoplexy..
+                    The second loss I sustained was of a singular character an humble companion who for above 40 years prevaded my first dish at Dinner a sort of 
+                    Sancho with good abilities, most singular humor, &amp; great innocence.<note type="editorial">For another reference to this servant, see <ref target="1202.xml">1202</ref>.</note> I truly may say that Better I had lost a better man</p>
+                <p>
+                    I now stop; &amp; divert my lamentations to something more pleasing. Last week my <persName ref="pe0065">Eldest son</persName>
+                    reviewed his company: &amp; made a most masterly allocation, <hi rend="underline">more romanor<add place="above">um</add></hi><note type="editorial">'in the manner of the Romans'.</note>
+                    animating, nervous &amp; eloquent: the grace of his action the propriety of his diction &amp; 
+                    his fine person had full weight on his audience.<note type="editorial">For a contemporary newspaper account of David Pennant's review of the Loyal Holywell Volunteers (which R. Paul Evans suggests was written by Thomas Pennant for the <hi rend="italic">Chester Courant</hi>), see Evans, 'The Flintshire Loyalist Association and the Loyal Holywell Volunteers', 65.</note> ––––– but too much of this.</p>
+                <p>
+                    may this find <persName ref="pe0331">miss Bull</persName> &amp; you well, &amp; inspirited by <persName ref="pe1811">Duncan</persName>'s victory.<note type="editorial">This refers to the Battle of Camperdown, between a fleet of the Royal Navy under Admiral Adam Duncan and a Dutch navy fleet under Admiral de Winter. It was fought on 11 October 1797. <hi rend="italic">ODNB</hi> s.n. Adam Duncan, Viscount Duncan.</note>
+                    It was as critical as great. I think I have had letters from you dated from this place <gap unit="words" quantity="1" reason="illegible"/><note type="editorial">There is an empty gap in the manuscript, here.</note> amusement draw you here this season; a pleasing expectation to</p>
+                <closer>
+                    <salute>Dear Sir
+                        <lb/>Y<hi rend="superscript">r</hi> obliged &amp; affect friend</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi> | <placeName ref="pl1013">Northcourt</placeName> | <placeName ref="pl1020">Isle of Wight</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

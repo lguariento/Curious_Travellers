@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1052">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/TP189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>2</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1786-02-21"/>
+                    <placeName ref="pl0759">Stratton Street Piccadilly</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0759">Stratton Street</placeName>, Feb<hi rend="superscript">y</hi>. 21. 1786</dateline><salute>My dear Sir</salute></opener>
+                <p>I should have written to you upon my first coming to <placeName ref="pl0699">town</placeName>, but for a reason
+                    that I will give, before I send this letter.</p>
+                <p>I will desire you to give <persName ref="pe0014">Moses</persName> very many thanks for his most acceptable present of the
+                    <rs type="art" ref="ar0253">Virgula Divinatoria</rs>, which I have been in vain hunting for a print of, and which I remember to have seen in some weekly publication. In case you add any drawings to the 
+                    <bibl type="authorial"><title ref="bi0015">welsh Tour</title></bibl>, or <bibl type="authorial"><title ref="bi0032">journey to London</title></bibl>,
+                    I shall be very desirous to have copies, on thin paper, to paste upon the Margins of my Books. I have talk'd with <persName ref="pe0332">Storer</persName>,
+                    relative to <rs type="art" ref="ar0073">Catherine Cornaro</rs> being conceal'd under the name of La Bella Laura,
+                    but he is not so clear and explanatory upon the subject, as he is upon most occasions.<note type="editorial">For the misidentification of Catherine Cornaro with Petrarch's Laura, see <ref target="1048.xml">1048</ref>.</note></p>
+                <p>your cannot forget there is a print engrav’d by <persName ref="pe0402">Hollar</persName> in 1650, from a picture
+                    of Palma, with the following inscription, vid<hi rend="superscript">t</hi>. <rs type="art" ref="ar0254">Ritratto della Regïna Catharina Cornaro</rs>,
+                    and which print I intend to place in my book untill I can procure a copy of <persName ref="pe0392">Lord Ossory</persName>'s
+                    Picture, tho perhaps from no better authority than the print.</p>
+                <p><persName ref="pe0431">Thane</persName> has been too much busied of late with the care of <persName ref="pe0781">M<hi rend="superscript">r</hi> Blackburn</persName>'s
+                    extensive <bibl type="authorial"><title ref="bi0611">Catalogue of Prints and drawings</title></bibl>, just coming under
+                    the hammer, and with his attendance upon <persName ref="pe0396">Gulston</persName>'s sale, to have had any leisure 
+                    for other matters;<note type="editorial">Joseph Gulston's collection of prints and portraits was auctioned over a period of 38 nights from 16 January to 13 March 1786. <hi rend="italic">Gentleman's Magazine</hi>, LVI, part the second (1786), 622.</note> nor do I know any thing he has lately publish’d, except a neat <rs type="art" ref="ar0133">Print of the <persName ref="pe0782">Admiral Seymour</persName></rs>,
+                    from a miniature of <persName ref="pe0434">Horace Walpoles</persName>, finely copied by <persName ref="pe0783">Lady Lucan</persName>
+                    from an original picture <add place="above">by <persName ref="pe0401">Holbein</persName> now in the possession of the
+                        <persName ref="pe0784">Marquis of Buckingham</persName></add> Apropos to <persName ref="pe0396">Gulstone</persName>
+                    - half his sale is over, and tho’  the trash with which it abounds sells for little, such Lots as have either curiosity or Scarceness to recommend them rise
+                    to prices beyond all manner of belief. a paltry print of <rs type="art" ref="ar0134"><persName ref="pe0785">Pendrel</persName>
+                        in the oak</rs> not worth a shilling sold for £8: 15. 0., <rs type="art" ref="ar0135">Anthony Henley</rs>
+                    for £8: 10. 0. – <rs type="art" ref="ar0136">Earl of Cumberland</rs> £5: 5. 0.
+                    <rs type="art" ref="ar0137">Earl of Arundel</rs> £ 7: 7. 0 – <rs type="art" ref="ar0138">Humfry  LLoyd</rs>
+                    £5: 14. 0. and a <rs type="art" ref="ar0139">little foolish scratch of <persName ref="pe0788">Hogarths</persName> engrav’d on a snuff box</rs>, of which few impressions were taken fetch’d £33: 0. 0. – it was intrinsically worth one penny, and no more.</p>
+                <p>What Man could be so poor, or so tasteless as to return <persName ref="pe0014">Moses</persName>'s most ingenious 
+                    performances upon his hands?<note type="editorial">See <ref target="1051.xml">1051</ref>.</note> Why not bring the book to <placeName ref="pl0699">town</placeName>, and get it into the 
+                    first auction of credit, it would probably find its own value, if not, it is only buying it in yourself, and the 
+                    duty is sacred. I have recommended it to at least a dozen different Amateurs, and have shewn my <bibl type="authorial"><title ref="bi0032">journey to London</title></bibl>
+                    as a sample, but proffer’d service – you know what should follow. – Now a word or two as a reason for my not having answer’d 
+                    your letter sooner, and I will worry you no longer. I return’d to town on account of the arrival of <persName ref="pe0413">M<hi rend="superscript">r</hi> Morice</persName>'s
+                    will from <placeName ref="pl0923">Naples</placeName>, and since it has been open’d, my whole time has been taken up in 
+                    different businesses relative thereto, for my family hath a much larger interest therein than we had any reason to expect, 
+                    indeed his whole property has fallen into our laps, to what extent we are yet to learn, but at all events, it must be very 
+                    considerable. He has given me an annuity of £500 a year, and to my Daughters<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>
+                    an annuity of £100 per Ann<hi rend="superscript">m</hi>. - all the rest of his Estates, real and personal, whatsoever 
+                    &amp; wheresoever, he has bequeath’d to <persName ref="pe0346">M<hi rend="superscript">rs</hi> Luther</persName> for her life,
+                    and after her decease to <persName ref="pe0331 pe0336">my two Girls</persName> in equal proportions, <hi rend="underline">for ever,</hi>
+                    and I must premise that in the manner we and <persName ref="pe0346">M<hi rend="superscript">rs</hi> Luther</persName>
+                    have always liv’d together, it is just the same as <add place="above">if</add> we had immediate possession. He left 
+                    <persName ref="pe0293">Burrell</persName>, his Executor, £1000. –</p>
+                <p><persName ref="pe1373">Carter of <placeName ref="pl0776">Westminster</placeName></persName> has done a drawing for you
+                    of the <rs type="art" ref="ar0140">Priory at <placeName ref="pl1335">Dunstable</placeName></rs>, &amp; I wish to know
+                    whether you have any objection to his copying it for my <bibl type="authorial"><title ref="bi0032">Journey to London</title></bibl>,
+                    as he won’t do me one without your permission. The creases on the print enclosed, will all come out if you wet the print, 
+                    <hi rend="underline">all over,</hi> and lay it flat in some book that is smooth, and for the future whenever you want paste remember to use
+                    <hi rend="underline">Starch</hi> instead of <hi rend="underline">flour</hi>. I can’t yet find any method of being useful to 
+                    <persName ref="pe0065">your son</persName> in his travels, but <persName ref="pe0797">a friend of mine</persName> is going,
+                    the first week in June, to <placeName ref="pl1340">Lausanne</placeName> and <placeName ref="pl1341">Geneva</placeName>,
+                    and will take any parcell you wish to send.</p>
+                <closer>
+                    <salute>I am my dear Sir, always yours, and always
+                        <lb/>with truth &amp; sincerity, but always in haste</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull -</persName></signed>
+                    <dateline><placeName ref=""/></dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1180">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 121</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1794-12-21"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r</hi> 21<hi rend="superscript">st</hi> 1794.</dateline></opener>
+                <p>Late as it is I must thank you for your kind letter. <del><gap unit="letters" quantity="3" reason="illegible"/></del> I 
+                    shall drop my melancholy subject: for friendly as you are in your condolences, it is very difficult ‘to pluck resolution from flowery weakness’.<note type="editorial">The source of the quotation has not been identified.</note>
+                    I take the most effectual method of driving away sad thoughts from calamities public as well as private by applying with redoubled force to my studies. possibly in a few months you may find on your table a production of my pen which may give you some amusement. Another diversion from sorrow is one more proper to old age, that of making 
+                    <del><gap unit="letters" quantity="2" reason="illegible"/></del> my latter end beneficial to my neighboring fellow creatures dependents or otherwise. The one is by the importation of barley which bears even at present a high price, 
+                    &amp; it is to be feared will rise to an immoderate one. The other is that of employing a number of poor now out of work in labors I might very well defer. At this time it will be peculiarly beneficial not only to themselves but to the public, As it will suppress murmurs 
+                    &amp;  even insurrections, for crafty malecontents will assuredly make advantage even of the calamity of bad seasons.</p>
+                <p>
+                    I fear that as you hint that dissipation has too great hold of the million: but it should not be checked least despondency should seize on I fear the majority: <del>it</del>
+                    let it enjoy its bagatelle.<note type="editorial">'trifle; a thing of no value or importance'. <hi rend="italic">OED</hi>.</note> I live in a quiet neighborhood, 
+                    &amp; give them little trouble but when I lay them under contribution for some good cause public or private. raising of seamen for the 
+                    <placeName ref="pl0702">county of Flint</placeName> was one. The death of my fellow traveller <persName ref="pe0333">Lloyd</persName> was another. Affection drew from my purse 50 guineas; 
+                    &amp; his friends made it up <del><gap unit="letters" quantity="2" reason="illegible"/></del> full two hundred, so you may think I carry something terrific about me: but then I do not spare myself.</p>
+                <p>
+                    Let me now enquire after my friends. How is <persName ref="pe0434">Lord Walpole</persName>. and how is <persName ref="pe0332">M<hi rend="superscript">r</hi> Storer</persName>.
+                    The last I truely pitied racked by <add place="above">the</add> tortures of an easy chair: condemned to the <del><gap unit="letters" quantity="several" reason="illegible"/></del>
+                    punishment of not knowing what to do with myself. I must <hi rend="underline">now</hi> enquire after my friends: for <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName>
+                    most earnestly desires me not to urge to her a <placeName ref="pl0699">london</placeName> journey. she cannot bear the reminding scene: nor will it be grateful to me. But I must regret the not seeing of my friends. They must make 
+                    welsh tours &amp; see me. I shall write again <del>to morrow</del> on Tuesday<note type="editorial">The date on ‘Tuesday’ was 23 December, with Pennant writing this letter on 21 December, a Sunday. This evidence aids with the placing of <ref target="1181.xml">1181</ref>, dated 23 December, but with no year.</note>
+                    when I can get a frank, for I have a quere to put to you which requires a sketch to attend it, I am now in a humour to write: &amp;
+                    owe a letter! and as a duty <del><gap unit="letters" quantity="2" reason="illegible"/></del> would not defer it. my warmest good wishes attend you &amp;
+                    miss Bulls.<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note></p>
+                <closer>
+                    <salute>Adieu, Dear Sir
+                        <lb/>Y<hi rend="superscript">rs</hi> most affectionatly</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">A DE 23 84</stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251"><del><gap unit="letters" quantity="1" reason="illegible"/></del>OLYWELL</placeName></stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi>. | <placeName ref="pl0759">stratton street</placeName> | <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

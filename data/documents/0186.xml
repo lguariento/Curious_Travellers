@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0186">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, requesting extracts</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>123</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p>The following list of desiderata is written on the back of the letter
+                                in pencil:</p>
+                            <p>from <persName ref="pe0080">D<hi rend="superscript">r</hi>
+                                    Lind</persName>
+                                <list>
+                                    <item>Any Map of <placeName ref="pl1478">Iceland</placeName></item>
+                                    <item>Any Sketches or Draughts <lb/>of that Coast</item>
+                                    <item>A note of the best Port or <lb/>Harbours &amp;c. of that
+                                        <lb/>Place</item>
+                                </list></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-05-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0187"/>
+                    <ref type="prev" target="ct0185"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Many many thanks for y<hi rend="superscript">r</hi> kind Letter of may 5<hi rend="superscript">th</hi>. The number of patients cured &amp;c in y<hi rend="superscript">r</hi> infirmary is the thing wanted. If you can get at
+                        <bibl type="authorial"><title ref="bi0160">Sir James Dalrimples
+                            collection</title></bibl> be so good as to transcribe from p.271.
+                        <persName ref="pe0573">King William’s</persName> charter to <placeName ref="pl0651">Iona</placeName>.<note type="editorial">See <bibl type="editorial">Pennant, <title ref="bi0008"><hi rend="italic">A Tour
+                                    in Scotland and Voyage to the Hebrides</hi></title> (1774),
+                                <biblScope unit="page">p.292</biblScope></bibl>. Pennant appears to
+                        be checking his sources prior to the appearance of the second edition of
+                            <bibl type="editorial"><title ref="bi0009"><hi rend="italic">A Tour in
+                                    Scotland and Voyage to the Hebrides, 1772 Part
+                            I</hi></title></bibl> in 1776.</note> if not too long. if so only an
+                    abridgement. I hope <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                        Low</persName> &amp; you are happy together. Pray deliver the inclosed to
+                        <persName ref="pe0158">M<hi rend="superscript">r</hi> Macintyre</persName>
+                    &amp; the other Please to put in the post for by omission of <placeName ref="pl0705"><hi rend="underline">N. Br.</hi></placeName> on the frank, I
+                    fear it will not from hence find its way.</p>
+                <closer><salute>I am Dear Sir with <lb/>true regard yrs</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                <dateline>May 28<hi rend="superscript">th</hi> 1775.</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom hou<gap reason="damage" unit="lines" atLeast="1" atMost="2"/></addrLine>
+                    </address></p>
+                <p>W.P.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

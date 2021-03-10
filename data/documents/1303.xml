@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1303">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Daniel Lysons to Thomas Pennant, 13 November 1767</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>Warwickshire County Record Office</repository>
+                        <idno>CR 2017/TP294/5</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0408">Daniel Lysons</persName>
+                    <date when="1767-11-13">13 November 1767</date>
+                    <placeName ref="pl1276">Gloucester</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1304"/>
+                    <ref type="prev" target="ct1302"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl1276">Glocester</placeName> Nov: 13 1767
+                </dateline><salute>Dear Sir</salute></opener>
+                
+                <p>Yours I rec<hi rend="superscript">d</hi>. in <placeName ref="pl1347">oxford</placeName> where I was attending our College 
+                    Election, &amp; return’d home on friday last. If you desire me to go on from N<hi rend="superscript">o</hi>. 6 you must tell 
+                    me what fish N<hi rend="superscript">o</hi>. 6 are as I made no rough draught of what I wrote, but I think they must be Salmon, 
+                    shad twaite Lamprey, Lamperns, Elvers. Pray did I say nothing about Sturgeon?</p>
+                
+                <p>We have certainly two species of Eels in the <placeName ref="pl1226">Severn</placeName>. One, which I take to be the Conger, 
+                    has a remarkably broad head, &amp; mouth, and its body is thicker in proportion to its length than the common Eel. It is also 
+                    different in colour, its back being of a yellowish green, &amp; its belly very white, whence it is here calld a silver 
+                    Eel.<note type="editorial">See <hi rend="italic">British zoology</hi> (2nd edn., 1768–70), III, pp. 115–18, on the 'Conger' 
+                        variety of eel, for information about which Pennant acknowledges his debt to Doctor Borlase. The large numbers of conger fry 
+                        which come up the river Severn in April are noted on p. 116.</note> 
+                    The common Eel has a pointed snout, a narrow head, a black back, and a white, or dirty yellow colourd billy. If the silver Eel 
+                    is put into a fresh water pond it will live, &amp; grow to about 2 or 3 pounds weight, but not larger, and I never saw any of 
+                    them larger that were taken in the fresh water of the <placeName ref="pl1226">Severn</placeName>. But in the salt water I have 
+                    frequently seen the Conger Eel (which agrees with the silver Eel in shape) of many pounds weight I have seen them more than 
+                    12, &amp; I am told it is no uncommon thing to have them 40, 50, or 60. If you will come to me next Summer we will enquire 
+                    more particularly into this Species of fish.</p>
+                
+                <p>The Lampreys certainly return to the Sea. And it is as certain that the City of <placeName ref="pl1276">Glocester</placeName> 
+                    sends annually a present of Lampreys to the King. They are sent in a large raised pye at Christmass. If possible the 
+                    Corporation sends fresh fish, &amp; for that purpose always give a guinea a piece for them.<note type="editorial">The Gloucester 
+                        custom of presenting the king with a 'lamprey pye, covered with a large raised crust' in spite of the difficulty of acquiring 
+                        the fish at that time of year is mentioned in <hi rend="italic">British zoology</hi> (2nd edn., 1768–70), III, p. 59. Pennant 
+                        also mentions the prevalence of the lamprey in the Severn and the discovery of a large, 3lb lamprey in the Esk. See ibid., p. 58.
+                        
+                    </note>  But it is so very rare a thing 
+                    to get fresh fish at that time of the year that they <del>commonly</del> <add place="above">are frequently oblig’d to</add>
+                    send some <add place="above">of last years</add> that has been preserved. I will make enquiry whence this custom took its rise and 
+                    let you know.</p>
+                
+                <p><persName ref="pe2073">D<hi rend="superscript">r</hi>. Charleton</persName>, at
+                    whose request I wrote to you about the ascent of minerals into the veins of
+                    plants, is of your opinion that minerals cannot enter the [<del>...</del>] juices
+                    of plants in such a manner as to impregnate their fruit with their respective
+                    qualities. But he does <del>not</del> think that the acidum vagum fossile may,
+                    &amp; that the colics, &amp; palsies attending the <placeName ref="pl0780">Devonshire</placeName> colic may proceed from this cause.<note type="editorial">Rice Charleton discusses cases of cholic related to the
+                        consumption of cyder in <hi rend="italic">Three tracts on Bath water</hi>
+                        (Bath: R. Cruttwell for W. Taylor, 1774), pp. 72–80, and the work of George
+                        Baker on the Devonshire cholic in ibid., pp.
+                        78–9. See further n. 4, below.</note> He asserts (what I much doubt) that the Drinkers of Cyder made
+                    in <placeName ref="pl1653">Herefordshie</placeName> &amp; <placeName ref="pl1284">Worcestershire</placeName> have no such colics, or palsies as
+                    the rest of the Cyder counties are subject to. And he supposes that where ever
+                    minerals abound there the acidum vag abounds also, &amp; thus he accounts for
+                    the 2 counties above mention’d being free from this colic, but not the others
+                    where minerals &amp; consequently the acidum vagum fossile abound. I have no
+                    doubt but that the different qualities of the juices of plants depend
+                        <sic>cheefly</sic> upon the soil they grow in. But how far the acid. vag.
+                    fossil may in this manner contribute to the colics &amp; palsies or what you
+                    think of its allways attending minerals he desires me to ask your opinion. There
+                    is an answer to <bibl type="authorial"><title ref="bi0695"/>D<hi rend="superscript">r</hi>. Baker</bibl> published by <bibl type="authorial"><title ref="bi0696"/>M<hi rend="superscript">r</hi>.
+                        Geach</bibl> Surgeon at <placeName ref="pl0778">exeter</placeName> in which
+                    he seems justly to attribute the Colic to Cyder made from unripe fruit, or not
+                    properly fermented. And with as much appearance of reason supposes that the lead
+                    found in 18 bottles of <placeName ref="pl0780">Devonshire</placeName> cyder
+                    proceeded from shot left in the bottles, as <persName ref="pe2074">D<hi rend="superscript">r</hi> Baker</persName> does that it proceeded from
+                    the lead with which the cramps of the cyder mill <del>was</del>
+                    <add place="above">were</add> fastened.<note type="editorial">On the dispute
+                        between George Baker and <persName ref="pe2075">Francis Geach</persName>
+                        regarding the causes of colic, see letter from Devo at Exeter to Mr Urban,
+                        April 14 [1798], <hi rend="italic">Gentleman's Magazine</hi>, vol. 183
+                        (April 1798), 305: 'Dr. Baker ascribed the colic to the leaden pounds in
+                        which the cider ... is pressed; Mr. Geach to the shot left in the
+                        bottles'.</note>
+                </p>
+                <p>I am obliged to you for your enquiry after my health, &amp; have the pleasure to acquaint you that I 
+                    rec<hi rend="superscript">d</hi>. as much benefit from the <placeName ref="pl0796">Bath</placeName> waters as I could expect 
+                    or hope for, &amp; the ride to <placeName ref="pl1347">oxford</placeName> after, by which I was absent six weeks in the whole, 
+                    has so far established my health that I find my self in better health and spirits than I have known for a long time. 
+                    I hope therefore that you will make me a visit next summer, and we will then make our enquiries into the natural productions 
+                    of this part of the world together. I wish you all health and happiness and am</p>
+                
+                <closer><salute>Yours sincerely</salute>
+                    <signed><persName ref="pe0408">D. Lysons.</persName></signed>
+                    <dateline/></closer>
+                <postscript><p>P.S. My <persName ref="pe2076">Sister Reeves</persName> husband being lately dead I shall probably be obliged to go 
+                    to <placeName ref="pl0699">London</placeName> sometime in the Spring, pray when shall you be there.</p></postscript>
+            </div>
+            
+            <div>
+                <p>
+                    <stamp type="handstamp"><placeName ref="pl1276"><unclear>GL</unclear>OUCESTER</placeName></stamp>
+                </p>
+                <p>
+                    <address><addrLine>To <persName ref="pe0232">Thomas Pennant Esq<hi rend="superscript">r</hi></persName> at 
+                        <placeName ref="pl0001">Downing</placeName> near <placeName ref="pl1251">Holywell</placeName> 
+                        <placeName ref="pl0702">Flintshire</placeName></addrLine></address>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

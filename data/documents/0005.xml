@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0005">
+    <teiHeader type="s">
+        <fileDesc>
+            <titleStmt>
+                <title>Hester Piozzi, Journey through the North of England &amp; Part of Scotland Wales &amp;c.
+                    <date>1789</date></title>
+                <respStmt>
+                    <name>Edited with an introduction by Elizabeth Edwards</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Manchester</settlement>
+                        <repository>John Rylands Library</repository>
+                        <idno>GB 133 Eng MS</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>623</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p>Marginalia on left-hand margin of f. 10v:</p>
+                            <p><placeName ref="pl1031">Castle of
+                            <lb/>Edinburgh</placeName>
+                            <lb/>seen coming
+                                <lb/><unclear>home</unclear> from <placeName ref="pl0243">Queen’s Ferry</placeName>
+                            <lb/><gap unit="letters" quantity="5" reason="illegible"/> Castle.
+                                <lb/><placeName ref="pl0724">Holyrood House</placeName>
+                                <lb/><persName ref="pe0456">Darnley</persName>'s
+                            <lb/>Bones.
+                            <lb/>Chapel.
+                                <lb/><placeName ref="pl1737">Hawthorndale</placeName>
+                                <lb/><placeName ref="pl0967 pl1737">Roslin</placeName>
+                            <lb/><unclear>Ben</unclear> Johnson
+                                <lb/><persName ref="pe1099">David Hume</persName>
+                                <lb/><placeName ref="pl1028">Arthur’s Seat</placeName>
+                            <lb/>Volcanic, no;
+                            <lb/>blown up w.<hi rend="superscript">th</hi>
+                            <lb/>Gunpowder
+                            <lb/>Wood once
+                            <lb/>a bad Thing
+                            <lb/>clear the
+                            <lb/>Country 1:<hi rend="superscript">st</hi>
+                            <lb/>Passage <gap unit="letters" quantity="4" reason="illegible"/>
+                            <lb/>Suite
+                                <lb/>Stables fine.
+                                <lb/><placeName ref="pl0062">Alnwick</placeName> <del><gap unit="letters" quantity="4" reason="illegible"/></del>.
+                                <lb/><placeName ref="pl0242">Hopeton</placeName> <unclear>proudest</unclear>
+                                <lb/><placeName ref="pl0387">Dalkeith</placeName> <unclear>happiest</unclear>
+                                <lb/>amænity.
+                                <lb/><persName ref="pe1100">Allan Ram-
+                                    <lb/>say</persName> his <persName ref="pe1101">Son.</persName>
+                            <lb/>a Wig makes
+                            <lb/>a Painter
+                            <lb/>&amp;cc --</p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="fr">French</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb n="1r"/>
+                <fw>f. 1r</fw>
+                <p><placeName ref="pl0765">Hatfield House Herts</placeName> is much improved, but the Weather was so bad we saw it to disadvantage -- the Country is a 
+                    dry one however, and Rain is so desired by the Inhabitants for their chalky Soil, that one shower every Day, and two on a Sunday is here called the 
+                    Farmer’s Toast. Travelling North we get bad Weather enough indeed without wishing for it &amp; as the Country grows coarser, tis observable that the
+                    Cottagers grow neater, the Paling closer, &amp; every sort of Fence better kept in repair. I used to tell the 
+                    <placeName ref="pl0780">Devonshire</placeName> gentlemen how their Mud Wall habitations disgraced their fine Climate, but that Contradictions of 
+                    Good should of themselves unite in this Sublunary World is vain to hope, that sole Change may for ought I know make the difference we find when we 
+                    come to the other. <hi rend="underline">Here</hi> as Warmth and brilliancy of Sun advances, &amp; the Heart begins to expand in a genial Climate, 
+                    one begins to see Poverty, and feel Vermin which lower the Delight of driving South exceedingly, &amp; never fail to cure one’s Passion for the garish 
+                    Sun. Now every Step is towards a harsher Soil, our Inns are cleaner, our Accommodations better; Stone Cottages not Mud ones shew the Comforts of 
+                    Industry, and never were fewer Alms asked on any Road than that from <placeName ref="pl0699">London</placeName> to <placeName ref="pl0763">York</placeName> 
+                    I believe. <placeName ref="pl0764">Burleigh house</placeName> is more magnificent than <placeName ref="pl0765">Hatfield</placeName>, &amp; the Porcelane
+                    it contains – invaluable, besides some Porphyry &amp; Verd antique very precious in our Island, &amp; provided for the <persName ref="pe1091">Queen</persName>'s 
+                    Reception when she slept here in the year 1570 <add place="above">at</add> which <add place="above">time</add> the Difficulty of procuring it was greater still than now. 
+                   <note type="editorial">Burghley House, completed in the late 16th century, was the residence of Elizabeth I’s long-time chief advisor, William Cecil (1520-98).</note>
+                    Some Pictures --- mere <unclear>Echantillons</unclear> of <placeName ref="pl1164">Italian</placeName> Riches allure one’s Notice, among which 
+                    <rs type="art" ref="ar0197"><persName ref="pe0354">Albano</persName>'s Three Heads representing Fire Water &amp; Air</rs> are the liveliest
+                    &amp; sweetest I ever beheld -- and shew the Master's Power over greater Things – tho’ ’twas in elegance not Sublimity I always observed 
+                    <persName ref="pe0354">Albano</persName> to triumph upon the <placeName ref="pl1176">Continent</placeName>: in a Scale of Poets &amp; 
+                    Painters one should rank <persName ref="pe0354">Albano</persName> with <persName ref="pe0355">Prior</persName>. The Churches are much 
+                    handsomer on this Road than on that either to <placeName ref="pl0731">Wales</placeName> or <placeName ref="pl0766">Cornwall</placeName>, more solid 
+                    without more spacious &amp; better ornamented within,
+                    <pb/>
+                    <fw>f. 1v</fw>
+                    <placeName ref="pl0767">Ferry Bridge</placeName> where I sit writing in a Bow Window, is a beautiful Situation, &amp; the Road from <placeName ref="pl0768">Doncaster</placeName>
+                    hither completely smooth &amp; even, exhibiting both on the right &amp; left Hand numberless Seats Parks &amp;c laid out very tastefully indeed, and uniting the 
+                    Merits of <placeName ref="pl1472 pl0775">both Nations</placeName> by combining <placeName ref="pl1472">German</placeName> solidity and neatness with 
+                    <placeName ref="pl0775">English</placeName> skill in disposition of the Ground. <placeName ref="pl0769">Bavaria</placeName> itself shews no handsomer Gates, 
+                    no firmer Pales, no better formed Fences than this part of <placeName ref="pl0770">Yorkshire</placeName> produces; but the Rivers of <placeName ref="pl0777">Great Britain</placeName>
+                    are Brooks compared to those of <placeName ref="pl0771">Austria</placeName>, and their Shallowness is not compensated by Translucency. Stone Buildings much encrease 
+                    the Air of Opulence and Comfort that breathes thro’ <placeName ref="pl0770">this County</placeName>, a <persName ref="pe1092">Lady</persName>
+                    once told me she thought a Brick House resembled a Bob Wig, &amp; I thought there was something pretty as well as whimsical in the Idea. it has 
+                    often struck me that the great old wide spreading Oak Tree was emblematical of a Country Gentleman residing at his Seat in one of these remote 
+                    Counties; while the Elm puts me rather in mind of the rich <placeName ref="pl0699">London</placeName> Tradesman flourishing most happily when 
+                    nearest <placeName ref="pl0699">the Metropolis</placeName>. From <placeName ref="pl0014">Tuxford</placeName> to <placeName ref="pl0768">Doncaster</placeName>
+                    and some parts of <placeName ref="pl0773">Nottinghamshire</placeName> before you get there look a very little like <placeName ref="pl0774">Brabant</placeName>,
+                    but less richly cultivated – a Naked Foregound however almost always, &amp; Spires among Trees on the Verge of the Horizon in the Style of 
+                    <hi rend="underline">les Vues de <placeName ref="pl1715">Flandres</placeName></hi>. <placeName ref="pl0763">York</placeName> is a gloomy melancholy Town, 
+                    clean enough tho’ &amp; has an uncommonly fine Assembly Room built from a Design of <persName ref="pe0356">L<hi rend="superscript">d</hi>. Burlington</persName>'s,
+                    &amp; somewhat too crouded with Pillars, w<hi rend="superscript">ch</hi>. However have a good Effect upon the Whole. 
+                   <note type="editorial">York’s Assembly Rooms were built to a neoclassical design by Richard Boyle (1694-1753), 3rd Earl of Burlington, in the 1730s.</note>
+                    Their Courts of Justice Prison &amp; are very fine here all together within one Inclosure, convenient and even Elegant one may say: clean to a Nicety and the 
+                    Architecture approaching to Magnificence the <add place="above">whole consists</add> of three separate Elevations, &amp; a charming Outlet with Deer in it. 
+                    Our Cathedral in this City is second to none in <placeName ref="pl0775">England</placeName> for Space &amp; covers a monstrous Quantity of Ground: the Façade is very fine, 
+                    &amp; the Windows appear to have been <del>painted</del> <add place="above">Done</add> in the <unclear><del>Lives</del></unclear> <add place="above">days</add>
+                    of the Martyrs they represent – I never saw such very old painting before – that in <placeName ref="pl1698">S<hi rend="superscript">t</hi> Margaret's Westm<hi rend="superscript">r</hi></placeName>
+                    looks actually modern to it.<note type="editorial">York Minster houses an internationally significant collection of historic stained glass, some of which dates from the 12th century.</note></p>
+                <p>Well! <placeName ref="pl0778">Exeter</placeName> is not so clean as <placeName ref="pl0763">York</placeName>, nor 
+                    <pb/>
+                    <fw>f. 2r</fw>
+                    yet so well built; ’tis a gayer, pleasant looking Place however 
+                    &amp; the Shops there appear to better furnished .. the public Walk too is chearfuller at <placeName ref="pl0778">Exeter</placeName>, though we have at 
+                    <placeName ref="pl0763">York</placeName> the advantage of a River by the Side of which Trees are planted, and it has more the Air of a Place formed for the Reception &amp;
+                    Amusement of Company than <hi rend="underline"><placeName ref="pl1716">Norney</placeName></hi> .. so our <placeName ref="pl0780">Devonshire</placeName>
+                    Friends call it .. rising Ground w:<hi rend="superscript">ch</hi> adorns the little Capital of their sweet County, and tell us that the Word in contracted from 
+                    <hi rend="underline">Northen Hay</hi> to w.<hi rend="superscript">ch</hi> however I annex no more Ideas than to <hi rend="underline"><placeName ref="pl1716">Norney</placeName></hi>.
+                    <placeName ref="pl0779">Castle Howard</placeName> is <add place="above">a</add> gallant Place however, the <add place="above">general</add>
+                    Situation so well compensated by its peculiar Advantages – the Cold so kept off by Woods of venerable Dignity, and <hi rend="underline">soft Ideas</hi>
+                    so delicately conveyed by dint of young Plantations that while one traverses the Pleasure Grounds <add place="above">every</add> Image of a coarse Country is completely excluded from the Mind, 
+                    &amp; one is not <hi rend="underline">much</hi> astonished to see the Gold Pheasants breed happily in the Menagerie, the Orange Trees flourishing in the Greenhouses. 
+                    Mean Time here are large Specimens of rich Marbles in the House within; Columnets of Green Porphyry exceedingly fine with Busts Statues &amp;cof surprizing Value. A 
+                    <rs type="art" ref="ar0200">Pallas of black Basalt her Drapery oriental Alabaster</rs> in particular a <rs type="art" ref="ar0199">Jupiter Serapis</rs>
+                    wonderfully fine, &amp; <rs type="art" ref="ar0198">two Roman Emperors – Vetellius one, in Persid’s rosso worthy of <placeName ref="pl0809">Villa Borghese</placeName></rs>.
+                    Here are likewise two large Tables of Bloody Jasper &amp; two of Paglia with Egyptian Vases on them fit for the Pope’s Museum,
+                   <note type="editorial">Probably a reference to the Pio Clementino Museum, founded in the 1770s, the holdings of which include the earliest collection of sculpture kept at the Vatican (from the early sixteenth century).</note>
+                    &amp; which have no Rivals nearer them than that Spot. 4 Slabs of Verd Antique and as many of the more highly valued but less beautiful Giallo  astonish one, and the 
+                    Pavement of the Chapel is meant as a distant Imitation of that in the <placeName ref="pl0808">Roman Pantheon</placeName>; inlaid with small Pieces of Serpentine,
+                    Granite Jasper &amp;c with great Taste indeed, &amp; no small Expence.</p>
+                <p>
+                    <pb/>
+                    <fw>f. 2v</fw>
+                    Meantime the Wind howls like the End of October in <placeName ref="pl0922">Sussex</placeName> &amp; this is the 12: of June: our Bay at 
+                    <placeName ref="pl0043">Scarbro’</placeName> is beautiful, &amp; did the Climate confirm a Fancy nothing can more effectually contribute to 
+                    keep at a Distance; one might say that y.<hi rend="superscript">e</hi> castle on the Hill reminded one of the Cestorini<note type="editorial">unidentified</note>
+                    at <placeName ref="pl0923">Naples</placeName>, and that the Town lay round the Semicircle somewhat in the manner of their <placeName ref="pl1722">Chiaja</placeName>.
+                    Be it as it may, the Sea here is bluer --- of a more Cerulean Colour somehow than we find it in less cold Latitudes ---- even on the Coasts of 
+                    <placeName ref="pl0780">Devonshire</placeName> &amp; <placeName ref="pl0766">Cornwall</placeName> may be observed a very great Difference, &amp;
+                    manifest Inferiority of Tint: and the <placeName ref="pl1723">Mediterannean</placeName> is almost ever of a wheyish or chalky blue, nothwithstanding 
+                    the cloudless Azure of its Canopy, which however cannot be complained of even here; as I never saw a brighter Atmosphere any where than at this Place 
+                    since we have resided in it. <placeName ref="pl0039">Flamboro’</placeName> is famous for the Resort of Birds which among those Cliffs are innumerable 
+                    and fly off in such Clusters on the Report of a Gun that their Plumes darken the Air as they wheel about. – Our <placeName ref="pl0924">old Castle</placeName> here has nothing remarkable
+                    but its Age; it was built in the Roman Time, &amp; the Gothick Arches of it are modern.<note type="editorial">Scarborough Castle, set on a cliff-top overlooking the town includes Iron Age, Roman and Anglo-Scandinavian settlements in its history. The castle Piozzi is describing is a 12th century structure that was of significant military importance throughout the Middle Ages and early modern period.</note>
+                    ----- What more can said about <placeName ref="pl0043">Scarborough</placeName>? that it was the first place which invited People to bathe in the Sea, &amp;
+                    taste a Pleasure we English can now scarce Exist without; but which is a Luxury not fourscore Years old I believe, even in our Country, &amp;
+                    no other inhabitants of <placeName ref="pl1176">Europe</placeName> have taken Delight as yet to follow our Example &amp; seek Health united with innocent 
+                    &amp; natural Recreation by dipping in the Ocean's beneficial Waters that surround this Island replete with Advantages derived from its Vicinity. Well! travelling thro’ the 
+                    <placeName ref="pl1724">North of England</placeName> is
+                <pb/>
+                <fw>f. 3r</fw>
+                    very unlike driving thro’ the <placeName ref="pl1725">South of France</placeName> that’s certain for here we have a fire every Evening, and should 
+                    not find it disagreeable at Noonday: but if we are not regaled with the Produce of a hot Sun, his very long Duration makes some Amends – one can see 
+                    to read without Candles at 10 o’clock at Night, and between two &amp; three i’ the Morning he gilds the Horizon again --</p>
+                    <p style="right">Young Day pours in apace <lb/>And opens all the lawny Prospect wide.
+                   <note type="editorial">James Thomson, ‘Summer’, (1727), l. 51-2. See http://www.eighteenthcenturypoetry.org/works/o3549-w0020.shtml. Piozzi also quotes this passage in her Observations and Reflections: see I. 415.</note></p>
+                    <p><lb/>The want of Twilight and the short Evenings seen in Nations nearer the <placeName ref="pl1726">Tropic</placeName> do not please one; I feel 
+                    accustomed somehow to connect the Ideas of Summer and long Days together, &amp; feel a sensation like Disappointment when the Night shuts in so precipitately. In short 
+                    <hi rend="underline">These pale unripened Beauties of the North</hi> as old Syphax calls them,<note type="editorial">A quotation from Joseph Addison’s Cato (1713), 1.4.135. Syphax is a character in Cato.</note>
+                    have many Compensations in their striking Features, and vigorous Form, for the soft and vivid Complexion that charms the visitor of warmer Climates. Here however if Figs 
+                    &amp; Vines and Melons are denied, the Eye is seldom disgusted by Deformity or the Ear pained by the Sound of Supplication --- the Smell is not offended with Nastiness, 
+                    nor one’s Feeling irritated by the biting of Vermin. No poor objects shock Humanity here; our low people are well:housed, well:clothed, well:fed; 
+                    chearful in their Cottages and active in their Fields. I have not seen a ragged Family, nor been obliged to refuse a Beggar on the Road. Let 
+                    <placeName ref="pl0925">France</placeName> and <placeName ref="pl0926">Genoa</placeName> blush at the Account, for what must be the Curse of 
+                    Despotic Governments, where the people starve so in the midst of Plenty. Nor are our prospects void of milder Beauties, a little Village five or six 
+                    Miles Westward, where the poor <persName ref="pe0439">Marquis of Annandale</persName> has a Seat his State of Health suffers him not to enjoy, is wonderfully pretty: all the 
+                <pb/>
+                    <fw>f. 3v</fw>
+                    a Thick Wood covering the shelter’d Hills, and exhibiting as much variety in its Verdure as the Season will allow: while Cattle of particularly
+                    majestic Size and elegant Colours adorn every Meadow and evince the Riches of their pasture. Hawthorn Bushes perfuming meantime those Hedges 
+                    w:<hi rend="superscript">ch</hi> separate the Fields and direct the Rivulet which rattles through them &amp; pursues its Course Across our little Town, 
+                    whose cherry cheeked Children &amp; neatly repaired Steeple prove that <del>Poverty</del> <add place="above">chearfulness</add> may subsist with 
+                    <del>Chearfulness</del> <add place="above">Poverty</add>; and Industry keep pale eyed Want for ever from the Door. I never saw a sweeter Valley among the 
+                    <placeName ref="pl1165">Alps</placeName> than this clean Place called <placeName ref="pl0927">Hackness</placeName>; nor could point out a 
+                    more agreeable Scene for a Landskip Painter, who loves a rich Fore Ground, &amp; Moorlands in the Offskip held up high so as not to hurt, but rather relieve 
+                    the Sight. --- Sure I have seen a Drawing of <persName ref="pe0440">Miss Hartley</persName>'s taken from this fine Spot. surely I have! mean Time the Fish 
+                    here are prodigiously fine – a Cod’s head, such as one gibes two Guineas for in <placeName ref="pl0699">London</placeName>
+                    is to be had for eight Pence – the whole Creature for a Shilling, and the poor People here salt monstrous Quantities for Winter Store, &amp; 
+                    Commerce too they tell me: but our Turbots are far inferior to those of <placeName ref="pl0928">Torbay</placeName>; 
+                    nor have I heard that Red Mullets, Pipers, or Dorees ever sail as far as this to the Northward: the Cod or Ling thrives but in the Cold Seas --- witness the Coasts of 
+                    <placeName ref="pl0694">Newfound:Land</placeName> &amp; <placeName ref="pl0929">Canada</placeName>, and as the Herrings come down in immense Shoals from the less favourable Regions, we stop them on the Road at 
+                    <placeName ref="pl0043">Scarborough</placeName>; but they eat fine 
+                <pb/>
+                <fw>f. 4r</fw>
+                    when forwarder upon their Journey: <placeName ref="pl0731">Wales</placeName> produces that Fish in perfection. But here are Lettuces which shame the South, I never saw such anywhere: 
+                    &amp; ’tis observable that Vegetable Life is very docile; <placeName ref="pl0705">Scotch</placeName> Gardeners, or Men brought from these remote Counties always do more towards training Ground, 
+                    &amp; getting in order the Spot committed to their Charge, than any dwellers in a softer Climate, who are commonly lull’d to Idleness by that spontaneous Readiness their Country feels 
+                    to yield its Virtues without Violence, and which is therefore like other willing Beauties, often neglected for those of coyer Cultivation. The Road to 
+                    <placeName ref="pl0045">Whitby</placeName> is a savage one, and the Country round coarse as <placeName ref="pl0930">Westphalia</placeName> - 
+                    some Moor Game relieved one’s Eye from Time to Time, but they are at once a softner &amp; a Proof of the Poverty of such <unclear>Contours</unclear>.
+                    - <placeName ref="pl0045">Whitby</placeName> is a pretty Place however the Sea comes in so Triumphantly, &amp; the Piers are such fine ones – 
+                    the Harbour so handsome too, yet there is a wildness about it, not unworthy a Port where the Whalefishers repose after an Expedition to <placeName ref="pl0931">Greenland</placeName>
+                    – some smart Houses overlooking the Bay with Gardens hanging down from them to the Town are pretty enough however; and here is a <placeName ref="pl0046">ruin of some Consequence</placeName> upon the Hill.
+                    Roads such as our Ancestors were confronted with, but we are now little accustomed to in <placeName ref="pl0775">England</placeName>, 
+                    carried us forward after a Stay of as few hours as possible to <placeName ref="pl0050">Stockton</placeName> which looks like a Place upon the 
+                    <placeName ref="pl1176">Continent</placeName>, so quiet, so few Carriages, so <hi rend="underline">dull</hi>. but incessant Rain washes away 
+                    all hope of Amusement in a Northern Tour I see, while twelve bright Hours together seem totally unexpected by the Inhabitants; our Coach breaking 
+                    among the Moorlands added nothing to our Comfort
+                <pb/>
+                <fw>f. 4v</fw>
+                    neither, though our Conversation was somewhat quickened <add place="above">perhaps</add> by talking over the temporary distress, &amp; rejoicing that 
+                    no worse Consequences followed &amp;c. <hi rend="underline"><placeName ref="pl0052">Durham</placeName></hi> affords ev’ry Consolation, and displays every 
+                    Charm which bad Weather cannot destroy – Woods! Walks! Water! majestic in their kinds, with a <placeName ref="pl0934">Cathedral</placeName>
+                    of immense Antiquity and Weight, conveying Gothick and gloomy Images to the Mind, with more true Power than even <placeName ref="pl0932">York minster</placeName>
+                    itself, the Situation combining in favour of such Fancies more than of any Place I ever yet saw. Every Step round these Grounds would form a beautiful Picture: our 
+                    <placeName ref="pl1727">modern Bridge</placeName> elegant though solid, thrown over so sweet a Ruin contrasts very happily with the <placeName ref="pl0934">Church</placeName>
+                    - - - and a beautiful Knowl covered only by reposing Cattle of exquisite Beauty and uncommon Value makes pleasing Opposition to the two large Hills loaded with noble Timber, 
+                    &amp; fringed <add place="above">down</add> to the <add place="above">very</add> Riverside. Our Fish here is particularly fine, <placeName ref="pl0933">Sunderland</placeName>
+                    lies but a very few Miles off, &amp; supplies us with Soles &amp;c from the <placeName ref="pl1728">Danish Ocean</placeName>: Trout, Eel, and every Produce of fresh Water 
+                    comes to our door. – A Coal Mine three Miles off makes the best Compensation possible for want of Sun Shine w:<hi rend="superscript">ch</hi> was never
+                    more wished for by me --- were it only to illuminate the surrounding Scenery, so deserving a strong Light. – We have however been to hear Divine Service at the 
+                    Cathedral, and all that part of our Travels should be thrown into <hi rend="underline">Shade</hi> I think. Never was any
+                <pb/>
+                <fw>f. 5r</fw>
+                    church in any County more shamefully neglected sure than <hi rend="underline">ys</hi> where the Bishop has 15000<hi rend="superscript">L</hi>
+                    - a year, the Dean 2000<hi rend="superscript">L</hi> – and Prebendaries in proportion: yet they suffer their Choristers to appear in dirty Surplices
+                    on a Sunday – lolloping about too in a way wholly new as offensive to me, who have seen Boys reproved &amp; driven out of much inferior Churches 
+                    <add place="above">in <placeName ref="pl0775">England</placeName></add> for less Indecorums than were practised by these Youth while doing 
+                    their Duty in it – the Cushions likewise --- the Books --- the Throne! all in such wretched Repair; it shocked one – but the Chapter &amp;c 
+                    are going to think of Reforms; and begin on the <hi rend="underline">outside</hi> I am told, by giving Height &amp; Beauty to an old Tower 
+                        which wants little else. --- Never was there a Feature of more Dignity or Beauty save than this old Tower viewed from the <placeName ref="pl0053">Seat of Carr Ibbetson near Durham</placeName>;
+   <note type="editorial">Cocken Hall, north of Durham, was the seat of the Carr family.</note> but that Seat certainly unites such variety of Excellence 
+                        &amp; exhibits Objects so worthy of attention, that it can have had little Chance of waiting for my Pen to celebrate the Bends of a River rapid in its 
+                        Course, as elegant in its windings: of a Breadth beyond what one had formed any Idea, and of a Disposition to Violence which might alarm one – were not
+                        the embankments solid in proportion, and defended by a Rock inferior to none boasted by <placeName ref="pl0935">Derbyshire</placeName> that frown over the delicate 
+                        <placeName ref="pl0525">Derwent</placeName> -  or incumber the Banks of the <placeName ref="pl0937">Dove</placeName>. Here is Wood too at 
+                        <placeName ref="pl0938">Cockerton</placeName> wirthy of <placeName ref="pl0939">Hagley Park</placeName>; &amp; hanging down to the 
+                        <placeName ref="pl0940">River Edge</placeName> beyond any thing at <placeName ref="pl0941">Richmond</placeName> or <placeName ref="pl0942">Hampton</placeName>:
+                        I never saw so sweet a Place. the Walk, the Shrubbery – the <placeName ref="pl0943">Ruins of Hinckley Abbey</placeName> -  the <unclear>Bust</unclear>
+                        by the Diary House ---- the rich &amp; warm Plantation: the unworked
+                    <pb/>
+                    <fw>f. 5v</fw>
+                        Coal Mine! the Chalybeat Spring!<note type="editorial">A chalybeate spring is one containing mineral salts, especially iron.</note> 
+                        the insult offered to the 55<hi rend="superscript">th</hi> Degree of Latitude where they have scooped the Rock to catch a Mid day Sun &amp; 
+                        produce Grapes by a Vine scarcely trained against it, but growing wild as if at <placeName ref="pl0944">Florence</placeName> or <placeName ref="pl0926">Genoa</placeName>.
+                        Nectarines too and peaches produced in the same manner with Almonds innumerable &amp; Portugal Laurels of a respectable Size astonish the Beholder, till he reflects on that impervious Shelter from the 
+                        northern Winds which such Stony Limits cased with a prodigious Heighth &amp; Depth of Timber certainly afford. When we consider this however, our Wonder ceases; 
+                        &amp; one sees clearly that Oranges might be led up in those Recesses to the Astonishment of Foreign Travellers, without any assistance from either Glass or Fire. Let us add that ’tis a Situation of such peculiar Felicity that Frost seldom affects, 
+                        though Rain is useful to fructifie its Soil, &amp; indeed we saw it on a Day remarkably cold, yet were much Incommoded both by Heat &amp;
+                        Flies. – <placeName ref="pl0052">Durham</placeName> is in itself all the while a very old ugly straggling disagreeable Town; but 
+                        <add place="above">such all</add> the Contorni that we were not tempted till the 1:<hi rend="superscript">st</hi> of July to leave it for 
+                        <placeName ref="pl0057">New Castle</placeName> where every thing is making new I believe: Streets widening, &amp; Houses building quite in a Modern Style like 
+                        <placeName ref="pl0723">Liverpool</placeName> or <placeName ref="pl0489">Manchester</placeName> while its Gothick &amp; even Roman Antiquities are very well worth Inspection 
+                        &amp; have had Engravings made of them. <placeName ref="pl0772">S.<hi rend="superscript">t</hi> Nicholas's Steeple</placeName> is preeminently beautiful 
+                        &amp; the Church itself full of curious Monuments --- one of <persName ref="pe0695">Edw.<hi rend="superscript">d</hi> the 3.<hi rend="superscript">d</hi>s</persName>
+                        <persName ref="pe1094">Sons</persName> lies here interred &amp; they boast some Relics of the celebrated Hotspur. A Public Walk &amp; 
+                        new Assembly Room are however greater favourites with the Inhabitants than all these Rareties together: there is much Commerce &amp; uncommon Population at 
+                        <placeName ref="pl0057">Newcastle</placeName>: I know where <unclear>once</unclear>
+                    <pb/>
+                    <fw>f. 6r</fw>
+                        ever saw so many Children in one City of the size – They about the Streets in little Flocks -- our Inn was good, but we had loiter’d too much, &amp;
+                        wanted to see <placeName ref="pl0062">Alnwick</placeName>, whither a Road planted all the way from <placeName ref="pl0059">Morpeth</placeName>
+                        by the <persName ref="pe0442">late Duke</persName>, carried us next Morning – the <placeName ref="pl1729">Castle</placeName> makes no Show till you come close to it 
+                        <hi rend="underline">upon</hi> it one may say: yet ’tis hard to tell why --- for there is not so much Wood round, &amp; it stands upon a Hill. be this as it may the 
+                        Appearance is magnificent, and brings back all the Notions of Surly Greatness and Colossal Power which dwelt in Castles and put its Enemies real or imagined – 
+                        <hi rend="underline">in the Dungeon</hi>. ---- The place appropriated for that purpose still exists at <placeName ref="pl0062">Alnwick</placeName>
+                        to show what Blessings have followed where the Plough of Commerce has turned the Clods of Barbarity &amp; levelled Aristocracy’s proud Hill to the Surface of its Neighbour’s 
+                        Earth. <hi rend="underline">Au zeste</hi> as the French say the <hi rend="underline">Terrein</hi> is wonderfully beautiful as a Work of Art completed in Defiance of the Climate; every barren Spot clothed 
+                        w:<hi rend="superscript">th</hi> all the Trees that will grow on it: among which Planes &amp; Ash make the most considerable Figure. Syringa and Laburnum do best among the Shrubs, but there is now and then a wild Rose found in the Hedges, 
+                        and a few newly set Cherries upon stunted Standards. The Menagerie is surprizingly sheltered however, by some ruins of a Convent well kept in Repair, preserving every possible Trace of its old original Appearance, 
+                        &amp; an extraordinary large Sycamore growing through the Stones of a Wall which seems to have fallen upon it without impeding its Growth. A
+                        <placeName ref="pl1730">Tower</placeName> built for an Object four Miles from the House, is likewise well imagined; and in an excellent Taste of Gothic Solidity: it commands an extensive Horizon bounded on by the Sea on one Side, the 
+                        <placeName ref="pl0945">Cheviot Hills</placeName> on the other: more interesting than beautiful however is the Prospect seen from any Spot near 
+                        <placeName ref="pl0062">Alnwick</placeName> --- the Interest confined too to the Possessor of the Place for who but a Percy can much care about a Douglas?
+   <note type="editorial">Probably a reference to the ballad ‘Northumberland Betrayed by Douglas’, which recounts how the rebel 7th Earl of Northumberland is handed over to Elizabeth I by the Scots. In the context of the passage, however, it may also refer to the planting of Douglas Fir.</note>
+                        Here is a good flow of natural Water &amp; the <persName ref="pe0442">late Duke</persName> placed his Clumps so judiciously that in a very few Years the coarseness of this
+                    <pb/>
+                    <fw>f. 6v</fw>
+                        inhospitable Climate will be wholly concealed from a cursory or superficial Observer. The House is not a good one, – as a Dwelling: but we must remember while we run over the Apartments that they are made in a Castle or strong Place of Defence, not intended as the Purpose of Elegance 
+                        &amp; Security, such as Modern Times &amp; Softer Manners afford. The Library notwithstanding is handsome enough, &amp; the Chapel – as it should be – transcendent. a 
+                        <rs type="art" ref="ar0201">Cenotaph to Elizabeth late Duchess of Northumberland’s Memory</rs> mighty happily fabbricated, somewhat in the Style of an ancient Sarcophagus and her Pedigree drawn from 
+                        <persName ref="pe1095">Charlemagne</persName> upon the Wall, rather by its ingenious Disposition adorns, than takes from the Beauty of the whole. I never saw so sweet a Structure for 
+                        devotional Purposes belonging to any private Subject. <placeName ref="pl1731">Cappella Borghese</placeName> is only <hi rend="underline">richer</hi>
+                        ’tis not more <hi rend="underline">striking</hi> than this at <placeName ref="pl0062">Alnwick</placeName>. --- The Model was taken from 
+                        <placeName ref="pl0946">King’s College Cambridge</placeName>, and cannot be in a more exquisite Taste --- every thing else is far inferior to 
+                        <placeName ref="pl0779">Castle Howard</placeName>, whose remarkable Mausoleum should not be forgotten however, as it is calculated to impress the Mind very forcibly, and to contain two hundred and fifty Bodies in separate Cells or Oven:like Apartments with an Octagonal Chapel over all --- richly paved 
+                        &amp; suitably ornamented.<note type="editorial">The domed mausoleum at Castle Howard was built for Charles Howard, 3rd Earl of Carlisle, in 1729, and contains 63 catacombs. See http://www.mmtrust.org.uk/mausolea/view/199/Howard_Mausoleum_North_Yorkshire</note>. 
+                        From <placeName ref="pl0062">Alnwick</placeName> – the Elephant of the North we drove forward to <placeName ref="pl0063">Belford</placeName>, a savage looking Place with comfortable Accomodations somehow in a 
+                        most unpromising and hateful Hôtel. <placeName ref="pl0067">Berwick upon Tweed</placeName> <unclear>rec’d</unclear> us two Days after, &amp; 
+                        exhibited good Crops of backward Corn as we were carried along. This Town is a sort of little Fortress not ill defended by Cannon, &amp; 
+                        the Walls make an agreeable Walk round the Whole. Here are some English Churches, but the Inhabitants seem chiefly <placeName ref="pl0705">Scotch</placeName> 
+                        Calvinists for ought I can observe, &amp; the Inn &amp;c <hi rend="underline">so</hi> nasty – it disgusts one. Entering <placeName ref="pl0705">Scotland</placeName>
+                        the Country changes its Appearance gradually, and the manners fade away visibly upon the Borders: <persName ref="pe0444">M.<hi rend="superscript">r</hi> Piozzi</persName>'s
+                    <pb/>
+                    <fw>f. 7r</fw>
+                        Remark that the Scotch <placeName ref="pl0705">Scotch</placeName> were like Chinese, made me laugh from its Novelty, but ’twas their Bonnets produced the Observation. Trees however will shortly be no Rareties sure; for never were more 
+                        elegantly disposed Plantations scattered round a Country, &amp; both of the <persName ref="pe0445">Duke of Roxburgh</persName>'s <placeName ref="pl0947">Seat &amp; Haddington</placeName>
+                        have a vast Quantity of ancient &amp; respectable Timber about them very fine thick Hedges adorn &amp; shelter our Roads, and Roses growing naturally among them gives no Idea of a coarse or cruel Climate: We have not seen any 
+                        <gap unit="letters" quantity="5" reason="illegible"/> Crops of Wheat, tho’ the South affords much forwarder, &amp; no Inconvenience but that of a hot Sun could we find to complain of till arriving at 
+                        <placeName ref="pl0076">Edinburgh</placeName> it set most gloriously behind the Mountains of <placeName ref="pl1190">Fifeshire</placeName>,
+                        shewing the Bay or Firth to such Advantage that the lovely <placeName ref="pl1732">Valley of Tees Bridge</placeName> so Alpine and so elegant, was lost in the present Splendour of Situation --- tho’ as we passed it reminded us of 
+                        <placeName ref="pl1733">Vanvitelli’s Aqueduct at Caserta</placeName> I remember, while measuring the Height of the Work from the bottom of the Glen – we admired the Beauties of Nature, and respected those of Art which surrounded us. Nothing can strike one more than the Magnificence of 
+                        <placeName ref="pl0076">Edinburgh new Town</placeName>,<note type="editorial">Edinburgh’s neoclassical New Town was built to the north of the Old Town from the 1760s onwards. The grid-like design incorporated Enlightenment ideas of improvement, order and rationality, and symbolised Scottish-English union via its street names, as in the case of ‘George Street’, noted by Piozzi on the following page.</note> 
+                        or surprize me more <add place="above">than</add>that so little should hitherto have been said of it by <placeName ref="pl0775">English</placeName> Men, who might be naturally proud methinks that Foreigners can find few Places to oppose to the 
+                        <hi rend="underline">Second</hi> City of <placeName ref="pl0777">Great Britain</placeName>. Truth is, the general Appearance resembles no other Town I have ran over; and of all other Towns perhaps least resembles 
+                        <placeName ref="pl0699">London</placeName>. Houses eleven Stories high, of excellent Stone; a Pons sine Flumine<note type="editorial">Literally bridge without a river – a reference to Edinburgh’s North Bridge.</note>
+                        w:<hi rend="superscript">ch</hi> joins one Part of the Town to the other, with Habitations under it &amp; most of Greenplace wild enough where the Women bleach Linen milk Cows 
+                        &amp;c have a strange Look, while
+                    <pb/>
+                    <fw>f. 7v</fw>
+                        <placeName ref="pl0958 pl0959 pl0960">George Street, Princes Street, &amp; Queen’s Street</placeName>, each a Mile long &amp; not inferior to 
+                        <placeName ref="pl0961">Portland Place</placeName> in general Splendour of Appearance with the new Assembly Rooms of an exquisite Doric Architecture give an Air of Dignity unrivall’d by any City I have seen yet,
+                        as each terminates with a striking View either of the Country, the <placeName ref="pl1031">Castle</placeName> or the Sea. Mean Time the old Town as we call it has a 
+                        <placeName ref="pl1023">Parisian</placeName> Look; and puts one in mind of <placeName ref="pl0962">Rue S.<hi rend="superscript">t</hi> Honoré</placeName>:
+                        especially as the Bakers &amp; other little Shopkeepers take the <placeName ref="pl0925">French</placeName> Method of painting the Wares they sell in ill drawn &amp;
+                        worse Coloured Figures upon the Wall, which leaves an Impression of Dirt &amp; Meanness not pleasing to an <placeName ref="pl0775">English</placeName> 
+                        Eye. The poor Women too have much of the <placeName ref="pl0925">French</placeName> Manner by what I can observe; go like them without Hats, and carry their Baskets 
+                        &amp;c on their Backs, slung like Gypsie Children, not in their Hands as we see People of the same Rank in <placeName ref="pl0699">London</placeName> - add
+                        to this their Notion of living numberless Families in one House, and carrying the Stairs to the Door without Passage or Hall, which you find on a first Floor where these are likewise Antichambers for Servants to wait as in 
+                        <placeName ref="pl1164">Italy</placeName> or <placeName ref="pl0925">France</placeName> – no Port Cocher<note type="editorial">A porte cochère (literally coach gateway) is a covered entrance or porch, usually large enough to allow vehicles to pass through it.</note>
+                        however, but small Doors Londonwise the Names of the Owners upon them ---- &amp; a Board offering to let or sell Rooms in a House where one should not suspect any such Parsimony to be thought on from its Appearance. 
+                        <placeName ref="pl0963">S.<hi rend="superscript">t</hi> Andrews Square</placeName> is beautiful, looks into the Country, &amp; is scarce less than 
+                        <placeName ref="pl0782">Lincolns Inn Fields</placeName> I think but not so long: the Servants say tis like <placeName ref="pl0964">Portman Square</placeName>;
+                        while I see little Resemblance.<note type="editorial">St Andrew’s Square was one of the first parts of the New Town to be completed. Lincoln’s Inn Fields is a large square in London, first developed in the 17th century. Portman Square in London was developed in the second half of the 18th century.</note>
+                        Stone Buildings put some of us in mind of <placeName ref="pl0796">Bath</placeName> too, but it is not <hi rend="underline">me</hi>; neat
+                    <pb/>
+                    <fw>f. 8r</fw>
+                        Elegance &amp; delicate Gayety are the Characteristics of that Place --- Symmetrical Regularity and Dignity of Appearance distinguish this --- yet in the midst of all the Splendor one sees the 
+                        <placeName ref="pl1176">Continental</placeName> Taste of mixing Misery with their Magnificence, &amp; the moment you are out of a fine Street or Square there are old tumbling down Cottages to offend your Eyes, or Houses where the Grass literally grows out of the Thatch. 
+                        -- Beggars too with Ulcers Nakedness &amp; every kind of disgusting deformity follow one about as in the <placeName ref="pl1725">South of France</placeName>,
+                        and devoured themselves by Vermin threaten of Infection while they ask for Alms. – Perhaps the <placeName ref="pl0775">English</placeName> 
+                        conceal such Objects as much from Shame as they relieve them from Charity, but no other Nation seems so earnest to keep Sights of Sorrow at a Distance as ours; and no Nation if really actuated by Philanthropy, can be worse rewarded, for go where one will, the 
+                        <placeName ref="pl0775">English</placeName> <add place="above">People</add> are never belov’d I think, though almost all others profit by the diffusion of that Wealth which they acquire only to 
+                        <del><gap unit="letters" quantity="6" reason="illegible"/></del> <add place="above">bestow</add>. The new Town of <placeName ref="pl0076">Edinburgh</placeName>
+                        here in our own <placeName ref="pl0777">Island</placeName> has been built, and all the Environs of it beautified into the State we find it, since the Year 
+                        1745.<note type="editorial">I.e. since the Jacobite Rising, 1745-6, the aftermath of which saw increased efforts to incorporate Scotland into the Union, not least by aggressive attempts to manage the Highlands.</note>
+                        Yet the inhabitants tho’ proud of their present Splendour, hate to recollect by what means it first began; nor can I keep out of my Head for a Moment the Story 
+                        <persName ref="pe0450">M<hi rend="superscript">r</hi>r Murphy</persName> told at <placeName ref="pl1734">our House</placeName> 
+                        many Years ago of a <persName ref="pe1096">poor but handsome Wench </persName> he had once admired while meanly dress’d She scower’d the Servants Pewter Dishes at a Friend’s Seat where he was visiting – Twenty Months after however, as he walked in 
+                        <placeName ref="pl0966">S<hi rend="superscript">t</hi>. James Park</placeName>, a showy looking Female finely adorned, and genteely attended, her Carriage waiting at the Gate, her Livery Servant following – took his Attention; &amp; 
+                        by her Features reminded him the pretty Girl he had seen in <placeName ref="pl0801">Suffolk</placeName> some Time before. Why <persName ref="pe1096">Dolly</persName>
+                        said he astonished – sure it is not <hi rend="underline">You</hi>! that I see so grand, and so attended --- Sure but it <hi rend="underline">is</hi>
+                        Sir, replied <persName ref="pe1096">Dolly</persName> with an Air --- but changing her Voice --- I have been <hi rend="underline">ruin'd</hi>
+                        you know since then Sir.
+                    <pb/>
+                    <fw>f. 8v</fw>
+                        <persName ref="pe0451">D<hi rend="superscript">r</hi>. Walker</persName> professor of Natural History --- &amp; indeed <persName ref="pe0452">M<hi rend="superscript">r</hi>: Mackenzie</persName> Author of 
+                        <bibl type="authorial"><title ref="bi0533">the Man of Feeling</title></bibl>, a much younger Person, told me they had shot Partridge in 
+                        <placeName ref="pl0963">S<hi rend="superscript">t</hi>. Andrews Square</placeName> before a Stone was laid there towards Building it, but Game of all Sorts seem very familiar about 
+                        <placeName ref="pl0076">Edinburgh</placeName> &amp; in prodigious Plenty. <placeName ref="pl0967 pl1737">Roslane Castle &amp; Hawthorn Dale</placeName>
+                        are really charming Spots; our <persName ref="pe0453">Treasurer of the Navy Dundas</persName> has an amazing fine <placeName ref="pl0352">House &amp; Park</placeName> 
+                        here and some <persName ref="pe0454">M<hi rend="superscript">r</hi>. Clerke</persName> who lives at a Place they call <placeName ref="pl0969">Mavis Bank</placeName>
+                        seems to enjoy all the Pleasures of Romance --- I never saw so lovely a Situation, quite Savoyan it is with a rushing Torrent under the Rock all concealed by Bushes &amp;
+                        sheltered by Trees, <hi rend="underline">So</hi> beautifully! --- we go to <placeName ref="pl0242">Hopeton House</placeName> next --- mean Time the 
+                        <placeName ref="pl0970">Spiral Column in an old Gothic Chapel which they shew one out of Town somewhere</placeName> is past my Comprehension: there is but 
+                        that single Pillar wreathed round in the whole Church; its Capital &amp; Base are Animals, according to the very old Notions of early revived Architecture: the Garland Flowers. – tis an extraordinary Thing of which I can give no 
+                        Acc<hi rend="superscript">t</hi>. at all. <placeName ref="pl0724">Holy Rood House</placeName> retains the Bed Queen Mary slept in,
+   <note type="editorial">The main part of the Palace of Holyroodhouse dates from the 16th and 17th centuries; Mary, Queen of Scots (1542-87), who spent much of her childhood in France, was based at the Palace in the 1560s. Her apartments can be viewed here: https://www.royalcollection.org.uk/visit/palaceofholyroodhouse/what-to-see-and-do/mary-queen-of-scots-chambers</note>
+                        her Work, her Dressing Box --- brought from <placeName ref="pl0925">France</placeName> one might swear; for their Perfumes are still the same – a Flour 
+                        de Luce over her Canopy &amp; <hi rend="underline">Prie Dieu</hi> show the Partiality for that Nation in which She received her first Impressions of Pleasure -- the Blood of illprotected 
+                        <persName ref="pe0455">Rizzio</persName><note type="editorial">David Rizzio, Italian private secretary to Mary, Queen of Scots, who was murdered at the Palace by her husband, Lord Darnley, in 1566.</note>
+                        that still stains some Boards of her Banquetting room prove her Change of Country to have been illy calculated for the Happiness of a Woman who loved Variety like 
+                        <persName ref="pe0527">Mary</persName> – She has of late however become much a favourite with the World; and what is odd Enough we recollect her Beauty 
+                        &amp; forget her Faults. The Bones of <persName ref="pe0456">Lord Darnley</persName><note type="editorial">Henry Stuart, Lord Darnley (1545-67), was the second husband and consort of Mary, Queen of Scots. He was murdered in 1567; his body was buried in the vaults of the Royal Chapel at Holyrood.</note>
+                        indeed remind the <placeName ref="pl0705">Scots</placeName> of her Vindictive Spirit while his Picture still preserved here in the palace <add place="above">fails not to</add>
+                    evince
+                    <pb/>
+                    <fw>f. 9r</fw>
+                        <hi rend="underline">his</hi> Beauty too, as the greatest of the Age he lived in, tho’ not sufficient to screen him from Royal Vengeance.</p>
+                <p>French Manners and French Words which came into <placeName ref="pl0705">Scotland</placeName> with <persName ref="pe0527">Mary</persName> have in many
+                    respects taken deep Root, and will I trust never be completely eradicated. The Spirit of boasting, or as we call it <hi rend="underline">Puffing</hi>
+                    their own Possessions can scarcely exist more commonly, or breath more warmly at <placeName ref="pl1023">Paris</placeName> than at <placeName ref="pl0076">Edinburgh</placeName>,
+                    where they take such Pains to display, &amp; to convince you of their Greatness, that one is tempted to fear they are glad to see you only as a fresh Admirer, or as a fresh person to whom they may without imputation of Tautology repeat the unfeigned Admiration they feel for themselves.
+                    a <placeName ref="pl0705">Scotch</placeName> Vocabulary is full of <placeName ref="pl0925">French</placeName> French Words too – <hi rend="underline">I canno’ be fash’d</hi>
+                    say they from <hi rend="underline">Faché</hi> teized or troubled. <hi rend="underline">Bonny</hi> which recurs every Moment, means no other than <hi rend="underline">Bonne</hi>
+                    I believe, and a Husband is still called <hi rend="underline">Marrow</hi> from <hi rend="underline">Mari</hi> French. 
+                    The Love of Dirt is another Continental Taste, and their Attachment to it can surely be with difficulty denied while they continue building fine Places, and polluting them with Nastiness that shocks an 
+                    <placeName ref="pl0775">English</placeName> Reader even to think of --- but tho’ within these last 20 Years have grown up in this great 
+                    <placeName ref="pl0076">City</placeName> <add place="above">Public</add> Edifices which do honour to their Skill in Architecture, &amp; <add place="above">private</add>
+                    Dwellings of a uniform &amp; symmetrical Beauty sought for elsewhere in vain; Squares of uncommon Magnitude, and Streets unrivalled so far as my Experience has carried me both for Construction &amp; 
+                    Space – the <placeName ref="pl0705">Scots</placeName> have never turned their Thoughts towards making a Common Sewer, nor ever considered Cleanliness as an <hi rend="underline">Ornament</hi>,
+                much less a <hi rend="underline">Necessary</hi> of Life. Every thing
+                <pb/>
+                <fw>f. 9v</fw>
+                    most odious is brought &amp; thrown out before the owners door at 10 o’Clock of an Evening without Shame or Sorrow – Carts being provided to carry it off before Morning, leaving only the Smell behind -- as Not a Privy 
+                    <add place="above">is yet</add> <del>being</del> used in <placeName ref="pl0076">Edinburgh</placeName>. In Contradiction to all this I never saw people so fond of Flowers in my Life: and tis impossible to imagined how well the sweet flowering Shrubs do prosper in a Climate 
+                    <del>said to be</del> coarse by Nature but which Art has so subdued that Moss Provence Roses are exceedingly common while Syringa, Woodbind, and Portugal Laurel perfume the Air round this City infinitely 
+                    <add place="above">beyond</add> <del>more than</del> any Environs I know – some elegant Villa, some Nobleman’s Park, or some House of Recreation <add place="above">arrest</add>
+                    <del>stop</del> Attention evry Instant, and adorn the Vallies made by Mountains so stately, one has seen nothing more delightful in any District whatsoever. The Drive to 
+                    <placeName ref="pl0243">Queen’s Ferry</placeName> with <placeName ref="pl0242">Hopeton House &amp; Grounds</placeName> at the end of it is singularly beautiful, and affords all that one’s Mind can contain at once I think – Population Culture Industry within the Eye – Rooks, 
+                    Seas, &amp; rough Magnificence in Perspective: but <placeName ref="pl0705">Scotch</placeName> Prospects do above all others excel in those Qualities justly termed Picturesque, while a rich &amp; 
+                    fertile Foreground is almost always contrasted by lofty Mountains and a Blue Expanse of Ocean in the Offskip. <persName ref="pe1097">Lord Hopeton</persName>'s
+                    good Taste has taken every Advantage of Nature’s Beneficence, nor has he servilely imitated the <placeName ref="pl0775">English</placeName> Custom of laying every thing open at once
+                <pb/>
+                <fw>f. 10r</fw>
+                    Here are very thick Strong Hedges to shelter the Fruits &amp; Flowers these Hedges chiefly composed of ever Greens &amp; well kept like such as I remember at 
+                    <placeName ref="pl1735"><persName ref="pe1098">my Grandmother</persName>'s Seat in Hertfordshire</placeName> Ages ago, &amp; have never seen since. Mean time some standard Holly Trees a Yard 
+                    &amp; <unclear>Nail</unclear> in Circumference were wholly new to me, and <sic>Eughs</sic> of enormous Growth which have no Rivals nearer than one surprizing Tree of the kind in 
+                    <placeName ref="pl1736">Wanstead Park Essex</placeName>. The Limes here grow to a monstrous Size I see, so do the Ash, and here are Beech of good Respectability --- while Garden Flowers to a Degree of Profusion I never yet saw unsecluded gratify the Sense of Smelling most delightfully, nor does the Rododendron 
+                    scorn to grow &amp; blossom in the open Air against the Coast of bleak and barren <placeName ref="pl0835">Norway</placeName> --- such are the Powers of Culture &amp; 
+                    of Coin. <persName ref="pe1097">Lord Hopeton</persName>'s Deer are many of them milkwhite I see, &amp; will take an Opportunity of asking <persName ref="pe0451">D<hi rend="superscript">r</hi> Walker</persName>
+                    whether it is Art or Chance ----- so near as we now are to the <placeName ref="pl1175">North Pole</placeName> I trust, a little Art will <hi rend="underline">do</hi>.
+                    The Palace meantime bosomed in Wood and warmed by the Sea Breezes, consist of a splendid Suite of Rooms, <del>enough</del>, richly furnish’d with Damask &amp;
+                    Gilding, &amp; Pictures &amp; Marbles, valuable enough to detain <del><gap unit="letters" quantity="5" reason="illegible"/></del> <add place="above">one’s eye</add>
+                    tho’ not to dazzle it: the Architecture is of the same Rank, &amp; the Approach exceedingly striking: our <placeName ref="pl0083">Firth of Forth</placeName>
+                    bearing all possible Appearance of an immense Lake laid out for the Convenience or Ornament of these charming Pleasure Grounds, with two Islands seemingly thrown in on purpose to adorn it: one of which
+                <pb/>
+                <fw>f. 10v</fw>
+                    has a ruined Castle on its Top the other is <placeName ref="pl1738">Inch Keith</placeName> of which <persName ref="pe0073">D<hi rend="superscript">r</hi>. Johnson</persName>
+                    gives the Description.<note type="editorial">Samuel Johnson’s description of Inchkeith forms part of the opening section of his Journey to the Western Islands (1775): ‘As we crossed the Firth of Forth, our curiosity was attracted by Inch Keith, a small island, which neither of my companions had ever visited, though, lying within their view, it had all their lives solicited their notice. Here, by climbing with some difficulty over shattered crags, we made the first experiment of unfrequented coasts. Inch Keith is nothing more than a rock covered with a thin layer of earth, not wholly bare of grass, and very fertile of thistles. A small herd of cows grazes annually on it in the summer. It seems never to have afforded to man or beast a permanent habitation.’ See Peter Levi (ed.), Samuel Johnson and James Boswell: A Journey to the Western Islands of Scotland and The Journal of a Tour to the Hebrides (Penguin, 1984), p. 35.</note>
+                    Descriptions vary according to the Describers Turn of Mind – if a Man loves painting he will have that best in Nature which is easiest to paint, by the same Rule a Player might think that Character greatest which tis least difficult to represent – 
+                    &amp; so wish every Man a Bajazet, every Lady an Alicia<note type="editorial">Bajazet is the villain in Nicholas Rowe’s Tamerlane (1702); Alicia probably refers to the duplicitous friend in Rowe’s Jane Shore (1714). Accounts of both plays feature in Johnson’s Lives of the Poets (1781).</note>
+                    – but it is not so: <del>Plain</del> <add place="above">soft &amp;</add> steady Characters are best in Life, Valleys rich in Pastures, and Uplands waving with Wheat are best in Nature --- Would the People of this Country be contented I wonder if I said their 
+                    <persName ref="pe1102">Doctor Blair</persName> was like our <placeName ref="pl1739">Richmond Hill</placeName> -- our <persName ref="pe0073">Doctor Johnson</persName>
+                    like their <add place="above"><placeName ref="pl1028">Arthur’s Seat or</placeName></add> <placeName ref="pl0811">Carlton Mountain</placeName>.
+                    I never saw the <placeName ref="pl1031">Castle Hill</placeName> look so handsome as from the <placeName ref="pl0243">Queen’s Ferry</placeName> Road,
+                    but <placeName ref="pl0724">Holyrood House</placeName> - Abbey as they call it, shews well from no Place -- Like poor <persName ref="pe0456">Lord Darnley</persName>'s
+                    Bones, its Grandeur shrinks &amp; lessens by Time I think, but such Tall Men as here, &amp; so common I never did see in <placeName ref="pl0775">England</placeName>
+                    ---- The fair Complexion’d no Countenances here have more Expression – or an Expression, more peculiar to themselves than the <placeName ref="pl0705">Scotch</placeName>;
+                    and such a Variety of pretty Children no Town should pretend to exhibit. – I have seen the <placeName ref="pl1740">Grammar School</placeName>
+                    this Morning, which <add place="above">as</add> a Collection of Human Beauty was admirable; and the <placeName ref="pl0775">South Britons</placeName>
+                    daily acknowledge their Opinion of its Merit as a Seminary of Literature by sending their Boys for Education. The <placeName ref="pl1741">Hospital</placeName>
+                    is <add place="above">handsomely &amp;</add> elegantly kept Nothing to offend a Visitor but everything possible to relieve a Patient. never were Beds cleaner or People more comfortably lodged by Publick Charity – &amp; the
+                <pb/>
+                    <fw>f. 11r</fw>
+                    Operation Room a small Octogon fitted up as a sort of theatre, with raised Seats for the Students is wonderfully pretty &amp; serves as a Chapel on Sundays. A 
+                    <placeName ref="pl1742">Botanical Garden</placeName> well supplied with plants from both Hemispheres deserves Admiration at <placeName ref="pl0076">Edinburgh</placeName> &amp;
+                    with some general Reflexions and Observations on it Manners -- the people delighting to walk in the middle of the Street tho’ our Trottoirs are good – some Old Men dressing much like
+                    <placeName ref="pl0925">French</placeName> people with long Ruffles &amp;c. the Young Women <add place="above">below a certain Rank</add>
+                    all without Shoe or Stocking and a Degree of Populousness I never witness’d but at <placeName ref="pl0923">Naples</placeName>; we leave the Place for 
+                    <placeName ref="pl0229">Glasgow</placeName>, which was a fine Town before <placeName ref="pl0076">Edinburgh</placeName> began to think of symmetry or magnificence. This City then at w.<hi rend="superscript">ch</hi>
+                    we arrive 25: July, by a Road paved <hi rend="underline">à la mode de France</hi> up the middle which cracks one’s Crown to drive over it as theirs do indeed – is a noble one and may stand first for ought I know among the second Rate Cities of 
+                    <placeName ref="pl1176">Europe</placeName>. ’tis larger than <placeName ref="pl1743">Dresden</placeName> I think &amp; the Situation finer than <placeName ref="pl1744">Munich</placeName>;
+                    Streets more spacious, Houses of greater Dignity &amp; <add place="above">exhibits</add> a larger Portion of Regularity than the best of them all – <placeName ref="pl1745">Berlin</placeName>
+                    alone excepted. while a very elegantly planted Walk upon the Banks of <placeName ref="pl0600">Clyde</placeName> amuses the Inhabitants, and two Stone Bridges of considerable Merit as mere Fabrics, and of Beauty as mere Objects, attracts a Travellers Notice. --- This is wholly like a 
+                    <placeName ref="pl1176">Continental</placeName> Town, nor can <placeName ref="pl0775">England</placeName> pretend to oppose any Equal against it: yet how sincerely do I wish myself at 
+                    <placeName ref="pl1746">Salisbury</placeName> or <placeName ref="pl1747">Nottingham</placeName>! <placeName ref="pl1347">Oxford</placeName>
+                    or <placeName ref="pl1748">Ousely Bridge</placeName>! Tho’ Candour must confess that we have here Colonades to walk under as at <placeName ref="pl1749">Bologne</placeName>, that the Streets are paved after the foreign Manner, 
+                    &amp; better than in <placeName ref="pl0699">London</placeName>, that the College is very handsome, &amp; that the Cathedral would have been so too, but for the violating hand of hasty &amp;
+                        rapacious Reform. For the Absence of Cleanliness indeed Uniformity or ever Grandeur hardly make amends &amp; I have now
+                <pb/>
+                <fw>f. 11v</fw>
+                    found a most discreditable Reason why Passengers walk up the Coach way so in <placeName ref="pl0076">Edinburgh</placeName> and <placeName ref="pl0229">Glasgow</placeName>
+                    – ’tis because People used to throw Ordure &amp;c out of the Windows, and Foot folks rationally enough chose rather to hazard being run over. But we are going A Trip to the 
+                    <placeName ref="pl0711">Highlands</placeName>, and now I am at <placeName ref="pl0226">Dumbarton</placeName> no Cause can by best Wit render how this Rock so rough, so steep so barren came stuck in A Sand Bank in so strange a Manner. – Here are few or no Appearances of Volcanick Explosions, 
+                    &amp; by what other Power this little round Mountain should be placed in the middle of a River so – I cannot guess. The stairs are convenient 
+                    <add place="above"><unclear>quite up</unclear></add> to the <placeName ref="pl1104">Castle</placeName> - tho’ they are the identical Steps down which poor 
+                    <persName ref="pe1103">Sir W.<hi rend="superscript">m</hi> Wallace</persName><note type="editorial">The keeper of Dumbarton Castle, John Menteith, captured the Scottish leader in the Wars of Independence, William Wallace (c.1270-1305), in 1305. Wallace, who was resisting Edward I’s efforts to conquer Scotland, may have been briefly imprisoned at the castle.</note>
+                    came in Defence of his <placeName ref="pl0705">Country</placeName> -- How great must have been their Courage &amp; Skill who forced it! A beautiful &amp; interesting Prospect ending in Alpine Mountains 
+                    <placeName ref="pl0609">Pen Lomond</placeName> at their Head – pays your Trouble in <del>mounting</del> <add place="above">climbing</add> to the Top while the 
+                    <placeName ref="pl0600">Clyde</placeName> winds sweetly through a Country highly cultivated such as is commonly found when first a Lake loses its Taste of spreading between high rising Grounds – 
+                    &amp; changes like Achelous<note type="editorial">River god in Greek mythology.</note> into a gliding Stream. Here is an elegantly situated Seat of some Justiciary Lord, I forget 
+                    <hi rend="underline">his</hi> Name; but that of his Place is <placeName ref="pl0170">Leven Side</placeName>:<note type="editorial">The owner of Levenside (later renamed Strathleven House) was John Campbell, Lord Stonefield (d. 1801).</note>
+                    &amp; here is A doric Column erected in Memory of <persName ref="pe0536">D.<hi rend="superscript">r</hi> Smollet</persName>, whose Birth Place is in Honour of him now called <hi rend="underline">Roderick Random</hi>.
+                   <note type="editorial">The physician and writer Tobias Smollett (1721-71) published his best-known work, the picaresque novel The Adventures of Roderick Random in 1748. See http://curioustravellers.ac.uk/en/in-search-of-dr-john-stuarts-luss-hog-backs-dawn-redwoods-and-gaelic-bibles/ for a description and photograph of the Smollett memorial.</note>
+                    These are Encouragements to future Authors, tho’ perhaps when Merit grows more common it may be less prized ---- I have no Notion <persName ref="pe0958">D.<hi rend="superscript">r</hi> Moore</persName>
+                    who can write Voyages &amp; Novels as well as <persName ref="pe0536">Smollet</persName>, will have any Column set up to <hi rend="underline">his</hi>
+                    Memory. Mean Time we are really driving over a delicious Road with Water on one Side us &amp; Wood on the other till Night drives us into <placeName ref="pl0224">Luss</placeName>
+                    on the very Banks of this highly ornamented Lake. Why do not all the Scots who acquire Fortunes in foreign Countries by their Courage &amp; Talents – retire to 
+                    <placeName ref="pl0223"><sic>Lough</sic> Lomond</placeName>? cover its pellucid Water with <sic>Yatchts</sic> &amp; adorn its Shore w:<hi rend="superscript">th</hi>
+                    Villas. A Scenery more lovely can hardly be hop’d for by Reason or imag’d by Fancy
+                <pb/>
+                    <fw>f. 12r</fw>
+                    <add place="above">than at</add> of <placeName ref="pl0223"><sic>Lough</sic> Lomond</placeName> <add place="above">w.<hi rend="superscript">ch</hi> at last</add>
+                    I hardly dare speak <add place="above">of</add> for fear of not saying enough: so various are its Beauties, so quick the Transition from one Beauty to another --- original in all its resembles no other Lake, tho’ its Environs are an Assemblage of whatever is most striking – most pleasing – most magnificent. 
+                    The Mountain at its Head <placeName ref="pl0609">Pen Lomond</placeName> has peculiar Merit from the Proof it gives that so enormous a Mass is capable of finest <add place="above">but even <gap unit="letters" quantity="4" reason="illegible"/></add>
+                    Proportion: <add place="above">of Scotland affect Symmetry I <gap unit="letters" quantity="4" reason="illegible"/></add> a Painter would hardly venture to delineate so perfect a Form lest he should be suspected of Exaggeration: the other Rocks are some richly planted with noble Timber Trees, some clothed with Bushes, 
+                    flowring Shrubs and Heath exhibiting a variety of Verdure quite unrivall’d for brilliancy of Colour &amp; softness to the Sight <add place="above"><gap unit="letters" quantity="4" reason="illegible"/></add> – while others more craggy present more Northern Ideas 
+                    &amp; increase the Noise <add place="above">of Torrents</add> which rush in white Cascades from the Top with even Alpine Violence – Roses however I <del>never saw</del>
+                    <add place="above">have not seen</add> among the Mountains of <placeName ref="pl1750">Savoy</placeName>; &amp; here the Sweet Briar Eglantine &amp; new cut Hay, regale one’s Sense of Smelling 
+                    <del>all the Way</del> <add place="above">as one drives along</add> while not a <placeName ref="pl0711">Highland</placeName> Hut fails to cultivate the Striped or Damask, the common or Monthly Rose in all these 
+                    <add place="above">every little</add> Gardens. Thirty Islands adorn the Bosom of this peaceful Lake; one is a Deer Park belonging to the <persName ref="pe1104">Duke to Montrose</persName>
+                    they tell me, another called the Eagle’s Nest affords annual shelter to a female Osprey, who chuses to place her Young ones near a Spot whence She may get food for them from among his Grace’s Fawns. but 
+                    <placeName ref="pl1066">Inverouglas</placeName> is the prettiest Thing; a little Tongue of Land running out opposite <placeName ref="pl0609">Ben Lomond</placeName>
+                    covered with Corn, &amp; sheltered with a Rock, tufted over in the sweetest manner while the Road made by <persName ref="pe1105">Colonel Lascelles</persName> Regiment
+                   <note type="editorial">The Dumbarton-Inveraray military road was constructed in 1745 by the Foot Regiment commanded by Colonel Peregrine Lascelles (1685-1772). J.M.W. Turner’s 1801 sketch of the road outlines its dramatic loch-side setting: see Andrew Wilton, ‘A Wooded Cliff beside the Old Military Road along Loch Lomond, with the Loch and Ben Lomond to the Right 1801 by Joseph Mallord William Turner’, catalogue entry, May 2013, in David Blayney Brown (ed.), J.M.W. Turner: Sketchbooks, Drawings and Watercolours, Tate Research Publication, April 2016, https://www.tate.org.uk/art/research-publications/jmw-turner/joseph-mallord-william-turner-a-wooded-cliff-beside-the-old-military-road-along-loch-r1179481, accessed 25 August 2017.</note>
+                <pb/>
+                <fw>f. 12v</fw>
+                    <add place="above">winds</add> elegantly along the Lake’s least beautiful Side, commands the opposite Hills, &amp; gives Serpentine <del>elegance</del>
+                    <add place="above">Graces</add> to the other. So fine was the Weather that I Sate writing on &amp; watching how Patches of Shadow <del>falling</del> <add place="above">fell</add>
+                    happily upon Mountains -- and light Clouds from Time concealing their Tops increased their Charms and called Imagination to help out the Scene with Ossian’s Spirit
+                   <note type="editorial">A reference to James Macpherson’s Fragments of Ancient Poetry Collected in the Highlands of Scotland (1760), narrated and written, so Macpherson claimed, by the blind bard Ossian. For the effects of Macpherson’s Ossianic poetry on the Scottish tour, see Nigel Leask, ‘Fingalian Topographies: Ossian and the Highland Tour, 1760-1805’, 39:2 (2016), 183-96: http://onlinelibrary.wiley.com/doi/10.1111/1754-0208.12396/full.</note>
+                    <del>sitting</del> sailing thro’ the Mist. a few Miles more brought us to <placeName ref="pl1008">Arrachar</placeName> we <del>left the Lake</del>
+                    turn’d our Backs upon the Lake and following a sweetly planted Road, arrived thro’ overshadowing Hills here on the Banks of the <placeName ref="pl1084">Western Ocean</placeName>,
+                    which running up in Form of a Firth looks like an enclosed Water, yet keeping its original Character ebbs &amp; flows, and irritated by Winds in the Winter roars among the Rocks with a truly savage Sound, making such a Contrast to the stillness of 
+                    <placeName ref="pl0223">Loch Lomond</placeName> only two Miles off as can have I think no Rival nearer than its Neighbours in <placeName ref="pl0710">America</placeName>.</p>
+                <p>The Rocks here are <add place="above">not</add> like those of <placeName ref="pl1750">Savoy</placeName>, and <add place="above">except</add>
+                    one which they call the <placeName ref="pl1171">Cobler</placeName><note type="editorial">The Cobbler is a distinctive three-headed peak in a group of mountains known as the Arrochar Alps.</note>
+                    <add place="above">yt</add> is exceedingly high indeed, craggy &amp; irregular: running up in sharp points, &amp; apparently Volcanick, <del>most of the others</del>
+                    <add place="above">all the rest</add> are round – <add place="above">I think</add> Here are very soft Plantations about the Country but none so sweet &amp; 
+                    lovely as <placeName ref="pl1751">Glen douglas</placeName> on the Banks of the fresh <add place="above">Water</add> Lake, the Scenery here roughens at every Step and 
+                    <placeName ref="pl1068">Glencroe</placeName> exhibits a Theatre of Horror to those who never <del>saw <placeName ref="pl1750">Savoy</placeName></del>
+                    <add place="above">travel’d among the <placeName ref="pl1752">Appenines</placeName></add> w:<hi rend="superscript">ch</hi> in some Respects it resembles closely enough; but instead of a road winding up 
+                    <add place="above">the piny Summits of</add> the Mountains to a terrifying Height <add place="above">as in <placeName ref="pl1750">Savoy</placeName>, whence is heard</add>
+                    <del>&amp; nearing</del> the <add place="above">heavy</add> roar of Waters <del>at</del><add place="above">in</add> a bottom almost viewless; you <del>tread</del><add place="above">trot</add>
+                    by the Riverside in our <placeName ref="pl0705">Scotch</placeName> Valley &amp; look up the Hills which being wholly desolate tho’ <del>green</del>
+                    <add place="above">not denuded</add>, and capable <add place="above">enough</add> of decent Cultivation, <del>create</del> produce Ideas of Blank Sorrow <add place="above">rather</add>
+                    than of active Fear: or if Terror obtrudes itself for a Moment tis
+                <pb/>
+                    <fw>f. 13r</fw>
+                    in a Form wholly different from what is excited by <placeName ref="pl1165">Alpine</placeName> Situations where as <persName ref="pe1106">Collins</persName> says
+                    <lb/>Danger &amp;c<note type="editorial">William Collins’s ‘Ode to Fear’ (1746) depicts ‘Danger’ as a figure of terror ‘whose Limbs of Giant Mold / What mortal Eye can fix’d behold?’ See http://spenserians.cath.vt.edu/TextRecord.php?textsid=34207 for the full text of the poem.</note>
+                    <hi rend="underline">Here</hi> your Apprehension<del>s</del> if let loose creates Banditti; &amp; reflects upon the Possibility of Outrages committed by famished Rapacity -- for here is no Help no Human Creature <del>nigh</del>
+                    within call -- no Hope of Assistance <add place="above">where</add> all is <add place="above">even Chaotic</add> Wildness &amp; savage Vacuity. Through a Country of the same kind but less shut in, and sprinkled with Habitations less unfrequently, you arrive at Water again which from its blue Tint, and curling Waves is soon discoverd 
+                    to be Sea, and call’d <placeName ref="pl1070">Loch <del>Fyne</del></placeName> <hi rend="superscript"><placeName ref="pl0221">Long</placeName></hi>: here Plantations thickly scattered, with Corn Fields and Grass intermixed shew that 
+                    <del>Riches</del><add place="above">Comfort &amp;</add> Humanity are hard at Hand – accordingly soon as the Lake spreads wider its Sides are seen richly adorned with the most beautiful Timber in the most flourishing State, a small Bay is formed of which many Fishing Boats 
+                    &amp; Pleasure Barges are the delightful Ornaments; The <placeName ref="pl1753">New Inn</placeName> – the Stables are built round <del>the</del><add place="above">its</add> Bans,
+                    and the <placeName ref="pl0217">Castle of Inverary</placeName> rises to your View. Never were so many – I might say so many Thousand Trees disposed with so much Taste as 
+                    <gap unit="letters" quantity="5" reason="illegible"/> <hi rend="underline">Two</hi><del>Hundred</del><add place="above">long Lines of</add> enormous Beeches <del>Trees</del>
+                    fill the <del><gap unit="letters" quantity="5" reason="illegible"/></del> <add place="above">Base</add> of the principal Mountain, up the Sides of which Pale Ash, and gloomy Pines, and Sycamores our British Plane Tree which grows in a clustering Shade like the Colouring of the Garden Cabbage call’d Savoys, diversify the Tints; 
+                    &amp; give unequall’d Variety to Woods of an immense Extent <del>that spreading</del><add place="above">swelling</add> one Moment a Pointed Rock into 
+                    <gap unit="letters" quantity="3" reason="illegible"/>tificial Grandeur, at another <add place="above">Time</add> giving the Conical Form to heavy Masses which would only fatigue the Eye without amusing the Mind – of these
+                <pb/>
+                    <fw>f. 13v</fw>
+                    it must however be confessed that <placeName ref="pl0705">Scotland</placeName> has too many, its Elevations are <add place="above">immense.</add> Piles of Earth rather than of Stone, and should be covered with Sheep 
+                    &amp; Goats to render them less void of Interest for though as among the surly <placeName ref="pl1752">Appenines</placeName> one sees here &amp; there a Stone of prodigious Magnitude torn from the Mountain by some accidental Torrent like those which armed the Heroes described by Homer
+                    <persName ref="pe1107">Homer</persName></p>
+                <p>Black craggy, vast. Yet this is not the general Character of the <placeName ref="pl0711">Highlands</placeName> <add place="above">among</add> which I have not found one with fantastic Shape except that over agaist <placeName ref="pl1008"><sic>Arrucha</sic></placeName>they call the <placeName ref="pl1171">Cobler</placeName>, but ’tis Time to talk of 
+                    <placeName ref="pl0217">Inverary Castle</placeName> which being insulated looks ancient and being unadorned with Flowring Shrubs or other frivolities gives the Mind an Idea of simple Grandeur &amp; Solitary Dignity. not of a sullen haughtiness 
+                    <del><gap unit="letters" quantity="6" reason="illegible"/></del> <add place="above">tho’ or</add> inhospitable Pride: <placeName ref="pl0062">Alnwick</placeName>apparently commands Submission &amp;
+                    forbids Approach. <placeName ref="pl0217">Inverary</placeName> promises a gentle Reception, and its Interior <del>performs</del><add place="above">cherishes</add>
+                    every <del>Promise</del> Hope. The State Rooms are furnished with Tapisserie de <placeName ref="pl1754">Beauvais</placeName><note type="editorial">Highly decorative tapestry was made at Beauvais, north of Paris, from the seventeenth century onwards.</note>
+                    rich and elegant --- their Chearfulness <del>delights</del> consoles one in a Place so unfrequented, and I see not why exclusion of Gayety should be considered as perfection of Taste <add place="above">at anytime</add>. Here is much Disposition to Amenity about 
+                    <persName ref="pe0086">The Duke of Argyll</persName>, <add place="above">a bright sun with ye addition of</add> sixty of seventy People making Hay before the Stomp inspires Good Humour -- those Mountains w<hi rend="superscript">ch</hi>
+                    are most solemn <add place="above">too</add> are seen only at a distance; the nearer Hills rich in variegated Verdure exhibit only Images of Delight <del>In Short</del>
+                    <placeName ref="pl1072">Inverary</placeName> <del>is more</del> is princely but <placeName ref="pl0062">Alnwick</placeName> is Tyrrannical.
+                <pb/>
+                    <fw>f. 14r</fw>
+               <note type="editorial">This page bears a faint sketch, possibly of Inverary</note>
+                <pb/>
+                    <fw>f. 14v</fw>
+                    Our return by the <placeName ref="pl1070">Salt Water Lake</placeName> was thro a pleasing Country – The <placeName ref="pl0711">Highlands</placeName> receding gradually give place to gentler Sensations, &amp;
+                    the View of <placeName ref="pl0603">Greenock</placeName> pleases and the Sight of <placeName ref="pl0605">Paisley</placeName> makes one proud of an Island that can supply <del>Eastern</del> Oriental
+                    Luxury by Northern Diligence. A Day spent with agreeable Friends at <placeName ref="pl1755"><sic>Drumpellin</sic></placeName><add place="above">where there is much Wood</add> told me that <add place="above">w.<hi rend="superscript">ch</hi></add>
+                    I did not know before for not a Stick was planted all round here said the Master of the House before the Year 1700. --- very strange thought I – yet why very strange? Opinions alter with <del>Situations</del>
+                    Circumstances reasonably enough. When a Country is first colonized or inhabited, the earliest Efforts used are to clear that Wood away Which Nature in every place plentifully provides: and if by Accident of sudden Conquest and long Subjugation, Riches should be rarely 
+                    &amp; scantily brought in ---- no one think of <unclear>ever</unclear> more Planting Trees till Commerce has created Wealth and Superfluity has sought for Amusement. The Journey to <placeName ref="pl0587">Douglas Mill</placeName> from <placeName ref="pl0229">Glasgow</placeName>
+                    was very pretty – variegated Scenery but all of the softer Kind. From the <persName ref="pe0250">Duke of Hamilton</persName>'s Summer house at <placeName ref="pl0232"><sic>Chatebrault</sic></placeName> I took my parting Look of <placeName ref="pl0609">Pen Lomond</placeName>
+                    a Mountain so high as to be easily seen even from thence, a Distance of fifty of sixty Miles at least: and so handsome as to make it difficult for any Object to obliterate the Idea. <placeName ref="pl1756">Hamilton Park</placeName> is like many another Park, so is the 
+                    <placeName ref="pl0231">House</placeName>; but there are Several <persName ref="pe0595">Vandykes </persName> in
+                <pb/>
+                    <fw>f. 15r</fw>
+                    it which have no Rivals nearer than <persName ref="pe1109">Wilson</persName>, and one <persName ref="pe1110">Rubens</persName> which has no superior even at <placeName ref="pl1757">Antwerp</placeName>.
+                    Such a Composition! such Art in the Painter! such Nature in the Figure! The subject is not often chosen as far as I have observed tho a very noble one <rs type="art" ref="ar0076"> Daniel in the Den of Lyons</rs>.<note type="editorial">Peter Paul Rubens, Daniel in the Lions’ Den (c. 1614/16), now held at the National Gallery of Art, Washington. See https://www.nga.gov/content/ngaweb/Collection/art-object-page.50298.html.</note>
+                    <persName ref="pe1110">Rubens</persName> has seized the Moment when <rs type="art" ref="ar0202">Nebuchadnezzar looking into the Cavern</rs> puts in Play those Passions till then tranquillized by the <del>Sight</del>
+                    consciousness of a Miracle wrought in the Prophet’s Favour who now at Sight of his Soverign however, holds up his clasped hands in Appeal to that Justice which had been so perverted --- &amp;
+                    drawing himself as it were close together <add place="above">in an Attitude of <gap unit="letters" quantity="5" reason="illegible"/> agony</add> gives both the King &amp;
+                    the Spectators a more terrifying Idea of his Situation among <del>hungry</del> <add place="above">famish’d</add> Lyons only restrain’d by Heavn’s immediate Hand from rending him in pieces than could be otherwise obtained by us or conveyed by the Artist. Here are no glowing Tints no strong 
+                    <unclear>Carnations</unclear> to dazzle or mislead our Judgement in this Picture: Daniel seems to have lost Flesh &amp; Colour <del><hi rend="underline">from</hi></del>
+                    by the Horrors of his Confinement the muscular Powers remain: and the foreshortening of a Face in its own Nature beautiful adds Expression that calls forth all our Pity for oppress’d and suffering Virtue. The 
+                    <persName ref="pe0250">Duke</persName>'s Woods Walks &amp;c. are delightful: Oaks of prodigious Dignity indeed &amp; very great age
+                <pb/>
+                    <fw>f. 15v</fw>
+                    contradict the Speech made about <placeName ref="pl0705">Scotland</placeName>'s having no Tree in it planted before the Union these are at least 3 or 400 Hundred Years old, and very fine ones of this Kind. being planted up the Sides of 
+                    a Glen as the Scots call it gives them great Effect, &amp; the Rush of Water at the Bottom of the Valley is very pleasing. – at <placeName ref="pl0587">Douglas Mill</placeName> however, &amp;
+                    from thence to <placeName ref="pl0247">Moffat</placeName> no Beauties can be spy’d I think; <placeName ref="pl1758">Crawford Moor</placeName> is pregnant of Ideas indeed, but all black ones, &amp; melancholy as itself. The Mineral Waters that gush from these Hills here 
+                    <add place="above">at <placeName ref="pl0247">Moffat</placeName></add> might attract Company if better Accommodations were prepared for them --- but the Inns are too far from the Well, and I see no Attendance given -- <del>no Physician in the Place</del>,
+                    nor no Effort made for Amusement &amp; tho’ somebody shewed me a wretched Handbill &amp; <hi rend="underline">said</hi> there was a Physician in Attendance upon the Spring we found the Pump broken &amp; the Place neglected. a tedious Drive through a courseish Country carried us to 
+                    <placeName ref="pl1759">Gretna Hall</placeName>, a handsome House set up I suppose (tho’ the Proprietors deny it) for the Accommodation of such Couples as to elude the <placeName ref="pl0775">English</placeName> Law <gap unit="letters" quantity="5" reason="illegible"/>
+                    hither to be married when under age &amp;c.<note type="editorial">The Hardwicke Marriage Act of 1753 outlawed the marriage of minors (under 21s) without parental permission in England and Wales. Couples travelled to be married in Scotland instead; Gretna was the first village over the border on the coaching route north and so became a hotspot for clandestine weddings.</note>
+                    certain it is that we are now three Miles only from <placeName ref="pl0775">England</placeName> &amp; sees the Mountains of <placeName ref="pl0800">Cumberland</placeName> particularly <placeName ref="pl1097">Skiddaw</placeName> plain enough to discern <del>its</del>
+                    their manifest Inferiority to the respectable Hills which hand over the Head of <placeName ref="pl0223">Loch Lomond</placeName>. This <placeName ref="pl1759">Gretna Hall</placeName> is a bad Inn tho’ a <add place="above">very</add> showy House; those who frequent it are I trust little observant of its Faults 
+                    &amp; soon dismiss’d when
+                <pb/>
+                    <fw>f. 16r</fw>
+                    the unexamined Bill is discharged. <placeName ref="pl0253">Carlisle</placeName> looked cheerful &amp; pretty as we approached it, &amp; seemed still in a certain Degree to deserve its ancient Epithet of <hi rend="underline">merry</hi>
+                    <placeName ref="pl0253">Carlisle</placeName>: I had not seen Brick Houses so long the Sight of them revived me I think; &amp; the Women wearing Shoes and Stockings looks so comfortable to one returning from <placeName ref="pl0705">Scotland</placeName>.
+                    Our Cathedral here looks as much better than <placeName ref="pl0934">Durham</placeName> within as it looks worse <hi rend="underline">without</hi> making no Figure at Distance, and being vulgarly fabricated of the Red Stone
+                    so Common in this Country its date is 1121 and its decorations truly antique. <rs type="art" ref="ar0203">The Lives of Saint Anthony, Saint Austin &amp; Saint Cuthbert</rs>
+                    ill painted in Compartments, with a Rhyme in black Letter to tell the meaning of each adorn the Walls, but there is little colour’d Glass remaining in any Window.<note type="editorial">For photographs of these late 15th-century panels depicting the saints Anthony, Augustine and Cuthbert see: https://www.carlislecathedral.org.uk/the_painted_panels</note>
+                    Some one, the <persName ref="pe1111">Lyttleton Bishop</persName> I believe, newly repaired the Choir, and it is not disgraced with dirt not left open for Passengers to walk thro’ as <placeName ref="pl0934">Durham</placeName> is. - <placeName ref="pl0254">Penrith</placeName> 
+                    looks very handsome from a Hill <unclear>one</unclear> drives down coming the <placeName ref="pl0253">Carlisle</placeName> &amp; <placeName ref="pl0259">Kendal</placeName> Road,
+                    and few Prospects are finer than that of the <placeName ref="pl1760">Westmorland Mountains</placeName> prettily grouped on one’s right hand, the Town upon one’s left, and all situated in a soft &amp; smiling Country. <placeName ref="pl1761">Ullswater</placeName> is a lovely Mere too, headed by high Grounds thrown about as if on purpose to be 
+                    <add place="above">described not</add> painted; a sweetly planted Hill at its foot – Hay Makers &amp; comfortable Cottages filling the foreground on every Side – <placeName ref="pl1762">Lago Lugano</placeName> half in the 
+                    <placeName ref="pl0791">Swiss</placeName>, half in the <placeName ref="pl1763">Milanese</placeName> Dominions is like <placeName ref="pl1761">Ullswater</placeName> for Size &amp; Beauty
+                <pb/>
+                    <fw>f. 16v</fw>
+                    but the Town renders it more respectable --- one <unclear>Fells</unclear> in <placeName ref="pl0800">Cumberland</placeName> are <del>handsomer</del><add place="above">prettier</add>, &amp;
+                    have less Uniformity than the <placeName ref="pl1164">Italian</placeName> Mountains, and here is elegant <placeName ref="pl0525">DerwentWater</placeName> resolved to shew that <placeName ref="pl0775">England</placeName>
+                    can exhibit Lakes &amp; Regattas in good Time like her fuller grown Neighbours on the <placeName ref="pl1176">Continent</placeName> --- Tis the <add place="above">silver</add> Moon at <del><unclear>fall</unclear></del><add place="above">best</add>
+                    however not the new risen <sic>Phobus</sic> after all yet while we contemplate her <del>soft</del><add place="above"><del><gap unit="letters" quantity="5" reason="illegible"/></del></add> hue steadily <del><gap unit="letters" quantity="4" reason="illegible"/></del> the sublime, <del>and</del><add place="above">her serenely</add>
+                    and awful Beauties – quite unobserv’d the <add place="above">his</add> garish Orb <unclear>decling</unclear> nor can even an <placeName ref="pl1164">Italian</placeName>
+                    wish for warmer Colouring while such intelligent Features, such a sweet Complexion wait for &amp; invite his Applause. This lovely Lake from the Jaws of <placeName ref="pl1764"><unclear>Botterdale</unclear></placeName> fortified with rising Rocks, <add place="above">yt</add>
+                    abruptly hinder<del>ing</del> your Examination of its Limits, &amp; look <add place="above">like</add> the <placeName ref="pl1765">Avernus</placeName> in <persName ref="pe1112">Fenelon</persName>'s elegant &amp; moral <bibl type="authorial"><title ref="bi0200">Romance</title></bibl> – down to the 
+                    <unclear>sweet</unclear> Garden Scenes exhibited at the other End, where Woods &amp; Walks and Gentlemen’s Seats variously disposed draw your Eyes from <placeName ref="pl1097">Skiddaw</placeName>, &amp; make them follow on to another Mere called <placeName ref="pl0528">Basswater</placeName> is deliciously picturesque: but the 
+                    <placeName ref="pl1766">Black Lead Mine</placeName> exists no longer, &amp; who now shall <del>draw</del> make Designs of Places where <persName ref="pe0547 pe1113 pe0509">Claude Cuyp &amp; Salvator</persName> might entertain themselves <del>by <gap unit="letters" quantity="4" reason="illegible"/></del>
+                    with Views of <del>ever varying</del> such exquisite mutability as should be admired in every other Nation who would then surely hasten hither &amp;
+                <pb/>
+                    <fw>f. 17r</fw>
+                    enjoy the charming Originals. Tis very lately tho’ that we have ourselves taken to esteem &amp; glory in them: I know not whither <persName ref="pe1114">Mr. Cumberland</persName> was not the first who <del>like <persName ref="pe1115">Ashley</persName></del>
+                    <lb/>Rais’d their Reputation &amp;c
+                    <lb/>Pro Bono Publico<note type="editorial">'For the public good'</note> as <persName ref="pe1115">Ashley</persName> upon <placeName ref="pl1769">Ludgate Hill</placeName> says of his <placeName ref="pl1848">Punch</placeName>;
+                    at this Time however there is a <hi rend="underline">Rage for the Lakes</hi>: we travel to them, we row upon them, We write about them, &amp; about them and I find on the Banks of <placeName ref="pl0516">Winander</placeName> a Family <add place="above"><unclear>talk</unclear></add>
+                    of Accomplishments settling on that Spot merely because of the beautiful Scenery which it exhibits but there is a sameness in all standing Waters I see <add place="above">perceive</add> <del><gap unit="letters" quantity="5" reason="illegible"/></del><add place="above">each</add> <hi rend="underline">must</hi>
+                    be headed with Mountains, the Gradations of which adorn its Sites, while <add place="above">on</add> opener Country ending in softly rising Hills concludes the Pleasure by one great View up the Lakes. – The Bottom of 
+                    <placeName ref="pl0223">Loch Lomond</placeName> was more pebbly, &amp; not less pellucid – tho’ I forgot to bathe in that, &amp; went into only two of these; we counted six or seven in all, but there are as many more which we never saw, &amp; 
+                    tho’ they told us of Cascades I can <hi rend="underline">boast</hi> the Sight of none: this glorious Weather dries them up perhaps, we have <add place="above">had</add>
+                    now on the 17. of August a very fervid Sun &amp; no Rain for twelve charming Days. Rowing to <persName ref="pe1116">M.<hi rend="superscript">r</hi></persName>'s elegant <placeName ref="pl1767">Island</placeName>
+                    was a pleasing Amusement, tis laid out in a good Taste enough, but wants Flowing Shrubs – We sh:<hi rend="superscript">d</hi> go to <placeName ref="pl0705">Scotland</placeName> for Roses it seems – they can make them flourish in Latitude 56 or 57 mighty well.</p>
+                <p><placeName ref="pl0259">Kendal</placeName> is an agreeable town &amp; I
+                <pb/>
+                    <fw>f. 17v</fw>
+                    have seen no Country Church so pretty in one Nation: when one adds that it reminds one tho’ distantly &amp; coarsely of <placeName ref="pl1849">S.<hi rend="superscript">tn</hi> Giustina di Padua</placeName> --- tis enough. 
+                    <placeName ref="pl1850">Sizergh</placeName> claims not only <hi rend="underline">my</hi> approbation but partiality I have loved the <hi rend="underline">Name</hi> of it for thirty Years, how should I help loving the Place itself? 
+                    <placeName ref="pl1851">Levens</placeName> is one of the Show things hereabouts but hardly of Consequence enough to mention, <placeName ref="pl1852">Lancaster Bridge</placeName> is well built &amp; many things in the <placeName ref="pl0262">Town</placeName> are of a good Style as to Architecture – 
+                    <placeName ref="pl0263">Preston</placeName> is hateful &amp; till one arrives at <placeName ref="pl0723">Liverpool</placeName> few Attractions <add place="above">are found to</add> details <del>your</del><add place="above">ones</add>
+                    Curiosity but</p>
+                <p>Nothing <add place="above">sure</add> was ever so improved <del><gap unit="letters" quantity="4" reason="illegible"/></del> as this Place; the Docks is magnificent, the Streets so large, so splendid with <add place="above">richly furnished</add> Shops all Day, so luminous with well ranged Lamps all Night – so clean tho’ crouded, 
+                    so comfortable tho’ splendid – so decent tho’ unavoidably noisy. Viva <placeName ref="pl0723">Liverpool</placeName>! our Friends the <persName ref="pe1139 pe1140">Kembles</persName> help to make it pleasant &amp; here are no drawbacks. We have a mighty pretty Theatre and Lord Derby’s Park at <placeName ref="pl1278">Knowesley</placeName><note type="editorial">Edward Smith-Stanley (1752-1834), 12th Earl of Derby, lived at Knowsley Hall, a stately home near Liverpool dating from c. 1500.</note>
+                    serv’d for a Day’s Amusement well enough. He possesses some curious Rareties, for example two original rough Drawings of <persName ref="pe0509">Salvator Rosa</persName> on Wood; very valuable, which the Worms are eating, a showy <persName ref="pe0314">Rembrant</persName> not ill preserved of <rs type="art" ref="ar0208">Belshazzar’s impious Feast</rs>; &amp; <persName ref="pe1141">Borgognones</persName> painted on Gilt Leather, very strange things indeed: and a good <persName ref="pe0595">Vandyke</persName>
+                    of <rs type="art" ref="ar0205">Christ delivering
+                <pb/>
+                    <fw>f. 18r</fw>
+                        the Keys to <hi rend="underline">S<hi rend="superscript">t</hi></hi> Peter</rs>. but <placeName ref="pl0723">Liverpool</placeName> must be left behind with its fine high Tide and crouded Harbour – the Look out <add place="above">too</add>
+                    from whence one sees every Moment some new &amp; interesting Object – the Ship’s Arrival, the Wife’s expecting Eye the Parent’s <add place="above">pious</add> Transport, the Children’s active Joy at <hi rend="underline">his</hi> Return who brings Pleasure &amp;
+                    Comfort to each. Who would not travel <add place="above">far</add> to receive such Caresses? to bestow such Raptures at his Return? but we go on to old <placeName ref="pl0002">West Chester</placeName> &amp; walk round the Walls: so ancient, so useful, so peculiar to that Place; We have no other walled City in
+                    <placeName ref="pl0775">England</placeName>. Here our <placeName ref="pl1853">Cathedral</placeName> is vulgar on the outside,<note type="editorial">Chester Cathedral, built from red sandstone, represents a range of architectural styles, the earliest of which dates from the 11th century.</note> well kept within however -- &amp;
+                    if the Choristers Sing out of Tune a little, their Surplices are clean at least not like those of <placeName ref="pl0934">Durham</placeName>. Arreste as the <placeName ref="pl0925">French</placeName>say, one sees <placeName ref="pl0775">England</placeName> fade away upon her Borders again, &amp; the Blue Clokes with High Crowned Beaver Hats on every ordinary Woman’s Head shews us that 
+                    <placeName ref="pl0731">Wales</placeName> is at hand. The Roads likewise, which get very bad the Instant one leaves the Turnpikes, tell sad Tales of my good Countrymen’s Avarice &amp;
+                    Inactivity, for Poverty cannot be lamented where as at <placeName ref="pl1251">Holywell</placeName> <add place="above">the</add> <gap unit="letters" quantity="4" reason="illegible"/> Manufacturers are carrying on with hourly Improvement<note type="editorial">The market town of Holywell, near the north Wales coast, rapidly expanded its textile, mining and metal industries in the 18th century.</note>
+                    &amp; a Vicinage in the <placeName ref="pl1443">Vale of <sic>Llwydd</sic></placeName> that might attract every one’s Admiration if it was not observed that while each Neighbours House is at less than seven Miles distance from seven more at least – you
+                <pb/>
+                    <fw>f. 18v</fw>
+                    find yourself as long in going as if they were <add place="above">situated</add> in a comfortable Country. from many Seats scattered up &amp; down this <del>valley</del><add place="above">Landscape</add> however there are exquisite Prospects to be <unclear>seen</unclear>
+                    of cultivated Nature in its prettiest Form a Valley – filled with interesting Objects – Castles the Remainder of defensive Antiquity, Manufactures the Pride of modern Days – and a <placeName ref="pl1561">Cathedral of Gothic Architecture repaired in latter Times &amp; situation most sweetly</placeName>. – The Mountains rising in Dignity towards one end of the Vale where the 
+                    <placeName ref="pl1108">Irish Ocean</placeName> terminates our View -- the other end softening into Scenery more Anglicized. At <placeName ref="pl0695">Mostyn Park</placeName> I saw across the Sea to <placeName ref="pl0723">Liverpool</placeName>,
+                    &amp; to the rising Grounds of <placeName ref="pl0800">Cumberland</placeName> which we had so lately left: – it gave a pleasing Emotion to the Mind, almost like the Sight of a Friend one a
+                    <add place="above">has</add> parted from, without hope of embracing again for a long Time. <placeName ref="pl1854">Garthvino</placeName> exhibits a singular Union of Beauties, &amp; pleas’d me from its Novelty.  
+                    <placeName ref="pl1855">Dymerchion Hill</placeName> commands an Extent of Country so finely diversified, &amp; an Expanse of Water so covered with Shipping that I know not where to find its Rival ---- my best Amusement here was planning a House with Windows every way ---- a Lanthorn would on y.<hi rend="superscript">s</hi>
+                    Spot be almost a rational Model for one’s Habitation<note type="editorial">This passage is one of the earliest references to Piozzi’s project of building a country house on the edge of village of Tremeirchion, Flintshire. The Piozzis moved into the new house, Brynbella, in September 1795.</note> --- We must leave such seducements, &amp; 
+                    run away to <placeName ref="pl0740">Shrewsbury</placeName> -- the Inn at <placeName ref="pl1477">Denbigh</placeName> is dismal,
+                <pb/>
+                    <fw>f. 19r</fw>
+                    &amp; <placeName ref="pl1856">Maesmynan</placeName> where we meant to reside is occupied by the dear <persName ref="pe1142">Parrys</persName> who were overturned close to it, &amp;
+                    broke their Bones which has detained them half the Summer. – a vile Road carried us to <placeName ref="pl1857">Mold</placeName>, a viler still to <placeName ref="pl0002">Chester</placeName>, but thro’ a sweet Landscape a lovely disposition of Grounds all the way; <placeName ref="pl0775">England</placeName>
+                    however always strikes on, come from what Place one will – its Verdure, its Neatness, its Opulence, its Amænity! I have returned to <placeName ref="pl0775">England</placeName> from <del><placeName ref="pl1164">Italy</placeName></del> <placeName ref="pl1472 pl0705 pl0731">Germany Scotland &amp; Wales</placeName> --- and except the <del>first</del>
+                    second nam’d Nation <add place="above">nam'd</add> I love them all ---- but <placeName ref="pl0775">Old England</placeName> receives fresh Charms, &amp; conveys new Ideas of Pleasure on each return. <placeName ref="pl0740">Shrewsbury</placeName> was filled with Dancers all Night 
+                    &amp; Cattle all Day – it was Fair Time, &amp; we went from there to <placeName ref="pl1706">Ludlow</placeName> instead of <placeName ref="pl1858">Bridge North</placeName>. <placeName ref="pl1706">Ludlow</placeName> shews one a pretty Walk &amp; a pretty Prospect from the Walk – a <placeName ref="pl1859">Church</placeName> eminent for Beauty as a Country Church, &amp; one Degree smarter than our <placeName ref="pl0702">Flintshire</placeName> fabric at
+                    <placeName ref="pl1857">Mold</placeName> ---- but I liked not the Drive to <placeName ref="pl1712">Hereford</placeName> as I expected; it was flat enough, &amp; dull enough: a plentiful County tho’, &amp; the Orchards innumerable: in Spring the Blossoms must make it a Paradise, but all course Fruits are loveliest in the Promise; Apples, Medlars,
+                    Pears. The Fig Grape or Anana give no such hopes in <hi rend="underline">their</hi> Infancy, &amp; tis so in Animal Life too: a bred Colt is seldom beautiful <hi rend="underline">but he trains fine</hi>: and vulgar People
+                <pb/>
+                    <fw>f. 19v</fw>
+                    are by all observed to have the prettiest Babies. Our <placeName ref="pl1860">Cathedral here at Hereford</placeName> is rebuilding,<note type="editorial">Hereford Cathedral, parts of which date from the 11th century, was undergoing significant repair work following the collapse of one of its towers in 1786.</note>
+                    it will be very handsome: the old Tower is retained --- I never saw neater Workmanship than that one Turret ’tis beaded like a Toothpick Case in a fine Jeweller’s Shop. <persName ref="pe0232">M.<hi rend="superscript">r</hi> Pennant</persName> would riot in Anecdotes did he but hear the Man talk who shows the Tombs; 
+                    <add place="above">&amp;</add> now <persName ref="pe0465 pe1143">their Majesties</persName> have visited the place so lately, I expect Gloucester to be full of Gossiping Stories as <hi rend="underline">he</hi> is.<note type="editorial">George III had visited Gloucester in July 1788.</note></p>
+                <p>The People who boast <persName ref="pe1121">Kyrle</persName>'s Picture, &amp; tell Tales about the <persName ref="pe1121">Man of Ross</persName> at our Dining Place are still happier -- They have the Trees to show w<hi rend="superscript">ch</hi> he planted and the Spire which he built to be proud of -- &amp;
+                    Charming is the View of the <placeName ref="pl1227">Wye</placeName> from y.<hi rend="superscript">e</hi> Church Yard. <placeName ref="pl1276">Gloucester</placeName> is however the finest of our <placeName ref="pl0777">Island</placeName> Cities to please
+                    <hi rend="underline">me</hi>, who have seen so many – always excepting <placeName ref="pl1347 pl0796">Oxford &amp; Bath</placeName> – the Head Quarters of Learning and Pleasure. Its Shops are more elegant, its Rivers more majestic, its general Air more the Air of a Capital than any of them: Streets more ample, Carriages more frequent and the 
+                    <placeName ref="pl1875">Cathedral</placeName> unrivalled for neatness in its Keeping, and Soft Simplicity in its Decorations. Such Cloysters I have not Walked round even in <placeName ref="pl1164">Italy</placeName>. their Cieling is an astonishing Work; the Antiquity most venerable, &amp; the Preservations such as one should wonder at were it the 
+                    <del>Work</del><add place="above">Labour</add> of the Year 1500 instead of 1100.<note type="editorial">Gloucester Cathedral was built from the 11th century onwards; its fan-vaulted ceiling, dating from the mid-14th century, is thought to be the earliest example of its kind.</note>
+                    From <placeName ref="pl1276">Gloucester</placeName> to <placeName ref="pl0796">Bath</placeName> every Step is strewed
+                <pb/>
+                    <fw>f. 20r</fw>
+                    with Beauty – and when one arrives there – ’tis always fresh Admiration that fills the Mind. Every Day sees Population &amp; Accommodation encrease ---- and <hi rend="underline">omne quod exit in Ation</hi><note type="editorial">"Whatever passes from potentiality to act". It is a quote from Thomas Aquinas.</note>I believe except Mortification, from which 
+                    <placeName ref="pl0796">Bath</placeName> affords best Refuge is Variety can allure me from thinking about Sorrow – or Friendship alleviate such Griefs as never can be forgotten.</p>
+                <p>At this Place some new Phenomena have this Autumn attracted Attention – the <persName ref="pe1144 pe1145">Bridgetowers Father &amp; Son</persName> astonish and delight us. I will speak the <persName ref="pe1144">Boy</persName> first, as his Talents maintain them both: &amp;
+                    such are his Powers upon the Violin as <add place="above">to</add> have extorted Money and Applause from the professor themselves, who acknowledge the superior Merit of a Baby not yet ten Years old, with a Candour that does them Honour. This wonderful Child is a Mulattoe,
+                    Offspring of an <persName ref="pe1145"><placeName ref="pl1353">African</placeName> Negro</persName> by a <persName ref="pe1146">Polish Dutchess</persName>: whose Marriage with her accomplished <persName ref="pe1145">Moor</persName> being foolishly blazon’d by the <persName ref="pe1147">Father</persName>
+                    --- a compell’d Separation was the Consequence; &amp; poor <persName ref="pe1146 pe1145">Bridgetowers</persName> turned out to wander thro’ the World with an Arrow in his heart, &amp; this surprizing <persName ref="pe1144">Son</persName> of theirs in his Hand. The
+                    <persName ref="pe1146">Lady</persName> remain’d long at home locked up I trust till her relation thought her Passion past away, but She has escaped like Thisbe,<note type="editorial">Character in Ovid’s Metamorphoses, forbidden to marry her lover, Pyramus, by both parties’ parents.</note> &amp; is run after her <persName ref="pe1145">Husband</persName> as far as <placeName ref="pl1861">Ratisbon</placeName>, whence he will bring her hither as he says, if in <placeName ref="pl0775">England</placeName>
+                    any Establishment for her can be obtained.
+                <pb/>
+                <fw>f.20v</fw>
+                    <persName ref="pe1145">The Father</persName>'s Accomplishments are various &amp; amazing – Languages, Address &amp; Elegance of Person he possesses to a Wonder: was he less eager to display his Talents it were better, but he is a fine Fellow with all his Faults; and one is sorry to see that he must sink at last – and extinguish like the Stick of a Sky Rocket, after entertaining us with a charming Blaze, 
+                    &amp; half alarming our Fears by the loud Noise made at his rising.</p>
+                <p><placeName ref="pl0796">Bath</placeName> to <placeName ref="pl0699">London</placeName> afforded nothing new, so here at <placeName ref="pl1862">Han.<hi rend="superscript">r</hi> Square</placeName><note type="editorial">The Piozzis rented a house in Hanover Square on their return from their continental travels in 1787.</note> 27 Dec.<hi rend="superscript">r</hi> 1789 ends a journey of 1300 Miles made in <placeName ref="pl0777">Great Britain</placeName> alone since the 3.<hi rend="superscript">d</hi> of last June 1789.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

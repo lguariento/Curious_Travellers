@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+                
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 66</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date>16 April [1774]<note type="editorial">James Granger had not received
+                            prints of the Countess of Desmond and James Crichton by 3 June 1773. The dating of this letter is
+                      made on this basis. See further n. 2, below.</note></date>
+                    <placeName ref="pl0752">Vere street Cav: sq.</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0753">upper Brook street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute>
+                    <dateline><handShift/>1788 but Q<lb/>
+                        <handShift/><del>1787 or 1788 but Q</del><note type="editorial">The erroneous suggestions about the dating of this letter, variously written in ink and pencil with the second line erased, may belong to Bull.</note><lb/>
+                        <placeName ref="pl0752">Vere street Cav: sq.</placeName> April 16<hi rend="superscript">th</hi>.</dateline></opener>
+                <p>I am sorry that it has been my ill fortune to <del><gap reason="illegible" unit="letters" quantity="several"/></del>
+                    have missed seeing you so often. a <rs type="art" ref="ar0004">head of
+                            <persName ref="pe0315">Countess of
+                        Desmond</persName></rs> &amp; <rs type="art" ref="ar0005"><persName ref="pe0317">Crichton</persName></rs> waits your acceptance.<note type="editorial">Pennant's
+                        intention to produce prints from drawings of both James Crichton and the Countess of Desmond are evident in the
+                        correspondence of Richard Bull
+                        with James Granger during April
+                        1773. Granger was still waiting
+                        for the prints at the beginning of June of that year. Peltz, 'Engraved
+                        Portrait Heads', pp. 114, 116–17, 119, 125. </note> Be so good as to send
+                        <persName ref="pe0319">y<hi rend="superscript">r</hi>
+                        Servant</persName> with a portfolio &amp; they shall be delivered. I shall
+                    be very glad that you would transmit two others with my Complim<hi rend="superscript">ts</hi> to <persName ref="pe0316">M<hi rend="superscript">r</hi> Grainger</persName>. had I any certainty of
+                    finding you at home <sic>too morrow</sic> I would do myself the pleasure of
+                    calling between ten &amp; eleven. I am</p>
+                <closer><salute>Dear Sir Y<hi rend="superscript">r</hi> obliged H. Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">T. Pennant.</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine><persName ref="pe0313">Richard Bull</persName> esq<hi rend="superscript">r</hi> | <placeName ref="pl0753">upper
+                                Brook street</placeName>.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

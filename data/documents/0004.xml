@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0004">
+    <teiHeader type="w">
+        <fileDesc>
+            <titleStmt>
+                <title>Eleanor Butler and Sarah Ponsonby, Account of a Journey in Wales; Perform’d in May 1778 By Two Fugitive Ladies
+                    <date>1778</date></title>
+                <respStmt>
+                    <name>Edited with an introduction by Elizabeth Edwards</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>MS22967</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>C</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb n="1r"/>
+                <fw>f. 1r</fw>     
+                <p style="center">ACCOUNT OF
+                    <lb/>A Journey in <placeName ref="pl0731">Wales</placeName>;
+                    <lb/>Perform’d in May
+                    <lb/>1778
+                    <lb/>By
+                    <lb/>Two Fugitive Ladies
+                    <lb/>And Dedicated to
+                    <lb/>her most tenderly Beloved Companion
+                    <lb/>By
+                    <lb/>The Author
+
+                    <pb n="1v"/>
+                    <fw>f. 1v</fw><note type="editorial">[illustration: ‘Benton Castle Milford-Haven’]: A coastal watercolour depicting Benton Castle, with boats and seascape in the foreground and rolling hills in the background, either by Eleanor Butler or Sarah Ponsonby (the painting is signed ‘S.P.’ and ‘E.B.’ in the bottom left corner).</note>
+                    <pb n="2r"/>
+                    <fw>f. 2r</fw>  
+                </p>
+                
+                <p style="center"><placeName ref="pl1245">South Wales</placeName>
+                    <lb/><placeName ref="pl1232">PEMBROKESHIRE</placeName></p>
+                <p>Sunday 10. Arrived at <placeName ref="pl1992">Haking</placeName> ---
+                    <lb/>Monday 11. Walked to <placeName ref="pl1993">Hoberston</placeName> , a Village prettily situated with an old Church, where are several tombstones with rustick Inscriptions – To 
+                    <placeName ref="pl1994">Gallowswick</placeName> a place belonging to a <persName ref="pe1249">M.<hi rend="superscript">r</hi> Allen</persName>, bleakly situated on the Sea Shore ––––
+                    <lb/>Tuesday 12. Came in a Sail boat across <hi rend="underline"><placeName ref="pl1294">Milford Haven</placeName></hi> to 
+                    <placeName ref="pl1996">Pembroke Ferry</placeName>. Walked from thence (about two miles) to <placeName ref="pl1811">Pembroke</placeName>.
+                    Visited the <placeName ref="pl1997">Castle</placeName> which was built by <persName ref="pe0343">Arnolph de Montgomery</persName> - the Birth place of 
+                    <persName ref="pe0670">K. Henry VII</persName>: It is situated on a high Rock, &amp; in tolerable preservation particularly one of the towns which has a Very fine Stone arch’d roof. Under the Chapel is a Cave call’d 
+                    <placeName ref="pl2005">Wogan</placeName> Supposed to have been a repository for Military Stores, as the Stairs still remain by which it communicated with the 
+                    <placeName ref="pl1997">Castle</placeName>. We observed an Ivy-tree by one of the Towers which appeared remarkable the Trunk being above 10 Inches in Diameter ––– We went to a 
+                    <unclear>funeral</unclear> at one of the Churches in the evening – a poor Building &amp; in very bad condition –––
+                    <lb/>Wednesday 13. Walked to <placeName ref="pl2006">Bushe</placeName> the seat of <persName ref="pe0505">M.<hi rend="superscript">r</hi> Merrick</persName>
+                    <pb n="3r"/>
+                    <fw>f. 3r</fw>
+                    about a Mile from <placeName ref="pl1811">Pembroke</placeName>. <persName ref="pe0505">The Proprietor</persName> seems to have taking pains to conceal from this Place a fine view of the 
+                    <placeName ref="pl1997">Castle</placeName> which it might have commanded –––
+                    <lb/>Thursday 14: Went in the Evening to <placeName ref="pl1995">S.<hi rend="superscript">t</hi> David's Church</placeName>  – Ancient –––<note type="editorial">St David’s church – Unidentified. The St David’s Church at nearby Hundleton was not built until the 1930s, though there may have been a church on this site previously. See <ref type="http" target="http://www.coflein.gov.uk/en/site/421022/details/st-davids-church-hundleton">here</ref>.</note>
+                    <lb/>Saturday 16: Visited <placeName ref="pl1816">Carew Castle</placeName> an ancient Building and <placeName ref="pl2007">Carew Church</placeName>
+                    containing nothing worthy of Notice except a Monument of the Carew family with the effigies of <rs type="art" ref="ar0312">one of them in Armour; his 
+                        <persName ref="pe1264">Wife Dame Southcote</persName> of very rude Workmanship – erected about the middle of the last Century, with their Children, five Daughters represented on the sides kneeling.</rs><note type="editorial">For images of this monument, see <ref type="http" target="http://coflein.gov.uk/en/site/308939/details/st-marys-church-carew-cheriton#images">here</ref>.</note>
+                    That of an <rs type="art" ref="ar0313">Abbot which appears more ancient – of black Marble</rs>. Another of a <rs type="art" ref="ar0314">Warrior with a remarkable large head, on a very uneasy posture with his hand on his sword</rs>,<note type="editorial">Probably a reference to <ref type="http" target="http://coflein.gov.uk/en/archive/6429866/details/504">this memorial tomb</ref>.</note>
+                    Passed by a very beautiful Wood belonging to <persName ref="pe1127">L:<hi rend="superscript">d</hi> Milford</persName>, &amp;
+                    <persName ref="pe1560">Lady Maude</persName> in our way to <placeName ref="pl2027">S.<hi rend="superscript">t</hi> Clears.</placeName></p>
+                <p style="center"><placeName ref="pl1231">CAERMARTHENSHIRE</placeName></p>
+                <p>Lay at <placeName ref="pl2027">St Clears.</placeName> - a Small Village.
+                    <lb/>Sunday 17. Came to <placeName ref="pl1802">Caermarthen</placeName> which is esteem’d the principal City of 
+                    <placeName ref="pl0731">Wales</placeName> but did not answer our expectations.
+                    <pb n="4r"/>
+                    <fw>f. 4r</fw>
+                    The remains of the <placeName ref="pl2008">Castle</placeName> which are at prisint <gap unit="letters" quantity="several" reason="illegible"/>ted
+                    into the County Gaol inworthy of notice. The <placeName ref="pl2009">Church</placeName> very neat with some pritty 
+                    Monuments: an ancient one of a – <persName ref="pe1132">Welsh Prince of the Tudor Family</persName> with the 
+                    <rs type="art" ref="ar0315">Effigies of him, his Wife and Children</rs>. Those of another in Armour are placed at the foot of this Monument: another of a 
+                    <rs type="art" ref="ar0316">Lady Vaughan Who is represented kneeling in a black Veil in which posture She was found dead in her Closet</rs>,<note type="editorial">For an image of the memorial to Lady Vaughan, see <ref type="http" target="http://coflein.gov.uk/en/archive/6169503/details/504">here</ref>.</note>
+                    ––– <persName ref="pe1265">Sir Richard Steele</persName> is also interr’d in an obscure part of this Church under a plain Flag without any Inscription ––– We visited some Ruins which we were told were those of an
+                    <placeName ref="pl2372">old Priory</placeName>.<note type="editorial">Priory – St John’s Priory, founded in the twelfth century; see <ref type="http" target="http://coflein.gov.uk/en/site/275700/details/st-johns-priorypriory-of-st-john-and-st-teulyddog-augustinian-carmarthen">here</ref> and <ref type="http" target="http://www.monasticwales.org/site/43">here</ref>.</note>
+                    There are some good Houses and a handsome <placeName ref="pl2010">Town Hall in Caermarthen</placeName> and leaving it we pass’d by a 
+                    <placeName ref="pl2011">Bishop’s Palace</placeName>.
+                    <lb/>Monday 18. Dined at – <placeName ref="pl1799">Llandilo</placeName>  – before Dinner went to <placeName ref="pl2012">Newton</placeName>
+                    the Seat of <persName ref="pe1266">George Rice Esq:</persName> a very beautiful and extensive Demesne, the Park extremely well laid out. 
+                    &amp; ornament with very fine Old Oak &amp; other trees a great variety of Grounds and a pretty <placeName ref="pl1801">Ruin of an Old Castle</placeName> Situated
+                    <pb n="5r"/>
+                    <fw>f. 5r</fw>
+                    on a high hill. <placeName ref="pl2012">The House</placeName> is modern &amp; appears from the outside to be a very good one, but does not command a view of the
+                    <placeName ref="pl2008">Castle</placeName> – We saw <placeName ref="pl2013">Golden Grove</placeName> the Seat of <persName ref="pe1267">M:<hi rend="superscript">r</hi> Vaughan</persName>
+                    from <persName ref="pe1266">M:<hi rend="superscript">r</hi> Rice</persName>'s Improvements and desired to see no more of it ––– Slept at <placeName ref="pl1796">Landovery</placeName> ---
+                    <lb/>Tuesday 19. Went to see the <placeName ref="pl2014">House</placeName> where <persName ref="pe1561">M:<hi rend="superscript">r</hi> Rees Pritchard a Welch Poet</persName>
+                    lived in the beginning of the last Century. It is an Ancient Building with Gothick Cielings to some of the Rooms, rather Curiously pirformed, 
+                    &amp; a very few panes of painted Glass – The remains of an <placeName ref="pl1798">old Castle</placeName> belonging to 
+                    <persName ref="pe1267">M:<hi rend="superscript">r</hi> Vaughan</persName> situated on an eminence, and <placeName ref="pl2373 pl2374">two Churches</placeName>
+                    neither of which are very well worth visiting – <placeName ref="pl1796">Llandovery</placeName> is pleasantly situated Surrounded by Wooded Hills – it is rather a neat Village &amp; a pretty Clear river runs through it.</p>
+                    <pb n="6r"/>
+                    <fw>f. 6r</fw>
+                <p style="center"><placeName ref="pl1233">CARDIGANSHIRE</placeName></p>
+                <p>Wednesday 20<hi rend="superscript">th</hi> Breakfasted at <placeName ref="pl2378">Llanbedr</placeName> a Small Village. Stop’d for a few minutes at 
+                    <placeName ref="pl2028">Llanrhuisted</placeName> a very mean Hamlet: &amp; look’d at the Church which is a very poor one. Lay at 
+                    <placeName ref="pl1240">Aberystwith</placeName> a town Sitate on the <placeName ref="pl2379">River Istwyth</placeName>
+                    119 miles from <placeName ref="pl0699">London</placeName> ––––
+                    <lb/>Thursday 21<hi rend="superscript">st</hi>: Went to see the ruins of the <placeName ref="pl1998">Castle</placeName>
+                    which appear very extensive, Situated on a very rocky Eminence close by the Sea. It appears to have been built for the purpose of Defending the 
+                    <placeName ref="pl1240">Town</placeName> which was once intirely surrounded by a Wall some remnants of which are still to be seen. As the 
+                    <placeName ref="pl1998">Castle</placeName> was intended more for utility than ornament We found nothing to be admired but its strength, its extent &amp;
+                    the beauty of its situation. No Cut Stonework, &amp; those of which the Walls were formed are very Unsightly, though not many Yards from the Sea
+                    <pb n="7r"/>
+                    <fw>f. 7r</fw>
+                    a Well of fresh Water is to be found amidst these ruins. We walked on the Strand at <placeName ref="pl1240">Aberystwith</placeName>
+                    which is a pretty one, but the Harbour extrimely dangerous excepting for any small Vessels. -------.</p>
+                <p style="center"><placeName ref="pl1221">North Wales</placeName></p>
+                <p style="center"><placeName ref="pl1242">MONTGOMERYSHIRE</placeName></p>
+                <p>Friday 22:<hi rend="superscript">nd</hi> Lay at <placeName ref="pl2029">Machynlheth</placeName> 198 miles from <placeName ref="pl0699">London</placeName>.
+                    <lb/>Saturday 23: Saw the remains of an Old Building which the Inhabitants call the <placeName ref="pl2381">Parliament House</placeName> - 
+                    <note type="authorial">'<persName ref="pe1572">Owen Glendower</persName> held a P<hi rend="superscript">lt</hi> there</note><note type="editorial">Butler’s note, written in the right hand margin</note>
+                    Nothing memorable except the Roof which is lined Mosaic work of Wood, very uncommon and well wrought. <placeName ref="pl2029">Machynlheth</placeName>
+                    is beautifully Situated on the <placeName ref="pl0937">river Dovy</placeName>. Surrounded by Hills finely wooded stopt at 
+                    <placeName ref="pl1515">Malleenth</placeName> a pritty Village part of which is in <placeName ref="pl1242">Montgomery</placeName> - 
+                    and part in <placeName ref="pl1235">Merionethshire</placeName>. Surrounded by Mountains with an
+                    <pb n="8r"/>
+                    <fw>f. 8r</fw>
+                    old Church on the Door of which were placed a very large head &amp; a long Bone which we were informd had been the Head &amp;
+                    Rib of a Shark<note type="editorial">For an image of these bones above the porch of the church, see <ref type="http" target="http://coflein.gov.uk/en/archive/6184768/details/504">here</ref>.</note>
+                    - In the Church Yard are some very Large Eugh Trees One of which measured ten yards, another Six round the Trunk. The longest one hundred Yards and the lessor, fifty round the Branches lay at 
+                    <placeName ref="pl1511">Canons Office</placeName> a single house in a romantick situation –
+                    <lb/>Sunday 24. Came to <placeName ref="pl0741">Welch Pool</placeName> situated on the <placeName ref="pl1226">river Severn</placeName>
+                    169 miles from <placeName ref="pl0699">London</placeName>, from whence we went to see <placeName ref="pl1509">Powis Castle</placeName>
+                    Situated on an Eminence in the middle of an extensive Park about a mile from the <placeName ref="pl0741">Town</placeName>.
+                    The <placeName ref="pl1509">Castle</placeName> is built of a reddish Gritty Stone rather unsightly, The Apartments are low &amp;
+                    ill furnish’d with very bad Tapestry, but there are a great number of them with large folding-doors of Carved Work. The Cieling 
+                    of the first Apartment is painted &amp; the Apartment ornamented with four clumsy Cupids on Pedestals – The Backs &amp;
+                    Seats of the Chairs <gap unit="words" quantity="1" reason="illegible"/>
+                    <pb n="9r"/>
+                    <fw>f. 9r</fw>
+                    with Black Velvit &amp; <unclear>silken tissue</unclear> with Black &amp; <unclear>silken</unclear> Fringe. We pass’d from this through an Enfilade of Rooms – to the Gallery which is Very low 
+                    &amp; narrow, furnish’d with Family Pictures very coarsely done. there were some Busts in it which seem’d Palatable, but being placed 
+                    on the ground appear’d to the utmost disadvantage. there is an Apartment joining the Gallery which was fitted up for the 
+                    Reception of <persName ref="pe1458">King Charles II</persName>. The Bed of Crimson Velvit (rather scanty) with a Gilt Balustrade across the Alcove. on the Windows, Door and Chimney are Cyphers of 
+                    <note type="editorial">IMAGE IN TEXT</note> The Stair Case very broad, of Black Oak as are all the Floors – the Walls &amp;
+                    Cieling of the Hall and Staircase are painted &amp; the Bannisters are of Oak curiously carved – the Eating Parlour very low and dark with some Pictures particularly one of 
+                    <rs type="art" ref="ar0315">Lord Castelmaine &amp; his Secretary</rs>.<note type="editorial">For an image of this painting, Roger Palmer, 1st Earl of Castlemaine (1634-1705) and his Secretary (1664), attributed to Sebastiano Bombelli, see <ref type="http" target="https://www.nationaltrust.org.uk/documents/a-guide-to-the-pictures-at-powis-castle.pdf">here (p. 19)</ref>.</note>
+                    went afterwards to see the <placeName ref="pl2017">Church at Welch-Pool</placeName> Nothing remarkable. the 
+                    <persName ref="pe1573">the Powis family</persName>
+                    <pb n="10r"/>
+                    <fw>f. 10r</fw>
+                    have a Vault here, with a Brass Plate on it, under the Communion table ––––</p>
+                <p style="center"><placeName ref="pl0775">ENGLAND</placeName></p>
+                <p style="center"><placeName ref="pl1021">Shropshire</placeName></p>
+                <p>Monday 25: went to <placeName ref="pl1260">Oswestry</placeName> 172 miles from <placeName ref="pl0699">London</placeName>. went to see the
+                    <placeName ref="pl1952">Church</placeName> which was formerly a Monastery with many Monuments in particular <rs type="art" ref="ar0319">a very ancient one – belonging to the 
+                        <persName ref="pe1574">Family of Yeale</persName> in which an Husband and his Wife are represented kneeling in very old dresses on each Side of an Altar, with Books before them All of Pointed Stone</rs>.
+                    There is also another very Curious Monument (inclosed with an Iron rail) in which the Inscription figures &amp;c
+                    are rendered totally illegible by time. on all the Pillars, &amp; round the Church are Marble Tablets – with 
+                    <pb n="11r"/>
+                    <fw>f. 11r</fw>
+                    with Inscriptions shewing what Family they belong to. In particular a very neat one of the <persName ref="pe1575">Kynaston</persName>'s.
+                    The Gate of the Church:Yard is an handsome &amp; Spacious one of Iron painted White. the Ornaments about it of the same (representing Angels, foliages &amp;c
+                    &amp;C Painted in different Colours ––––</p>
+                <p style="center"><placeName ref="pl1221">North Wales</placeName></p>
+                <p style="center"><placeName ref="pl1216">DENBIGHSH:</placeName></p>
+                <p>Lay at <placeName ref="pl0793">Llangollen</placeName> a pretty Village on the <placeName ref="pl1138">river Dee</placeName>
+                    over which there is a Bridge esteemed one of the wonders of <placeName ref="pl0731">Wales</placeName>. Built upon a solid rock, in 1395, went to See the 
+                    <placeName ref="pl1999">Church</placeName> Which contains nothing remarkable, except the tomb of a Knight of the Owens Family with a Banner over it ––––
+                    <pb n="12r"/>
+                    <fw>f. 12r</fw>
+                    Tuesday 26 Walked in the Morning to see <placeName ref="pl0794">Crowe-Castle</placeName> Built before the Birth of CHRIST – Six hundred yards perpendicular 
+                    from the tower, and two miles in ascent from the foot of the hill on which it is situated. the Stones with which it was built 
+                    were quarried on the Spot, but it is nevertheless Wonderful how so vast a pile as it appears to have been, Cou’d be erected on 
+                    so high a Situation. Part of a Gateway &amp; some of the Towers are still to be seen and there is a very good Well of fresh Water among the Ruins. It is surrounded by Mountains particularly one extending Seven miles, 
+                    &amp; Consisting of a series of Rocks call’d <placeName ref="pl2382">Trevor Rocks</placeName> &amp; Commands an extensive Prospect over the Beautifullest Country in the World. 
+                    Went in the afternoon to see the remains of an <placeName ref="pl0785">Abbey call’d Valede Crucis two miles from Llangollen</placeName>
+                    <pb n="13r"/>
+                    <fw>f. 13r</fw>
+                    belongs to <persName ref="pe1576">M:<hi rend="superscript">r</hi> Lloyd</persName> of <placeName ref="pl2018">Trevor-Hall</placeName>
+                    There can Scarcely be imagined a more beautiful Situation than this Abbey by the River side &amp; surrounded in all sides by Mountains mostly Wooded. the 
+                    Me<add place="above">a</add>dow in which it is placed is perfectly sublime &amp; there are some ancient Monuments<note type="editorial">Probably a reference to the Pillar of Eliseg, which dates from the ninth century; see <ref type="http" target="http://coflein.gov.uk/en/site/165274/details/pillar-of-elisegelisegs-pillar-cross-and-burial-mound-near-llangollen">here</ref>.</note>
+                    near it supposed to be of the Abbot or Monks to whom it belong’d.
+                    <lb/>Went in the Evening to see <placeName ref="pl1256">Chirk Castle the Seat of <persName ref="pe1577">Richard Midleton Esq.</persName>
+                        A very large &amp; ancient Building with six Towers which are low &amp; broad</placeName>, it is built round a Court &amp;
+                    by an Inscription over one of the great <gap unit="words" quantity="1" reason="illegible"/>. half of the Building was executed in the year 1635 by a 
+                    <persName ref="pe1578">Lady Middleton</persName>. A large Hall with Pillars – A Very Handsome Geometrical Stair-case with 
+                    <pb n="14r"/>
+                    <fw>f. 14r</fw>
+                    Iron rails round the Landing Place,<note type="editorial">See <ref type="http" target="http://www.ntprints.com/image/348945/the-grand-staircase-at-chirk-castle-showing-the-upper-landing-and-lantern">here</ref> for an illustration of the staircase.</note>
+                    the Saloon and Antichamber to it; very handsome Apartments particularly the Saloon the Cieling of which is beautifully painted in Compartments (formed by very fine Stucco) of the Heathen Gods 
+                    &amp; Goddesses with their Attributes a fine Chimney Piece of Italian &amp; Egyptian Marble<note type="editorial">For an illustration of the saloon, see <ref type="http" target="http://www.ntprints.com/image/349276/view-of-the-saloon-at-chirk-castle-showing-the-harpsichord-chimneypiece-and-serpentine-settees-with-matching-oval-backed-chairs-as-well-as-the-four-17th-century-mortlake-tapestries">here</ref>.</note>
+                    – the Eating Parlour (joining the Saloon) painted Pea Green ornamented with a very light Stucco done in a pretty pattern with Medallions which had a pleasing effect. the Breakfast Parlour furnish’d with Indian Paper A Working table of inlaid Woods 
+                    &amp; a Picture of the King on Looking Glass - - - - the State Bed Chamber are furnish’d with  Crimson,<note type="editorial">Possibly a reference to <ref type="http" target="http://www.nationaltrustcollections.org.uk/object/1170775">this four-poster bed</ref>.</note>
+                    another with Yellow Damask Very old-looking – The Gallery a very fine Room, Hung with Family and other Pictures – 
+                    <pb n="15r"/>
+                    <fw>f. 15r</fw>
+                    particularly the <rs type="art" ref="ar0320">Beauties of <placeName ref="pl1271">Hampton Court</placeName> done in Still Life, Water Colours</rs>.
+                    <rs type="art" ref="ar0321">King Charles I in Armour on Horseback</rs>. <rs type="art" ref="ar0322">Fair Rosamond with a Bowl of Poison</rs>.
+                    <rs type="art" ref="ar0323">Picture of Jane Shore in the Dress of the times She lived in; with a Veil over part of her Face, or transparent Gauze, vastly well done</rs>.
+                    a set of Pictures of Inlaid Marble in Ebony Frames – There are several Cabinets, some of inlaid Wood, one of Tortoiseshell with Silver Escutcheons 
+                    &amp;c. <rs type="art" ref="ar0324">another inlaid with Painted Marble representing the History of the New Testament ornamented with Silver</rs>
+                    &amp; <rs type="art" ref="ar0325">another very Pretty one, with Paintings on Ivory of Ovid’s Metamorphoses also done with Silver</rs>.
+                    at the end of the Gallery was a folding door to a <unclear>tribune</unclear> in the Old Chapel – We cross’d the Court which is a very spacious one to the Old parts of the Building – In the Hall of Which there is a
+                    <pb n="16r"/>
+                    <fw>f. 16r</fw>
+                    complete suit of Armour. An Iron <gap unit="words" quantity="1" reason="illegible"/> Shaped like an hunting 
+                    <gap unit="words" quantity="1" reason="illegible"/>. a Very Ancient <unclear>Hat</unclear> of Russet Leather. We walked on the Leads intirely round the Building - - - which is Encompass’d by a very handsome Balustrade – there 
+                    is an Iron door from the Court leading to a Place calld the Dungeon which is an almost totally Dark, Very deep &amp;
+                    extensive Vault. the Grounds are very handsomely laid out &amp; kept in the Modern taste, the Lawn very extensive, &amp; 
+                    Ornamented with very pretty <gap unit="words" quantity="1" reason="illegible"/> the Porter’s Lodge’s particularly well fancied 
+                    &amp; executed &amp; very handsome Iron Gates.<note type="editorial">For an illustration of the gates at Chirk Castle, which date to 1719, see: <ref type="http" target="http://www.coflein.gov.uk/en/site/26957/details/chirk-castle-gates-chirk">here</ref>.</note>
+                    the <gap unit="words" quantity="1" reason="illegible"/> adorned with the Midleton Arms.
+                    <lb/>Wednesday 27:<hi rend="superscript">th</hi> Dined at <placeName ref="pl1246">Ruthin</placeName> a Town in the <placeName ref="pl1443">Vale 
+                        &amp; on the River of Clwyd</placeName> 203 miles from <placeName ref="pl0699">London</placeName>. It had once a
+                    <placeName ref="pl2000">Large Castle now in Ruins</placeName> Which we visited but scarcely any of it remains at present. Went in the Evening to 
+                    <placeName ref="pl1477">Denbigh</placeName> - - - 209 miles from <placeName ref="pl0699">London</placeName> on a Branch of the 
+                    <placeName ref="pl1443">River Clwyd</placeName>. The Town is on a hanging Rock &amp; had been formerly a place of
+                    <pb n="17r"/>
+                    <fw>f. 17r</fw>
+                    great Strength fortified by a <placeName ref="pl1880">Castle</placeName> the Walls of which were a mile in Circumference, &amp;
+                    from the Advantage of its Situation it was thought to be Impregnable: The Ruins which we went to see are very Magnificent Some Towers 
+                    &amp; one Gateway remain almost intire, Several of the Vaults are in good preservation. there is a very pretty Bowling-Green 
+                    made of the first Court which commands and extensive Prospect over the <placeName ref="pl1443">Vale of Clwyd</placeName>
+                    of Several Gentlemans Seats particularly a <placeName ref="pl1045">very fine one</placeName><note type="editorial">A reference to Lleweni Hall, sold by Sir Robert Salusbury Cotton to Thomas Fitzmaurice c.1776. For an image of the house from Pennant’s extra-illustrated Tour, see <ref type="http" target="https://commons.wikimedia.org/wiki/File:Lleweni_hall_02194.jpg">here</ref>.</note>
+                    lately purchased by <persName ref="pe0391">M:<hi rend="superscript">r</hi> Fitzmaurice</persName> from <persName ref="pe1271">Sir Robert Cotton</persName>.
+                    Over the Gateway was an Image of one of the English Kings – 
+                    <lb/>Thursday 28:<hi rend="superscript">th</hi> Breakfasted at <placeName ref="pl1203">Abergæly</placeName> a very wretched &amp;
+                    dirty town near the Sea the Church Yard very full of tombstones but none of any Consequence. The <placeName ref="pl2019">Church</placeName>
+                    though appearing neat at the outside with a Steeple &amp; a ring of Bells – seemed very mean from the Door through Which We look at it. -</p>
+                    <pb n="18r"/>
+                    <fw>f. 18r</fw>
+                <p style="center"><placeName ref="pl1234">CAERNARVONSHIRE</placeName></p>
+                <p>Dined at <placeName ref="pl2383">Aberconway</placeName> 229 miles from <placeName ref="pl0699">London</placeName>
+                    at the mouth of the <placeName ref="pl2384">River Conway</placeName> went to see the remains of the <placeName ref="pl1530">Castle</placeName>
+                    (which was <add place="above">built</add> by <persName ref="pe0650">K: Edward I</persName>. &amp; infinitely exceeded any we had hitherto seen. the Great Hall, the Governor’s 
+                    &amp; General’s Towers, are particularly handsome, especially the Governor’s Tower which has a Good Window – .
+                    <lb/>We also saw a <placeName ref="pl2385">House built by Queen Elizabeth in 1585 and given to one of the Wynne family an ancestor of Sir Roger Mostyn’s Lady</placeName>.
+                    And is now let to poor people. there is a <rs type="art" ref="ar0326">Statue of Queen Elizabeth</rs> &amp; a Tablet with a Latin Inscription 
+                    &amp; the date of the Year 1585 over the Door. the Hall which We saw has an handsome Cieling &amp;
+                    Chimney Piece, of Stucco Work, the Arms of the Wunne Family are represented in the Chimney piece. The Whole House is built 
+                    &amp; Floord with Oak, is large but of a Ruinous Appearance.
+                    <pb n="19r"/>
+                    <fw>f. 19r</fw>
+                    Came by <placeName ref="pl1338">Pen Maen Mawr</placeName> &amp; in the Evening pass’d through <placeName ref="pl0799">Bangor</placeName>
+                    to <placeName ref="pl1565">CAERNARFON</placeName> Situated on the <placeName ref="pl2386">River Mænai</placeName>
+                    251 miles from <placeName ref="pl0699">London</placeName>.</p>
+                <p>Went to see the <placeName ref="pl2020">Parish Church calld Clænbiebricke</placeName> Situated about a Quarter of a mile from the 
+                    <placeName ref="pl1565">Town</placeName> in which is a very fine <rs type="art" ref="ar0327">Monument of the Wynne Family</rs> representing – Sir John Wynne in Armour Lying down his Lady by him and their Children Kneeling round it.
+                    this Monument is of White Marble veind with a very fine Red. it is extremely well executed and finely polished Sir John’s Armour 
+                    minutely and curiously wrought. and a Mat on which he lies part of which is rolld up to serve as a Bolster appears as neat as 
+                    if real as does the Cushion in which His Lady’s head rests. the date of the Year 1275 is carved on this monument but though it 
+                    seems to have suffer’d considerably from the effects of time it appears of much more modern Workmanship.
+                    There are no more remains of Antiquity in this Church
+                    <pb n="20r"/>
+                    <fw>f. 20r</fw>
+                    except a Plate fixd in the Wall with an Inscription in Ancient Characters, which We did not understand – </p>
+                <p style="center">June</p>
+                <p>Wednesday 10. Went to see the <placeName ref="pl1530">Castle built by --- King Edward I</placeName>. where He has often Held his Court 
+                    &amp; is famous for being the birth place of <persName ref="pe0936">his Son Edward II The first English Prince of Wales</persName>.
+                    The Gateway is very handsome with a Tower on each Side, over the entrance In a Niche is a figure of <persName ref="pe0650">Edward I</persName>
+                    with a Canopy over it very well executed, the Castle is a very great Pile of Buildings Consisting of Six Towers, besides the Principal, calld 
+                    <add place="above">the</add> <placeName ref="pl2387">Eagle Tower</placeName> in which the <persName ref="pe0936">Prince</persName>
+                    was born; with watch  Towers on each. The Principal Tower is Octagonal Crown’d with three Turrets on 
+                    <pb n="21r"/>
+                    <fw>f. 21r</fw>
+                    the Battlements of each of these, as well as on those of the Great town are placed alternately Busts of King Edward &amp;
+                    Eagles very roughly performed &amp; much defaced by time. We Ascended the highest of these Turrets which command a Prospect of the <placeName ref="pl1565">County Town 
+                        &amp; Bay of Caernarvon</placeName> and <placeName ref="pl1093">Island of Anglesea</placeName>. This Building is in better preservation than any of the kind we had hitherto seen 
+                    &amp; some of the Towers are almost intire. They are faced with a Grayish Stone which makes a tolerable Appearance, but in places where this has fallen off, nothing is to be seen but a ragged heap of 
+                    roundish Stones &amp; Gravel. there are Galleries of Communication by the Walls from each Story 
+                    of every Tower to the next, all round it and round the Towers are Dark passages which seem as if Scooped within the Walls lighted only by Spike-Holes.
+                    the Stairs are every where quite intire &amp; on each Landing place are
+                    <pb n="22r"/>
+                    <fw>f. 22r</fw>
+                    Rooms most of which are extremely small. In Each Tower are Deep Holes the Use of which We cou’d not learn. In that near the Sea there is one with a passage Wide enough for a Man to go into it. 
+                    But its Depth is not known though it has been tried frequently to be fathomed it is supposed to have been made use of for Criminals – As the way to it is Arched – long Dark 
+                    &amp; narrow, &amp; the little light it receives being only from Double Spike Holes.
+                    <lb/>There are ten Arches to the great Gate, Six <gap unit="words" quantity="1" reason="illegible"/> Arches to the Seventh which is the principal, and three to the third.
+                    <lb/>The Whole Town of <placeName ref="pl1565">CAERNARVON</placeName> is surrounded by Walls which are flanked with six towers
+                    The Quay; Custom House; &amp; Dock are outside this Wall on the Side near the Sea from which there is a very Handsome Gate <add place="above">way</add>
+                    with a tower on each Side &amp; four Entrances. Another Gate opposite this but at the other side of the Town has also two Towers and the Exchange
+                    <pb n="23r"/>
+                    <fw>f. 23r</fw>
+                    where the Exchequer was formerly kept, is over this Gateway -- The only place of Worship in this town is <placeName ref="pl2021">S:<hi rend="superscript">t</hi> Mary's Chapel</placeName>
+                    which is within the precincts of the <placeName ref="pl1566">Castle</placeName> ----
+                    <lb/><persName ref="pe1579">The family of – Thomas</persName>  – have a <placeName ref="pl2388">Plas-issa</placeName> - 
+                    with the Date of the Year 1608 &amp; W.T. over the Door. they have also a very pretty Country place about half a mile from the Town calld 
+                    <placeName ref="pl2022">Coadallan</placeName> – The House of which is small &amp; out of repair but the Demesne is Capable of being made very beautiful – .</p>
+                <p>There is another House still more Ancient but ruinous, at present belonging to <persName ref="pe0944">M<hi rend="superscript">r Smyth M.P.</hi></persName>
+                    for <placeName ref="pl1234">CaernarvonSh.</placeName> and call’d <placeName ref="pl2389">Plas Maure</placeName>. ---
+                    <lb/>These are at some distance from the present town, remains of the old one which was calld <placeName ref="pl2023">Segontium</placeName>
+                    consisting only of some ruins of Walls very ill built &amp; scarcely worth notice.
+                    <lb/>The Town appeard to great advantage from a Hill calld <placeName ref="pl2024">Tute Hill</placeName>
+                    <pb n="24r"/>
+                    <fw>f. 24r</fw>
+                    about a quarter of mile from It – This Hill is a very pretty one Consisting almost intirely of One Rock, but Coverd with Herbage.</p>
+                <p style="center">--------------------</p>
+                <p>Tuesday 24 June Left <placeName ref="pl1565">Caernarvon</placeName>. Stop’d at <placeName ref="pl0799">Bangor</placeName> saw the 
+                    <placeName ref="pl2390">Cathedral</placeName> (which is universally allow’d to be the oldest in Britain) and <placeName ref="pl2026">Bishop’s Palace</placeName>.
+                    The former a Venerable Building, with a very long Aisle – it was new roof’d in the Year 1600 (which Date is on the Cieling) and the Inside, is ornamented with Roses 
+                    &amp;c. of Carved Wood.<note type="editorial">For a modern photograph of the aisle and ceiling, see <ref type="http" target="http://www.coflein.gov.uk/en/archive/6314875/details/504">here</ref>.</note>
+                    The Choir is very handsome, the Communion Table Covrd with Crimson Velvet with Gold lace &amp; fringe. The Altarpiece – of Crimson Velvet embroider’d with J.H.S surrounded with Gold 
+                    <unclear>Lays</unclear> and on each side are Gilt <unclear>Punnets</unclear> also hung with Crimson Velevet. The Organ is very old, Curiously painted 
+                    &amp; Gilt.<note type="editorial">For a history of the organ at Bangor Cathedral, see <ref type="http" target="https://bangorcathedral.churchinwales.org.uk/cathedral/the-organ">here</ref>.</note>
+                    within the Choir is a handsome white Marble Tombstone – In the Aisle is a Monument of Black Marble without any Inscription
+                    <pb n="25r"/>
+                    <fw>f. 25r</fw>
+                    The Pedestal of a rough Stone with the Years 1750 &amp; 1578 engraved upon it. There is a White Marble Tablet in the Wall with a Latin Inscription, 
+                    &amp; a frame of Different Coloured Marbles &amp; Gilt Marble Oak leaves in a pretty Border like Bronze. there is a very Old Brass Plate on the Ground. 
+                    the Palace is an old House with a Good Garden prettily Situated the Saloon <gap unit="words" quantity="1" reason="illegible"/>
+                    a pleasant Room with a great deal of Old Carved Work over the Chimney Piece – 
+                    <lb/>Went over <placeName ref="pl1338">Penmanmawr</placeName> to <placeName ref="pl1049">Conway</placeName> where we Dined &amp;
+                    heard that excellent <persName ref="pe1272">Harper John Smythe</persName> walked about the <placeName ref="pl1530">Castle</placeName>
+                    cross’d the <placeName ref="pl2384">River</placeName> &amp;</p>
+                <p style="center"><placeName ref="pl0702">Flintshire</placeName></p>
+                <p>Lat at <placeName ref="pl1371">S.<hi rend="superscript">t</hi> Asaph</placeName> --------
+                    <lb/>Wednesday 24<hi rend="superscript">th</hi> went from <placeName ref="pl1371">S.<hi rend="superscript">t</hi> Asaph</placeName> over
+                    <placeName ref="pl2391">Pentrasco Bridge</placeName> on the <placeName ref="pl2392">River Elwy</placeName> in</p>
+                <p style="center"><placeName ref="pl1216">Denbighshire</placeName></p>
+                <pb n="26r"/>
+                <fw>f. 26r</fw>
+                <p>pass’d through part of the <placeName ref="pl1443">Vale of Clwyd</placeName> to <placeName ref="pl1477">Denbigh</placeName>
+                    where we Went to see the <placeName ref="pl1880">Castle</placeName> &amp; saw the traces of the Well in which the 
+                    <persName ref="pe1580">Son of Hugh Lacy Earl of Lincoln (Who Built this Castle)</persName> <add place="above">was drown’d</add>
+                    The Headless Image over one of the Gates (which we once Understood to be <persName ref="pe0650">K: Edward I</persName>)
+                    is of this Lord – the Arms of the Mortimers are over the Great Gate – went to the Bowling Green – from whence the 
+                    <placeName ref="pl1443">Vale of Clwyd</placeName> appear’d vastly beautiful particularly <placeName ref="pl1045">Llewelly<add place="above">Lleweny</add></placeName>
+                    (<persName ref="pe0391">Mr Fitzmaurice</persName>'s)
+                    <lb/>Stop’d at <placeName ref="pl1246">Ruthin</placeName> &amp; proceeded to <placeName ref="pl0793">Langollen</placeName>.</p>
+                <p style="center"><placeName ref="pl1021">Shropshire</placeName></p>
+                <p>Thursday 25</p>
+                <p>Went to <placeName ref="pl1260">Oswestry</placeName> and in search of Lodgings to <placeName ref="pl2030">Llanwmyneck</placeName>
+                    a Small Village disagreeably situated, on each side of the road, &amp; in the neighbourhood of <placeName ref="pl0373">Lime kilns</placeName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

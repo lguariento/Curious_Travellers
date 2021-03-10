@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1387">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Lloyd, Caerwys, 17 April 1783</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>4857D</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1783-04-17">17 April 1783</date>
+                    <placeName ref="pl1201">Upper Brook Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0333">John Lloyd</persName>
+                    <placeName ref="">Caerwys</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1388"/>
+                    <ref type="prev" target="ct1386"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0753">Upper Brook street</placeName><lb/>
+                    April 17<hi rend="superscript">th</hi> 1783
+                </dateline><salute>Dear Sir</salute></opener>
+                
+                <p>There has been for a long time such a variation in politics that I might as safely as given you the state of the wind 
+                    as those of the hour.<note type="editorial">Pennant refers to the resignation of William Fitzmaurice, Earl of Shelburne, 
+                        on 24 February 1783, the failure of George III to persuade William Pitt, the younger, to form the next administration 
+                        on 27 February, and the establishment of a coalition between Fox and North on 1 April, with William Henry Cavendish Bentinck, 
+                        third duke of Portland, as first lord of the Treasury. By 19 December Pitt had assumed power. 
+                        <hi rend="italic">ODNB</hi> s.n. William Pitt [known as Pitt the younger].</note>  at present there is a little permanency; but I believe I may safely say that you cannot pick out 
+                    three members of administration who does not fear a jail or an execution: so you may judge of the prospect poor Britain
+                    has before her.
+                </p> 
+                <p>I have felt much for the particular distresses of our county, &amp; lament the riotous disposition shewen by my neighbors. 
+                    I am not a <persName ref="pe0769">crœsus</persName> in anything but my thoughts. Yet as far as I can go I will. I hope that 
+                    this week a vessel freighted at my expence with barley will sail for <placeName ref="pl0695">Mostyn</placeName> mark; the Cargo 
+                    of which shall be sold at prime cost first to the poor of <placeName ref="pl1332">Whiteford</placeName> then of 
+                    <placeName ref="pl1251">Holywell</placeName> &amp; if any can be spared to the poor of any other parishes who may be properly 
+                    recommended. Corn from the english counties has been so poured into this great mart as to make it comparatively to what it is 
+                    with us most amazingly cheap.</p>
+                <p>Be pleased to consult with <persName ref="pe0770">M<hi rend="superscript">r</hi> Foulks</persName> &amp; your Brother 
+                    <persName ref="pe0253">Parry</persName> about the quantity our parish will want till the middle of September, that I may not be 
+                    obliged to buy a second time. for I shall never be able to see our Country in misery without exerting my abilities. we set out for
+                    home on the 5<hi rend="superscript">th</hi>. I have set out with a more chearful heart. my little ones now are the forcible 
+                    attractors<note type="editorial">Pennant refers to the two children from his second marriage, <persName ref="pe0235">Sarah</persName>
+                        and <persName ref="pe0421">Thomas</persName>.</note></p>
+                <closer><salute>I am Dear Sir<lb/>sincerely y<unclear>ours</unclear></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline/></closer>
+                <postscript><p>I hope <persName ref="pe0741">M<hi rend="superscript">rs</hi> Lloyd</persName> &amp; all your family are well.</p></postscript>
+            </div>
+            <div><p><address><addrLine>To | The <persName ref="pe0333">Reverend M<hi rend="superscript">r</hi> Lloyd</persName></addrLine>
+                <addrLine><placeName ref="pl1201">Caerwis</placeName>.</addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

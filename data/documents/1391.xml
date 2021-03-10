@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1391">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>'Of the harp': material in the hand of John Lloyd, Caerwys, n.d.</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>2594E, Merionethshire folder</idno>
+                    </msIdentifier>
+                    <msContents><p>'Of the harp': material in the hand of John Lloyd, n.d.</p>
+                        <ab><locus/></ab>
+                        <p><hi rend="italic">Endorsement</hi>: of the Harp.</p>
+                    </msContents>
+                    <physDesc>
+        
+                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0333">John Lloyd</persName>
+                    <placeName ref="pl1201">Caerwys</placeName>
+                    <date/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">[<unclear>Thomas Pennant</unclear>]</persName>
+                    <placeName ref=""/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1392"/>
+                    <ref type="prev" target="ct1390"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline/><salute/></opener>
+                
+                <p>Dr <persName ref="pe0787">Lloyd</persName> <persName ref="pe0617"><add place="above">Powel</add></persName>, a great Antiquarian 
+                    says, that the Harp was not known in <placeName ref="pl0731">Wales</placeName>, till the time of <persName ref="pe0636">Griffith ap Conan</persName>, 
+                    ‘who being born in <placeName ref="pl0889">Ireland</placeName> brought with him divers cunning <sic>Musitians</sic> out of that country, 
+                    who <sic>deviced</sic>
+                    in a manner, all the Instruments of musick now in use; as further appeareth by the Books written of the same; as well as the names of the Tunes 
+                    and measures used to this day’. <bibl type="authorial"><title ref="bi0592">Hist. Camb.</title></bibl> p. i9i. Vide<note type="editorial">This material closely reflects  
+                        text from a 1774 edition of David Powel, <hi rend="italic">The Historie of Cambria, now called Wales</hi>. See <hi rend="italic">The history of Wales. Written originally in British, 
+                        by Caradoc of Lhancarvan, Englished by Dr. Powell, and augmented by W. Wynne, Fellow of Jesus College, Oxon.</hi> (London: T. Evans, 1774), p. 159. 
+                        Pennant used it in <hi rend="italic"> A tour in Wales 1770 [1773]</hi>, I, p. 433.</note>                        
+                </p> 
+  
+                <closer><salute/>
+                    <signed/>
+                    <dateline/></closer>
+            </div>
+            <div>
+            </div>
+        </body>
+    </text>
+</TEI>

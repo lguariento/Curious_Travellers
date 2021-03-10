@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1355">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Philip Yorke to Thomas Pennant, 3 December 1776</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>Warwickshire County Record Office</repository>
+                        <idno>CR2017/TP 22/5/3</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc><additions>
+                        <hi rend="italic">Endorsement, in Thomas Pennant's hand</hi>: <persName ref="pe0243">M<hi rend="superscript">r</hi> Yorke</persName>'s Letter.</additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0243">Philip Yorke</persName>
+                    <date when="1776-12-03"/>
+                    <placeName ref="pl1244">Erthig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref=""/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1356"/>
+                    <ref type="prev" target="ct1353"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl1244">Erthig</placeName>, Dec<hi rend="superscript">r</hi>. <gap unit="letters" quantity="2"/>3:<add place="above"><del>th</del>d</add> 1776.</dateline>
+                    <salute>Dear Sir.</salute></opener>
+                
+                <p>I took my Route from <placeName ref="pl1244">Erthig</placeName> on the 13<hi rend="superscript">th</hi>. of August 
+                    1766<note type="editorial">For Yorke's account of this journey, see <ref target="0024.xml">0024</ref>.</note> in a party with 
+                    <persName ref="pe0623">D<hi rend="superscript">r</hi>. Cust</persName>, <persName ref="pe0624">M<hi rend="superscript">r</hi>. Brownlow Cust</persName>, 
+                    and <persName ref="pe0625">M<hi rend="superscript">r</hi>. Kent</persName>, the descendant, and opulent Heir of our first 
+                    Modern <persName ref="pe2101">Gardiner</persName>, of that name, and Passed in primo limine,<note type="editorial">'first of all'.</note> the inscrutable 
+                    Remains of <placeName ref="pl1206">Watt's-dyke</placeName><note type="authorial">I have not been able with any Precision to 
+                        determine the Extent (from North to South) of <placeName ref="pl1206">Watt's dyke</placeName>, but 
+                        <persName ref="pe0663">M<hi rend="superscript">r</hi>. Evans</persName> who is at this time engaged on a Map of <placeName ref="pl1221">north Wales</placeName>, 
+                        means to do it.<note type="editorial">Pennant refers to John Evans's 'actual survey of North Wales' and his intention to publish a large map of that area in a note 
+                            in <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), I, p. 21, noting that the work is 
+                            'extremely worthy of public encouragement'.</note></note>; Our Tradition is, for we have no written Memorial, that it was a Cotemporary 
+                    Work, with <placeName ref="pl1207">Offa's dyke</placeName>, which for a considerable way, runs parallel with it, at unequal distances, but here, 
+                    within two miles; The intermediate Country is supposed to have been neutral Ground, set apart for Treaty, and Traffick, and it was a Law to each 
+                    Nation, that if a Saxon was taken armed, on the Western side of <placeName ref="pl1207">Offa</placeName>, or a Welchman to the East of 
+                    <placeName ref="pl1206">Watt</placeName>, he forfeited the loss of a Member:<note type="editorial">Citing the <hi rend="italic">Polycraticon</hi> of John of Salisbury (Sarisburiensis) as his 
+                    authority, Camden notes 'that Harald establish'd a Law, that whatever Welshman should be found arm'd on this side the limit he had set them, to 
+                    wit, Offa's-Dike, his right-hand should be cut off by the King's Officers'. See Camden, <hi rend="italic">Britannia</hi> (2nd edn., rev. Gibson, 1722), II, p. 698.</note> Hence, passing <placeName ref="pl1207">Offa's dyke</placeName><note type="authorial">I conceive 
+                            Dyke to mean the Rampire, and not the Ditch and so it is understood in <placeName ref="pl1228">Holland</placeName> and is the Fence against 
+                            the Sea.</note> at <placeName ref="pl1208">Adwy-ar y <sic>Claudd</sic></placeName><note type="authorial">Anglice, 
+                                <placeName ref="pl1208">the Gap in the Ditch</placeName>–</note> and leaving the broken Extremity of the <placeName ref="pl1209">Brendaeg Hills</placeName>, 
+                    and the <placeName ref="pl1210">Minera lead mines</placeName>, (once the anxious object of Roman, as since of British 
+                    Adventurers,<note type="editorial">For Pennant's comments on the mineral vein of Minera, which he describes as part of 'a rich mineral tract', see 
+                        <hi rend="italic">A tour in Wales</hi> 
+                        (2nd edn., 1784), I, pp. 316, 447.</note> (on our left, We departed out of <placeName ref="pl1213">Bromfeild</placeName>, and entered the 
+                    Hilly <placeName ref="pl1211">Hundred of Yale</placeName>, at <placeName ref="pl1212">Abber Croes Newydd</placeName>: The former fine 
+                    <placeName ref="pl1213">Lordship</placeName>, (in which, is my Paternal House,) in the Tripartite Partition of all Wales, by 
+                    <persName ref="pe0626">Rodoricus Magnus</persName>, circiter annum 870. was a Comot<note type="authorial">by the name<add place="above">:</add> of 
+                        <placeName ref="pl1213">Maelor Cumraec, Welch maelor</placeName></note> of the 
+                    <placeName ref="pl1214">Kingdom of Mathrafal or Powys Land</placeName>,<note type="authorial">The other two Kingdoms, were 
+                        <placeName ref="pl1222">Gwynedh or North-Wales</placeName>, <placeName ref="pl1223">Deheubarth</placeName>, <add place="above">(the left Hand)</add> 
+                            or <placeName ref="pl1223">South-Wales</placeName> – Our six Counties of <placeName ref="pl1221">NWales</placeName>, are comprehended 
+                            in <placeName ref="pl1270">Gwynedh</placeName>, 
+                        and <placeName ref="pl1224">Powys</placeName>.</note> in the <placeName ref="pl1217"><sic>Cantred</sic> Uchnant</placeName>, which, was a 
+                    Subdivision of <placeName ref="pl1215">Powysfadoc</placeName>,<note type="authorial">The other Division, was 
+                        <placeName ref="pl1225">Powys - Wenwynwyn</placeName>.</note> one of the two Greater divisions: The Mercian Saxons, under the 
+                    Auspices of their Prince <persName ref="pe0627">Offa</persName>, extended their Conquests over this Country, (tho in part 
+                    Recovered afterwards by the Welch,<note type="authorial">The Town of <placeName ref="pl0740">Shrewsbury</placeName>, Wall:<hi rend="superscript">ce</hi> <placeName ref="pl0740">Pengwerne</placeName>, 
+                        and the plain Country on the Banks of <placeName ref="pl1226">Severn</placeName> 
+                        to <placeName ref="pl1227">Wye</placeName>, and <del><gap unit="letters" quantity="several" reason="illegible"/></del>that to the East of the 
+                        <placeName ref="pl1138">Dee</placeName>, was never Reunited to the <placeName ref="pl0731">Principality</placeName>.</note>) and probably gave 
+                    to this <placeName ref="pl1213">Hundred</placeName>, the name it now bears; a Saxon Compound of the Plant Broom, and the Field, or Seat of 
+                    <sic>it's</sic> Growth, and I observe in many parts, there is yet much to be found of it; A <note type="authorial">H<gap unit="words" quantity="several" reason="illegible"/> Plantæ –</note>Shrub 
+                    indeed! of no ordinary fame, for besides giving title to this fine Country, it marked with <sic>it's</sic> name the 
+                    <persName ref="pe0628">Angevin Family</persName>, the magnanimous Race of the 
+                    <persName ref="pe0628">Plantagenets</persName>,<note type="authorial">Planta Genista –<note type="editorial">'Common broom', used by the Plantagenet kings 
+                        as an emblem.</note></note> who are said to have been so called, from the use of weaving in their Helm<unclear>ets</unclear>,  a sprig of this 
+                    Plant. By the Act of Union, the 27<hi rend="superscript">th</hi>. of 
+                    <persName ref="pe0629">Henry 8<hi rend="superscript">th</hi>.</persName><note type="editorial">What became known as the Act 
+                        of Union of 1536 was represented by clause 26 of the legislation passed in the twenty-seventh year of the reign of Henry VIII. 
+                        Among its provisions were the formation of new counties, including the division of the March into the counties of Denbigh, Montgomery, 
+                        Radnor, Brecon and Monmouth; the abolishment of legal distinctions between the Welsh and the English; representation to the Welsh in 
+                        the English parliament; and stipulation that English was to be the only language of the courts of Wales. Davies, 
+                        <hi rend="italic">A History of Wales</hi>, pp. 231–8.</note><note type="authorial">This wise and beneficial Statute 
+                            (and in bad times), as I have been well informed, supplied my <persName ref="pe0664">Lord Somers</persName>, 
+                            with many useful Hints in the (splicing) Act he drew of Union with <placeName ref="pl0705">Scotland</placeName>.<note type="editorial">Both 
+                                John Davies and Geraint H. Jenkins note the fundamental difference between the act unifying Wales with England in 1536 and those which 
+                                united Scotland with England in 1707 and Ireland with Britain in 1800. Whereas the parliaments of Scotland and Ireland voted for their 
+                                own abolition, the English parliament (which contained no Welsh members) passed the legislation to unite England and Wales without Welsh 
+                                acquiescence. Furthermore, the preamble to the statues claimed that an union already existed between the two lands. Yorke's comment that 
+                                the Welsh example furnished John Somers with ideas on how to achieve the union of Scotland and England is worthy of notice. It may perhaps 
+                                relate to the deception and trickery which Davies accredits to the promoters of the unions with Scotland and Ireland in their efforts to 
+                                persuade the parliaments of the latter countries to agree to their own abolition. Davies, <hi rend="italic">A History of Wales</hi>, p. 232; 
+                                Jenkins, ' "Taphy-land historians" and the Union of England and Wales 1536–2007', 1–27, esp. 3.</note></note>  This <placeName ref="pl1213">Lordship</placeName> 
+                    was made Parcel of <placeName ref="pl1216">Denbighshire</placeName>, then first <unclear>Exxted</unclear>  into a 
+                    County:<note type="authorial">Three other additional Welch Counties were at the same time erected, composed of the ancient <sic>Independant</sic> Baronies, 
+                        and the Lordships Marchers, Petty Feudal Tyrannies w<add place="above">h</add>ere, in some Cases, the King's Writts did not Run: 
+                        <placeName ref="pl1229">Monmouthshire</placeName> by the same Act was made a County composed as the rest, and annexed to the English Circuit, 
+                        The Ancient Welch-Shires were: <placeName ref="pl1230">Glamorgan</placeName>, <placeName ref="pl1231">Caermarthen</placeName>, 
+                        <placeName ref="pl1232">Pembroke</placeName>, <placeName ref="pl1233">Cardigan</placeName>, <placeName ref="pl0702">Flint</placeName>, 
+                        <placeName ref="pl1234">Caernarvon</placeName>, <placeName ref="pl1093">Anglesey</placeName> and <placeName ref="pl1235">Merioneth</placeName>.</note> 
+                    In the Earlier times, as I have before observed, it was a Comot of the Kingdom of <placeName ref="pl1214">Mathrafal</placeName>, by the name of 
+                    <placeName ref="pl1213">Maelor Cymraec</placeName>, and as a Portion of it Passed by the Bounty of <persName ref="pe0626">Rodoricus Magnus</persName>, 
+                    to his youngest Son <persName ref="pe0630">Merfyn</persName>, in whose Posterity this Principality remained Entire, till the death of 
+                    <persName ref="pe0618">Blethyn ap <sic>Confyn</sic></persName>; That Potentate, (who was also Prince of <placeName ref="pl1222">North Wales</placeName>) 
+                    divided it between his Sons <persName ref="pe0631">Meredith</persName>, and <persName ref="pe0632">Cadwgan</persName>; nevertheless it returned 
+                    whole and entire to the Possession of <persName ref="pe0631">Meredith ap Blethyn</persName>; He, once more dissevered it, and it fell between 
+                    his two Sons <persName ref="pe0633">Madawc</persName>, &amp; <persName ref="pe0634">Gr<del>i</del>uffydh</persName>; <persName ref="pe0633">Madawc</persName> 
+                    the Elder, married <persName ref="pe0635">Susannah</persName>, the Daughter of <persName ref="pe0636">Gruffydh ap Conan</persName>, 
+                    Prince of <placeName ref="pl1222">North Wales</placeName>: 1<hi rend="superscript">st</hi>.<note type="authorial">1<hi rend="superscript">st</hi>. <bibl type="authorial"><title ref="bi0592">D<hi rend="superscript">r</hi>. David Powell</title></bibl> 
+                        from whom I have extracted the descent of <placeName ref="pl1214">Powys Land</placeName>, particularly that Division of it, called 
+                        <placeName ref="pl1215">Powys Fadoc</placeName>, derives that Moiety to <persName ref="pe0633">Madawc</persName> the Eldest son of 
+                        <persName ref="pe0631">Meredith ap Blethyn</persName> from his marriage with <persName ref="pe0635">Susannah</persName> - the Daughter of 
+                        <persName ref="pe0636">Gruffydh ap Conan</persName>; whereas it should rather seem that he (<persName ref="pe0633">Madawc</persName>) in the 
+                        partition, inherited it from his Father <persName ref="pe0631">Meredith ap Blethyn</persName>, who Possessed all <placeName ref="pl1214">Powys</placeName>, 
+                        in descent from <persName ref="pe0618">Blethyn ap Confyn</persName><sic>;:</sic> who was the immediate Descendant of 
+                        <persName ref="pe0630">Merfyn</persName> the youngest Son of <persName ref="pe0626">Roderick the Great</persName>: Moreover it was not probable it 
+                        should come by any Connection with <persName ref="pe0636">Gruffydh ap Conan</persName>, who does not appear ever to have had it in Possession, 
+                        and who left 5 Children: 3 Sons &amp; two Daughters.</note> This Moiety<note type="authorial">viz <placeName ref="pl1215">Powys-Fadoc</placeName> –</note> 
+                    after his death<note type="authorial"><persName ref="pe0633">Madawc</persName> –</note>, (which happened at <placeName ref="pl1280">Winchester</placeName>,) 
+                    underwent a Tripartition, and was divided between his Sons <persName ref="pe0637">Gruffydh Maelor</persName>, <persName ref="pe0638">Owen ap Madawc</persName>, 
+                    and <persName ref="pe0639">Owen <sic>Brogynton</sic></persName>; <persName ref="pe0637">Gruffydh Maelor</persName> had to his share Both the 
+                    Maelors,<note type="editorial">Yorke refers to Bromfield, or <placeName ref="pl1213">Maelor Gymraeg</placeName>, and 
+                        <placeName ref="pl1218">Maelor Saesneg</placeName>.</note> with <placeName ref="pl1219">Llanrhaidr Mochnant</placeName>; He 
+                    married <persName ref="pe0640">Angharad</persName> the Daughter of <persName ref="pe0641">Owen Gwynedh</persName> Prince of 
+                    <placeName ref="pl1222">North Wales</placeName>, and by her had Issue one son <persName ref="pe0642">Madawc</persName>, who held his 
+                    <persName ref="pe0637">Father</persName>'s Inheritance Entire, and left it to his only son <persName ref="pe0643">Gruffydh</persName>; He married 
+                    <persName ref="pe0644">Emma</persName> the daughter of James Lord Audley, and by her had Issue: <persName ref="pe0645">Madawc</persName>, 
+                    <persName ref="pe0646">Llewellyn</persName>, <persName ref="pe0647">Gruffydh</persName>, and <persName ref="pe0648">Owen</persName>; 
+                    <persName ref="pe0643">Gruffydh</persName>, the Father, being a warm Partizan of <persName ref="pe0649">Henry 3<hi rend="superscript">d</hi>.</persName> 
+                    and <persName ref="pe0650">Edward 1<hi rend="superscript">st</hi>.</persName> and therefore very obnoxious to his own Countrymen, in fear of their 
+                    just Resentments, kept himself close shut up in his impregnable <placeName ref="pl0794">Castle of Dinas-Bran</placeName>;<note type="editorial">The account given by Yorke in 
+                        his <ref target="0024.xml">1766 tour</ref> of Castell Dinas Brân focuses on its Galfridian association with the figure of Brennus and on traditional lore about a 
+                        concealed treasure within the ruins. No mention is made of the medieval dynastic considerations discussed in this letter.</note> Our Welch 
+                    Historians assert: that <persName ref="pe0650">Edward 1<hi rend="superscript">st</hi></persName>– with great Ingratitude, made 
+                    away <add place="above">privately</add> with two of his Children, and bestowed the Wardship of <persName ref="pe0645">Madawc the Eldest Son</persName> 
+                    (who by his <persName ref="pe0643">Father</persName>'s Will inherited the Lordships of <placeName ref="pl1213">Bromfeild</placeName>, and 
+                    <placeName ref="pl1211">Yale</placeName>) on <persName ref="pe0651">John Earl Warren</persName>, who soon secured to himself this fine Possession, 
+                    and began the <placeName ref="pl1220">Castle of Holt</placeName>, the Capital of his <sic>ill-atchieved</sic> Lordship; It was finished by his 
+                    Son <persName ref="pe0652">William</persName>; In this great Baronial House it continued for three descents, and then passed by <persName ref="pe0653">Alice</persName> 
+                    (the Sister and Heir of the last <persName ref="pe0654">John Earl Warren</persName>) to <persName ref="pe0655">Edmond Fitzallan Earl of Arundel</persName> 
+                    her Husband, in which line it also Remained for three Descents. <persName ref="pe0656">Richard</persName> the son of <persName ref="pe0655">Edmond</persName>, 
+                    <persName ref="pe0657">Richard</persName>, his Son, and <persName ref="pe0658">Thomas Earl of Arundel</persName>; For want of Issue to this last 
+                    <persName ref="pe0658">Thomas Earl of Arundel and Warren</persName>, <gap quantity="several"/>His <sic>Unintailed</sic> 
+                    <add place="above">Estates</add> fell to two of his Sisters,<note type="authorial"><persName ref="pe0658">His</persName> three Sisters were 
+                        his Heirs General –</note> <persName ref="pe0659">Elizabeth</persName>, married to <persName ref="pe0661">Henry Mowbray Duke of Norfolk</persName>, 
+                    and <persName ref="pe0660">Joan</persName>, to 
+                    <persName ref="pe0662">William Beauchamp Lord of Abergavenny</persName>.<note type="authorial"><bibl type="authorial"><title ref="bi0702">Camden</title></bibl> 
+                        takes notice of a <persName ref="pe0665">third Sister</persName> <add place="above">&amp; Coheir</add>, of <persName ref="pe0658">Thomas Earl of Arundel</persName>, 
+                        who married <persName ref="pe0666">Sir Rowland Lenthall</persName>, Master of the Wardrobe to <persName ref="pe0667">King Henry 4<hi rend="superscript">th</hi></persName>. 
+                        He built that handsome and venerable Pile of <placeName ref="pl1271">Hampton Court</placeName> in <placeName ref="pl1653">Herefordshire</placeName>, which I have 
+                        heard often mistakenly attributed to <persName ref="pe0667">Henry 4<hi rend="superscript">th</hi>.</persName> whilst he was 
+                        Earl of Hereford.<note type="editorial">'... the <hi rend="italic">Lug</hi> hastens to the <hi rend="italic">Wye</hi>, first, by <hi rend="italic">Hampton</hi>, 
+                            where Rowland Lenthall, Master of the Wardrobe to King Henry the fourth, who married one of the heirs of <hi rend="italic">Thomas</hi> Earl of <hi rend="italic">Arundel</hi>, 
+                            built a very fine House ...'. Camden, <hi rend="italic">Britannia</hi> (2nd edn., rev. Gibson, 1722), I, p. 690.</note></note></p> 
+                <closer><salute>I am<lb/>
+                    Dear Sir<lb/>
+                    Your affect: Humble<lb/>
+                    Servant<lb/>
+                    </salute>
+                    <signed><persName ref="pe0243">Ph: Yorke</persName> –</signed>
+                    </closer>
+            </div>
+            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1300">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Daniel Lysons to Thomas Pennant, May 1764</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>Warwickshire County Record Office</repository>
+                        <idno>CR 2017/TP294/1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0408">Daniel Lysons</persName>
+                    <date>May 1764</date>
+                    <placeName ref="pl1276">Gloucester</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref=""/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1301"/>
+                    <ref type="prev" target="ct1299"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl1276">Glocester</placeName> May 1764.
+                </dateline><salute>Dear Sir</salute></opener>
+                
+                <p>I am once more return’d to <placeName ref="pl1276">Glocester</placeName> my Health being greatly improved by the 
+                    <placeName ref="pl0796">Bath</placeName> waters. I left your Sisters<note type="editorial">Lysons refers to Pennant's twin sisters,
+                        <persName ref="pe0807">Sarah</persName> and <persName ref="pe0237">Catherine Pennant.</persName></note> there very well on Monday 
+                    last. and from them I had the Pleasure to hear of <persName ref="pe2025">M<hi rend="superscript">rs</hi>. Pennants</persName>  Recovery of which I give you Joy.
+                    Since I came here I have seen the <persName ref="pe2068">Printer</persName> who says that the Prices of printing a Work in 
+                    8<hi rend="superscript">vo</hi>. are regulated by the Size of the Letter and the Dimensions of the Page. Thus a Sheet of what he calls
+                    Pica Letter, (of which you have a Sample marked No. i)<note type="editorial">Neither this nor other samples or enclosures mentioned
+                        have been preserved with the manuscript letter.</note>
+                    containing 38 Letters in a Line, and 35 Lines in a Page comes to 17.S. per Sheet for printing. A Sheet of the same Pica Letter containing 42 
+                    letters in a Line and 39 Lines in a Page, comes to <hi rend="superscript">£</hi>1:1:0 <del>for</del>per Sheet for printing.
+                </p>
+                <p>Upon a Letter one Size larger than the above Specimen the Charge for printing will be from 14. S. to 18. or 19 S. per Sheet.</p>
+                <p>You will receive a Specimen of a Letter one Size larger than Pica marked N<hi rend="superscript">o</hi>. 2. This Letter is the 
+                    same with that used in the <bibl type="authorial"><title ref="bi0693">History of Kamtschatka</title></bibl>,  &amp; the Price is
+                    17.S. per Sheet This Letter I think better than the Pica which he says is a new Letter. The Pica is indeed neatest but it fatigues
+                    the Eye in reading.</p>
+                <p><persName ref="pe2068">M<hi rend="superscript">r</hi> Raikes</persName> says he can send no better proposals than the above
+                    without seeing the Copy. But if he was permitted to see the <del>Copy</del> <add place="above">Manuscript</add> he would then
+                    print off a Page or two by way of specimen. This I shall not allow, or let him know what the Work is except I receive a 
+                    Commission from you for that Purpose. The above Calculation is made for 500 Copies. but if more are wanting the additional Paper
+                    will be the Chief if not the only additional Expence.</p>
+                <p><persName ref="pe2068">M<hi rend="superscript">r</hi>. Raikes</persName> has sent the enclosed Specimens of Paper. One at 17.S. 6.d.
+                    per Ream the other at 15-<hi rend="superscript">S</hi>. and he has some of Inferior Quality at 13.S.</p>
+                <p>Upon my Return home I find myself in full Employment. the Infirmary very full, &amp; much other Business leaves me very little 
+                    at Leisure. However I shall be glad to serve you in whatever I can.</p>
+                <p>The <bibl type="authorial"><title ref="bi0700"/>British Zoology part the 2d.</bibl> &amp; another Copy for <persName ref="pe2069">M<hi rend="superscript">r</hi>. Tindale</persName>
+                    I have received. 
+                    The figures are in general well done, but two very common Birds are so very ill executed that I fear it will bring a Discredit 
+                    on the whole. These are the wood Pigeon or Ring Dove, &amp; the Bull finch.<note type="editorial">For references to plates of the
+                        birds which Lysons notes are a cause for concern in this letter, see <hi rend="italic">British zoology</hi> (2nd edn., 1768–70). Vol.
+                        I,
+                        p. 216, includes Dove, or Wood Pigeon in a list of 
+                        names under the general title Common Pigeon, referring in a note to 'Br zool. 88. plate 88'. Ibid., vol. II, p. 307, mentions
+                        under 'The Brambling', 'Br. Zool. 108. plate V. f. 4'; and p. 321 under 'The Greater Brambling'
+                        refers to 'Br. Zool. 112. plate [gap] f. 6.'</note>  They are not at all 
+                    proportioned to the size of the 
+                    natural Birds. The Wood Pigeon I thought a bird of Prey by its attitude, &amp; could by no means guess what it was on account of 
+                    its bulk. You will excuse my censuring freely what I think wrong in the work as I wish it well.</p>
+                <p>Possibly <persName ref="pe2025">M<hi rend="superscript">rs</hi>. Pennant</persName> may be advised to a water drinking Place for the 
+                    more perfect establishment of her health.<note type="editorial">Pennant's first wife, Elizabeth (née Falconer) was to die in June 1764.</note>
+                    If she is <placeName ref="pl2881">Malvern</placeName>, or <placeName ref="pl1302">Bristol</placeName> may probably be recommended,
+                    &amp; then I shall in either case hope to see You &amp; her. I beg my Compliments to her &amp; am</p>
+                <closer><salute>Your most faithful
+                    <lb/>humble Servant</salute>
+                    <signed><persName ref="pe0408">D. Lysons.</persName></signed>
+                    <dateline/></closer>
+                <postscript><p/></postscript>
+            </div>
+            <div>
+            </div>
+        </body>
+    </text>
+</TEI>

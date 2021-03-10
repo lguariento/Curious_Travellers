@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1099">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 83</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><placeName ref="pl1013">Northco</placeName></p>
+                        <p>26.
+                        <lb/>10.
+                        <lb/>10
+                        <lb/>6
+                        <lb/>12
+                        <lb/><hi rend="underline">12</hi>.
+                        <lb/>76
+                        <lb/><hi rend="underline">26.</hi>
+                        <lb/>50
+                        <lb/>10
+                        <lb/>10
+                        <lb/><hi rend="underline">18.</hi>
+                        <lb/>38</p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1790-05-29"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Perhaps I write unseasonably when you will have the noise of a thousand fiddles resting on your ears: but I must write
+                    when I can: first to thank <sic>you many</sic> agreable minutes passed in <placeName ref="pl0699">town</placeName>: again for
+                    your repeated munificence. I had a fine journey to <placeName ref="pl0001">this place</placeName>. The Prelate of 
+                    the Garter shewed <placeName ref="pl0754">windsor</placeName> to perfection. Near the Iron bridge I saw wonders.
+                    &amp; after settling long arrears of business public &amp; private, am <del><gap unit="letters" quantity="1" reason="illegible"/></del>now
+                    returned to my desk to prepare morsels for futurity. I have wrote my <bibl type="authorial"><title ref="bi0269">littoral journal of 1787</title></bibl>
+                    as far as the borders of <placeName ref="pl1471"><sic>Hamshehire</sic></placeName>, which I must quit for a few weeks till I can get the great 
+                    new map from <persName ref="pe0389">Faden</persName> to resume my course with safty. The <placeName ref="pl1020">isle of wight</placeName>
+                    will not be neglected: but <sic>it shall new</sic> modelled according to my actual visit. entre nous<note type="editorial">'between ourselves'.</note>
+                    I have had my <bibl type="authorial"><title ref="bi0041">litterary life</title></bibl> copied for myself by my 
+                    <persName ref="pe0404">young secretary</persName>: not less elegantly than that you have. but augmented. If you 
+                    wish it a copy shall be yours at the price of. 15<hi rend="superscript">s</hi>. I must insist on y<hi rend="superscript">r</hi>
+                    accepting the <hi rend="underline">first Edition</hi>. but this I fling as a perquisite to the <persName ref="pe0404">lad</persName>
+                    for such friends I chuse to trust with it. <rs type="art" ref="ar0165">De Buffons</rs> <rs type="art" ref="ar0166">voltaire's</rs>,
+                    <rs type="art" ref="ar0167">Hallers</rs> &amp; other heads may serve to adorn it. I find myself greatly relieved by my resolution 
+                    to leave <sic>of</sic> publications. By my present ease, I know the load I have flung off.</p>
+                <p><persName ref="pe0404">my Secretary</persName> will soon begin to copy my journey of 1787 <bibl type="authorial"><title ref="bi0268">from the Temple stairs to Dover</title></bibl>.
+                    <del><gap unit="letters" quantity="1" reason="illegible"/></del>He shall do a copy <sic>for</sic> it: if <sic>it</sic> agreable; for you are one I ever wish to amuse. Pray let me hear from you soon; 
+                    &amp; give me an account of y<hi rend="superscript">r</hi> intended motions. my best complements &amp; wishes attend 
+                    miss Bull's<note type="editorial"><persName ref="pe0331">Elizabeth</persName> and <persName ref="pe0336">Catherine</persName> Bull.</note> &amp; yourself.</p>
+                <closer>
+                    <salute>Adieu
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName>.</signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> May 29<hi rend="superscript">th</hi><note type="editorial">possibly added later by Richard Bull:</note> - 90</dateline>
+                </closer>
+                <postscript>
+                    <p>The state of <placeName ref="pl0925">France</placeName> appears to <add place="above">be</add> most miserable: 
+                        &amp; I think <placeName ref="pl1202">spain</placeName> in the event will come in for its troubles.</p>
+                    <p>I beg my complim<hi rend="superscript">ts</hi> to 
+                        <persName ref="pe0293">Sir W. Burrel</persName>. When you call on him. Be so good as to ask to look at his notes 
+                        &amp; inform me when <placeName ref="pl1640">Godwood</placeName> was alienated from the Perci<del>s</del>es,
+                        &amp; how, &amp; was it actually their residence. &amp; how came the Dukes of Richmond
+                        by it.<note type="editorial">Goodwood in 
+                            Sussex was alienated to Henry Walrond by John, Lord Lumley, and his wife, Jane Fitz Alan, in 1584. See Richard Dally, 
+                            <hi rend="italic">The Bognor, Arundel and Littlehampton guide, comprising a history of those places, and of the castle of Arundel; ... 
+                            with a full description of Goodwood house, and of the Roman remains at <sic>Bignor</sic></hi> (Chichester: 
+                            William Mason, 1828), p. 115. The estate was bought by Charles Lennox, first duke of Richmond (1672–1723) in 1697. 
+                            <hi rend="italic">ODNB</hi>. The compliments extended to Sir William Burrell, and the remainder of the text of this letter, 
+                            in Thomas Pennant's hand, appear on the address sheet.</note></p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark"><placeName ref="pl1251">HOLYWELL</placeName></stamp></p>
+                <p><stamp type="handstamp">MA 31 90</stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi>. | <placeName ref="pl0759">stratton street Piccadilly | London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

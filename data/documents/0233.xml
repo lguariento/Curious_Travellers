@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0233">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on his <hi rend="italic">Tour in Wales</hi>
+                    and denying Richard Gough the use of George Low's manuscript</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>198-199</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1778-01-11"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0234"/>
+                    <ref type="prev" target="ct0232"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I thank you for a kind letter: &amp; for the <bibl type="authorial"><title ref="bi0249">Diss. de Monum.</title></bibl> which just arrived. My welsh
+                    tour so engrosses me<note type="editorial">The first edition of Pennant's <bibl type="editorial"><title ref="bi0012">A tour in Wales</title></bibl> was
+                        published in 1778.</note> that I have read only fifty pages of <persName ref="pe0156">M<hi rend="superscript">r</hi> Low’s</persName>
+                    <bibl type="authorial"><title ref="bi0058">work</title></bibl> &amp; that with
+                    much satisfaction. I shall bring it with me to <placeName ref="pl0699">London</placeName> in April &amp; transmit it to you. <persName ref="pe0104">M<hi rend="superscript">r</hi> Gough</persName> applied to me
+                    for the loan of it which I was sorry for as I thought myself oblig’d to deny him
+                    for the reason I gave you. He is a friend I w<hi rend="superscript">d</hi>
+                    oblige in any other respect. I never suspect you of wilfully <sic>injured</sic>
+                    any one: but I know y<hi rend="superscript">r</hi> universal benevolence might
+                    betray you into a communication that we might regret.</p>
+                <p>When I go to town I will visit <persName ref="pe0104">M<hi rend="superscript">r</hi> Gough</persName> &amp; then if you approve show him <persName ref="pe0156">M<hi rend="superscript">r</hi> Lows</persName>
+                    <bibl type="authorial"><title ref="bi0058">M.S.</title></bibl> but I declare I
+                    will never trust it out of my hands. That will suffice to give him a <unclear reason="illegible">Idea it</unclear> for the purpose of recording it.</p>
+                <closer><salute>I am sincerely <lb/>&amp; with best wishes y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed>
+                <dateline><placeName ref="pl0001">Downing</placeName> Jan 11<hi rend="superscript">th</hi>
+                    1778.</dateline></closer>
+
+                <postscript>
+                    <p>How does the great map of <placeName ref="pl0744">Perthshire</placeName> go
+                            on?<note type="editorial">Possibly <bibl type="editorial"><title ref="bi0198">James Stobie's <hi rend="italic">The counties of
+                                        Perth and Clackmannan</hi>, (London:
+                            1783)</title></bibl>.</note></p>
+                    <p>Please not to send me a single article yet a while. an odd request! but you
+                        shall know the reason of it soon.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom house</addrLine>
+                    </address></p>
+                <p>16</p>
+            </div>
+        </body>
+    </text>
+</TEI>

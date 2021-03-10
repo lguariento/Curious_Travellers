@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0235">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton: he hopes to finish work on his <hi rend="italic">Tour in Wales</hi> soon</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>202</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1778-01-23"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0236"/>
+                    <ref type="prev" target="ct0234"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Your two favors came safe. Pray forward the inclosed after reading it. I have not
+                        <bibl type="authorial"><title ref="bi0254">the Edda</title></bibl>:
+                        <persName ref="pe0026">White</persName> had it but was too dear &amp; indeed
+                    of no great use to me. I wish <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> c<hi rend="superscript">d</hi> see <bibl type="authorial"><title ref="bi0253">Bartholinus de Contempt..
+                            mortis</title></bibl> &amp; <unclear reason="illegible">Dasius</unclear>. This week I hope to finish my <bibl type="authorial"><title ref="bi0012">welsh Tour</title></bibl> &amp; be quite at liberty for my
+                    friends service.<note type="editorial">The first edition of Pennant's <hi rend="italic">Tour in Wales</hi> was published in 1778.</note></p>
+                <closer><salute>I am <lb/>D<hi rend="superscript">r</hi> Sir <lb/>Y<hi rend="superscript">r</hi> affect. humble Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                <dateline><placeName ref="pl0001">Downing</placeName> Jan. 23<hi rend="superscript">d.</hi>1778.</dateline></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

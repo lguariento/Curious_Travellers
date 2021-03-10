@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1097">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>19</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1790-02-17"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir.</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName>. 17 Feb<hi rend="superscript">y</hi>. 1790</dateline></opener>
+                <p><persName ref="pe0105">Captain Grose</persName> told me yesterday, you was wondering at my not answering your last letter, 
+                    and I should have reason to wonder as much at myself, if I had not done it. the date of yours was January 9<hi rend="superscript">th</hi>.<note type="editorial">See <ref target="1096.xml">1096</ref>.</note>- 
+                    on January 11<hi rend="superscript">th</hi>, I replied, and been ever since expecting a rejoinder, but as you could not have
+                    receiv’d my letter, neither could You answer it. the reason is not worth troubling you with, at this distance at large, but
+                    it was owing to <add place="above">a</add> servant, who has condescended to rob me even of the penny’s <del>with</del>
+                    which attended my letters to the post-office. I told you in that, or in a former letter, that <bibl type="authorial"><title ref="bi0062"><persName ref="pe0846">Yeakell</persName>, and <persName ref="pe0847">Gardiners</persName> map of <placeName ref="pl0922">Sussex</placeName></title></bibl>,
+                    were sold at <persName ref="pe0389">Fadens</persName>, but upon so large a scale, and at so high a price, that I should not 
+                    buy them without a fresh order. I remember also to have told you, that no impressions of <bibl type="authorial"><title ref="bi0290"><persName ref="pe0436">Worsley</persName>'s <placeName ref="pl1020">Isle of Wight</placeName></title></bibl>
+                    were printed upon large paper, all the copies being of the same size, and in order to dissuade you from buying one at the present advanc’d price, I offer’d to send 
+                    <del>you</del> down to your house my copy, for present use, and to keep as long as you wanted it, and I suggested the probability that 
+                    <persName ref="pe0436">Sir Richard</persName> might publish a second Edition e’er long,<note type="editorial">There is no evidence that a second edition of Worsley, <hi rend="italic">A History of the Isle of Wight </hi>was ever published.</note> including the plates of the Statues, 
+                    &amp; Jewels he lately imported, some of which are already engrav’d &amp; in a stile of great expence. The quantity of things he has now added to 
+                    <rs type="art" ref="ar0043"><placeName ref="pl1392">Appuldurcombe</placeName></rs> is prodigious, the Drawings of places very fine indeed, among the 
+                    rest of his marbles, Jewels, and paintings, sunt bona – sunt mediocra – sunt mala. –<note type="editorial">'some are good – some are mediocre – some are bad'. Bull quotes an epigram by Martial: 'Sunt bona, sunt quædam mediocria, sunt mala plura'.</note>
+                    There <add place="above">are</add> various sets of the <rs type="art" ref="ar0159">Kings of <placeName ref="pl0925">France</placeName></rs>,
+                    from Quarto size to duodecimo. – of some of their kings there are prints from original Portraits, of which I recollect 
+                    <rs type="art" ref="ar0159">Francis I<hi rend="superscript">st</hi>. Charles VII. Louis XI. XII. &amp; XIII, and of Course all the subsequent kings</rs>.
+                    I have a print with the Plan and elevation of the Music room, said (<hi rend="underline">in M.S.</hi>) to have been erected at 
+                    <placeName ref="pl1251">Holywell</placeName> 1743. – pray inform me whether such a building does, or did exist there.<note type="editorial">See <ref target="1094.xml">1094</ref>.</note></p>
+                <p><rs type="art" ref="ar0041">M<hi rend="superscript">r</hi>. Pitts Portrait</rs> is engraving, the same size, as the Drawing you sent me from 
+                    <persName ref="pe0014">Moses</persName>, which you say he had so bad an opinion of, that it was <add place="above">not</add>
+                    charg’d in my account, but both him, and <rs type="art" ref="ar0160">his father</rs> are charg’d, and <hi rend="underline">so I would have them to</hi>
+                    be, – for time is the estate of <persName ref="pe0014">Moses</persName>.</p>
+                <p>I have nothing new to tell you. opposition play their game wretchedly, and are breaking their own faggot into splinters. I receiv’d last night a letter from a relation at
+                    <placeName ref="pl1023">Paris</placeName>, who says every thing there is just now, in the most perfect tranquility, owing to the 
+                    <persName ref="pe0824">Kings</persName> popular step, in going to the assemblée nationale.<note type="editorial">Louis XVI attended the National Assembly on 4 February 1790. Jones, <hi rend="italic">Longman Companion to the French Revolution</hi>, p. 13.</note>
+                    my friend<note type="editorial">It is unclear whether this 'friend' is the same as the 'relation' mentioned earlier in this paragraph. Perhaps the change in terms suggests that the 'relation' was a brother-in-law, husband of the sister mentioned in <ref target="1089.xml">1089</ref>.</note>
+                    saw the serment civique<note type="editorial">'civic oath'.</note> administer’d <add place="above">to the several members</add> <del>there</del> on the 4<hi rend="superscript">th</hi>.
+                    past, in consequence of the <persName ref="pe0824">Kings</persName> appearance there. <persName ref="pe0987">Mirabeau</persName>
+                    was very refractory, and absolutely refused to take the oath, till he <add place="above">had</add> given the <persName ref="pe0988">president</persName>
+                    the trouble of explaining it at large, and then with apparent disgust, roar’d out “Je le Jure donc.<note type="editorial">'I swear it, then'.</note></p>
+                <closer>
+                    <salute>I am Dear Sir, yours always.</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                    <dateline><placeName ref=""/></dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1221">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 145</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date>8 June 179[8]</date>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl1013">North Court</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> June - 8<hi rend="superscript">th</hi>. <del><gap unit="letters" quantity="2" reason="illegible"/></del>9<gap unit="letters" quantity="1" reason="illegible"/>.</dateline></opener>
+                <p>If I was not a first rate patriot I should be angry at <persName ref="pe1892">Charles Papps Price</persName> for diverting your journey to 
+                    <placeName ref="pl0001">Downing</placeName>. How happy should I have been with shewing my treasures to <persName ref="pe0331">miss Bull</persName> &amp; her good father. let us not drop all hopes of the pleasure aged as we are. I am tolerably well: walk moderately &amp; ride much &amp; 
+                    if anasarca<note type="editorial">Pennant suffers from anasarca, 'A dropsical affection of the subcutaneous cellular tissue of a limb or other large surface of the body, producing a very puffed appearance of the flesh'. <hi rend="italic">OED</hi>.</note>
+                    becomes impertinent I drive her away with a prescription of my worthy friends <persName ref="pe1893">Doctor Haygarths</persName>. - 
+                    <persName ref="pe1865">Pococks</persName> <rs type="art" ref="ar0356">drawing</rs> &amp;c are yours: still what a debt do I owe you. I make a resolve never to give to the rich my 
+                    <bibl type="authorial"><title ref="bi0263">indoostan</title></bibl>, nor beg them to buy it: but wish to know what you hear of it.</p>
+                <p>
+                    I now send you some Prose &amp; some poetry. the first of an old Dotard justice of 75. a wondrous production. the other, a song sent to our celebration of the Kings birth day on Monday. author unknown<note type="editorial">These enclosures have not been preserved with the letter.</note>
+                    after the exercise &amp; vollies of the morning <persName ref="pe0065">my son</persName> &amp; the whole corps dined at one long table to the amount of 110 fine fellows the parental heart leaped within me to see the festivity &amp; affection of the day. I have now, 
+                    <persName ref="pe0065">son</persName>, his beauteous <persName ref="pe0814">spouse</persName>, &amp;, charming <persName ref="pe1779">grandson</persName>
+                    with me. <persName ref="pe0421">Tom</persName> the <placeName ref="pl1549">Christch</placeName>: man will joi<del><gap unit="letters" quantity="1" reason="illegible"/></del>n
+                    us the latter end of the month. The lad caught the military flame, &amp; without neglect of his studies joined the mottley military corps. He will never be hurt: but I dislike the clerical rage. I am truely angry at 
+                    <persName ref="pe1894">Canterbury</persName> when I saw within these three days seven divines gazetted as caplains &amp;c.</p>
+                <p>
+                    <del><gap unit="letters" quantity="1" reason="illegible"/></del>At <placeName ref="pl1201">Caerwis</placeName> has been just held an Eisteddfod or Session of the poets, see 
+                    <bibl type="authorial"><title ref="bi0015">welsh Tour vol. I.</title></bibl><note type="editorial">See <hi rend="italic">A tour in Wales</hi> (2nd edn., 1784]), I, pp. 456–8.</note> I am told that their productions were the most stupid imaginable. &amp; their libations in ale most beastly. The season of the welsh poetry has long since been over so I trust that the attempt will never be revived.</p>
+                <p>
+                    You forget answering my query about Th. Philip earl of Pembroke’s mother <sic>taring</sic> her hair at her son’s cowardice where is the tale told.<note type="editorial">For this query, with a variant name for the afflicted woman, see <ref target="1219.xml">1219</ref>.</note></p>
+                <closer>
+                    <salute>Every good wish attend you &amp; <persName ref="pe0331">miss Bull</persName> must ever be repeated while
+                    <lb/>Dear Sir
+                    <lb/>exists y<hi rend="superscript">r</hi> very affect: friend</salute>
+                    <signed><persName ref="pe0232">Th. Pennant.</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="frank">FREE JU 11 98; Free <persName ref="pe0365">L S<hi rend="superscript">t</hi> Asaph</persName>; <placeName ref="pl1371">S<hi rend="superscript">t</hi> Asaph</placeName> June <add place="above"><gap unit="letters" quantity="4" reason="illegible"/> 191 </add> eighth. 1798.<note type="editorial">The final two sections of this frank are handwritten.</note></stamp>
+                    <stamp type="handstamp"><placeName ref="pl1371">ST ASAPH</placeName></stamp>
+                </p>
+                <p><address>
+                    <addrLine>To | <persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi> | <placeName ref="pl1013">North Court</placeName> | <placeName ref="pl1020">Isle of Wight</placeName>.<note type="editorial">The address is not in Thomas Pennant's hand.</note> </addrLine>
+                </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

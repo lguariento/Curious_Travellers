@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1368">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Lloyd, Hafodunos and Wigfair, 21 May 1771</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>NLW</repository>
+                        <idno>12421D</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1771-05-21">21 May 1771</date>
+                    <placeName ref="pl1017">Lichfield</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0803">John Lloyd</persName>
+                    <placeName ref="pl1344">Garden Court</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1369"/>
+                    <ref type="prev" target="ct1367"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                
+                <p>I heard, my dear Pupil, at <placeName ref="pl1347">oxford</placeName> of a <persName ref="pe0806">M<hi rend="superscript">r</hi> Astle</persName> 
+                    once of the <placeName ref="pl1345">Tower</placeName>, now I think of <placeName ref="pl1346">Lambeth</placeName> who has a fine 
+                    collection of drawings of welch monuments: It must be y<hi rend="superscript">r</hi> business to find him out, &amp; get a complete list 
+                    of all he has.</p>
+                
+                <p>Be so good as to get from y<hi rend="superscript">r</hi> neighbor Buck<note type="editorial">This may refer to 
+                    either <persName ref="pe0373">Samuel Buck</persName> or to his brother <persName ref="pe0374">Nathaniel</persName>.</note> a printed list of his prints &amp; send 
+                    it in a frank. N. B. get a stock of franks to me.</p>
+              
+                <p>I leave this place <sic>too day</sic> &amp; shall reach <placeName ref="pl0001">downing</placeName> on 
+                    Saturday. am D<hi rend="superscript">r</hi> Sir</p>
+                <closer><salute>very affect<hi rend="superscript">ly</hi> yrs
+                </salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed></closer>
+                <dateline><placeName ref="pl1017">Lichfield</placeName> May 21<hi rend="superscript">st</hi> 1771.</dateline>
+                
+                
+         
+                
+            </div>
+            
+            <div>      
+                <p><address><addrLine>To<lb/><persName ref="pe0803">John Lloyd esq<hi rend="superscript">r</hi></persName><lb/> 
+                    <placeName ref="pl1344">Garden Court</placeName>.
+                    </addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

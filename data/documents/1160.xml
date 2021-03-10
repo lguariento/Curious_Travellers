@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1160">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 110</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1792-12-27"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r</hi> 27<hi rend="superscript">th</hi>. 1792</dateline></opener>
+                <p>That many many happy returns of this season may attend miss Bulls<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>
+                    &amp; yourself is the sincere wish of this house.</p>
+                <p>
+                    Your favor bore a most melancholy complection. The relation of the <placeName ref="pl1293">Birmingham</placeName> ass is
+                    truely affecting but nothing to what happened within a short time past at <placeName ref="pl1251">Holywell</placeName>.
+                    The rumour of a mob prevaling I mounted my steed, &amp; rode rashly into the midst of the market place. I scarce had time to 
+                    speak but I was knocked off my horse dragged to a butchers blood, &amp; off went my head, before I c<hi rend="superscript">d</hi>
+                    emit one Ave maria. The bloody minded vill<del><gap unit="letters" quantity="3" reason="illegible"/></del>ains ripped open my breast, 
+                    <del>&amp;</del>&amp; at my right kidney &amp; were beginning on the left, when an irish gentleman most fortunate cried out, 
+                    arrah,<note type="editorial">'Arrah' is an 'expletive expressing emotion or excitement, common in Anglo-Irish speech'. <hi rend="italic">OED</hi>.</note>
+                    the Rascal, drown him the well. soone went I in, head &amp; tail, when wondrous to say, I had no sooner touched the 
+                    holy hair of our blessed winefrid:<note type="editorial">Gwenfrewi or Winifred (fl. early 7th century) was closely associated with the cult of Beuno in north-east Wales. Twelfth-century vitae dedicated to her recount how she was miraculously restored to life at Holywell, where her sanctuary remains to this day. <hi rend="italic">DWB</hi>. For current work on Gwenfrewi, see <ref type="http" target="http://www.welshsaints.ac.uk">here</ref> [accessed 30 April 2019].</note>
+                    but my viscera were restored &amp; my head as nicely united to my body as if nothing had happen’d. I then sprung upon the bank. 
+                    The ruffians took to their heels, &amp; by this miraculous intervention of our blessed Saint, Loyalty &amp; peace was restored to the country: 
+                    I have been more than rewarded for my pain, having been unanimously chose chairman to the committee of the eleven associated 
+                    parish<del><gap unit="letters" quantity="2" reason="illegible"/></del>es. <del><gap unit="letters" quantity="1" reason="illegible"/></del> 
+                    <del><gap unit="letters" quantity="1" reason="illegible"/></del> we are, (most seriously) wild with loyalty: not a collier or miner 
+                    in this very populous Country but understands the business &amp; is most sincerely attached to the cause of good order. I inclose two 
+                    papers.<note type="editorial">The enclosures have not survived with the letter.</note> for the third, I fear I must wait another post. 
+                    The welsh one is a translation of <bibl type="authorial"><title ref="bi0653">judge ashursts speech</title></bibl>.</p>
+                <p>
+                    At length I have got <persName ref="pe0014">Moses</persName> to set down to y<hi rend="superscript">r</hi> work.
+                    The subjects will not be so numerous as I thought: so I trust you will have them at the promised time. I still 
+                    hold my pen. I saw it necessary to tack to <placeName ref="pl2515">China</placeName>, <placeName ref="pl2807">Japan</placeName>
+                    for the sake of making both ends meet.<note type="editorial">Pennant's treatment of China was followed by attention to Japan in <bibl type="authorial"><title ref="bi0462">volume XVII</title></bibl> 
+                        of 'Outlines of the Globe'.</note> i.e <placeName ref="pl2515">China</placeName> with the part of <placeName ref="pl1622">Asia</placeName>
+                    described in the <bibl type="authorial"><title ref="bi0022">arctic zoology</title></bibl>. pasting is also much in vogue so my 
+                    <bibl type="authorial"><title ref="bi0475">XIV volumes of M.S.</title></bibl> will be amazingly rich.</p>
+                <p>
+                    Thanks for your enquiry after <persName ref="pe0235">our little girl</persName>: she is perfectly recoverd from a very painful illness which she bore with heroism.</p>
+                <closer>
+                    <salute>I am
+                    <lb/>Dear Sir
+                    <lb/>most affec<hi rend="superscript">tly</hi> &amp;
+                    <lb/>truely yrs</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

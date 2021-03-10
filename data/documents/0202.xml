@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0202">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, a note on progress of George Low</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>147-148</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-12-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0203"/>
+                    <ref type="prev" target="ct0201"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I have just time to express my joy at the news about <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName>. I do really think he had best
+                    send his <bibl type="authorial"><title ref="bi0058">nat. history</title></bibl>
+                    part first: that I may have full time to overlook it.</p>
+                <p>I see nothing but 396. <unclear reason="illegible">venatios</unclear>
+                        &amp;c.<note type="editorial">Apparently a reference to an item in a
+                            catalogue: possibly <bibl type="editorial">Jan van Vliet, <title ref="bi0195"><hi rend="italic">Venatio novantiqua</hi></title>
+                        (1645)</bibl>.</note> I know nothing of it, but beg you to buy on y<hi rend="superscript">r</hi> own judgement.</p>
+                <closer><salute>in vast haste y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232"> T. Pennant</persName>.</signed>
+                <dateline>Decr 26<hi rend="superscript">th</hi> 1775.</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>at the custom house</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

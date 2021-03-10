@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1167">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>47</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1793-07-31"/>
+                    <placeName ref="pl1013">North Court</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir.</salute> <dateline><placeName ref="pl1013">North Court</placeName>. <placeName ref="pl1020">Isle of Wight</placeName>. July 31. 1793.</dateline></opener>
+                <p>I have not to troubled you with my letters, since we parted last, but you have been, and I trust, ever will be, one of the first in my remembrance.</p>
+                <p>
+                    My time has by no means pass’d pleasantly of late; my poor ailing daughter <persName ref="pe0336">Catherine</persName>
+                    came hither, extremely unwell, and lives in such pain, that her life is becoming a Burthen to her; 
+                    <persName ref="pe0432">D<hi rend="superscript">r</hi>. Turton</persName>, and a very intelligent Apothecary here, assure me her life is 
+                    in no present Danger, in the mean time she grows worse, and worse, and is thinner than air, with as little corporal substance, but 
+                    her spirits, when out of actual pain, are wonderful.</p>
+                <p>
+                    We go to <placeName ref="pl0796">Bath</placeName> in the Autumn, and if, as is imagin’d her complaints arise from the digestive faculties 
+                    being impair’d, she may recover, but my own opinion is, that the cause lies much deeper. – but enough, and too much upon 
+                    a subject, which I dare believe interests you, but about which, there is no occasion I should worry my friends.</p>
+                <p>
+                    How are <persName ref="pe0235">your little Girls</persName> eyes? and <del>how</del> are all the rest of your family, 
+                    tutti quanti,<note type="editorial">'everyone'.</note> in good health?</p>
+                <p>
+                    I have been to pass three days, at <persName ref="pe1719">Colonel Stuart</persName>'s at <placeName ref="pl2527">High Cliff</placeName>,
+                    (the late <persName ref="pe0147">Lord Butes</persName> Villa) grown up to be a vast castle – with 3 Acres of exotic Garden, and a preservatory for fruit 240 
+                    feet long. the Books and MSS. are exceeding fine and numerous – one room of 36 feet is fill’d from top to bottom with 
+                    re<hi rend="underline">ad</hi>ing books, and prints; of the latter there are 300 Volumes, and upwards, large Folio 
+                    bound in Russia, and in the room over it, of the same Dimensions, are many hundred Volumes, of the finest Drawings of flowers, fruits, and plants that
+                    you can conceive, by every artist, ancient, and modern. I used to rise by day light to see as much as I could, and I wish’d for you with me often and often, every day.</p>
+                <p>
+                    My curiosity carried me to <placeName ref="pl1357">Portsmouth</placeName>, to view the cleopatra, as soon as possible after her arrival. 
+                    I counted all her shot holes, which made her appear almost like a collander, and her stern was intirely beaten in.. 
+                    an intelligent officer on board, show’d me the Bulk head, on which <persName ref="pe1720">her gallant captain</persName>
+                    was leaning, when he received his Death wound; the ball enter’d at the opposite port hole, and passing clear through her 
+                    sides, in its way Struck upon the Bar, that served to lock down the bulk head, and forcing it into his side, did his business completely. 
+                    the disorder the vessell was in, and the marks of clotted blood made such a land lubber as I am, ready to Phylosophize –
+                    surely, surely,, thought I, the pattes of military honor, are cut through the Bowels of humanity. The Nymphe lay by her side, 
+                    and I was surpris’d to see so little difference in their respective  size – She too was cut to pieces, but is already repair’d, 
+                    and going out again.<note type="editorial">This relates to an engagement between the French frigate <hi rend="italic">La Cléopâtre</hi> and the British frigate <hi rend="italic">Nymphe</hi>, which took place off Start Point in Devon on 18 June 1793. The former was taken by Edward Pellew, first Viscount Exmouth (1757–1833), its captain, Jean Mullon, killed. <hi rend="italic">ODNB</hi> s.n. Edward Pellew. The story was reported in several British newspapers, including the <hi rend="italic">Derby Mercury</hi>, 27 June 1793, which printed a letter from Pellew recounting the event.</note></p>
+                <p>
+                    <persName ref="pe0849">My nephew</persName> &amp; <persName ref="pe0346">M<hi rend="superscript">rs</hi> Luther</persName>'s,
+                    (the son of <persName ref="pe0368">M<hi rend="superscript">r</hi> Bennett</persName>) was on board the Iris frigate, when she engag’d a french frigate off 
+                    <placeName ref="pl2528">Lisbon</placeName>, big enough to swallow her up, masts, and all, and the poor lad had his thigh broke in two places, and his knee
+                    pan dislocated.<note type="editorial">See the <hi rend="italic">Derby Mercury</hi>, 11 July 1793, for an account of the arrival of the <hi rend="italic">Iris</hi> frigate in Gibraltar 
+                        'under jury masts, having had an engagement with a French frigate, which left them in the night. The Iris had 7 killed, and 30 wounded.'</note> He behaved very Gallantly, 
+                    and would be carried again upon Deck after the thigh was set. 
+                    <persName ref="pe1721">Lord Chatham</persName> has recommended him to <persName ref="pe1722">Lord Hood</persName>, who takes him 
+                    on board the victory, and the young man, will be a post Captain very soon. a Sea life was his choice, tho’ he is an only son, and heir to a large Estate. 
+                    – but you will be bother’d with <add place="above">me &amp;</add> my family concerns, so no more about either.</p>
+                <closer>
+                    <salute>Yours</salute>
+                    <signed><persName ref="pe0313">R. B.</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

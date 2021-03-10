@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1366">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Lloyd, Hafodunos and Wigfair, 10 March 1771</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>NLW</repository>
+                        <idno>12421D</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc><additions><lb/><hi rend="italic">Endorsement</hi>: <persName ref="pe0216">Morris</persName></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1771-03-10">10 March 1771</date>
+                    <placeName ref="0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0803">John Lloyd</persName>
+                    <placeName ref="pl1344">Garden Court, Temple</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1367"/>
+                    <ref type="prev" target="ct1365"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>
+                    <salute>Dear Sir</salute></opener>
+                
+                <p>I am very happy to hear of y<hi rend="superscript">r</hi> safe arrival <del>&amp;</del>in <placeName ref="pl0699">town</placeName> 
+                    &amp; hope to have many pleasant walks with you next month. I flatter myself that we shall meet about the 10<hi rend="superscript">th</hi> 
+                    &amp; so reserve all chat till that time. Moses <add place="above"><persName ref="pe0014">Griffith</persName></add><note type="editorial">The name 'Griffith'
+                    is added in pencil, not in Thomas Pennant's hand.</note> &amp; I have contracted for another two years &amp; I shall bring him with me in order to 
+                    be instructed, that he may do justice to our welch antiquities. <gap unit="letters" quantity="1" reason="illegible"/>You &amp; I will instantly 
+                    walk to <persName ref="pe0216">M<hi rend="superscript">r</hi> Morris</persName> &amp; see what he has. as to y<hi rend="superscript">r</hi> kind offer 
+                    about books at present I have only to beg you w<hi rend="superscript">d</hi> look out for these two:<note type="editorial">The 'two' mentioned may have 
+                        been named on the 'note' to which Pennant refers later in this letter. They could possibly be identified with the '2 last vols of Kalm' named in the 
+                        final paragraph.</note> they are sometimes to be met with single; but more frequently, bound with <persName ref="pe0804">de Bry's</persName> other works 
+                    which are too expensive. be so good as to take care of the note. if you go by <persName ref="pe0026">M<hi rend="superscript">r</hi> White</persName>'s bookseller 
+                    in <placeName ref="pl1012">Fleetstreet</placeName> please to leave with him the inclosed carrier's receit.</p>
+                
+                <p><persName ref="pe0078">M<hi rend="superscript">r</hi> Forster</persName> may be heard of at <persName ref="pe0805">M<hi rend="superscript">r</hi> Lownds</persName> 
+                    next door to <persName ref="pe0026">Whites</persName>; He will deliver you the 2 last vols of <bibl type="authorial"><title ref="bi0614">Kalm</title></bibl>. 
+                    <persName ref="pe0234">Bel</persName> &amp; <persName ref="pe0065">Davy</persName> join in complim<hi rend="superscript">ts</hi> &amp; I am Dear Sir</p>
+                  
+                <closer><salute>your faithfull &amp;<lb/>
+                    most obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi>
+                </salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> March 10<hi rend="superscript">th</hi>. 1771.</dateline></closer>
+                
+                
+         
+                
+            </div>
+            <div><p><stamp>PENNY POST PAID W WE; 7 O'CLOCK T</stamp></p></div>
+            <div>      
+                <p><address><addrLine>To<lb/><persName ref="pe0803">John Lloyd esq<hi rend="superscript">r</hi>.</persName> N<hi rend="superscript">o</hi>. 1.<lb/> 
+                    <lb/><placeName ref="pl1344">Garden Court in the Temple</placeName>.
+                    </addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

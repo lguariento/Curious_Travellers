@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1009">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 9</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1780-09-12"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street Piccadilly</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="other">
+                <table>
+                    <row role="data">
+
+                        <cell role="data"><rs type="art" ref="ar0457">2 Views of Hawarden Castle</rs>
+  at 10<hi rend="superscript">£</hi>.. 6<hi rend="superscript">s</hi> each – – –</cell>
+                        <cell role="data">1.1.0</cell>
+                    </row>
+                    <row role="data">
+
+                        <cell role="data">1 <rs type="art" ref="ar0021">Ditto of Wrexham Church</rs>
+                             – – – – – –</cell>
+                        <cell role="data">0.10.6</cell>
+
+                    </row>
+                    <row role="data">
+
+                        <cell role="data">1 <rs type="art" ref="ar0022">Ditto of <placeName ref="pl0793">Llangollen</placeName> Bridge</rs>
+                             – – – – – – –</cell>
+                        <cell role="data">0.10.6</cell>
+
+                    </row>
+                    <row role="data">
+
+                        <cell role="data">1 <rs type="art" ref="ar0023"><choice>
+                                    <abbr>D<hi rend="superscript">o</hi></abbr>
+                                    <expan>Ditto</expan>
+                                </choice>
+                                Castle Dinas Bran</rs>
+                             – – – – – – –</cell>
+                        <cell role="data">0.10.6</cell>
+
+                    </row>
+                    <row role="data">
+
+                        <cell role="data">1 <rs type="art" ref="ar0024"><choice>
+                                    <abbr>D<hi rend="superscript">o</hi></abbr>
+                                    <expan>Ditto</expan>
+                                </choice> of Tower – – – – – – –</rs>
+                        </cell>
+                        <cell role="data">0.10.6</cell>
+
+                    </row>
+                    <row role="data">
+
+                        <cell role="data">1 <rs type="art" ref="ar0025"><choice>
+                                    <abbr>D<hi rend="superscript">o</hi></abbr>
+                                    <expan>Ditto</expan>
+                                </choice> of Eulo Castle</rs>
+                             – – – – – – –</cell>
+                        <cell role="data">0.10.6</cell>
+
+                    </row>
+                    <row role="data">
+
+                        <cell role="data">81 <rs type="art" ref="ar0026">Drawings of Coats of Arms
+                        </rs> &amp; small Views
+  at 1<hi rend="superscript">£</hi>. 2<hi rend="superscript">s</hi> each.<note type="editorial">This list may be in Ingleby's hand. Ingleby  
+                                    copied the works named in the list from drawings previously completed by Moses Griffith, as seen in Pennant's extra-illustrated versions of his 
+                                        <hi rend="italic">A tour in Wales</hi>. See <ref target="1007.xml">1007</ref>. For further drawings by Ingleby of
+                                        views in Wales, Cheshire and Shropshire see National Library of Wales, <ref type="http" target="https://www.library.wales/discover/digital-gallery/pictures/ingleby-watercolours/">'John
+                                            Ingleby Watercolours'</ref>.</note></cell>
+                        <cell role="data">4.14.6 </cell>
+
+                    </row>
+                    <row>
+                        <cell> </cell>
+                        <cell>8.8.0</cell>
+                    </row>
+                </table>
+
+            </div>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>above is a copy of <persName ref="pe0324">Ingleby</persName>'s Bill which shall
+                    be sent with its receit as soon as I can get a frank. I hope you will approve
+                    it; but I do not think it unreasonable as he assures me he had two months hard
+                    work. copies of any other drawings of mine will be freely at <choice>
+                        <abbr>y<hi rend="superscript">r</hi></abbr>
+                        <expan>your</expan>
+                    </choice> service. Please to pay the 8 guineas <add place="above">on my
+                        account</add> into <persName ref="pe0329">Mess<hi rend="superscript">rs</hi>
+                        Gosling</persName>'s hands; &amp; favor me with their receit at any time. I
+                    rejoice at <choice>
+                        <abbr>y<hi rend="superscript">r</hi></abbr>
+                        <expan>your</expan>
+                    </choice> freedom from <choice>
+                        <abbr>y<hi rend="superscript">r</hi></abbr>
+                        <expan>your</expan>
+                    </choice>
+                    <sic>parlementary</sic> labors.<note type="editorial">Richard Bull left
+                        Parliament in 1780. See <ref target="1007.xml">1007</ref>.</note> hard
+                    indeed is the service of an honest man in these days when so much is to
+                        <sic>reprehended </sic> on each side. The critical situation we are in gives
+                    me many an anxious moment.<note type="editorial">Britain was at war with the
+                        Americans, whose numbers were boosted in July 1780 by the arrival of a
+                        contingent of French soldiers.</note> I heartily wish you a good journey to
+                        <placeName ref="pl0796">Bath</placeName>: on <choice>
+                        <abbr>y<hi rend="superscript">r</hi></abbr>
+                        <expan>your</expan>
+                    </choice> return I shall make free to trouble you with inspecting the binding of
+                    four books as you so kindly offer. Perhaps by that time there may be some news
+                    of the remainder of the letter press of the swiss views.<note type="editorial">For 'swiss views' see <ref target="1008.xml">1008</ref>.</note></p>
+                <closer><salute>I am, Dear Sir, <lb/><choice>
+                            <abbr>Y<hi rend="superscript">r</hi></abbr>
+                            <expan>Your</expan>
+                        </choice> obliged &amp; faithful <choice>
+                            <abbr>H. Serv<hi rend="superscript">t</hi></abbr>
+                            <expan>Humble Servant</expan>
+                        </choice></salute><lb/>
+                    <signed><persName ref="pe0232"><choice>
+                                <abbr>Tho.</abbr>
+                                <expan>Thomas</expan>
+                            </choice> Pennant</persName></signed><lb/>
+                    <dateline><placeName ref="pl0001">Downing</placeName>
+                        <choice>
+                            <abbr>Sept<hi rend="superscript">r</hi></abbr>
+                            <expan>September</expan>
+                        </choice> 12<hi rend="superscript">th</hi>. 1780.</dateline></closer>
+            </div>
+            <div>
+                <p><stamp type="postmark">15 SE</stamp>
+                    <stamp type="handstamp"><placeName ref="pl0703">NORTHOP</placeName></stamp></p>
+                <p><address>
+                        <addrLine>To | Richard Bull <choice>
+                                <abbr>esq<hi rend="superscript">r</hi></abbr>
+                                <expan>esquire</expan>
+                        </choice> | <placeName ref="pl0759">Stratton street</placeName> <placeName ref="pl2035">Piccadilly</placeName> |
+                            <placeName ref="pl0699">London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

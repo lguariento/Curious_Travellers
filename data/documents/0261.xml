@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0261">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 3 September 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>16-17</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-09-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0262"/>
+                    <ref type="prev" target="ct0260"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline>Sept<hi rend="superscript">r.</hi> 3<hi rend="superscript">d.</hi>
+                        1779.</dateline> Dear Sir</opener>
+
+                <p>Whatsoever tumults rage, the correspondence of a friend gives some relief. I
+                    rejoice at the plenty of the <placeName ref="pl0701">orknies</placeName>: we
+                    have much to boast here both of the plenty &amp; the favorableness of the
+                    season: but for who we have reaped, heaven alone knows.</p>
+                <p>you must know that <persName ref="pe0090">L<hi rend="superscript">d</hi>
+                        Fife</persName> has served a poor man such a trick that is perhaps to you
+                        <hi rend="underline">not</hi> amazing. he promised <persName ref="pe0058">M<hi rend="superscript">r</hi> Cordiner</persName> a plate of
+                        <placeName ref="pl0137">Duff house</placeName>, &amp; when it came to be
+                    payed for, refused doing it. It came to 10 guineas, Which I payed rather than it
+                    shd fall on the poor divine. I mean not to publish any of the anecdotes of this
+                    irish peer; but am glad to be acquainted with his merits. Is the forged charter
+                    extant?</p>
+                <p>I wander to a very different subject when I ask the day month &amp; year of the
+                    worthy <persName ref="pe0087">Duke of Athols</persName> death.</p>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom House</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+                <p><hi rend="superscript">Free</hi><persName ref="pe0015">RMostyn</persName></p>
+                <p><stamp type="frank">FREE</stamp></p>
+                <p><stamp type="handstamp"><placeName ref="pl0703">Northop</placeName></stamp></p>
+                <p><stamp type="handstamp"><placeName ref="pl0703">Northop</placeName></stamp></p>
+                <p><unclear reason="illegible">5 Nov<hi rend="superscript">r.</hi>
+                    1779</unclear></p>
+            </div>
+        </body>
+    </text>
+</TEI>

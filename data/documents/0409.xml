@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0409">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Donald MacQueen to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP297</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>3-4</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>The enclosure to this letter is written in a different hand, suggesting
+                            the use of an amanuensis.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0069">Donald MacQueen</persName>
+                    <date when="1773-02-28"/>
+                    <placeName ref="pl0742">Kilmuir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0410"/>
+                    <ref type="prev" target="ct0408"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="gd">Gaelic</language>
+                <language ident="la">Latin</language>
+                <language ident="grc">Ancient Greek</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="enclosed">
+                <fw><unclear reason="illegible">p. 1<hi rend="superscript">st</hi></unclear></fw>
+                <p>On Druidism</p>
+                <note type="editorial">A precis of the following treatise on the ancient religion of
+                    the Celts appears in Pennant's <bibl type="editorial"><title ref="bi0008">A tour
+                            in Scotland and Voyage to the Hebrides 1772</title></bibl> (1774),
+                    pp.341-42.</note>
+                <p>The most ignorant and barbarous Nations, have had some knowledge of a Deity, whom
+                    they worshiped after some one form or other, whether their Notions were born
+                    with them, gathered up from Speculations on the Works of Nature or conveyed
+                    traditionally from remote Ancestors hath been made a Question. The
+                    thoughtlessness and Ignorance of the human Mind, when void of Culture, would
+                    determine one to think, that Religion is derived rather from the Instruction and
+                    Practice of Ancestors, one after another and if the Religion of our Celtic
+                    Fathers be inquired into, it will appear in all its Branches, to be formed on
+                    the Belief and Practice of the Eastern Nations where they drew their original
+                    which is a Strong and Irrafragable Proof of our proceeding from one Stock, and
+                    of our being instructed by one Father; I therefore propose to attempt
+                        <sic>deliniating</sic> the Celtic Religion from such traces as remain of it
+                    in <placeName ref="pl0711"><add place="above">the</add> Highlands of
+                        Scotland</placeName>, and in the Gaulic Language, compared with what can be
+                    picked out of the Classical Writers who have transiently touched upon some
+                    Articles of their Faith &amp; Practice —</p>
+                <p>The Greeks and Romans had assigned Names to their Numerous Gods to distinguish
+                    them from one another in the croud; but the object of Worship among the Pelasgi
+                    was, said <bibl type="authorial"><title ref="bi0664">Herodote</title></bibl>,
+                    the God without a Name, nor had the Supreme Caledonian Divinity any other Name
+                    than <persName ref="pe1919">anTi</persName>, that is the Being by way of <del rend="overstrike">En</del> Eminence. The Worship paid him under Druidism is
+                    to this day called anTi-oraough that is, the Worship of Ti. The Hills
+                    consecrated to religious Services Shian and Tian in the oblique Cases, the
+                    Worshiper himself anShieaorah and Ti-eaorah in the other Cases, now an
+                    appellation of the last contempt. The well known sharp pointed Flint commonly
+                    called the Elf arrow passes in the Gaulic under the Name Saghoid Ti, that is the
+                    Arrow of Ti, the spade Caba-shi and the Sacrificial Knife Skian-Ti the Knife of
+                    Ti; which three Implements I have just now on the Table before men and are made
+                    of Stone. The Worshipers of Ti having in the absolute want of Iron made use of
+                    Flint Tools. as the Finni in Ancient <placeName ref="pl1472">Germany</placeName>
+                    pointed their Arrows with Bone for the same Reason, and to mention one more
+                    compound let me add from memory, that Bhen-Ti or the Wife of Ti <persName ref="pe1918">Bendis</persName> is the proper Name of some Women among the
+                    Islanders. Ti or <pb/><fw>2</fw> Dis with a latin tetmination is also the God
+                    and Father of the Ancient Gauls. The Germans celebrated in their Songs Teuiston
+                    a God according to <bibl type="authorial"><title ref="bi0342">Tacitus</title></bibl> born of the Earth, that is the Son of Teu by Mother
+                    Earth, and is no other than the Gaulic Name Heuiston (Hew) which according to
+                    the Genius of the language changes the T of the Nominative into H in the oblique
+                    cases as Tomois into <unclear reason="illegible">Homirs</unclear> in the other
+                    cases. Further the Teutons the Teuatamides of <bibl type="authorial"><title ref="bi0665">Homer</title></bibl> with a Greek termination are the sons
+                    or descendants of Teu as the Taurisei are no other than the Inhabitants of the
+                    Kingdom of Teu, the debatable <placeName ref="pl2661">Crimea</placeName> of this
+                    day. This was the Incorporeal, the inalterable, the God without a Name whom the
+                    Pelasgi called Θεos; but as the Greek had no <unclear reason="illegilbe">Listame</unclear> in the time of the Pelasgi θεoς, zεuς, in the Genetive
+                    δioς the Latin Deus and Gaulic Dia are derived from the Celtic anTi making but
+                    moderate allowance for the Genius of the different languages.</p>
+                <p>Man sensible of his own frailty and incapacity and of the boundless Nature of the
+                    most high split, as it were, his Idea of Him into many Portions, dwelt on and
+                    Worshiped that Portion which was for the present most suited to his own
+                    occasions and Necessities. Thus in time of War they worshiped anTi the God <add place="above">of</add> Armies who had the disposal of Victory: in time of
+                    Peace anTi the God or good one who blesseth the Fields with Plenty, in time of
+                    Despair anTi who infuseth the needful quantum of thought Spirit and Resolution
+                    into the Mind. The Superintendant of the Weather who wields the Thunder was anTi
+                    horanich Taranis or Fulminator and he who ruleth the World anTu-oirn that is the
+                    Being over in a Designation now appropriated to the Highland Lairds. The same
+                    Supreme Being was alone equal to all these offices among the Celts though the
+                    other Pagans soon degenerated into the Practice of worshiping a Multitude of
+                    Gods under distinct Names with distinct Temples and Images. But anTi the Being
+                    th I AM, who is co existent with all the points of time and Space could not be
+                    inclosed within Walls or drawn under the appearance of Mortal Man. All Space was
+                    his Temple among our Ancestors; and when they joined into one all the
+                    Perfections they had any Notion of, they were Sensible that this assemblage was
+                    an inadequate Representation <add place="above">of</add> him, they therefore
+                    Worshipped Him on the Tops of Hills or in secret Groves or in time of War by
+                    fixing a Spear or Sword wherever <pb/><fw>3</fw> the General was pleased to
+                    Stop, and the Emblem of the Divinity was the Spear or Sword in the later case
+                    for by it they Swore and the Practice was brought down to our own times. In the
+                    other Caves a rough <sic>shapless</sic> stone or the trunk of a Tree more
+                    generally the Oak put them in mind of what they were about.</p>
+                <p>The One, the Eternal, the incomprehensible was the Father of Gods And Men in the
+                    Creed of our old Fathers, for they allowed indeed of Subaltern Divinities who
+                    guided and ruled over the different Departments of Nature according as they were
+                    assigned them. The Sun the Moon the Fire the Sea the Lakes the Rivers were
+                    committed to the care of different Intelligences who as well as Man were formed
+                    by the Supreme Being out of the Earth, for these rough spun Mortals wholly
+                    guided by <add place="above">the</add> undistinct tradition of their Progenitors
+                    seem never to have bestowed a thought upon the nature of Matter, that be it
+                    purified, exalted, Sublimated by the nicest chemical operation it can never give
+                    Birth to Spirit, yet as anTi is the Father of all, the Earth in the Celtic
+                    Theogony represents <del rend="overstrike">our</del>
+                    <add place="above">the</add> common Mother Ben-ti <add place="above">i.e. the
+                        wife of Ti</add>. To preserve the Memory of the Creation the Thracian and
+                    Scythian Sovereigns affirmed the Name of Colis that is God-li or Coli' Son and
+                    the Queen for her honour went by the Name of <placeName ref="pe1918">Bendis</placeName>, which according to Hesubius means the Earth. It is
+                    easie to shew that the different Tribes piqued themselves upon their divine
+                    descent; among the rest <persName ref="pe1915">Hengist</persName> and <persName ref="pe1916">Horsa</persName> Leaders of the Saxons to <placeName ref="pl2003">South Britain</placeName> asserted their almost <del rend="overstrike">their</del> immediate descent from <persName ref="pe1917">Odin</persName>, the Good one: as well as a tribe of Warriors in a Song of
+                        <persName ref="pe0557">Ossians</persName> boasted their being of the
+                    Children of Ti, the conceit of the divine origin will only account for that
+                    almost universal belief which prevailed among the Pagans of their being Indigend
+                    for they cannot <del rend="overstrike">themselves</del> imagined themselves
+                    risen up like Mushrooms from the Earth.</p>
+                <p>In the Places appointed to public Worship they drew a Circle of Stones to mark
+                    out the Sacred Ground, which, though it was a secure Sanctuary to the Wretched
+                    whom it was counted Sacriledge to disturb in their passage to it and lay always
+                    open to the Priests, was not under the Severest penalties to be profaned by the
+                    unhallowed footsteps of the people. Sometimes the Sacred ground was bestrewed
+                    with Stones a Signal to the Husbandmen &amp; others not to touch the
+                        <pb/><fw>4</fw> Mould for fear of disturbing the operations of the Divinity
+                    who was Supposed to be more peculiarly employed there than any where else. In
+                    other places there stands a pillar of Stone upon a plain where the Grove which
+                    probably set limits to the Sanctuary is no-more to be seen, there are also
+                    prodigious Cairns or Barrows in <placeName ref="pl0715">Sky</placeName> which an
+                    inconsiderate traveler would be apt to Mistake for a Mercurius Teutatis such as
+                    stood near <placeName ref="pl2662">new Carthage</placeName> in <bibl type="authorial"><title ref="bi0261">Livy</title></bibl>, but by the Urns
+                    found in the appear to be certainly burial places. The surprising Number of
+                    these consecrated placed in this Island bears the strongest Testimony to the
+                    religious Zeal of the barbarous Inhabitants, whose idleness and ignorance with
+                    the Aid of a little Priestcraft galled them with <add place="above">the</add>
+                    chains of a cruel Superstition, every little district which Nature had bounded
+                        <add place="above">with</add> Rocks Rivers or Rising ground being an
+                    independent Sovereignty and very probably in a declared State of War with the
+                    Neighbourhood supplied itself with a place of Worship.</p>
+                <p>As in some one period or other the people were equally engaged in the Same
+                    religious Solemnities all over <placeName ref="pl1176">Europe</placeName> it is
+                    not to be wondered that in different dialects of the same Language or in
+                    Languages perhaps quite different the same Divinity should go under different
+                    Denominations especially as it was customary to give the Name of the Mount or
+                    Grove which was the Seat of Worship to the Spirit of the place. The Greeks and
+                    Romans also who made but Slight Observations upon the religious Ceremonies as
+                    having come up on more interesting Errands to the barbarous Nations would be apt
+                    to find their own Gods where they met with any Similarity in the Worship, and
+                    thus our Ancestors are universally charged with Polytheism, and if <persName ref="pe1920">Agricola</persName> his Fleet had stoped in the Harbours of
+                        <placeName ref="pl0715">Sky</placeName> when they were sailing in our Seas
+                    his son in Law might have pointed out foreign Gods here as well as in <placeName ref="pl1472">Germany</placeName> or <persName ref="pe1921">Cæsar</persName>
+                    in <placeName ref="pl2663">Gaul</placeName> though the religious Monuments which
+                    remain obviously declare that <persName ref="pe1919">anTi</persName> was the
+                    principal Object of Worship as observed above.</p>
+                <p>The next object of adoration to <persName ref="pe1919">Ti</persName> was Earth
+                    the Mother of all who seems to have been conjoined with the Supreme Father in
+                    the August &amp; awfull Solemnities of her Worship, to which She, the Earth,
+                    could only be intitled, <pb/><fw>5</fw> being but a rude insensible Lump, by
+                    being supposed the Mother on whom <persName ref="pe1919">Ti</persName> begat his
+                    Children or the passive Principle from which the Father of all extracted the
+                    best of his works. The Solemnities observed in this Worship I shall attempt to
+                    delineate when I have only observed that there is no other Monument besides, of
+                    the Druidical Divinities preserved here, not even in language alusions, but of
+                    the Sun, Fire, Water and very little of the Moon which were considered as the
+                    Seats or Temples of inferior Spirits who had some Respect paid them on account
+                    of their Usefulness to the human Race</p>
+                <p>Anait is a common Druidical place of Worship in <placeName ref="pl0711">the
+                        Highlands</placeName> which I suppose hath been instituted in honour of the
+                    Earth. There are four of them in <placeName ref="pl0715">Sky</placeName> which
+                    go under the Name, and as they are all much of the same situation and
+                    Construction, I will only described that near <placeName ref="pl0665">the Castle
+                        of Dunvegan</placeName> as being the most intire. It lies in the heart of a
+                    plain extensive Muir betwixt the Confluence of two Waters; to the East side of
+                    the Muir their stands a Hill and another to the West which gradually
+                        <sic>slop</sic> down towards the Plain and from which a full &amp; clear
+                    Prospect might be had of all the Motions and Ceremonies that passed below. From
+                    the one of these Waters to the other there is a Strong Stone wall built which
+                    forms an equilateral Triangle, which by the rocks forcing it towards the Waters
+                    where every break and Crevice is filled up with Stones regularly laid seems to
+                    have been inaccessible in former days; near the middle of this triangular
+                    Inclosure there is erected a Small square Edifice of quarried Stones and on each
+                    side of the Gate which leads to it from the above mentioned Wall there are the
+                    Remains of two houses both within and without, where it seems the Priests and
+                    their Wives and their Servants put up together: the Servants more probably on
+                        <add place="above">the</add> out side who were also inclosed within a Strong
+                    Turf Rampart from Water to Water, across a rising ground which hath been cut
+                    through by an Artificial road, leading from <placeName ref="pl2664">Tempŭl na
+                        Hanait</placeName>, for so the Edifice is called, a great way into the Muir.
+                    To decypher the <pb/><fw>6</fw>
+                    <unclear reason="illegible">Intent</unclear> of this religious Fabrick it is
+                    necessary to look into the Antiquities of other Nations for neither our own
+                    traditions or Language cast any light upon it</p>
+                <p><bibl type="authorial"><title ref="bi0635">Pliny</title></bibl> speaks of a
+                    Country in <placeName ref="pl2665">Armenia</placeName> called <placeName ref="pl2666">Anaitica</placeName> from <persName ref="pe1922">Anaitis</persName> a Goddess in great repute there, where a noble Temple
+                    had been built for her which was plundered of all its immense Riches by
+                        <persName ref="pe1923">Anthony's</persName> Soldiers in his Parthian
+                    Expedition. A Veteran of that Army afterwards entertained <persName ref="pe1924">Augustus</persName> and <add place="above">his</add> Court on the Leg of
+                    the golden Goddess. The Temple and the Statue were surely Innovations introduced
+                    by the Eastern Settlers on that coast. <bibl type="authorial"><title ref="bi0667">Pausanias</title></bibl> speaks of the Temple of <persName ref="pe1925">Diana the Anait</persName>, <bibl type="authorial"><title ref="bi0668">Plutarch</title></bibl> and others affirm that <persName ref="pe1925">Diana</persName> was called <persName ref="pe1925">Anait</persName> among the Persians where <persName ref="pe1926">Artaxerxes</persName> built Six or Seven Temples for her: so that if we
+                    find out the original Worship of <persName ref="pe1925">Diana</persName> before
+                    it was corrupted by the improvements and fancies which the Adventurers from
+                        <placeName ref="pl2667">Phœnicia</placeName>
+                    <placeName ref="pl2668">Ægypt</placeName> and <placeName ref="pl2669">Babilon</placeName> imported into <placeName ref="pl2670">Greece</placeName> we may seem not to have missed our Aim, for <persName ref="pe1925">Diana</persName> was a Celtic Divinity whose Worship was
+                    introduced to <placeName ref="pl2670">Greece</placeName>, <placeName ref="pl2671">Asia Minor</placeName> and <placeName ref="pl1164">Italy</placeName> from the <placeName ref="pl2661">Taurica
+                        Chersonesus</placeName> and <add place="above">there were</add> several
+                    stone Representations of her in <placeName ref="pl2663">Gaul</placeName>. <bibl type="authorial"><title ref="bi0669">Hesubius</title></bibl> says that
+                        <persName ref="pe1925">Diana</persName> is the same with <persName ref="pe1918">Bendis</persName> and that the Athenians thought so and
+                        <persName ref="pe1918">Bendis</persName> was the Earth the Wife of Colis or
+                    the God Ti the same with <persName ref="pe1927">Cybele</persName>
+                    <add place="above">so called from a mountain in <placeName ref="pl2671">Asia
+                            Minor</placeName></add> the Mother of the Gods. The Representation of
+                        <persName ref="pe1927">Cybele</persName> brought from <placeName ref="pl2672">Phrygia</placeName> by an honourable Roman <unclear reason="illegible">Dignitation</unclear> at the Suggestion of the Sybilline
+                    Priests as an effectual <sic>mean</sic> to drive <persName ref="pe1928">Hannibal</persName> out of the State was no other than a rough unpolished
+                    Stone such as the religiosa Silex of Rhea (in Gaulic the Queen) on <placeName ref="pl2673">Mount Ida</placeName> whom the Greeks called also the Earth
+                    this Emblem of the Mother of the inferior Gods and of Men was brought to
+                        <placeName ref="pl1623">Rome</placeName> after being washed in the
+                        <placeName ref="pl2674">Almo</placeName>
+                    <add place="above">a small river Which falls into the <placeName ref="pl2675">Tyber</placeName> below that City</add> whither also she was <del rend="overstrike"><gap reason="illegible" unit="letters" quantity="4"/></del> led to be washed in an Annual Procession sometime after the Vernal
+                    Equinox until Christianity prevailed over the Pagan Superstition. This Goddess
+                    was carried out in a covered Chariot from the Temple on <placeName ref="pl2676">Mount Palatin</placeName> by Patricians and Plebeians and by the Emperor
+                    himself when the Government was changed; every one appearing <pb/><fw>7</fw> in
+                    what Dress or Attitude he pleased without Distinction of persons, around the
+                    Noise of Trumpets Cymbals Pipes the Gambols and songs of the people forming a
+                    kind of Concert, to the Air of which the rambled Merrily in a Dance clashing
+                    their Arms against their Shields in a regular well timed Measure. To the Sober
+                    Spectators the actors in this busy ludicrous Scene appeared as if they were
+                    possessed with the Spirit of Distraction. The most valuable part of the people's
+                    Riches Jewels precious Curiosities furniture were carried in pomp before the
+                    Chariot of the Goddess while two Phrygians went about among the people and T<del rend="overstrike"><gap reason="illegible" unit="letters" atLeast="4" atMost="7"/></del><add place="above">owns</add> in their way like
+                    Mendicants applying for an Offering less or more to their Mother who came to
+                    Visit them and whose Gifts they all enjoyed. The incessant plague of these
+                    squeesing Solicitors became disagreeable to such as were less tinctured with the
+                    Enthusiasm I do not, said <persName ref="pe1929">Antistines</persName>, Maintain
+                    the Mother of the Gods, for the Gods themselves are able to Support her. Here I
+                    would hazard a Conjecture, which I will Submit to the judgement of any
+                    Highlander. There is a practice prevaild very much in this Country for time
+                    immemorial, that every young Gentleman setting out in the World, or any of the
+                    better rank who met with distress, should go about to seek Help, attended with
+                    some retainers sometimes to the Number of Ten or twelve. The principal person of
+                    this gang was Sollicitor for the Gentleman, explained his Connections Respects
+                    and Friends, and in particular the Dependance he had on the person he was
+                    applying to at the time, when he left no Argument untouched that ought to
+                    Stimulate the Generosity of his Vassals on that occasion. This Engine of civil
+                    Extortion was called Bleidoir from the Substantive Blehd, which means unwearied
+                    squeesing and is Used in this Country in a bad sense. If ever the Procession
+                    above described was practised in this Country in any form, I doubt not the
+                    Medicant for the Goddess was called Bleidoir, the rather that there is an
+                    unknown Druidical Divinity barely mentioned by some of the Antients called
+                        <persName ref="pe1930">Plestorūs</persName>, who seems to be no other than
+                    the Bleidoir of the <persName ref="pe1927">Terra Mater</persName>. Be this how
+                    it will, the Procession of <persName ref="pe1927">Cybele</persName> went on to
+                    the <placeName ref="pl2674">Almo</placeName>, where the Nigellus lapis was taken
+                    out of her <pb/><fw>8</fw> Chariot and washed in the pure Stream as formerly
+                    according to the Phrygian custom observed in her Purification in <placeName ref="pl2677">the River Gallus</placeName>, and then returned amidst the
+                    joyful acclamation and Songs of the possessed Votaries into her Seat on
+                        <placeName ref="pl2676">Mount Palatin</placeName>.</p>
+                <p>If it appears a certain fact that <persName ref="pe1918">Anait</persName>
+                    <persName ref="pe1925">Diana</persName>
+                    <persName ref="pe1918">Bendis</persName> and the Mother of the Gods under her
+                    several Designations in various Languages and Countries are all on the
+                    Ceremonies above described and those of oūr <persName ref="pe1918">Anait</persName> must be in some degree Similar, though the Romans as well
+                    as Grecians might have added some in a course of time, and pared off others to
+                    give them a less barbarous cast and reconcile them to their own more civilized
+                    Manners as they Substituted Men of Straw in place of the human Sacrifices
+                    formerly practised and these two Nations were as ready to introduce the Worship
+                    of Strange Gods into their Country as the former of them was lavish of the
+                    Freedom of their City, and the later too when the State number of their
+                    Inhabitants was diminished in any of their Republics, for then they received
+                    even Slaves and Bastards, as they believed in a Multiplicity of Gods they were
+                    afraid of offending any of them by Neglect, and had a Pantheon or Temple for all
+                    the Gods that none of them might be ōmitted as the Athenians besides a Temple of
+                    this sort had erected an Altar to the unknown God. To the Description already
+                    given I will subjoin another from <placeName ref="pl1472">Germany</placeName>
+                    when in a state of Barbarity of the Procession in honour of the Earth, which I
+                    will not venture to translate, from an Author so deep in Sentiment and so frugal
+                    of his words <bibl type="authorial"><title ref="bi0342">Tac. de Mor
+                            Germ.</title> 40</bibl> In commune Herthum id est, Terram Matrem colunt
+                        <gap reason="authorial" unit="lines" quantity="3"/> Arcanus hinc terror
+                    sanctaque ignorantia quid sit illud quad tantus perituri vident. It is obvious
+                    to the first reflection that the Goddess which lay covered in the Chariot was
+                    the Emblem of the Earth a Stick or a Stone which they carried about to visit the
+                    Neighbourhood which they washed in the Lake to Whom they Sacrificed her
+                    Attendants and carried triumphantly to her Sacred Grove again. Thus the Square
+                    Chappel within the double fortification of <persName ref="pe1918">Anait</persName>, to which the <pb/><fw>9</fw> Priests only who lodged in
+                    the house close by, seem to have had access, was erected for hiding the Goddess
+                    from the Eyes of the profane Vulgar where probably the Sacrificial Implements
+                    were laid up in company with her, and the artificial road from it to the Moor
+                    hath been contrived to make the Procession easy to the Priests untill they met
+                    the unhallowed Votaries at a Distance and the <persName ref="pe1918">Anait</persName> is always upon a Water or the Confluence of two more
+                    frequently, that they might have the Convenience of her Purification near them.
+                    On this solemn occasion all lawsuits all Pleas of whatever kind were hushed:
+                    Love, Friendship, Generosity, Hospitality and Charity reigned over all as being
+                    the Children of the same Father &amp; Mother Here a Doctrine was figured out,
+                    that must have been a necessary restraint upon these ferocious Mortals.</p>
+                <p>This same Festival under the Name of Bendideia or Kotittiæ was from <placeName ref="pl2678">Thrace</placeName> introduced to <placeName ref="pl2679">Athens</placeName> where the Priests according to <bibl type="authorial"><title ref="bi0670">Juvenal</title></bibl> were called Baptæ, I suppose
+                    from their being plunged in the Water along with the Goddess instead of being
+                    drowned as at <placeName ref="pl2680">Sparta</placeName> on the Solemnity of
+                        <persName ref="pe1925">Diana</persName>
+                    <add place="above">the same Divinity</add> the Boys only underwent a
+                    Flagellation instead of being Sacrificed according to the original custom. This
+                        <persName ref="pe1925">Diana</persName> had a Feast somewhere else called
+                    Limnatidia from her being Situated near a Pond and the same was the Situation of
+                    the <persName ref="pe1925">Diana</persName> Taurica if we believe <bibl type="authorial"><title ref="bi0671">Ovid</title></bibl> who staid in time
+                    of his banishment at <placeName ref="pl2683">Tomos</placeName> in the
+                    Neighbourhood where according to <persName ref="bi0672">Ammianus
+                        Marcellinus</persName> the Goddess went under the Name of <persName ref="pe1925">Orsilochi</persName> or <persName ref="pe1925">Orilochi</persName> and I doubt not but this Circumstance is mentioned on
+                    Account of her Ablation in the <unclear reason="illegible">Eupine</unclear> Lake
+                        <add place="above">when the Strangers whom came to the Court were offered
+                        her</add>. It comes very near to a sort of Demonstration that <persName ref="pe1918">Anait</persName>
+                    <persName ref="pe1925">Diana</persName> and <persName ref="pe1925">Orsiloch<unclear reason="illegible">é</unclear></persName> are the same
+                    Celtic Divinity and their Names have much the same import in Gaulic Anait
+                    Ain-ait, that is, the place by the Water, <persName ref="pe1925">Diana</persName> Dia-ian the God by the Water, <persName ref="pe1925">Orilochi or Orsilochi</persName>, Oir or Orse-a-loch the brink of the
+                    Lake.</p>
+                <p>The primitive Inhabitants of <placeName ref="pl1176">Europe</placeName> giving
+                    neither Names or Surnames to their Gods called them Simply <persName ref="pe1919">anTi</persName> the Being to which they joined in the place of
+                    Worship or the occasion on which they marked them, which as the Places and
+                    occasions were many gave rise to the Conceit <pb/><fw>10</fw> of their
+                    Polytheism and the Superstitious Greeks and Romans naturallized the different
+                    Designations one after another as so many strange Deities. The Solemnities also
+                    of <persName ref="pe1919">Terra Mater</persName> in so many different places
+                    gave cause to their introducing so many Female Deities which upon Examination
+                    are found all one. The Names were imported from <placeName ref="pl2668">Egypt</placeName> — The Priests of <placeName ref="pl2704">Dodona</placeName> were the first who were prevailed on to adopt them and
+                    thereby insensibly overturned their own Religion when Men became the Objects of
+                    their adoration instead of Him who is coexistent with all time and Space and
+                    thus as far as the Greeks and Romans carried their Victorious Arms among the
+                    Celtic Tribes they atempted to bring their own Religion along with them. It was
+                    surely after penetrating into the depths of Antiquity that the judicious <bibl type="authorial"><title ref="bi0670">Juvenal</title></bibl> delineating the
+                    simple honesty in <persName ref="pe1944">Saturn's</persName> Reign when
+                        <persName ref="pe1943">Jupiter</persName> and <persName ref="pe1945">Juno</persName> were Infants and Several other gods had not Existence cried
+                    out</p>
+                <p><quote>Nec turba Deorum <l>Talis, ut est hodie, contentaque sidera paucis</l>
+                        <l>Numinibus miserum urgebant Atlanta minori</l>
+                    <l>Pondere ––––– &amp;c.</l></quote><note type="editorial">Juvenal, <bibl type="editorial"><title ref="bi0670">Satires</title></bibl>, XIII.
+                            Rev. M. Madan's <hi rend="italic">A New and Literal Translation of
+                                Juvenal and Persius</hi> 2 vols. (London: 1789), renders the lines
+                            thus: <l>'nor was the crowd of gods</l>
+                            <l>Such as it is at this day and the stars content with a few</l>
+                            <l>Deities, urged miserable Atlas with a less</l>
+                            <l>Weight'</l>, ii, p.139.</note></p>
+                <p>I shall end with one or two reflections on this Subject just as they offer
+                    themselves in my Way. First our Ancestors properly speaking worshiped but one
+                    God the Father of all to whom alone and when conjoined in the Annual Solemnities
+                    of <persName ref="pe1918">Anait</persName> Human Sacrifices were offered though
+                    they paid a Subordinate degree of respect to inferior Intelligences who they
+                    supposed were charged with the Care and Superintendance of the several
+                    Departments of Nature and the Worship paid the Earth who they knew to be a dead
+                    insensible Lump of Matter can arise solely from its being the passive Subject
+                    whence they supposed every thing created by the Almighty hand and it is
+                    observable that the Divination by Water of the noble Cascade <placeName ref="pl2706">Bereraig</placeName> in the Neighbouring Parish was called
+                        <placeName ref="pl2706">Ti-ghairm an-Uisk</placeName>, that is calling on
+                    the Name of <persName ref="pe1919">Ti</persName> by Water though it was an
+                    Article of their Creed that the Water itself was committed to the care of a
+                    particular Spirit. It can therefore be no mistake to believe that the Solemnity
+                    above described was originally meant to preserve the Memory of the Creation, in
+                    which the Earth when she opens her Bosom in Spring to produce Subsistance for
+                    Man and <pb/><fw>11<hi rend="superscript">th</hi></fw> Beast represents a Mother
+                    after Childbearing who upon her Recovery visits her Relations, is with all her
+                    Attendants chearfully and hospitably received by them and because the Women in
+                    this case were thought polluted by Jews and Gentles before Purification, this
+                    Goddess was Washed before she would be received into her holy Seat. This
+                    Universal Tradition of a Creation among barbarous unconnected Tribes adds to the
+                    Credibility of the Mosaic history. Next, the practice of Sacrificing animals and
+                    among these Prisoners, Slaves or Freemen to <persName ref="pe1919">Ti</persName>
+                    and at the Festival in honour of the Earth could only be conveyed by Tradition
+                    and that Tradition could arise but from Precept: for who could prevail with
+                    himself to think that destroying an innocent Creature could honour God or
+                    anciliate his favour if he were not assured upon infallible Authority that
+                    sheding of Blood was an acceptable Atonement when attended with a proper
+                    Disposition of Mind in the Sacrificer; the whole Ceremony consisting in Prayer
+                    to <persName ref="pe1919">Ti</persName>, shedding the Blood and Eating the
+                    Victim for people who had but <add place="above">a</add> scanty livelihood did
+                    well not to burn the Flesh to no purpose and the Poor among the Greeks were
+                    indulged in the same peice <add place="above">of Economy</add>. Human Sacrifice
+                    upon a Search into <add place="above">the</add> histories of different Sects and
+                    Countries would be found almost universally practised from <placeName ref="pl2707">Mexico</placeName> to the <placeName ref="pl2708">Ultima
+                        Thule</placeName>.<note type="editorial">Ultima Thule was the name given by
+                        ancient geographers and cartographers to the northern-most island of the
+                        world, and was used more symbolically by later writers to refer to the
+                        extreme north, though it is also occassionally identified with specific
+                        landmasses such as Iceland.</note> The Jews themselves did not escape the
+                    infection when the numerous Nations around them were given to this barbarous
+                    Inhumanity. Upon the whole the Inhabitants of <placeName ref="pl1176">Europe</placeName> brought their Religion from the East in an early period,
+                    but not untill they began to offer Human Sacrifices and to kiss their hands to
+                    the Sun and Moon, nor were the Grand Sons or great grand sons <add place="above">of</add>
+                    <persName ref="pe1625">Noah</persName> under any Necessity on Account of
+                    Multiplied Numbers to exchange the pleasant extensive Plains of <placeName ref="pl1622">Asia</placeName> for the cold Mountainous country of <placeName ref="pl2671">Asia minor</placeName> or the Still more inhospitable Lands of
+                        <placeName ref="pl1176">Europe</placeName> ––––– <lb/>turn over</p>
+                <pb/>
+                <fw>12</fw>
+                <p><handShift/>I might properly Enough remark here that their Religious Festivals
+                    were Always attended with Songs and dances — that tho Many of the Heroic Songs
+                    are preserved As the Military spirit subsisted after the Change of Religion, yet
+                    the Zeal of our first Reformers very probably destroyed all Memory of the Sacred
+                    Hymns which I am apt to believe is no great Loss to the Curious, for their
+                    Religio consisted all in External Ceremonies being very different in Speculation
+                    &amp; delicacy. I have heard a Fragment of a Dance song they used at watching
+                    their Dead which is Utterly void of Sentiment And the Chorus consists only of
+                    bawlings &amp; Exclamations which Animated the dance. I have also hear a more
+                    Sober Song contrived to help the Moon out of Labour When Under an Eclipse in
+                    concert with the Additional noise of pans &amp; Ketles. They Address themselves
+                    to the Golden Queen — the fair one — crying Loud to her in Chorus to Awake — to
+                    roll herself — to raise — to Shake off her Covering. The words are Significant
+                    but void of Sentiment — Labour and Move stars As the moon gradually clears off
+                    her Mask — And I am affraid that Tradition hath brought down to our Herds a
+                    small Fragment of that which was sung at the Festival of Anait — It is the
+                    Essence of Filthyness and coud not touch any Chaste Ear — the Chorus is a kind
+                    of <unclear reason="illegible">Jo Bàche</unclear>. Our old Friends coud form no
+                    Idea of a Creation but a very course One And their Indelicacy is still preserved
+                    in the Names which they gave to some places in <placeName ref="pl0711">the
+                        Highlands</placeName> yet their Chastity was more Pure that of the Present
+                    Age. </p>
+            </div>
+            <div type="letter">
+                <opener>Sir</opener>
+                <p>I am Sensible how Litle you will be Entertained by the Inclosed Papper Where you
+                    will meet with so many words of a Language to which you Are an Utter stranger
+                    And a Subject much out of the common road of the Learned: but you have Laid your
+                    Commands Upon Me and I obeyed and found so Many Allusions to the Druids And
+                    their Custos Ingrained in the Gaulic that I coud not help, sparingly indeed, to
+                    Pick Up some of them. There is none of them however, strained to serve the
+                    Purpose — they Are the Plain, Literal words without Undergoing the Least degree
+                    of Torture. If the subject was worth the Pursuing And my way of managing it
+                    Passable you will see there is a great deal more remains Untouched. Confinement
+                    by a Cold gave me Time to throw this trouble in Your Way before I <del rend="overstrike"><unclear reason="illegible">received</unclear></del><add place="above">had</add> an acknowledgement of Your having received My Last,
+                    for the Confusion we are put into by this Emigration for <placeName ref="pl0697">America</placeName> woud perhaps take Up too Many of My hours which would
+                    have been more agreeably Laid out Upon Any the Most barren, obsolete
+                    Subject.</p>
+                <p>If this comes to Your hand at <placeName ref="pl0699">London</placeName>, you
+                    will please present My most humble respects to <persName ref="pe0109">Mr
+                        Archibald Macdonald</persName>, who I had Expected woud have made some
+                    Effort to Make us Easy. This and the Other Islands in my Neighbourhood Are much
+                    in the same situation.</p>
+                <closer><salute>I wish You health And Prosperity And I am with much Esteem <lb/>Dr
+                        Sir, <lb/>Your very humble &amp; Obedient Servant</salute>
+                    <signed><persName ref="pe0069">Don: Macqueen</persName></signed>
+                    <dateline><placeName ref="pl0742">Kilmuir</placeName> February the 28<hi rend="superscript">th</hi>
+                        <lb/>1773. <lb/>direct. . . . . by <placeName ref="pl0660">sconser</placeName></dateline></closer>
+                <postscript>
+                    <p>turn over <pb/>I have been informed that you picked up in your Travells in
+                            <placeName ref="pl0711">the Highlands</placeName> what we call the
+                        Serpent-Stone, found, it is said, among a Cluster of Serpents twisted
+                        together in the Open fields and holed thro by their tails when the Substance
+                        of it was soft. To this stone our common people attribute many virtues, Such
+                        As cūring the bite of a Serpent, Sucess in an Undertaking And particularly
+                        Ease And safety to women in Child bed when tyed about the thigh. If it hath
+                        not Already Occurred to You, Please to cast your Eye Upon <bibl type="authorial"><title ref="bi0635">Pliny book the 29<hi rend="superscript">th.</hi> Chap. 12<hi rend="superscript">th.</hi></title></bibl> And You will find this peice of
+                        Priest-craft was not confined to our Country — the Gauls had it among them
+                        and I am not so much <gap reason="illegible" unit="letters" quantity="1"/>urprized that the Stupid Blockhead, the Ludibrium Aulæ augusti Augusti,
+                        the <persName ref="pe1946">Deifyed Claudius</persName> shoud Put a Roman
+                        Knight to Death for carrying this Bauble about him on an Interesting
+                        Occassion As that Millions of Rational Creatures shoud in a Long Succession
+                        of Ages reckon this peice of Painted Glass or Any Other insignificant
+                        Materials a valuable Acquisition because a Druid passed his word for it
+                        Several Centuries ago.<note type="editorial">Pennant describes the '<hi rend="italic">Glain-naidr</hi>' or '<hi rend="italic">Serpent-stone</hi>' in <bibl type="editorial"><title ref="bi0008">A
+                                    tour in Scotland and voyage to the Hebrides 1772</title></bibl>
+                            (1774), pp.342-43, where, following MacQueen's suggestion, he makes
+                            reference to the anecdote from Pliny.</note> An Elderly woman brought me
+                        one fo the stones some Litle time since which she had Left her by a Grand
+                        mother — the Crust of it was worn Away in different places having been Long
+                        And Much Used.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><handShift/>96 <lb/>M<hi rend="superscript">r</hi> Macqueen. <lb/>Druidism.
+                    <lb/>glainnaidr.</p>
+                <p><handShift/><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>Thomas Pennant Esqr</addrLine>
+                        <addrLine>of Downing in Flintshire</addrLine>
+                        <addrLine>To the care of <persName ref="pe0018">Mr Jackson</persName>
+                            Secretary to the Post Office</addrLine>
+                        <addrLine><placeName ref="pl0076">Edin<hi rend="superscript">r</hi>
+                                —</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

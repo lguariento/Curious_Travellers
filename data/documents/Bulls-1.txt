@@ -1,0 +1,3 @@
+<ab>
+    <persName xmlns="http://www.tei-c.org/ns/1.0" ref="pe0331">Elizabeth</persName> and <persName xmlns="http://www.tei-c.org/ns/1.0" ref="pe0336">Catherine</persName> Bull.
+</ab>

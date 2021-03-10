@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1014">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 16</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p><hi rend="italic">Condition</hi>: One ink blot; a small corner of the paper torn away; a partially visible postmark.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1781-12-02"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton street Piccadilly</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>
+                    <dateline><placeName ref="pl0001">Downing</placeName>
+                        <choice>
+                            <abbr>Dec<hi rend="superscript">r</hi></abbr>
+                            <expan>December</expan>
+                        </choice> 2<hi rend="superscript">d</hi> 1781</dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+                <p>I had the happiness of being brought up under parents<note type="editorial">Thomas Pennant was the son of <persName ref="pe0341">David Pennant</persName> and <persName ref="pe0342">Arabella (née Mytton)</persName>.</note> who instilled into
+                    me early, fit notions of the dispensations of providence. I <del>am</del> have
+                    in consequence been thereby enabled to rejoice at every piece of good fortune
+                    that has befallen us, &amp; bear resignedly the bad: of which Heaven at present
+                    has been pleased to pour down a very large portion indeed.</p>
+                <p>I shall continue in the Country as it becomes a man who h<gap unit="letters" quantity="1" reason="illegible"/><supplied>a</supplied>s on him large
+                    dependencies: people who are not indifferent to my absence or presence. I
+                    rejoice that I have some amusements that at <del>d</del>times drive away the
+                    thoughts of our Calamities, &amp; those amusements I shall doubly cultivate.</p>
+                <p><persName ref="pe0338">Bartollozi</persName> by dint of an attorney’s
+                    quil returned the drawings: one he had begun to etch: the others untouched. I
+                    hear a bad account of him.</p>
+                <p><persName ref="pe0014">Moses</persName> is working hard for you: but
+                    there is no finishing till spring: Pray remember you cannot bind up <bibl type="authorial"><title ref="bi0013">snowdon</title></bibl> as
+                    there is a second part to appear. which I shall endeavour to bring out by
+                    Christmas. 1782<note type="editorial"><hi rend="italic">The Journey to Snowdon</hi> (1781) was vol. 2,
+                        part I, of Pennant's <hi rend="italic">A tour in Wales</hi>. Vol. 2, part II, appeared in 1783
+                        (this also subdivided into 'The Continuation of the Journey' and 'From
+                        Downing to Montgomery and Shrewsbury').</note></p>
+                <closer><salute>I am <lb/>most faithfully <lb/><choice>
+                        <abbr>Y<hi rend="superscript">rs</hi></abbr>
+                        <expan>Yours</expan>
+                    </choice></salute>
+                    <signed><persName ref="pe0232"><choice>
+                                <abbr>T.</abbr>
+                                <expan>Thomas</expan>
+                            </choice> Pen<gap unit="letters" quantity="4" reason="illegible"/><supplied>nant</supplied></persName></signed>
+                </closer>
+                <postscript>
+                    <p>P.S. I enclose a rough list of the drawings in <bibl type="authorial"><title ref="bi0013">vol. I. II.</title></bibl> Pray return it
+                        after you have copied it.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark">PENY POST PAYD <gap unit="letters" quantity="3" reason="illegible"/><note type="editorial">A triangular mark.</note>; <gap unit="letters" quantity="3" reason="illegible"/><note type="editorial">A round stamp, only half of which is
+                        visible.</note></stamp>
+                    <gap unit="letters" quantity="3" reason="illegible"/> 0</p>
+                <p><address>
+                        <addrLine><persName ref="pe0313">Richard Bull</persName>
+                            <choice>
+                                <abbr>esq<hi rend="superscript">r</hi></abbr>
+                                <expan>esquire</expan>
+                            </choice> | <placeName ref="pl0759">Stratton street</placeName> |
+                            <placeName ref="pl2035">Piccadilly</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

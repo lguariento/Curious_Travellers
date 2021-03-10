@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0008">
+    <teiHeader type="w">
+        <fileDesc>
+            <titleStmt>
+                <title>Katherine Plymley, ‘Journey to Anglesey’
+                    <date>1792</date></title>
+                <respStmt>
+                    <name>Edited with an introduction by Elizabeth Edwards</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Shrewsbury</settlement>
+                        <repository>Shropshire Records and Archive Centre</repository>
+                        <idno>567/5/5/1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>1</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb n="1v"/>
+                <fw>f. 1v</fw>
+                <p><date>August 13<hi rend="superscript">th</hi> 1792</date>
+                    <lb/><persName ref="pe0923">My Brother</persName>, <persName ref="pe1217">M<hi rend="superscript">rs.</hi> Plymley</persName>, <persName ref="pe1218">Panton</persName>, <persName ref="pe1219">Josepha</persName>, &amp;
+                        <persName ref="pe1220">Jane</persName> set out on a visit to <persName ref="pe0323">M<hi rend="superscript">r.</hi> Panton</persName>'s in
+                        <placeName ref="pl1093">Anglesey</placeName> &amp; through the kindness of
+                        <persName ref="pe0923">my Brother</persName>
+                    <persName ref="pe1061">my Sister</persName> &amp; I accompanied them. We were a
+                    large party, <persName ref="pe0923">my Brother</persName>, <persName ref="pe1217">M<hi rend="superscript">rs.</hi> Plymley</persName>, &amp; two
+                    of the young folks in their own chaise, <persName ref="pe1061">my
+                        Sister</persName>, myself, the other little girl &amp; a <persName ref="pe1581">a maid servant (Nancy Hotchkiss)</persName> in another – two
+                    men Servants &amp; two led Horses, on which some- <pb n="2r"/>
+                    <fw>f. 2r</fw> times <persName ref="pe0923">my Brother</persName>, &amp; often
+                    my Nephew rode – <lb/>It was a fine morning, we passed an hour or two in
+                        <placeName ref="pl0740">Shrewsbury</placeName> &amp; about 12 o’ clock set
+                    out from thence – <lb/>Pretty woody scenery coming down to <placeName ref="pl1944">Montford bridge</placeName>. considerable plantations belonging
+                    to <persName ref="pe1221">Lord Clive</persName> - the church at a small distance
+                    on the left, white &amp; back'd finely by the hills – a new bridge nearly
+                    finished of three arches – A little further, on <add place="above">the
+                        right</add>
+                    <placeName ref="pl1945">Hensdon house</placeName> built by <persName ref="pe1221">Lord Clive</persName> - <pb n="2v"/>
+                    <fw>f. 2v</fw> now inhabited by farmers – <placeName ref="pl1946">Ness</placeName> on the right, at a little distance from the road, 2 or 3
+                    good houses – <lb/>a little farther, are fine rocks rising among trees, on the
+                    right, some small plantations of Firs on their tops, in these rocks is a cave,
+                    known by the name of <placeName ref="pl1947">Kynaston’s cave</placeName>, at
+                    present inhabited by a poor family – <lb/>As we proceed we pass <placeName ref="pl1948">Aston</placeName> on the left, the seat of <persName ref="pe1582">Mr. Lloyd</persName>, pretty planta- <pb n="3r"/>
+                    <fw>f. 3r</fw> tions about it. the church is very near the house. here is a fine
+                    view of the hills, indeed the whole way from <placeName ref="pl0740">Shrewsbury</placeName> to this place the <placeName ref="pl2393">Breyddin</placeName>, <placeName ref="pl1950">Moel y Gollfa</placeName>,
+                    &amp; <placeName ref="pl1951">Cevn y Castell</placeName>, (<placeName ref="pl1242">Montgomeryshire</placeName> hills) present a fine prospect to
+                    the left – from hence <placeName ref="pl1952">Oswestry church</placeName> &amp;
+                    many of the houses appear among trees, well back’d by hills – the whole country
+                    finely wooded – <lb/>Dined at <placeName ref="pl1260">Oswestry</placeName> (18
+                    mile from <placeName ref="pl0740">Shrewsbury</placeName>) the church yard <pb n="3v"/>
+                    <fw>f. 3v</fw> is pleasant, &amp; there are some very good houses about it –
+                    <lb/>The road was excellent the whole way from <placeName ref="pl0740">Shrewsbury</placeName> &amp; beyond <placeName ref="pl1260">Oswestry</placeName> continues equally good – to the left is a fine view of
+                    the woods about <placeName ref="pl1256">Chirk Castle</placeName> - on the right
+                    is <add place="above">seen</add> the tower of a church called <placeName ref="pl2394">S<hi rend="superscript">t.</hi> Martins</placeName> &amp; the
+                    tower of <placeName ref="pl1953">Chirk church</placeName> before us – the road
+                    very steep down to the bridge, as we approached <placeName ref="pl3069">Chirk</placeName>, &amp; when pass’d the bridge the ascent is equally steep
+                        <pb n="4r"/>
+                    <fw>f. 4r</fw> to the town. The view very fine; beautiful woods on each side the
+                    road – &amp; the brook over which is the bridge at the bottom – <lb/>Just beyond
+                        <placeName ref="pl3069">Chirk</placeName> pass the kitchen garden belonging
+                    to the castle on the right – a great distance from the house – fine view of
+                        <placeName ref="pl0761">Wynnstay</placeName> at some distance on the right
+                    &amp; <placeName ref="pl1256">Chirk castle</placeName> on the left &amp; of the
+                    woods belonging to each – Turning into a road <pb n="4v"/>
+                    <fw>f. 4v</fw> on the left we enter the <placeName ref="pl0793">vale of
+                        Llangollen</placeName>, rather a narrow, but a beautiful &amp; sublime
+                    valley. Thro the greatest part the road is formed on the side of a hill or
+                    hills, rising directly on the left hand &amp; a precipice on the right, to the
+                    bottom – the road uncommonly excellent. <add place="above">at</add> the bottom
+                    of the precipice the <placeName ref="pl1138">river Dee</placeName> winds in a
+                    most beautiful manner, beyond it rise hills, suddenly <pb n="5r"/>
+                    <fw>f. 5r</fw> in picturesque shapes, with marked summits, one in particular on
+                    the top of which is <placeName ref="pl0794">Castle Dinas Brân (or Crow
+                        castle)</placeName> is uncommonly fine. the whole is finely wooded – It was
+                    one of those serene &amp; cheerful evenings when every thing appears so calm
+                    &amp; peaceful, smoaks ascended in many places among the trees, beautiful light
+                    streaked the western sky &amp; was reflected with great lustre <pb n="5v"/>
+                    <fw>f. 5v</fw> in the river, as we caught it in its different turns among the
+                    trees – night came on just before we entered <placeName ref="pl0793">Llangollen</placeName> &amp; every thing suited the solemnity of the scene
+                    – <lb/><date>14<hi rend="superscript">th.</hi></date>
+                    <lb/>Walk’d this morn<hi rend="superscript">g.</hi> to <placeName ref="pl1614">Plas Newydd</placeName> the beautiful cottage belonging to <persName ref="pe0954">Lady Elinor Butler</persName> &amp; <persName ref="pe0957">Miss
+                        Ponsonby</persName> it is almost contiguous to <placeName ref="pl0793">Llangollen</placeName>. being not fully <pb n="6r"/>
+                    <fw>f. 6r</fw> apprised that it was a necessary ceremony to send a written
+                    message we sent a verbal one, a very civil answer was returned informing us we
+                    should be very welcome to see it if we would send a written message, which being
+                    done a note was returned written in a very fine hand – It is small but very neat
+                    &amp; elegant. <pb n="6v"/>
+                    <fw>f. 6v</fw> Only two rooms are shewn, a small dining Parlour, ornamented with
+                    drawings, some by artists &amp; some by friends – One demands particular
+                    attention, it is hung over the chimney piece &amp; represents an inside view of
+                        <placeName ref="pl1782">Tintern Abbey</placeName>, drawn in crayons,
+                    beautifully tinted, by Miss <persName ref="pe1222">Harriet Bowdler</persName>.
+                    Thro’ this parlour is the Study, a beautiful small <pb n="7r"/>
+                    <fw>f. 7r</fw> gothic room, a study table in the middle, a compass window with a
+                    great deal of painted glass: three gothic bookcases let into the wall, brass
+                    wire doors, a gothic chimney piece over which are several pleasing miniature
+                    portraits of some of their friends – several good prints framed &amp; glazed –
+                    view from the window a small lawn surrounded by <pb n="7v"/>
+                    <fw>f. 7v</fw> trees &amp; shrubs, a view of hills above them among which
+                        <placeName ref="pl0794">Castell Dinas Bran</placeName> is conspicuous &amp;
+                    forms a fine feature. The pleasure ground is entered thro’ a prettily contrived
+                    gothic door with a bell hung in the ornamented top – it consists of little more
+                    than a gravel walk, kept in nice order, being swept with a hair broom, through
+                        <pb n="8r"/>
+                    <fw>f. 8r</fw> shrubs surrounding the lawn. There are some seals with
+                    inscriptions, chiefly in French – I suppose there are few places that travellers
+                    make a point of seeing, so small, &amp; it perhaps owes much of its celebrity to
+                    the romantic history of its inhabitants. Two young ladies leaving all their
+                    friends in <placeName ref="pl0889">Ireland</placeName>, landing <del>in</del>, I
+                    think <add place="above">in</add>
+                    <placeName ref="pl1245">south <pb n="8v"/>
+                        <fw>f. 8v</fw> Wales</placeName>, &amp; wandering till they fixed on this
+                    spot, making a vow never to sleep out of it, which was for many years kept, it
+                    has, I am told, lately been dispensed with – It is said they had very unpleasant
+                    homes, but as their Fathers were living their income, having left them
+                    privately, was very confined. they are now reconciled to their friends <pb n="9r"/>
+                    <fw>f. 9r</fw>
+                    <persName ref="pe1583">Lady Elinor’s father</persName> is dead, &amp; she is, I
+                    understand, in very good circumstances. <lb/>The view from <placeName ref="pl0793">Llangollen</placeName> churchyard is very good, it stands high
+                    above the <placeName ref="pl1138">Dee</placeName> - but is terribly crowded with
+                    beggars, most of them young children, many however old enough to procure their
+                    own living, at least to do much towards it; it is melancholy to see <pb n="9v"/>
+                    <fw>f. 9v</fw> the rising generation brought up in such total idleness.
+                        <placeName ref="pl1714">Llandysilio</placeName> being only two miles
+                    distant, <persName ref="pe0923">my B<hi rend="superscript">r.</hi></persName>
+                    Called upon <persName ref="pe1223">M<hi rend="superscript">r.</hi>
+                        Jones</persName> who pressed him much to bring all his party to dine with
+                    him, &amp; promised to meet us at <placeName ref="pl0785">Valle Crucis
+                        Abbey</placeName> which lies a very short way from the road. <persName ref="pe1223">M<hi rend="superscript">r.</hi> Jones</persName> was punctual,
+                    &amp; we saw the beautiful remains of this <pb n="10r"/>
+                    <fw>f. 10r</fw>
+                    <placeName ref="pl0785">Abbey</placeName> which quite answered my expectation,
+                    the west end is uncommonly fine, the best representation of it I ever saw is <rs type="art" ref="ar0329">a drawing</rs> of <persName ref="pe1223">M<hi rend="superscript">r.</hi> Jones</persName> which he had the goodness to
+                    give me, &amp; which I esteem much – one part of the ruin is much disfigured by
+                    a smart modern <placeName ref="pl2395">summer house</placeName> with a straight
+                    canal by the side of it, built by the owner to make <pb n="10v"/>
+                    <fw>f. 10v</fw> dining parties in – The road from hence to <placeName ref="pl1714">Llandysilio</placeName> is very beautiful thro’ a birch wood,
+                    among them many of the hanging birch finer than any I had before seen, the
+                        <placeName ref="pl1138">river Dee</placeName> runs among the trees at the
+                    bottom over a very rocky bed &amp; has a fine effect. Coming out of the Wood,
+                        <add place="above">the view of</add>
+                    <placeName ref="pl1714">Llandysilio</placeName> is very striking, the house
+                    appears embosomed <pb n="11r"/>
+                    <fw>f. 11r</fw> in woods which conceals the walled garden in from &amp; the cut
+                    yews which on a nearer approach disfigure a place that nature has been profusely
+                    kind to, its possessor too has very good taste but too indolent to exert it, his
+                    intimate friends have remonstrated in vain, he admits the justice of their
+                    remarks but the yew trees still <pb n="11v"/>
+                    <fw>f. 11v</fw> stand &amp; walls still surround the house – he &amp; his sister
+                    received us most hospitably, we dined &amp; drank tea with them &amp; then
+                    proceeded to <placeName ref="pl1303">Corwen</placeName>; the <placeName ref="pl1138">River</placeName> running between <placeName ref="pl1714">Llandysilio</placeName> &amp; the road to that place obliged us to return
+                    to <placeName ref="pl0793">Llangollen</placeName>. The <placeName ref="pl1954">bridge</placeName> has five arches &amp; is over a part of the <placeName ref="pl1138">Dee</placeName> where the bed is more than commonly <pb n="12r"/>
+                    <fw>f. 12r</fw> rocky, it is, as it were, quite sheets of rock – In the road to
+                        <placeName ref="pl1303">Corwen</placeName> when opposite to <placeName ref="pl1714">Llandysilio</placeName> the view is remarkably beautiful. The
+                    road is cut out of a rocky hill, about midway up it, a precipice down to the
+                    river, which winds with uncommon beauty over a rocky bed, the sides wooded to
+                    the edge of the water, the trees in some <pb n="12v"/>
+                    <fw>f. 12v</fw> of the turns concealing it – <placeName ref="pl0794">Dinas
+                        Bran</placeName> appears very fine – the birch wood we passed through to
+                        <placeName ref="pl1714">Llandysilio</placeName> here appears in grand beauty
+                    from the opposite side – <placeName ref="pl1714">Llandysilio</placeName> again
+                    shews all its beauties &amp; conceals its defects, wooded in front, wooded
+                    fields appearing like fine lawns rising behind it – A singularly rocky hill
+                    called the <placeName ref="pl1955">Glisseg rocks</placeName>
+                    <pb n="13r"/>
+                    <fw>f. 13r</fw> forms a striking feature great part of the road – after having
+                    travelled along this precipice which in general having no fence, may create some
+                    alarm notwithstanding the road is wide &amp; uncommonly good if the beautiful
+                    scenery did not almost exclude other ideas, we come into a low &amp; rather
+                    dreary road, though I think it is only <pb n="13v"/>
+                    <fw>f. 13v</fw> for a very short way that it is allowable to term it dreary – we
+                    reach <placeName ref="pl1303">Corwen</placeName> in the dusk of a fine evening.
+                        <lb/>15<hi rend="superscript">th.</hi> Delightful morning – look at the
+                        <placeName ref="pl1665">church</placeName>, in form of a Cathedral. one part
+                    appropriated for a school, the boys were just assembling, most of them without
+                    shoes or stockings which to those not much <pb n="14r"/>
+                    <fw>f. 14r</fw> accustomed to see it appeared very comfortless, I <add place="above">hope</add> habit makes it no great inconvenience to the boys,
+                    for they were otherwise full as well dressed as those of the same rank in
+                        <placeName ref="pl0775">England</placeName> - Fine views from the church
+                    yard which is situated under a vast rocky hill – In the church yard is a
+                    building consisting of six small houses, for the widows of clergy <pb n="14v"/>
+                    <fw>f. 14v</fw> in <placeName ref="pl1235">Merionethshire</placeName> only, it
+                    is of stone, as the houses in general in this part of the country are – Set out
+                    – pass a <placeName ref="pl1956">bridge</placeName> of 5 arches over the
+                        <placeName ref="pl1138">Dee</placeName>, fine views down the river, but more
+                    like <placeName ref="pl0775">England</placeName> than what I have lately seen –
+                    pass <placeName ref="pl2396">Rûg</placeName> on the right – an old house, pretty
+                    little brook, wood behind &amp; small chapel not far distant, <pb n="15r"/>
+                    <fw>f. 15r</fw> pass another bridge of 2 wide arches over the <placeName ref="pl1138">Dee</placeName> - the river winds on the left side of the road
+                    over a very gravelly &amp; in some parts very rocky bed – See <placeName ref="pl2397">Maes Mawr</placeName> on the right – The road assumes a more
+                    romantic appearance – pass a bridge of 1 arch over the Tower – Go up rather a
+                    steep ascent with fine rocks rising directly on <pb n="15v"/>
+                    <fw>f. 15v</fw> the right on the left a stone wall – we alight – Look over the
+                    wall on <add place="above">the <placeName ref="pl2398">Glyn</placeName></add> a
+                    most beautiful wooded glen through which a brook dashes over a rocky bed. the
+                    ground rises suddenly on the other side, Fine rocks bursting through the trees –
+                    As we walk the beauty of this noble scenery increases. A cascade falls <pb n="16r"/>
+                    <fw>f. 16r</fw> down the rocks between the trees, at one place resting, as it
+                    were, in a basin &amp; then dashing with impetuosity over the rocks – The Sun
+                    shone bright upon the water &amp; added to the lustre of the scene – after this
+                    delightful glen, the road becomes rather barren &amp; dreary – hills with
+                    scarcely a tree, &amp; very few inclosures, a bridge of <pb n="16v"/>
+                    <fw>f. 16v</fw> one arch appears in the midst of the scene. Pass <persName ref="pe2163">Mr. Wynne</persName>'s <add place="above"><placeName ref="pl1957">Veolas</placeName></add> on the right, a white house with
+                    trees about it, a bridge near it – one wide arch – On all sides extensive heaths
+                    – stone wall enclosures &amp; here &amp; there a tree &amp; hedge – Pass through
+                    the first village I’ve seen with the church bells placed in open arches. See the
+                    road a long way <pb n="17r"/>
+                    <fw>f. 17r</fw> before us in rather a barren country, but the view rendered very
+                    striking by a noble sight of the <placeName ref="pl1234">Caernarvonshire</placeName> mountains at a great distance whose noble &amp;
+                    grotesque summits rising one above another seem at last to hid themselves in the
+                    clouds; the day was very clear &amp; the blue colour of them beau- <pb n="17v"/>
+                    <fw>f. 17v</fw> tiful – here I caught the first sight of <placeName ref="pl2862">Snowdon</placeName>, farther distant than any of the rest of this grand
+                    chain. our <placeName ref="pl1021">Shropshire</placeName> hills shrank into
+                    banks in my imagination whilst I contemplated this grand scenery. Change horses
+                    at <placeName ref="pl1576">Shernioge</placeName>, a single house with some trees
+                    about it. – Pass through the village of <placeName ref="pl3070">Voylass</placeName>, the church on the right &amp; the <pb n="18r"/>
+                    <fw>f. 18r</fw> hall house – some woods about it – The road becomes dreary –
+                    Lose sight of the mountains – An uncommon rocky brook – Nothing but heaths –
+                    Again see the <placeName ref="pl1234">Caernarvonshire</placeName> mountains
+                    appear rocky, without verdure – the view bold &amp; romantic – Ascend rather a
+                    steep, a precipice to the left, reach the top. the beautiful vale of <placeName ref="pl1533">Llanrwst</placeName>
+                    <pb n="18v"/>
+                    <fw>f. 18v</fw> opens upon us, a steep down to it – fine view of the <placeName ref="pl1533">Town</placeName> with the beautiful <placeName ref="pl1531">bridge</placeName> of <persName ref="pe1159">Inigo Jones</persName>, the
+                    situation very charming in a rich valley surrounded with hills. The <placeName ref="pl2384">Conway</placeName>, here a very small river, runs on our left
+                    in its course to <placeName ref="pl1533">Llanrwst</placeName> - Dine at
+                        <placeName ref="pl1533">Llanrwst</placeName> – <placeName ref="pl1879">Church</placeName> in the form of a Cathedral, one chapel entirely belongs
+                    to <pb n="19r"/>
+                    <fw>f. 19r</fw> the <placeName ref="pe1586">Gwydir family</placeName>. it is
+                    their burial place – Pass <placeName ref="pl1532">Gwydir</placeName> on the
+                    left, very near <placeName ref="pl1533">Llanrwst</placeName>. back’d by a fine
+                    wood, very old house, the ancient seat of the <persName ref="pe1587">Wynnes</persName>. now possessed by a branch of the <persName ref="pe2164">Duke of Ancaster’s</persName> family <note type="editorial">Gwydir Castle
+                        passed from the Wynn family to the Duke of Ancaster by marriage in the late
+                        seventeenth century.</note> - The road from hence to <placeName ref="pl1049">Conway</placeName> is through a fine valley surrounded by hills, consisting
+                    of fine meadow, <pb n="19v"/>
+                    <fw>f. 19v</fw> pasture &amp; arable land, several houses interspersed, here was
+                    hedges &amp; trees – the <placeName ref="pl2384">river Conway</placeName> on the
+                    right gradually encre<add place="above">a</add>sing in width. In approaching
+                        <placeName ref="pl1049">Conway</placeName> I was quite struck with the
+                    magnificence of the <placeName ref="pl1530">Castle</placeName>. I have seen many
+                    views of it which had given me some idea of its form, but I never saw the place
+                    that a drawing is so inadequate to represent, never <pb n="20r"/>
+                    <fw>f. 20r</fw> were my expectations so far surpassed, its awful vastness &amp;
+                    magnificence to be conceived must be seen. <persName ref="pe1061">My
+                        sister</persName> very well said, as we approach’d the gate-way leading to
+                    the Tower (the noble walls of the castle surround the town) “Walk about Sion,
+                    &amp; go round about her: &amp; tell the towers thereof. Mark well her
+                    bulwarks.” (Psalm <pb n="20v"/>
+                    <fw>f. 20v</fw> 48).<note type="editorial">Psalm 48:12-13 (KJV).</note> After
+                    alighting at the Inn walk to the <placeName ref="pl1530">Castle</placeName>, the
+                    situation on a rock above the <placeName ref="pl2384">Conway</placeName>, which
+                    though I had seen it little more than a brook this morn<hi rend="superscript">g.</hi> was here especially at high tide almost a sea, is very striking
+                    &amp; adds greatly to its magnificence, the hills on the opposite shore are
+                    finely wooded. as we looked over the walls of the <placeName ref="pl1530">castle</placeName> we <pb n="21r"/>
+                    <fw>f. 21r</fw> saw the ferry boat passengers land beneath us. the time of the
+                    evening before we could persuade ourselves to leave it was late, it was dusk.
+                    The scene was uncommonly grand. On viewing this astonishing edifice, my mind
+                    dwelt with pleasure for a moment on the times in which it was erected, feeling
+                    the pleasure these noble ruins gave <pb n="21v"/>
+                    <fw>f. 21v</fw> me, I was ready to exclaim how pleasant must those times have
+                    been which saw it in its perfection, these ideas were soon checked by the
+                    reflection that the very grandeur I admired was a proof of feudal times when the
+                    many were slaves to <del>the</del>
+                    <add place="above">a</add> few powerful lords. Nothing but extensive power could
+                    have enabled anyone to construct such a building <pb n="22r"/>
+                    <fw>f. 22r</fw> &amp; the nature &amp; thought of it evince the hostilities in
+                    which these lords lived. So those who lived in those times could not raise the
+                    ideas it does in us, for antiquity adds greatly to its charms. Time has made it
+                    venerable, I am thankful to live in a time in which such buildings are useless;
+                    but it is so very fine that I hope it will always remain a monument of feu- <pb n="22v"/>
+                    <fw>f. 22v</fw> dal grandeur – <lb/>16<hi rend="superscript">th:</hi> The
+                    morning rainy, but rather cleared as we set out. The clouds resting midway on
+                    the mountains leaving the summits free, brought strongly to our recollection the
+                    lines of <persName ref="pe1224">Goldsmith</persName> rendered doubly striking by
+                    having been quoted by <persName ref="pe1590">M<hi rend="superscript">r</hi>
+                        Wilberforce</persName> when he moved the Abolition last April - <note type="editorial">A reference to a parliamentary debate on the abolition of
+                        the slave trade (2 April 1792). See <ref target="http://historyofparliamentonline.org/volume/1790-1820/member/wilberforce-william-1759-1833">here</ref> Plymley and her brother were longstanding abolitionists. As
+                        Harriet Guest explains, in her early 1790s diaries ‘Plymley allied herself
+                        with those who saw the campaign for the abolition of the slave trade as part
+                        of more all-embracing “cause of liberty” which focused on the need “to
+                        reform real defects” in the political organization of the country’. See
+                        <hi rend="italic">Unbounded Attachment: Sentiment and Politics in the Age of the French
+                        Revolution</hi> (Oxford: Oxford University Press, 2013), p. 118.</note>
+                    <lb/>As some tall cliff that lifts its <hi rend="superscript">awful form</hi>
+                    <lb/>Swells from the vale, &amp; midway leaves the storm <pb n="23r"/>
+                    <fw>f. 23r</fw> Tho’ round its breast the rolling <hi rend="superscript">clouds
+                        are spread,</hi>
+                    <lb/>Eternal sunshine settles on its head.<note type="editorial">Oliver
+                        Goldsmith, ‘The Deserted Village’ (1770), ll. 189-92, in Roger Lonsdale
+                        (ed.), <hi rend="italic">The New Oxford Book of Eighteenth Century Verse</hi> (Oxford: Oxford
+                        University Press, 1987), p. 527.</note></p>
+                <p>The road hilly – over <placeName ref="pl2400">Sychnant</placeName> it is
+                    strikingly romantic, it is an excellent road made over the hill, at the bottom
+                    lies the old narrow road, which was in some places almost impassable. we are
+                    surrounded on all sides by rocky hills, with furze &amp; a remarkably fine
+                    purple heath intermixed.</p>
+            </div>
+            <div>
+                <pb n="1v"/>
+                <fw>f. 1v</fw>
+                <p>this we had observed on many hills on our road; the day was misty with some
+                    drizzling rain, the clouds rolled over the hills which rose above us. As we
+                    advance the view opens in a point between hills to the open sea. a little
+                    farther &amp; we see the island of <placeName ref="pl1093">Anglesey</placeName>
+                    running out in a point, the <placeName ref="pl1959">Puffin Island</placeName>,
+                    &amp; <pb n="2r"/>
+                    <fw>f. 2r</fw> the promontory of <placeName ref="pl1958">Orms Head</placeName>.
+                    as we descend <placeName ref="pl2400">Sychnant</placeName>, we see before us the
+                    road over <placeName ref="pl1338">Penmaen Mawr</placeName>, perpendicular over
+                    the sea – reach <placeName ref="pl1338">Penmaen Mawr</placeName>, an excellent
+                    road cut in the rocks &amp; secured by a wall at the edge of the precipice to
+                    the sea. we alighted &amp; walk’d over this wonderful road – looking over the
+                    wall we saw the waves <pb n="2v"/>
+                    <fw>f. 2v</fw> of the sea break against the rocks beneath us. The view a fine
+                    open sea. <placeName ref="pl1093">Anglesey</placeName>, <placeName ref="pl1959">Puffin Island</placeName> &amp; <placeName ref="pl1958">Orms
+                        Head</placeName>, a noble cape rising high out of the waves – on the other
+                    hand the side of this great rock rises perpendicular above our heads with crags
+                    standing out in a stupendous manner; such is now this road, formerly almost
+                    impassable &amp; no wall <pb n="3r"/>
+                    <fw>f. 3r</fw> to secure the travellers from being through a false step thrown
+                    into the sea – <del>Pass</del> The day continued misty, pass <placeName ref="pl0799">Bangor</placeName>, some good houses &amp; the <placeName ref="pl2025">Cathedral</placeName> looks very picturesque among trees –
+                    Reach <placeName ref="pl1563">Bangor Ferry</placeName> about a mile &amp; half
+                    beyond the town. Send the horses in one boat, cross ourselves in another. the
+                        <placeName ref="pl1564">Menai</placeName>, this arm of the sea appears a <pb n="3v"/>
+                    <fw>f. 3v</fw> most noble &amp; beautifully winding river, it is so surrounded
+                    with hills, that few winds affect it. it was today quite still. the low rocky
+                    shore of <placeName ref="pl1093">Anglesey</placeName> at the place of crossing
+                    was a fine contrast to the highly cultivated part of the shore we had seen from
+                    other parts of the road – land in <placeName ref="pl1093">Anglesey</placeName>
+                    &amp; reach <placeName ref="pl1960">Plasgwyn</placeName>
+                    <pb n="4r"/>
+                    <fw>f. 4r</fw> to dinner 6 miles from the ferry – A very handsome house, in a
+                    low situation built part on a rock &amp; part on a bog, it has many trees about
+                    it, principally ash – there are many young plantations, the only view from the
+                    house is trees except from some of the windows the hill of <placeName ref="pl1961">Llwydiert</placeName> - here we met a family, that I believe
+                        <pb n="4v"/>
+                    <fw>f. 4v</fw> were truly glad to see us, our mutual attachment to <persName ref="pe1225">my Brothers first wife</persName>, an attachment founded on her
+                    sweetness, prudence, &amp; piety, formed a strong connexion between us, &amp;
+                    the sight of her children, whom we have hitherto had the happiness to educate,
+                    was what they had long wished for, but <persName ref="pe0923">my B<hi rend="superscript">r</hi></persName>: had not been able to persuade
+                    himself to re- <pb n="5r"/>
+                    <fw>f. 5r</fw> trace the scenes he had first known her in whilst he was a
+                    widower – Our dear <persName ref="pe1219">Josepha</persName> who had not been
+                    well for some time previous to her journey was much better for travelling – When
+                    we arrived the family consisted of <persName ref="pe0226">M<hi rend="superscript">r</hi></persName>: &amp; <persName ref="pe1226">M<hi rend="superscript">rs</hi>: Panton</persName>, <persName ref="pe1227">Miss Panton</persName>, <persName ref="pe1228">Miss Elizabeth</persName>
+                    &amp; <persName ref="pe1229">W. Bulkeley Panton</persName>, &amp; <persName ref="pe1591">M<hi rend="superscript">rs</hi>: Perry</persName>, a witty
+                    woman who knew &amp; loved the <persName ref="pe1225">first M<hi rend="superscript">rs</hi>: Plymley</persName> &amp; <pb n="5v"/>
+                    <fw>f. 5v</fw> longed to see her children. In the evening we walked to
+                        <placeName ref="pl1962">Red wharf bay</placeName>, &amp; had a fine view of
+                    open sea – In the walk see many rocks – <persName ref="pe0226">M<hi rend="superscript">r</hi>: Panton</persName> has a large shrubbery,
+                    planted on very uneven ground in some parts quite steep &amp; several fine peeps
+                    at the Sea – <lb/>18<hi rend="superscript">th</hi>: <persName ref="pe0323">M<hi rend="superscript">r</hi>: P. Panton</persName> arrived he was on the
+                        circuit<note type="editorial">i.e. the legal circuit</note> &amp; came here
+                    before he went <pb n="6r"/>
+                    <fw>f. 6r</fw> to <placeName ref="pl1486">Beaumaris</placeName> &amp; brought
+                        <persName ref="pe1592">M<hi rend="superscript">r</hi>:
+                            <unclear>Mander</unclear></persName> one of the council with him, when
+                    he arrived we happened to be putting the little people to bed he ran up to our
+                    rooms &amp; welcomed us to <placeName ref="pl1960">Plasgwyn</placeName> with
+                    much kindness. <lb/>19<hi rend="superscript">th</hi>: <lb/>Went to <placeName ref="pl1963">Pentrath church</placeName> a low situation, on the road to it
+                    is a fine view to open sea, some trees about it – heard the service read in <pb n="6v"/>
+                    <fw>f. 6v</fw> Welsh for the first time today – In the evening walk upon the
+                    road to <placeName ref="pl1486">Beaumaris</placeName>, from whence is a fine
+                    view of the <placeName ref="pl1672">Carnarvonshire</placeName> mountains.
+                        <lb/>21<hi rend="superscript">st</hi>: the little girls bathed, went in the
+                    carriage &amp; it was their dressing room – <lb/>22<hi rend="superscript">nd</hi>: Went with the younger part of the family to a ball at <placeName ref="pl1486">Beaumaris</placeName> given by <persName ref="pe1230">Lord
+                        Uxbridge</persName>. A very <pb n="7r"/>
+                    <fw>f. 7r</fw> smart one &amp; a great deal of dancing. there was a supper &amp;
+                    it was very late before we returned; before the ball we drank tea at <persName ref="pe1594">Mr. <unclear>J</unclear> Pantons</persName> who is married
+                    &amp; has a small house at <placeName ref="pl1486">Beaumaris</placeName>. The
+                    road from <placeName ref="pl1960">Plasgwyn</placeName> to <placeName ref="pl1486">Beaumaris</placeName> has very fine views of the sea &amp; of
+                    the <placeName ref="pl1672">Carnarvonshire</placeName> mountains, we drove
+                    through <persName ref="pe1232">Lord Bulkeley</persName>'s <pb n="7v"/>
+                    <fw>f. 7v</fw> grounds which gave us a sight of many additional beauties –
+                        <lb/>23<hi rend="superscript">d</hi>: <persName ref="pe0323">M<hi rend="superscript">r</hi> Panton</persName> &amp; <persName ref="pe1592">M<hi rend="superscript">r</hi>: <unclear>Mander</unclear></persName>
+                    returned from <placeName ref="pl1486">Beaumaris</placeName>. <lb/>24<hi rend="superscript">th</hi>: the little girls bathed - <lb/>25<hi rend="superscript">th</hi>: We dined at <persName ref="pe1232">Lord
+                        Bulkeley</persName>'s publick day, he has one every week - this was a visit
+                    perfectly novel to me, there were at least fifty people about an equal <pb n="8r"/>
+                    <fw>f. 8r</fw> number of gentlemen &amp; ladies, <del>all</del><add place="above">most of</add> the ladies remarkably well dressed – The view
+                    from <placeName ref="pl1964">Baron hill</placeName> is the most striking I ever
+                    saw, the house, which is an excellent one, as far as I saw, &amp; has many noble
+                    rooms, stands upon an eminence above the sea. <placeName ref="pl1486">Beaumaris</placeName> is situated at the bottom of an extensive lawn close
+                    to the shore &amp; its <placeName ref="pl1968">old castle</placeName>
+                    <pb n="8v"/>
+                    <fw>f. 8v</fw> is a noble object, the sea stretches out on one hand as far as
+                    the eye extends, opposite, &amp; on the other side, the lofty <placeName ref="pl1672">Carnarvonshire</placeName> mountains bound the prospect, the
+                    bases of them are finely cultivated, the promontory of <placeName ref="pl1958">Orms head</placeName> wherever it is seen is a noble sight, it here appears
+                    an island. <persName ref="pe1231">Lady Bulkley</persName> has the pret- <pb n="9r"/>
+                    <fw>f. 9r</fw> tiest green house I ever saw where she often sits &amp; works.
+                    the walls of it are cover’d with Geraniums, trailled to them like fruit trees,
+                    they are now in full blossom – <lb/>27<hi rend="superscript">th</hi>: We dined
+                    at <persName ref="pe1230">Lord Uxbridge</persName>'s publick day, who likewise
+                    gives one every week. Here were about 30 people dined – these visits look
+                    something like <pb n="9v"/>
+                    <fw>f. 9v</fw> what I should conceive of the court of some petty Prince. we were
+                    shewn into the drawing room, presented to the <persName ref="pe1230">Lord</persName> &amp; <persName ref="pe1595">Lady</persName> of the house
+                    &amp; then seated in a circle, after dinner (which was here an excellent one,
+                    much otherwise at <persName ref="pe1232">Lord Bulkley</persName>'s), we broke
+                    into parties, all form ceased, we walk’d about &amp; enjoyed the delightful
+                    scenery <pb n="10r"/>
+                    <fw>f. 10r</fw> with which these places abound – we met with extraordinary
+                    civility in both places – <placeName ref="pl1965">Plas Newydd</placeName> is an
+                    admirable house, the rooms very noble – the view from it is not so grand as from
+                        <persName ref="pe1232">Lord Bulkleys</persName>. Had I not, however, seen
+                        <placeName ref="pl1964">Baron Hill</placeName> first I should have called
+                        <add place="above">it</add> very grand, it is situated on the banks of the
+                        <placeName ref="pl1564">Menai</placeName>, this beautiful arm of the <pb n="10v"/>
+                    <fw>f. 10v</fw> sea is seen for a great length of way from the house &amp; is at
+                    last lost among the mountains, <placeName ref="pl2862">Snowdon</placeName> is
+                    here a very fine object; the woods are very fine &amp; feather down to the
+                    water; among the woods are two fine Cromlechs<note type="editorial">Neolithic
+                        burial chambers in the grounds of Plas Newydd; see <ref target="http://www.coflein.gov.uk/en/site/93829/details/plas-newydd-burial-chamber.">here</ref></note> - In the woods here &amp; at <placeName ref="pl1486">Beaumaris</placeName> are numbers of fine old oaks. I do not recollect
+                    seeing many oaks in any <pb n="11r"/>
+                    <fw>f. 11r</fw> other parts of the island I have seen – <lb/>28<hi rend="superscript">th:</hi> We rode to <placeName ref="pl1966">Llandyfnan</placeName>, <persName ref="pe1596">M<hi rend="superscript">r</hi>: Lewis</persName>'s, nothing remarkable – In all our rides &amp;
+                    walks fine views of the <placeName ref="pl1672">Carnarvonshire</placeName>
+                    mountains, the top of <placeName ref="pl2862">Snowdon</placeName> seldom clear –
+                    The little girls continue bathing which they like much – <persName ref="pe1219">Josepha</persName> quite recovered – which makes us very thankful – <pb n="11v"/>
+                    <fw>f. 11v</fw> 29<hi rend="superscript">th</hi>: took a walk up <placeName ref="pl1961">Llwydiart</placeName> - an extensive view from it – see the
+                        <add place="above">sea</add> about three parts round us – see <placeName ref="pl1018">Holyhead mountain</placeName> from it &amp; indeed from many
+                    other places, for there are few hills in <placeName ref="pl1093">Anglesey</placeName> &amp; none very high - We are most conveniently &amp;
+                    comfortably lodged here &amp; our entertainment is in all respects very good.
+                        <persName ref="pe0226">M<hi rend="superscript">r</hi>. Panton</persName> has
+                    the kindness <pb n="12r"/>
+                    <fw>f. 12r</fw> to let the young folks breakfast dine &amp; sup in his study
+                    except <persName ref="pe1218">Panton</persName>, who dines with us, they have
+                    the free range of three large Parlours the Study &amp; the Hall &amp; enjoy
+                    themselves very much – <lb/>30<hi rend="superscript">th</hi>: We took a ride
+                    upon the sands at <placeName ref="pl1962">Redwharf</placeName> which are
+                    remarkably safe. It blew as hurricane last night – I never heard such wind. the
+                    family said it <pb n="12v"/>
+                    <fw>f. 12v</fw> is not once in half a year that there is such a storm – it
+                    subsided this morning &amp; it being low water we rode very far on the sands,
+                    the waves continued in great agitation, I never was more delighted. we rode till
+                    we almost touched the waves, they appeared like green mountains with the white
+                    foam dancing on their summits – <pb n="13r"/>
+                    <fw>f. 13r</fw> my little horse (for <persName ref="pe0923">my B<hi rend="superscript">r</hi>:</persName> had the goodness to bring him for
+                    me) canter’d most pleasantly, &amp; was not at all startled – The seagulls &amp;
+                    cormorants were walking about quite tame – <lb/>31<hi rend="superscript">st</hi>: We made a most pleasant excursion to the <placeName ref="pl1719">Parys
+                            <add place="above">copper</add> mine</placeName> &amp; the port of
+                        <placeName ref="pl1967">Amlwch</placeName>, which is very near the mine – As
+                    I am not used to see mines, I cannot <pb n="13v"/>
+                    <fw>f. 13v</fw> be so sensible of the wonders of this as I otherwise should be,
+                    but from all I hear, it is the most wonderful in the world. there is no
+                    underground work which, I believe is one of its extraordinary properties. not so
+                    much as a blade of grass is to be seen near it – The Port of <placeName ref="pl1967">Amlwch</placeName> I was quite charmed with &amp; quite
+                    unwilling to <pb n="14r"/>
+                    <fw>f. 14r</fw> leave. It was well I saw the mine first or I should scarcely
+                    have quitted it in time to see anything else – we went on board a sloop &amp;
+                    had a very hearty reception from the captain, who knew <persName ref="pe1232 pe1226">M<hi rend="superscript">r</hi>: Bulkley
+                        Panton</persName> very well – whilst we were there three ships passed very
+                    near in full sail, which is a sight that pleases me much – <pb n="14v"/>
+                    <fw>f. 14v</fw> Sep<hi rend="superscript">r</hi>: 4<hi rend="superscript">th</hi>: rode towards <placeName ref="pl1486">Beaumaris</placeName>-
+                        <lb/>5<hi rend="superscript">th</hi>: rode to <placeName ref="pl1486">Beaumaris</placeName> through the grounds at <placeName ref="pl1964">Baron
+                        hill</placeName> &amp; by <placeName ref="pl1968">Beaumaris
+                        castle</placeName> - the sea comes close up to the town, which is like all
+                    the Welch towns I have seen, a very poor one, at the custom house are many small
+                    vessels – <lb/>6<hi rend="superscript">th</hi>: Went to a ball at <placeName ref="pl1965">Plas Newydd</placeName>. it was con- <pb n="15r"/>
+                    <fw>f. 15r</fw> ducted most capitally, there was a magnificent supper – about
+                    thirty couples danced – a pleasant circumstance attends welch balls, the
+                    gentlemen are so fond of dancing that I believe no lady sits still but from
+                    their own choice – after supper, before the gentlemen joined us, six ladies
+                    danced Scotch reels in two sets, very prettily – We <pb n="15v"/>
+                    <fw>f. 15v</fw> were very late before we returned – <placeName ref="pl1093">Anglesey</placeName> affords very little fruit, at <persName ref="pe1230">Lord Uxbridge</persName>'s was great plenty brought from <placeName ref="pl1367">Staffordshire</placeName> - <persName ref="pe0226">M<hi rend="superscript">r</hi>: Panton</persName> has five wall’d gardens
+                    &amp; no fruit – <lb/>8<hi rend="superscript">th</hi>: rode to <placeName ref="pl1486">Beaumaris</placeName> through the grounds at <placeName ref="pl1964">Baron hill</placeName>, saw <persName ref="pe1232">Lord
+                        Bulkleys</persName> Hawks sent off. He is training them <pb n="16r"/>
+                    <fw>f. 16r</fw> to revive the diversion of Hawking – as we were riding through
+                    the grounds <persName ref="pe1230">Lord Uxbridge</persName> passed in his
+                        cutter.<note type="editorial">Small to medium-sized sailing boat built for
+                        speed.</note>
+                    <persName ref="pe1232">Lord Bulkley</persName> makes a point of saluting him on
+                    these occasions from a small fort that he has in his grounds, we happened to be
+                    near, but our horses stood better than I expected – these two lords are here
+                    little <pb n="16v"/>
+                    <fw>f. 16v</fw> monarchs. I think <placeName ref="pl1093">Anglesey</placeName>
+                    is the most dependent place I ever saw – <persName ref="pe1230">Lord
+                        Uxbridge</persName> &amp; <persName ref="pe1232">Lord Bulkley</persName>
+                    have now agreed to divide the county between them – they use their interest to
+                    confer obligations upon every family of any consequence in the island, it is
+                    wonderful by acting together, how many appointments they have procured <pb n="17r"/>
+                    <fw>f. 17r</fw> for the gentlemen’s sons. I lament when I see gentlemen of
+                    independent fortune (which is often the case) accept of these things, but so it
+                    is here, almost all are under obligations to them, &amp; do them homage on their
+                    court days, as I think their publick dinners may be called – <lb/>9<hi rend="superscript">th</hi>: Left <placeName ref="pl1960">Plasgwyn</placeName>, it being Sunday we went first <pb n="17v"/>
+                    <fw>f. 17v</fw> to church – the latter part of the time we spent there <persName ref="pe1605">M<hi rend="superscript">rs</hi>: Parry</persName> had left it
+                    &amp; <persName ref="pe0226">M<hi rend="superscript">r</hi></persName>: &amp;
+                        <persName ref="pe1226">M<hi rend="superscript">rs</hi>: Panton</persName>
+                    arrived, we left them there. The face of the county is very unlike what I had
+                    been used to, the enclosures are mostly mounds of earth, but so much overgrown
+                    with grass, fern, brambles &amp;c that it has the effect of hedges <pb n="18r"/>
+                    <fw>f. 18r</fw> at a distance – some enclosures are made with stone. there is
+                    scarcely a tree to be seen except about the gentlemens houses, which have all
+                    some wood about them – the general view is, these enclosures with spots of trees
+                    which mark the gentlemens houses – the ground is fruitful yet very near the
+                    rock, which starts out in some part <pb n="18v"/>
+                    <fw>f. 18v</fw> of most of the fields – the sea views are very fine, &amp; the
+                        <placeName ref="pl1672">Carnarvonshire</placeName> mountains are fine
+                    features in their prospect – there is not a gentlemans house on the island more
+                    than four mile from the sea, &amp; most are much nearer – the county is popular,
+                    &amp; there are a great many gentlemans families who visit much together. I
+                    never <pb n="19r"/>
+                    <fw>f. 19r</fw> was anywhere where domestic news travelled so quick it reminded
+                    me of the voyages to the south seas,<note type="editorial">Voyages to the South
+                        Seas – Captain James Cook led three expeditions to the South Pacific between
+                        1768 and 1779, in search of new geographical and scientific knowledge. For
+                        an account of Cook’s voyages, and examples of the illustrations made by some
+                        of the naturalists and artists who took part in them, see <ref type="http" target="http://www.artstor.org/collection/cooks-voyages-south-seas">here</ref>.</note> where one finds, in the society &amp; friendly
+                    islands in particular, what was done in one place was soon known all over the
+                    island – <persName ref="pe1227">Miss Panton</persName> crossed the ferry with us
+                    dined with us at <placeName ref="pl1969">Jackson’s (the Inn)</placeName> &amp;
+                    parted with us <pb n="19v"/>
+                    <fw>f. 19v</fw> after dinner – beautiful view down the river from hence – called
+                    upon <persName ref="pe1605">M<hi rend="superscript">rs</hi>:
+                            <unclear>P.</unclear> Parry</persName> of <placeName ref="pl0799">Bangor</placeName> - her house very near the sea – noble view on the road
+                    from the ferry – mountains in front – <placeName ref="pl1958">Orms
+                        head</placeName> to the left appearing insulated, <placeName ref="pl1959">Puffin island</placeName> - from <placeName ref="pl0799">Bangor</placeName>
+                    - Sea with <placeName ref="pl1959">Puffin island</placeName> point of <placeName ref="pl1093">Anglesey</placeName> &amp; <placeName ref="pl1486">Beaumaris</placeName> - <placeName ref="pl0799">Bangor</placeName> fair <pb n="20r"/>
+                    <fw>f. 20r</fw> today, the street quite crowded the dress of the woman almost
+                    universally, long blue cloth cloaks &amp; beaver hats - as soon as we pass the
+                    Town see the vessels at anchor, <placeName ref="pl1486">Beaumaris</placeName>,
+                        <placeName ref="pl1959">Puffin island</placeName>
+                    <placeName ref="pl1958">Orms head</placeName>, mountains - Pass <add place="above">on the left</add>
+                    <placeName ref="pl1970">Lime grove</placeName> a beautiful small villa of
+                        <persName ref="pe1234">M<hi rend="superscript">r</hi>: Wyatt</persName>
+                    (brother to <persName ref="pe1236">the architect</persName>) steward to
+                        <persName ref="pe0420">Lord Penrhyn</persName> - Grand view of <pb n="20v"/>
+                    <fw>f. 20v</fw> mountains finely cultivated at bottom – <placeName ref="pl1183">Snowdon</placeName> just opposite, cloud capt – country finely cultivated –
+                    to the left <placeName ref="pl1650">Lord Penrhyn’s</placeName> at some distance
+                    from the road it appears very handsome – Pass close to the road <add place="above">on the left</add> the <placeName ref="pl1971">church of
+                        Llandegai</placeName>, it is new &amp; very neat in form of a cross – just
+                    beginning to build a new bridge over <pb n="21r"/>
+                    <fw>f. 21r</fw> the <placeName ref="pl2415">Ogwen</placeName> - Fine sea view to
+                    the left. long shore of <placeName ref="pl1093">Anglesey</placeName>, <placeName ref="pl1486">Beaumaris</placeName>, <placeName ref="pl1959">Puffin
+                        island</placeName>, <placeName ref="pl1958">Orms head</placeName>,
+                        <placeName ref="pl1338">Penmaen mawr</placeName> - Noble terrace to
+                        <placeName ref="pl1595">Aber</placeName>, the same fine view continues to
+                    the left, fine mountains in front &amp; to the right – evening rains –
+                        <placeName ref="pl1595">Aber</placeName> - the houses white - it is a very
+                    pretty object from <pb n="21v"/>
+                    <fw>f. 21v</fw>
+                    <placeName ref="pl1964">Baron hill</placeName>, drink tea at the Inn - The
+                    evening clears – noble terrace continues &amp; the same delightful views
+                    continue towards <placeName ref="pl1093">Anglesey</placeName> &amp; in only
+                    varying as we turn, a beautiful purple tinge upon the prospect – Open Sea, of a
+                    beautiful green – the white waves dancing – Pass <placeName ref="pl1972">Bryn y
+                        Neuadd</placeName> - Reach <placeName ref="pl1338">Penmaen mawr</placeName>,
+                    the world <pb n="22r"/>
+                    <fw>f. 22r</fw> of waters beautiful, the sea very green – the waves gently
+                    dashing against the shore beneath the lofty promontory we are going over – the
+                    view takes in <placeName ref="pl1093">Anglesey</placeName>, <placeName ref="pl1959">Puffin island</placeName>, <placeName ref="pl1958">Orms
+                        head</placeName>, <placeName ref="pl2400">Sychnant</placeName> - the waves
+                    roll finely &amp; break against the shore – Leave the sea more to the left &amp;
+                    begin to ascent <placeName ref="pl2400">Sych- <pb n="22v"/>
+                        <fw>f. 22v</fw> nant</placeName>, we are surrounded by rocky mountains with
+                    a small fertile valley between – Over <placeName ref="pl2400">Sychnant</placeName> lofty barren rocky mountains surround us – The sky was
+                    stormy, it seemed to promise much worse weather than we now experienced, for the
+                    evening was solemnly fine – when over <placeName ref="pl2400">Sychnant</placeName> there is a fine <pb n="23r"/>
+                    <fw>f. 23r</fw> open towards <placeName ref="pl1049">Conway</placeName> - See
+                    the noble <placeName ref="pl1530">castle</placeName>, the <placeName ref="pl2384">river</placeName> &amp; a beautiful wooded eminence – Reach
+                        <placeName ref="pl1049">Conway</placeName> - <lb/>10<hi rend="superscript">th</hi>: Morning very stormy, the sea very rough, we were to cross the
+                    Ferry having promised <persName ref="pe0232">M<hi rend="superscript">r</hi>:
+                        Pennant</persName> to make <placeName ref="pl0001">Downing</placeName> in
+                    our way home. The chaise &amp; horses went over first, they had been</p>
+            </div>
+            <div>
+                <p>
+                    <pb n="1v"/>
+                    <fw>f. 1v</fw> gone an hour when we set out, yet they had not reach’d the
+                    opposite shore, the waves beat violently against the chaise – As none of <add place="above">us</add> except <persName ref="pe0923">my Brother</persName>
+                    had been at all used to the water we had no apprehension of danger &amp; I was
+                    eager to go, as I wish’d to know what a rough sea was, <persName ref="pe0923">my
+                            B<hi rend="superscript">r</hi>.</persName> proposed waiting till the
+                    next <pb n="2r"/>
+                    <fw>f. 2r</fw> day but we were told that there was no chance of its being any
+                    better for many days as an equinoxial (their phrase) had come down the night
+                    before &amp; wou’d continue to blow some days – he then wish’d to avoid the
+                    ferry by going round over the hills, but was informed the roads were impractical
+                    even with four horses – at <pb n="2v"/>
+                    <fw>f. 2v</fw> length we got into the boat – the master of the Inn came with us
+                    to direct the boatmen to keep the boat right to the waves, for we afterwards
+                    learnt had the waves broke against the side of the boat they probably would have
+                    come in, &amp; had we shipped two or three of these waves they wou’d have sunk
+                    us – the wind was violent <pb n="3r"/>
+                    <fw>f. 3r</fw> men &amp; women tied their hats on – the view was fine – from
+                        <placeName ref="pl1049">Conway</placeName> side <placeName ref="pl1973">Marle</placeName>, &amp; <placeName ref="pl1974">Bodscallen</placeName> the
+                    latter on an eminence above <placeName ref="pl1973">Marle</placeName>, rises
+                    among woods – as we row from <placeName ref="pl1049">Conway</placeName>, its
+                    noble <placeName ref="pl1530">Castle</placeName> rising at the water’s edge, the
+                    walls &amp; round towers running along the shore, the roughness of the sea – all
+                    was striking. When the boat came to <pb n="3v"/>
+                    <fw>f. 3v</fw> the waves broke over us – it was high tide &amp; about a mile
+                    over – as we rise on the opposite shore the view of <placeName ref="pl1049">Conway</placeName> back’d by wood &amp; mountains is inexpressively grand.
+                    In a short time we turn to the left, leave these fine views, go through a pretty
+                    valley between hills – on the left rocky &amp; prettily wooded – <pb n="4r"/>
+                    <fw>f. 4r</fw> Pass a pretty brick house to the right, fine open sea to the left
+                    – Pass a small house on the shore with fir plantations – Go along a noble
+                    terrace – fine open sea – walk up a steep, look back, the hills above <placeName ref="pl1049">Conway</placeName> appearing beyond <placeName ref="pl1958">Orms head</placeName> - pass through a small village – pass at some little
+                        <pb n="4r"/>
+                    <fw>f. 4r</fw> distance a gentlemans seat close to the shore, <placeName ref="pl1975">Gwrych</placeName>, formerly belonging to a friend &amp; school
+                    fellow of <persName ref="pe0923">my B<hi rend="superscript">rs</hi></persName>:
+                        <persName ref="pe1235">M<hi rend="superscript">r</hi>: Lloyd</persName> - by
+                    his death it pass’d to <persName ref="pe1041">his sister</persName> married to
+                        <persName ref="pe1040">M<hi rend="superscript">r</hi>: Hesketh</persName> -
+                    Sea view but less grand that what we have seen from the want of the fine lofty
+                    mountains – See <placeName ref="pl1203">Abergelly</placeName> before us – Wind
+                    continues <pb n="5r"/>
+                    <fw>f. 5r</fw> very high, the waves break nobly – See only one vessel, a brig –
+                    tost about &amp; seems to remain almost in the same place – Sun breaks out &amp;
+                    throws a fine radiance over the waves. Pass through <placeName ref="pl1203">Abergelly</placeName> - look at the <placeName ref="pl2019">church</placeName>, it is large, from the church yard a fine view of open
+                    sea &amp; <placeName ref="pl1958">Orms Head</placeName> - The <pb n="5v"/>
+                    <fw>f. 5v</fw> road farther distant from the sea, but still fine views of it,
+                    pleasing shore – A cultivated county opens before us – fine view of <placeName ref="pl1978">Rhuddlan</placeName> - Pass through a village –Fine view of
+                        <placeName ref="pl1371">S<hi rend="superscript">t</hi>: Asaph</placeName> -
+                    were we going the other way the sea wou’d be finer – Pass <placeName ref="pl1976">Kimmel</placeName> a fine park &amp; magnificent house, which
+                        <pb n="6r"/>
+                    <fw>f. 6r</fw> must enjoy a charming land &amp; sea prospect – See a good house
+                    near the sea – <placeName ref="pl1371">S<hi rend="superscript">t</hi>:
+                        Asaph</placeName>, situated in a delightful cultivated country, on an
+                    eminence, appears very fine before us, the contrast is so great to the views we
+                    have lately seen, that I am ready to think I never saw so cultivated <pb n="6v"/>
+                    <fw>f. 6v</fw> a scene. Approach <placeName ref="pl1371">S<hi rend="superscript">t</hi>: Asaph</placeName> go over rather a pretty <placeName ref="pl1977">bridge</placeName> of five low wide arches – reach the
+                        <placeName ref="pl2416">Inn</placeName> which is exactly opposite the
+                        <placeName ref="pl1561">cathedral</placeName> - fine trees <add place="above">in</add> its yard – the <placeName ref="pl1561">Cathedral</placeName> small, but the choir has lately been fitted up in a
+                    very good stile by <persName ref="pe1236">Wyatt</persName> - the cieling very
+                    neat. the tabernacle work good <pb n="7r"/>
+                    <fw>f. 7r</fw> painted with oker - a small Organ – As we came out a <persName ref="pe1237">Lady</persName> hasten’d to meet us &amp; said, as we appeared
+                    to be looking about us, she would, if we pleased, shew us the Palace – She
+                    proved to be <persName ref="pe1237">M<hi rend="superscript">rs</hi>:
+                        Bagott</persName>, the <persName ref="pe0365">bishop</persName>'s lady. The
+                        <persName ref="pe0365">bishop</persName> is building part of the palace
+                    quite new &amp; altering &amp; fitting up the old <pb n="7v"/>
+                    <fw>f. 7v</fw> part – the front is entirely new &amp; of a beautiful stone, it
+                    will be an excellent house – her civility was beyond anything I ever experienced
+                    from a stranger – I had some years before seen her at <unclear>Acton
+                        Barnet</unclear>, &amp; <persName ref="pe0923">my Brother</persName> had
+                    formerly known her at <placeName ref="pl1347">Oxford</placeName>, when we had
+                        <unclear>walked</unclear> about. She enquired the names <pb n="8r"/>
+                    <fw>f. 8r</fw> of the party she was with. when she heard it, she mentioned to
+                    have known a young man of that name formerly at <placeName ref="pl1347">Oxford</placeName> - <persName ref="pe0923">my B<hi rend="superscript">r</hi></persName>: &amp; she recognised each other – she pressed us to
+                    dine with her &amp; take their commons, for she said whilst the palace was
+                    building they had their dinner from an Inn - We <pb n="8v"/>
+                    <fw>f. 8v</fw> had however bespoken our dinner &amp; with many thanks took our
+                    leave – she sent us a basket of fine fruit – The situation of the palace is snug
+                    &amp; pretty – We are now in the <placeName ref="pl1443">Vale of
+                        Clwyd</placeName>, a fine cultivated country – get out to walk, look back
+                    over the vale, the view fine, Ruddlan marsh - <placeName ref="pl1978">Ruddlan
+                        castle</placeName>, <pb n="9r"/>
+                    <fw>f. 9r</fw> the open sea beyond it, <placeName ref="pl1958">Orms
+                        head</placeName>, distant view of the <placeName ref="pl1672">Carnarvonshire</placeName> mountains - Wide common rather dreary – Evening
+                    very rainy, attemp to go a nearer road – find it only fit for a horse, after
+                    some difficulty reach <placeName ref="pl0001">Downing</placeName> - Only
+                        <persName ref="pe0232">M<hi rend="superscript">r</hi></persName>: &amp;
+                        <persName ref="pe0238">M<hi rend="superscript">rs</hi>Pennant</persName>:
+                    &amp; <persName ref="pe0235">Miss Sarah</persName> at home - <pb n="9v"/>
+                    <fw>f. 9v</fw> 13<hi rend="superscript">th</hi>: Leave <placeName ref="pl0001">Downing</placeName>, a most charming spot, where we spent some very
+                    pleasant days – our time did not permit us to see nearly all the numberless
+                    drawings, &amp; curiosities that <persName ref="pe0232">M<hi rend="superscript">r</hi>: Pennant</persName> has collected, yet we were never idle, &amp;
+                    were highly entertained – the house is of stone, &amp; a very good &amp;
+                    comfortable <pb n="10r"/>
+                    <fw>f. 10r</fw> family residence. The grounds are very fine about it, a
+                    beautiful lawn like valley with fine woods on each hand – In <del>whom</del><add place="above">one</add> a romantic dell, with a brook, at one time quite
+                    obscured by trees, at another breaking through them, runs at the bottom, the
+                    other rises in an eminence in which there are many <pb n="10v"/>
+                    <fw>f. 10v</fw> seats which command fine views, see the sea from all of them,
+                    but, except at high tide, it is a great part sand – <persName ref="pe0232">M<hi rend="superscript">r</hi>: Pennant</persName> has a person of the name
+                    of <persName ref="pe1607">Williams</persName> to dine at his house every day, he
+                    has continued it for 30 years – he is a very inoffensive character, rather weak
+                    &amp; odd. <persName ref="pe0232">Mr Pennant</persName> seems <pb n="11r"/>
+                    <fw>f. 11r</fw> much diverted with him – In <placeName ref="pl0731">Wales</placeName> the custom of giving toasts whilst the Ladies stay
+                    continues, <persName ref="pe0232">M<hi rend="superscript">r</hi>:
+                        Pennant</persName>, whilst we were there, omitted it, <persName ref="pe1607">M<hi rend="superscript">r</hi>: Williams</persName> did not seem to
+                    like it, "<persName ref="pe0232">M<hi rend="superscript">r</hi>:
+                        Pennant</persName>, said he, You forget all your friends” – It struck <add place="above">me</add> as the best reason I ever heard for giving daily
+                    toasts, there is something rather pretty <pb n="11v"/>
+                    <fw>f. 11v</fw> in the idea of remembering our friends at meals – Here our three
+                    little people sat for their pictures to <persName ref="pe0014">Moses
+                        Griffith</persName> a very ingenious &amp; truly modest man, <persName ref="pe0232">M<hi rend="superscript">r</hi>: Pennants</persName> Artist - In
+                    the road from <placeName ref="pl0001">Downing</placeName> to <placeName ref="pl1251">Holywell</placeName> we see the sea almost the whole way, the
+                    estuary of the <placeName ref="pl1138">Dee</placeName>, &amp; the opposite
+                        <placeName ref="pl1362">Cheshire</placeName> shore, as we approach
+                        <placeName ref="pl1251">Holywell</placeName>
+                    <pb n="12r"/>
+                    <fw>f. 12r</fw> to the left are fine dells &amp; woods with the large buildings
+                    for the cotton works among them – <placeName ref="pl1251">Holywell</placeName>
+                    is a wide street but not long. we called upon <persName ref="pe0226">M<hi rend="superscript">r</hi>: Panton</persName> who has a good house here,
+                    where he resides two or three months in the spring, he left <placeName ref="pl1960">Plasgwyn</placeName> a few days before us, his mining business
+                    call’d him into <placeName ref="pl0702">Flintshire</placeName>
+                    <pb n="12v"/>
+                    <fw>f. 12v</fw> we walked to see the <placeName ref="pl1979">celebrated
+                        well</placeName>, one of the finest springs in the kingdom &amp; to which
+                        <placeName ref="pl1251">Holywell</placeName> owes its increasing trade as
+                    numerous cotton manufactories are erected upon it, as well as many mills for
+                    various purposes<note type="editorial">For an overview of industrial
+                        developments in Wales in this period, particularly as recorded in
+                        topographical art, see Mary-Ann Constantine, ‘John Hassell, Wales and the
+                        “industrial picturesque”' <ref type="http" target="https://www.bl.uk/picturing-places/articles/john-hassell-wales-and-the-industrial-picturesque">here</ref></note> - Set out again – view, the estuary of the <placeName ref="pl1138">Dee</placeName>, <placeName ref="pl1391">Parkgate</placeName>
+                    on the opposite shore, pass a pretty white house <pb n="13r"/>
+                    <fw>f. 13r</fw> to the right – soon after another – See Flint <placeName ref="pl1289">Town</placeName> &amp; <placeName ref="pl2418">Castle</placeName> on the sands, look over a flat but well cultivated
+                    country – See <placeName ref="pl0002">Chester</placeName> situated on the
+                        <placeName ref="pl1138">Dee</placeName>, <placeName ref="pl1391">Parkgate</placeName> - the whole bounded by the distant <placeName ref="pl1362">Cheshire</placeName> hills - magnificent
+                        <unclear>Stables</unclear> to the right – Pass through a village – pretty
+                    church – See vessels at anchor at <placeName ref="pl1289">Flint</placeName> -
+                    Pass some fine <pb n="13v"/>
+                    <fw>f. 13v</fw> woods – Go through <placeName ref="pl0703">Northop</placeName>,
+                    good tower to the <placeName ref="pl1980">church</placeName> - from hence lose
+                    sight of the sea – The first view of <placeName ref="pl1857">Mold</placeName>
+                    striking – handsome tower to the <placeName ref="pl2419">church</placeName>,
+                    situated in a fine country, see many gentlemens houses about it – A large
+                    building erecting for a cotton manufactory<note type="editorial">Edward Pugh
+                        describes this five-storey building as a ‘handsome and stupendous cotton
+                        factory, close to the town … lighted by 220 windows; and is a useful
+                        neighbour to Mold as it employs a great number of the poor.’ <hi rend="italic">See Cambria
+                        Depicta: A Tour Through North Wales</hi> (London: E. Williams, 1816), pp.
+                        345-6.</note> - Set out again from <placeName ref="pl1857">Mold</placeName>,
+                    fine wooded <pb n="14r"/>
+                    <fw>f. 14r</fw> country to the right, see three gentlemens seats at one view,
+                    Tower &amp; the two <placeName ref="pl1981">Leeswoods</placeName>, <note type="editorial">For an overview of the complex history of the Leeswood
+                        estate, see <ref type="http" target="https://archiveshub.jisc.ac.uk/search/archives/9b70ab84-4f70-3ce1-b114-c92b61fa51af">here</ref></note> one belonging to <persName ref="pe1608">M<hi rend="superscript">r</hi>: <unclear>Waining</unclear></persName>, the
+                    other <persName ref="pe0496">M<hi rend="superscript">r</hi>: Eyton</persName> -
+                    Pass another gentlemans seat to the right – catch a peep at <add place="above">the ruin of</add>
+                    <placeName ref="pl1982">Caergwrle castle</placeName>, pass a church to the right
+                    – view of <placeName ref="pl1982">Caergwrle castle</placeName> - pass a village,
+                    a bridge <pb n="14v"/>
+                    <fw>f. 14v</fw> &amp; a mill – <placeName ref="pl1265">Hope</placeName> to the
+                    left – come to a part of the road shaded by a row of trees on each side – Pass
+                    the fine woods &amp; house of <persName ref="pe1238">M<hi rend="superscript">r</hi>: Humberston</persName> - The approach to <placeName ref="pl0792">Wrexham</placeName> flat – the road from <placeName ref="pl1857">Mold</placeName> to <placeName ref="pl0792">Wrexham</placeName> in general
+                    flat, except about <placeName ref="pl1982">Caergwrle</placeName> - appeared very
+                    tame – The tower of <pb n="15r"/>
+                    <fw>f. 15r</fw>
+                    <placeName ref="pl1983">Wrexham Church</placeName> wonderfully rich &amp;
+                    beautiful gothic work – The town the best I’ve seen in <placeName ref="pl0731">Wales</placeName> many good houses in &amp; near it – a very gay &amp;
+                    hospitable neighbourhood – the diversion of Archery much the fashion. Slept at
+                    the Inn <add place="above">14th</add> breakfast at <persName ref="pe0496">M<hi rend="superscript">r</hi>: Eyton</persName>'s who at present, till he
+                    has finished his alteration at <placeName ref="pl1981">Leeswood</placeName>
+                    <pb n="15v"/>
+                    <fw>f. 15v</fw> resides at his house called <placeName ref="pl2421">the
+                        mount</placeName> in <placeName ref="pl0792">Wrexham</placeName>, ascend a
+                    number of steps to it – view from the drawing room quite
+                        <unclear>country</unclear> - <persName ref="pe0496">M<hi rend="superscript">r</hi></persName>: &amp; <persName ref="pe0497">M<hi rend="superscript">rs</hi>: Eyton</persName> were going today to a Bow meeting,<note type="editorial">For contemporary illustrations of bow meetings at Erddig
+                        Hall and Gwersyllt Park, see <ref type="http" target="https://commons.wikimedia.org/wiki/File:The_meeting_of_the_Royal_British_Bowmen_in_the_grounds_of_Erthig,_Denbighshire.jpeg">here</ref> and <ref type="http" target="http://www.bsat.co.uk/image_collections/photo_more?id=181">here</ref></note> she was in her uniform, green jacket <add place="above">&amp; pettegoat</add> trimmed in Vandyck points with buff,
+                    beaver hat &amp; feather with a device in Silver placed in front emblema- <pb n="16r"/>
+                    <fw>f. 16r</fw> tical of the diversion, <persName ref="pe0496">M<hi rend="superscript">r</hi>: Eyton</persName> wore a black ribbon under
+                    his coat, with the same device, but being a Clergyman, he decently buttoned it
+                    up – Pass <placeName ref="pl1244">Erthig</placeName> to the left fine stone
+                    house with woods – Pass a pretty looking irregular house on the right – Go
+                    through <placeName ref="pl1199">Rhiwabon</placeName>, alighted &amp; were <pb n="16v"/>
+                    <fw>f. 16v</fw> shewn the church by our old acquaintance <persName ref="pe1609">M<hi rend="superscript">r</hi>: Denman</persName>, it is very handsome,
+                    a beautiful monument in it to the memory of the last <persName ref="pe1239">S<hi rend="superscript">r</hi>: Watkin William’s first Lady</persName>,<note type="editorial">For an image of this monument, to Lady Henrietta Williams
+                        Wynn, see <ref type="http" target="http://www.artandarchitecture.org.uk/images/conway/06a5177a.html">here</ref></note> it is a statue of her, here is an Organ, &amp; a
+                    beautiful font, presented by the old <persName ref="pe0326">S<hi rend="superscript">r</hi>: W. W.</persName> on the christening of his
+                        <persName ref="pe0941">son</persName> - Proceed, handsome stone gateway to
+                    the <pb n="17r"/>
+                    <fw>f. 17r</fw> left leading to <placeName ref="pl0761">Wynnstay</placeName> -
+                    see <placeName ref="pl0761">Wynnstay</placeName>, fine woods - see <placeName ref="pl1984">Plas Maddock</placeName> to the right – fine distant view of
+                        <placeName ref="pl1256">Chirk Castle</placeName>, go over the new <placeName ref="pl2422">bridge</placeName> on the Dee - steep down to it &amp; up again
+                    fine wooded banks – fine view to the right into the <placeName ref="pl0793">Vale
+                        of Llangollen</placeName> - <placeName ref="pl0794">Castle Dinas
+                        Bran</placeName> - <placeName ref="pl2018">Trevor</placeName> to the right –
+                    fine view of <placeName ref="pl1256">Chirk Castle</placeName> &amp; woods <pb n="17v"/>
+                    <fw>f. 17v</fw> to the right – <placeName ref="pl2423">Chirk bridge</placeName>
+                    pretty rocky river, trees feather to the water – pretty little valley – pass a
+                    brick house to the right fine woods – dine at <placeName ref="pl1260">Oswestry</placeName> - very rainy evening – drink tea at <placeName ref="pl0740">Shrewsbury</placeName>, reach <placeName ref="pl1695">Longnor</placeName> - After a most agreeable &amp; prosperous excursion,
+                    &amp; have the happiness of returning <pb n="18r"/>
+                    <fw>f. 18r</fw> all well – We have reason to be very thankful – Just before we
+                    left <placeName ref="pl1960">Plasgwyn</placeName> we heard of the death of
+                        <persName ref="pe1119">M<hi rend="superscript">r</hi>: Falconer</persName> -
+                    he died on the 5<hi rend="superscript">th</hi>: And on coming home <persName ref="pe0923">my B<hi rend="superscript">r</hi>:</persName> rec<hi rend="superscript">d</hi> a letter from <persName ref="pe1530">M<hi rend="superscript">rs</hi>: Falconer</persName> the D<hi rend="superscript">r's</hi>: wife, informing him of it – He was a man of
+                    great learning, very various &amp; extensive <pb n="18v"/>
+                    <fw>f. 18v</fw> reading &amp; possessed a most retentive memory – He was every
+                    ready to communicate his knowledge to those who were desirous of it – To the
+                    young he was a most instructive companion, he loved their company &amp; if they
+                    were teacable, he was ready to improve them – His life had been much clouded by
+                    a dreadful nervous dis- <pb n="19r"/>
+                    <fw>f. 19r</fw> order that seized him the day before he was to have been called
+                    to the bar – for two years he thought his life in danger. In some degree he
+                    recovered but was constantly afflicted with nervous complaints. The spasms in
+                    his stomach were daily so violent as to oblige him to have recourse to Brandy
+                    &amp; Ginger in large quantities; his <pb n="19v"/>
+                    <fw>f. 19v</fw> constitution must have been originally very strong, for through
+                    all these complaints &amp; the remedy pain obliged him to fly to, he lived to
+                    the age of fifty nine. He was quite worn out, his memory lately failed him, his
+                    head was confused, he was <unclear>comotous</unclear>, &amp; in the state he had
+                    for some time been in, death was a happy release – He had studied the Scriptures
+                        <pb n="20r"/>
+                    <fw>f. 20r</fw> much, was very pious, &amp; firmly attached to the church of
+                    England; he composed some Sacramental mediations which he printed to give to his
+                    friends but did not publish. For many years past he had been engaged in a new
+                    edition of <bibl type="authorial"><title ref="bi0252">Strabo</title></bibl>,
+                    which is to be printed at the Clarendon press,<note type="editorial">The edition
+                        of Strabo mentioned by Plymley was completed by Falconer’s nephew, Rev.
+                        Thomas Falconer (1772-1839); the final volume of this work was published in
+                        Oxford in 1807.</note> he did not live to see it come <pb n="20v"/>
+                    <fw>f. 20v</fw> out – His friends were very numerous, &amp; he was attached to
+                    them with great tenderness, he never loved to take leave of them &amp; always
+                    avoided that ceremony – When <persName ref="pe0923">my Brother</persName> was at
+                        <placeName ref="pl2424">Chester School</placeName>, <persName ref="pe1119">M<hi rend="superscript">r</hi>: Falconer</persName> first saw &amp; was
+                    pleased with him, he had him much with him, Sundays &amp; Holydays, he seldom
+                    missed, &amp; he <unclear>confined</unclear> his attachment invariably – <pb n="21r"/>
+                    <fw>f. 21r</fw> He generally passed some time every year at <placeName ref="pl1696">my Fathers</placeName>, &amp; when <persName ref="pe1070">my
+                        Father</persName> left <placeName ref="pl1696">Longnor</placeName> at
+                        <placeName ref="pl2425">my Brothers</placeName>; he had, I believe, a
+                    sincere regard for all our family – He was always ready to converse &amp; told a
+                    story admirably – Some thought him too fond of talking, I loved to hear him; but
+                    latterly, I will confess, he degenerated sometimes so <pb n="21v"/>
+                    <fw>f. 21v</fw> much into prattle that, if I could have chosen, none should have
+                    heard him but those who knew how to respect his many estimable qualities, &amp;
+                    do pity those disorders that had so much hurt him, unfortunately he was not
+                    select in his acquaintance – In politicks he was of violent high church
+                    principles &amp; was much bigoted <pb n="22r"/>
+                    <fw>f. 22r</fw> to them, it was, therefore, to us often unpleasant to hear him
+                    on this subject – In reading poetry he had a solemn peculiar cadence, that when
+                    I was a little accustomed to I thought agreeable – he read Scripture admirably,
+                    I never was more struck then with his reading the 28<hi rend="superscript">th</hi>: chapter of Job – a favourite chapter with him – He was very
+                    excellent in reading plays, <pb n="22v"/>
+                    <fw>f. 22v</fw> both in the solemn scenes of Tragedy &amp; in the humourous ones
+                    of Comedy, in the last he was truly laugable – He had a good taste in paintings
+                    &amp; drawings &amp; had a large collection of prints; music he did not love,
+                    yet could talk of it very well – His features were strong &amp; plain, he had
+                    the look of a foreigner &amp; a gentleman – He left his fortune, which was such
+                    as enabled him to live in elegance &amp; hospi- <pb n="23r"/>
+                    <fw>f. 23r</fw> tality, to <persName ref="pe0876">his<add place="above">X</add><note type="authorial">I believe I was misinformed, it was to
+                            his Brother in the first instance –</note> nephew, his Brothers
+                        son</persName>, now at <placeName ref="pl1347">Oxford</placeName>,
+                        <del>&amp; of</del> whose education he had always been at the expence of –
+                    He left many small legacies – 20£ was the highest except to <persName ref="pe0923">my Brother</persName> who is distinguished by 50£–</p>
+                <p>I was willing to say this much of a man whom I highly respected, &amp; to whose
+                    various communications I am much obliged – <pb n="23v"/>
+                    <fw>f. 23v</fw> He once, singularly enough, advised me never to speak of
+                    religion to a clergyman, he pressed it much, make it a rule, said he – I suppose
+                    this much be understood with some limitations, &amp; perhaps principally meant
+                    never to begin the subject with them – So far I think is perfectly right – </p>
+            </div>
+        </body>
+    </text>
+</TEI>

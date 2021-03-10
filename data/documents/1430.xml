@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1430">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Jones to Thomas Pennant, 3 July 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>15422C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc/>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0322">John Jones</persName>
+                    <placeName ref="pl1347">Oxford</placeName>
+                    <date when="1777-07-03">3 July 1777</date>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1424"/>
+                    <ref type="prev" target="ct1428"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Sir</salute>
+                <dateline><placeName ref="pl1347">Oxford</placeName> 3 July 1777</dateline></opener>
+                
+                <p>I received your Letter in due Time, and I should have acknowledged it sooner if I had been able to command sufficient Leisure to 
+                    transcripte <persName ref="pe2135">Phayer</persName>'s Poem, which I have now the Pleasure to send you herewith.<note type="editorial">No enclosure survives with the manuscript 
+                letter. The poem may possibly be a lament in the person of Owain Glyndwr sometimes identified with Thomas Phaer, and included in an edition of <hi rend="italic">A Mirror for Magistrates</hi> (1578). If so, however, it would have appeared
+                    posthumously, since Phaer died in 1560. See <hi rend="italic">ODNB</hi>.</note> There are two Editions of it in the Bodleian Library. 1574 and 1587. I chose to Copy the first edition as it seemed to me to be 
+                much more correct.</p>
+               
+                <p>I have sent you here with an Account of <placeName ref="pl3046">Hanmere Church</placeName> which <persName ref="pe2126">M<hi rend="superscript">r</hi> Price</persName> 
+                    has desired me to transmit <del><gap reason="authorial" unit="letters" quantity="1"/></del>to you with his best Respects.<note type="editorial">For 
+                    Pennant's account of St Chad's Church, Hanmer, see <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1784), I, pp. 226–7. No reference is made to John Price's 
+                    account there.</note> He informs 
+                    me that he has a Description of <placeName ref="pl1788">Raglan Castle</placeName> &amp;c dat. 1674 which is very much at your Service.<note type="editorial">There 
+                    is no evidence that Pennant visited Raglan in Monmouthshire, and no mention is made of it in either edition of <hi rend="italic">A tour in Wales 1770 [1773]</hi>.</note> –
+                </p>
+                <p>If there is any thing further that you could wish to have done here, I beg you will let me know, and I will most readily undertake it, I wish you all possible 
+                    Success in your undertaking, and am
+                    </p>
+                <closer><salute>Sir<lb/>
+                    your most obedient humble Servant
+                </salute>
+                    <signed><persName ref="pe0322">Jno Jones</persName></signed></closer>
+                
+            </div>
+            
+            
+        </body>
+    </text>
+</TEI>

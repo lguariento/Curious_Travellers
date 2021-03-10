@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0416">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Donald MacQueen to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP297</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>11/1-2</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>Corrections and letter written continuously on one sheet. Item 11/2
+                            consists of a slip of paper bearing simple outlines of three irregularly
+                            shaped stones (the 'gruagich-stones' mentioned by MacQueen) with a scale
+                            indicating their size in feet.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="">Donald MacQueen</persName>
+                    <date when="1774-08-18"/>
+                    <placeName ref="">Kilmuir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="">Thomas Pennant</persName>
+                    <placeName ref="">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="0417"/>
+                    <ref type="prev" target="0415"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="gd">Gaelic</language>
+                <language ident="la">Latin</language>
+                <language ident="fr">French</language>
+                <language ident="grc">Ancient Greek</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="enclosed">
+                <p>Before the Arts of carving ingraving or the Statuary work were invented or in the
+                    Countries into which they were not introduced, Representations of the Divinity,
+                    whither high or Subordinate, were no other than the trunks of trees or rude
+                    unformed stones.<note type="editorial">MacQueen's account of the Gruagich in
+                        this letter is included in an appendix to Pennant,<bibl type="editorial"><title ref="bi0010"> A Tour in Scotland 1772, part
+                            II</title></bibl> (1776), pp.434-38.</note> The Emblem of the Supreme
+                    God at <placeName ref="pl2704">Dodona</placeName>, consecrated by the
+                    Hyperboreans, was the trunk of an Oak And So it was in the <placeName ref="pl2722">Massilian Grove</placeName> ––––– simulacra que mistei Deorum
+                    Arte carent, cosis que extant informia trūncis. The Emblem of <persName ref="pe1981">Apollo</persName> at <placeName ref="pl2723">Delphi</placeName>, set Up by the Pelasgi, the Primitive Inhabitants of
+                        <placeName ref="pl2670">Greece</placeName>, was no Other than a pillar of
+                    stone, Several Examples are mentioned by <bibl type="authorial"><title ref="bi0679">Clemens Alexandrinus</title></bibl> as Also by <bibl type="authorial"><title ref="bi0669">Eusebius</title></bibl>. As the Celtic
+                    tribes worshiped Spiritual Gods, Whether the Supreme or Subordinate ones, they
+                    well knew that Material Representations coud not be Expressive of them, tho the
+                    trunk of a tree or a stone coud very well mark out the Place of Worship in a
+                    grove or on the Summit of a mountain, Where the Small Societies in the
+                    Neighbourhood might convene on Solemn Occasions or As the Necessity of A
+                    Community might seem to require, in order to conciliate the favour and
+                    Assistance of the Divinity whom the resorted to. Men of different religious
+                    Principles have often been Unjust to One Another, in the common Charge of
+                    Idolatry, which the Protestants Lay to the Account of Catholics, the Catholics
+                    to the Account of Pagans of all denominations And which they all refúse, who
+                    know best what they Are Employed About. They Surely Pray, Such of them As can
+                    think, not to a stock or a stone, w<add place="above">h</add>ither in the state
+                    of Nature or formed by Art into a statūe, but to the Divinity of which the One
+                    or the Other is an Emblem. Among the variety of Subaltern Divinities, which the
+                    Celtic tribes worshiped, the Spirit of the Sun was the foremost rank: the Sun
+                    being the most chearful And the most Universally beneficent of all created And
+                    visible beings. It brought Joy and gladness along with it to all the Animal
+                    Creation, to Groves To fields and Meadows. The day of it's retūrn was celebrated
+                    in Every district by a <hi rend="underline">feu de Joye</hi>, Whence May-day was
+                    called in the Gaulic La-Beltein, the day of Bel's fire, <persName ref="pe1984">Belis</persName> being one of the names of the Sun in <placeName ref="pl2663">Gaul</placeName>. <bibl type="authorial"><title ref="bi0680">Herodian</title><biblScope unit="volume">Lib. 8.</biblScope></bibl></p>
+                <p>The Worship of the Sun was so frequent that Several mistook if for the Principal
+                    Object of Adoration. The Inclosures called Granan or Granham, the house of the
+                    Sun, are to be met with Every Where, in Which they offered their Sacrifices,
+                    commonly horses, burnt up betwixt two Large fires. Whence is derived the Proverb
+                    — he is betwixt two Beltein-fires — which is applyed to one in the hands of two
+                    Artful persons, whose Intrigues he is not Able to Escape. From these inclosures
+                    they Also received Oracular Responses.</p>
+                <p>When the Elegant Arts were Invented the Celtic Deities appeared carved, ingraved
+                    or painted in such forms As the Immagination of the workman Suggested to him as
+                    the most Emblematic And Expressive of the common conceit they Entertained of the
+                    Divinities they meant to point out. There they changed the rude Lumps into
+                    figures resembling Living Creatūres, generaly into Men as bring the most
+                    honourable forms. The Spirit of the Sun or the God who according to the Antient
+                    Creed guided it in it's course, was figured out as a young Lively man with long
+                    yellow dishevelled hair: Under this appearance <persName ref="pe1981">Apollo</persName> hath the Epithet of <unclear reason="illegible">Xευσο-κομoς</unclear>, the golden haired given him by <persName ref="pe1985">Euripides</persName> and of <unclear reason="illegible">aκερσε-κομος</unclear> the Unshaven by <persName ref="pe1107">Homer</persName> alluding to the beams of the Suns which Are Long And
+                    Yellow. This Immaginary conceit of the Hyperborean <persName ref="pe1981">Apollo</persName> made its way to <placeName ref="pl0711">the Highlands of
+                        Scotland</placeName>, where to this day he is called by the name of
+                        <persName ref="pe1981">Gruagach</persName>, the fair-haired. The
+                    Superstitious or warm Immagination of Ignorant People introduced him as a
+                    Sportive Salutary guest into Several families, in which he played many
+                    Entertaining tricks And then disappeared. It is Litle more than a Century ago
+                    Since he hath been Supposed to have got an honest Man's daughter with Child at
+                        <placeName ref="pl2724">Shulista</placeName>, near <placeName ref="pl0667">Duntulm</placeName> the Seat of the Family of Macdonald, tho it is more
+                    probable that one of the Great man's retinue did that Bussyness for him.</p>
+                <p>But tho' the Gruagich offers himself to Every One's fancy As a young handsome man
+                    with fair tresses, his Emblems, Which Are almost in Every Village are no Other
+                    than rude Unpolished Stones of different figures Just as they Seemed to cast Up
+                    to the hand of the Druid who consecrated them. Carving was not introduced into
+                        <placeName ref="pl0708">the Hebrides</placeName> And tho it had, Such of the
+                    Unformed Images As were preserved, woud for their Antiquity be reverenced, in
+                    preference of Any attempts in the Modern Arts.</p>
+                <p>The Gruagich Stones, as far as Tradition can inform Us, were only honoured with
+                    Libations of Milk from the hands of the Dairy, which were offered to <persName ref="pe1981">Gruagach</persName> Upon the Sund-day, for the preservation of
+                    the Catle on the Ensuing week — from this Custom <persName ref="pe1981">Apollo</persName> seems to have derived the Epithet Galaxius. This was one
+                    of the Sober offerings that well became a poor or a frugal people, who had
+                    neither wine or oil to bestow, by which they recommended their only stock And
+                    Subsistence to their favourite Divinity whom they always had in their Eye And
+                    whose blessings they Enjoyed Every day. The Inscription <persName ref="pe1981">Apolini Granno</persName> (grianich, the Suny) was on a stone of this kind
+                    dug up from the ruines of the Roman Pretenture in <persName ref="">King James
+                        the 6<hi rend="superscript">th's</hi></persName> time. The Inscription in
+                        <bibl type="authorial"><title ref="bi0681">Gruter</title></bibl>, Apolini
+                    Beleno, seems to have been on Such Another And the rock-idols of <placeName ref="">Cornwal</placeName> in <bibl type="authorial"><title ref="bi0106">Dr
+                            B-----</title></bibl> seem to be of the Same kind tho of different
+                    forms, for it was not the Shape but the consecration that pointed out their
+                    Uses, for tho they Are Numerous in this Island, you will Scarce meet Any two of
+                    them of the <add place="above">same</add> Cast. The Only Idol-stones besides,
+                    that remain with Us are oblong Square Altars of rough Stone that Ly within the
+                    Druid's houses a we call them. Observe Also that the worship of the Sun seems to
+                    have continued in <placeName ref="pl0775">England</placeName> Untill <persName ref="pe1986">King Canut's</persName> time, by a Law of his Which Prohibits
+                    that, with other Idolatrous practices.</p>
+
+            </div>
+            <div type="letter">
+                <opener><dateline><placeName ref="pl0742">Kilmuir</placeName> Augst the 18<hi rend="superscript">th</hi>
+                        <lb/>1774</dateline>
+                    <salute>Dr Sir</salute></opener>
+                <p>Tho I had the honour of Your Letter of May the 24<hi rend="superscript">th</hi>
+                    Long ago in my way to a Synod yet my time was So fully taken Up in the busyness
+                    of my Calling And In attending on Some of my friends Who set out for the new
+                    world that I had no Leasure at home till this week. I have Examined very
+                    intelligent People who Are well Acquainted with the <placeName ref="pl0841">hills of Cūlin</placeName> who assure me that there are not the Smallest
+                    traces of a Vulcano about them. On the East side of this Countrey the Land is
+                    faced with a Steep rock of vast height towards the Sea. In a Particular part of
+                    it the <placeName ref="pl2725">Giant's causeway</placeName> is to be seen in
+                    Miniature — there is Also <placeName ref="pl2726">the kilted rock</placeName>,
+                    As we call it, which is made Up of different rows of Pillars standing Upon One
+                    Another but how far it resembles that at <placeName ref="pl0661">Talisker</placeName> I cannot Say, having never Seen the Later but I will
+                    see it. I shall Enquire after the Trinkets you recommend but I wish you had
+                    Spoke of them Last year having then been master of Some Uncommon things. Your
+                    book, for which I return You most hearty thanks, comes home by Sea, which is an
+                    Uncertain tedious conveyance. I hope You shall have as much honour by it As by
+                    Your other Publication. I shall be glad to hear from You when You please As I
+                    may be after this in the Way of making you a Speedier Return.</p>
+                <closer><salute>I always am with Sincere Esteem, Dr Sir <lb/>Your most obedient
+                        <lb/>and <lb/>Most humble Servant</salute>
+                    <signed><persName ref="pe0069">Don: Macqueen</persName></signed></closer>
+
+                <postscript>
+                    <p>I inclose the out-lines of three of our gruagich-stones, which you may fling
+                        into form When you have Occasion — they Are diminutive things if compared to
+                        those you was pleased to Send me. There is no Inclosure about the gruagach
+                        Stones, tho indeed they might have been in groves When the Countrey was
+                        cover'd over with wood. I am apt to think they were the property of Every
+                        body, Else how could the Dairies continue the Practice mentioned above? or
+                        how coud Roman Souldiers pay their vows Upon them? which was the case in
+                        Inscriptions referred to above.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>Thomas Pennant Esqre</addrLine>
+                        <addrLine>of Downing in Flintshire.</addrLine>
+                        <addrLine>South Brittain</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

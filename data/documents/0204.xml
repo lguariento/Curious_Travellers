@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0204">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton: related to Pennant's MacGregor
+                    controversy</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>150</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>This document consists of a small, unaddressed slip.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1776-02-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0205"/>
+                    <ref type="prev" target="ct0203"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline>Feb<hi rend="superscript">r.</hi> 11<hi rend="superscript">th.</hi>
+                    1776.</dateline></opener>
+               <note type="editorial">These may be instructions to Paton requesting materials for a
+                    rebuttal of a <bibl type="editorial"><title ref="bi0572">letter</title></bibl>
+                    attacking Pennant's treatment of the MacGregors printed in the <bibl type="editorial"><title ref="bi0280"><hi rend="italic">London
+                            Chronicle</hi></title></bibl> for 25
+                   January 1776. See Pennant's letter to Paton on <ref target="ct0203">3
+                       February 1776</ref> and Paton's letter of <ref target="ct0534">25 March</ref> and
+                    notes.</note>
+
+                <p>The sheet of the magazine that gave offence to the Macgregors.</p>
+               <note type="editorial">The article in question was an extract from Pennant's <bibl type="editorial"><title ref="bi0004"><hi rend="italic">Tour in Scotland
+                                1769</hi></title> (Warrington: 1774), <biblScope unit="page">pp.243-46</biblScope></bibl>, which was published under the title:
+                        <bibl type="editorial"><title ref="bi0102">'Description of LOCH-LOMOND. From
+                            Pennant's Tour.'</title></bibl> in <bibl><title ref="bi0102"><hi rend="italic">The weekly magazine, or, Edinburgh
+                            amusement</hi></title>, <biblScope unit="volume">vol. 30</biblScope>,
+                        (Sep 28, 1775): <biblScope unit="page">7-8</biblScope></bibl>. In it,
+                    Pennant refers to the alleged massacre of the Colquhouns by the MacGregors near
+                    Luss, on Loch Lomond.</note>
+                <p>Extract of the passage in <bibl type="authorial"><title ref="bi0199">Sir Robert
+                            Douglas</title></bibl> ab<hi rend="superscript">t</hi> the massacre of
+                    Colquhons &amp; quote the page. vide <bibl type="authorial"><title ref="bi0004">my tour quarto 1769</title>. <biblScope unit="page">p.385</biblScope></bibl><note type="editorial">The page reference given is
+                        to an appendix entitled 'Of the Massacre of the Colquhouns' in Pennant's
+                            <title ref="bi0004">Tour in Scotland 1769</title> (Warrington: 1774),
+                        which cites <bibl type="editorial"><title ref="bi0199">Robert Douglas's <hi rend="italic">Baronage of Scotland</hi></title></bibl>. That
+                        work did not appear in print until 1798 (long after Douglas's death in
+                        1770), suggesting that Pennant had access to the manuscript, probably
+                        through George Paton. See Paton's letter to Pennant on 21<hi rend="superscript">st</hi> March 1776.</note></p>
+                <p>extract of the preamble of the act or order of council that punishes the
+                    Macgregors; with the reasons the said act gives. Dispatch will much oblige
+                        <persName ref="pe0232">T.P.</persName>
+                    <handShift/>2.<unclear reason="illegible">In</unclear>
+                    <bibl type="authorial"><title ref="bi0064">the Edinburgh
+                    Magazine</title></bibl></p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

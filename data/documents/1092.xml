@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1092">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 79</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1789-12-05"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline>5 December 1789</dateline></opener>
+                <p>I now inclose <persName ref="pe0014">Moses</persName> receit: there is some addition to the bill by work done since, 
+                    which shall be accounted for. I have paid him *20<hi rend="superscript">£</hi> which you will please to put into the 
+                    hands of <persName ref="pe0329">Mesr<hi rend="superscript">s</hi> Gosling</persName>. Be so good as to let me know if 
+                    you would have the drawings entered at the coach office to their full value which may be a security to them. <hi rend="underline">Now</hi>
+                    I most sensibly feel my loss; being engaged in the toilsome task of new writing my <bibl type="authorial"><title ref="bi0268">journey 
+                        from the Temple stairs to <placeName ref="pl1381">Dover</placeName></title></bibl>.
+                    <note type="editorial">The loss of a manuscript copy of 'From London to Dover' may be connected with Pennant's legal action against the 
+                        Chester coach mentioned in <ref target="1086.xml">1086</ref>.</note>
+                    my imaginary continuation of it <bibl type="authorial"><title ref="bi0266">along the coast of <placeName ref="pl0925">France</placeName></title></bibl>
+                    is now under the hands of an excellent <sic>copiest</sic>: who writes (But perhaps you will not credit it) 
+                    <gap unit="letters" quantity="7" reason="illegible"/> a better hand than myself.</p>
+                <p>I am sorry for the occasion which brings you so early to <placeName ref="pl0699">town</placeName>: But it will give 
+                    <persName ref="pe0065">my son</persName> an opportunity of seeing you. He is in <placeName ref="pl0699">town</placeName>
+                    brought there to convoy his <persName ref="pe0234">sister</persName> down &amp; pick up his <persName ref="pe0421">little <del>little</del> Brother</persName>
+                    on the road. He has brought y<hi rend="superscript">r</hi> maps on Indian paper
+                    with him. A short Part of my summer was passed under excruciating pains in one of the seats of the gravel: they racked me for 
+                    a fortnight &amp; then left me. I trust y<hi rend="superscript">r</hi> ails are also removed, that I may have a little enjoyment of you in march: So 
+                    I hope you will oil y<hi rend="superscript">r</hi> hinges against that time. I have not the honor of knowing <persName ref="pe0382">Lady Clarges</persName>:
+                    I write so much &amp; think so much that I lose the habit of talking: so shun all conversations &amp; dread the meeting of a wit. 
+                    not but I met with <persName ref="pe0287">m<hi rend="superscript">rs</hi> Piozzi</persName> this summer: &amp; she called here 
+                    &amp; was very agreable: for I will allow that wits may be so, in their lucid intervals. as to <placeName ref="pl0699">London</placeName>
+                    the sighs of my munificent <persName ref="pe0237">sister</persName> &amp; the desire of being with <persName ref="pe0065">my son</persName>
+                    as long as possible before he embarks for the continent will bring me to town next spring. the following, I shall pass at home.
+                    I have m<del>y</del>any inducements. <persName ref="pe0065">my son</persName> takes to the place: &amp; our, or rather his improvements go on rapidly.<note type="editorial">David Pennant's involvement in the improvement of the Downing estate extended to a keen interest in 
+                        horticulture and meteorology (he kept a diary of weather readings made at Downing between 1793 and 1835), and led to alterations to the estate 
+                        during the first half of the nineteenth century when he became the owner. R. Paul Evans, 'Thomas Pennant and the influences behind the 
+                        landscaping of the Downing estate', <hi rend="italic">Flintshire Historical Society Journal</hi>, 35 (1999), 57–84, esp. 70, 80–1. See 
+                        also his manuscript notes to Thomas Pennant's extra-illustrated copy of 
+                        <hi rend="italic">HPWaH</hi> at FRO. 
+                    </note>
+                    I dare resign to him the direction: &amp; heartily wish the hour was come in which like <persName ref="pe0295">Charles V</persName>
+                    I could resign the whole. As to <placeName ref="pl0699">London</placeName> friends die so fast, that it begins to grow very thin to me. Heaven preserve 
+                    you &amp; the few I have left. My best complim<hi rend="superscript">ts</hi> attend <del><persName ref="pe0293">Sir W. Burr</persName></del>
+                    the young ladies:<note type="editorial"><persName ref="pe0331">Elizabeth</persName> and <persName ref="pe0336">Catherine</persName> Bull. A 
+                        reference to <persName ref="pe0346">Levinia Luther</persName> may also have been intended.</note> &amp; better health. Pray do not forget my remembrances to 
+                    <persName ref="pe0293">sir W. Burel</persName> &amp; <persName ref="pe0332">M<hi rend="superscript">r</hi> Storer</persName>.</p>
+                <closer>
+                    <salute>I am
+                    <lb/>Dear Sir
+                    <lb/>Yours with the truest regard</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r</hi> 5<hi rend="superscript">th</hi> - 89</dateline>
+                </closer>
+                <postscript>
+                    <p>Pray teize <persName ref="pe1373">Carter</persName> to take off some of his lesser work on fine paper for 
+                        <bibl type="authorial"><title ref="bi0039">our copies of <del>our</del> my London</title></bibl>.</p>
+                    <p><add type="marginalia"/><hi rend="italic">in Richard Bull's hand</hi>: *p<hi rend="superscript">d</hi>. him by draft on <persName ref="pe0400">Hoare</persName></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

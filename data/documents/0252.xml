@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0252">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 1 February 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>2-3</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-02-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0253"/>
+                    <ref type="prev" target="ct0251"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline>Feb.1.1779</dateline>
+                    <salute>Dear Sir</salute></opener>
+                <p>The best way will be to advertise twice in two different papers the <rs ref="ar0008">Print</rs> &amp; <bibl type="authorial"><title ref="bi0012">the
+                            Welsh Tour</title></bibl> &amp; <bibl type="authorial"><title ref="bi0231">Flora Scotica</title></bibl>. which will shew that
+                        <persName ref="pe0192">M<hi rend="superscript">r</hi> Elliot</persName> now
+                    is authorised to act for me. He must acc<hi rend="superscript">t</hi> to me at
+                    Christmas for the <bibl type="authorial"><title ref="bi0012">Tour</title></bibl>
+                    at 16<hi rend="superscript">S</hi> per copy. the <bibl type="authorial"><title ref="bi0231">Flora</title></bibl> at 12.<hi rend="superscript">S</hi>
+                    the <rs ref="ar0008">Prints</rs> at 3<hi rend="superscript">S</hi>—<hi rend="superscript">D</hi>6. for I desire but one reckoning annually. I have
+                    ordered 25 <bibl type="authorial"><title ref="bi0012">Tours</title></bibl> to be
+                    sent to him by waggon let him procure the <bibl type="authorial"><title ref="bi0231">Flora</title></bibl> by virtue of the inclosed.</p>
+                <closer><salute>I am in much haste <lb/>truely y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed></closer>
+                <postscript>
+                    <p>I continue with <persName ref="pe0026">White</persName> no longer than I can
+                        help.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton,</addrLine>
+                        <addrLine>Custom House.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

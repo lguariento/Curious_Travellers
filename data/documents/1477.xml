@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1477">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Jones to Thomas Pennant, 14 August 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR 2017 /TP22</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>item 1</locus></ab>
+                    </msContents>
+                    <physDesc><additions><p>The enclosure mentioned in the final paragraph of this letter contains material relating to Flintshire extracted from George Owen, 
+                        <hi rend="italic">The Number of the Hundreds, Castells, Parish Churches and ffayres ... in all the Shiers of Wales</hi> (1602), also known as 
+                        the <hi rend="italic">Description of Wales</hi>. See a copy in the <hi rend="italic">Gentleman's Magazine</hi>, vol. 93, part 2 (1823), 
+                        pp. 513–14; and further <hi rend="italic">DWB</hi> s.n. George Owen. The material is not in John Jones's hand, but in the hand with which the 
+                    letter is directed to Pennant.</p>
+                        
+                        </additions></physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0322">John Jones</persName>
+                    <placeName ref="pl1347">Oxford</placeName>
+                    <date when="1777-08-14">14 August 1777</date>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1429"/>
+                    <ref type="prev" target="ct1424"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Sir</salute>
+                <dateline><placeName ref="pl1347">O<gap reason="page torn" unit="letters" quantity="1"/>ford</placeName> Aug: 14 1777</dateline></opener>
+                
+                <p>All <persName ref="pe2136">W<hi rend="superscript">m</hi>: Bedford</persName>'s Plays in the MS. E. N. have the Names of the several CraftesMen who performed them added 
+                to them, as the Drapers Play, Tanner Painters, &amp; &amp; That of Noye and his Wiefe is intitled,<lb/>
+                    The Waterleaders and drawers in <placeName ref="pl1138">Dee</placeName>.<lb/>
+                    3. pagente<lb/>
+                    The thirde Pagente of Noyes Flood. And first in some <unclear>burgh</unclear> Place or in the Clouds yf it may be God speaketh 
+                    unto Noe standing without the Arke with all his Familye."<note type="editorial">Pennant writes of the text undertaken by 'The Water leaders and 
+                    drawers of the Dee', which he named as 'the History of the Deluge', quoting from a manuscript at the Bodleian Library some of the speeches of Noye (Noah) 
+                    and other characters. See <hi rend="italic">A tour in Wales 1770 [1773]</hi> (2nd edn. 1784), pp. 146–8.</note>
+               </p>
+                
+                <p>I do not recollect to have seen or heard of any Welch Interlude upon this Subj<gap reason="page torn" unit="letters" quantity="1"/>ct tho' most of them are taken
+                    from either the old or New Testament.<note type="editorial">Whereas Welsh interlude texts certainly include texts based on Biblical 
+                        material, as well as material with an allegorical and moral cast, historical and narrative themes are also well-attested. See G. G. Evans, 'Yr Anterliwt Gymraeg', 
+                        <hi rend="italic">Llên Cymru</hi>. I, no. 2 (1950), 
+                    83–96.</note>
+                </p>
+                <p>On the Other side you will find a transcript of the whole of what is to be found in <persName ref="pe2126">M<hi rend="superscript">r</hi> Price</persName>'s 
+                    MS. respecting <placeName ref="pl0702">Flintshire</placeName>. The Account of the rest of the Counties is exactly upon the same Plan. I will in my next send you the whole Account of 
+                    <placeName ref="pl1216">Denbighshire</placeName>, and if you will favour me with a Frank I will if you please transcribe the Waterleaders Play and 
+                    send it along with it. I beg your Pardon for not mentioning to you in my last that <persName ref="pe2137">M<hi rend="superscript">r</hi> Warton</persName> 
+                    had left <placeName ref="pl1347">Oxford</placeName> some time before I was favoured with your Letter.<del>and</del>He has not yet returned. 
+                    <persName ref="pe0112">M<hi rend="superscript">r</hi> Sheffield</persName> desires his best Compliments to you. <persName ref="pe2126">M<hi rend="superscript">r</hi> Price</persName> 
+                left us last Week for a few Days. I am</p>
+                <closer><salute>Sir<lb/>
+                    your most obedient humble Servant
+                </salute>
+                    <signed><persName ref="pe0322">Jno Jones</persName></signed></closer>
+                
+            </div>
+            <div><p><stamp type="postmark">[<hi rend="italic">handwritten</hi>:] Post</stamp></p>
+                <p><address><addrLine>To<lb/><persName ref="pe0232">Th Pennant Esq<hi rend="superscript">r</hi></persName><lb/>
+                    <placeName ref="pl0001">Downing</placeName> near <placeName ref="pl0703">Northop</placeName><lb/>
+                    <placeName ref="pl0702">Flintshire</placeName></addrLine></address></p></div>
+            
+        </body>
+    </text>
+</TEI>

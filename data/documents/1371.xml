@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1371">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Lloyd, Hafodunos and Wigfair, 15 October 1775</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>NLW</repository>
+                        <idno>12421D</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><hi rend="italic"><lb/>Endorsement</hi>: <persName ref="pe0232">M<hi rend="superscript">r</hi>. Pennant</persName> 1775
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-10-15">15 October 1775</date>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0803">John Lloyd</persName>
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1372"/>
+                    <ref type="prev" target="ct1370"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Dear Sir</salute></opener>
+                
+                <p>Both your favors reached me: but my ramble prevented me from paying the due attention to them.</p>
+                
+                <p>I detest the Americans: but must say that by the Lenity of our ministry this ungrateful Child has been enabled to attain powers 
+                    that I fear will cost torrents of blood to reduce to proper bounds. I have seen <persName ref="pe0078">Forster</persName> twice; 
+                    &amp; hope his specimen will be satisfactory: &amp; that the emoluments will prove a sufficient support to him &amp; 
+                    his.<note type="editorial">The transaction mentioned here may relate to Pennant's efforts to promote Forster to the naturalist 
+                        Peter Brown following Forster's return in August 1775 from a voyage with Cook to the South Seas. Brown included information 
+                        gathered by Forster in his <hi rend="italic">New Illustrations of Zoology</hi> (London, 1776). See ibid., 'Preface', and 
+                        p. 90; Evans, 'The life and work of Thomas Pennant (1726–1798)', p. 298.</note></p>
+              
+                <p>Many thanks for y<hi rend="italic">r</hi> account of the price of a <sic>cornecy</sic>, &amp;c It was in behalf of a young gentleman of some fortune who 
+                    I fear will take to nothing after all.</p>
+                
+                <p>For want of other subject permit me to give you an account of the sensations of the Earthquake at my house Sept<hi rend="superscript">r</hi> 
+                    8<hi rend="superscript">th</hi>.<note type="editorial">An earthquake was felt on the evening of 8 September 1775 by people across the Midlands 
+                        and Wales according to a report in the <hi rend="italic">Shrewsbury Chronicle</hi>, 16 September 1775. A letter from Worcester quoted in 
+                        ibid. notes that the quake struck at 10pm; the same hour is given in a letter from Coalbrookdale in Shropshire, printed in the 
+                        <hi rend="italic">Chester Chronicle</hi>, 18 September 1775, where the description mirrors some of the details given by Pennant here 
+                        ('a rushing noise'; 'the pewter jarred on the shelves'; 'those in bed were apprehensive of being thrown out'). Pennant's account of an 
+                        earthquake felt in Flintshire on 2 April 1750, which appeared in the Royal Society's <hi rend="italic">Philosophical Transactions</hi>, 
+                        vol. 46, no. 687 (1750), was his first published work.</note> Some friends were sitting with me after supper about ten o'clock when the shock 
+                    began attended with the usual hollow sound. our first perception of it was by a violent waving of the walls of the house which was repeated in a 
+                    twisting manner two or three times. Then succeeding a rapid vibratory motion which shook chairs, table, bottles &amp; glasses. such was the state 
+                    of it in my Library.</p>
+                
+                <p>My children were in bed in the nursery on the first floor; &amp; notwithstanding they were going to sleep, were so terrified as to cry out for 
+                    assistance.</p>
+                
+                <p>A servant above ill in bed perceived what I find every body abed did, a movement as if somebody was under, &amp; lifted it up.</p>
+                
+                <p>Two maid servants in the Garrets who were making a bed were so agitated as to be obliged to catch hold of the posts to support them.</p>
+                
+                <p>I had occasion to ride the next morning to <sic>Grich</sic><note type="editorial">This place has not been identified. It may possibly be 
+                    a form of the name 'Gwrych', a twelfth-century castle near Abergele which was destroyed during the Civil Wars, but for which the building 
+                    of a replacement was not begun until the early nineteenth century.</note> near <placeName ref="pl1203">Abergelli</placeName> but could trace this 
+                    convulsion at <placeName ref="pl1370">Newmarket</placeName> only. at <placeName ref="pl0002">Chester</placeName> it was scarcely felt. 
+                    its course seems to or from <placeName ref="pl1021">Shropshire</placeName>. I hope to hear from you soon. Adieu</p>
+                
+                <closer><salute>Y<hi rend="superscript">rs</hi> most affectly
+                </salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed></closer>
+                <dateline><placeName ref="pl0001">Downing</placeName> Oct<hi rend="superscript">r</hi> 15<hi rend="superscript">th</hi>. 1775.</dateline>
+                
+            </div>
+            
+            
+        </body>
+    </text>
+</TEI>

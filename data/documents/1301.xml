@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1301">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Daniel Lysons to Thomas Pennant, 19 September 1767</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>Warwickshire County Record Office</repository>
+                        <idno>CR 2017/TP294/2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <additional>
+                        <p><hi rend="italic">Condition</hi>: two small tears at seal</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0408">Daniel Lysons</persName>
+                    <date when="1767-09-19"/>
+                    <placeName ref="pl1276">Gloucester</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1302"/>
+                    <ref type="prev" target="ct1300"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl1276">Glocester</placeName> Sept<hi rend="superscript">r</hi>. 19.1767
+                </dateline><salute>Dear Sir</salute></opener>
+                
+                <p>The Salmon particularly frequents the <placeName ref="pl1226">Severn</placeName> &amp; in such quantities that a single
+                    Draught or Pool in the <placeName ref="pl1226">severn</placeName> is frequently let for 30 or 40 £ per Ann without 
+                    any land belonging to it. This Pool is a part of the river perhaps about a quarter of a mile in length, where the bottom
+                    of the River being cleard from any inequalities as <add place="above">heaps</add> mud <add place="above">or</add> sand banks,
+                    [<del>...</del>]logs of wood, or stones [<del>...</del>]the nets may be then drawn smoothly down the Stream. The pool being
+                    thus made (which is commonly at a considerable expence) four men go with a boat to the top of the pool one of which holds a 
+                    line in his hand to which the net is fastened. By this line he holds the net close to the shore whilst 
+                    <add place="above">two of</add> the others row the boat over the river with a pair of oars to the opposite <sic>shoar</sic>. 
+                    In the mean time the fourth man throws out the net <add place="above">gradually</add> from the stern of the boat in order 
+                    that it may not be entangled. The net being thus let down the men in the boat keep the net as near as they can to the opposite
+                    <sic>shoar</sic> whilst the other continues on that side where the net was first cast out. The net is carried down by the 
+                    Stream with <add place="above">such</add> great force that the man who holds the line has hard work to keep it close to the 
+                    <sic>shoar</sic>. As soon as the net has taken its proper sweep the boat is rowed over to the landing place, &amp; the two men
+                    who rowed taking a line which was fixed to the end of the net next the boat draw that <add place="above">end of the</add>
+                    net over as fast as possible. The length of the net &amp; the violence of the stream makes this also very hard work. The 
+                    business of the fourth man is to row the boat out of the net after having staid at the landing place 
+                    <add place="above"><sic>padling</sic> &amp; disturbing the water</add> untill the net is drawn close to land, &amp;
+                    encloses the boat. Both ends of the net being brought to <sic>shoar</sic> they draw out the net and land the fish in the 
+                    same manner as with any other common <del>Draught</del> net. You see that the man who throws out the net at the Stern of the boat, 
+                    &amp; who takes care of it whilst the net is landing, has very easy work whilst the other three work hard; but they all three 
+                    take their turns at his post, &amp; he also at theirs, so that upon the whole no one is favoured. In large fisheries there are
+                    commonly two boats, the 2<hi rend="superscript">d</hi>. shooting out their net at the time the first lands, &amp;
+                    so they follow one another alternately. When the water is clear they fish chiefly by night, when muddy by Day, &amp;
+                    when the fish are plenty in the River they often continue working night &amp; day, with as little intermission as possible.
+                </p>
+                <p>The Master has half the profits of the fish, the 8 men the other. The master pays the rent &amp; finds nets the men mend them,
+                    &amp; perhaps assist in making. You see <del>what</del><add place="above">how considerable</add> the whole profits must be 
+                    when the
+                    Master pays his rent of 30 or 40 £ per Ann, is maintaind &amp; his family supported from half the profits of a single fishery.
+                    Besides Salmon they also take Lampreys &amp; Shad with these long nets, but the principal <sic>dependance</sic> of the great
+                    fisheries is upon Salmon. They begin fishing for Salmon in the beginning of November, &amp; cease the 
+                    1<hi rend="superscript">st</hi>. of august the other three being by act of parliament fence months that the Salmon may go up to
+                    spawn. And there is an act that no Salmon big with spawn or that has spawned &amp; not return’d to the Sea shall be taken under
+                    a great penalty. These fish are well known to the fishermen, &amp; calld old fish, but they never let them go whenever they can
+                    get possession of them. These fish are of a brown colour, &amp; have the under chap much more prominent than the upper, or at
+                    least much more so than when it is in its healthy state. Its body is emaciated, &amp; its flesh white &amp; insipid. With these
+                    unseasonable fish the <placeName ref="pl0699">London</placeName> markets are often supply’d to the great discredit of 
+                    <placeName ref="pl1226">Severn</placeName> Salmon.</p>
+                <p>The young Salmon return from the head of the <placeName ref="pl1226">Severn</placeName> <add place="above">to the Sea</add>
+                    in the months of <add place="above">February &amp;</add> March, &amp; at that time weigh between one &amp; two ounces. These 
+                    fish return to the <placeName ref="pl1226">Severn</placeName> again in the months of June &amp; July &amp; then weigh a pound 
+                    or two, &amp; some larger. The largest sort weighing 3 or 4 pound come up the river as far as 
+                    <placeName ref="pl1276">Glocester</placeName> or higher, but the smaller go up the welch Rivers &amp; are taken in great 
+                    numbers under the name of Sewin.<note type="editorial">The sewin is a fish of the Salmon tribe 
+                        (<hi rend="italic">Salmo cambricus</hi> or <hi rend="italic">eriox</hi>), the bull-trout, found in Welsh rivers. 
+                        <hi rend="italic">OED</hi>. An example from  <hi rend="italic">British zoology</hi> (2nd edn., 1768–70), III, iv, 248, is quoted: 'Taken in the river 
+                        Wye, where it is known by the name of Sewin, or Shewin'. See also <hi rend="italic">GPC</hi> s.v. sewin, sewyn, 
+                        siwin<hi rend="superscript">1</hi>, siwyn<hi rend="superscript">1</hi> for Cornish and Breton forms of the word and for 
+                        examples of usage in Welsh.</note> </p>
+                <p>The above method of taking Salmon with the long net as above, is practiced chiefly in deep water, &amp; where the River is not
+                    more than an hundred yards over. The same method is used in shallow water where the water is broader; but there they have also
+                    another me<unclear>thod</unclear>  of taking them with nets besides the <unclear>co</unclear>mmon one of waves. A single man 
+                    armd with boots which come up to his [<del>...</del>]hips walks into the water when the sands are overflowd <del>with water</del> &amp;
+                    the water being shallow he can see where the fish is by the waves it makes in swimming, &amp; as they always swim against the
+                    Stream he claps his net in before the fish, &amp; so takes it. The net is in form of a S<hi rend="italic">t</hi>. Andrews cross,
+                    exactly corresponding with our heave nets  at <placeName ref="pl1347">oxford</placeName>.<note type="editorial"><hi rend="italic">OED</hi> 
+                        doesn't include 'heave net' as a compound, but refers to the use of the noun 'haaf' in Shetland and Orkney, defining it as 
+                        related to deep-sea fishing and giving examples of various compounds, including haaf-fishing and haaf-boat. For 
+                        'Haaf, or heave, netting' as a traditional way of fishing for salmon and sea trout in the rivers of the North West, especially
+                        the Lune and Ribble, and on the Solway estuary, 
+                        see <ref type="http" target="https://www.visitcumbria.com/haaf-netting-in-cumbria">here</ref> [accessed 20 February 2018].</note> In 
+                    one of these nets a sturgeon 
+                    was lately taken weighing above 150 lb. this I assure you is true however impossible it may appear. It will now be too late to add any 
+                    farther list of the finny inhabitants of the <placeName ref="pl1226">Severn</placeName> which shall be the subject of my next, which will 
+                    probably be <add place="above">dated</add> from <placeName ref="pl0796">Bath</placeName>, to which place I shall go in a few days for a 
+                    slight complaint in my stomach &amp; bowels. It has been on me almost a year, but as I am as certain as can be that 
+                    <placeName ref="pl0796">Bath</placeName> is my cure. I can add <sic>nomore</sic> at present but that I am </p>
+                
+                <closer><salute>Yours sincerely</salute>
+                    <signed><persName ref="pe0408">D. Lysons.</persName></signed>
+                    <dateline/></closer>
+                <postscript><p>P.S. you shall hear from me again soon</p></postscript>
+            </div>
+            <div>
+                <p>
+                    <stamp type="handstamp"><placeName ref="pl1276">GLOUCESTER</placeName></stamp>
+                </p>
+                <p>
+                    <address><addrLine>To <persName ref="pe0232">Thomas Pennant Esq<hi rend="superscript">r</hi></persName> at 
+                        <placeName ref="pl0001">Downing</placeName> near <placeName ref="pl1251">Holywell</placeName> 
+                        <placeName ref="pl0702">Flintshire</placeName> Single sheet</addrLine></address>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

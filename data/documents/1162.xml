@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1162">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>44</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">Endorsement on top of the page, in Thomas Pennant’s hand</hi>:</p>
+                            <p>Answ<hi rend="superscript">d</hi></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1793-01-25"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName>. January 25. 1793.</dateline></opener>
+                <p>Your last letter requiring no particular answer, and having been neither in health or spirits of late, I have 
+                    ceased troubling you. the death of a very near Relation has not made me better, one indeed, with whom I have
+                    had little intercourse for many years past, tho' I trust I have been more sin’d against, than sinning; But 
+                    Death puts an end to all controversy, and <add place="above">one</add> must be unfeeling indeed not to be Counsell 
+                    on the side of a departed Relation. I have not as yet bought your <bibl type="authorial"><title ref="bi0272">new Edition of the London</title></bibl>,
+                    being desirous of knowing from yourself, before I begin to unmake my <bibl type="authorial"><title ref="bi0271">last Edition</title></bibl>,
+                    whether the addenda can be had seperate, or whether they are so interwoven with the text, as to render it impossible to copy them into my book,
+                    except in Manuscript, which I would willingly do rather than pull my fine hott press’d Book to pieces, with hundreds of prints 
+                    &amp;c already inserted therein. are the Additions numerous? I wish to have your opinion in this matter e’er long, because there are but few 
+                    of the large paper copies remaining unsold, &amp; I may be left upon the Pavé,<note type="editorial">'pavement'.</note>
+                    should I want one.</p>
+                <p>
+                    ’Tis in vain to begin upon Politics, in the hurry of a short letter. one object alone occupies the mind and opinion of every body.<note type="editorial">Bull refers to the news of the execution of Louis XVI on 21 January 1793.</note>
+                    I enclose the news paper, which is said to be best inform’d in respect to the affairs of <placeName ref="pl0925">France</placeName>,
+                    but other Prints have a contradictory account, tho all agree in one thing, that <persName ref="pe0418">Mons<hi rend="superscript">r</hi>. Egalité</persName>,
+                    (who seems to have improv'd upon Satan himself in wickedness,) has a strong party, backed by <persName ref="pe1710">Dumourier</persName>,
+                    ready to declare him head of the Empire, by some name, or other.</p>
+                <p>Our Royal family (I am told) are much affected, and I know the <persName ref="pe1143">Queen</persName> was particularly so, 
+                    because she left the Drawing room yesterday seemingly very ill. –’twas  a good trait in John Bull’s character, that the whole audience of the play House, 
+                    refused to hear any farce play’d the night the news arriv’d.</p>
+                <p>
+                    <persName ref="pe0418">M<hi rend="superscript">r</hi> Egalité</persName>'s brothers are in 
+                    <placeName ref="pl0699">London</placeName><note type="editorial">It is not clear who is meant by Louis Philippe's brothers. He had two sisters, one of whom married Louis Henri, Prince of Condé (1756-1830). Condé did not live in exile in England until 1801, however. See Jones, <hi rend="italic">Longman Companion to the French Revolution</hi>, pp. 334-5; Carpenter, <hi rend="italic">Refugees of the French Revolution</hi>, pp. 178, 212 n. 39.</note>
+                    and live a good deal with some of the <hi rend="underline">highest ra</hi>nk here, <hi rend="underline">next to the <persName ref="pe0465">King</persName></hi>.</p>
+                <p>
+                    The Stocks fell considerably upon this news arriving, and a war is now look’d upon as inevitable; I am sorry the <persName ref="pe0894">Empress <add place="above">of</add> Russia</persName>
+                    is likely to be our ally upon this occasion, she is a worse Savage than <persName ref="pe1461">Marat</persName> himself, and enough to damn any cause</p>
+                <p>
+                    It is really a piteous sight to <del>see</del><add place="above">behold</add> and hear some of the Emigrants complaints, I mean those of high rank. We pass’d the 
+                    Evening with four of them a short time since – Vid<hi rend="superscript">t</hi>. the <persName ref="pe1712">Duke of Luxemborgh</persName>,
+                    <persName ref="pe1713">Mons<hi rend="superscript">r</hi>. de Montmorenci</persName>, and the <persName ref="pe1714">Prince and princess de Leon</persName>,
+                    the latter of whom were possess’d of £12,000 sterling per ann<hi rend="superscript">m</hi>, &amp; I suppose the
+                    <persName ref="pe1712">Duke of L.</persName> of twice as much. they all went <del>to their</del> away together in a hackney coach to their wretched Hotel near 
+                    <placeName ref="pl2494">S<hi rend="superscript">t</hi> Giles</placeName>. the <persName ref="pe1715">Princess de Leon</persName>,
+                    being as pretty a creature as you can form an Idea of, did not make our feelings the less. She said, unless, some remittances arriv’d soon, they must 
+                    litterally beg their daily bread, and declar’d She meant to set up a milliners shop, and make up Caps &amp;<hi rend="superscript">c</hi>
+                    for any body, who would be charitable enough to send them the materials, but with all this, they will not accept of any thing from the Subscription's
+                    raise'd for peaceable Aliens, which seems very contradictory to people, who talk’d of being starv’d. I have seen some of the 
+                    Lodgings of those of the highest rank, in places you would not put your stable boys in.</p>
+                <p>
+                    My daughters<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note> are well, and beg their best remembrances to you, and yours. after such a long 
+                    <del>Scroll</del> Scrawl, it will seem inconsistent to say, I am in a hurry, but so it is. ––--</p>
+                <closer>
+                    <salute>I am yours however, at all times 
+                    <lb/>very truly</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>. Bull</persName></signed>
+                </closer>
+                <postscript>
+                    <p>P.S.  I saw upon many doors and walls, this morning written very nicely in the same hand</p>
+                    <p>no war with <placeName ref="pl0925">France</placeName>.<note type="authorial">Bull wrote these words in a distinctive script.</note></p>
+                    <p>I doubt we have bad subjects amongst us, and I believe we have French assassins too, at least there are strange reports –</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0180">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, mentioning criticism in Samuel Johnson's <hi rend="superscript">Journey to the Western Islands of Scotland</hi></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>116</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-02-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0181"/>
+                    <ref type="prev" target="ct0179"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I have just time to thank you for y<hi rend="italic">r</hi> Letter. <persName ref="pe0203">M<hi rend="italic">r</hi> Mackenzie</persName> is not to have
+                    my supplement with him.<note type="editorial">It is not clear whether Pennant is
+                        referring to his <bibl type="editorial"><title ref="bi0003"><hi rend="italic">Supplement to the Tour in
+                            Scotland</hi></title></bibl> (Chester: 1772) or <bibl type="editorial"><title ref="bi0005"><hi rend="italic">The additions to the quarto
+                                    edition of the Tour in Scotland</hi></title></bibl> (London:
+                        1774).</note> did you never receive a request from me about <bibl type="authorial"><title ref="bi0142">Sir D. Lindsay of the Mounts
+                            poems</title></bibl>: &amp; <bibl type="authorial"><title ref="bi0141">Ballendin’s translation of Boethius</title></bibl>. I have not seen
+                        <bibl type="authorial"><title ref="bi0095">Johnson’s voyage</title></bibl>
+                    yet. only some strange extracts: &amp; a fling at me I do declare I do not
+                        understand.<note type="editorial">Johnson, in an apparent rebuttal of
+                        Pennant's closing critique of Highland landlords in <bibl type="editorial"><title ref="bi0008"><hi rend="italic">A Tour in Scotland and Voyage
+                                    to the Hebrides</hi></title> (1774)</bibl>, writes that the
+                        island of Col was 'without any of the distresses, which Mr. Pennant, in a
+                        fit of simple credulity, seems to think almost worthy of an elegy by
+                        Ossian.' <bibl type="editorial"><title ref="bi0095"><hi rend="italic">A
+                                    Journey to the Western Islands of Scotland</hi></title> (London:
+                            1775), <biblScope unit="page">pp.296-97</biblScope>.</bibl>
+                    </note> Pray let me know do any of the Gates of <placeName ref="pl0076">Edinburgh</placeName> now stand? &amp; what are the names. What is the
+                        <unclear reason="illegible">name</unclear> of <sic>that who</sic>
+                    <rs ref="ar0171">etching</rs> you sent long ago.</p>
+                <closer><salute>I am <lb/>Dear Sir <lb/>Y<hi rend="superscript">r</hi> most obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName>.</signed>
+
+                <dateline>Feb. 3d 1775</dateline></closer>
+
+                <postscript>
+                    <p>Pray cut of y<hi rend="superscript">r</hi> newspapers &amp;c any strictures
+                        on <persName ref="pe0073">Johnson</persName>.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To Mr Paton</addrLine>
+                        <addrLine>Custom House</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+
+                <p><hi rend="superscript">Free</hi><persName ref="pe0015">RMostyn</persName></p>
+
+                <p><stamp type="handstamp"><placeName ref="pl0703">NORTHOP</placeName></stamp></p>
+
+                <p><stamp type="frank">FREE</stamp></p>
+                <p><stamp type="postmark">6<lb/> FE</stamp></p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

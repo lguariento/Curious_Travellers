@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1115">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 86</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1790-12-05"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street Piccadilly</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>This serves merely to know whether you are yet in life. The fell monster has made of late such havok among
+                    my friends, that I cannot but be anxious for the survivers. Have you &amp; yours re-migrated to 
+                    <placeName ref="pl0759"><sic>Stratford</sic> street</placeName> &amp; I hope well &amp; in good spirits 
+                    to renew our pursuits. my M.S.S. encrease daily by the assiduity I have transfused into <persName ref="pe0404">my secretary</persName>:
+                    &amp; <persName ref="pe0014">moses</persName> &amp; the print shops make them most magnificent. <persName ref="pe0014">Moses</persName>
+                    will not forget you when the <bibl type="authorial"><title ref="bi0023">arctic Zoology</title></bibl> is completed. lay on me
+                    y<hi rend="superscript">r</hi> commands &amp; write soon. a servant who is sent to bring down <persName ref="pe0234">my Daughter</persName>
+                    to make us a short visit brings this.</p>
+                <closer>
+                    <salute>Adieu
+                        <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r</hi> 5<hi rend="superscript">th</hi> 1790.</dateline>
+                </closer>
+                <postscript>
+                    <p>Be <sic>so</sic> as to send me a copy of y<hi rend="superscript">r</hi> old print of an old Balloon the history date &amp;c<note type="editorial">For 
+                        Richard Bull's old balloon print, see <ref target="1116.xml">1116</ref>; and for a drawing of 'Capt. G. French's Ascent from Chester Castle. 
+                        Augst. 31st 85', see Pennant's extra-illustrated <hi rend="italic">A tour in Wales</hi> (2nd edn., 1784), <ref type="http" target="http://hdl.handle.net/10107/4690846">here</ref>, p. 162/3.</note></p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> esq<hi rend="superscript">r</hi> | <placeName ref="pl0759"><sic>Stratford</sic> street | Piccadilly</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

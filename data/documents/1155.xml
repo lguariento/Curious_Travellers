@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1155">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 107</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1792-06-16"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> June 16<hi rend="superscript">th</hi> 92</dateline></opener>
+                <p>I truely thank you for your <rs type="art" ref="ar0336">very acceptable &amp; elegant present</rs>.
+                    I wish much to learn the state of painting in <placeName ref="pl1024">India</placeName>: As soon as my new friend 
+                    <persName ref="pe0398">M<hi rend="superscript">r</hi> Hastings</persName> is got out of his troubles, I hope to receive 
+                    full information, for he is both able, &amp; willing: which the mass of the nabobs are neither one or the other. I wish you 
+                    &amp; yours had faced to the North: but you cannot live but in a gay tempest. I have set to my desk some time amazingly 
+                    deep in <placeName ref="pl2515">china</placeName>, that country of wonders. I cannot but say I rejoice to say that I see land: 
+                    for this year will finish my <bibl type="authorial"><title ref="bi0651">magnum opus</title></bibl>, &amp; bring me into port at 
+                    <placeName ref="pl2506">New Guinea</placeName>: the final of this vast undertaking.<note type="editorial">Pennant describes work on China and New Guinea, included in volumes <bibl type="authorial"><title ref="bi0462">XVII</title></bibl> and <bibl type="authorial"><title ref="bi0651">XIX</title></bibl> of his 'Outlines of the Globe'.</note></p>
+                <p>I wish I may get through the <placeName ref="pl1020">isle of wight</placeName><note type="editorial">Pennant's <bibl type="authorial"><title ref="bi0269">'A journey from Dover to the Isle of Wight'</title></bibl> was to form volume <bibl type="authorial"><title ref="bi0657"/>XXI</bibl> of his 'Outlines of the Globe'.</note>: I arrived near <placeName ref="pl2507">Havant</placeName>
+                    two years ago &amp; will make one effort for both our sakes.</p>
+                <closer>
+                    <salute>our best compliments attend <del><gap unit="letters" quantity="1" reason="illegible"/></del>
+                        the Ladies<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note> &amp; yourself. I am
+                    <lb/>Dear Sir
+                    <lb/>most truely y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>Pray write soon.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

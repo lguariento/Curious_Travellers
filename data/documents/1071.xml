@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1071">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 63</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1788-02-13"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Thanks again &amp; again for the box which my carrier brought this week. it <sic>contents</sic> were so various that I grudge not the expence. 
+                    alas poor <persName ref="pe0268">Lever</persName>! the prints you so kindly sent came so critically as to shock me when I look 
+                    on so striking a likeness. I mention him in the preface to the <bibl type="authorial"><title ref="bi0022">Int. arct. Zool.</title></bibl>.
+                    so he will find a place. Pray favor me with another for my <bibl type="authorial"><title ref="bi0030">Hist. of. Quadr.</title></bibl>
+                    where he also has a place.<note type="editorial">A reference to Lever is found in the (unpaginated) Advertisement to <hi rend="italic">Arctic zoology</hi>, I (1784) and in <hi rend="italic">History of quadrupeds</hi> (2nd edn., 1781), pp. viii, 132, 173, 189.</note>
+                    If you can conveniently get me a <persName ref="pe0402">Hollar</persName>'s <rs type="art" ref="ar1062">muff</rs> (one only)
+                    &amp; <rs type="art" ref="ar1063">his views of Tangiers</rs> I shall thank you.</p>
+                <p>Please to insert the <rs type="art" ref="ar1064">bleachings mills</rs> in <bibl type="authorial"><title ref="bi0015">vol. II.<note type="authorial">or third if you bind them in <del>thre</del> five.</note></title></bibl> p. 27. 
+                    they are <persName ref="pe0391">Fitzmaurices</persName>. Get the <bibl type="authorial"><title ref="bi0410">new edition</title></bibl> to refer to.<note type="editorial">Both 1778 and 1784 editions of <hi rend="italic">A tour in Wales</hi> refer to Lleweni on p. 27, but Pennant is apparently working on the later version.</note> <persName ref="pe0379">M<hi rend="superscript">r</hi> Chiswel</persName>
+                    will readily give you a copy.</p>
+                <p><placeName ref="pl1204">Plâs y ward</placeName> is in the <placeName ref="pl1443">vale of Clwyd</placeName> near <placeName ref="pl1246">Ruthin</placeName>.
+                    <lb/><placeName ref="pl1444">Golden Grove</placeName> near <placeName ref="pl1445">Llanasa</placeName> II. p. 4.
+                    <lb/><placeName ref="pl1446">Greenfield hall</placeName>. vol. I. near <placeName ref="pl1447">Basinwerk abby</placeName>.
+                    <lb/><placeName ref="pl1448">Bodowen chapel</placeName> is not mentioned but ought to be put in.</p>
+                <p><persName ref="pe0880">Johnny Ferguson</persName> was a jacobite steward to <persName ref="pe0881">M<hi rend="superscript">r</hi> Middleton of <placeName ref="pl1256">Chirk castle</placeName></persName>
+                    ab<hi rend="superscript">t</hi> 1741. very ill used by the family on suspicion of betraying his masters cause in the great 
+                    contested election between his master &amp; <persName ref="pe1472">sir W. W.</persName> &amp; of course became a great favorite
+                    with the Tories.<note type="editorial">In 1740 Watkin Williams Wynn, 3rd baronet (?1693–1749) was reported to be ‘hearty and may certainly be depended on’ with regard to a plan for a Jacobite rising.  He went to great expense to promote the election of pro-Jacobite members in the Denbigh and Flint Boroughs in May 1741, but with no success. He also lost his own Denbighshire seat to John Myddelton in a controversial contest at the same election, but was reinstated on petition in February 1742. <hi rend="italic">Hist P</hi>.</note></p>
+                <p>I cannot account for the crowned arms in the picture. I know it &amp; agree it is arthur.<note type="editorial">It is difficult to identify the Arthur in question here. Pennant may be referring to Arthur, son of Henry VII, whose visit to Chester in 1497 is mentioned in <hi rend="italic">A tour in Wales</hi> (2nd edn., 1784), I, p. 141, or to the legendary King Arthur, references to whom are scattered throughout both volumes of the work.</note>
+                    I just made an attempt to <sic>by</sic> a fine portrait of old <rs type="art" ref="ar1065">Sir Henry Lee</rs>
+                    for <persName ref="pe0434">M<hi rend="superscript">r</hi> Walpole</persName>: but it was left as a legacy. I got a fine drawing of it: which with 
+                    <rs type="art" ref="ar0302">Sir Richard Clough</rs> will be engraven for the <del>journey</del> <bibl type="authorial"><title ref="bi0039">acc<hi rend="superscript">t</hi> of <del>to</del> London</title></bibl>.</p>
+                <p>I am happy in a Gentleman-like worthy <persName ref="pe0328">printer</persName>. Still I am weary of publication: my pleasure in writing is the same: but after the above, my works will be postumous.</p>
+                <closer>
+                    <salute>adieu
+                        <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Febr. 13<hi rend="superscript">th</hi> 1788.<note type="editorial">The year 1788 is added in pencil, probably by Richard Bull.</note></dateline>
+                </closer>
+                <postscript>
+                    <p>I keep this till Febr. 16<hi rend="superscript">th</hi>. that I may say <persName ref="pe0014">moses</persName>
+                        sends the inclosed.<note type="editorial">The enclosure has not been preserved with the manuscript letter.</note> I know you love a little &amp; often.</p>
+                    <p>y<hi rend="superscript">r</hi> favor of the 11<hi rend="superscript">th</hi> is <del><gap unit="letters" quantity="2" reason="illegible"/></del>
+                        come to hand.<note type="editorial">See <ref target="1070.xml">1070</ref>.</note> I beg my respects to <persName ref="pe0860">Lord Exeter</persName>
+                        &amp; let his Lordship know that I am sure <persName ref="pe0065">my Son</persName> will take great pleasure in executing his commands: 
+                        &amp; peculiarly y<hi rend="superscript">rs</hi>. He will not reach <placeName ref="pl1426">Madrid</placeName>
+                        till the last week in may. before which you may add some more to them. As a parent I lament for those of the 
+                        filles de la folie<note type="editorial">'girls of madness'.</note> you speak of. see my <bibl type="authorial"><title ref="bi0008">Tour in Scotland vol. III</title></bibl>
+                        p. 109 for an Intrigue in <placeName ref="pl1449">Ruthven house</placeName> in which the fair shewed a spirit equal to that of 
+                        <persName ref="pe0882">mademoiselle Bowes</persName><note type="editorial">See <hi rend="italic">A tour in Scotland 1772, part II</hi> (1776), p. 109, for the story of a daughter of the first Earl of Gowrie of Ruthven House in the Highlands of Scotland, who 'took the desperate leap of nine feet four inches over a chasm of sixty feet' to escape detection and chastisement following a night-time visit to her lover, 'a young gentleman of inferior rank'. For 'Mademoiselle Bowes' see <ref target="1070.xml">1070</ref>. The fact that Pennant refers to the volume as no. III may suggest that he is consulting his own set of extra-illustrated Scottish tours, where an account of Ruthven House and an accompanying plate entitled 'Ruthven Castle; now called Hunting tower', is included in the third of the extra-illustrated first edition volumes of the 1772 tour. See <hi rend="italic"><ref type="http" target="http://hdl.handle.net/10107/4759491">A tour in Scotland 1772, part II</ref></hi> (1776), pp. 108/2, 109.</note></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

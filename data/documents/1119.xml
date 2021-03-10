@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1119">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 89</locus></ab>
+                    </msContents>
+                    <physDesc><additions><p><hi rend="italic">On address sheet in pencil, in Richard Bull's hand</hi>: 
+                        L<hi rend="superscript">d</hi> C requests the favor M<hi rend="superscript">r</hi> Wrights
+                        to erase M<hi rend="superscript">r</hi> B's name upon the silver [?<unclear>troket</unclear>] &amp; to insert
+                        L<hi rend="superscript">d</hi>. M's instead of it.<note type="editorial">The people named here have not been identified.</note></p></additions></physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1791-02-06"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street Piccadilly</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Receive this to supply an omission in my last: and also as the conveyance of certain after thoughts. First let me perform the first by 
+                    thanking you for the beautiful plates of shipping: They were to come in at <placeName ref="pl1702">Chatham</placeName>: but they may come in as 
+                    well at <placeName ref="pl1357">Portsmouth</placeName> where I suppose great ships are built.<note type="editorial">Pennant refers to the location of the prints of ships to be included in his extra-illustrated manuscript journey 'from the Temple stairs to the lands end'. Chatham is featured in <hi rend="italic">From London to Dover</hi> (1801), esp. pp. 74–5; Portsmouth in <hi rend="italic">From Dover to the Isle of Wight</hi> (1801), esp. p. 123.</note>
+                    I am got as far as the confines of <placeName ref="pl1471">Hampshire</placeName> but hope to get the new map this month &amp; then proceed.<note type="editorial">Pennant was seeking a map of Hampshire produced by William Faden.</note> 
+                    <persName ref="pe0404">my secretary</persName> can have time to copy this for you. To facilitate my work Pray tell me are the vast woods I saw from 
+                    <placeName ref="pl1703">Port down</placeName>; royal. is there much &amp; sizeable timber. what is that forest called?<note type="editorial">See <ref target="1120.xml">1120</ref>.</note></p>
+                <p>As to title pages to <bibl type="authorial"><title ref="bi0039">London</title></bibl> had you not best use the printed one for <hi rend="underline">y<hi rend="superscript">r</hi></hi>
+                    first part. &amp; tell what other divisions you make &amp; <persName ref="pe0014">moses</persName> may make suitable Title pages: with a little drawing to each.
+                    <del><gap unit="letters" quantity="5" reason="illegible"/></del> express the pages that each of y<hi rend="superscript">r</hi> divisions begin at, that a proper drawing be selected.</p>
+                <p>I shall not trouble you more about Foreign heads: but send <persName ref="pe0143">Mazel</persName> or some friend to <persName ref="pe0423">Richardson</persName> 
+                    who honestly marks the price of each print on its back. what I want them for chiefly, is <bibl type="editorial"><title ref="bi0642">Africa</title></bibl> &amp; <bibl type="editorial"><title ref="bi0312">Spain</title></bibl>,</p>
+                <p>Be so good as to trouble yourself with sending the annexed to <persName ref="pe0328">Faulder</persName> for a L.P. supplem<hi rend="superscript">t</hi>.
+                    to the <bibl type="authorial"><title ref="bi0039">London</title></bibl>.</p>
+                <closer>
+                    <salute>Adieu
+                        <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">Th. Pennant</persName>.</signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Feb<hi rend="superscript">r</hi>. 6<hi rend="superscript">th</hi> - 91.<note type="editorial">The year [17]91 may be a later addition in Richard Bull's hand.</note></dateline>
+                </closer>
+                <postscript>
+                    <p>The suite of the <bibl type="editorial"><title ref="bi0268">Dover journey</title></bibl> will 
+                        be <bibl type="authorial"><title ref="bi0269">from thence to the extremity of 
+                            Hampshire</title></bibl>. This this be begun for you next week if you do not contradict. for I shall be on a visit for five days, 
+                        &amp; nothing for <persName ref="pe0404">him</persName> to do.</p>
+                    
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp></p>
+                <p><stamp type="postmark">F<gap unit="letters" quantity="1" reason="illegible"/></stamp> 9 91</p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull esq<hi rend="superscript">r</hi></persName> | <placeName ref="pl0759">Stratton street Piccadilly | London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

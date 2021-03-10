@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1419">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to William Owen [Pughe], 7 May 1791</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>13222C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>ff. 269 &amp; 270 </locus></ab>
+                    </msContents>
+                    <physDesc/>
+                        <additional><p>Note that the pagination in the manuscript changes to folios for this letter but reverses to pages for the next item.</p></additional>
+                        
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                    <date when="1791-05-07"/>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe2111">William Owen [Pughe]</persName>
+                    <placeName ref="pl3038">Penton Place, London</placeName>
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1420"/>
+                    <ref type="prev" target="ct1418"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute><persName ref="pe2111">M<hi rend="superscript">r</hi> Owen</persName></salute></opener>
+                
+                <p>I received y<hi rend="superscript">r</hi> letter in due time but deferred my answer till I had applied to our country men on the 
+                    interesting subject. I am sorry to say that I met with universal discouragement not only from them <sic>to</sic> the english I 
+                    have seen in a long series of visits I am just <sic>returnd</sic> from. It cannot be expected a single person can support so grand 
+                    a scheme. I therefore with reluctance decline what I cannot carry into effect.<note type="editorial">It is possible that Pennant 
+                        may be referring here to the interest of the London-Welsh in pursuing the descendants of the twelfth-century prince, Madog ab 
+                        Owain Gwynedd in America. See his letter of 2 July 1791 to Pughe, <ref target="1420.xml">1420</ref>; and on the Madogwys, 
+                        Gwyn A. Williams, <hi rend="italic">Madoc: The Making of a Myth</hi> (London: Eyre Methuen, 1979).</note> I wish you better 
+                    success with y<hi rend="superscript">r</hi> <bibl type="authorial"><title ref="bi0705">Dictionary</title></bibl> which is looked for 
+                    with impatience. with my best wishes I rest</p>
+                
+                <closer><salute>y<hi rend="superscript">r</hi> friend
+                </salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline><placeName ref="0001">Downing</placeName> May <gap reason="illegible" unit="letters" quantity="1"/>7<hi rend="superscript">th</hi> 1791.</dateline></closer>
+            </div>
+            
+            <div>
+                <p><stamp type="frank">FREE P MA 9 91; [<hi rend="italic">handwritten</hi>:] <placeName ref="pl1251">Holywell</placeName> May seventh. 1791.; 
+                    No<gap reason="illegible" unit="letters" quantity="2"/>; Free <persName ref="pe0365">L St Asaph</persName> </stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp></p>
+                <p><address><addrLine>To<lb/><persName ref="pe2111">M<hi rend="superscript">r</hi> William Owen<lb/><placeName ref="pl3038">Penton Place</placeName><lb/><placeName ref="pl0699">London</placeName></persName>
+                    </addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

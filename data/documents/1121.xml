@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1121">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 88</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1791-02-17"/>
+                    <placeName ref="pl1443">In the vale of Clwyd</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir - </salute> <dateline><hi rend="underline"><placeName ref="pl1443">In the vale of Clwyd.</placeName></hi></dateline></opener>
+                <p>Your partiality sees more merit in me than I can myself: otherwise you would not so <sic>l<del><gap unit="letters" quantity="1" reason="illegible"/></del>ood</sic> 
+                    me with favors I must through vanity &amp; thro’ interest acquiesce in y<hi rend="superscript">r</hi> munificence: so accept with 
+                    <del>my</del>patience my impudent inclosure,<note type="editorial">The enclosure is not included in the manuscript alongside the letter.</note></p>
+                <p>I did last year anticipate much respecting <bibl type="authorial"><title ref="bi0039">London</title></bibl> in <placeName ref="pl1985"><persName ref="pe1240">Seagos</persName></placeName>
+                    &amp; other shops: so really think my w<del><gap unit="letters" quantity="2" reason="illegible"/></del>ants will be very few. Besides, 
+                    <hi rend="underline">quo me, Bulle, feris plenum tui.</hi><note type="editorial">'Take me, Bull, wherever your inspiration leads you'. Pennant appears to be playing on a quotation from Horace, Odes, III.25, 1–2: 'Quo me Bacche rapis tui plenum' ('Where, O Bacchus, are you carrying me off to, so full [of your wine]?')</note>
+                    You have infected me with the same rage as yourself. Besides <bibl type="authorial"><title ref="bi0268">from London to Dover</title></bibl>,
+                    <bibl type="authorial"><title ref="bi0266">France</title></bibl> <bibl type="authorial"><title ref="bi0312">spain Portugal</title></bibl>, &amp; <bibl type="authorial"><title ref="bi0642">Africa</title></bibl> fill my mind; &amp; my
+                    attention is filled with rapacity after prints which interest those countries. In the list inclosed are some that regard the last for example 
+                    <rs type="art" ref="ar0221">Don Sebastian the Portuguese <add place="above">hero</add> or madman (which you please) who fell
+                        on the plains of Morocco before Muley Malic</rs>.</p>
+                <p>I have heard of <bibl type="authorial"><title ref="bi0114"><persName ref="pe0408">M<hi rend="superscript">r</hi> Lyson</persName>'s design</title></bibl>.
+                    It will probably <del>w</del>be well executed. I wish it to extend to <placeName ref="pl0754">windsor</placeName>.</p>
+                <p>any brief account of the wooded Country behind <placeName ref="pl1703">Port down</placeName> will be acceptable. I confess I was not at 
+                    <placeName ref="pl1705">Southwick house</placeName> but it sh<hi rend="superscript">d</hi> come in. I know a little of its history: but wish for more. 
+                    also a description or sketch of the house. the deceit of assuming the merit will be very venial: in a book the public is not to see. 
+                    whose is it now. Is there not a tale of the Devil making one of the Personæ Dramatis at a play there performed in the chappel.<note type="editorial">Pennant discusses Southwick house in <hi rend="italic">From Dover to the Isle of Wight</hi> (1801), pp. 119–21, where he mentions the fact that the 'great room ... is called the Old Playhouse; I imagine from its having occasionally been applied to that use', but has no anecdote of the type suggested in this letter to Bull.</note></p>
+                <p><persName ref="pe0014">Moses</persName> can send you drawings for the <bibl type="authorial"><title ref="bi0269">Dover M.S</title></bibl><note type="editorial">For strong evidence that the text described here as 'the Dover M.S.' refers to the second section of Pennant's 1787 journey 'From the Temple Stairs to the lands end', that between Dover and the Isle of Wight, see <ref target="1123.xml">1123</ref>, n. 1.</note>
+                    (we will call it) on marginal sizes if you wish them.</p>
+                <p>I suppose I have made a pen slip about the <persName ref="pe1241">Earl of <hi rend="underline">Northampton</hi></persName>
+                    who really died in 1614.<note type="editorial">See <hi rend="italic">From London to Dover</hi> (1801), p. 182, where Pennant discusses notable men buried at 'what is called the Royal Chapel' adjacent to the 'Pharos' (lighthouse) at Dover (not Greenwich) and gives the date of the death of Henry Howard, earl of Northampton, as 1614.</note>
+                    do I call him <persName ref="pe1242">Earl of <hi rend="underline">Arundel</hi></persName>.
+                    was it at <placeName ref="pl1986">Greenwich</placeName>. – I write now fourteen miles from <placeName ref="pl0001">Downing</placeName>:
+                    for receiving y<hi rend="superscript">r</hi> Letter<note type="editorial">This was letter <ref target="1120.xml">1120</ref>.</note>
+                    <sic>took it with</sic> on a visiting tour: which we are now. I <del><gap unit="letters" quantity="2" reason="illegible"/></del> write
+                    from one of my good friends: possibly because I think epistolary <sic>conversation with <persName ref="pe0313">M<hi rend="superscript">r</hi> B.</persName></sic>
+                    than oral with the good folks I am among. I shall date from home on Thursday<note type="editorial">Pennant is true to his word, and dates this letter 17 February 1791, which was a Thursday.</note>
+                    &amp; send this in a frank the last I can get till <persName ref="pe0015">sir R. M.</persName> returns: so please to name an M.P. to whom I can inclose pacquets, for such I have to make up of the scotch heads or portraits.</p>
+                <p>I fear y<hi rend="superscript">r</hi> news of <persName ref="pe0418">le Duc d’orleans</persName> is not true: &amp; hope
+                    y<hi rend="superscript">r</hi> other news is not. I fear the coalition you mention will never last.<note type="editorial">On these items of news, see <ref target="1120.xml">1120</ref>.</note>
+                    Pray send me some acc<hi rend="superscript">t</hi> of the real state of <placeName ref="pl0925">french</placeName> affairs for I can collect nothing from the papers</p>
+                <closer>
+                    <salute>Adieu
+                        <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">Th. Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Febr. 17<hi rend="superscript">th</hi> -91</dateline>
+                </closer>
+                <postscript>
+                    <p>Be so good as to send y<hi rend="superscript">r</hi> liberality of prints to <persName ref="pe0143">M<hi rend="superscript">r</hi> Mazel</persName>
+                        <placeName ref="pl1987">N<hi rend="superscript">o</hi> 7 Bridges street convent Garden</placeName></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1056">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>4</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1786-12-27"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir.</salute><dateline><placeName ref="pl0759">Stratton Street</placeName> Dec<hi rend="superscript">r</hi>: 27. 1786.</dateline></opener>
+                <p>I did not receive the favor of your letter, till I return'd again to <placeName ref="pl0775">England</placeName>,
+                    and the dear bought pleasures of this vile <placeName ref="pl0699">London</placeName>, which <persName ref="pe0336">my poor daughter</persName>
+                    begins to feel the Effects of already, tho in truth such weather as this, would make the teeth of a Laplander chatter.
+                    I have not answer'd your <del>kind</del>Obliging letter, because nothing therein particularly requir'd it, except to ask when, and
+                    <add place="above">to</add> whom I can pay the contents of the little account due to <persName ref="pe0014">M<hi rend="superscript">r</hi>. Griffith</persName>,
+                    for the drawings you had the kindness to send enclos'd in your last. I much want a <rs type="art" ref="ar0142">view of Nanney House</rs>,
+                    If <persName ref="pe0014">Moses</persName> has ever taken it, and a <rs type="art" ref="ar0144">portrait of <persName ref="pe0823">David Gamm</persName></rs>,
+                    and I don't recollect where I am to place <rs type="art" ref="ar0145"><persName ref="pe0810">Lord Donnegal</persName>'s Seat, call'd <placeName ref="pl1359">Fisherwyck</placeName></rs>,
+                    or the <rs type="art" ref="ar0143">portrait of <persName ref="pe0113"><choice><abbr>Ch:</abbr><expan>Chief</expan></choice> Justice Glynn</persName></rs>.</p>
+                <p>I have a friend in the custom House <add place="above">at <placeName ref="pl1372">Cowes</placeName></add> preparing an
+                    e<del><gap unit="letters" quantity="2" reason="illegible"/></del>xact and faithful account of the exportation of Grain, and flower from the 
+                    <placeName ref="pl1020">Island</placeName>, which is much encreas'd since the publication of <persName ref="pe0436">Sir Rich<hi rend="superscript">d</hi>: Worsley</persName>'s 
+                    <bibl type="authorial"><title ref="bi0290">book</title></bibl>, &amp; I have learn'd from an <del>old</del> old &amp; very
+                    intelligent <add place="above"><gap unit="letters" quantity="1" reason="illegible"/></add> Tenant of my own, that Ground 
+                    <hi rend="underline">well</hi> marl'd, will find the good effects of it for 20 years, but after it has once receiv'd  this 
+                    measure, it answers no purpose to apply it a second time; experiments have been made after 25, and 30 years, and the only 
+                    effect <supplied>produc'd</supplied> even at such a distance of time, has been to make a stiff Soil work rather more free: 
+                    the quantity generally laid on, is 20 waggon loads to an Acre. I have been round the <placeName ref="pl1020">Island</placeName>,
+                    and have observed nothing romantic or uncommon among the vast Cliffs, which surround the South and South West part of
+                    <add place="above">it</add> <del><placeName ref="pl1020">the Island</placeName></del> except what has been already notic'd in 
+                    <persName ref="pe0436">Sir Rich<hi rend="superscript">d</hi>: Worsley</persName>'s <bibl type="authorial"><title ref="bi0290">publication</title></bibl>.
+                    The high land of <placeName ref="pl1373">S<hi rend="superscript">t</hi> Albans in Dorsetshire</placeName>, and 
+                    <placeName ref="pl1375">S<hi rend="superscript">t</hi> Catherine's Point in the Isle of Wight</placeName>, from a great
+                    <add place="above"><gap unit="letters" quantity="1" reason="illegible"/></add> Bay, and in <hi rend="underline">blowing weather</hi>
+                    with the wind to the South West, hardly any vessel, that gets within it, escapes without coming ashore; to prevent this the
+                    <placeName ref="pl2119">Trinity House</placeName> a few years since erected at the expence of £7000, two light houses, one upon <placeName ref="pl1375">S<hi rend="superscript">t</hi>. Catherine's hill</placeName>,
+                    and one upon the <placeName ref="pl2118">high downs just above the needle Rocks</placeName>, and a third upon 
+                    <placeName ref="pl1377">Hurst: beach</placeName>; the two last were lighted for the first time the 29<hi rend="superscript">th</hi>.
+                    of last September, but the former has never yet been illuminated. a Toll or duty of one shilling, for every coasting vessel 
+                    passing the lights is collected by the <placeName ref="pl2119">Trinity House</placeName>. British vessels bound on foreign
+                    pay ½ per ton, Foreigners double. Sailors doubt whether the lights upon the two <placeName ref="pl2118">high Points of the needles</placeName>,
+                    and <placeName ref="pl1375">S<hi rend="superscript">t</hi> Catherine</placeName>'s will answer any good purpose; they say 
+                    they had been better seen upon the beach, than where they are, because in bad weather, when most wanted, those high hills 
+                    are almost always envelop'd in clouds, and of course the lanthorns invisible <add place="above">at</add> any little distance,
+                    and that for some time to come, they will be liable to be mistaken for the <placeName ref="pl1378">Portland lights</placeName>;
+                    one fatal instance of which, has already <sic>happend</sic>, for the night before we left <placeName ref="pl1020">the Island</placeName>
+                    a <placeName ref="pl1228">Dutch</placeName> Frigate of 36 Guns and 250 men came bump ashore, (mistaking the lights) and was beat to pieces, 
+                    &amp; tho most of the crew were sav'd at last, the surf ran so high, it was one night, and two days before they could be brought off.<note type="editorial">This refers to the Dutch frigate 'Juno' (36 guns) which came aground in Freshwater Bay on the Isle of Wight on 20 December 1786. See <hi rend="italic">Chelmsford Chronicle</hi>, 15 December 1786, quoting a letter of 12 December 1786 which corroborates Bull's account of the difficulty of the rescue operation; and <ref target="https://tinyurl.com/ydcsgxgm" type="http">here</ref> [accessed 9 August 2018].</note>
+                    I saw myself, for four hours together, the Captains wife, and other women, waving their handkerchiefs, and shewing every sign of 
+                    distress, and I make myself believe I was the means of saving eight men by bribing a desparate Smugler to go off to them in his boat.<note type="editorial">The following section is bracketed to the end of the paragraph.</note> The Fishermen who <del>have</del>
+                    <add place="above">used to</add> get a miserable livelyhood on the back of the <placeName ref="pl1020">Island</placeName> 
+                    are ruin'd by the vigilance of the Government cutters, and by the tea act, for tho' fishing was the pretence,
+                    Smugling was their trade. they tell me the tide is not <sic>particilarly</sic> affected by Storms, and that 
+                    <add place="above"><gap unit="letters" quantity="1" reason="illegible"/></add> at Spring tides it seldom 
+                    rises above 8 feet, and (what seem'd to me very extraordinary) that it flow'd there 9 hours out of the 12. –––––</p>
+                <p>I have not seen <persName ref="pe0379">M<hi rend="superscript">r</hi>. Chiswell</persName>, to lament the downfall of 
+                    my book<note type="editorial">It is not clear to which book Bull refers here nor what its connection with Chiswell might be; but on a later offer for Bull to have Chiswell's Ingleby drawings for <hi rend="italic">A tour in Wales</hi> copied by Moses Griffith, see <ref target="1065.xml">1065</ref>.</note>
+                    - <persName ref="pe0332">Storer</persName> is still at <placeName ref="pl1023">Paris</placeName>, where he went to make a
+                    bow at the <persName ref="pe0824">King</persName> for his picture. the rest of <del>di</del> Our friends are dispersed, 
+                    but I hope we shall all meet in the Spring. I shall be glad to hear all your family enjoy their healths, and that 
+                    your usual chearfulness and agreeable spirits do not forsake you – valeat Possessor!<note type="editorial">Bull quotes from Horace, <hi rend="italic">Epistles</hi>, I, II, l. 49: 'valeat possessor oportet' ('may the owner thrive').</note>
+                    as for me I am old, quite deaf, and almost blind, and of course my family ought to kill me and eat me, as I 
+                    have read the children of some parts in <placeName ref="pl1353">Africa</placeName>, do their parents, when they grow old, and good for nothing like,</p>
+                <closer>
+                    <salute>my Dear Sir,
+                    <lb/>Yours very sincerely</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                    <dateline><placeName ref=""/></dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

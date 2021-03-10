@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1416">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>William Owen [Pughe] to Thomas Pennant, 22 April 1789</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>NLW</repository>
+                        <idno>13231B</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>pp. 67–71</locus></ab>
+                    </msContents>
+                    <additional><p>This letter is a copy. See manuscript 
+                        description, <ref type="http" target="https://archives.library.wales/index.php/amrywiaethau">here</ref> 
+                        [accessed 4 September 2019].</p></additional>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe2111">William Owen [Pughe]</persName>
+                    <date when="1789-04-22"/>
+                    
+                </correspAction>
+                <correspAction type="received">
+                   
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1423"/>
+                    <ref type="prev" target="ct1415"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Sir,</salute></opener>
+                
+                <p>I went to examine <placeName ref="pl3018">S<hi rend="superscript">t</hi>. Saviour’s Dock</placeName><note type="editorial">Much of the 
+                    material in the opening four paragraphs of this letter appears, some of it verbatim, in Pennant's <hi rend="italic">Of London</hi> 
+                    (1790), pp. 55, 283, 252.</note> – It is the receptacle that receives several rivulets from the low grounds about <placeName ref="pl3025">Bermondsey</placeName> 
+                    &amp; <placeName ref="pl3029">S<hi rend="superscript">t</hi>. George’s Fields</placeName>. The warehouses on it are all old erections – the inlet 
+                    which forms it existed before it was made a regular dock – I could get no information as to the time when it was made, though I met with a person 
+                    that belonged to it thirty years and upwards. Its length is about 400 yards, and its mean breadth about 30 feet. It is solely appropriated for barges; 
+                    which land there various articles; as it is not for any particular branch of trade, though <sic>calls</sic> may be placed at the head, copperas 
+                    from <placeName ref="pl3019">Writtlesea</placeName> in <placeName ref="pl1388">Essex</placeName> is landed here, Pipeclay from <placeName ref="pl3030">Poole</placeName> 
+                    in <placeName ref="pl3031">Dorsetshire</placeName>, and Corn, &amp;c &amp;c.</p>
+                
+                <p><placeName ref="pl3020">Limehouse New Cut</placeName>,<lb/>
+                    was begun about 20 years ago – runs by <placeName ref="pl3027">Bromley</placeName>, and joins the <placeName ref="pl3022">river Lea</placeName> near 
+                    <placeName ref="pl3021">Bow</placeName>, where barges enter from one to the other by means of a Lock, called Bow Lock. Both these navigations convey 
+                    to the <placeName ref="pl1389">Thames</placeName> the produce of the great Distilleries near <placeName ref="pl3021">Bow</placeName>, and return with 
+                    commodities for the use of those works; which is the principal traffick on those waters as far as <placeName ref="pl3021">Bow</placeName>. The principal 
+                    articles of general trade are coals, corn, malt and Flour. The new cut has not annihilated the navigation of the <placeName ref="pl3022">river Lea</placeName> 
+                    from its mouth, but barges go by either just as conveniency occurs in respect to the place the articles are to be conveyed to; or as the tides answer. 
+                    But when they are not influenced by either of those events, the barges will enter the mouth of the <placeName ref="pl3022">river Lea</placeName> to 
+                    save the navigation charges that must be paid in going by the <placeName ref="pl3020">New cut</placeName>.
+                </p>
+                
+                <p>A new <sic>Bason</sic> is intended to be made at <placeName ref="pl3023">Blackwall</placeName> for the use of the East India Co’s ships.</p>
+                
+                
+                <p>On the site of the <placeName ref="pl3043">Old Navy-office</placeName> the East India company has raised what one may venture to call a magnificent erection – It is a regular 
+                    oblong square building of about 250 feet by 160 feet, enclosing a court of 150 feet by 60, entered by an arched gateway – It is a Tea-Warehouse.</p>
+              
+                <p>Cold-Bath-fields<lb/>
+                    Is the spot where the Prison, you mentioned, is erecting.<note type="editorial">Pennant does not appear to have used the material in this paragraph 
+                        in <hi rend="italic">Of London</hi> (1790).</note> Sir, if <del>ever</del>you ever walked by <placeName ref="pl3032">Bagnidge Wells</placeName> 
+                    you might have observed south of that spot, at the distance of near 200 Yards, a high hill, of factitious earth, probably formed by the rubbish 
+                    brought from the ruins caused by the great fire. This hill is levelling; the work was begun about two years ago, and the foundation is partly 
+                    laid; upwards of 40 feet below the summit of the hill. So far advanced it is a great work, by reason of an insecure foundation they have been 
+                    obliged to sink piles, and lay frames, and prodigious brick-works. – The lease of <placeName ref="pl3033">Clerkenwell Bridewell</placeName> will 
+                    expire in about seven years, and the owners of the ground will want it at that time for their own purposes; in consequence of which the <placeName ref="pl3034">county of 
+                    Middlesex</placeName> erects this Prison to be ready against that period. It is to be a Penitentiary House as well as a Bridewell: the convicts lodged here 
+                    will be doomed to solitude, as its plan is for a separate lodgement for each convict. The dimensions of the building will be 241 feet by 187 feet 
+                    in a square area within a wall of 440 feet by 400 f<hi rend="superscript">t</hi>, The west wall will have a little irregularity, as it follows the 
+                    <sic>cours</sic> of the <placeName ref="pl3035">river <hi rend="underline">Fleet</hi></placeName>.
+                </p>
+                <p>Extract from p. <del>1</del>53 of MS. Lond.<lb/>
+                    “There is no mention of his striking the chief Justice, or of his commitment,” &amp;c<note type="editorial">For the episode involving the striking of a 
+                        judge by the young prince of Wales, later Henry V, see <ref target="1415.xml">1415</ref>, n. 3.</note>
+                </p>
+                <p>Care shall be taken in arranging the corrections you have transmitted.</p>
+                <p>The approaching Festival for the Recovery of <persName ref="pe0465">his Majesty</persName><note type="editorial">George III was severely ill during late 1788, but was convalescing by the middle 
+                    of February 1789.</note> attracts the attention of the people to a degree that one not on the spot can hardly form an idea. – I wished that the 
+                    <placeName ref="pl0731">principality of Wales</placeName> should not pass unobserved in the Celebrity; and with that view took the liberty of hinting to a Nobleman, native of that 
+                    country, that it were <sic>desireable</sic> that a characteristic Medal should be struck for the Principality.<note type="editorial">For a commemorative 
+                        medal on the occasion of George III's recovery, dated 23 April 1789, see 'Medal commemorating George III's recovery of health, visit to St Pauls 1789' 
+                        at the Royal Museums Greenwich, <ref type="http" target="https://collections.rmg.co.uk/collections/objects/40434.html">here</ref> [accessed 5 September 2019].</note> 
+                    The obverse of which should be descriptive of the event; and the reverse might have the genius of <placeName ref="pl0731">Cambria</placeName> in the attitude of Adoration 
+                    to heaven; and a suitable inscription in <add place="above">the</add> Welsh language, The expence would not have exceeded what some individual 
+                    Welshmen will expend on the occasion in the blaze of a moment, and that would have shone to future ages.</p>
+               
+                <p>I hope you and Family are in perfect health – And remain respectfully,</p>
+                
+                <closer><salute>Sir,<lb/>
+                    Your most humble Servant
+                </salute>
+                    <signed><persName ref="pe2111">William Owen</persName></signed>
+                    <dateline>April 22. 1789.</dateline></closer>
+            </div>
+            
+            <div>
+                
+                <p><address><addrLine>To <persName ref="pe0232">Thomas Pennant Esq<hi rend="superscript">r</hi>.</persName>
+                    </addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

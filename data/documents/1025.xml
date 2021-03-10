@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1025">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 27</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1783-03-09"/>
+                    <placeName ref="pl0753">Upper Brook Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl1013">Northcot House</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p><persName ref="pe0327">Robson</persName> has layed by for you a large paper copy of my 
+                    <bibl type="authorial"><title ref="bi0022">arctic Zoology</title></bibl>:<note type="editorial">Since Pennant's <hi rend="italic">Arctic zoology</hi> was not published until 1784, this would appear to refer to a limited edition available to the author and close associates such as Bull in advance of the work's publication. Note, however, that Pennant refers later in this letter to a 'pyrated edition' of the book as well, which suggests that it was more widely available than would be expected in advance of its formal publication. On the publication date of <hi rend="italic">Arctic zoology</hi>, see further Thomas Pennant to David Pennant, 20 January 1784: 'I have almost printed my arctic zoology'. WCRO, CR 2017/TP429/17.</note>
+                    but is at a loss about the conveyance. Please to inform me &amp; He shall obey <choice><abbr>y<hi rend="superscript">r</hi></abbr><expan>your</expan></choice>
+                    orders. I am already busied in enriching <bibl type="authorial"><title ref="bi0022">my own copy</title></bibl>.
+                    one means is by buying a most neat pyrated edition <sic>of book</sic> in <choice><abbr>oct<hi rend="superscript">vo</hi></abbr><expan>octavo</expan></choice>
+                    1.5.0. &amp; inserting in it the prints relative to the subject. if you chuse it I will send you a copy or do any other Commission which you may have forgot.
+                    A young man is now copying most picturesque <rs type="art" ref="ar0049">views in <placeName ref="pl1014">nova scotia</placeName></rs>
+                    for the purpose of illustration if you wish it, He may Copy some from mine.<note type="editorial">Nova Scotia is frequently mentioned in <hi rend="italic">Arctic zoology</hi>, but neither the young man mentioned here nor his views of the region have been identified.</note> he is reasonable.</p>
+                <p>I hope you enjoy sunshine &amp; warm banks. we are chilled between the walls of <placeName ref="pl0699">this city</placeName>: but my amusements congenial with yours keeps my blood in motion.</p>
+                <p>I beg you would present my best <choice><abbr>complim<hi rend="superscript">ts</hi></abbr><expan>compliments</expan></choice> to miss Bulls<note type="editorial"><persName ref="pe0331">Elizabeth</persName> and <persName ref="pe0336">Catherine Bull.</persName></note> &amp; </p>
+                <closer><salute>think me Dear Sir
+                    <lb/>Most truely <choice><abbr>y<hi rend="superscript">rs</hi></abbr><expan>yours</expan></choice></salute>
+                    <signed><persName ref="pe0232"><choice><abbr>Tho.</abbr><expan>Thomas</expan></choice> Pennant</persName></signed>
+                    <dateline><placeName ref="pl0753">Upper Brook Street</placeName> March 9<hi rend="superscript">th</hi> 1783.</dateline></closer>
+                <postscript>
+                    <p>I continue here till the 10<hi rend="superscript">th</hi>.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark">9 MR</stamp><address>
+                    <addrLine>To <persName ref="pe0313">Richard Bull <choice><abbr>Esq<hi rend="superscript">r</hi></abbr><expan>Esquire</expan></choice></persName> | at <placeName ref="pl1013">Northcot House</placeName> | <placeName ref="pl1020">Isle of Wight</placeName><note type="editorial">After 1783, Richard Bull began using North Court, in the parish of Shorwell on the Isle of Wight, as his country residence, purchasing the property in 1795. Evans, 'Richard Bull and Thomas Pennant', 271.</note></addrLine>
+                        <addrLine/>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

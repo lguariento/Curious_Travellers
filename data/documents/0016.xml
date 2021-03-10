@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0016">
+    <teiHeader type="w">
+        <fileDesc>
+            <titleStmt>
+                <title>Cornelius Varley’s Narrative written by himself
+                    <date>1802-5</date></title>
+                <respStmt>
+                    <name>Edited with an introduction by Elizabeth Edwards</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>London</settlement>
+                        <repository>V&amp;A National Art Library</repository>
+                        <idno>MSL/1984</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>74</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>                
+                <pb n="1r"/>
+                <fw>f. 1r</fw>                
+                <p style="center">Cornelius Varley’s Narrative written by himself</p>
+                <p>Our Family were all born at <placeName ref="pl2031">Hackney</placeName> in a large house that had been the 
+                    <placeName ref="pl2032">Blue post Tavern</placeName> with large garden &amp; Fruit trees &amp; Grounds with some large trees. I was born on the 
+                    21<hi rend="superscript">st</hi> of November 1782. When about 4 y<hi rend="superscript">r</hi>. old I fell head foremost out of a first 
+                    floor window I was soon afterwards taken to see the deep impression of my head the softness of the ground saved me from any harm 
+                    that I can remember (<persName ref="pe1273">Gall the Phrenologist</persName> attributed to such a fall the starting into activity of his intelect)
+                    our mothers name was <persName ref="pe1275">fleetwood</persName> <unclear>regular</unclear> descended from Gen<hi rend="superscript">rl</hi>.
+                    Fleetwood who married <persName ref="pe1391">Cromwells</persName> daughter).</p>
+                <p>We lost <persName ref="pe1541">our Father</persName> before I was quite 10 y<hi rend="superscript">r</hi>. when near 12 My 
+                    <persName ref="pe1276">Uncle S.<hi rend="superscript">l</hi> Varley</persName> took charge of me he had always been progressing in Mechanical 
+                    &amp; Scientific knowledge</p>
+                <p>It was my good fortune to be with him during the most important of his <add place="above">experiments in</add> Philosophical 
+                    &amp; Chemical <del>progress</del> science having to help him in every thing &amp; so had to put my hand to all kinds of work 
+                    When I was first there he was engaged in watch &amp; watch escapment<note type="editorial">An escapement is part of the internal mechanism of a watch.</note>
+                    making &amp; in Jewelling them &amp; had several pupils from the country Male &amp; female learning those arts. It was there I first saw the wonders of Science &amp; 
+                    became eager to make some lenses then that my practice in polishing might be profitable I was set to work the jewels for jewell’d holes of watches. These 
+                    <add place="above">are</add> made of rubies the diamond is for ornament not for use, a thin polished ruby disk is under it to touch the pivot end. Thus I made many sets 
+                    &amp; fitted them accurately into their respective watches. <add place="above"><persName ref="pe1276">my Uncle</persName> having made excellent tools for that purpose</add>
+                    Whilst soldering diamonds into their steel mountings with a blow pipe I saw one take fire a small flame rose from it (this was confirm’d some 
+                    y<hi rend="superscript">rs</hi> after when I saw diamonds purposely burnt under the Oxygen blow pipe).<note type="editorial">In the 1770s, the French chemist Antoine-Laurent Lavoisier succeeded in burning a specimen of diamond (a phenomenon predicted by Isaac Newton) by placing it in an oxygen-filled jar and focusing sunlight on the specimen with a lens. This experiment enabled the English chemist Smithson Tennant to carry out follow-up experiments, the results of which he published in 1797, proving that diamond is nearly pure carbon. See Robert M. Hazen, The Diamond Makers (Cambridge: Cambridge University Press, 1999), pp. 9-10.</note>
+                    After this I made lenses &amp; the microscopes for them</p>
+                <p>Bees wax harden’d by much polishing powder<note type="editorial">Varley gives tripoli (primarily consisting of limestone) and iron oxide as examples of polishing powder in an exacting account of making and polishing lenses in Transactions of the Society … for the Encouragement of Arts, Manufactures, and Commerce, vol. 48 (London: n.p., 1831), pp. 332-400, p. 372.</note>
+                    in it was used for polishing all our lenses it is not strong enough to scratch &amp; has no springing or yielding but fits perfectly close to the lens 
+                    &amp; so secures a perfectly continuous surface &amp; a perfect figure to the very edge</p>
+                <p>The very deepest lenses required shell lac<note type="editorial">Shell lac is an insect-derived resin, used in sealing wax, varnish and lacquer.</note>
+                    strengthened with polishing powder</p>
+                <p>With this I made <add place="above">many lenses</add> 1/30 focus <add place="above">several</add> lenses 1/60 of an inch focus &amp; 
+                    three of the 100<hi rend="superscript">th</hi>. I used lenses of 1/10 &amp; 1/20 focus to examine this very small work such lenses bear the largest apperture 
+                    from being so finely perfect in surface &amp; figure. When 14 <add place="above">ys</add>. I made for myself a pocket microscope lenses brass work &amp; all</p>
+                <p>In 1794 when <persName ref="pe1276">my Uncle</persName> was 50y<hi rend="superscript">rs</hi>. he began adding Chemistry to his many pursuits &amp;
+                    afterwards gave me many courses of lectures he contrived much of the apparatus which has continued in use.<note type="editorial">In 1794, Samuel Varley gave twelve lectures on chemistry at Hatton House, Hatton Garden. See Ian Inkster, ‘“Under the eye of the public”: Arthur Aikin (1773-1854), the Dissenting mind and the character of English industrialization’, in Felicity James and Ian Inkster (eds), Religious Dissent and the Aikin-Barbauld Circle, 1740-1860 (Cambridge: Cambridge University Press, 2012), pp. 126-55, p. 132. Like Cornelius after him, Samuel also made his own microscopes, among other forms of scientific apparatus, such as a customised blow pipe and lathe mandrel (device for rotating other pieces of equipment).</note>
+                    In all these I had to help &amp; to work at Philosophical &amp; Chemical apparatus Electrical &amp; Galvanic</p>
+                <p style="center">_______________________________________________________________________________</p>
+                <p><persName ref="pe1276">My Uncle</persName> held <add place="above">musical parties &amp; also</add> microscopic parties<note type="editorial">An obituary for Cornelius Varley, published in volume 11 of The Monthly Microscopical Journal (1874), describes this as a meeting of the ‘Friendly Microscopical Society’, founded by Samuel Varley in 1795.</note>
+                    on one of these a lens of my making 1/30 focus was declared to greatly excel all the other Microscopes.<add place="above">that were brought together on that occasion</add>
+                    The longer a lens is being polished on the usual cloth surface the more is its figure spoil’d besides having a superfine wavy surface invisible to all but the most careful optical examination.</p>
+                <pb n="1v"/>
+                <fw>f. 1v</fw>
+                <pb n="2r"/>
+                <fw>f. 2r</fw>
+                <p style="center">(2a)</p>
+                <p>I had to make large quantities of Oxygen &amp; other gases both for his lectures &amp; Patients he cured by Gas very many maladies that had baffled every other aid.<note type="editorial">For an account of Samuel Varley’s use of oxygenated air for medicinal purposes, see The Philosophical Magazine, Vol. 3 (London: Alexander Tilloch, 1799), pp. 300-2</note>
+                    I was eager after all the Chemical knowledge that were then opening on the world &amp; had learnd that knowledge is no burden but it lightens all other burdens</p>
+                <p>In 1800 I commenced drawing &amp; sketching from Nature taught myself &amp; was soon engaged to teach others<add place="above"><persName ref="pe0831">the Earl of Essex</persName> recommended me &amp; told me what to change</add>
+                    &amp; in so doing I became acquainted with some of the most amiable &amp; excellent of the human race. In <add place="above">June</add>
+                    1801 I was invited to <placeName ref="pl2352">a happy mansion in Norfolk</placeName> to sketch from Nature <persName ref="pe1542 pe1543">The ladies</persName>
+                    coming to sketch with me when ever they liked, here the hardest work I cou’d <add place="above">have</add> perform’d was Glorious 
+                    holiday <add place="above">so closely following</add><del>compar’d with</del> the former indoors occupation tho’ <add place="above">that was</add>
+                    among the wonders of science. The pure air the sense of liberty to ramble any where among the works of creation &amp;
+                    when indoors to be amidst the most cultivated &amp; amiable kindness that removed care &amp; brighten’d hope, has left an impression that nothing will efface. I remain’d in 
+                    <placeName ref="pl2033">Norfolk</placeName> &amp; then in <placeName ref="pl0801">Suffolk</placeName><note type="editorial">This was with the Rous family at Henham Hall in Suffolk, where Varley also taught drawing.</note> 
+                    till Midwinter sketching out of doors in frost &amp; snow, whilst in Town I was engaged in teaching drawing &amp; 
+                    perspective <add place="above">this I learned by having to teach it</add> till June <add place="above">1802</add>
+                    when I went into <placeName ref="pl1221">North Wales</placeName> &amp; was soon join’d by <persName ref="pe0912">My Brother <add place="above">John</add></persName>
+                    &amp; <persName ref="pe1278">Webster</persName>.</p>
+                <p>In 1803 <add place="above"><gap unit="words" quantity="1" reason="illegible"/></add> <del>me &amp;</del> <persName ref="pe1279">Cristall</persName> <del>went</del>
+                    <add place="above"><gap unit="words" quantity="1" reason="illegible"/></add> into <placeName ref="pl0731">Wales</placeName><note type="editorial">A 17-page sketchbook (not digitised) survives from this tour, featuring views of Dolgellau and Cader Idris, and is now held at The Morgan Library &amp; Museum; see  http://corsair.themorgan.org/cgi-bin/Pwebrecon.cgi?BBID=123465. For pencil sketches by Varley of Llantony Abbey and a scene on the Wye, almost certainly dating from this tour, see https://www.royalacademy.org.uk/art-artists/work-of-art/llantony-abbey-wales and https://www.royalacademy.org.uk/art-artists/work-of-art/llantony-abbey-wales</note>
+                    &amp; was join’d by <persName ref="pe1280">Havel</persName>. In 1804 I went to <placeName ref="pl1373">S<hi rend="superscript">t</hi> Albans</placeName>
+                    to sketch<note type="editorial">For an 1804 sketch by Varley, titled ‘Near St Albans’, see http://www.tate.org.uk/art/artworks/varley-view-near-st-albans-t01023</note>
+                    I was one of the Party who held several meetings &amp; determined on forming the Water Colour Society<note type="editorial">The Society of Painters in Water Colours was founded in London in 1804 by a group of artists keen to raise the status of watercolour, which was, they felt, poorly served by the Royal Academy. John and Cornelius Varley were founder members of the Society, as was Joshua Cristall; together with a number of older, more experienced practitioners, this talented group of young painters staged annual shows of their work that created a new taste for watercolour.</note>
+                    &amp; on their first Exhibition had Pencil drawings &amp; Colour’d sketches <add place="above">from Nature</add> of <placeName ref="pl2356">S<hi rend="superscript">t</hi> Albans Abbey.</placeName>.<note type="editorial">For sketches of St Albans that may date from this period, see https://www.themorgan.org/drawings/item/123463 and http://collections.britishart.yale.edu/vufind/Record/1666055</note></p>
+                <p>In 1805 I travelled in <placeName ref="pl1221">North Wales</placeName> quite alone, for the whole season was so Rainy that in most places I was the only traveller.</p>
+                <p>This apparent solitude amidst Clouds &amp; Mountains left me more at large “To hold converse with Natures Charms &amp; 
+                    view her stores untold”.<note type="editorial">Varley is quoting from Canto II of Byron’s Childe Harolde’s Pilgrimage (see ll. 224-5). The publication of Cantos I and II of Childe Harolde in 1812 give this as the earliest possible date for Varley’s undated account of his Welsh travels.</note>
+                    For having been familiar with most of the known Electrical experiments I was better prepared &amp; more at liberty to observe 
+                    &amp; understand what I saw. But To keep a little order I will return to 1803 when I ascended <placeName ref="pl1866">Cader Idris</placeName>
+                    from from <placeName ref="pl1517">Dolgelly</placeName> with <persName ref="pe1279">Cristal</persName>, <persName ref="pe1280">Havel</persName>,
+                    &amp; several others.<note type="editorial">For a depiction of Cader Idris by Joshua Cristall, probably made on the spot on this tour, see https://www.themorgan.org/collection/drawings/122907</note>
+                    When evening approached all the party except me &amp; <persName ref="pe1279">Cristal</persName> descended for prudence sake while there was light enough to 
+                    <add place="above">see</add> their way but the increasing grandeur &amp; brilliancy of the scene <add place="above">above</add>
+                    detain’d us (thro’ all risks) to enjoy the splendour <add place="above">we were much higher than the surrounding mountains</add>
+                    the Sun surrounded by small bright &amp; lofty clouds <add place="above">illum’d the whole heavens &amp;</add> was spreading his beams over 
+                    <add place="above">a bright</add> ocean of lower clouds</p>
+                    <fw>f. 2v</fw>
+                    <pb n="3r"/>
+                    <fw>f. 3r</fw>
+                <p style="center">(3a)</p>
+                    <p>which in one great sheet spread over all the lower Mountains causing a gloomy <add place="above">dark &amp; early</add>
+                    night in all <add place="above">the</add> valleys, &amp; <add place="above">distant</add> cottage light cou’d be seen feebly glimmering.<note type="editorial">This scene may be the one portrayed by Joshua Cristall in a sketch dating from c.1803, ‘Mountainous Landscape with Clouds’; see http://collections.britishart.yale.edu/vufind/Record/3488551</note>
+                    Thus night below &amp; glorious sun shine above, then golden Vapour began to play on out Mountain, but on looking Eastward that end of the mountain was coverd 
+                    by a luminous fog or Cloud on which we saw <add place="above">in perfection</add> (what has been mysteriously described as the Spectre of the Brocken)<note type="editorial">In this passage Varley describes the appearance of a Brocken Spectre, an optical effect produced when the observer stands above the upper surface of a cloud or fog, with the sun behind them so that their shadow is projected onto the cloud. He goes on also to describe the appearance of a glory (‘a bright halo or ring of light’), a circular rainbow-like phenomenon, which surrounds the Brocken Spectre or shadow. For a discussion of the Brocken Spectre in Romantic-period literature, see Sebastian Mitchell, ‘Dark Interpreter: Literary Uses of the Brocken Spectre from Coleridge to Pynchon’, Dalhousie Review, 87: 2 (2007) 167-88; https://dalspace.library.dal.ca/handle/10222/61674 </note>
+                    a bright halo or ring of light with our distinct Shaddows within we were on the highest brow <add place="above">of the mountain</add>
+                    the shadow of which intercepted the lower part of the ring &amp; on it stood our whole shadows the head of my shadow was 
+                    <add place="above">in</add> the center of his ring &amp; my shadow beside his we threw up our hats &amp; moved about the shadow did the same 
+                    &amp; when we <add place="above">moved</add> rather far apart <add place="above">each others shaddow</add> quickly lost distinctness 
+                    <add place="above">&amp; faded away</add> but not our own for each of us had a perfect shadow &amp; concentric ring around it. These shaddows appeared to be distant 
+                    &amp; therefore gigantic (the only cause of mystery). The suns rays penetrated into the cloud quite as far as any vapour cou’d receive our shadows 
+                    <add place="above">&amp; as</add> cloud light spreads laterally it therefore rendered our shaddows pale &amp; the only light on the shadows was from the blue sky consequently they appeard 
+                    exactly of the same pale milky grey as only the most distant clouds &amp; mountains can appear this gives the notion that they 
+                    <add place="above">also</add> must be far off but their distinctness <add place="above">&amp; their size</add> is the real corrector of that error.</p>
+                <p>The sun at 10y.<add place="above">ds – from our eyes</add> measures 3 inches <add place="above">diameter</add> consequently our shadows at that distance has 3 inches of penumbra all round 
+                    <add place="above">causing</add> just so much softening <add place="above">or indistinctness</add> of their margin. but at 60y.<add place="above">d</add>
+                    the sun is 18 <add place="above">inches which is</add> about the width of our body.</p>
+                <p>Consequently the two penumbra meet &amp; soften the whole Shaddow leaving scarcely a bur<note type="editorial">‘A circle of light round the moon (or a star) … The original sense seems to have been merely “circle, halo”; but in modern use there is usually the notion of a nebulous or nimbous disc of light enfolding the luminary’. OED.</note>
+                    to indicate its place. Therefore I conclude that our shaddows were not more that 10y.<hi rend="superscript">d</hi> distant altho’ their pale grey colour impress’d us with a notion of their being 100 or more
+                    y<hi rend="superscript">ds</hi> distant &amp; exactly gigantic in that proportion. <unclear>also appeared</unclear> 
+                    on the same angle which can be known &amp; our shadows <add place="above">remain of one size</add> keep to our size so measure the radius by our shadow its real diameter 
+                    &amp; its real distance may be known</p>
+                <p>This bright vision &amp; the sun gradually disappeared leaving us in grey twilight</p>
+                <p>Clouds <add place="above">at such time</add> are not visible when you are close to them so whilst we were being glad at the absence of clouds 
+                    <add place="above">keeping</add> from us we were sudden<hi rend="superscript">ly</hi> enveloped in <add place="above">them</add>
+                    <del>clouds</del> &amp; they became so dense that at arms length our finger ends touching, we cou’d not see each other we then hastend 
+                    down lower to get below these clouds &amp; endeavord to find the horse <add place="above">track</add><del>road</del>
+                    but we cou’d not so we return’d close round the summit &amp; hasten’d down the natural slope of many fallen stones sometimes sliding midst a number &amp;
+                    having to jump aside to avoid the loosen’d ones which rolld after us I had stiff boots on so cou’d risk more</p>
+                    <fw>f. 3v</fw>
+                    <pb n="4r"/>
+                    <fw>f. 4r</fw>
+                    <p style="center">(4a)</p>
+                    <p>&amp; being in advance of <persName ref="pe1279">Cristal</persName> had to avoid the stones which he loosen’d some of which we heard splashing into the pool below the light from it being our only guide. 
+                    This slope was certainly dangerous in the dark &amp; with a hurried descent but having escaped it we were fairly below the clouds 
+                    &amp; cou’d see about tho the darkness was rapidly increasing we then hasten’d to see the second lower lake &amp; 
+                    groped our way down to its margin with <add place="above">its light being our only guide</add> no track to lead us but 
+                    <add place="above">when</add> then we follow’d a track which led us along its outlet till we found ourselves in a road 
+                    &amp; here we were lighten’d of our anxiety tho it was <add place="above">so</add> very dark <add place="above">that</add>
+                    we coud se but little before us this road led our really weary steps into <placeName ref="pl1517">Dolgelly</placeName>
+                    were we arrived after 12 O clock nearly overcome by anxiety &amp; fatigue (<add place="above">having spent</add> a 
+                    day of 18 hours) but to our delight we found a hot substantial supper on the table to which (tho’ scarcely able to keep awake) we set to in good earnest*<note type="authorial">‘* Our friends at the other Inn had twice sent over to know whether we had arrived &amp; I suppose that in the perfect stillness our foot steps were heard approaching’</note></p>
+                <p style="center">A Commencement of Clouds &amp; then of Rain</p>
+                <p>In 1805 whilst seated on the North bank of the <placeName ref="pl2034">Vale of Llanllyfni</placeName><note type="editorial">For Varley’s watercolour sketch of cottages at Llanllyfni, a village west of Snowdon, dating from this tour, see http://collections.britishart.yale.edu/vufind/Record/1666048</note>
+                    <placeName ref="pl1183">Snowden</placeName> seen <add place="above">on my left hand</add> over the East.<hi rend="superscript">n</hi>
+                    end the Sky was clear <add place="above">pale</add> blue except a little line<note type="authorial">‘whilst rejoicing at so clear a day thre little clouds
+                        <add place="above">***</add> appeard over the hills before one these were slowly sailing towards <placeName ref="pl1183">Snowdon</placeName>
+                        as they left others formed in their first place &amp; followed then three more
+                        <lb/>forming a ______________________</note> of small clouds sailing above the southern range &amp; keeping their path over those summits proceeded 
+                    <add place="above">eastward</add> towards <placeName ref="pl1183">Snowdon</placeName> over whose highest peak they all 
+                    <add place="above">in succession</add> passed but here they paid particular respect <add place="above">each cloud</add>
+                    as it approached &amp; passed <add place="above">over the peak or highest part</add> took a very determinate 
+                    &amp; stratified form, but when passed &amp; clear of its attraction they resumed their unshapely form, some 
+                    <add place="above">whilst proceeding</add> sent out projections towards 3 or 4 summits as they passed between &amp;
+                    drew them in again when they got <del>passed</del> clear of those attractions. But while these clouds were passing eastward fresh formd
+                    one kept adding &amp; following so they grew larger &amp; longer towards the wind which fed them &amp; carried them along till their size wrapped over &amp;
+                    hid the top line of the whole southern range of hills. Then rain began at the eastern end &amp; obscured that portion 
+                    <add place="above">of the hills</add> &amp; <add place="above">the rain</add> gradually extended westward <add place="above">over the range</add>
+                    while the <add place="above">line of</add> Clouds were growing for miles over the sea whose distant horizon was still clear
+                    <add place="above">and <gap unit="words" quantity="1" reason="illegible"/></add> but the rain gradually extended till over the sea &amp;
+                    then <add place="above">progressively</add> obscured the whole horizon. here was a single line of clouds &amp;
+                    rain of many miles in length I was yet in fine weather on the northern side <add place="above">&amp; the rest of the sky clear</add>.
+                    At first the mountains renderd <del>the air electrically minus</del><note type="authorial">‘The moist air over them minus, its moisture thus became visible as small clouds’</note>
+                    &amp; as the <add place="above">moist</add> air followed it <add place="above"><unclear>kept</unclear></add> lost electricity enough so coud 
+                    not hold its vapour in <del>invisible</del> solution but deposited it <add place="above">&amp; kept adding</add>
+                    small clouds &amp; as these floated over the mountains they were kept minus so more clouds kept forming behind them, &amp; 
+                    when they began to descend</p>
+                <p style="center">______________________________________________________________________</p>
+            </div>
+            <div type="appendix">                
+                <pb n="1r"/>
+                <fw>f. 1r</fw>
+                <p>A Theory of the Atmosphere shewing the formation of Clouds, their permanent existence, &amp; their precipitation in rain or snow, &amp;
+                    the consequent rise or fall of the Barometer, presented to the Public of Science for their examination;</p>
+                <p style="center">by Cornelius Varley<note type="editorial">This fair copy manuscript is closely related to an expanded account published by Varley in The Philosophical Magazine in 1807. The published version, however, makes no mention of the explicitly Welsh context of these observations, outlined in Varley’s memoir-tour and in the unpublished draft of the paper. It also expands the list of general laws at the end of account from six to seven, and adds a further section discussing electricity, weather and atmospheric conditions. See ‘On Atmospheric Phænomena: particularly the Formation of Clouds; their Permanence; their Precipitation in Rain, Snow, and Hail; and the consequent Rise of the Barometer’, The Philosophical Magazine, Vol. 27 (London: R. Taylor, 1807), pp. 115-21</note></p>
+                <p>I will first relate the Observations which led to this Theory which every one can easyly repeat</p>
+                <p>1.<hi rend="superscript">st</hi> In a Thunder Storm I observ’d in the air Small specs of clouds appear which quickly grew larger &amp;
+                    roundabout in every clear place others were forming which all kept uniting &amp; form’d very large clouds which prov’d to be well charg’d with Electricity by discharging it in sparks on the Earth 
+                    &amp; then the cloud clos’d into drop of rain &amp; fell in a heavy shower to the ground but as it well known that bodys charg’d with Electricity never discharge the whole of it at one shock, so this cloud had not discharg’d all for as much Electricity as it had lost so much of the Cloud fell
+                    <pb n="1v"/>
+                    <fw>f. 1v</fw>
+                    fell down directly in rain &amp; the small residium that remain’d held its portion of Cloud pendent in the air without raining which joind 
+                    with larger ones that had just form’d &amp; was then ready for another discharge</p>
+                <p>2.<hi rend="superscript">d</hi> In fine weather when the wind was Easterly I observ’d the very reverse effect for I saw large Clouds one or two miles distance coming 
+                    <add place="above">from over <placeName ref="pl1866">Cader Idris</placeName></add> before the wind which were constantly breaking in pieces &amp;
+                    disolving in the air &amp; were quite disolv’d before the wind coud bring them over my head I have also been under clouds that were disolving 
+                    &amp; there was nothing like rain  but when the Clouds touch the mountains I have seen them break &amp; disolve quickest</p>
+                <p>3.<hi rend="superscript">d</hi> when this same Fine weather had continued some days when there was no cloud the sky was very pale owing to the mist in the air which so obscur’d the distant mountain that you cou’d see little more than 
+                    the<hi rend="superscript">ir</hi> outline (<del>which</del> <add place="above">this</add> proves that the air does not hold
+                    <pb n="2r"/>
+                    <fw>f. 2r</fw>
+                    it <add place="above">quite</add> in solution for if it did it wou’d be perfectly transparent) but directly some clouds came the sky round them
+                    &amp; afterwards all over became quite bright &amp; the distance more distinct</p>
+                <p>4.<hi rend="superscript">th</hi> this weather with the same wind lasted about a fortnight on the first evening I saw no dew fallen on the second I perceiv’d a little on the third more which increas’d every evening till it became so thick that directly the sun was set it obscur’d the ground 
+                    &amp; the morning were very foggy &amp; every day the sky became more misty as in third observation this prov’d that every day the Sun rais’d a quantity of vapour which found not enough Electricity to support it in the night &amp;
+                    raise it up to the clouds, the Electricity being gradualy taken up from the Earth to form clouds during the fine weather towards the end there was so little left that almost all the vapour rais’d in the day fell down in the night 
+                    &amp; <del>produc’d those foggy morning</del>
+                    <pb n="2v"/>
+                    <fw>f. 2v</fw>
+                    I give the following as laws</p>
+                <p>1.<hi rend="superscript">st</hi> that no Cloud can be form’d or exist without Electricity
+                    <lb/>2.<hi rend="superscript">d</hi> that no Cloud can rain till it parts with some of its Electricity
+                    <lb/>3.<hi rend="superscript">d</hi> that it never can rain hail or snow unless the Electric state of the Earth is <add place="above">comparitively</add>
+                    negative, as the clouds must always be <add place="above">more or less</add> positive <del>according to the Theory of one Electric fluid</del>
+                    <lb/>4.<hi rend="superscript">th</hi> that Electricity is the suspending power in Clouds b<add place="above">y clothing each particle with an Electrical atmosphere ʘʘʘ</add>
+                    <lb/>5.<hi rend="superscript">h</hi> that in fine weather the clouds are separating &amp; in stormy weather uniting
+                    <lb/>6.<hi rend="superscript">th</hi> that water can exist permanently in 4 states &amp; be in one temporary 2 by means of Electricity &amp;
+                    3 without it the first Electrical state is that of Cloud <add place="above">in</add> which <add place="above">each particle</add>
+                    is so much charg’d ʘʘ as to become lighter than air at the surface of the Earth the second is a complete saturation or solution of water in the Electric fluid which produces a transparent 
+                    &amp; elastic fluid light enough to float above the highest Cloud the first plain state is Ice the second is liquid the ▲ third which is quite temporary is 
+                    <add place="above">steam</add> vapour for directly the supply of heat which was raising it is stopt it begins to lose that heat &amp; falls back into its first state of Water.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0056">
+    <teiHeader type="s">
+        <fileDesc>
+            <titleStmt>
+                <title>Anonymous, Journal of a Voyage to the Western islands of Scotland — from July 7. to Aug.
+                    7. 1810
+                    <date>1810</date></title>
+                <author/>
+                <respStmt>
+                    <name>Edited with an Introduction by Alex Deans</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <date when="1810"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>MS.10257</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>T.W.<note type="editorial">The NLS catalogue notes suggest that T.W. is one T.
+                        Winfield, the author of the manuscript.</note></p>
+                <p>
+                    <hi rend="underline">1810</hi>
+                </p>
+                <p><pb/>
+                <fw>i</fw>
+                T. Winfield</p>
+                <p>
+                    <hi rend="underline">1810 —</hi>
+                </p>
+                <p><pb/>
+                <fw>ii</fw>
+                Journal <lb/>of a <lb/>Voyage to the Western <lb/>islands of Scotland — <lb/>from
+                    July 7. to Aug. 7.</p>
+                <p>
+                    <hi rend="underline">1810.</hi>
+                </p>
+                <p><pb n="1"/></p>
+                <p>July. 7<hi rend="superscript">th.</hi> 1810 —</p>
+                <p>We this day agreed with Mess<hi rend="superscript">rs.</hi>
+                    <persName ref="pe0218">M<hi rend="superscript">c.</hi>Iver</persName>, <persName ref="pe2087">M<hi rend="superscript">c.</hi>Viccar</persName>, and <persName ref="pe2088">M<hi rend="superscript">c.</hi>Corquodale</persName> of
+                        <placeName ref="pl0723">Liverpool</placeName>, to hire a sloop of theirs in
+                    the <placeName ref="pl0603">Greenock</placeName> Trade — for the purpose of
+                    taking a voyage amongst the <placeName ref="pl0708">Western Islands</placeName>
+                    of <placeName ref="pl0705">Scotland</placeName>, touching at any place we might
+                    think proper —<hi rend="superscript">x</hi><note type="authorial"><hi rend="superscript">x</hi> Had we not done this, we sh<hi rend="superscript">d.</hi> have incurred considerable expence from the
+                        additional premium required on insurance — chiefly on account of the number
+                        of Privateers, Danish &amp; other, which frequent the N. Seas.</note> but
+                    stipulating that the <placeName ref="pl2902">Butt of Lewis</placeName> should be
+                    the most Northerly point of our Cruise — Every thing being in readiness, we
+                    shipped our sea store — and went on board the vessel at three o-Clock — and
+                    immediately got under weigh the breeze was very light — but <pb n="2"/> the Ebb
+                    Tide soon carried us far beyond the <hi rend="superscript">x</hi><placeName ref="pl2904">Black Rock</placeName><note type="authorial"> a low Rock
+                        running out into the Sea at the N. Western Point of <placeName ref="pl2905">Wirral</placeName>, wh<hi rend="superscript">c.</hi> together with the
+                        sand banks that stretch out from nearly the same place render the entrance
+                        into <placeName ref="pl2906">Liverpool River</placeName>, narrow &amp;
+                        difficult.</note> — The sight of the welsh coast, with the <placeName ref="pl1958">Great ormshead</placeName> &amp;c induced us to endeavour to
+                    get into <placeName ref="pl1486">Beaumaris</placeName> — but the tide failing us
+                    when we came to <placeName ref="pl1959">Puffin Island</placeName>, &amp; the
+                    wind not quite fair we took the small <add place="above">boat</add> a shore to
+                        <placeName ref="pl1487">W Penmon Point</placeName> — &amp; from thence
+                    walked up to <placeName ref="pl1486">Beaumaris</placeName> about 5 miles distant
+                    — <hi rend="superscript">x</hi><note type="authorial"><hi rend="superscript">x</hi> The Captain in the mean time brought our vessel up to the Point
+                        above the Town —</note> The same afternoon we left it by return of the Ebb
+                    Tide — &amp; passing between <placeName ref="pl1488">Priestholme
+                        Island</placeName> &amp; the <placeName ref="pl1487">Penmon P<hi rend="superscript">t.</hi></placeName> steered for the <placeName ref="pl0707">Isle of Man</placeName> — at two oClock a.m. the morning
+                    following — we came to in the bay of <placeName ref="pl1590">Douglas</placeName>
+                    — near to the Light House — The architecture of this aspires at more ornament
+                    than buildings of this sort in general boast of being <gap reason="illegible" unit="words" quantity="1"/> having pilasters around it, with pannels between
+                    them <pb n="3"/> &amp; a deep frieze &amp; cornice above them — it is almost
+                    handsome, but the upper part looks heavy &amp; ill suited to the lower — it
+                    stands at the end of a very substantial &amp; beautiful Quay — or rather pier —
+                    built with an exceedingly hard stone of a reddish colour — which is brought from
+                    the <placeName ref="pl0719">isle of <hi rend="underline">Arran</hi></placeName>
+                    on the left, immediately opposite to the light House — is seated a large white
+                    House belonging to <persName ref="pe2090">M<hi rend="superscript">r.</hi>
+                        Wallesly</persName> the situation of it, would be particularly fine — if
+                    there were any trees near it, but at present it seems naked &amp; exposed —
+                    about a mile to the N.E. of the Town stands a new built house of the <persName ref="pe0548">Duke of Athol’s</persName> — it is on the flat sandy beach,
+                    quite low with lofty hills rising immediately at the back of it — but yet from
+                    its size, it is conspicuous, &amp; certainly looks fine — it consists <add place="above">chiefly</add> of a large square with square Towers at the <gap reason="illegible" unit="words" quantity="1"/> angles —</p>
+                <p><pb n="4"/>
+                In the harbour of <placeName ref="pl1590">Douglas</placeName> we saw a number of
+                    vessels some of them particularly an american just come in, of a large size,
+                    which gave it a very commercial appearance — but the Quay is the only
+                    respectable part of the Town — the streets are narrow &amp; dirty — In the
+                    evening we went to the Theatre Royal, to see the <bibl type="authorial"><title ref="bi0697">Merchant of Venice</title></bibl>, &amp; a Harlequin
+                    Pantomime — bespoken by <persName ref="pe2091">Sir J<hi rend="superscript">n.</hi> Piers</persName> — The Theatre is <add place="above">a</add>
+                    very small room — but the performances were by no means bad — We here had an
+                    opportunity of seeing pretty closely several noted characters, who honour the
+                    island with their presence for their own private convenience — what is singular
+                    They wear a costume peculiar to themselves, wh<hi rend="superscript">c.</hi>
+                    makes them look ridiculous — it consists of long blue Trowsers, which reach up
+                    to the chest almost — having a buff waistcoat underneath <add place="above">over</add> above which the red braces are seen — for the short child’s
+                    jacket which they wear studded with little bell buttons, is constantly thrown
+                    open — with this they wear a <pb n="5"/> black, or coloured silk handkerchief
+                    high up to their chins — whiskers, if not mustachios also, enormous, and
+                    occasionally large rings thro their ears — Were not the character of these men
+                    known, their dress &amp; manners are such as to <add place="above">excite
+                        disgust</add>
+                    <gap reason="authorial" unit="lines" quantity="14"/><note type="editorial">There
+                        is a significant deletion here of approximately 14 lines. The deleted
+                        passage appears to be an invective against the Manx natives.</note></p>
+                <p> We left the <placeName ref="pl0707">Isle of Man</placeName> the day following
+                    about 4 oClock P.M. &amp; coasted slowly round to <placeName ref="pl2907"><unclear reason="illegible">Mauglan</unclear> head</placeName>, &amp;
+                    the <placeName ref="pl1585">Point of Air</placeName> — from hence we saw
+                        <placeName ref="pl2908">Jurby Head</placeName> &amp; as we sailed onward,
+                    could descry the whole coast towards <placeName ref="pl2909">Peel</placeName> —
+                    &amp; even beyond it — towards the <placeName ref="pl2910">Calf of
+                        Man</placeName> — the Land is for the <add place="below">most part</add>
+                    <pb n="6"/> Mountainous (but <add place="above">tho’</add> not very high) —
+                    where it is otherwise it appears very rich &amp; fertile — but every where
+                    appears <add place="above">there is</add> a great scarcity of trees, without
+                    which a country can never boast great pretensions to beauty — we soon got sight
+                    of the <placeName ref="pl2911">Mull of Galloway</placeName> — but on nearing it,
+                    the wind failed — <hi rend="superscript">x</hi><note type="authorial"><hi rend="superscript">x</hi> off</note> The Tide carried us some distance
+                    back — but in the afternoon we again had it in our favour — and early on the
+                    morning following we were opposite to <placeName ref="pl2912">Port
+                        Patrick</placeName> — at this Time it was perfectly calm — &amp; a thick fog
+                    came on — about mid day it cleared up — &amp; we saw the <placeName ref="pl0632">Craig of Ailsa</placeName> at a distance — rising from the sea in the form
+                    of a cone — very high &amp; abrupt — it <add place="above">is</add> an
+                    exceedingly fine object — &amp; well worthy of a visit — before we landed on it
+                    — we fired a swivel — but the number of birds disturbed by it, was not <pb n="7"/> so great as we had been led to expect — there were however immense numbers of
+                    them to be seen — we found the Tacksman on shore with about half a dozen men,
+                    whom he employs to destroy the birds, which is done for the sake of the feathers
+                    — for which the proprietor of the rock, L<hi rend="superscript">d.</hi>
+                        Elphinstoune<note type="editorial">The proprietor of Ailsa Craig was
+                            <persName ref="pe2092">Archibald Kennedy</persName>, twelfth earl of
+                        Cassillis and first baron of Ailsa.</note> receives a rent of about <hi rend="underline">£30</hi>, as we were told — no guns are allowed to be fired
+                    on the island. &amp; the only method Employed for destroying the birds is by
+                    robbing their nests — this is done by men who having fastened a rope to the
+                    summit of a rock lower themselves down, until they meet with a nest in which the
+                    birds are concealed — many of which are knocked down by a <add place="above">long</add> stick, which the man always carries with him for the purpose —
+                    we walked up with some difficulty to the castle, a small square tower at about
+                    one third of the <pb n="8"/> way to the Top — the ascent is narrow &amp; very
+                    steep — but it is the only part that is accessible — for the rock is almost
+                    perpendicular on everyside — our sail from hence to <placeName ref="pl0603">Greenock</placeName> up the <placeName ref="pl0833">Frith of the
+                        Clyde</placeName> was very pleasant — the banks being very beautiful on each
+                    side — the long coast of <placeName ref="pl2586">Ayr</placeName> extending on
+                    the Eastern Side — with <placeName ref="pl0719">Arran</placeName>, <placeName ref="pl0714">Bute</placeName> &amp;c opposite &amp; the 2 islands of
+                        <placeName ref="pl2556">Cumray</placeName> between them — We did not reach
+                        <placeName ref="pl0603">Greenock</placeName> until the following morning
+                    about four oClock — the Town is not large but part of it is tolerably handsome —
+                    The new <hi rend="superscript">x</hi><note type="authorial"><hi rend="superscript">x</hi> Protestant. the living is worth about £600 –
+                        &amp; is one of the best in <placeName ref="pl0705">Scotland</placeName> —
+                    </note>Church, &amp; the Tontine are the best public <sic>building</sic> —
+                    indeed they are the only ones worth notice excepting a castellated Gaol, now
+                    building at the back of the church. — The Presbyterian Kirk is seen as you enter
+                    the Town from the Westward — it is large &amp; rather ancient — The Trade of
+                        <placeName ref="pl0603">Greenock</placeName><pb n="9"/> is considerable —
+                    together with <placeName ref="pl0602">Port Glasgow</placeName> it has the whole
+                    trade of <placeName ref="pl0229">Glasgow</placeName> — but yet we found great
+                    difficulty at the Bank in getting change for our English notes — of which they
+                    always have suspicion — &amp; will scarcely ever take them — we were under the
+                    necessity of indorsing the notes with our name, &amp; particulars of Residence.
+                    — The situation of <placeName ref="pl0603">Greenock</placeName> is quite
+                    beautiful — the Sea has the appearance of a large Lake encircled with mountains,
+                    in general well cultivated &amp; fertile — with the rugged mountains of
+                        <placeName ref="pl2916">Cowal</placeName> rising beyond the <persName ref="pe1433">Duke of Argyles</persName> woods at one extremity, while the
+                    celebrated rock of <placeName ref="pl0226">Dunbarton</placeName> rises at the
+                    opposite end — <placeName ref="pl0602">Port Glasgow</placeName> is also seen on
+                    the shore, about four of 5 miles higher up than <placeName ref="pl0603">Greenock</placeName> — &amp; looks very beautiful — Leaving <placeName ref="pl0603">Greenock</placeName>
+                    <pb n="10"/> we again sailed along the <placeName ref="pl0833">Frith of
+                        Clyde</placeName> — &amp; saw the <persName ref="pe0278">Marquis of
+                        Bute’s</persName> house <placeName ref="pl0616">Mount Stuart</placeName>, in
+                    a delightful situation on <placeName ref="pl0714">Bute Island</placeName> not
+                    far from <placeName ref="pl0619">Rothsay</placeName> — the house does not appear
+                    very large or <unclear reason="illegible">grand</unclear> — with the woods
+                    around it the land which appears uncommonly fertile under it beautiful — The
+                    whole island is said to be very rich &amp; good — &amp; in general not very
+                    mountainous — <placeName ref="pl0719">Arran</placeName> also is said to contain
+                    Excellent land — but it has more mountains of which <placeName ref="pl0626">Goatfield</placeName> is particularly high — &amp; from its form &amp;
+                    situation near the Sea, uncommonly fine — at the foot of it stands <placeName ref="pl0625">Brodick Castle</placeName>, belonging to the <persName ref="pe0250">Duke of Hamilton</persName>, as descendant from <placeName ref="pl0232">Chatelherault</placeName> — in fact the whole island, excepting
+                    only one or two small farms, is the property of the Duke — we landed at
+                        <placeName ref="pl0629">Brodick</placeName>
+                    <pb n="11"/> &amp; walked up to the castle, which commands a very noble view of
+                    the sea, with fine mountainous country around it — we were desirous of seeing
+                    the interior of the Castle — but on sending to the Tacksman who lives <add place="above">in</add> it, to request leave — we were told that the
+                        <persName ref="pe2152"><hi rend="underline">Laird Lamont</hi></persName> was
+                    at dinner, &amp; could not see us — we therefore took our leave — &amp; found a
+                    reception at the inn below — where we also met with some Excellent Whiskey — at
+                        3<hi rend="superscript">L.</hi> the bottle — We now soon came under
+                        <placeName ref="pl0631">Lamlash island</placeName>, which rises very nobly
+                    from the sea, &amp; is in height &amp; form peculiarly fine it stands in front
+                    of the entrance into a bay &amp; harbour of the same name — in which is good and
+                    safe anchorage —</p>
+                <p><pb n="12"/>
+                on the following morning we found ourselves not far from the <placeName ref="pl2915">Mull of Cantire</placeName> — but the weather being calm —
+                    &amp; the Tide against us — we endeavoured in vain to get round <placeName ref="pl2629">Fair Head</placeName> on the coast of <placeName ref="pl0889">Ireland</placeName> — and therefore we took the small boat, &amp; went on
+                    shore in <placeName ref="pl3004">Cushendon bay</placeName> — about a mile to the
+                    South of <placeName ref="pl3003">Torr’s point</placeName> — The coast is every
+                    where on this part steep, rugged &amp; dangerous — We were told by the
+                    inhabitants many of whom crowded to us on our landings — that the distance from
+                        <placeName ref="pl2913">Bally castle</placeName> was exactly seven miles —
+                    that for the first two miles we had to ascend the hills, but that afterwards, we
+                    should find an excellent level road — We were four hours in walking to
+                        <placeName ref="pl2913">Ballycastle</placeName> — &amp; the distance could
+                        <pb n="13"/> not be less that 13 or 14 miles <note type="authorial">The
+                        Country is on all sides dreary &amp; mountainous —</note> About half a mile
+                    before you come to the <hi rend="underline">Town</hi> of <placeName ref="pl2913">Bally castle</placeName> we passed the remains of an abbey which seems to
+                    have been extensive it is now much used as a place of burial — &amp; the smell
+                    of it we found quite offensive, as the night-fell — the Town is about a quarter
+                    of a mile distant from the sea, &amp; consists principally of one street on the
+                    brow of a hill — the houses are poor — &amp; the inn tho’ not promising in
+                    appearance is tolerably comfortable — The best houses are to be seen on the Quay
+                    — but the harbour of <placeName ref="pl2913">Bally castle</placeName> does not
+                    seem much frequented — the water is very deep — opposite to it is <placeName ref="pl3006">Church Bay</placeName> in the island of <placeName ref="pl3005">Raughlan</placeName> in which is better anchorage in most winds except
+                    those from S.W.</p>
+                <p><pb n="14"/>
+                We slept at <placeName ref="pl2913">Bally castle</placeName>, &amp; hired
+                        horses<note type="authorial">for these we paid seven shillings each —</note>
+                    for the following morning to take us to <placeName ref="pl2913">Bally
+                        castle</placeName>, the <placeName ref="pl2725">Giant’s
+                    Causeway</placeName>, said to be nine miles distant — but in reality 10 ½ miles
+                    English <add place="above">Irish</add> — or nearly 14 English — when we had gone
+                    about 3 miles — we left our horses at some cabins near the road — &amp; walked
+                    down a short distance towards the sea to the “<placeName ref="pl3007">flying
+                        bridge of Carregarhiad</placeName>”<note type="authorial"><handShift/><hi rend="superscript">+</hi> Similar to <placeName ref="pl3008">South
+                            Stack</placeName> —</note> which is formed of robes with two thin boards
+                    about 18 inches wide <add place="above">lashed</add> upon them — &amp; one rope
+                    for the hand to hold as you pass over — These ropes are belayed on each side of
+                    a vast chasm &amp; connect a high perpendicular rock, &amp; the main land whose
+                    front is equally bold &amp; perpendicular with the sea about 50 yards in breadth
+                    dashing beneath, at a depth of perhaps 100 yards — This <pb n="15"/> bridge is
+                    merely put up in the summer months for the use of the fishermen who rent a
+                        <sic>consderable</sic> salmon fishery carried on, beneath the rock — to
+                    which there is no access by across the flying bridge — the whole is not unlike
+                    the <placeName ref="pl3008">South Stack light house</placeName> near <placeName ref="pl1018">Holy Head</placeName> — but is much more fearful—</p>
+                <p>From hence — we kept on the Summit of the cliffs near the Coast — passed a castle
+                    very curiously situated on a ridge of rock detached from the Cliff which
+                    commands it — but before the invention of Powder it was probably a place of
+                    Great Strength like other it is merely one square Tower — not large — we took
+                    several views, looking from the summit of the perpendicular cliffs which
+                    overhang the Sea — that of Pleaskin <pb n="16"/> is most fine — the columnar
+                    forms of the rock is certainly very singular &amp; curious — Soon after this we
+                    met with some<hi rend="superscript">x</hi><note type="authorial">The Two guides
+                        whom we took from <placeName ref="pl2913">Ballycastle</placeName> did not
+                        seem to know any thing of the country.</note> guides, who conducted us down
+                    one of the steepest parts of the mountain by a little slippery dangerous path,
+                    down immediately upon the <placeName ref="pl2725">Causeway</placeName> — The
+                    first object shewn is a large stone called absurdly the Giant’s chair, not far
+                    from this, a few columnar appearances in the side of a rock are called the organ
+                    — There are 3 causeways — the larger one, stretches out about 250 yards into the
+                    sea, from the base of a high cliff — the other two, are but very small — indeed
+                    they properly form parts of the larger one — the basaltic columns forming the
+                    causeway do not rise high — &amp; are merely to be considered as a great natural
+                    curiosity — They have 4. 5. <pb n="17"/> 6. 7. &amp; 8. sides indiscriminately
+                    but all compactly fitting into one another — &amp; some of them very perfect
+                    &amp; regular. — The shore appears rough and dangerous even for boats to land. —
+                    Leaving the <placeName ref="pl2725">Giant’s causeway</placeName> with some
+                    little disappointment, we walked up the hill to an inn newly built, — where our
+                    horses were ready for us — we were followed by about 20 men all claiming the
+                    merit of having been our guides &amp; having <del unit="words" quantity="1"/>
+                    conducted us — all of them it was impossible to satisfy — &amp; this attempt at
+                    an imposition did not tend to make us more pleased with the <placeName ref="pl2725">Giant’s causeway</placeName> — we now took the high road back
+                    again, and at 6 oClock in the Evening were happy to find ourselves on board our
+                    vessel in <placeName ref="pl2913">Ballycastle Bay</placeName> — which we
+                    instantly quitted — &amp; stood out for the <placeName ref="pl2915">mull of
+                        Cantire</placeName> — at five oClock the next morning </p>
+                <p><pb n="18"/></p>
+                <p>the Tide began to flow so strong that we were fortunate in casting anchor in
+                        <placeName ref="pl3009">Loch nakeel</placeName> — to wait the return of it —
+                    here we took the large boat &amp; rowed to an island which we had just passed,
+                    about 3 miles astern of us — one of <placeName ref="pl3010">M<hi rend="superscript">c.</hi> Cormac’s</placeName> isles — in which we
+                    found the remains of a building which has every appearance of a small chapel
+                    attached to a dwelling House — within this we found an arched recess, with a
+                    figure of a priest in his robes laying upon the stone below it. the figure is
+                    only 4 feet 6 inches long — but the stone is 6<hi rend="superscript">ft.</hi> 6
+                    in. — it is said to be the burial place of the priest of <persName ref="pe2100">M<hi rend="superscript">c.</hi> Cormac</persName> — the Chieftain
+                    himself is buried a little to the Eastward of the chapel, with <lb/>encircled by
+                    a low wall</p>
+                <p><pb n="19"/>
+                Close to the South wall of the chapel is shewn a plain Grave without any stone,
+                    or other mark — Said to contain the remains of <persName ref="pe2100">M<hi rend="superscript">c.</hi> Cormac’s</persName> daughter — on the highest
+                    part of the island which may perhaps be a quarter of a mile long — stands a
+                    broken cross — which has once been beautiful — one side richly carved &amp;
+                    ornamented — with a rude figure representing our Saviour on the Cross — &amp;c —
+                    the other filled with writing which cannot now be easily decyphered — we were
+                    told very seriously by a fisherman who lives in the neighbourhood — that an
+                    Irishman once attempted to carry off this cross — but that so long as he had the
+                    cross on board his ship — he was unable to get home — &amp; was tossed about,
+                    until he threw it overboard near the <placeName ref="pl2915">Mull of
+                        Cantire</placeName> — from whence the cross floated back to it’s own island
+                    — but was broken in the manner now seen — The same <pb n="20"/> man also shewed
+                    up what he called the preaching place — a sort of recess in the side of the hill
+                    to the S.E. of the isle — where there is a cave — into which if any young lad or
+                    lass ever enters, he can never have a wee ane — This he was assured of — he knew
+                    many a one who had attempted it, &amp; he told us a long account of one who had
+                    ridiculed the idea — &amp; rashly Entered the cave. —</p>
+                <p>Returning from this island (where we found a number of fishing men with their
+                    boats) we got under weigh — but were obliged to put into <placeName ref="pl3011">Crinan Bay</placeName> the same Even<hi rend="superscript">g.</hi> — we
+                    went on shore — &amp; met with a Pilot, just returned from a Cruise in the
+                        <placeName ref="pl0708">Hebrides</placeName> — whom we agreed to take with
+                    us — we then walked about a quarter of a mile to see the canal which joins
+                        <placeName ref="pl2953">Loch Crinan</placeName> &amp; <placeName ref="pl2954">Loch Gilpie</placeName> —<note type="authorial">an extent of
+                        nine miles —</note> &amp; ferried over to a small island, where there is a
+                    salmon fishery — it does not seem to be a good one —<note type="authorial">The
+                        Seathe is the only fish usually taken here — of these there are very great
+                        numbers —</note> &amp; the few salmon they take are in general small — but
+                        <pb n="21"/> they are cheap<note type="authorial">we paid 4.d per lb. 3d. is
+                        the common price</note> — &amp; we found them very good — as soon as they
+                    are taken, they are put into Salt<note type="authorial">Went to <placeName ref="pl0603">Greenock</placeName> —</note> — &amp; few if any are
+                    attempted to be sold fresh — the Loch &amp; the Country about it, is exceedingly
+                    pretty — tho’ the Castle belonging to M<hi rend="superscript">c.</hi>Callum —
+                    who bought it a few years ago — is in the least pretty part of it — The weather
+                    being unfavorable — we did not leave <placeName ref="pl2955">Crinan</placeName>
+                    until the next morning — when we passed within about a mile &amp; a half of the
+                    famous <placeName ref="pl0690">Gulph of Coryvrechhan</placeName> between the
+                    rocky shore of <placeName ref="pl0716">Jura</placeName>, &amp; the high rocks of
+                        <placeName ref="pl2956">Scarba</placeName> — the weather was very moderate
+                    but we saw plainly the breakers. The Tide Eddies so strongly and so variously
+                    round the innumerable rocks that crowd this part of the sea — that the
+                    navigation is rendered Extremely difficult &amp; dangerous — Either in
+                    boisterous weather, or in a calm — We <pb n="22"/> took what advantage of the
+                    Tide we possibly could — but again we were obliged at the Turn of it to run into
+                    a small bay in the island of <placeName ref="pl2957">Lunga</placeName> — All
+                    this was exceedingly Tedious — but it gave us an opportunity of witnessing the
+                    hospitality of <placeName ref="pe2153">M<hi rend="superscript">r.</hi>
+                        Brown</placeName> who rents the land from <persName ref="pe2154">M<hi rend="superscript">c.</hi> Dougall</persName> of <placeName ref="pl2957">Lunga</placeName> — The sea was now more open to us — tho the slate
+                    islands, with <placeName ref="pl0691">Eisdale</placeName>
+                    <placeName ref="pl0267"><unclear reason="illegible">Seyl</unclear></placeName>
+                        &amp;<hi rend="superscript"><hi rend="underline">c</hi></hi> seemed almost
+                    to close together the passage between <placeName ref="pl2957">Lunga</placeName>
+                    &amp; <placeName ref="pl2958">Loeng</placeName> — but at midnight we weighed
+                    anchor — &amp; early in the morning were at the entrance into the sound between
+                        <placeName ref="pl1077">Kerera</placeName> &amp; the main land<note type="authorial">having a fine view of <placeName ref="pl0722">Dunolly
+                            castle</placeName> at the extremity of <gap reason="authorial" unit="words" quantity="1"/></note> — after laying to for a short time —
+                    we got worked up the narrow sound, — &amp; just as we came in sight of
+                        <placeName ref="pl1076">Oban</placeName> struck on a flat rock who runs a
+                    considerable way out from the land — the Tide flowed gently &amp; in <pb n="23"/> little more than an hour carried us off without any injury — we landed at
+                        <placeName ref="pl1076">Oban</placeName> — about Two oClock —</p>
+                <p>July 20. — After dining we walked out to see the Argyleshire Local Militia at
+                    Exercise in a field near the Town — they are about 800 strong — &amp; with their
+                    Kelt &amp; Highland uniform have a very martial appearance — we had not been
+                    long in the field, before several (whom we found to be the inhabitants of
+                        <placeName ref="pl1076">Oban</placeName>) came up to us — one of them
+                        <persName ref="pe2155">D<hi rend="superscript">r.</hi> M<hi rend="superscript">c.</hi>Leay</persName> accompanied us to our inn —
+                    was anxious to shew us every civility — &amp; invited us to breakfast with him
+                    the next morning — At his house we were introduced to the young <persName ref="pe1833">Laird of Coll</persName> — to <persName ref="pe2156">Capt<hi rend="superscript">n.</hi> Campbel of B<gap reason="authorial" unit="letters" quantity="several"/></persName> in the isle of <placeName ref="pl0974">Tyree</placeName> — &amp; one or two more — By them we were
+                    invited to their mess — but being unable to return in Time from <placeName ref="pl0685">Dunstaffnage</placeName> &amp; <placeName ref="pl2194">Beregonium</placeName> which we proposed to visit that <pb n="24"/> day —
+                    we were prevented from dining with them — The day following we had a specimen of
+                    the hearty reception which strangers may expect from the mess of Highland Reg<hi rend="superscript">t.</hi> —</p>
+                <p><placeName ref="pl0722">Dunolly Castle</placeName> stands on a rock at the point
+                    which to the N. of the chief entrance into the harbour of <placeName ref="pl1076">Oban</placeName> — it consists of one small square tower but
+                    from it’s situation looks very commanding — &amp; is a fine object — Soon after
+                    passing under this — we perceived the <placeName ref="pl0685">Castle of
+                        Dunstaffnage</placeName> about 2 ½ miles to the Northward, near to the sea —
+                    it is much larger than <placeName ref="pl0722">Dun<del>staffnage</del><add place="above">olly — </add></placeName>, &amp; was for some time a regal
+                        residence<note type="authorial">It belongs to the chief of a clan M<hi rend="superscript">c.</hi> Dougal <add place="above">who</add> lives
+                        close to it —</note> — the Situation of it is not very bold, tho’ it is
+                    built on a foundation of rock which seems to have been hewn to the dimensions of
+                    the Castle, &amp; which makes it quite <pb n="25"/> inaccessible excepting at
+                    the E. Side where a flight of steps leads to the Entrance thro’ a narrow archway
+                    into the Castle — it is a square with Towers that do not project far at the
+                    corners of it — at present nothing remains but the shell — within it is built a
+                    high house with gable ends — not exactly according with the castle, — &amp; also
+                    outhouses &amp;c — in these the Tacksman now lives — who rents the property from
+                        <persName ref="pe2157">M<hi rend="superscript">c.</hi>Donald of
+                        Dunstaffnage</persName> — the upper window &amp; the walk on the<hi rend="superscript">x</hi><note type="authorial">on these are placed to field
+                        pieces one a brass 6 pounder belonging to one of the Spanish armada lost on
+                        the Coast of <placeName ref="pl0729">mull</placeName> near <placeName ref="pl0681">Tobermory</placeName> in 15<gap reason="authorial" unit="letters" quantity="2"/></note> battlements of the Castle command a
+                    very Extensive and Exceedingly beautiful prospect on every side — the <hi rend="superscript">x</hi><note type="authorial"><placeName ref="pl0686">Connel</placeName> signifies Rage —</note><placeName ref="pl0686">Connel</placeName> a narrow passage of the loch which runs up to <placeName ref="pl1249"><unclear>Bunawe</unclear></placeName> &amp;c — where the sea
+                    dashes with great violence, (having the appearance of a wier across
+                        <del>the</del> it) is seen plainly <pb n="26"/> the Mountains, especially
+                        <placeName ref="pl0831">Cruchan Ben</placeName> rising magnificently beyond
+                    &amp; indeed the whole Country appears astonishing fine — &amp; the view towards
+                    the Sea is not less so. — within a short distance from the castle is a chapel
+                    wherein Several of the Kings of <placeName ref="pl0705">Scotland</placeName> are
+                    said to be buried — it has had a sort of chancel added to the East End — which
+                    disfigures it considerably — otherwise from the shape of the small Gothic
+                    windows, narrow to the Exterior but large within, &amp; the remains of Gothic
+                    ornaments within, it has boasted some elegance in it’s time — probably it is not
+                    a very ancient building — There is a curious effect of an echo <del>with</del> A
+                    person stands in a particular situation round the corner of a small rock which
+                    is near the chapel, &amp; thence directing his voice<pb n="27"/> towards the
+                    chapel — the sounds seems to proceed from the inside of the chapel — to those
+                    stationed in front of the building — We could perceive no monuments of Early
+                    date within — it is still used as a place of burial —</p>
+                <p>From <placeName ref="pl0685">Dunstaffnage</placeName> to <placeName ref="pl2194">Beregonium</placeName> is about 3 miles, where the traces of an ancient
+                    vitrified fort are to be discovered — they skirt the summit of a rock which is
+                    not very high, &amp; like <add place="above">almost</add> all other very ancient
+                    fortresses is commanded by a neighbouring rock, much larger &amp; higher than
+                    itself — It is said that <placeName ref="pl2194">Beregonium</placeName> was once
+                    the capital of <placeName ref="pl0705">Scotland</placeName>, at the Time when
+                    first the Kings resided at <placeName ref="pl0685">Dunstaffnage
+                        Castle</placeName> — The specimens of vitrification found, are very curious
+                    – &amp; of a variety of colours many of which are quite beautiful — They
+                    resemble the burned kelp, <pb n="28"/> &amp; must have required very intense
+                    heat, before they could have been reduced to their present state — It seems
+                    evident that it was intentionally done — which the appearance of other similar
+                    forts, particularly one near <placeName ref="pl0156">Inverness</placeName> the
+                    walls of which now remain some feet above the surface of the ground — probably
+                    it might be done, to consolidate the wall, before the use of cement was
+                        known<note type="editorial">The first systematic description of Scotland's
+                        vitrified forts was that given by the Welsh mineral engineer John Williams,
+                        in <hi rend="italic">An Account of Some Remarkable Ancient Ruins, Lately
+                            discovered in the Highlands, and Northern Parts of Scotland</hi>
+                        (Edinburgh: 1777).</note> — </p>
+                <p> We returned to <placeName ref="pl1076">oban</placeName> — &amp; in the Evening
+                    went to <persName ref="pe2155">D<hi rend="superscript">r.</hi> M<hi rend="superscript">c.</hi>Leay’s</persName>, where we met with a
+                        <persName ref="pe2158">D<hi rend="superscript">r.</hi> Bayard</persName>
+                    just returned from <placeName ref="pl0652">Staffa</placeName>, <placeName ref="pl0651">Icolumkill</placeName> &amp;c — he was preparing to sail to his
+                    native country <placeName ref="pl2959">America</placeName> together with a
+                    number of Emigrants from the different islands, whom a <hi rend="superscript">x</hi><note type="authorial">a large brig resembling a Guinea man
+                    —</note>vessel was then waiting to convey from <placeName ref="pl1076">oban</placeName> — We were no less surprized than sorry to find this system
+                    of Emigration still continued — But we <pb n="29"/> were assured by <persName ref="pe2155">D<hi rend="superscript">r.</hi> M<hi rend="superscript">c.</hi>Leay</persName> that <placeName ref="pl0705">Scotland</placeName>
+                    was totally unable to maintain it’s own encreasing population — &amp; that the
+                    country was too poor — &amp; the quantity of arable land too small to allow of
+                    much improvement — that the grazing system was becoming every day more prevalent
+                    in the country, &amp; by consequence the labour of individuals less required —
+                    that it remained therefore for those of the poor who could not find employment
+                    in their own country either to emigrate — or to starve at home in the most
+                    abject state of slavery &amp; degradation — for we were told that the state of
+                    vassalage &amp; subjection in which several of the Lairds retain their inferior
+                    tenantry, is at this present day, as bad if not more hateful that that of former
+                    ages — <persName ref="pe1820">M<hi rend="superscript">c.</hi>Dougall of
+                        Dunolly</persName> was quoted as a specimen if all that is said of him be
+                    true, <pb n="30"/> no man can be censured for holding out encouragement to his
+                    Tenants to quite such a chief — Those who hold land under him, are bound to pay
+                    all the Laird’s Taxes, &amp; all that he may hereafter be levied upon him —
+                    &amp; it is not long since he told his Tenants — that he had been obliged to pay
+                    £900 for his son’s commission in the army — This he considered a Tax &amp; as
+                    such they were bound to pay it forthwith — &amp; he instantly levied it — </p>
+                <p> — A singular instance of the attachment of a clan to its chief was seen — one of
+                    our boatmen, also a poor man, who had begged us to give him his passage from
+                        <placeName ref="pl2194">Beregonium</placeName> to <placeName ref="pl1076">Oban</placeName> — happened to belong to <persName ref="pe1820">M<hi rend="superscript">c.</hi>Dougal’s</persName> clan — &amp; as we passed
+                    under <persName ref="pl0722">Dunolly Castle</persName> &amp; were listening to
+                    the accounts which our boatmen gave us of the Laird — we discovered that these 2
+                    men were M<hi rend="superscript">c.</hi>Dougals — &amp; asked <pb n="31"/> if
+                    they liked their chief, &amp; if they would obey his orders, were he to call on
+                    them to fight for him — the both of them confessed they did not like him — but
+                    the old man not at all pleased at the abuse he had heard of him, — declared he
+                    would follow him, &amp; if he was young &amp; a fighting man — he would fight
+                    for him — the other told us, the Laird’s Father was a good man, &amp; therefore
+                    he w<hi rend="superscript">d.</hi> fight for the Father’s Son — </p>
+                <p> On Sunday morn<hi rend="superscript">g.</hi> July 22<hi rend="superscript">d</hi> — we attended the Parade of the Reg<hi rend="superscript">t.</hi> of
+                    local militia — for the purpose of hearing a Gaelic Sermon preachd in the open
+                    field — when the square was formed, all persons who were desirous, were admitted
+                    within — &amp; the greatest part joined in a hymn with which the service began —
+                    The effect of it was peculiarly impressive — a precentor<pb n="32"/> gave out
+                    each separate time — &amp; numbers joined, singing in the most perfect harmony,
+                    the solemn swell of which was ecchoed from the surrounding Hills — &amp; could
+                    not fail to raise emotions of piety altho’ the words were to us totally
+                    unintelligible — During the singing, all excepting the military sat crowded
+                    together — when the prayer followed — all stood up — this prayer was uttered
+                    with much apparent devotion by the minister — it seemed once long continued
+                    prayer — but of course we could not understand it — Again we sat down — &amp;
+                    heard the Gaelic sermon — after which followed a hymn equally fine with the
+                    former &amp; we departed after hearing the blessing of the minister — &amp;
+                    adding our contribution to that of others — this we understood was for the sole
+                    use of the minister himself —</p>
+                <p><pb n="33"/>
+                This evening we <del>went on board</del>
+                    <add place="above">dined with</add> the mess — &amp; the morning following went
+                    on board our vessel — but the wind &amp; weather proving very unfavorable — we
+                    could not sail before the next morning, when at five oClock, we left <placeName ref="pl1076">Oban</placeName> — and passing under <placeName ref="pl0688">Lismore Island</placeName>, <unclear reason="illegible">&amp;
+                        past</unclear> the <placeName ref="pl2205">Lady Rock</placeName> we entered
+                    the <placeName ref="pl2195">Sound of Mull</placeName> — along the coast of which
+                    on each side a regular line of communication was kept up by castles — of wh<hi rend="superscript">h.</hi> one, <del unit="words" quantity="1"/> the N.E.
+                    end of <placeName ref="pl0729">Mull</placeName>, call<hi rend="superscript">d</hi>
+                    <placeName ref="pl0684">castle Douart</placeName>, seems even larger than
+                        <placeName ref="pl0685">Dunstaffnage</placeName> — the others are but small
+                    &amp; uninteresting — we had some thoughts of landing at <placeName ref="pl0682">Arros</placeName>, &amp; walking across the narrow neck of Land to the head
+                    of <placeName ref="pl1079">Loch <gap reason="authorial" unit="words" quantity="1"/></placeName> — &amp; to have taken boat from thence to
+                        <placeName ref="pl0652">Staffa</placeName>, but we determined to attempt to
+                        <pb n="34"/> sail round the island — &amp;therefore passed on to <placeName ref="pl0681">Tobermorey</placeName>, &amp; stood round the <del>Head</del>
+                    <placeName ref="pl2960"><add place="above">P<hi rend="superscript">t</hi></add>
+                        of Ardmore</placeName> — The wind not answering — we <unclear>beat</unclear>
+                    up — but did not pass the <placeName ref="pl2961">P<hi rend="superscript">t.</hi> of Treshenish</placeName>, or <placeName ref="pl2962">Fladda</placeName> &amp;c. &amp;c. before daylight the next morning — about
+                    Seven oClock we were pretty close in with the isle of <placeName ref="pl0652">Staffa</placeName> — we then stood across towards <placeName ref="pl1078">Ulva</placeName> &amp; <placeName ref="pl1080">Inch Kenneth</placeName>
+                    &amp;c. &amp; again tacked to <placeName ref="pl0652">Staffa</placeName> — the
+                    Surf was so high, that it was in vain to attempt to land on it, and we therefore
+                    ran down to the island of <placeName ref="pl0651">Icolumkill</placeName> —
+                    whence the vessel came to — we sailed to the town of <placeName ref="pl0651">Icolumkill</placeName> in the large boat — my expectations were not high —
+                    &amp; so far from being disappointed, I was gratified particularly by a sight of
+                    the ruins — I had no idea of their remaining in the state in which we found <pb n="35"/> them — they are indeed almost entirely unroofed — but most of the
+                    outer walls remain &amp; within are found several curious and beautiful
+                    specimens of architecture of different dates — for both the circular norman,
+                    &amp; the pointed Gothic arches are found — &amp; one of two which appear to be
+                    Saxon.</p>
+                <p>— The Schoolmaster of <placeName ref="pl0651">Iona</placeName> came down to the
+                    beach to us, &amp; attended us round the buildings as our Guide — &amp; we were
+                    pleased to find both the <placeName ref="pl0975">Nunnery</placeName> &amp; the
+                        <placeName ref="pl0978">Cathedral</placeName> no longer converted into Cow
+                    houses — but on the contrary — every thing apparently in a state of preservation
+                    — Owing to the attention of <persName ref="pe0232">M<hi rend="superscript">r.</hi> Pennant</persName> &amp; <persName ref="pe0008">Sir Joseph
+                        Banks</persName> — who first brought <placeName ref="pl0651">Iona</placeName> into notice<note type="editorial">Pennant describes the
+                        ruins of Iona in <bibl><title ref="bi0008"><hi rend="italic">A Tour in
+                                    Scotland and Voyage to the Hebrides 1772</hi></title></bibl>
+                        (Chester: 1774), p.282. Finding that the Chapel of Iona was being used as a
+                        cattle pen and consequently full of dung, Pennant employed one of the
+                        islanders to clear it out. Pennnant's conservation efforts were only
+                        temporarily effective however, with Sir John MacGregor Murray complaining in
+                        his 1800 <ref target="0055.xml">Tour</ref> of the neglected state of the
+                        site and surroundings.</note> — The Tomb stones are very numerous, &amp;
+                    very many of them richly and skillfully carved — on many are <pb n="36"/> seen
+                    recumbent figures of the Highland Chieftains — or the priests or Abbesses who
+                    have been buried either at the <placeName ref="pl0975">Nunnery</placeName> or
+                    the <placeName ref="pl0978">Cathedral</placeName> — on very many are to be found
+                    inscriptions, most of which might probably be decyphered without much
+                    trouble—</p>
+                <p>Plain flat Stones, in general mark the burial places of the Kings but on that of
+                    the French King may be traced a rich cross — &amp; at the head is a stone — the
+                    date of which seems to be 900 — <del>but it is</del> of the crosses, there are
+                    several remains, all of them handsome — particularly a large perfect one near
+                    the <placeName ref="pl0978">Cathedral</placeName> — another close to it, has
+                    perhaps been more wrought but it is mutilated — about 2 thirds of the way
+                    between the <placeName ref="pl0975">Nunnery</placeName> &amp; the <placeName ref="pl0978">Cathedral</placeName> stands a perfect cross called <placeName ref="pl0981">M<hi rend="superscript">c.</hi> Leans</placeName>. Erected
+                    before the forfeiture of the <pb n="37"/> island in the Rebellion — It is very
+                    thin &amp; tall &amp; appears to be a kind of hard slate — this also is
+                    considerably ornamented — Besides the two buildings already mentioned, is the
+                        <placeName ref="pl0976">chapel of S<hi rend="superscript">t.</hi>
+                        Owran</placeName> — &amp; several other small buildings, some connected with
+                    &amp; others detached from the former — They are all fully described elsewhere
+                    —</p>
+                <p>In a bay about Two miles from the Town beautiful pebbles are picked up amongst
+                    which the green steatites, which are said to be found in no other part of
+                        <placeName ref="pl0777">G<hi rend="superscript">r</hi>Br<hi rend="superscript">n.</hi></placeName> — The children collect them,
+                    &amp; bring them to you for sale, as soon as you land — <placeName ref="pl0651">Iona</placeName> boasts an inn, but it is not very capital in its
+                    appearance —</p>
+                <p>— The wind being rather more moderate — we steared for <placeName ref="pl0652">Staffa</placeName> — &amp; after once landing on it — took our boat, in
+                    hopes <pb n="38"/> of being able to take it round to see the different caves
+                    from the Sea — but the Swell &amp; the Surf were so great, that <add place="above">we</add> were compelled to return — we then walked to the top
+                    of the Cliff above the caves — &amp; afterwards over the low basaltic columns
+                    near the shore, until we reached the entrance into <placeName ref="pl1082">Fingals cave</placeName> — of which our expectations had been raised very
+                    high, &amp; tho’ it exactly corresponded with what we had heard of it’s Grandeur
+                    &amp; is similar to the interior of a Gothic Cathedral — yet the effect was even
+                    more solemn &amp; grand than could have been conceived — the dashing of the
+                    waves into the Cavern added to the whole — &amp; the sound of a gun fired at the
+                    mouth of it, had an exceedingly fine effect — we now returned to our boat,
+                    retracing our former steps over the bending columns <pb n="39"/> which form the
+                        <placeName ref="pl1083">Ship rock</placeName> &amp; past a Cavern — our
+                    vessel was lying to for us under the Lee of the island — we went on board &amp;
+                    the wind blowing fresh from the NN. E. S. E — we soon passed the islands of
+                        <placeName ref="pl2963">Lunga</placeName>, <placeName ref="pl2962">Fladda</placeName> &amp;c — &amp;c at 12 at night were abreast of the
+                    island of <placeName ref="pl2707">Eigg</placeName> — in a short time the
+                        <placeName ref="pl2707">point of Slate</placeName>, at the extremity of
+                        <placeName ref="pl0715">Skye</placeName> was visible — we were at this time
+                    running about nine miles an hour, with only our main sail topsail &amp; jib —
+                    the gusts &amp; squalls from the Land obliging us to lower the fore sail &amp;
+                    top gallant sail — we now lay to for a short time, waiting for the break of day
+                    — as the wind continued to blow very fresh — and at five we came into <placeName ref="pl2964">Kilmoree Bay</placeName> in <placeName ref="pl2965">Loch
+                        Slappen</placeName> — but finding no shelter from a S.S.E wind — were
+                    obliged to run up to the extremity of the Loch, where we cast anchor in a
+                        place<pb n="40"/> surrounded by immense rocks &amp; mountains, exceedingly
+                    wild and picturesque — the mountains, are almost totally devoid of vegetation,
+                    and seem impervious — in their forms they much resemble the <placeName ref="pl0639">Paps of Jura</placeName> — &amp; the whole scenery is not
+                    unlike that of the <placeName ref="pl2147">Warfdale</placeName> in <placeName ref="pl0800">Cumberland</placeName> — the rugged summit <hi rend="superscript">x</hi><note type="authorial"><hi rend="superscript">x</hi>The Highest in the Islands</note>of <placeName ref="pl0840">Blavein</placeName> with the <placeName ref="pl2966">Skur na
+                        Cullin</placeName> are just seen rising from the others. — We put the boat
+                    out went on shore — &amp; having procured a guide from the house on the beach,
+                    walked up the braes towards <persName ref="pe2159">M<hi rend="superscript">c.</hi> Callister’s</persName> house — the <persName ref="pe2159">Laird
+                        Strathaird</persName> — within half a mile of his house, we had the good
+                    fortune to meet with the Laird, to whom we mentioned our desire of visiting his
+                        <placeName ref="pl3078">cave</placeName><note type="editorial">The Spar Cave
+                        of Strathaird, also known as Macalister's Cave after its proprietor, became
+                        a popular tourist destination in the nineteenth century due to its striking
+                        mineral formations. The cave came to widespread notice after an account of
+                        it was written by Dr Kenneth MacLeay of Oban, whom the author of this tour
+                        describes meeting above. The cave was later visited by Walter Scott, and it
+                        forms the basis for one of the settings of his 1815 poem <hi rend="italic">The Lord of the Isles</hi>. Scott noted that the entrance to the cave
+                        had been walled and gated by its proprietor to reduce further damage by
+                        tourists. See Scott, <hi rend="italic">The Lord of the Isles</hi>, 2nd
+                        ed.(Edinburgh: 1815), pp.362-64.</note> — he instantly turned back with us,
+                    took us to his house, where he welcomed us with some white brandy — &amp; then
+                    set out with us towards the cave. — we had been told that it was <pb n="41"/>
+                    just five miles distant from the house whence we first started — but we had
+                    walked nearly four miles to the Laird’s new built house &amp; it was at least
+                    five more, to the Entrance in to the cave — in our way we had passed by a cairn
+                    — &amp; also the remains of Danish Castle, it is circular — about 20 feet
+                    diameter — the walls of it are very thick &amp; built entirely without any
+                    cement — within a short distance from it, is seen another castle, called the
+                        <placeName ref="pl3079">Princess’s castle</placeName>, being built by a
+                    Danish Princess — it is said to have been exceedingly strong — There also in a
+                    small hollow, with some trees in it and near to the coast, a part of a druidical
+                    circle remaining — it does not appear to have been large — We were told by the
+                    Laird, that there are numberless Danish remains, on his property — &amp; over
+                    the whole island — <persName ref="pe2168">D<hi rend="superscript">r.</hi>
+                        Mc.Callister’s</persName> house stands immediately above the cave — so <pb n="42"/> much so, that when a large party were in the cave, their voices
+                    were heard in the house above it — we called here &amp; the D<hi rend="superscript">r.</hi> gave us the welcome of the country — &amp; then
+                    accompanied us down the rock to the sea where his boat was in readiness for us,
+                    to row us round a large projecting rock to the entrance into the cave. — it may
+                    be approached at very low Ebb, without a boat — but is very much better to take
+                    the advantage of a boat — the avenue leading to the Entrance of the cave is
+                    uncommonly Grand — on Each Side stand two vast projecting walls of the rock —
+                    fifty or 60 feet high and perhaps 30 feet asunder — between these at high water,
+                    the sea rolls in almost to the cavern’s mouth — this also is exceedingly fine —
+                    it is rather narrow in proportion to the height &amp; is a little inclining to
+                    the right — the roof is beautiful, with rough<pb n="43"/> coarse stalactytes
+                    hanging from it — the water which constantly drops from the roof is beautifully
+                    clear on entering you turn a little to the left, &amp; then proceed up <del unit="words" quantity="1"/>
+                    <add place="above">a</add> roughish <del>steep</del>
+                    <add place="above">ascent</add>, before you climb a height of about 30 feet
+                    smooth &amp; slippery, covered with the whitest petrification resembling spar —
+                    &amp; not unlike a <unclear reason="illegible">speit</unclear> of water
+                    petrified in the act of falling — on the top of this you again proceed about 30
+                    feet, before you descend a fall exactly similar to that which we had before
+                    ascended at the bottom of which is a pool of the clearest water possible — this
+                    is perhaps 18 feet diamater &amp; near the sides about 4 feet deep — the middle
+                    is of course deeper — our guide waded thro’ this, <unclear reason="illegible">A.
+                            <hi rend="superscript">sh.</hi></unclear> followed him &amp; when they
+                    got to the opposite side the light from their candles shewed us the distant part
+                    of the cave which as we were <pb n="44"/> told extends 46 feet beyond the two
+                    pillars which stand at the narrow entrance into the inner part of it — one of
+                    these pillars is particularly white &amp; beautiful, feathering in the most
+                    elegant manner to the summit — from whence the petrifactions hang like icicles
+                    of the utmost beauty — the whole Cave is adorned in like manner, in which is
+                    full scope for the imagination to fancy forms &amp; figures of Every possible
+                    variety — The whole is beautiful &amp; elegant quite beyond expression — &amp;
+                    in our opinions was infinitely more striking than <placeName ref="pl0652">Staffa
+                        Cave</placeName>, which we had seen the day before — This Cavern is said by
+                        <persName ref="pe2168">D<hi rend="superscript">r.</hi> M<hi rend="superscript">c.</hi> Callister</persName> to have been since
+                    measured by <persName ref="pe2169">M<hi rend="superscript">r.</hi>
+                        Hooker</persName>, whose papers &amp; every note relating to it were lost on
+                        <del>the</del> his return from <placeName ref="pl1478">Iceland</placeName> —
+                    but according to the <persName ref="pe2168">Doctor’s</persName> account it is
+                    870 feet in length — I should <pb n="45"/> imagine it to be from the beginning
+                    of the avenue — it is probably 30 feet high and about 20 broad — but this varies
+                    very considerably — for frequently it is very much higher — On our return from
+                    the cave we again went to the <persName ref="pe2168">Doctor’s</persName> house
+                    &amp; afterwards returned with the <persName ref="pe2159">Laird</persName> to
+                    his House — Here he had Tea ready for us with plentiful dish of fine Trout just
+                    caught for us — our bread was barley &amp; wheaten cakes very thin &amp;
+                    excellent — His daughter was introduced to us — it was our intention to have
+                    gone forward immediately to our vessel — but it was growing late &amp; our
+                    friend declared the could not think of letting us depart at such an hour as Ten
+                    oClock — when the road we had to travel was exceedingly rough &amp; bad — our
+                        Cap<hi rend="superscript">t.</hi> &amp; <persName ref="pe2171">Thomas</persName> returned with the guide — &amp; we remained with
+                        <persName ref="pe2159">Strathaird</persName> — no sooner was Tea over, than
+                        <persName ref="pe2172">Miss. M<hi rend="superscript">c.</hi>
+                        Callister</persName> retired — &amp; the Toddy <pb n="46"/> was brought in,
+                    of which there was no scarcity — In the morning, we had a capital breakfast with
+                    eggs, Trout. &amp;c — The latter are very plentiful in all the small Lakes,
+                    &amp; are caught just as occasion may require — they are large &amp; excellent —
+                    Besides these — Codfish, whiting, Haddock, Skate &amp;c are caught in great
+                    quantities — &amp; no Loch affords greater supplies of herrings — The mutton was
+                    we were told, very capital — <persName ref="pe2159">Strathaird</persName> is the
+                    only person now in <placeName ref="pl0715">Skye</placeName> who continues to
+                    have the wild red deer in his mountains. The small black cattle, of which large
+                    quantities are fed on these mountains are famous — &amp; we saw at <persName ref="pe2168">D<hi rend="superscript">r.</hi> M<hi rend="superscript">c.</hi>Callisters</persName> two dozen goats coming down in the evening to
+                    be milked. The milk of these was we were told exceedingly rich, so also is that
+                    of their cows, altho’ the quantity they give is but small — Potatoes they have
+                    in abundance — but very little corn of any sort is sown — generally <pb n="47"/>
+                    barely <add place="above">a</add> sufficient quantity of oats for their own
+                    private consumption — Pasturage is what they chiefly attend to — &amp; yet
+                        <persName ref="pe2159">Strathaird</persName> told us that he could any day
+                    bring out to the field between one &amp; 200 men — He seems to be much liked by
+                    his tenantry — &amp; has to us the appearance of one who justly deserved to be
+                    so —</p>
+                <p>He was going to send a runner to a Post office several miles distant for his
+                    letters &amp; papers — which he has twice a week — &amp; he offered to send my
+                    letter by the same man — after having written it — we prepared to take leave
+                    notwithstanding his pressing invitation to remain a few days with him — He was
+                    going to send eight men with Criels to <placeName ref="pl2967">Broadford</placeName> to carry back for him a hogshead of wine — which had
+                    been two years there — he therefore walked with <add place="above">us</add> to
+                    the point where our vessel lay — &amp; after going on board, crossed over the
+                    ferry with his men, and proceeded with them — After putting him on shore — we
+                    sailed with an idea of going to <placeName ref="pl2465">Dun Skye</placeName>
+                    <pb n="48"/> but the wind being against us, we determined to explore some of the
+                    numberless caverns on the coast of <placeName ref="pl0844">Strathaird</placeName> — we entered many of them — They were not very
+                    large, but we found some beautiful petrifactions — a few of them little inferior
+                    in whiteness or beauty to those of the large cave — but by no means bearing any
+                    comparison with it — The whole of the coast down to the very point is perforated
+                    with caverns — of which few have ever been explored — and are of course unknown
+                    — The large cave itself was not discovered until two years &amp; a half ago —
+                    when the <persName ref="pe2159">Laird</persName> being desirous of carrying to
+                    his friends in <placeName ref="pl0076">Edinburgh</placeName> a few specimens of
+                    the fossils on his coast, went with two of his men to the shore for
+                        th<del>at</del><add place="above">e</add> purpose<add place="opposite">of
+                        picking up some</add>, when one of them going to the entrance of the cave as
+                    far as the day light w<hi rend="superscript">d.</hi> allow him <del>fancied he
+                        could</del> perceived something <pb n="49"/> very white &amp; beautiful over
+                    his head &amp; wished to explore further — but as there were no lights to be had
+                    — the <persName ref="pe2159">Laird</persName> insisted on his returning until he
+                    should procure some — in a day or two — he went with a party of friends — each
+                    carrying a candle — &amp; to their surprise, discovered the who most amazing
+                    Cavern, that has yet been found out in any part whatever — <del>A person to whom
+                        an extraordinary cave</del><note type="authorial">an officer in the navy who
+                        had seen a remarkable cave of great note in the <placeName ref="pl1723">Mediterranean</placeName> declared that it bore no comparison to this
+                        —</note></p>
+                <p>— Late in the evening <persName ref="pe2159">Strathaird</persName> came to us —
+                    on his return from <placeName ref="pl2967">Broadford</placeName> — &amp; after
+                    staying with us a short time — took his leave of us — we found in him all that
+                    hospitality for which the islands are celebrated of which he gave us a further
+                    proof the next morning — when seeing us under weigh in the Loch — he sent his
+                    boat to us, with a cheese, a quantity of fresh butter, &amp; some cream — a most
+                    acceptable present to sailors.</p>
+                <p><pb n="50"/>
+                July 28<hi rend="superscript">th</hi> —</p>
+                <p>This morning, as we were tacking across to work out of <placeName ref="pl2965">Loch Sleppin</placeName>, we came near to <placeName ref="pl2465">Dun
+                        Skye</placeName>, of which <persName ref="pe0557">Ossian</persName> makes
+                    mention — &amp; we went on shore to see the ruins of the castle &amp; drawbridge
+                    connecting it with the range of adjoining rocks — It is built on a solid rock
+                    nearly a square — &amp; perpendicular on every side — a very high Sea may
+                    perhaps occasionally dash between it &amp; the main land — but not often — it is
+                    however a place very strong by nature — The walls of the castle are not
+                    considerable <add place="above">nor are they thick —</add> they appear to have
+                    been square, &amp; are built with lime — The mountains on the opposite coast of
+                    the Loch, are very wild &amp; rugged, the forms of some of them particularly
+                        <placeName ref="pl0840">Blavein</placeName> is very fine — &amp; they are
+                    equally so after you clear the <placeName ref="pl0844">aird of
+                        Strath</placeName> &amp; open upon <placeName ref="pl2968">Loch
+                        Scavig</placeName> — Close to this Loch, is a fresh water Lake <pb n="51"/>
+                    that from the appearance of the high bold Rocks that Environ it, must be
+                    exceedingly well worth a visit — but we had not an opportunity of going to see
+                    it — The harbour of <placeName ref="pl2968">Scavig</placeName> not being good —
+                    &amp; the wind blowing into it — we steered for <placeName ref="pl0653">Canna</placeName>, passing a great part of the Northern Coast of <placeName ref="pl0718">Rum</placeName> — the mountains of which island are very lofty
+                    &amp; pointed — The whole of it, as far as we could see appeared rocky, &amp;
+                    unfruitful — At nine oClock in the evening when we were about four miles distant
+                    from <placeName ref="pl0653">Canna</placeName> &amp; perhaps from <add place="above"><placeName ref="pl0718">Rum.</placeName> 1.</add> we saw a
+                    whale which rose from the sea repeatedly &amp; sometimes very near to our
+                    vessel, but we were not quick enough with our guns, to get a shot at him — At
+                    half past eleven we cast anchor in the harbour of <placeName ref="pl0653">Canna</placeName> — under <placeName ref="pl2969">Compass
+                        Hill</placeName>,<pb n="52"/> so called, because a compass when placed on a
+                    certain spot on the summit of the hill, turns immediately from N. to S. — we
+                    carried a small compass up with us early in the morning &amp; found this to be
+                    the case, altho’ at the distance of about a foot, it did not vary in the least
+                    —</p>
+                <p>We had heard of the beauty of the Pebbles found on the coast of <placeName ref="pl0718">Rum</placeName> — we therefore took the boat &amp; crossed
+                    over, to that island, about four miles distant — There is only one small spot
+                    where it is possible to land — &amp; there we found the surf so excessively
+                    high, that it was rather dangerous &amp; difficult to land we threw out a
+                    longrope to a crowd of men &amp; women who came down to the beach to us — &amp;
+                    a number of them, drew our boat high up on the shore — We found a number of
+                    Pebbles, chiefly dark green — but some of agate — &amp; the people of the island
+                    had others which they had collected from a spot about half a mile to the South,
+                    where the pebbles are more plentiful — but <pb n="53"/> we did not see any that
+                    were very beautiful or very curious — we now prepared to leave the shore — but
+                    it was high water — &amp; and the surf dashed in with great violence — after
+                    some time a great number collected round the boat — &amp; two of them got in —
+                    when watching their opportunity — they launched the boat off into the surf &amp;
+                    continued to bring it alongside of a rock — from which we all got in as quick as
+                    we could — &amp; soon were clear out from the rocks — the wind was favourable
+                    &amp;. we soon reached our vessel —</p>
+                <p>At 5. in the evening we got under weigh — with an idea of going to <placeName ref="pl0665">Dunvegan</placeName> in <placeName ref="pl0715">Skye</placeName> — but in the morning we found that the wind had shifted a
+                    little round to N. E — &amp; we agreed to go to <placeName ref="pl0853">North
+                        Uist</placeName> — by some mistake, we came to the entrance into <placeName ref="pl2970">Loch Skiport</placeName> before we found out our mistake — The
+                    high mountain of <placeName ref="pl2971">Hecla</placeName> had been mistaken for
+                    that above <placeName ref="pl2446">loch Na Maddy</placeName><note type="authorial">Lake of the Two Dogs so called, from two rocks at the S.
+                        Entrance —</note> — but the Loch itself is narrow with several<pb n="54"/>
+                    islands &amp; points of land running into it — a little to the North of it a
+                    wide bay opens, with low lands all around it &amp; a number of islands
+                    interspersed in it — At the back of which rises a mountain in <placeName ref="pl2445">Benbecula</placeName> part of which is seen laying at the North
+                    extremity of the Bay. — The island of <placeName ref="pl2972"><unclear reason="illegible">luia</unclear></placeName> lays extended almost at
+                    the Entrance — &amp; beyond this again to the North is the high land of
+                        <placeName ref="pl0853">North Uist</placeName> for which <placeName ref="pl2971">Hecla</placeName> had been mistaken — we coasted slowly along
+                        <placeName ref="pl0853">North Uist</placeName>, which is exceedingly rocky
+                    &amp; barren — without any pasturage even for sheep — It was quite calm, &amp;
+                    we could not reach <placeName ref="pl2446">Loch Na Maddy</placeName> before the
+                    next evening at six oClock — we put in here, for the purpose of getting
+                    provisions, having been <gap reason="authorial" unit="words" quantity="1"/> that
+                    the public house at <placeName ref="pl2446">Loch na Maddy</placeName> afforded a
+                    shop where everything was to be had — on the contrary — we could <pb n="55"/>
+                    procure nothing. <persName ref="pe2173">M<hi rend="superscript">r.</hi>
+                        Dingwall</persName> the Landlord was in <persName ref="pl0854">South
+                        Uist</persName> with the Local Militia — his wife was either shy of us, or
+                    unwilling to accommodate us — we were not able to buy butter, eggs, or in fact
+                    any thing. excepting a sheep if we chose to wait until the next day for it — for
+                    it was not convenient to let us have it, that same evening — We left this famous
+                    inn at <placeName ref="pl2446">Loch na Maddy</placeName>, where nothing eatable
+                    was to be found, &amp; immediately went on board our vessel &amp; weighed anchor
+                    — the tide was against us, &amp; just as we made a tack close to the rocky
+                    island at the entrance of the bay — the breeze quite failed &amp; as the vessel
+                    would not answer the helm, we were obliged to wear her to save us from the rock,
+                    which was done just in time — we now bore up again for our former station &amp;
+                    cast anchor one more in <placeName ref="pl2446">Loch na Maddy</placeName> — a
+                    harbour, affording as <pb n="56"/> little to praise either for its outward
+                    appearance, or it’s means of sustenance as any place we ever saw — the Land is
+                    poor &amp; miserable — &amp; even the sea gives nothing but the Seathe, one of
+                    the poorest sort of fish — At a short distance from the head of the Lake, there
+                    is capital fishing for Trout in the fresh water — numbers of which were brought
+                    home by a party, who had gone out returned from a day’s excursion into the
+                    interior — They had a vessel which they brought from <placeName ref="pl2973">Lynmouth</placeName> in the <placeName ref="pl2974">Bristol
+                        Channel</placeName> — &amp; like ourselves were wind bound in <placeName ref="pl2446">Loch na maddy</placeName> — In the morning our hostess was in
+                    better humour, for she sent a boat alongside of us, with a lamb alive — &amp; an
+                    offer of a pint of Whiskey — but we in turn refused it — Before we were able to
+                    set sail — we bought from her two Scotch pints <pb n="57"/> which to our
+                    knowledge she diluted plentifully with water, &amp; charged us 15 shillings —
+                    after all it proved quite different from what the Captain had tasted for us —
+                    the one being Highland whiskey — the other Greenock whiskey &amp; water —
+                    excessively bad — about 3 oClock. P. M. we were heartily glad to leave
+                        <placeName ref="pl2446">Loch na maddy</placeName> — we had a pleasant light
+                    breeze which carried us past the entrance of the sound of <placeName ref="pl0954">Harris</placeName>, along the miserable, rocky &amp; barren
+                    coast — Of that island &amp; the <placeName ref="pl0712">Lewis</placeName> —
+                    each equally bad — soon after we passed <placeName ref="pl2975">Scalpa</placeName> or the <placeName ref="pl2975">Glass-isle</placeName>,
+                    the light was put up in the light House, which serves as a guide to vessels
+                    thro’ this part of the channel which is rendered in many places dangerous by
+                    rocks, unless you steer between the <placeName ref="pl2976">Glass</placeName>
+                    <pb n="58"/> Light house, &amp; the <placeName ref="pl2977">chiant
+                        Isles</placeName> — Early the morning following, we landed at <placeName ref="pl2914">Stornaway</placeName>, a considerable Town — which is the
+                    metropolis of <placeName ref="pl2473">the long island</placeName> — &amp; is a
+                    place much resorted to by vessels which frequent these northern Seas. — it
+                    contains nearly 2,000 inhabitants<note type="authorial">The last parochial
+                        estimate was 1800</note> — Some years ago the fishery was of importance —
+                    but of late years it has failed — &amp; at present there is little or no trade
+                    carried on — The house are in general very good — at least by comparison with
+                    what we have seen — but in Canvas town, or the new Town, built at the E.
+                    extremity of the old — nothing but the low huts are seen — such as we met with
+                    every where in the islands — these are built around a square — in a double row —
+                    the avenues thro’ which are dignified by the Title of Duke Street &amp;c. —</p>
+                <p><pb n="59"/>
+                They resemble a Hottentot village more than a British Town — &amp; the
+                    inhabitants themselves are not much unlike in costume or appearance — the women
+                    who seem much more numerous than the men — wear their hair very long &amp; loose
+                    — their features are broad &amp; ugly — they carry immense weights on their
+                    backs, generally in criles — a sort of panier — which is carried by a band of
+                    straw that crosses their chest <del unit="words" quantity="3"/> They bend very
+                    much forward — so that the lower part of the panier rest upon the bottom of the
+                    back — but the chief weight is supported from the chest — In these criles they
+                    carry their turf, or other burdens — &amp; go on barefooted — drudging like
+                    slaves — an enormous <gap reason="illegible" unit="words" quantity="1"/> cap,
+                    something similar to the Irish cap — &amp; a square of coarse plaid thrown over
+                    the shoulders, &amp; fastened in front with an antique broach, bespeaks a person
+                        <pb n="60"/> above the lower order — with the men the ancient distinction of
+                    the highland dress seems laid aside — occasionally you see a tartan short coat
+                    or jacket — &amp; the trowsers which are worn are frequently of the Plaid — but
+                    nothing like the Kelt is seen in the islands. Even the bonnet is rare — The
+                    language also is on the decline — for <del unit="words" quantity="2"/> few are
+                    met with on the coast who cannot speak English &amp; the coast is almost the
+                    only part inhabited — we were told by a tradesman in <placeName ref="pl2914">Stornaway</placeName> who rents the land from <persName ref="pe2170">L<hi rend="superscript">d.</hi> Seaforth</persName> at £3.10 — the acre —
+                    that in the whole island of <placeName ref="pl0712">Lewis</placeName> you cannot
+                    find one acre of arable land, which is out of view of the sea — &amp; yet
+                        <placeName ref="pl0712">Lewis</placeName> is considered a very fertile
+                    island — the rent now received for it is 7,000 — &amp; is shortly to be raised —
+                        <pb n="61"/> This is exclusive of the Kelp, which <persName ref="pe2170">L<hi rend="superscript">d.</hi> Seaforth</persName> keeps entirely to
+                    himself — &amp; of which, last year he sold in <placeName ref="pl0699">London</placeName> 800 Ton at £<hi rend="underline">15</hi>—p<hi rend="superscript">r.</hi> Ton — The expences of manufacturing the kelp
+                    amounted to 1.800 — so that the clear produce was £<hi rend="underline">10.200</hi> —
+                <note type="authorial">Rent of <placeName ref="pl0712">Lewis</placeName> —— 7.000.
+                    <lb/>Deduct for Tacksman <hi rend="underline">—500–</hi>
+                    <lb/> Kelp ————6.500 <lb/>
+                    <hi rend="underline">10.200</hi>
+                    <lb/>
+                    <hi rend="underline">16—700</hi>
+                    <p>The same person is Tacksman to <placeName ref="pl0853">North</placeName>
+                        &amp; <placeName ref="pl0854">South Uist</placeName> — &amp; almost the
+                        whole of the <placeName ref="pl2473">long island</placeName> — &amp; of
+                        course can only come occasionally to <placeName ref="pl0712">Lewis</placeName>.</p></note></p>
+                <p><placeName ref="pl2978">Seaforth Lodge</placeName> where his Lordship house — is
+                    a poor looking white-washed house, on a hill at the back of <placeName ref="pl2914">Stornaway</placeName> — it looks very bleak, not a tree near it
+                    — &amp; the Ground quite wild &amp; uncultivated.</p>
+                <p>— <persName ref="pe2170">L<hi rend="superscript">d.</hi> Seaforth</persName><note type="authorial">N— By a person whom we took on board to go back to
+                            <placeName ref="pl0729">Mull</placeName> — &amp; who had been employed
+                        all the summer to superintend &amp; teach the manufacture of Kelp in the
+                            <placeName ref="pl0712">Lewis</placeName> — we learned that all
+                            <persName ref="pe2170">L<hi rend="superscript">d.</hi>
+                            Seaforths</persName> tenants make the kelp which grows on their several
+                        farms — &amp; when they bring it to the vessel appointed to take it receive
+                        from <persName ref="pe2170">L<hi rend="superscript">d.</hi> S.</persName>
+                        £3— for every ton manufactured — so that 500 Tons would cost his L<hi rend="superscript">dp</hi> £<hi rend="underline">2,400</hi> of which he
+                        sells again for £15 — a Ton—</note> had arrived in a cutter, about a week
+                    before us — &amp; had made known his orders that a certain number of his Tenants
+                    son would be required within a stated time as recruits for his regiments — Those
+                    farmers who have sons of age for the army are compelled to send them — &amp;
+                    dare not refuse to part with those whom <pb n="62"/>
+                    <persName ref="pe2170">L<hi rend="superscript">d.</hi> S.—</persName> may fix
+                    upon — notwithstanding any inconvenience or mortification it may produce — on
+                    such a tenure they hold their farms –––––</p>
+                <p>We had great difficulty in procuring provisions even at <placeName ref="pl2914">Stornaway</placeName> — There are indeed two or three butchers — but they
+                    seldom if ever kill their own meat — if they should chance to kill a beeve,
+                    which was the case the day before we arrived — this event is made known, &amp;
+                    it is generally portioned out to buyers before the beast is killed — For mutton
+                    — each person who can afford to eat it — keeps his own sheep — &amp; when he
+                    intends to regale his family — one is taken from the flock, &amp; the butcher
+                    sent for — but it never happens, that meat is kept for public sale — &amp;
+                    probably the poor do not know the taste of animal food — They have plenty <pb n="63"/>of fish — The Ling of which great quantities are salted &amp; dried
+                    — Cod fish — Skates — congar eels — &amp;<hi rend="underline">c</hi> &amp;<hi rend="underline">c</hi> not far from <placeName ref="pl2914">Stornaway</placeName> we hailed a fishing boat from whom we bought two of
+                    an excellent sort of fish — one a lythe — the other a silver eye — a fish not
+                    unlike in colour or shape to the gold fish; — its flesh was exceeding white firm
+                    &amp; sweet — we bought also a large ling about 15 lb<hi rend="superscript">s</hi> — <del rend="overstrike">two</del> codfish of equal weight — these
+                    two smaller fish &amp; a congar eel for two shillings — &amp; <sic>one of
+                        sailors</sic> gave a quid of tobacco for another eel ––––– At the <placeName ref="pl2914">Town of Stornaway</placeName> fish was nearly as cheap fish was
+                    nearly as cheap — for a codfish &amp; two skates, weighing in all upwards of
+                        £<hi rend="underline">30</hi>— <add place="above">we</add> were only charged
+                        10<hi rend="italic">d</hi>––––– We were in hopes of getting good whiskey in
+                        <placeName ref="pl2914">Stornaway</placeName> — we had enquired, &amp;
+                    tasted in vain at every island which we touched at — but excepting at <placeName ref="pl0719">Arran</placeName>, where it was famous <pb n="64"/> &amp; at
+                        <placeName ref="pl2957">Lunga</placeName> at the Factors — we could get no
+                    good whiskey at all — At <placeName ref="pl2914">Stornaway</placeName> it was
+                    the same — all the private Stills are prohibited — &amp; the good whiskey may
+                    perhaps yet be made in secret — a stranger has little chance of finding it out —
+                    There is a custom House — &amp; a Revenue Cutter stationed here — &amp; we were
+                    told that the Excise officers were very strict &amp; frequent in their search
+                    ––––– We were at last supplied with a few gallons, as a favour, at 15 shillings
+                    the gallon — but it was quite new &amp; raw — This we got on board — &amp; in
+                    the morning we set sail from <placeName ref="pl2914">Stornaway</placeName> on
+                    our return to <placeName ref="pl1076">Oban</placeName> — <persName ref="pe2170">Lord Seaforth</persName> went out just before us in a cutter to the
+                    northward on his way to the <placeName ref="pl2979">Flannen isles</placeName>,
+                    which belong to him — they lay on the North West coast of the <placeName ref="pl0712">Lewis</placeName> –––––</p>
+                <p><pb n="65."/>
+                As we sailed along — we saw the whole extent of the N.W. coast of <placeName ref="pl0705">Scotland</placeName> from the <placeName ref="pl0713">Cape
+                        Wrath</placeName> the most Northern point — down past <placeName ref="pl0668">Loch Broom</placeName> &amp;c <hi rend="superscript">&amp;c.</hi> to the South of <unclear reason="illegible"><placeName ref="pl2980">Ruhe</placeName></unclear> the mountains seem uncommonly
+                    Grand — in form &amp; size — The coast <placeName ref="pl0715">Skye</placeName>
+                    also as we approached it, was exceedingly fine — the <placeName ref="pl2977">isles of Chiant</placeName> &amp; the line of dangerous Rocks &amp; small
+                    isles which lay between them &amp; <placeName ref="pl0715">the isle of
+                        Skye</placeName>, were to the South <add place="above">&amp; W.</add> of us
+                    — We entered the narrow sound between <placeName ref="pl2981">Rona</placeName>
+                    &amp; <placeName ref="pl0952">Rassay</placeName> islands, &amp; <placeName ref="pl0715">Skye</placeName> — the former is a small island very rocky
+                    &amp; barren — not any fertile land is visible from the S.W. coast of it — &amp;
+                    the adjoining <placeName ref="pl0952">Rassa</placeName> is scarcely better until
+                    you approach <placeName ref="pl2982">the Lairds House</placeName> fronting the
+                    South — it stands in a most beautiful situation with a number of trees near it —
+                    &amp; a steep mountain to skreen off the N. winds at the back of it — it is by
+                    much the most inviting situation we had yet seen in the islands — <placeName ref="pl0952">Rassa</placeName> is a small island &amp; tho' for the most
+                    part <pb n="66"/> rugged &amp; unfruitful — yet possesses some very good land —
+                    opposite to it, is a<del rend="overstrike">n</del>
+                    <add place="above">large</add> extent of arable land on the mountainous coast of
+                        <placeName ref="pl0715">Skye</placeName> which also <sic>form</sic> part of
+                    the property of <persName ref="pe2174">M<hi rend="superscript">r.</hi>
+                        Macleod</persName> the Laird of <placeName ref="pl0952">Rassa</placeName> —
+                    he is encircled by <persName ref="pe1619"><add place="above">L.</add> M<hi rend="superscript">c.</hi>Donald</persName> the proprietor of the
+                    greatest part of <placeName ref="pl0715">Skye</placeName> ––––– much of the
+                    coast <add place="above">of <placeName ref="pl0715">Skye</placeName></add> to
+                    the N. abounds with basaltic columns, many of them uncommonly regular perhaps
+                    not less so than <placeName ref="pl0652">Staffa</placeName>, but there is no
+                    cave ––––– Above these is a vast mountain the shape of which is fine — &amp;
+                    from it not very far the summit — stands out a singular pillar of Rock quite
+                    detached &amp; separate from the mountain —<note type="editorial"><placeName ref="pl3080">The Old Man of Storr</placeName></note></p>
+                <p>— As you trace the range of mountains from hence to the interior — they appear
+                    particularly fine — those at the head of <placeName ref="pl2965">Loch
+                        Sleppin</placeName> are seen rising from the East, &amp; <placeName ref="pl0840">Blavein</placeName> one of the <placeName ref="pl0841">Cuellein
+                        Hills</placeName> is also seen –––––</p>
+                <p>— At the End of <placeName ref="pl0952">Rassa</placeName>, &amp; between it &amp;
+                        <placeName ref="pl2983">Scarba</placeName><note type="editorial">Here and
+                        below, the author appears to confuse the name of the island of <placeName ref="pl2983">Scalpay</placeName>, between Raasay and Skye, with that of
+                            <placeName ref="pl2956">Scarba</placeName>, north of Jura.</note> is the
+                    sound, thro' which <pb n="67"/> vessels pass for the Southward — the narrow
+                    channel between <placeName ref="pl2983">Scarba</placeName> &amp; <placeName ref="pl0715">Skye</placeName> is shoal &amp; dangerous from the sandbanks —
+                    we saw vessels lying there at the point of <placeName ref="pl2983">the isle of
+                        Scarba</placeName> — where is a great herring fishery — we learned from a
+                    boat belonging to one of them — that each boat was then <sic>taken</sic> about 3
+                    barrels daily — altho' the season was scarcely begun ––––– <placeName ref="pl2983">Scarba</placeName> is not nearly so long as <placeName ref="pl0952">Rassa</placeName>, but it is broader &amp; higher — &amp; very
+                    much more green — near to it, is another <add place="above">small</add> green
+                    isle called <placeName ref="pl2984">Pabba</placeName> — we were told that the
+                    immense number of Rats upon it, had driven off every inhabitant — &amp; that as
+                    soon as the corn was ripe, it was necessary to carry it away immediately — there
+                    are also many small islets &amp; rocks in this channel, which render it too
+                    dangerous to <add place="above">be</add> attempted in the dark — &amp; the
+                    entrance by <placeName ref="pl3081">Castle <unclear reason="illegible">Moylast</unclear></placeName><note type="editorial">Probably a
+                        reference to Caisteal Maol at the entrance to Loch Alsh. The source of the
+                        author's unusual rendering of this place name is unknown.</note> is also
+                    exceedingly narrow<note type="authorial">The ruins of the Square Tower which
+                        comprised <placeName ref="pl3081">the Castle of Moylast</placeName> are
+                        inconsiderable — the rock on which they stand close to the sea, is by no
+                        means high — but yet in some points it adds much to the beauty of the
+                        scenery</note> — Here also the tide sets in with great force not less than
+                    nine miles an hour <pb n="68"/>so that unless the wind is very favorable &amp;
+                    blowing strong, it is not possible to make head against it. —<note type="authorial">The whole of which thro' the narrows down to the very point
+                        of <placeName ref="pl0655">Slate</placeName> is exceedingly fine —
+                        Especially above <placeName ref="pl0721">Glenelg</placeName> &amp;
+                            <placeName ref="pl0678">Loch Hourn</placeName> — altho the views about
+                            <placeName ref="pl3082">Caliach Stone</placeName> &amp; <placeName ref="pl3081">Castle Moylast</placeName>, are very little inferior if at
+                        all ––––– <placeName ref="pl0655">The point of Slate</placeName> is not
+                        picturesque in itself — but near <placeName ref="pl3083">Castle
+                            Knock</placeName>, <placeName ref="pl0679"><unclear>Isle
+                                Aranso</unclear></placeName> &amp; <placeName ref="pl2476">Armydel</placeName>, it appears fertile &amp; good. <placeName ref="pl3083">Castle Knock</placeName> is rather finely situated on an
+                        abrupt Rock above the sea but it is not large — most of the square towers or
+                        Castles on the Scotch coast are very much alike –––––</note>
+                </p>
+                <p>In the narrows near <placeName ref="pl3082">Caliach Stone</placeName> where the
+                    gut takes a sharp turn to the left, opposite to the entrance to <placeName ref="pl3084">Loch Duich</placeName> — two vessels were lost last year owing
+                    to the wind failing them, &amp; the current of the tide bearing them down upon
+                    the rocks — The passage thro' these narrows is generally more tedious than we
+                    found it — altho' we were compelled to row our vessel up to <placeName ref="pl3082">Caliach Stone</placeName> &amp; there anchor until the morning
+                    came, &amp; the tide turned in our favour — Then we were <hi rend="superscript">+</hi><note type="authorial">+ The Mountains on each side obstruct the wind
+                        — occasionally it comes down thro the hollows in squalls — &amp; the wind
+                        will be found to blow in almost every point of the compass — as you pass
+                        along — </note> compelled to tow the vessel a very considerable distance, in
+                    order to keep her head steady — Even this was not sufficient when we came
+                    opposite to <placeName ref="pl0721">Glenelg</placeName> where it widens into a
+                    bay — the eddier took us, &amp; carried us completely round about, three or four
+                    times, with some rapidity — At length the tide carried us beyond the eddies,
+                    &amp; we glided gently down, fully expecting that we should be <pb n="69"/>
+                    obliged to put into <placeName ref="pl0679">Isle alornso</placeName> harbour on
+                    the coast of <placeName ref="pl0715">Skye</placeName>, &amp; there wait until
+                    the return of the Tide — Fortunately a light breeze sprang up, &amp; carried us
+                    onward, till we came beyond the force of the stream — we had now some hopes, as
+                    the breeze freshened that we might reach <placeName ref="pl0681">Tobermory</placeName> by break of day &amp; be able to land at <placeName ref="pl1076">Oban</placeName> about 3 or 4 oClock P.M — We had arrived off
+                    the <placeName ref="pl0655">point of Slate</placeName> &amp; were fast nearing
+                    upon <placeName ref="pl2707">Eigg</placeName> — when we went to bed at eleven
+                    oClock — at 12 — The wind fell, &amp; it became quite calm — So that in the
+                    morning when we hoped to have seen <placeName ref="pl1076">Oban</placeName> we
+                    found ourselves precisely in the same spot, where we had seen the vessel the
+                    night before –––––<note type="authorial"><placeName ref="pl2195">the Sound of
+                            Mull</placeName></note></p>
+                <p>It was now proposed to <add place="above">go on shore &amp;</add> see the <hi rend="superscript">x</hi><placeName ref="pl3085">Cave of
+                        Eigg</placeName><note type="authorial">on the <del rend="overstrike">N.</del>E coast of <placeName ref="pl2707">Eigg</placeName> are several
+                        caves — this celebrated one is the most Eastward, very small at the
+                        Entrance, not 5 feet perhaps — it is within a few yards of the shore
+                        —</note> — where the inhabitants of the isle were once suffocated by
+                        <persName ref="pe2181">M<hi rend="superscript">c</hi>Leod</persName> — of
+                    which deed some of the bones in the cavern now bear witness<note type="editorial">During their long running feud with the Macdonalds, the
+                        Macleods of Dunvegan and Harris murdered up to four hundred people on the
+                        island of Eigg in the sixteenth century. Seeking retribution for the recent
+                        mistreatment of some of their clansmen by the Macdonalds, a party of
+                        Macleods landed on Eigg, causing the inhabitants of the island to take
+                        refuge in a cave. On discovering the hiding place, they blocked the entrance
+                        to the cave and started a fire, suffocating those inside. Tourists including
+                        Hugh Miller and Walter Scott later visited the cave, and large numbers of
+                        bones were discovered there as recently as 2016.</note> — but at the moment
+                    we had decided a light breeze again rose — &amp; we <pb n="70"/>were determined
+                    to avail ourselves of it — It carried us a short way &amp; again slackened —
+                    &amp; in this way continued until we passed <placeName ref="pl2708">the isle of
+                        Muck</placeName> — &amp; then it failed entirely</p>
+                <p>— The Tide making against us, we were under the necessity of running into a small
+                    creek called Carregadil Bay,<note type="editorial">Not identified. One of many
+                        inlets on the north side of the <placeName ref="pl0680">Ardnamurchan</placeName> Peninsula.</note> &amp; there anchoring —
+                        <persName ref="pe2183">Aston</persName> &amp; I went on shore — and walked
+                    across to <placeName ref="pl3095">Killichoan</placeName> about 3 English miles —
+                    the path is not very good, &amp; in some part rather difficult to trace but a
+                    man from the village of <placeName ref="pl3094">Achnahay</placeName><note type="authorial">consisting of a dozen huts built in the rude way of the
+                        country with the 4 angles, rounded off — all detached from one another —
+                    </note> about half a mile from the coast, perceiving <sic>that were
+                        strangers</sic>, ran after us, &amp; conducted us, until we came to a hill
+                    from whence some of the houses in <placeName ref="pl3095">Killichoan</placeName>
+                    were to be seen — with the <placeName ref="pl2195">Sound of Mull</placeName>
+                    &amp; the entrance into <placeName ref="pl0681">Tobermory</placeName> on the
+                    opposite side — Here he told us in broken <sic>us</sic>, that he must go back —
+                    we thanked him for his trouble &amp; offered him money, which he received
+                    reluctantly — saying that he did not follow us for that — he then asked us <pb n="71"/>our names — having already enquired where we came from, &amp;
+                    whither we were going — we satisfied him, &amp; bid him good evening — We soon
+                    found the want of him for not thinking of our road we lost the track &amp; came
+                    to a boggy marsh — knowing however the bearings of the place — we soon reach
+                        <placeName ref="pl3095">Killichoan</placeName> — where there is a
+                    considerable village with an excellent house for the manse in a very fine
+                    situation — commanding a view of <placeName ref="pl2195">the sound of
+                        Mull</placeName>, up as far as <placeName ref="pl0682">the Bay of
+                        Arros</placeName> — &amp; a clear view of <placeName ref="pl2198">Ben
+                        More</placeName> which is seen almost from it's base –––––</p>
+                <p>At the public House, the people could not speak English, but fortunately we met
+                    with a person at the door who kindly became our interpreter, &amp; came in with
+                    us — we had hot oaten cakes, with excellent cheese &amp; butter — &amp; capital
+                    Farintosh Whiskey. — we now agreed with 2 men to row us across <placeName ref="pl2195">the Sound</placeName> to <placeName ref="pl0681">Tobermory</placeName>
+                    <pb n="72"/> — six miles — for altho' the sea is only 3 miles across — yet as
+                        <placeName ref="pl0681">T.</placeName> lays to the Eastward of <placeName ref="pl3095">Killichoan</placeName> the remaining distance is made out in
+                    coasting along the shore before you Turn <placeName ref="pl3096">the Priest's
+                        point</placeName> into <placeName ref="pl0681">the bay of
+                        Tobermory</placeName><note type="authorial">for this the charge is 5
+                        shillings</note> — which is a most excellent harbour — shut in from the Sea
+                    by a long island — which leaves only one entrance not very broad — but quite
+                    safe — The water is <add place="above">in general</add> very deep — &amp; the
+                    Bay capable of holding any vessels. — The inn kept by <persName ref="pe2182">Hugh M<hi rend="superscript">c.</hi>Leane</persName> is very comfortable
+                    ––––– At half past Ten our vessel came into the Bay &amp; fired a signal for us
+                    — They weighed anchor soon after 8 oClock the evening before — but the Tide made
+                    against them — &amp; it was calm so that they could not reach the harbour sooner
+                    — She <add place="above">now</add> hove to, &amp; we went on board — the breeze
+                    then blowing finely for us — we soon sailed down the <placeName ref="pl2195">Sound of Mull</placeName>, &amp; at 4. P.M. once more anchor<unclear reason="illegible">ing</unclear> in the <placeName ref="pl1076">Bay of
+                        Oban</placeName> –––––</p>
+                <p><pb n="73"/>
+                From <placeName ref="pl1076">Oban</placeName> to <placeName ref="pl1074">Tynuilt</placeName>
+                    <lb/>12. Miles —</p>
+                <p>It is 1 mile from <placeName ref="pl1249">Bunawe</placeName> — Iron works
+                        <unclear reason="illegible">—</unclear> Home to the <placeName ref="pl2188">memory</placeName> of <persName ref="pe1435">Nelson</persName> –––––</p>
+            </div>
+        </body>
+    </text>
+</TEI>

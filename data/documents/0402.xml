@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct402">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Mackenzie</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>NLS</repository>
+                        <idno>Delvine Papers, MS.1423</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>6</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1772-12-08"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0203">John Mackenzie</persName>
+                    <placeName ref="pl0287">Delvine</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0403"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r.</hi> 8<hi rend="superscript">th</hi>
+                        1772.</dateline><salute>Sir</salute></opener>
+                <p>various avocations at home after my long absence prevented me from sooner making
+                    my acknowledgemen<add place="above">ts</add> for the great civility I
+                    experienced the last summer at your house: it was a continuance of the
+                    hospitality <placeName ref="pl0711">The Highlands</placeName> are so noted
+                        for.<note type="editorial">Pennant stayed with Mackenzie for around four
+                        days during the second leg of his 1772 tour: see <bibl type="editorial"><title ref="bi0010">A tour in Scotland 1772, part II</title></bibl>
+                        (1776), p.67.</note> Please to accept my best thanks for the pleasure I
+                    enjoyed while at <placeName ref="pl0287">Delvin</placeName> which I shall be
+                    happy to return to any of your friends who should ever visit these parts. Please
+                    to present my compliments to <persName ref="pe1998">M<hi rend="superscript">rs</hi></persName> &amp; <persName ref="pe1999">Miss
+                        Mackenzie</persName></p>
+                <closer><salute>&amp; think me with great <lb/>regard <lb/>Sir Your obliged &amp;
+                        <lb/>most obedient humble Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Thomas Pennant</persName></signed></closer>
+
+
+                <postscript>
+                    <p>Decem<hi rend="superscript">r.</hi> 8<hi rend="superscript">th.</hi> 1772</p>
+                    <p><persName ref="pe0232">Thomas Pennant Esq<hi rend="superscript">r</hi></persName></p>
+                    <p>If any answer to be sent to <persName ref="pe0228">M<hi rend="superscript">r
+                            </hi>Paton</persName>
+                        <persName ref="pl0696">Custom house</persName></p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>J Mackenzie esq<hi rend="superscript">r</hi></addrLine>
+                        <addrLine>at Delvin</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

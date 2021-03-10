@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0209">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, mentioning that he has sent his map of
+                    Scotland to Mr Jackson</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>159</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1776-04-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0210"/>
+                    <ref type="prev" target="ct0208"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Last post I sent <bibl type="authorial"><title ref="bi0209">my map</title></bibl>
+                    in hopes that the precincts of the <placeName ref="pl0711">Highlands</placeName>
+                    may be justly traced. That returned to me at <placeName ref="pl0001">Downing</placeName>, franked by <persName ref="pe0018">M<hi rend="superscript">r</hi> Jackson</persName> who I trust has the power.
+                    I flatter myself I made no mistake, for I think you s<hi rend="superscript">d</hi> I might send to him any overweight. I set off for home next week.
+                    Thank you for y<hi rend="superscript">r</hi> Letter but am too much hurried to
+                    say more at present than</p>
+                <closer><salute>I am D<hi rend="superscript">r</hi> Sir affectly yrs</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                <dateline>April 23<hi rend="superscript">d</hi> 1776.</dateline></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

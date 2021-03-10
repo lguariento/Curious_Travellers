@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1132">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>32</locus></ab>
+                    </msContents>                    
+                    <physDesc>
+                        <additions><p><hi rend="italic">Endorsement in Thomas Pennant's hand at the top of the page</hi>: Answ<hi rend="superscript">d</hi></p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                    <correspAction type="sent">
+                        <persName ref="pe0313">Richard Bull</persName>
+                        <date when="1791-04-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir.</salute> <dateline>April 22. 1791.</dateline></opener>
+                <p>I write to you as soon as I have receiv’d the parcell, because you wish’d me to do so, but I have nothing to say, except to desire you not to direct any more letters under 
+                    <persName ref="pe0422">General Rainsford</persName>'s cover, to me, because he is going out of <placeName ref="pl0699">town</placeName>,
+                    as are most of my Parliamentary friends; in the mean time pray write to me, as often as You find occasion, without ever considering the paltry expence of a single, or 
+                    a double postage. When one throws away sixpences, and shillings, by handfull’s, it is niggardly indeed to grudge a few pence for the satisfaction of hearing from <sic>ones</sic> 
+                    friends. If one has a franker at one’s elbow tis as well to use his pen as not; but I never go out of my way to get franks to others, or wish 
+                    <del>the</del> others to do it for me.</p>
+                <p>I have order’d <persName ref="pe0328">Faulder</persName> to send me <persName ref="pe0043">Cadel</persName>'s <bibl type="authorial"><title ref="bi0201">new System of Natural history</title></bibl>,
+                    and it shall be left at <persName ref="pe0237">M<hi rend="superscript">rs</hi>. Pennants</persName> in <placeName ref="pl0798">upper Grosvenor Street</placeName>
+                    before May the 5<hi rend="superscript">th</hi>., together with your boards, and the return’d prints, and the <rs type="art" ref="ar0282">heads of Sir Walter Raleigh</rs>,
+                    the <rs type="art" ref="ar0280">Duke of Wharton</rs>, the <rs type="art" ref="ar0281">Earl of Essex</rs>, and the two Admiral’s Tromp.<note type="editorial">See <rs type="art" ref="ar0283">Maarten Tromp</rs> and <rs type="art" ref="ar0318">Cornelis Maartenszoon Tromp</rs>.</note>
+                    <rs type="art" ref="ar0284">Jacob Heemskirk</rs> I cannot find. – continue to tell me your wants, and I will endeavor to fulfill your wishes. I am by no means conversant in natural history, but 
+                    <persName ref="pe0043">Cadel</persName>'s <bibl type="authorial"><title ref="bi0201">System</title></bibl> seems to me to be merely a repetition of what you, and 
+                    others have said before, and the plates are much beneath midling, resembling an 8v<hi rend="superscript">o</hi> book which every School boy used to have, call’d a 
+                    <bibl type="authorial"><title ref="bi0024">discription of Beasts and birds</title></bibl>, with prints of half a dozen animals in every plate. only 
+                    <bibl type="authorial"><title ref="bi0201">one Volume</title></bibl> is yet publish’d, price 12 shillings, but it makes a very thick 8v<hi rend="superscript">o</hi>.
+                    and you will at least find letter press enough for your money: if you think it worth my purchasing, with respect to any of your publications have the goodness to tell me so. the odd Volumes of 
+                    <bibl type="authorial"><title ref="bi0194">Churchill’s Voyages</title></bibl>, you will want, are II. III. V.  and I am in 
+                    <del>serch</del> search of them. <persName ref="pe0068">Lort</persName>'s <bibl type="authorial"><title ref="bi0438"/>Collections</bibl> were sad rubbish, and I don’t remember to have seen the 
+                    <bibl type="authorial"><title ref="bi0118">Dutch Montfaucon</title></bibl> in the Catalogue. the sale I never attended, nor sent any Commissions.</p>
+                <p>I am thankfull for the <rs type="art" ref="ar0278">Print of Stillingfleet</rs>, and for the <rs type="art" ref="ar0285">drawings of the Markets</rs>,
+                    which are curious, and I dare say as exact as the Artist was able to discribe them, but every draftsman is not a <persName ref="pe0014">Griffyth</persName>,
+                    or an <persName ref="pe0324">Ingleby</persName> –The 2 wheat Ears<note type="editorial">A small passerine bird, <hi rend="italic">Saxicola œnanthe</hi>. <hi rend="italic">OED</hi>.</note>
+                    are equal to <persName ref="pe0364">Albyn</persName>, and I like the Drawing of the mountain which came in the same letter; 
+                    <hi rend="underline">pray pray don’t forget to tell me what the view is.</hi><note>Pennant's answer to this query in <ref target="1133.xml">1133</ref> reveals that the view in question is of Dalar Goch near <placeName ref="pl2330">Dyserth</placeName>.
+                    </note> it should be always written upon the drawing itself. I have taken 5 of the 
+                    <rs type="art" ref="ar0279">53 heads</rs> you was kind enough to give me the Choice of, which were all I have any present occasion for. I will pay 
+                    <persName ref="pe0014">Gryfith</persName>'s account, when, and wherever you please.</p>
+                <p>We hope you, and yours are well, and I will beg you to bring me to the remembrance of <persName ref="pe0416">D<hi rend="superscript">r</hi>. Nash</persName>.</p>
+                <closer>
+                    <salute>I am Dear, Sir, yours always.</salute>
+                    <signed><persName ref="pe0313">R.B. -</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

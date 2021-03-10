@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1094">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 80</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p>On address sheet, in Richard Bull's hand:</p>
+                            <p>Plan &amp; Elecction | Q. music room at | <placeName ref="pl1251">Holywell</placeName> 
+                                burnt 1743 | July 23<hi rend="superscript">d</hi>.<note type="editorial">For Bull's 
+                                    query regarding the music room at Holywell, see <ref target="1097.xml">1097</ref>.</note></p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1789-12-31"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r</hi> 31. 1789</dateline></opener>
+                <p>That many many happy returns of the season may attend you &amp; y<hi rend="superscript">rs</hi> is the sincere wish of this house. 
+                    &amp; may you &amp; miss Bulls<note type="editorial"><persName ref="pe0331">Elizabeth</persName> and 
+                        <persName ref="pe0336">Catherine</persName> Bull.</note> find themselves for a long series of 
+                    years as well as I do at present. apprehensions more than realities occupy me at present. The disorder of last summer
+                    which possibly never return <del>I</del>You nor I <del><gap unit="letters" quantity="1" reason="illegible"/></del> mind money much: but there is a sort of habitual 
+                    <del><gap unit="letters" quantity="7" reason="illegible"/></del> shabbiness about franks. I venture to write without one, as my wants are urgent. I have finish 
+                    my <bibl type="authorial"><title ref="bi0268">journey to Dover</title></bibl> from hence (in the true Hibernican style) I crossed to 
+                    <del><gap unit="letters" quantity="7" reason="illegible"/></del> <placeName ref="pl1411">Calais</placeName>, before I got there. In short; by reason of my unfortunate loss last year,
+                    I finished <bibl type="authorial"><title ref="bi0266">France</title></bibl> before I 
+                    reached <placeName ref="pl1381">Dubris</placeName>.<note type="editorial">See <ref target="1092.xml">1092</ref>, n. 1.</note>
+                    That done, I determine to give a concise account of the sequel of that Tour made with <persName ref="pe0065">my son</persName>
+                        in May 1787. ie. quite to the <bibl type="authorial"><title ref="bi0637">lands end</title></bibl>. The <placeName ref="pl1020">isle of Wight</placeName>
+                    will be included. I am therefore to request you in y<hi rend="superscript">r</hi> walks to desire <persName ref="pe0387">m<hi rend="superscript">r</hi> Edwards</persName>
+                    to send me by the <placeName ref="pl0002">Chester</placeName> coach. N<hi rend="superscript">o</hi> 1116 of his <bibl type="authorial"><title ref="bi0636">Catalogue </title></bibl> 
+                    <persName ref="pe0436">Sir Ric<hi rend="superscript">d</hi> Worsley</persName>.<note type="editorial">This reference appears to relate to a portrait of Sir Richard Worsley. 
+                        For a portrait by Joshua Reynolds, 1775/6, see <ref type="http" target="https://commons.wikimedia.org/wiki/File:Sir_Richard_Worsley_1775_75.jpg">here</ref> [accessed 2 April 2019].</note>
+                    at the same time let me beg y<hi rend="superscript">r</hi> excuse for desiring you to look at N<hi rend="superscript">o</hi> 5691
+                    5691 Tableaux &amp;c &amp; see if the<del>re</del>y are tolerable. I wa<del><gap unit="letters" quantity="2" reason="illegible"/></del>nt 
+                    heads for my <bibl type="authorial"><title ref="bi0266">french Tour</title></bibl>: &amp;
+                    shall be glad to know if there any <rs type="art" ref="ar0159">small heads of <placeName ref="pl0925">french</placeName> Kings</rs> like those of the english.*
+                    Pray add my thanks to <placeName ref="pe0387">m<hi rend="superscript">r</hi> Edwards</placeName> for his polite attention to my letter wrote at his own request. In truth the impertinence of Booksellers is among other reasons of taking to an amanuensis. 
+                    <bibl type="authorial"><title ref="bi0266"><placeName ref="pl0925">France</placeName></title></bibl> is charmingly doing</p>
+                <p>Rather than you should cease from honoring my work with y<hi rend="superscript">r</hi> pasting amusement, I shall freely give you a copy of all I have 
+                    wr<del>rot</del>itten <del>from <gap unit="letters" quantity="4" reason="illegible"/></del> or shall write 
+                    <bibl type="authorial"><title ref="bi0637">'from the Temple stairs to the lands end'</title></bibl>.
+                    you will look out for a scribe against I come to <placeName ref="pl0699">town</placeName>, which will <add place="above">be</add>
+                    ab<hi rend="superscript">t</hi> March 10<hi rend="superscript">th</hi>. It will be a work capable of much ornament. excuse this trouble: 
+                &amp; think me</p>
+                <closer>
+                    <salute>Dear Sir
+                        <lb/>most truely yours</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed>
+                </closer>
+                <postscript>
+                    <p><persName ref="pe0014">Moses</persName> thought he succeeded so ill with <rs type="art" ref="ar0041">m<hi rend="superscript">r</hi> Pitt</rs>
+                        that he w<hi rend="superscript">d</hi> not charge that head.
+                        <lb/>*yes many.<lb/><note type="editorial">This and the following note are in Richard Bull's hand.</note>
+                        N.B. they are charg’d, and paid for. vid: Bill. R<hi rend="superscript">d</hi> B.
+                        <lb/></p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark"><placeName ref="pl1251">HOLYWELL</placeName>; IA 2 90</stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> esq<hi rend="superscript">r</hi> | <placeName ref="pl0759">stratton street Picadilly | London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1213">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>65</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1798-01-01"/>
+                    <placeName ref="pl0759">Stratton street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName>. January 1. 179<del>7</del>8 <lb/>multos &amp; felices.<note type="editorial">'many and happy'.</note></dateline>.
+                    </opener>
+                <p>I am very much oblig’d by your two last letters, and the parcell, which you need not have paid the carriage of, more especially as it was my affair, and not yours. of the eight drawings taken in the 
+                    <placeName ref="pl2620">Bay of Fundy</placeName>, and its neighborhood, which your goodness meant to have furnish’d me with, I find I have five of them already, but I shall not appropriate the remaining three, till I see you, or till I hear 
+                    from you again, least I should spoil yours, or the set of somebody else. You have set me completely at ease, respecting my apprehensions about the <bibl type="authorial"><title ref="bi0023">Arctic Zoology</title></bibl>,
+                    and the <bibl type="authorial"><title ref="bi0034">Whitford</title></bibl>; the latter I find now perfect, and that my Alarm had arisen merely from a blunder of the man who set the press. The title page, and the subsequent leaves, which your kind care recover’d, of the 
+                    <bibl type="editorial"><title ref="bi0690">introduction to the Artic Zoology</title></bibl>, make that work also complete; and 
+                    your <persName ref="pe0111">printer</persName>,<note type="editorial">'[Y]our [Pennant's] printer' in this case appears to have referred to Henry Hughs. See <ref target="1211.xml">1211</ref> and ibid. n. 1.</note>
+                    who has taken the trouble to call upon me here, has received, and understands, the directions you sent, to reprint a couple of large paper title pages, 
+                    <hi rend="underline">with the <rs type="art" ref="ar0354">Elk’s head</rs></hi> for <bibl type="authorial"><title ref="bi0023">Volume 1<hi rend="superscript">st</hi>. of the Arctic Zoology</title></bibl>,
+                    and also a couple of large paper title pages, <hi rend="underline">with the <rs type="art" ref="ar0355">pied Duck</rs></hi>, for the <bibl type="authorial"><title ref="bi0023">second Volume of the same book</title></bibl>.
+                    this done, my cares in regard to this Valuable book, and a very Valuable one I do assure you, I think it, will be over. Q. shall I keep your new printed titles, till I have an opportunity of sending them, or would you rather have them left at the printers? perhaps they will be safer chez moi, and more readily found, when you want them. I was in some hopes of receiving them to day, and I would have sent them by the same conveyance, as I am now availing myself of, to remit this letter, and the two prints mention’d in your last, which I was very glad to find remaining unwanted in my port folio. If you can make out a list of what prints you have a more immediate call for, I won’t promise you to find them amongst the few duplicates I have still left, but I will search for them in all the petty Print shops, where I doubt, 
+                    <hi rend="underline">our</hi> wants are more likely to be supplied. <persName ref="pe0324">Ingleby</persName> need not now hurry himself about my trifling commissions, because I have many things just now in hand, which will take up a good deal of my leisure time.</p>
+                <p>
+                    <persName ref="pe0331">My daughter</persName>, as well as her father, is sorry to hear of the little hitch in your usual family happiness, but we hope and trust, <del>that</del>
+                    altho’ the connection may not be, in all respects, <hi rend="underline">exactly</hi> the thing you wish, that there is nothing materially wrong in your <persName ref="pe0234">Girls</persName>
+                    conduct; it has ever been my opinion, and confirm’d by twenty instances, that it is as easy to keep a cat in a wheelbarrow, as a Girl after 15, out of the arms of what She calls her first Love. opposition only makes the inclination stronger.</p>
+                <p>
+                    I don’t hear any public news worth your trouble of reading. the new tax seems to occupy the thoughts of every class of people, but the Bill will  certainly pass, and my Relation John Bull will continue to grumble, <hi rend="underline">but he 
+                        will pay notwithstanding</hi>.<note type="editorial">On a bill relating to taxes passed on 12 January 1798, see <ref target="1210.xml">1210</ref> n. 3.</note>
+                    it is a heavy, but necessary requisition, and I think the man deserves well of his country, whose head has conceiv’d and whose perseverance prompts him to carry into execution, a measure, the only one perhaps, that can save the nation from the evils at this moment hanging over our heads. The visits to 
+                    <placeName ref="pl2624">S<hi rend="superscript">t</hi>. Pauls</placeName>, was conducted in the best manner possible, nor could it be otherwise, for there were that day, in 
+                    <placeName ref="pl0699">London</placeName> and <placeName ref="pl0776">Westminster</placeName> 29,000 men under arms, and more than that number, within an hours march of the 
+                    <placeName ref="pl0699">Capital</placeName>.<note type="editorial">For a contemporary account of George III's visit to St Paul's for a 'General Thanksgiving' on 19 December 1797, see <hi rend="italic">Hampshire Chronicle</hi>, 23 December 1797.</note> I am only afraid the wronghead<del><gap unit="letters" quantity="3" reason="illegible"/></del>edness 
+                    of some of our countrymen, will reduce us to an absolute military Government. from what I saw, and what I heard from others, the royal Carriage was receiv’d without any tokens of disaffection, but without any shouts of applause. The 
+                    <persName ref="pe0465">king</persName> did not go in his state Coach, but in a private carriage built for the occasion, and, (as is generally believ’d)<del>,</del>
+                    with the sides made Bullet proof, to prevent such an attempt as was made, not long ago, as he went to the house of Lords. The Glasses were kept up, and both their 
+                    Majesties<note type="editorial"><persName ref="pe0465">George III</persName> and his wife, <persName ref="pe1143">Charlotte</persName>. </note> set very back in the Coach, as not wishing, or not daring to shew themselves to the people, at which John Bull was much offended.</p>
+                    <p>
+                        I have nothing to add, but the best good wishes of <persName ref="pe0331">my daughter</persName>, and myself to you, and your house. I 
+                        <hi rend="underline">am</hi> very well, but I have little good to say of <persName ref="pe0331">Miss Bull</persName>'s health, and less of her Spirits.</p>
+                <closer>
+                    <salute>Yours always.</salute>
+                    <signed><persName ref="pe0313">R. B.</persName> -</signed>
+                </closer>
+                <postscript>
+                    <p>since I wrote this, I have examind <bibl type="authorial"><title ref="bi0023">my Arctic Zoology</title></bibl> drawings more exactly, and find I have 
+                        <hi rend="underline">all <rs type="art" ref="ar0450">the eight</rs></hi> which you so kindly sent in your last packet, and I shall therefore put them by, to wait your orders, that you may have the opportunity of obliging somebody else, with them. –</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

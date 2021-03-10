@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1089">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>16</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><persName ref="pe0976">Sir J. Hawkwood</persName> | <persName ref="pe0977">Rymer</persName>. 
+                                VII <note type="editorial">The two names jotted here by Bull as marginal notes are related by the 
+                                    fact that <hi rend="italic">Foedera</hi>, a work by Thomas Rymer, included references to 
+                                    Sir John Hawkwood.</note></p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1789-09-02"/>
+                    <placeName ref="pl1013">North Court, Isle of Wight</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl1013">North Court</placeName>, <placeName ref="pl1020">Isle of Wight</placeName>. Sept:<hi rend="superscript">r</hi> 2. 1789</dateline></opener>
+                <p>’Tis a shame to write you my nonsense, unfrank’d, but ’twould be a burning shame to hold my tongue any longer, and not thank 
+                    you for so kind a letter as your last. we felt ourselves much oblig’d by your good wishes, and desire to return the same to 
+                    you, and yours, sincerely, and in earnest. I am still very lame,,
+                    &amp; not equal to the exercise I used to take in better days, and of course, not in rampant Spirits. The first franking 
+                    visitor I have, shall return the two proof sheets of the 
+                    <bibl type="authorial"><title ref="bi0039">London</title></bibl>, to your hands, &amp; I hope safe; I was much pleased with 
+                    them, but no wonder, for you treat every Subject you take in hand, in a way nobody thought of before. “Pereant, qui ante 
+                    nos, nostra dixerunt,<note type="editorial">'May they perish, who said first what we were going to say'.</note> ought 
+                    never to be quoted by you in anger, because your ideas are original, and all your own, and was you to write the history of Tom Thumb, we should find new anecdotes to amuse and instruct us, and every body would wonder where the Devil You pick’d ’em up. I am sorry I can’t send you the information I was made to expect, relative to the new River company,
+                    for upon inquiry, I find <persName ref="pe0427">Alderman Skinner</persName>, has just as much knowlegde in that business, 
+                    as you would suppose an Auctioneer to have. He only sold a few shares some time ago, for about 9000£ a share, but they are 
+                    now done at 10,000£, and increasing, because their profits increase, upon which their Dividends are grounded. The managers 
+                    are very cautious in answering questions, and the secrets lie in the breasts of a few interested proprietors. There are 
+                    72 Shares, the half of which are call’d Kings shares, and are in less estimation than the others, because subject to a 
+                    Grant of £500 a year, made so long back as the reign of <persName ref="pe0672">James the first</persName> (I can’t learn 
+                    in what year) when the water was first brought to <placeName ref="pl0699">London</placeName>, or very soon afterwards. I 
+                    was quite astonish’d at what you tell me about your countryman <persName ref="pe0326">Sir Watkin</persName>; 
+                    I knew he lived well, and with hospitality, but good housekeeping never ruin’d a great Estate without the help of Vices. 
+                    We were saying the day before your letter came, (<persName ref="pe0332">Storer</persName> and I,) what a fortune that 
+                    <persName ref="pe0941">young Welchman</persName> will have to spend, if he has the prudence, and oeconomy of his 
+                    <persName ref="pe0326">Father</persName>. <persName ref="pe0969">Delme</persName>, another thoughtless man, with a princely 
+                    fortune, much, I believe, superior to <persName ref="pe0326">Sir Watkin</persName>'s is dead almost in indigence, and in 
+                    good time for his family. <persName ref="pe1514">his eldest son</persName>, and <persName ref="pe1515">his second son</persName>
+                    are provided for, the rest must gamble, or go to service; <persName ref="pe1516">Lady Betty</persName> has only a thousand per
+                    ann<hi rend="superscript">m</hi>. jointure, and tho it is not poverty, ’tis a a great change from the Splendor, and extravagance 
+                    She has been accustom’d to. besides his lawfull wife, and family, he had <persName ref="pe1517">a left handed one</persName>, 
+                    and three children, who have nothing but the parish, and providence, to trust to. – 
+                    <persName ref="pe0293">Sir William Burrell</persName>, is come into a large Fortune by the death of his <persName ref="pe0970">mother</persName>,
+                    which I believe he did not wish, and I am sure he did not want. <placeName ref="pl0699">London</placeName>, as well as all
+                    <placeName ref="pl1176">Europe</placeName> besides, is fill’d with the unfortunate nobles of <placeName ref="pl0925">France</placeName>.
+                    <persName ref="pe0971">Madame de Polignac</persName> was supposed to be in <placeName ref="pl1472">Germany</placeName>,
+                    and at <placeName ref="pl1618">Strasborg</placeName>, our beautiful countrywoman, <persName ref="pe0972">M<hi rend="superscript">rs</hi> Trevor</persName>,
+                    was mistaken for her, and had like to have been shaved, whip’d, and hang’d, and <persName ref="pe0973">Prince Boothby</persName>.
+                    was taken at <placeName ref="pl1023">Paris</placeName>, for a marchand de Bled,<note type="editorial">'corn merchant'.</note> 
+                    and escap’d with great difficulty. a friend of mine, now at <placeName ref="pl1619">Spa</placeName> writes me word, that the 
+                    <persName ref="pe0974">Compte D’Artois</persName>, was two days in their hotel, unknown to any body, even of his own party, 
+                    that the doors of his room were nail’d up, and the window shutters closed, and he had no provision, except what he brought with
+                    him, but when he <del>went</del> was gone, the Host was paid very liberally, by a person so muffled up, ’twas impossible to see 
+                    his face. How will this end? Such sudden, and rough Reformations, shock one’s 
+                    feeling<supplied>s</supplied><note type="editorial">The page is torn here at the seal and a final 's' and full stop ('feelings.') 
+                        are probably missing. Cf. see marginalia to <ref target="1086.xml">1086</ref>, where similar words are jotted down by Bull.</note>
+                    when so much is done in so little time, a great part certainly must be done wrong, ’tho’ when the hour of violence is over, 
+                    some good will arise from the anarchy and confusion, one shudders to think of. I have a Sister,<note type="editorial">This may refer to
+                        Bull's younger sister, <persName ref="pe0975">Kitty</persName>.</note>
+                    who has been these two years at <placeName ref="pl1023">paris</placeName>, and who lives within a stones throw of the 
+                    <placeName ref="pl1620">Bastile</placeName>, and was witness to the whole attack, and defence there, and has since visited the
+                    Cells, above, and underground, which She writes me word, are not so dreadfull as have been represented, tho dismall enough in 
+                    all conscience, but they are spacious, and airy enough not to be unwholesome. neither herself, nor any one of the party with
+                    her, have met with the least incivility, or insult, and the order in the Streets, has been as extraordinary as the tumults, 
+                    occasion’d by the total subversion of Government.<note type="editorial">Accounts by British visitors of Paris after the fall 
+                        of the Bastille are numerous. For a recent study of such material see George Cadogan Morgan and Richard Price Morgan, 
+                        <hi rend="italic">Travels in Revolutionary France and A Journey Across America</hi> (Cardiff: University of Wales Press, 2012), 
+                        ed. by Mary-Ann Constantine and Paul Frame.</note></p>
+                <p>My daughters<note type="editorial"><persName ref="pe0331">Elizabeth</persName> 
+                    and <persName ref="pe0336">Catherine</persName> Bull. Bull's stepdaughter, <persName ref="pe0346">Levinia Luther</persName>, 
+                    may also be implicated in this reference.</note> have <add place="above">been</add>
+                    at Sea, these three days, and I know no more than You, in what latitude they are at present, or when they mean to return, 
+                    however, <del><gap unit="letters" quantity="4" reason="illegible"/></del>sink or Swim, they are in good company, and I trust 
+                    they are safe. I hope <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName> has recovered her fall, and 
+                    that you are all well, and happy. I was made to believe that <del>M<hi rend="superscript">rs</hi> Moy</del> your relation 
+                    <persName ref="pe0965">M<hi rend="superscript">rs</hi> Mostyn</persName> meant the bulk of her fortune for your 
+                    children,<note type="editorial"><persName ref="pe0065">David</persName>, <persName ref="pe0234">Arabella</persName>, 
+                        <persName ref="pe0235">Sarah</persName> and <persName ref="pe0421">Thomas, junior</persName>.</note> Why am I quite disappointed? – as I shall not be in town till 
+                    near christmas, perhaps <persName ref="pe0014">Moses</persName> had better not send the drawings till he hears of my being there, 
+                    but if he will remit me the account I will readily pay it en avance.<note type="editorial">'in advance'.</note> <persName ref="pe1373">Carter</persName> has been with me
+                    for a little while, &amp; has made me some drawings, which pleasure me, and honor him. I wish you would actually survey the 
+                    <placeName ref="pl1020">Isle of wight</placeName>, and take your Meridian from <placeName ref="pl1013">Northcourt</placeName>,
+                    which you would find <hi rend="underline">very</hi> comfortable, if for no other reason, but because you would be 
+                    <hi rend="underline">very</hi> welcome. like a simpleton, I have expended this summer, and the last, above seven hundred pounds 
+                    here, and few Gentlemen are better lodg’d than I am, but I am liable to the Caprice of my Landlord, and may be turn’d adrift, 
+                    at a years notice, in the mean time we enjoy ourselves completely.<note type="editorial">Bull purchased North Court in 1795.</note></p>
+                <closer>
+                    <salute>I am Dear Sir, with best good wishes to the House of Pennant, yours faithfully, &amp; sincerely.</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p><stamp type="postmark">SE 3 89</stamp></p>
+                <p><stamp type="handstamp"><placeName ref="pl1020">ISLE OF WIGHT</placeName></stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant</persName> Esq:<hi rend="superscript">r</hi> | <placeName ref="pl0001">Downing | <hi rend="underline">Flintshire</hi></placeName></addrLine>
+                    <addrLine><hi rend="underline">By <placeName ref="pl0699">London</placeName></hi></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

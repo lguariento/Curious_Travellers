@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0385">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>220-221</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date notBefore="1776-12-01" notAfter="1776-12-31"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0215"/>
+                    <ref type="prev" target="ct0214"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+
+                <p>accept my best thanks for y<hi rend="superscript">r</hi> late favor &amp; be
+                    assured I shall rejoice to subscribe to <persName ref="pe0280">M<hi rend="superscript">r</hi> Philips</persName> plan of prints which I much
+                    approve. you have given yourself vast pains about the <bibl type="authorial"><title ref="bi0209">map</title></bibl>, which I trust <persName ref="pe0006">Bailey</persName> will profit of. Inclosed is a order for my
+                        <bibl type="authorial"><title ref="bi0019">Br. Zoology</title></bibl> the
+                    new edition. If there is a <hi rend="underline">perfect</hi>
+                    <bibl type="authorial"><title ref="bi0141">Ballendine</title></bibl> Pray buy it
+                    at the auction I wonder you never mention <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> is he alive; for I fear on his
+                        acc<hi rend="superscript">t</hi> by reason of his ill health.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

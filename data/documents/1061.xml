@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1061">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 57</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">In Richard Bull's hand, on blank page</hi>:</p>
+                            <p><gap unit="letters" quantity="20" reason="illegible"/> <hi rend="underline">at <persName ref="pe0436">Appuldurcombe.</persName></hi>
+                                <lb/><rs type="art" ref="ar1049"><persName ref="pe0829">Edward VI</persName></rs>. <persName ref="pe0401">Holbein</persName>, formerly in the Royal Collection
+                                <lb/><rs type="art" ref="ar1050"><persName ref="pe0629">Henry VIII</persName></rs>. D<hi rend="superscript">o</hi>.
+                                <lb/><rs type="art" ref="ar1051"><persName ref="pe0830">Countess of <placeName ref="pl1387">Somerset</placeName></persName></rs>.
+                                <lb/><rs type="art" ref="ar1052"><persName ref="pe0831">Robert Earl of <placeName ref="pl1388">Essex</placeName></persName></rs> - old 1572.<note type="editorial">There are no portraits as early as 1572 of Robert Devereux, second earl of Essex (1565–1601), who would in any case not have been 'old' as suggested here at that time. Bull probably means Robert's father, Walter Devereux, first earl of Essex (1539–1576); <hi rend="italic">ODNB</hi>.</note>
+                                <lb/><rs type="art" ref="ar1053"><persName ref="pe0832">Lady Worsley</persName></rs>, wife to <persName ref="pe1421">Sir Richard Worsley</persName>, &amp; daughter to <persName ref="pe0833">Sir Hen<hi rend="superscript">y</hi>. Neville</persName>
+                                <lb/>a good picture by <persName ref="pe0834">Cornelius Johnson</persName>.
+                                <lb/><rs type="art" ref="ar1054"><persName ref="pe0835">Isabella Clara Eugenia</persName>, in a vast Ruff</rs>, - the picture from which the print is taken
+                                <lb/><rs type="art" ref="ar1055">2 large <del>picture</del> landscapes</rs> by <persName ref="pe0836">Zucharelli</persName> - esteem'd the most Capital of his works.</p>
+                            <p>Q. where pay the Bill of <persName ref="pe0014">Moses</persName>'s</p>
+                            <p><hi rend="italic">On address side</hi>:</p>
+                            <p>Q. <hi rend="underline">what shall:</hi>
+                                <lb/><hi rend="underline">Bill wrong cast</hi></p>
+                            <p>8: 10.
+                            <lb/>8. 10-
+                            <lb/>8: 10<del>:</del>-
+                            <lb/>8. 10-
+                            <lb/>8. 10-
+                            <lb/>8: 10-
+                            <lb/>8. 10
+                            <lb/>----
+                            <lb/>2: 16. 10:
+                            <lb/><gap unit="letters" quantity="4" reason="illegible"/>5
+                            <lb/>----
+                            <lb/><gap unit="letters" quantity="4" reason="illegible"/>1 10</p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1787-06-16"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I hope to pick up more anecdotes about <placeName ref="pl1382">Enmore</placeName>. but let me request you to be expeditious in 
+                    befriending me with a copy of the plate &amp;c. As some excuse to my friends for the trouble I give, let them consider me as 
+                    a public man working for their amusement. I must have the <bibl><title ref="bi0062">actual survey of sussex</title></bibl>; at
+                    lest as much as has appeared. That it is published is certain<del>ly</del> for I have seen it nailed on the walls of a public 
+                    house. I doubt not but <persName ref="pe0293">M<hi rend="superscript">r</hi> Burel</persName> could get it for me: or lend it 
+                    or anything. other wants I wish to have supplied from him: such as an acc<hi rend="superscript">t</hi>. of the foundation of 
+                    <placeName ref="pl1383">the great Church on Winchelsey</placeName>; &amp; its fine monuments:
+                    &amp; a copy of the inscription on the <persName ref="pe1417">handmaid</persName> <sic>of of</sic> <persName ref="pe0828">Beatrix</persName> a natural
+                    D<hi rend="superscript">r</hi> of <placeName ref="pl1384">Portugal</placeName> in the <placeName ref="pl1385"><choice><abbr>Ch.</abbr><expan>Church</expan></choice> at Arundel</placeName>.
+                    These are services I <sic>clame</sic> from you for perhaps <persName ref="pe0293">M<hi rend="superscript">r</hi> Burel</persName>
+                    will no more let a Letter of mine enter his house than he w<hi rend="superscript">d</hi> the writer.</p>
+                <p>Pray make my best complim<hi rend="superscript">ts</hi> to <persName ref="pe0332">M<hi rend="superscript">r</hi> Storer</persName>.
+                    No delay shall be made about his little <rs type="art" ref="ar0030">owl</rs>.</p>
+                <p><persName ref="pe0014">Moses</persName> is hard at work for you.</p>
+                <closer>
+                    <salute>Adieu
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">Thomas Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> June 16<hi rend="superscript">th</hi> 1787.</dateline>
+                </closer>
+                <postscript>
+                    <p>Thanks for the print: &amp; y<hi rend="superscript">r</hi> dutch news.</p>
+                    <p>The <rs type="art" ref="ar0272">collection of Portraits at <placeName ref="pl1386">Longleat</placeName></rs> the princely 
+                        <placeName ref="pl1386">longleat</placeName> <del>are</del> is amazing</p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark">JU 18 8<gap unit="letters" quantity="1" reason="illegible"/></stamp></p>
+                <p><stamp type="handstamp">00 <placeName ref="pl1251">HOLYWELL</placeName></stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull Esq<hi rend="superscript">r</hi></persName> | <placeName ref="pl0759">Stratton street Piccadilly</placeName> | <placeName ref="pl0699">London</placeName></addrLine>
+               </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

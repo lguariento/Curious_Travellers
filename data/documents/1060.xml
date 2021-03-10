@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1060">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>11</locus></ab>
+                    </msContents>                    
+                    <physDesc>
+                        <additions><p><hi rend="italic">Endorsement in Thomas Pennant's hand:</hi></p>
+                            <p><persName ref="pe0313">M<hi rend="superscript">r</hi> Bull</persName> | answ<hi rend="superscript">d</hi></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1787-06-13"/>
+                    <placeName ref="pl0699">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir.</salute><dateline><placeName ref="pl0699">London</placeName>, June 13. 1787.</dateline></opener>
+                <p>I write a few hasty lines, in obedience to your commands, not because I have any thing amusing to send to you, or 
+                    because my letter is worth the twopence it will cost.</p>
+                <p>Your letter respecting <placeName ref="pl1382">Enmore</placeName> is too interesting and too amusing to distroy, 
+                    and therefore I shall run the risk of offending you, by placing it in my <bibl><title ref="bi0258">House of Yvery</title></bibl>, and a hundred years hence 
+                    it will be known what a sensible and observing man thought of that Extraordinary place.<note type="editorial">There is a brief reference to Enmore in <ref target="1061.xml">1061</ref>, but a letter with the more extensive commentary suggested here appears to have been lost.</note>
+                    I have got the prints of it, mention’d by you, and when ever I have the op<del>p</del>ortunity, I will get them
+                    <hi rend="underline">for</hi> you. they are part of the <rs type="art" ref="ar1048">Print in Edmonstone’s Peerage</rs><note type="editorial">This work has not been identified.</note> appropriated to the family of <persName ref="pe0825">Percival</persName>.<note type="editorial">The Somerset family to which John Perceval, second earl of Egmont, belonged.</note>
+                    I am shocke’d to think what wreched fare, you, and your young <persName ref="pe0065">Ascanius</persName><note type="editorial">Bull refers to David Pennant by the name of Ascanius, son of Aeneas, whose illustrious future is predicted by Vergil in the <hi rend="italic">Aeneid</hi>.</note>
+                    found at <placeName ref="pl1013">Northcourt-Hall</placeName>; It is not so forlorn when we are there, and seeing 
+                    it as you saw it, I may venture to assure you that you would not find it <del>wholy</del> altogether comfortless and unhospitable 
+                    was you to return there any time after next week, when we and some friends with us, shall be there for four months.<note type="editorial">Pennant describes 'the delicious repast of bacon and eggs' together with the 'bottle of excellent white wine' which were offered to him and his son, David, on this visit to Northcourt during Bull's absence. Pennant, <hi rend="italic">From Dover to the Isle of Wight</hi> (1801), pp. 189–90.</note> If 
+                    <persName ref="pe0383">M<hi rend="superscript">r</hi>. Clark</persName> was in any degree usefull to you, I am very glad, &amp;
+                    so he writes me word he is, to have had the honor of accompanying You. ’tis an <hi rend="underline">event</hi>, where
+                    no <hi rend="underline">events</hi> ever happen, and our parson will record the sacriligious robbery you are audacious 
+                    enough to boast of, I hope however the wine was not destin’d for any religious purposes. 
+                    <persName ref="pe0383">M<hi rend="superscript">r</hi> <add place="above">Rich<hi rend="superscript">d</hi></add> Clark</persName>
+                    is in the management of more than half the property of the <placeName ref="pl1020">Island</placeName>, as much to his
+                    own honor, as to the emolument of his principals.</p>
+                <p>We talk of nothing here but the disturbances in <placeName ref="pl1228">Holland</placeName> which have already sunk our Stocks two per cent. 
+                    <persName ref="pe0397">Sir James Harris</persName> came post home, and return’d as quickly, in order to try whether any monies could be borrow’d 
+                    <del>here</del> in this country to pay the <persName ref="pe0826">Statholders</persName> troops, in which case 
+                    he could make head against his enemies, for he has many and faithful partisans, let they have all Swiss
+                    consciences. The <persName ref="pe0393">prince of <placeName ref="pl0731">Wales</placeName></persName> is set up again
+                    <hi rend="underline">for the present</hi>.<note type="editorial">The Prince of Wales (later George IV) requested help from his political friends to settle his debts during 1787.</note>
+                    he has been out to see <persName ref="pe0827">M<hi rend="superscript">rs</hi>.. Fitzherbert</persName>, at the risque 
+                    of his life. She catch’d something of his complaint by nursing, and is very ill.</p>
+                <p>I enclose a print, the strongest resemblance ever taken<note type="editorial">This is no longer present with the letter and has not been identified.</note>
+                    - the creases will come out by just moisturing the back.</p>
+                <p><persName ref="pe0331 pe0336">My Girls</persName><note type="editorial"><persName ref="pe0331">Elizabeth</persName> and <persName ref="pe0336">Catherine Bull</persName>.</note> return you every good wish, and</p>
+                <closer>
+                    <salute>I am Dear Sir
+                        <lb/>Yours, and <persName ref="pe0065">you son</persName>'s, very faithfully</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                    <dateline><placeName ref=""/></dateline>
+                </closer>
+            </div>            
+        </body>
+    </text>
+</TEI>

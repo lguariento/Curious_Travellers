@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1138">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 108</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">On the top of the final page, not in Thomas Pennant's hand</hi>: <unclear>Survey Park</unclear></p>
+                        <p>Printed enclosures included</p></additions></physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date>31 August 179[1]</date>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener><salute>Dear Sir</salute><dateline><placeName ref="pl0001">Downing</placeName> Aug. 31<hi rend="superscript">st</hi>. <handShift/>1792<note type="editorial">This incorrect date has been added in another hand.</note></dateline></opener>
+                <p>The inclosed papers will inform you of an affair which has occupied my thoughts very much. The cause of the public is so much every bodies business: that no one will attempt redress. I had the courage to undertake the adventure: 
+                    &amp; except it shd be possible that the Parlement sh<hi rend="superscript">d</hi> be blind to every idea of justice it must reverse the act I believe surreptiously obtained to favor the mail coaches to the injury of private property; 
+                    &amp; in defiance of a breach of public faith. I should be sorry to over set the plan laid by <persName ref="pe0419">M<hi rend="superscript">r</hi> Palmer</persName>
+                    for the expediting the mail: but the same fertile genius that invented it, may suggest expedients to take away the offensive part. a small addition to the carriage of parcels or of passengers will do the business. I inclose I may say, two 
+                    <hi rend="underline">Editions</hi> of <bibl type="authorial"><title ref="bi0275">my address</title></bibl>. Be so good as to shew them to <del>such</del>
+                    any members of the house: &amp; if they <sic>endowed</sic> with any conscience, I am sure to have them of my side.</p>
+                <p>I will divert the subject: <persName ref="pe0014">Moses</persName> is busy working for you &amp; making a beautiful book<note type="editorial">This may refer to <bibl type="editorial"><title ref="bi0269">'A journey from Dover to the Isle of Wight'</title></bibl>, to which Pennant and Bull refer in <ref target="1136.xml">1136</ref> and <ref target="1137.xml">1137</ref>.</note>
+                    for you: which I hope to deliver to you in person in February. you have given yourself too much trouble about the bills: &amp;
+                    I dare say the money is safely lodged with <persName ref="pe0329">mess<hi rend="superscript">rs</hi> Gosling</persName>.</p>
+                <p>I wish you &amp; <del><gap unit="letters" quantity="1" reason="illegible"/></del>our Country joy of the dispersion of our fleet: 
+                    &amp; I hope we shall not pay so much for the fine shew. The empress’s conclusion of her war<note type="editorial">This refers to the drawing to an end of the conflict between Catherine the Great of Russia and the Turkish empire. Preliminary peace was signed on 31 July 1791 and a final treaty signed at Jessy on 29 December 1791. Isabel de Madariaga, <hi rend="italic">Catherine the Great: A Short History</hi> (2nd edn., Yale University Press, 2002).</note> is an excellent illustration of Priors lines
+                    <lb/>Blest be the Princes who have fought &amp;c &amp;c.<note type="editorial">Matthew Prior, ‘Written in the Nouveaux Interets des Princes de L’Europe’. See <hi rend="italic">The Poetical Work of Matthew Prior, Esq.</hi> (Edinburgh, 1793), found within a larger volume entitled <hi rend="italic">A Complete Edition of the Poets of Great Britain Volume the Seventh. Containing Parnell, Garth, Rowe, Addison, Hughes, Sheffield, Prior, Congreve, Blackmore, Fenton, Granville &amp; Yalden</hi> (London, n.d.), p. 419.</note>
+                    <lb/><sic>all her</sic> ended in nothing: but we must pity the thousands who have fell to gratify her ambition.</p>
+                <p>Litterature makes some advances in our kingdom: while <placeName ref="pl0925">France</placeName> relapses in to Gothicism. one 
+                    <persName ref="pe1521">Ellis</persName> published <bibl type="authorial"><title ref="bi0399">Campagna di London: 2<del>0</del>5 miles round</title></bibl>.
+                    I have not seen it but his rival mess<hi rend="superscript">rs</hi> Lysons<note type="editorial">The brothers <persName ref="pe1533">Daniel</persName> and <persName ref="pe1534">Samuel Lysons</persName>.</note> under the patronage of 
+                    <persName ref="pe0434">M<hi rend="superscript">r</hi> Walpole</persName> speak very ill of it. their plan is only 12 M. to take in 
+                    <placeName ref="pl1501">strawbury hill</placeName>. It is to be in <bibl type="authorial"><title ref="bi0114">3 vol<hi rend="superscript">s</hi>. q<hi rend="superscript">to</hi></title></bibl> &amp;
+                    I think will be well done.</p>
+                <p><persName ref="pe0371">Boydel</persName> is going to publish by 12 in a set our <bibl type="authorial"><title ref="bi0203">N. Wales houses</title></bibl>:
+                    we shall not shine: but I commend his nationality. I inclose the specimen of my own.<note type="editorial">This enclosure, presumably an image of Downing, is not preserved with the manuscript letter. For the image, see 'Downing. The Seat of Thos. Pennant Esqr., Flintshire' (M. Griffith del; W.C. Wilson sculp. ([London,] Cheapside &amp; at the Shakespeare Gallery Pall Mall: J. &amp; J. Boydell, 25 June 1792), copy held at NLW and included in Pennant's extra-illustrated <hi rend="italic">HPWaH</hi>, FRO.</note></p>
+                <p>I make quick advances in my <bibl type="authorial"><title ref="bi0404"><hi rend="underline">outlines of the Globe</hi></title></bibl>. I entered 
+                    <placeName ref="pl1024">India</placeName> last month: &amp; crossed the <del>H</del><placeName ref="pl2332">Indus</placeName>
+                    &amp; <placeName ref="pl2333">Hydaspes</placeName> &amp; with <persName ref="pe1522">Alexander</persName>  have
+                    <lb/>Fought all our battle o^êr again
+                    <lb/>&amp; twice we’ve slain the slain.<note type="editorial">The quotation is from Dryden, ‘Alexanders Feast; or, the power of music; an ode in honour of St. Cecilia’s day’: ‘Sooth’d with the sound the king grew vain;/Fought all his battles o’er again: and thrice he routed all his foes; and thrice he slew the slain!’</note>
+                    <lb/>after sailing with him down the river, we parted at its mouth. I left <persName ref="pe1523">Nearchus</persName>
+                    to enter the place I had left &amp; get as he could through the <placeName ref="pl2334">Persian Gulph</placeName> up the 
+                    <placeName ref="pl2335">Euphrates</placeName>. &amp; I took the southern course. I am now at <placeName ref="pl2336">Bombay</placeName>:
+                    &amp; expect soon to see <persName ref="pe1524">Tippoo saib</persName> driven into the sea of which you shall have the earliest intelligence. 
+                    Pray tell y<hi rend="superscript">r</hi> young la<del><gap unit="letters" quantity="1" reason="illegible"/></del>dies,<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>
+                    they may expect from my travels a pot of the best otter of roses:<note type="editorial">'Otter' here has the meaning 'essence', not noted in <hi rend="italic">OED</hi>. On making an 'otter of roses', see <hi rend="italic">Encyclopaedia Britannica: Or, A Dictionary of Arts, Sciences, and Miscellaneous Literature</hi> (6th edn., Edinburgh: Archibald Constable and Company, 1823), vol. XVIII, p. 288.</note>
+                    &amp; <persName ref="pe0422">General Rainsford</persName> some military Trophies. If <persName ref="pe0332">m<hi rend="superscript">r</hi> Storer</persName>
+                    is with you let him know he shall not be forgotten, by something very nice.</p>
+                <closer>
+                    <salute>Adieu
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed></closer>
+            </div>
+            <div type="enclosed">
+                <opener><salute>To the Printer of the <bibl type="authorial"><title ref="bi0467">SHREWSBURY CHRONICLE</title></bibl>.
+                    <lb/>SIR,</salute><dateline><placeName ref="pl0001">Downing</placeName>, August 6, 1791.<note type="editorial">This incorrect date has been added in another hand.</note></dateline></opener>
+                <p>I REQUEST you to lay before the public the following advertisement, addressed by the commissioners of the
+                    <placeName ref="pl2443">MOSTYN</placeName> turnpike district, in order to avert in future the hardships several of the townships of the 
+                    <placeName ref="pl0702">county of Flint</placeName> labour under in the repairs of the roads. The advertisement itself relates to the greater part of the grievances. 
+                    It was sent to the paper too late to inform the English circuits, but has been approved by the Grand Juries of <placeName ref="pl1362">Cheshire</placeName>,
+                    <placeName ref="pl1216">Denbighshire</placeName>, and <placeName ref="pl0702">Flintshire</placeName>, at the Spring assizes, and by that of 
+                    <placeName ref="pl2337">Berkshire</placeName> being the first of the Autumn assizes. Let me here inform you, that, by indictments from the General Post-Office, 
+                    fines to the amount of 1080l. have been laid on the several townships lying in the course of the post-roads in the little 
+                    <placeName ref="pl0702">county of Flint</placeName>, many of which are very small, and labour under the greatest poverty. 
+                    One in particular has a vast extent of road to repair, and only a few labourers and four miserable teams to perform their 
+                    statute labour. Under those circumstances, terrified with the prospect of ruin, they performed 22 days statute duty. The French 
+                    <hi rend="italic">corvées</hi>, now so reasonably abolished, were introduced on British ground, yet in vain; for a fine of 82l. 10s. 
+                    was imposed on the poor people. So little interested were they, and numbers of others of the Welsh townships,
+                    in the passage of the mail-coach, that possibly they do not receive a letter in a year; yet these townships must suffer equally with 
+                    the most opulent and commercial towns. Many of the roads were unexceptionably repaired; the rest were in sufficient repair for
+                    the uses of the farmer, for the uses of the gentlemen’s carriages, and for the uses of the mail, before the late unguarded 
+                    innovations. We are like the <hi rend="italic">Israelites</hi>, required to make brick without straw.<note type="editorial">See Exodus 5: 7–8.</note> The means of repair 
+                    are taken from us, and we are fined for not performing impossibilities. A post-road is a national concern; that to a 
+                    neighbouring kingdom doubly so: and certainly that consideration should induce Legislature to afford an aid in such cases in
+                    which it is found necessary; and if a road must be finished with finical perfection, the expence ought never to fall on those 
+                    who are totally uninterested in it. Justice can never require that the poor should keep pace with the innovations made for the
+                    benefit of commerce or luxury. Much of the road-laws calls loudly for a reform: in all laws there should be a point of 
+                    limitation. The attention of the GRAND JURIES is requested at the ensuing assizes. It is hoped that they will direct their 
+                    representatives to make the mail coaches liable to tolls. We mean no injury to <persName ref="pe0419">Mr. <hi rend="italic">Palmer</hi></persName>,
+                    let him before the meeting of Parliament, suggest any remedy for the evil, and we shall rest content. They will certainly do away the great 
+                    parliamentary opprobrium of the act passed by their predecessors; which lessens a security granted on the FAITH of Parliament. 
+                    And much more may be said on this subject; but the detail is reserved for another occasion; you may be again troubled with my 
+                    complaints, as well as some account of a township grievance, brought on it by those whose peculiar office it was to have 
+                    guarded against the deceptions which imposed on their judgment, and brought on a most erroneous and disgraceful adjudication.</p>
+                <closer><signed><persName ref="pe0232">THO. PENNANT.</persName></signed></closer>
+            </div>
+            <div type="enclosed"><p>“GENERAL TURNPIKE CONCERN.</p>
+                <p>1. “AT a meeting of the trustees of the <placeName ref="pl2443">MOSTYN</placeName> turnpike, held at the House of
+                    <persName ref="pe1525">Joseph Roberts</persName>, at the <placeName ref="pl2338">Blue Bell</placeName>,
+                    on Saturday, July 30, 1791, the state of the roads was taken into consideration:</p>
+                <p>2.	“When it appeared, that parts of the coal-road were greatly out of repair; the trade in which was the original foundation of this turnpike.</p>
+                <p>3.	“That the present annual tolls are very inadequate to remedy the evil.</p>
+                <p>4.	“That the failure of the tolls does not arise from any decay of trade in the country, but from the exemption granted by Parliament, by the 25th Geo. III. c.  57, to the mail-coaches from the payment of any tolls.</p>
+                <p>5.	“That by such exemption, the common stage-coaches have been obliged to desist from travelling, by reason of the burthen they are singly to sustain, and which the mail-coaches are freed from, and now in many places monopolize the business.</p>
+                <p>6.	“That the <placeName ref="pl2443">MOSTYN district</placeName> alone suffers a loss of 40l. a year, which is the interest of 800l. the loss of which prevents the trustees from the repairing of road equal to the expenditure of such a sum.</p>
+                <p>7.	“That the clause of exemption in favor of the mail-coaches is highly detrimental to the credit of the tolls, and the security of the lenders, who had lent their money under the PLEDGE of parliamentary faith.</p>
+                <p>8.	“Ordered, That the expediency of petitioning Parliament on this subject be farther taken into consideration, and that these resolutions be published in the next 8.	“Ordered, That the expediency of petitioning 
+                    Parliament on this subject be farther taken into consideration, and that these resolutions be published in the next <placeName ref="pl0002">Chester</placeName> paper, as they are public 
+                    <sic>COUCERNS</sic>; every post-road, and its several creditors, being interested therein.</p>
+                <p>9.	“That the sum of ten guineas be paid into the hands of the Solicitor, towards the expences 
+                    of the proposed bill, for repealing the exemption of tolls of the mail-coaches, and for subjecting them to tolls, in case such
+                    bill be brought into Parliament: And that the Commissioners of the several turnpike districts in <placeName ref="pl0777">Great Britain</placeName>,
+                    be invited to correspond by their Treasurers on the subject, with <persName ref="pe1526">Samuel Small</persName>, Treasurer, of the <placeName ref="pl1289">Flint</placeName> and <placeName ref="pl1251">Holywell</placeName> districts,
+                    and <persName ref="pe1621">John Lloyd</persName>, assistant Treasurer, of that of <placeName ref="pl2443">Mostyn</placeName>.</p>
+                <p>10.	“That the thanks of the Commissioners be given to the Foremen and Grand Juries of the <placeName ref="pl1362">Counties of Cheshire</placeName>,
+                    <placeName ref="pl1216">Denbighshire</placeName> and <placeName ref="pl0702">Flintshire</placeName>, for their liberal concurrence with the resolutions of the Commissioners of the <placeName ref="pl2443">Mostyn district</placeName>.</p>
+                <p>11.	“That it is requested of the Gentlemen of this county to attend at <placeName ref="pl1857">Mold</placeName>, on Saturday the 9th of April, to give a sanction to this proposal, and to prepare one or more petitions, 
+                    or to give necessary instruction to the Representatives of the county and borough, &amp;c. as may then be thought proper.</p>
+                <p>12.	“And in order to give force to this reasonable claim on Parliament, it is recommended to the Gentlemen of neighbouring counties, who may attend the duty of their country on the ensuing Grand Juries, to take the above into consideration, and add their weight to the common cause. Signed, by order of the Commissioners,</p>
+                <closer><signed>"<persName ref="pe1621">JOHN LLOYD</persName>,
+                    <lb/><hi rend="italic">“Assistant Clerk and Treasurer.”</hi></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

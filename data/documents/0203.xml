@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0203">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on George Low's health and Pennant's account
+                    of the MacGregors</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>149</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>Pennant appears to have supplied the wrong month when dating this letter
+                            (see note below). For editorial purposes the letter has been re-dated to
+                                3 February 1776.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1776-02-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0204"/>
+                    <ref type="prev" target="ct0202"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I beg leave to return your congratulations of the seasons &amp;c &amp; the same
+                    time to hope to receive better accounts of the health of poor <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> than the last. I
+                    most sincerely regret his ill state of health; on several reasons; for his own
+                    sake, &amp; the loss which the public will sustain by that of his labors. I
+                    wrote to him immediately but not in such a manner as to alarm him. I thank you
+                    for the offer of <bibl type="authorial"><title ref="bi0064">magazines</title></bibl>. I shall be glad to pay for a years set; but not
+                    to receive them singly.</p>
+                <p>I see in <sic>days</sic> paper a very angry Letter from a Macgregor relating to
+                    my acc<hi rend="superscript">t</hi> of his clan.<note type="editorial">The
+                        letter Pennant refers to was printed in <bibl type="editorial"><title ref="bi0280"><hi rend="italic">The London
+                            Chronicle</hi></title></bibl> on January 25(and in <bibl type="editorial"><title ref="bi0188"><hi rend="italic">The Scots
+                                    Magazine</hi></title></bibl> for the same month) under the
+                        title, '<bibl type="editorial"><title ref="bi0572">Extract of a Letter from
+                                Edinburgh to a Gentleman in London, dated Jan. 19,
+                            1776.</title></bibl>' The former instance is referred to in Paton's
+                        reply of March 25 1776. The letter itself takes issue with Pennant's account
+                        of an alleged massacre of the Colquhoun clan by the MacGregors near Luss in
+                        1603 (specifically as it appeared in the quarto edition of <bibl type="editorial"><title ref="bi0004">A Tour in Scotland 1769</title>
+                            (1774), <biblScope unit="page">pp.243-44</biblScope></bibl>). The author
+                        of the letter makes reference to an extract from Pennant's <bibl type="editorial"><title ref="bi0004"><hi rend="italic">Tour in Scotland
+                                    1769</hi></title> (Warrington: 1774), <biblScope unit="page">pp.243-46</biblScope></bibl>, which was published under the title:
+                            <bibl type="editorial"><title ref="bi0102">'Description of LOCH-LOMOND.
+                                From Pennant's Tour.'</title></bibl> in <bibl><title ref="bi0102"><hi rend="italic">The weekly magazine, or, Edinburgh
+                                    amusement</hi></title>, <biblScope unit="volume">vol.
+                                30</biblScope>, (Sep 28, 1775): <biblScope unit="page">7-8</biblScope></bibl>. The chronology of the letter's publication
+                        in <bibl type="editorial"><title ref="bi0280"><hi rend="italic">The London
+                                    Chronicle</hi></title></bibl> suggests that Pennant supplied the
+                        wrong month when dating this letter, and that it was actually written on
+                        February 3 rather than January 3.</note> I believe all can be supported from
+                    history. I never mean to enter the <unclear reason="illegible">pit</unclear>
+                    with any one but shall be glad of any additional proofs to refer to. a new
+                    edition of my Tours &amp;c will soon be wanted: adieu <note type="editorial">New
+                        editions of <bibl type="editorial"><title ref="bi0006"><hi rend="italic">A
+                                    Tour in Scotland 1769</hi></title></bibl> and <bibl type="editorial"><title ref="bi0009"><hi rend="italic">A Tour in
+                                    Scotland and Voyage to the Hebrides 1772 Part
+                            I</hi></title></bibl> were published in 1776, alongside a <bibl type="editorial"><title ref="bi0020"><hi rend="italic">new edition of
+                                    British Zoology</hi></title></bibl> and the first edition of
+                            <bibl type="editorial"><title ref="bi0010"><hi rend="italic">A Tour in
+                                    Scotland and Voyage to the Hebrides 1772 Part
+                            II</hi></title></bibl></note></p>
+                <closer><salute>y<hi rend="superscript">rs</hi> most truly</salute>
+                    <signed><persName ref="pe0232">T. Pennant</persName></signed>
+
+                <dateline>Jan. 3d. 1776.</dateline></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

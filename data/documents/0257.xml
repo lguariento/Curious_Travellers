@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0257">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 2 May 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>9-10</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-05-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0258"/>
+                    <ref type="prev" target="ct0256"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline>May 2<hi rend="superscript">d</hi> 1779</dateline>
+                    <salute>Dear Sir</salute></opener>
+                <p>you will be so good as to peruse the inclosed &amp; forward it. I suppose you
+                    will be of my mind as to the plan of publication. I hope he has not made his
+                    work too large which will hurt the sale. Pray assist him in recommending it to a
+                    Bookseller. for I would by all means have him sell it. There may be about 50<hi rend="superscript">L</hi> expence in plates, some of which will be truely
+                    curious. I think He may expect 100<hi rend="superscript">L</hi> clear of
+                    travelling charges which were 20<hi rend="superscript">L</hi>.<note type="editorial">The above plans relate to <persName ref="pe0156">George
+                            Low</persName> and his tours of the Northern Isles.</note></p>
+                <p>In a month or two I will send you the specimen of prints for <bibl type="authorial"><title ref="bi0250">M<hi rend="superscript">r</hi> Cordiners
+                            Letters</title></bibl>.</p>
+                <closer><salute>I am D<hi rend="superscript">r</hi> Sir <lb/>Truely y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                    <dateline>May 2<hi rend="superscript">d</hi> 1779.</dateline></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

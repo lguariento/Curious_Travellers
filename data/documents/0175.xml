@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0175">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, informing him that he is assembling materials
+                    for a map of Scotland</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>108</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1774-12-29"/>
+                    <placeName ref="l0699">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0176"/>
+                    <ref type="prev" target="ct0174"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Y<hi rend="superscript">r</hi> kind Letters &amp; pacquet from <placeName ref="pl0316">Dundee</placeName> came safely; I am much obliged to you for them but in
+                    this place have not time to cast my eye over them. I am busy getting materials
+                    for a <bibl type="authorial"><title ref="bi0209">map of Scotland</title></bibl> if you
+                    know of any Surveys or Charts that will be of use pray acquaint me. I mean at
+                    <placeName ref="pl0076">Edinburgh</placeName> for I know what may be had here. is
+                    <bibl type="authorial"><title ref="bi0145">Brice’s Survey of the coast of
+                            Strathnavern</title></bibl> to be had with you.</p>
+                <p>Be so good as to leave the Letter for <persName ref="pe0203">M<hi rend="superscript">r</hi> Mackenzie</persName> at his house &amp; put the other in the
+                    post. I stay here only till the 11<hi rend="superscript">th</hi> of next month.
+                    Pray did you ever send the prints to <persName ref="pe0114">D<hi rend="superscript">r</hi> Saunders</persName> for He writes as if he had not got them.
+                    <persName ref="pe0026">M<hi rend="superscript">r</hi> White</persName> has but
+                    just had my order from <persName ref="pe0180">M<hi rend="superscript">r</hi>
+                        Balfour</persName>.</p>
+                <closer><salute>I am Dear Sir <lb/>y<hi rend="superscript">r</hi> most obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <placeName ref="pl0699">London</placeName>
+                <dateline>Dec<hi rend="superscript">r</hi> 29<hi rend="superscript">th</hi>
+                    1774</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r.</hi> Paton,</addrLine>
+                        <addrLine>Custom House</addrLine>
+                        <addrLine>Edinburg</addrLine>
+                    </address>
+                </p>
+                <p>Free <lb/><persName ref="pe0243">Ph: Yorke</persName></p>
+
+
+                <p><stamp type="frank">FREE</stamp></p>
+
+                <p><stamp type="handstamp">29<lb/>DE</stamp></p>
+                <p><stamp type="handstamp">29<lb/>DE</stamp></p>
+            </div>
+        </body>
+    </text>
+</TEI>

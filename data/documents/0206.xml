@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0206">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, directing correspondence to London</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>153-154</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1776-03-10"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0534"/>
+                    <ref type="prev" target="ct0205"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I set out for <placeName ref="pl0699">London</placeName> toomorrow therefore beg
+                    my queries ab<hi rend="superscript">t.</hi> the Macgregors may be sent to me
+                        there.<note type="editorial">See Pennant's letters to Paton on 3<hi rend="superscript">rd</hi> and 11<hi rend="superscript">th</hi> February
+                        1776 and Paton's replies of 21<hi rend="superscript">st</hi> and 25<hi rend="superscript">th</hi> March.</note> if anything from <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> let it come to me
+                    only with passing thro’ other hands for I shall take it very ill to have
+                    anything anticipated after all my expences &amp; pains. Please to inclose to
+                        <persName ref="pe0015">Sir Roger Mostyn Bar<hi rend="superscript">t.</hi>
+                        M.P.</persName>
+                    <placeName ref="pl0734">Bruton street</placeName>.</p>
+                <closer><salute>I am <lb/>D<hi rend="superscript">r</hi> Sir <lb/>y<hi rend="superscript">r</hi> obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                <dateline><placeName ref="pl0001">Downing</placeName> March 10<hi rend="superscript">th</hi> 1776.</dateline></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

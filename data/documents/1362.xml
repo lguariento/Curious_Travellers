@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1362">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Philip Yorke to Thomas Pennant, 27 January 1795</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>4878E</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0243">Philip Yorke</persName>
+                    <date when="1795-01-27"/>
+                    <placeName ref="pl1244">Erthig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1363"/>
+                    <ref type="prev" target="ct1361"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>
+                    <salute>Dear Sir,</salute></opener>
+                
+                <p>Now that the younger parts of my family, are dispersing, I get less noise, and more <sic>liesure</sic>, to answer any little question 
+                    you are pleased to ask of me, tho indeed my fingers are now so chilled, that I can scarce communicate to you what I know: The 
+                    <persName ref="pe0684">Edwardeses</persName> of <placeName ref="pl3069"><sic>Chirck</sic></placeName>, and <placeName ref="pl1253">Cefn y wern</placeName>, and of 
+                    <placeName ref="pl1254">Plasnewidd</placeName>, in <sic>Chirck</sic>, as they are called, ended in a female 
+                    <persName ref="pe0685">Catherine</persName>, who married <persName ref="pe0686">Sir Roger Puleston</persName> of <placeName ref="pl1255">Emrall</placeName>, 
+                    the grandson of the common Pleas Judge, of the same name:<note type="editorial">This may refer to John Puleston (<hi rend="italic">c</hi>.1583–1659), 
+                        judge of the Common Pleas during the Commonwealth, but his relation to Sir Roger Puleston (<hi rend="italic">c</hi>.1663–1697) is unclear, 
+                        and he clearly did not share the same name, as stated by Yorke. <hi rend="italic">DWB</hi>; <hi rend="italic">Hist P</hi>.</note>  She died without 
+                    issue and the heir at law, one <persName ref="pe0689">M<hi rend="superscript">rs</hi>. Magdalen Rowe</persName>, had a fruitless contest with 
+                    <persName ref="pe0688">Thomas <del>of</del> Puleston</persName> of <placeName ref="pl1255">Emrall</placeName>, the son of <persName ref="pe0686">Sir Roger</persName> 
+                    <add place="above">(by a second wife,)</add> for it. <persName ref="pe0688">Thomas</persName> I conceive sold it to <persName ref="pe0703">Robert Myddelton</persName> of 
+                    <placeName ref="pl1256"><sic>Chirck</sic> Castle</placeName>, who left it to a natural son, who died however before he came to age, and 
+                    the <persName ref="pe0704">present Gentleman</persName> of <placeName ref="pl1256"><sic>Chirck</sic> Castle</placeName> is now the Owner; 
+                    It <sic>run</sic> almost to the Castle Walls, and bound it in, on every side.</p>
+                  
+                <closer><salute>I am<lb/>
+                    Dear Sir,<lb/>
+                    Your affectionate Servant
+                </salute>
+                    <signed><persName ref="pe0243">Ph: Yorke</persName></signed>
+                    <dateline><placeName ref="pl1244">Erthig</placeName>, 27<hi rend="superscript">th</hi>. Jan: 1795.</dateline></closer>
+                <postscript><p>My son <persName ref="pe0690">Simon</persName> cannot yet get quite rid of his ague. I told your son 
+                    <persName ref="pe0065">M<hi rend="superscript">r</hi>. David</persName>, that I would send you 
+                    <bibl type="authorial"><title ref="bi0594">S<hi rend="superscript">r</hi>. Tho: Hanmer’s Epitaph</title></bibl> by 
+                    <persName ref="pe2160">D<hi rend="superscript">r</hi>. <sic>Friend</sic></persName>, 
+                    but perhaps you are already in possession of it. Our best remembrances at <placeName ref="pl0001">Downing</placeName>. 
+                    </p></postscript>
+               
+                
+            </div>
+            <div><p><address><persName ref="pe0232">Tho<hi rend="superscript">s</hi>: Pennant Esq<hi rend="superscript">r</hi></persName><lb/>
+                <placeName ref="pl0001">Downing –</placeName><lb/>
+                <placeName ref="pl1251">Holywell</placeName><lb/>
+                <placeName ref="pl1221">NW</placeName>
+                </address></p></div>
+               
+            <div><p><stamp type="handstamp"><placeName ref="pl0792">WREXHAM</placeName></stamp>
+                <stamp type="frank"><hi rend="italic">Handwritten</hi>: <placeName ref="pl0792">Wrexham</placeName> Jan: twenty seventh 1795; 
+                    <persName ref="pe0690">S. Yorke</persName>
+                    </stamp></p></div>
+            
+            
+        </body>
+    </text>
+</TEI>

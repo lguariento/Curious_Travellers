@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1181">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 74</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1794-12-23"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>At <placeName ref="pl2443">Mostyn</placeName> is <rs type="art" ref="ar0367">Charles II</rs>. in the size of the inclosed on board surrounded with numbers of 
+                    beauties of the same size.<note type="editorial">See <ref target="1183.xml">1183</ref>, where it becomes clear that Pennant is here referring to individual 
+                        drawings of courtly ladies, such as the group of three-quarter length portraits by Sir Peter Lely, 'The Windsor Beauties', painted in the early 
+                        1660s, and the 'Hampton Court Beauties' mentioned in this letter. Portraits of women currently at Mostyn Hall include one of Dorothy, Viscountess 
+                        Andover, later Countess of Berkshire, after Anthony Van Dyck, and members of the Mostyn family, such as Essex Mostyn, Duchess of Roxburghe, by Thomas Hudson.</note>
+                    they probably are reduced from larger pictures. Pray by whom &amp; by whom the originals. are the <rs type="art" ref="ar0320">beauties of Hampton <add place="above">Court</add></rs>: you perhaps can give me the list &amp; say who the inclosed is? Is there not a set of prints of them?</p>
+                <p>
+                    The History of <placeName ref="pl2542">Mostyn library</placeName> &amp; its wondrous <bibl type="authorial"><title ref="bi0687">M.S. missals</title></bibl> &amp;c must be the subject of another Letter</p>
+                <closer>
+                    <salute>Adieu
+                        <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">TP</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Dece 23<hi rend="superscript">d</hi>. <del>17<gap unit="letters" quantity="1" reason="illegible"/></del>8 - 88.<note type="editorial">The first date suggested (<del>17<gap unit="letters" quantity="1" reason="illegible"/></del>8) is written in pencil in Richard Bull's hand; the second (– 88) added later. Neither is accurate.</note></dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

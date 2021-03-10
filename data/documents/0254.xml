@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0254">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 16 March 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>5</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-03-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0256"/>
+                    <ref type="prev" target="ct0253"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I am glad the prints are arrived &amp; hope they will be as much liked with you
+                    as in <placeName ref="pl0775">England</placeName>. is the <bibl type="authorial"><title ref="bi0231">Flora Scotica</title></bibl> come? Thanks for y<hi rend="superscript">r</hi> intelligence about my poor friend.<note type="editorial">Possibly a reference to the death of <persName ref="pe0022">Robert Ramsay</persName> at the end of the previous year.</note> if you
+                    can send me a catalogue of his curiosities I shall be glad. I fear you forget
+                    the descent of <persName ref="pe0090">Lord Fife</persName> The occupation of his
+                    grandsire &amp; the means they got at wealth. I shall observe strict
+                    silence.</p>
+                <p>I find by the return of my <persName ref="pe0111">Bookseller</persName> that my
+                        <bibl type="authorial"><title ref="bi0012">Welsh Tour</title></bibl> has
+                    done very well. So I shall on with spirit with another part &amp; hope to
+                    produce it at Christmas. I shall soon send you another proof for <persName ref="pe0156">M<hi rend="superscript">r</hi> Lows</persName> benefit which I
+                    trust will please. I love to promote merit. I fear he forgets his promise of a
+                    skua to my friend <persName ref="pe0033">M<hi rend="superscript">rs</hi>
+                        Blackburn</persName>. inclosed is a cancel for you for my <bibl type="authorial"><title ref="bi0012">Welsh Tour</title></bibl>.</p>
+                <closer><salute>With <lb/>great truth I rest y<hi rend="superscript">rs</hi></salute>
+                    <lb/><signed><persName ref="pe0232">Th. Pennant.</persName></signed>
+                    <dateline>March 16<hi rend="superscript">th</hi> 1779.</dateline></closer>
+
+            </div>
+        </body>
+    </text>
+</TEI>

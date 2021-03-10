@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1390">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>'Cwm Bychan': material in the hand of John Lloyd, Caerwys, n.d.</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>2594E, Merionethshire folder</idno>
+                    </msIdentifier>
+                    <msContents><p>'Cwm Bychan': material in the hand of John Lloyd, n.d.</p>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+        
+                        <p/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0333">John Lloyd</persName>
+                    <date/>
+                    <placeName ref=""/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">[<unclear>Thomas Pennant</unclear>]</persName>
+                    <placeName ref=""/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1391"/>
+                    <ref type="prev" target="ct1389"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline/><salute/></opener>
+                
+                <p>Page 40. Vol: 1st –<note type="editorial">If this pagination refers to Cwm Bychan, it does not coincide with the section on the
+                    Cwm in the published <hi rend="italic">Tour</hi>, which is found at <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778),
+                    II, pp. 114–120.</note><lb/>
+                    <placeName ref="pl1200">Cwm Bychan</placeName> –                        
+                </p> 
+                <p>Our Books of Pedigree mention the <persName ref="pe0791">Llwyds</persName> of <placeName ref="pl1200">Cwmebychan</placeName>
+                    as descended from <persName ref="pe0632">Cadwgan</persName> son to 
+                        <persName ref="pe0618">Blethyn ap Cynfyn</persName> Prince of <placeName ref="pl1221">Northwales</placeName> &amp;
+                        <placeName ref="pl1224">Powys</placeName>. – this <persName ref="pe0632">Cadwgan</persName> is sometime 
+                        stil,<hi rend="superscript">d</hi> Lord of <placeName ref="pl1334">Nanney</placeName>, I suppose he resided 
+                        <add place="above">there</add> some time, most likely in the House afterwards occupied <add place="margin">by</add>
+                        <persName ref="pe0792">Howel Sele</persName>, which was burnt by <persName ref="pe0495">O: Glyndwr</persName>,
+                        <note type="editorial">For Pennant's account of the treachery of Howel Sele of Nannau, Merionethshire, and Glyndwr's punitive response, see
+                            <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), I, pp. 324–5.</note>
+                        &amp;
+                        never afterwards rebuilt, the Remains of it are to <sic>been</sic> in <placeName ref="pl1334">Nanney Park</placeName>.</p>
+                <p><persName ref="pe0632">He</persName> chiefly in the beginning of his <add place="margin">life</add> resided in this Country, 
+                    &amp; Jointly with his brothers &amp; sons made[<del>...</del>] terrible &amp; Bloody efforts towards the <sic>sovereinty</sic> of 
+                    the Country, it is probabl<del>y</del>e that <placeName ref="pl1200">Cwm. Bychan</placeName> <placeName ref="pl1339">Drws Ardudwy</placeName>
+                    &amp;c were chief of their strong holds. In the latter part of his days he became Prince of <placeName ref="pl1245">Southwales</placeName>,
+                    &amp; was slain by treachery some where near <placeName ref="pl1260">Oswestry</placeName>. – I know not for Certain from which of his sons we
+                    are descended.<note type="editorial">Further on John Lloyd's descent from Cadwgan ap Bleddyn, see <ref target="1386.xml">1386</ref>.</note></p>
+                <p>In <bibl type="authorial"><title ref="bi0612">Ffarwel Dai Llwyd</title></bibl> we have the date of one of our Welsh Tunes It was 
+                    compos,<hi rend="superscript">d</hi> as I was Inform,<hi rend="superscript">d</hi> when he went with <persName ref="pe0668">Jasper Tudor</persName>
+                    &amp; <persName ref="pe0794">Owain Lawgoch</persName> to fight with <persName ref="pe0795">Rhisiart Fradwr</persName>. viz Richard the
+                    Traytor.<note type="editorial">For Pennant's direct use of this material, see <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), 
+                        II, p. 116.</note>
+                    – I see a mistake in a note of yours, in regard to <bibl type="authorial"><title ref="bi0613">Dafydd y Garreg <sic>wên</sic></title></bibl>, it 
+                    is a very modern Tune, 
+                    many People living remember the <persName ref="pe0796">composer</persName>, I think he was a <sic>Fidler</sic>. – Quære whether 
+                    <placeName ref="pl1200">Cwm bychan</placeName> was not the last residence of the wild 
+                    Deer,<note type="editorial">See <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), II, p. 117, where Pennant notes of 
+                        Cwm Bychan that deer 'formerly abounded in these parts. Nor have they long been extinct; a person of the last generation 
+                        informed my host, that he had seen eighteen at once, grazing in the meadow'.</note> as it is likely to be of <add place="above">the</add>
+                    dear Goats in this Country.</p>
+                <closer><salute/>
+                    <signed/>
+                    <dateline/></closer>
+            </div>
+            <div>
+            </div>
+        </body>
+    </text>
+</TEI>

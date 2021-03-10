@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1063">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 58</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1787-07-29"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> July 29<hi rend="superscript">th</hi>. 1787.</dateline></opener>
+                <p>On the 3<hi rend="superscript">d</hi> of this month a parcel of drawings was sent to you &amp; I doubt not their safe arrival. you 
+                    have now all the remainder. I think I have now done my duty fully &amp; think I may reserve <persName ref="pe0014">moses</persName>
+                    to myself the <del><gap unit="letters" quantity="7" reason="illegible"/></del> rest of the year. I am sorry to reproach any person you 
+                    have introduced to my acquaintance, but I think my treatment fr<hi rend="superscript">m</hi> <persName ref="pe0293">M<hi rend="superscript">r</hi> Burell</persName>
+                    has not been of the <del><gap unit="letters" quantity="3" reason="illegible"/></del> most liberal kind. a Gentleman might at lest expect an answer to his
+                    requests.</p>
+                <p>Please make my Complim<hi rend="superscript">ts</hi> to miss Bulls<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>
+                &amp; think me</p>
+                <closer>
+                    <salute>Dear Sir
+                    <lb/>Y<hi rend="superscript">r</hi> faithful &amp; most
+                    <lb/>obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                  </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

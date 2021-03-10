@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0414">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Donald MacQueen to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP297</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>9</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>The enclosed corrections and letter are written continuously on the same
+                            sheet.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0069">Donald MacQueen</persName>
+                    <date when="1774-04-11"/>
+                    <placeName ref="pl0742">Kilmuir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0415"/>
+                    <ref type="prev" target="ct0413"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="gd">Gaelic</language>
+                <language ident="la">Latin</language>
+                <language ident="grc">Ancient Greek</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="enclosed">
+                <p>Corrigenda<note type="editorial">The following are apparently corrections for
+                        draft sheets of Pennant's <bibl type="editorial"><title ref="bi0008">A tour
+                                in Scotland and Voyage to the Hebrides 1772</title></bibl> (1774).
+                        The page references given by MacQueen do not correspond to those of the
+                        published text.</note></p>
+                <p>For <placeName ref="pl2476">Ormadale</placeName> page 283. Line 2<hi rend="superscript">d.</hi> read <placeName ref="pl2476">Armadale</placeName>. In stead of tyed with Ropes, fastened from the horn p.284
+                    line 17<hi rend="superscript">th.</hi> read tyed with twisted woodies, fastened
+                    from the Under-chain of the one to the tail of the preceeding. In stead of
+                    Luaghadh p.285 Line 27<hi rend="superscript">th.</hi> read Luagh. In stead of
+                    Bein-na-grian p.287 read Bein-an-ghrianan.<note type="editorial">An adjoining
+                        peak of <placeName ref="pl0837">Beinn na Caillich on Skye</placeName>,
+                        possibly <placeName ref="pl2715">Beinn Dearg Mhòr</placeName>. See Pennant,
+                            <bibl type="editorial"><title ref="bi0008">A tour in Scotland and Voyage
+                                to the Hebrides 1772</title></bibl> (1774), p.329.</note> Grianan or
+                    Grianhan, the house of the Sun, is the name of Various places amongst Us, where
+                    there is Generally a Litle Inclosure, in which on the Return of that Salutary
+                    Planet, they burnt large fires and very probabley offered Sacrifices in honour
+                    of the Intelligence which they supposed had Animated it. Hence the <persName ref="pe1981">Grinneus Appollo</persName> of the Greeks and the <persName ref="pe1981">Appollo Grannus</persName> of the Scots which is the word
+                        Gria<unclear reason="illegible">n</unclear>ich <add place="above">Sunny</add> Latinized, from the root Grian the Sun. The Spirit of the Sun
+                    is in our Language called <persName ref="pe1981">Grūagich</persName>, the One
+                    with the fair tresses, answering Literally to the Epithet ακερσε-κομος given by
+                        <persName ref="pe1107">Homer</persName> to <persName ref="pe1981v">Appollo</persName>.<note type="editorial">This account of the origins of
+                        the Gruagach appears in <bibl type="editorial"><title ref="bi0008">A tour in
+                                Scotland and Voyage to the Hebrides 1772</title></bibl> (1774),
+                        p.359. See also the description based on MacQueen's letter of <ref target="0416.xml">August 18 1774</ref> in Pennant, <bibl type="editorial"><title ref="bi0010">A Tour in Scotland 1772, part
+                                II</title></bibl> (1776), pp.434-38.</note> A Stone or Altar for
+                        <persName ref="pe1981">Gruagich</persName> lies almost in Every district for
+                    he seems to have drawn more of the attention of the people than the Other
+                    Subaltern Divinities As guideing the Source of Light And Fertility around the
+                    world. He contented himself with Small Libations of Milk on Every Saturday in
+                    the Last <add place="margin">generation</add> And some of the Preceeding
+                    generations, tho I know they Offered him more costly Sacrifices before the
+                    Introduction of Christianity. This is a Digression.</p>
+                <p>If it were not to spoil the very pretty Elegant description you have given of
+                        <placeName ref="pl0841">Quillin</placeName> on this page, I woud say that
+                    the Cluster of Hills which go Under that name, have no connection with our
+                    Countrey man <persName ref="pe1640">Cuchullin</persName>, for <placeName ref="pl0841">Quillin</placeName> or <placeName ref="pl0841">Cuilin</placeName> plainly Signifies narrow dark hollows, which are
+                    numerous Among these Lofty Excrescences And Imports the same meaning with the
+                        <placeName ref="pl2716">furcæ Caudinæ</placeName> of <placeName ref="pl1164">Italy</placeName>, the Forks of <placeName ref="pl0697">North
+                        America</placeName> And Seems not much different from the <placeName ref="pl1166">Mons Grampiūs</placeName> of <placeName ref="pl0705">Caledonia</placeName>, for Gramp is the common Erse word for a fork. The
+                    Highest hill in old <placeName ref="pl2719">Arcadia</placeName> was Also
+                        <placeName ref="pl2717">Cyllene</placeName> which when the C is pronounced
+                    like the greek καππα is the very Name of our Hill. yet I woud be Loath to
+                    Sacrifice your Poetical beauties to so dull And but to a few so very
+                    Uninteresting Observation Unless it were Enlivened Under Your hand.</p>
+                <p>For <placeName ref="pl2718">Camisketel</placeName> 287 Line 16<hi rend="superscript">th.</hi> read <placeName ref="pl2718">Camiseketel</placeName>. The paragraph preceeding the words "to the recent
+                    Victory of <placeName ref="pl0155">Culloden</placeName> woud infer that the
+                    two-handed Swords Were Used in the year 1745, whereas it is Universally known,
+                    that upwards of a Century Preceeding that Period, they were altogether Laid
+                        Aside.<note type="editorial">See Pennant's description of Highland weaponry,
+                            <bibl type="editorial"><title ref="bi0008">A tour in Scotland and Voyage
+                                to the Hebrides 1772</title></bibl> (1774), pp.332-33.</note> In
+                    stead of Braolauch Page 295. read Braloch.</p>
+            </div>
+            <div type="letter">
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I met with your acceptable favour Last week in my way to <placeName ref="pl0660">Sconser</placeName> and must Acknowledge you have prettily dressed up Small
+                    matters, So as to render them Entertaining &amp; agreeable, for tho I am
+                    Acquainted with all your Observations, I am much pleased when I read them in
+                    your descriptive Stile. The Corrections on the Other Page, are of Litle
+                    consequence — if they Overtake You in my time, they may be attended to, if not,
+                    One in five thousand of Your Readers will not advert to them, tho, Indeed, a
+                    work of Yours Which hath a Chance to be read <del rend="overstrike">for
+                        read</del> for Generations to come, shoud not be neglected in the Smallest
+                    Particle.</p>
+                <p>Your Character of <persName ref="pe0446">Mr MacLeod</persName>,<note type="editorial">A reference to Pennant's guarded approval of Norman
+                        Macleod's paternalistic conduct as a Highland chief in <bibl type="editorial"><title ref="bi0008">A tour in Scotland and Voyage to
+                                the Hebrides 1772 (1774)</title></bibl> p.338.</note> seems to me
+                    Just Enough, which you have properly qualyfyed with the words "actions if
+                    persisted in, for it is said of <persName ref="pe1982">Brittanicus</persName>
+                    <hi rend="underline">retinuit famam Sine Experimento</hi> and the Same might be
+                    said of your <persName ref="pe0829">Edward the 6<hi rend="superscript">th</hi></persName> And there were several who had their Golden days and the
+                        reverse.<note type="editorial">MacQueen is comparing Macleod, then around
+                        the age of twenty, to promising rulers from history whose lives were cut
+                        short by early death.</note></p>
+                <p>I shoud be Sorry that you gave Yourself Unnecessary trouble in the Affair of
+                        <persName ref="pe0155">Lord Seaforth</persName>, for I hear his Factor hath
+                    recommended a Tennant's Son of his own.<note>In his <ref target="0413.xml">previous letter</ref>, MacQueen had asked for Pennant's assistance in
+                        securing his son John's preferment as minister to a parish on Seaforth's
+                        estate.</note></p>
+                <p>I shall be glad to hear from you when you Are at Leisure,</p>
+                <closer><salute>for I am with true <lb/>Esteem Dr Sir, <lb/>Your very Obedient &amp;
+                        very humble Servt</salute>
+                    <signed><persName ref="pe0069">Don: Macqueen</persName></signed>
+                <dateline><placeName ref="pl2719">Kilmuir</placeName> April the 11<hi rend="superscript">th</hi>
+                    <lb/>1774.</dateline></closer>
+                <postscript>
+                    <p>I told you some where that it woud Seem to me that our Celtic Ancestors Sung
+                        And danced to the Creation of the world for thus they Expressed all their
+                        Religious Doctrines. I have taken Up an opinion that they Also danced to A
+                        Song called the Conflagration of the world <unclear reason="illegible">ορχησίς τισ κοσμου εκπυρωσίς</unclear>
+                        <bibl type="authorial"><title ref="bi0678">Athen. dipnosoph Lib.
+                            14.</title></bibl> Analogous in Some degree to the Spirit of this dance
+                        was the conduct of <persName ref="pe1961">Nero</persName>, when he Entered into
+                        his Domestic Theatre And sung or acted the destruction of <placeName ref="pl2116">Troy</placeName> while <placeName ref="pl1623">Rome</placeName> was in Flames
+                        about his Ears, a part which few ill be disposed to Act in time of the
+                        General ruin, prefigured in the above dance. This however is out of your
+                        road &amp; I shall trouble you no More about it.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>Thomas Pennant Esqre</addrLine>
+                        <addrLine>of Downing in Flintshire.</addrLine>
+                        <addrLine>South Brittain</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

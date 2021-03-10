@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0221">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, expecting completion of the map and
+                    requesting lines from David Lyndsay</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>177-178</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1777-03-07"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0255"/>
+                    <ref type="prev" target="ct0220"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p><persName ref="pe0006">M<hi rend="superscript">r</hi> Bailey</persName> sent me a
+                    proof on just the same paper: but I hope next month all will be finished<note type="editorial">Pennant is referring to the completion of <bibl type="editorial"><title ref="bi0209"><hi rend="italic">A Map of
+                                    Scotland, the Hebrides and Part of England adapted to Mr
+                                    Pennant's Tours</hi></title></bibl>, published in 1777.</note>
+                    Be so good as to inclose (the first week in April) To <persName ref="pe0015">Sir
+                        Roger M.</persName>
+                    <placeName ref="pl0734">Bruton street</placeName>
+                    <placeName ref="pl0699">London</placeName>.</p>
+                <p>P.1. of my <bibl type="authorial"><title ref="bi0142">Sir D<hi rend="superscript">d</hi> Lindsay</title></bibl> is the Prologue. The last is 140 <hi rend="underline">Let there be made</hi> &amp;c In short the same as y<hi rend="superscript">rs</hi> but I cannot find the lines I quote which I found
+                    quoted in another book.<note type="editorial">Pennant is attempting to locate
+                        the source of the poem on the death of Cardinal David Beaton quoted in his
+                            <bibl type="editorial"><title ref="bi0010"><hi rend="italic">Tour in
+                                    Scotland and Voyage to the Hebrides 1772 Part II</hi></title>
+                            (London: 1776),<biblScope unit="page"> p.194</biblScope></bibl>. See his
+                        letter to Paton on 14 February 1777.</note></p>
+                <p>Be so good as forward the inclosed.</p>
+                <closer><salute>I am <lb/>Dear Sir <lb/>y<hi rend="superscript">r</hi> most obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute><signed><persName ref="pe0232"> T.
+                        Pennant</persName></signed>
+
+                <dateline><placeName ref="pl0001">Downing</placeName> March. 7<hi rend="superscript">th</hi>
+                    <lb/>1777.</dateline></closer>
+
+                <postscript>
+                    <p>I wish much for any corrections or remarks on my <bibl type="authorial"><title ref="bi0010">last tour</title></bibl> I hope you will now
+                        encrease my debt of 17<hi rend="superscript"><hi rend="underline">Shillings</hi></hi> that I may send you a bill. the other was too
+                        trifling.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom house</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

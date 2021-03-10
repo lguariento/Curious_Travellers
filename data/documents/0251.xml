@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0251">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 19 January 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>1</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-01-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0252"/>
+                    <ref type="prev" target="ct0250"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>D<hi rend="superscript">r</hi> Sir</salute></opener>
+                <p>I received the account of poor <persName ref="pe0022">Ramsay</persName> &amp;
+                    send my melancholy thanks. my last will inform you the <rs ref="ar0008">print</rs> is to sell for 5<hi rend="superscript">s</hi> of which <persName ref="pe0192">M<hi rend="superscript">r</hi> Elliot</persName> is to have
+                        1<hi rend="superscript">s</hi>—<hi rend="superscript">d</hi>6. I scarce
+                    think <sic>it will worth </sic>advertising. c<hi rend="superscript">d</hi> it be
+                    announced on the outside leaf of a magazine. or at most once advertised in two
+                    different papers. they will be sent to <hi rend="underline">you</hi> by the
+                    coach.</p>
+                <p>The celts are too common to be drawn. I only beg to know <hi rend="underline">was
+                        it Gilt or not</hi>?</p>
+                <closer><salute>y<hi rend="superscript">r</hi> most obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">T.Pennant</persName></signed>
+                    <dateline>Jan. 19<hi rend="superscript">th</hi> 1779</dateline></closer>
+            </div>
+            <div>
+                <p><unclear reason="illegible">19</unclear></p>
+            </div>
+        </body>
+    </text>
+</TEI>

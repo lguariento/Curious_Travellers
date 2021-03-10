@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0023">
+    <teiHeader type="w">
+        <fileDesc>
+            <titleStmt>
+                <title>Anne Lister's diary, tour of North Wales 11-27 July 1822
+                    <date>1822</date></title>
+                <respStmt>
+                    <name>Transcribed with an Introduction by Kirsty McHugh and edited by Elizabeth
+                        Edwards</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement/>
+                        <repository/>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+
+                <p>
+                    <pb n="42"/>
+                    <fw>[f. 42]</fw> Saturday 13 July<lb/> [Code: Two kisses last night, one almost
+                    immediately after the other, before we went to sleep and one just before getting
+                    up this morning I felt better, but was so shockingly low last night I cried
+                    bitterly but smothered it so that <persName ref="pe2175">M–</persName> scarcely
+                    knew of it. At any rate, she took no notice, wisely enough. I told <persName ref="pe2175">M–</persName> before we got up of my <hi rend="superscript">proper</hi> regard for and correspondence with <persName ref="pe2176">Miss
+                        MacLean</persName> and <persName ref="pe2175">M–</persName> told me of the
+                    gentlemanliness &amp; agreeableness of Mr Powis who, it seems, might interest
+                        <persName ref="pe2175">M–</persName> more than duly had her heart no object
+                    but <persName ref="pe2177">C–</persName>, with whom she has had no connection
+                    these four months.] Not down to breakfast till 11 – settling 1 thing or other –
+                        <persName ref="pe2175">M–</persName> went with me to the stables to see
+                    Percy &amp; the gig &amp; we then (leaving my <persName ref="pe2178">aunt</persName>) went to inquire about servants – walked a little on the
+                    walls <hi rend="superscript">&amp;</hi> up &amp; down the <placeName ref="pl1537">rows</placeName> &amp; did not come in till 1 \({40\over 60}\)
+                    – then, perhaps luckily for us, all in a bustle &amp; <persName ref="pe2175">M–</persName> off at 2 \({1\over 4}\).<note type="authorial"><persName ref="pe2175">M</persName> gave me fifteen pounds to place to her
+                            <unclear>aunt</unclear></note> &amp; We were off in \({1\over 2}\) hour
+                    &amp; got here (the <placeName ref="pl3086">King's Head</placeName>, new hotel,
+                        <placeName ref="pl0793">Llangollen</placeName> patronized by <persName ref="pe0954">Lady Eleanor Butler</persName> &amp; <persName ref="pe0957">Miss Ponsonby</persName>) in 4 \({1\over 2}\) hours <hi rend="superscript">about 7</hi> including the \({1\over 2}\) hour we stopped at the church
+                    gate at <placeName ref="pl0792">Wrexham</placeName> to <hi rend="superscript">see</hi> that beautiful <placeName ref="pl1983">church</placeName> which is
+                    kept with the greatest possible neatness – Beautiful drive from <placeName ref="pl0002">Chester</placeName> to <placeName ref="pl0792">Wrexham</placeName>. It was market day &amp; the town seemed very busy.
+                    Beautiful drive also from <placeName ref="pl0792">Wrexham</placeName> here but I
+                    was perhaps disappointed with the first couple of miles of the vale of
+                    Llangollen – the hills naked of wood &amp; the <hi rend="superscript">white</hi>
+                    limestone quarries on our left certainly not picturesque. About 3 miles from
+                        <placeName ref="pl0793">Llangollen</placeName>,<note type="authorial">Ruabon, 6 miles from Llangolen, they pronounce as if spelt Rawbon
+                        (anglice)</note> when <placeName ref="pl0794">Castle Dinas Bran</placeName>
+                    came in sight, we were satisfied of the beauties of the valley but the sun was
+                    setting on the castle, &amp; so dazzled our eyes we could scarce look that way.
+                    The inn (kept by <persName ref="pe2179">Elizabeth Davies</persName>) is close to
+                    the <placeName ref="pl1954">bridge</placeName> &amp; washed by the <placeName ref="pl1138">River Dee</placeName>, we are much taken with our hostess &amp;
+                    with the place – have had an excellent roast leg of mutton, &amp; trout &amp;
+                        <hi rend="superscript">very fine port wine</hi> with every possible
+                    attention – I should like to spend a few days here – It is from here the
+                        Saltmarshes<note type="editorial">Christopher Saltmarshe of Saltmarshe Hall
+                        in the East Riding of Yorkshire (1784-1852) and his wife Emma (née Rawson)
+                        of Stoney Royd, Halifax (d.1834). Lister asked the Saltmarshes for advice on
+                        visiting Wales.</note> had the mutton sent – 5d per lb &amp; the carriage
+                    might be about 1 \({1\over 2}\) per lb making it in all 6 \({1\over 2}\) a lb.
+                    The waiter said we had come on the wrong side of the water – we should have
+                    crossed by a bridge on our left over the canal (the <placeName ref="pl3088">Ellesmere</placeName>) &amp; turned along the <placeName ref="pl1609">aqueduct</placeName> – we sat down to dinner at 8 \({1\over 2}\), having
+                    previously strolled thro' the town to <persName ref="pe0954">Lady E–
+                        B–</persName>'s &amp; <persName ref="pe0957">Miss Ponsonby</persName>'s
+                        <placeName ref="pl1614">place</placeName> – there is a public road close to
+                    the house, thro' the grounds, &amp; along this we passed &amp; repassed
+                    [deletions] standing to look at the house (cottage) which is really very pretty
+                    – a great many of the people touched their hats to us on passing &amp; we are
+                    much struck with their universal civility. A little [girl] seeing us apparently
+                    standing to consider our way, shewed us the road to <placeName ref="pl1614">Plâs
+                            <sic>Newyd</sic></placeName> (<persName ref="pe0954">Lady E.
+                        B–</persName>'s &amp; <persName ref="pe0957">Miss P–</persName>'s), followed
+                    &amp; answered our several questions very civilly. A little boy then came &amp;
+                    we gave each of them all our halfpences, 2d each – After dinner (the people of
+                    the house took it at 10), wrote the following note <hi rend="superscript">to the
+                        Right Honourable <persName ref="pe0954">Lady Eleanor Butler</persName> &amp;
+                            <persName ref="pe0957">Miss Ponsonby</persName> – Plasnewydd</hi> Mrs
+                    &amp; Miss Lister take the liberty of presenting their compliments to <persName ref="pe0954">Lady Eleanor Butler</persName> &amp; <persName ref="pe0957">Miss Ponsonby</persName>, &amp; of asking permission to see their grounds
+                    at <placeName ref="pl1614">Plâs <sic>Newyd</sic></placeName> in the course of
+                    tomorrow morning – Miss L–,<note type="editorial">Anne Lister</note> at the
+                    suggestion of Mr Banks,<note type="editorial">Unidentified.</note> had intended
+                    herself the honour of calling on <hi rend="superscript">her</hi>
+                    <persName ref="pe0954">ladyship</persName> &amp; <persName ref="pe0957">Miss
+                        Ponsonby</persName>, &amp; hopes she may be allowed to express her very
+                    great regret at hearing of her <persName ref="pe0954">ladyship</persName>'s
+                    indisposition – <placeName ref="pl3086">King's Head Hotel</placeName> – Saturday
+                    evening 13 July. The message returned was that we should see the grounds at 12
+                    tomorrow – this will prevent our going to church, which begins at 11 &amp; will
+                    not be over till after 1 – the service is principally in Welsh except the lesson
+                    &amp; sermon every 2<hi rend="superscript">nd</hi> Sunday &amp; tomorrow is the
+                    English day – <persName ref="pe0954">Lady E.B.</persName> has been couched – she
+                    ventured out too soon &amp; caught cold – her medical man (Mr Lloyd Jones of
+                        <placeName ref="pl1246">Ruthin</placeName>)<note type="editorial">Unidentified.</note> positively refuses her seeing anyone – her cousin,
+                    Lady Mary Ponsonby,<note type="editorial">Possibly either Mary Elizabeth
+                        Ponsonby (1776-1861), who married Charles Grey, 2nd Earl Grey, in 1794, or
+                        Mary Ponsonby (née Butler; dates unknown), wife of the Irish Whig George
+                        Ponsonby (1755-1817).</note> passed thro' not long ago &amp; did not see her
+                    – wrote the above of today &amp; the last 16 lines of yesterday from 10
+                    \({1\over 2}\) to 12 \({1\over 2}\) after dinner – It struck 12 before I came up
+                    to bed &amp; I wrote \({1\over 2}\) hour afterwards – Very fine day – merely a
+                    beam or 2 of sun, &amp; no dust – consequence of late rain – they have had
+                    scarcely any rain here till last day or 2 – they were burnt up before – market
+                    day here – beef 6d per lb, veal 3d-3 \({1\over 2}\), mutton 4d to 5d – [code: a
+                    good deal of discharge both today &amp; yesterday]<note type="editorial">Lister
+                        makes brief references to ‘discharge' in encoded passages throughout her
+                        tour. She is thought to have contracted a veneral disease from Mariana
+                        Belcombe around 1820, who had in turn been infected by her husband.</note>
+                    –</p>
+                <p>
+                    <pb n="43"/>
+                    <fw>[f. 43]</fw> Sunday 14 July<lb/> My <persName ref="pe2178">aunt</persName>
+                    and I off at 8 \({1\over 2}\) to <placeName ref="pl0794">Castel Dinas
+                        Bran</placeName> (bran, crow i.e. crow castle)<note type="authorial">Tuesday
+                        20 August 1822, improperly called crowcastle –</note> &amp; got back again
+                    at 10 \({10\over 60}\)– 36 minutes in ascending to the summit – a boy, the
+                    underwaiter at the inn, went with us as guide, and led us by the way <hi rend="superscript">thro</hi> the little garden of Evan Parry whose son, a
+                    boy of 12 or 13 accompanied us with 2 sticks pronged with iron – my <persName ref="pe2178">aunt</persName> used hers, but I had no need of one – the way
+                    is perfectly good and considering the steepness of the ascent &amp; the dryness
+                    of the ground not at all slippery <hi rend="superscript">for I never slipped
+                        once even with my bright iron-heeled boots on</hi> – little steps cut which
+                    obviate whatever difficulty there might otherwise be – there was a light blue
+                    mist over the mountains which impeded our view – &amp; after reading <persName ref="pe2085">Bingley</persName>'s description<note type="editorial">See
+                        William Bingley, <hi rend="italic">A Tour Round North Wales, performed
+                            during the Summer of 1798</hi> (London, 1800), II: 128: ‘The view from
+                        Castell Dinas Brân are, upon the whole, so very extensive and beautiful,
+                        that to any person who has not had an opportunity of ascending Snowdon, or
+                        Cader Idris, this will be found a tolerable compensation.' Lister had
+                        borrowed several works on Wales from the Halifax Circulating Library
+                        including Bingley's <hi rend="italic">Tour</hi> before they set off for
+                        Wales.</note> &amp; that ascending <placeName ref="pl0794">Dinas
+                        Bran</placeName> might be a substitute to those who had not ascended
+                        <placeName ref="pl2862">Snowdon</placeName>. I was disappointed we could not
+                    see near to the end of the Vale of Llangollen – nor distinguish anything of
+                        <placeName ref="pl0785"><sic>Vale</sic> Crucis Abbey</placeName> – the hills
+                    immediately around bounded our view very narrowly – the remains are very small –
+                    Mr …. (not Middleton) of Chirk to whom the <placeName ref="pl0794">castle</placeName> belongs is going to build a sort of gothic <hi rend="superscript">cottage or</hi> summer house at the top of the hill (the
+                    shell nearly completed) the <placeName ref="pl0794">castle</placeName> is to be
+                    walled round with an upper &amp; lower wall, &amp; the rest of the ascencottat
+                    pleasant all round – this will be a very great improvement – the waiter seemed
+                    to know something of the <hi rend="superscript">underground</hi> communications
+                    with the <placeName ref="pl0794">castle</placeName> mentioned but disbelieved by
+                        <persName ref="pe2085">Bingley</persName><note type="editorial">See Bingley,
+                        II: 127-8: ‘The inhabitants of Llangollen say, that somewhere about this
+                        rock [Craig Eglwyseg] is an opening, from whence there is a long arched
+                        passage under ground, supposed to lead to the castle. I scarcely gave any
+                        credit to this report, for I could not, upon enquiry, hear of any person who
+                        had seen it, or could tell whereabouts it was.'</note> – he (the waiter)
+                    said it was somewhere towards the north end of the <placeName ref="pl0794">castle</placeName> now filled up with stones – In descending we gave the
+                    boy 1/ – for going with us and taking the sticks &amp; went into his father's
+                    cottage – very neat – his wife and youngest daughter there very neat looking
+                    healthy people – a very nice old man – a slater by trade and slated "that grand
+                    house" the <placeName ref="pl3086">King's Head</placeName> – He had been reading
+                    the "English physician" an old physic book<note type="editorial">Probably a
+                        reference to Nicholas Culpeper's astrological and herbalist medical work <hi rend="italic">The English Physitian</hi> (1652).</note> – we asked him
+                    to read us a little of the 1<hi rend="superscript">st</hi> chapter of St John in
+                    Welsh – he did &amp; I tried to read after with tolerable success – the
+                    pronunciation is very gutteral, but I think I could get the language in a few
+                    months so as to make myself pretty well understood – Had breakfast as soon as we
+                    got back – excellent bread &amp; butter, hot home-made rolls, &amp;c &amp; good
+                    coffee – At 11 \({3\over 4}\) my <persName ref="pe2178">aunt</persName> &amp; I,
+                    accompanied by Boots<note type="editorial">I.e. the boot boy from the
+                        hotel.</note> to introduce us, walked to <placeName ref="pl1614">Plâs
+                        Newydd</placeName> – the gardener in waiting – we talked to him a good deal
+                    – he seemed a good sort of intelligent man much attached to his mistresses after
+                    having lived with them 30 years – he had walked about the country with them many
+                    miles when they were young – they were about 20 when they 1<hi rend="superscript">st</hi> came there &amp; had now been there 43 years<note type="editorial">Butler and Ponsonby settled in Llangollen in 1778, when
+                        they were around 39 and 23 respectively.</note> – they kept no horses but
+                    milked 6 cows – said I, "Can they use the milk of 6 cows?" "Oh! they never mind
+                    the milk – it is the cream" – he said <persName ref="pe0954">Lady
+                        E.B.</persName> was a good deal better – He remembered Mr Banks – has been
+                    there 4 or 5 times – I told him I had longed to see the place for the last dozen
+                    years, &amp; we have expressed our great admiration of the place – In <placeName ref="pl1999">St <sic>Gothens</sic></placeName> (for I know not how else to
+                    spell it &amp; which we most particularly admired) was a little bookcase of 30
+                    or 40 volumes, chiefly poetry, Spenser, Chaucer, Pope, Cowper, Homer,
+                    Shakespeare, &amp;c – I quite agreed with <persName ref="pe2175">M–</persName>
+                    (vide her letter), the place "is a beautiful little bijou" shewing excellent
+                    taste – much to the credit of the ladies who have done it entirely
+                        themselves.<note type="editorial">Lister recorded rereading Mariana's
+                        letters written from her 1817 tour of Wales in a diary entry for 28 July
+                        1828.</note> The gardener said, "they were always reading" – the dairy is
+                    very pretty, close to the house, &amp; particularly the pump Gothic iron-work
+                    from <placeName ref="pl0740">Shrewsbury</placeName> (<placeName ref="pl3102">Colebrookdale</placeName> perhaps originally) – the well 7 yards deep – It
+                    is an interesting place – my expectations were more than realized &amp; it
+                    excited in me, from a variety of circumstances, a sort of particular interest
+                    tinged with melancholy – I could have mused for hours &amp; dreampt <hi rend="superscript">dreams</hi> of happiness, conjured up many a vision of
+                    [illegible] hope – In our return we strolled thro' the church yard – I shall
+                    copy the epitaph to <persName ref="pe0954">Lady E. B–</persName>'s &amp;
+                        <persName ref="pe0957">Miss P–</persName>'s favourite old servant, Mrs
+                        <persName ref="pe2184">Mary Clark</persName>, who died in 1809, when we go
+                        back<note type="authorial">‘omitted copying the epitaph as I intended –
+                        sorry –'</note> – Just peeped into the church stood in the porch – the
+                    service not concluded – for the benefit of the distressed Irish<note type="editorial">The poor potato crop of 1821 resulted in severe food
+                        shortages in Ireland in 1822, especially in the southern and western
+                        counties.</note> – got back to the inn at 1 \({1\over 4}\) and off to
+                        <placeName ref="pl1303">Corwen</placeName> at 1 \({3\over 4}\) and get here
+                        <hi rend="superscript">(<placeName ref="pl1303">Corwen</placeName>)</hi> in
+                    exactly 1 \({40\over 60}\) hours at 3 \({35\over 60}\) – (<hi rend="superscript">dated at</hi> Cernioge 8 \({1\over 2}\) p.m.) Very fine drive (10 miles
+                    vid. Carey p. 235)<note type="editorial">A reference to John Cary: <hi rend="italic">Cary's New Itinerary; or, An Accurate Delineation of the
+                            Great Roads, Both Direct and Cross, Throughout England and Wales</hi>
+                        (London, 1798).</note> from <placeName ref="pl0793">Llangollen</placeName>
+                    to <placeName ref="pl1303">Corwen</placeName>, the <placeName ref="pl1138">Dee</placeName> within a short distance on our right all the way – the
+                    banks shaded by rather large trees – perhaps chiefly alders – the valley narrow
+                    the hills on each side bold and beautiful and picturesque – this road like a
+                    bowling green – one of the best I ever travelled – <lb/>
+                    <pb n="44"/><fw>[f. 44]</fw> Government have lately taken this road (the whole
+                    way for <placeName ref="pl0699">London</placeName> to <placeName ref="pl1018">Holyhead</placeName>) into their own hands,<note type="editorial">The first
+                        of a series of Parliamentary Acts relating to the London-Holyhead road was
+                        passed in 1815, which provided for the improvement of the route, following a
+                        report by Thomas Telford in 1811.</note> &amp; tho' the tolls are much
+                    heavier in consequence thereto vast improvements have been made in the road
+                    &amp; are <hi rend="superscript">now</hi> going on in different parts of the
+                    line of it – <placeName ref="pl1303">Corwen</placeName> is a small
+                    limestone-built <hi rend="superscript">post</hi> town, like a neat village – a
+                    small <placeName ref="pl1665">church</placeName> on a rising ground on the left
+                    just after our entrance of the town – stopt 1 \({10\over 60}\) hours at the inn
+                    &amp; bait the horses – the <placeName ref="pl3113">Owen Glendwr</placeName>
+                    apparently a very comfortable inn – a good place to sleep at if one was not
+                    anxious to get on further – Left <placeName ref="pl1303">Corwen</placeName> at 4
+                    \({35\over 60}\) &amp; got here (<placeName ref="pl1576">Cerniog
+                        Mawr</placeName>) in 3 hours at 7 \({35\over 60}\) – the road very pretty
+                    for about 6 miles to Lundyforth (according to the pronunciation)<note type="editorial">Probably a reference to Pont Glyn-diffwys, near Llangwm;
+                        see <ref type="http" target="https://britishlistedbuildings.co.uk/300019583-pont-glyn-diffwys-llangwm">here</ref>. For an 1808 sketch of this scene by Turner, see <ref type="http" target="https://www.tate.org.uk/art/artworks/turner-the-corwen-betws-y-coed-road-near-glyn-diffwys-looking-towards-pont-y-glyn-d06880">here</ref>.</note>
+                    <hi rend="superscript">(Pontyglyn or Pont Llyn Dyffws vid. Nicholson's guide
+                        p.353)</hi> bridge romantically situated over the <placeName ref="pl1138">Dee</placeName> which foamed in a <hi rend="superscript">tolerably broad
+                        but</hi> shallow stream over its broken rocky bed below – we stopt &amp; got
+                    out of the gig for a minute to view it – the road (to the right of it) cut thro'
+                    the rock to a considerable depth – from here, however, the beauty of the road
+                    begins to decline, &amp; the last 3 miles from <sic><placeName ref="pl3129">Cerig y Drudion</placeName></sic>. (Cherrig ch pronounced like ch in
+                    church, y Drudyon) plain &amp; dreary – the land poor &amp; peaty, the hills
+                    quite bare – a little before <placeName ref="pl3129">Cerig y
+                    Drudion</placeName>, we observed a conical hill, having the appearance of 2
+                    mounds or tumels as at <placeName ref="pl0794">Dinas Bran</placeName>, &amp;
+                    which <hi rend="superscript">we took for</hi> the citadel of Caractacus<note type="editorial">British king or chieftain in the first century AD.</note>
+                    mentioned by Cary<note type="editorial">See Cary, p. 167: ‘Within \({1\over 2}\)
+                        a Mile of Cerrig y Drudion on r. is the famous Citadel of the Druids, where
+                        Caractacus retired to after his Defeat at Caer Caradoc.'</note> – it seemed
+                    something like an old stonework remain on the side towards <placeName ref="pl3129">Cerig y Drudion</placeName> – the last 2 or 3 miles of the road
+                    almost in a straight line before us &amp; <placeName ref="pl1576">Cerniog
+                        Mawr</placeName> tho' a very neat looking whitewashed house stands by itself
+                    in the midst of hills so bare of people &amp; trees my <persName ref="pe2178">aunt</persName> &amp; I agreed we should not like to stay there longer than
+                    necessary – there is a turnpike bar very near the gate (there are two such
+                    between <placeName ref="pl0793">Llangollen</placeName> &amp; <placeName ref="pl1303">Corwen</placeName>) such as I had never seen before, struck us
+                    exceedingly – [sketch inserted] ten iron radii about 1 inch broad &amp;
+                    \({1\over 4}\) inch thick, spring at equal distances from the circumference of
+                    the 2 little quadrants [deletions] of circles placed in the corners of the foot
+                        <hi rend="superscript">and top</hi> of the hanging side – a very slight iron
+                    post is fastened to the stone posts &amp; upon the top of this small iron post
+                    finished off to admit it, the gates are hung by a [drawing] swinging on the top
+                    of the posts – Sat down to dinner here <hi rend="superscript">about 8</hi>
+                    <placeName ref="pl1576">Kernioge Mawr Inn</placeName> as the man of the inn
+                    spells it – Trout, mutton chops &amp; gooseberry tart &amp; cream – very good –
+                    settled everything paid the bill &amp;c &amp; came to bed at 9 \({1\over 2}\) to
+                    be in readiness in the morning to start at 7 for <placeName ref="pl1528">Capel
+                        Curig</placeName> – wrote the last 9 lines of today [code: after having
+                    curled my hair] feel so very heavy &amp; sleepy I can write no more – I wonder
+                    what success I shall have about <persName ref="pe0954">Lady E.B.</persName>
+                    &amp; <persName ref="pe0957">Miss Ponsonby</persName>
+                    <hi rend="superscript"><persName ref="pe2179">Mrs Davies</persName> thought they
+                        would be pleased with my note</hi> but I can't write more now than that we
+                    have had delightful weather today &amp; travelled on most comfortably – I am
+                    more than \({1\over 2}\) asleep &amp; must make the best of my way to bed – 'Tis
+                    now 11 \({1\over 2}\) [code: a good deal of discharge] I have heard the wind
+                    whistle here 2 or 3 times – what a dreary place it must be in Winter!<lb/>
+                </p>
+                <lb/>
+                <p>Monday 15 July <lb/> Off at 7 \({1\over 2}\) to <placeName ref="pl1528">Capel
+                        Curig</placeName> – detained talking to <persName ref="pe2197">Mr
+                        Weaver</persName> the landlord about our route, &amp; bought of him
+                    Nicholson's Cambrian Traveller's guide,<note type="editorial">George Nicholson's
+                            <hi rend="italic">The Cambrian Traveller's Guide, and Pocket
+                            Companion</hi>, a compendium-style guidebook drawing on the work of
+                        earlier Welsh travel writers such as (among others) Thomas Pennant, William
+                        Bingley, Arthur Aikin and William Warner, was first published in 1808. The
+                        second edition, which Lister bought at Cernioge, was an expanded version,
+                        published in 1813 as <hi rend="italic">The Cambrian Traveller's Guide, in
+                            Every Direction</hi>.</note> London 1813, 2<hi rend="superscript">d</hi>
+                    edition 1 vol. large 8vo price 18/) From the 1<hi rend="superscript">st</hi>
+                    turnpike (about 3 miles from <placeName ref="pl1576">Cernioge</placeName>) the
+                    road loses all its naked dreariness &amp; begins to be wooded &amp; beautiful –
+                    we stopt according to <persName ref="pe2197">Mr W–</persName>'s directions about
+                    6 miles or rather more from <placeName ref="pl1576">Cernioge</placeName> &amp;
+                    turned down a footpath on our left to see the beautiful <placeName ref="pl2852">fall of Penmachno</placeName> – this took us altogether about 25 minutes
+                    &amp; waiting 10 minutes for <persName ref="pe2198">George</persName> to see it,
+                    we were delayed 35 minutes.<note type="authorial">Perhaps a couple of miles
+                        beyond the <placeName ref="pl2852">fall of Penmachno</placeName> passed the
+                            <placeName ref="pl3133">Wellington iron bridge</placeName> – a very
+                        beautiful one, the finishing at each end wrought into the rose the thistle
+                        and shamrock very prettily done</note> Notwithstanding this we reached here,
+                        <placeName ref="pl1528">Capel Curig</placeName>, at 10 \({1\over 2}\) a
+                    distance of 15 miles – meant to have breakfasted at <placeName ref="pl3132">Bettws</placeName> but passed on by mistake. [deletion] Stood up in the gig
+                    to see the fall of the Rhyddol<note type="editorial">Unidentified.</note> &amp;
+                    got out to look at the bridge built <hi rend="superscript">over the river</hi>
+                    on rocks [deletions] sublime scenery for the last 11 or 12 miles – <placeName ref="pl2862">Snowdon</placeName> very majestic – completely cloud-capt – Had
+                    breakfast at 11 – then walked into the garden whence a fine view of this king of
+                    mountains &amp; a couple of small lakes just beyond the garden – [deletions]
+                    about 12 the day cleared so much we intended to ascend – all agreed with the
+                    guide &amp; to be off in \({1\over 2}\) hour (at 2) – the house, planned by
+                    Wyatt has a handsome exterior &amp; some capital rooms – but the attendance
+                    &amp; <hi rend="superscript">breakfast are</hi> the worst we have had so
+                        far<note type="editorial">A reference to the Royal Hotel at Capel Curig,
+                        built by Lord Penrhyn in 1803. Lister is drawing her information from
+                        Nicholson's <hi rend="italic">Guide</hi> (see p. 175 in the 1813
+                        edition).</note> – <lb/><note type="authorial">vid. line 5 from the bottom
+                        of the next page</note><lb/>
+                    <pb n="45"/>
+                    <fw>[f. 45]</fw> (<placeName ref="pl1049">Conway</placeName> Tuesday 8 p.m.) Off
+                    to Snowden at 2p.m. went in the gig (the guide mounted behind us) as far as we
+                    had to go on the <placeName ref="pl1518">Beddgelert</placeName> road i.e. 4
+                    \({1\over 4}\) miles, &amp; sent <persName ref="pe2198">George</persName> back
+                    with the horses – Began the ascent on foot at 3, &amp; gained the highest point
+                    of the highest summit <placeName ref="pl2862"><sic>Wydfa</sic></placeName>. (a
+                    distance of 5 miles) in 3 \({40\over 60}\) hours – we had hoped to see the sun
+                    set but this was prevented by intervening clouds – we saw however a magnificent
+                    prospect – seven lakes immediately among the Snowdonian mountains – the
+                        <placeName ref="pl1564">Menai Straights</placeName> – the bays of Cardigan
+                    &amp; Caemawr, <placeName ref="pl1093">Anglesea</placeName> &amp;c. &amp;c. the
+                    ascent was much easier than I expected – no danger attending it, &amp; the
+                    exertion required more on account of the length of the way than anything else –
+                    our last part of the ascent for a considerable distance (just above the Glas-Lyn
+                    lake) &amp; passing by the <placeName ref="pl3134">copper works</placeName>
+                    which have killed the fish &amp; turned green the waters of the lake) was along
+                    an artificial path 5 feet wide, cut in traverses, which brought us up to the
+                    ridge, as it were, on which stands <hi rend="superscript">the pointed
+                        summit</hi>
+                    <placeName ref="pl2862">Wydfa</placeName> – the first view is certainly most
+                    striking and altogether we thought ourselves well repaid for our trouble.
+                    Neither the guide (<persName ref="pe2200">Evan Jones</persName>) nor I expected
+                    my <persName ref="pe2178">aunt</persName> to go to the top, &amp; therefore took
+                    a boy with us to conduct her to <placeName ref="pl1527">Llanberis</placeName> –
+                    as we went along in the gig we had perceived 2 men on horseback after us – they
+                    rode to the <placeName ref="pl3135">pass of Llanberis</placeName>, sent their
+                    horses to the village &amp; we soon found them at our heels going up the
+                    mountain – they continued to join us for the benefit of our guide to which I
+                    should have objected but one of them was the son of <hi rend="superscript">our</hi> innkeeper &amp; the other's <hi rend="superscript">(a Mr Reid, an
+                        attorney)</hi> arm was taken by my <persName ref="pe2178">aunt</persName>
+                    &amp; he helped her up the mountain &amp; was in fact the means of enabling her
+                    to get up to the top – arrived there, we looked about a few minutes, &amp; then
+                    foolishly sat down in the little hut on the stone benches &amp; were some
+                    minutes. All the party felt chilled and took a little bread &amp; brandy
+                    excluding myself – Indeed the 2 gents drank almost all the two pint bottles of
+                    brandy <hi rend="superscript">our guide had taken</hi> at 3 or 4 different times
+                    of halt – the guide meant to have taken us to <placeName ref="pl1527">Llanberis</placeName> by <placeName ref="pl1309">Dolbadarn
+                        Castle</placeName> a route of 7 miles – but fancying that by going a shorter
+                    we might return to sleep at <placeName ref="pl1528">Capel Curig</placeName> we
+                    ventured down a very steep &amp; difficult pass just above <placeName ref="pl1527">Llanberis</placeName> – had I had an idea what it was I should
+                    not have thought of doing it – However, by dint of patient labour &amp; constant
+                    hold of the guide she got down – frightened as she was yet appearing less so
+                    than Mr Reid – yet tho' we saved three miles of distance we were 2 \({20\over
+                    60}\) hours in descending, &amp; did not reach the little inn at <placeName ref="pl1527">Llanberis</placeName> till 9 \({40\over 60}\), too late to
+                    think of leaving it – the gents. returned to <placeName ref="pl1528">Capel
+                        Curig</placeName> – we remained – had boiled milk &amp; bread &amp; butter
+                    for supper &amp; went to bed – having nothing with us I only took off my pelisse
+                    &amp; neck handkerchief &amp; lay down in the rest of my clothes at 11 – to be
+                    called at 4 – For fear of damp sheets I wrapt my plaid round me – I know not
+                    that I was ever more heated – I had scarcely a dry thing about me – we had
+                    walked about 5 \({1\over 2}\) miles of ascent and about 4 of descent 10 times
+                    more fatiguing than anything which I had done before – my <persName ref="pe2178">aunt</persName>'s bowels very painful – doubtless for sitting in the cold
+                    hut &amp; taking sheer brandy – I tasted nothing &amp; felt no inconvenience –
+                    Very fine day – cool &amp; pleasant &amp; tolerably clear notwithstanding the
+                    clouds that shaded the setting sun –<lb/></p>
+                <lb/>
+                <p>Tuesday 16 July<lb/> Out in \({1\over 2}\) hour the guide &amp; I walked to
+                        <placeName ref="pl1309">Dolbadarn castle</placeName> &amp; thence to the
+                    waterfall of <sic><placeName ref="pl1308">Conant Mawr</placeName></sic> – a
+                    distance altogether going &amp; returning about 5 miles – (about 2 miles from
+                    the inn to the castle &amp; thence about mile to the waterfall) – at 6 \({3\over
+                    4}\) after paying our little bill at the <placeName ref="pl3137">Vaenol
+                        Arms</placeName> – <placeName ref="pl3104">Vaenol</placeName> the name of
+                    the seat of <persName ref="pe0944">Mr Ashton Smith</persName> to whom the little
+                    inn kept by <persName ref="pe2201">Robert Closs</persName> belongs together with
+                    extensive property in the neighbourhood – 2 \({20\over 60}\) hours walking to
+                    where the gig left us yesterday that is 4 long miles along the <placeName ref="pl3135">pass of Llanberis</placeName> so narrow as to seem almost like
+                    a <hi rend="superscript">tremendous</hi> fissure in the mountains – just before
+                    getting into the gig looked down the vale &amp; upon the <placeName ref="pl3136">lake of Quinant</placeName> – we <hi rend="superscript">were</hi> only 7
+                    \({3\over 4}\) miles from <placeName ref="pl1518">Beddgelert</placeName>, for
+                    the whole distance from <placeName ref="pl1528">Capel Curig</placeName> is only
+                    12 miles – we <hi rend="superscript">were</hi> back to breakfast about 10 and
+                    off to <placeName ref="pl1533">Llanrwst</placeName> about 12 – about 2 miles
+                    from <placeName ref="pl3132">Bettws</placeName> stopt &amp; walked down<note type="authorial">vid. lines 5 and 6 from the bottom of the last page</note>
+                    to see the <placeName ref="pl2851">Rhaidr y Wennol</placeName> waterfall –
+                    turned over the curved <placeName ref="pl3143">bridge</placeName> at Bettws (it
+                    is built on rocks in the river) &amp; got to <placeName ref="pl1533">Llanrwst</placeName>
+                    <hi rend="superscript">(nine miles)</hi> about 2 – beautiful drive all the way –
+                    the town busy &amp; full of people it being market day – walked about, saw the
+                    church &amp; got 2 men to shake the bridge for us – when they set their backs
+                    and pushed against the one centre stone we certainly [missing word] the motion
+                    at the other centre stone – walked down almost to <placeName ref="pl1532">Gwydir
+                        Castle</placeName> to take a look at it – stopt at the Eagles Inn<note type="editorial">Eighteenth-century hotel in Llanrwst; see <ref type="http" target="http://coflein.gov.uk/en/site/27123/details/eagles-hotel">here</ref>.</note> – seemingly a pretty good one, where one might sleep
+                    comfortably – the drive from <placeName ref="pl1533">Llanrwst</placeName> here<lb/>
+                    <pb n="46"/><fw>[f. 46]</fw> called 12 miles (about 11 \({1\over 2}\) by the
+                    mile-posts) beautiful &amp; fine – we were much struck with it in spite of the
+                    rain which began very soon after our leaving <placeName ref="pl1533">Llanrwst</placeName> – By the way, we had just got into the gig when Mr
+                    Reid came up &amp; inquired after us – he was thrown down somehow or other by
+                    his horse last night &amp; they did not get home till 1 – Our approach to <hi rend="superscript">&amp; first sight of</hi>
+                    <placeName ref="pl1049">Conway</placeName> remarkably fine – a very hill stage,
+                    &amp; bad road so much of it set with boulder stones very slippery to the horses
+                    feet – the road too very narrow – one could scarce think it 7 or 8 years <hi rend="superscript">ago</hi> the great high <hi rend="superscript">road</hi>
+                    from <placeName ref="pl0699">London</placeName> thro' <placeName ref="pl0740">Shrewsbury</placeName> &amp; <placeName ref="pl1018">Holyhead</placeName> –
+                    stopt at the <placeName ref="pl3124">Harp Inn</placeName> – my <persName ref="pe2178">aunt</persName> unwell in her bowels all the day, &amp; had tea
+                    this evening just before I had dinner – a shoulder of a sheep that was killed
+                    this morning yet the meat was well flavoured tho' rather tough – we <hi rend="superscript">left <placeName ref="pl1533">Llanrwst</placeName> at 4
+                        and</hi> got here in 4 \({10\over 60}\) hours determined not to press Percy
+                    – he has brought us today 39 miles &amp; came in as fresh as if he had done
+                    nothing – we have seen not one goat yet – they are all destroyed on
+                            <sic><persName ref="pe2202">Lord Gwedyr</persName>'s</sic> estate – on
+                    account of <hi rend="superscript">them</hi> hurting his plantations, he about 7
+                    years ago sent an order that every tenant should get rid of all he had by
+                    Llanrwst fair (in September) – this was giving them too little time, &amp;
+                    caused them great loss which could have been remedied by giving them till
+                    Christmas instead of September –for goat's flesh is not good without salting
+                    &amp; should be killed at Christmas – <hi rend="superscript">very</hi> fine
+                    morning – rain from about 4 \({1\over 2}\) to 7 \({1\over 2}\) p.m. 'Tis now
+                    about 10 \({3\over 4}\) – I am so sleepy I can write no more [code: more
+                    discharge today and yesterday than I almost ever had before]<lb/>
+                </p>
+                <lb/>
+                <p>Wednesday 17 July <lb/> [code: about two hours dressing putting on clean things
+                    &amp; <unclear>siding</unclear> my imperial &amp;c] Went out to see the
+                        <placeName ref="pl1530">castle</placeName> about 10 \({3\over 4}\). Had
+                    scarcely got there before it began to rain pretty heavily &amp; continued the
+                    whole while that we <hi rend="superscript">were</hi> obliged to return [code:
+                    Gave the man two shillings for shewing the castle. I think one would have done.
+                    The art of travelling requires an apprenticeship. Surely I shall improve in
+                    time. I have given many a sixpence that might have been spare. Always take in
+                    your hand what you mean to give before you go.] The <placeName ref="pl1530">castle</placeName> is a most beautiful &amp; surprisingly perfect remain
+                    all things considered – but we have seen it to great disadvantage in consequence
+                    of the rain could not see <hi rend="superscript">the</hi> interior of the keep
+                    tower – the boys of the town sometimes climb into it – <hi rend="superscript">but hardly anyone else</hi> – it adjoins the great hall – <sic><placeName ref="pl3144">Diganwy</placeName></sic> is just across the river about a
+                    mile from the ferry-house – the passage is 1 shilling each person – <placeName ref="pl1049">Conway</placeName> seems a poor sort of town of 2 or 3 streets
+                    – we have been comfortable here – good, clean beds, tho' very small rooms – no
+                    window – curtains, no wash-stand – the pitcher &amp; basin on the toilet table –
+                    good breakfast &amp; great attention – the people seem clean, tho' the house
+                    looks dirtyish <hi rend="superscript">&amp; second-rate</hi> because, perhaps,
+                    it is old &amp; not easily made to look clean <hi rend="superscript">or kept
+                        clean</hi> – But, on going out I see it is evidently not the first-rate
+                    house – the <placeName ref="pl3145">White Lion</placeName>, a little <hi rend="superscript">few doors</hi> lower down the street appears a neat, new
+                    building &amp;, as we passed, a gentleman's landau <hi rend="superscript">(hansom)</hi> with his own post-boy &amp; horses was at the door. [Code: We
+                    do not cut a figure in travelling equal to our expenses. My <persName ref="pe2178">aunt</persName> is shabbily dressed &amp; does not quite
+                    understand the thorough manners of a gentlewoman – for instance, taking the
+                    man's arm so readily to <placeName ref="pl2862">Snowdon</placeName> &amp;c
+                    &amp;c. Indescribable. <persName ref="pe2198">George</persName> too is a clown
+                    of a servant – too simple in the manners of the world. But we are not known. I
+                    will try to learn &amp; improve in travelling matters &amp;, by thought &amp;
+                    observation, may turn all this to future advantage. But I feel very low. Somehow
+                    or other seeing <persName ref="pe2175">M–</persName> has been no comfort to me
+                    when I asked her how long she thought it might be before we got together &amp;
+                    she seemed to fight off answering. On pressing farther she said she felt some
+                    delicacy in this subject &amp; did not like to talk openly of it even to
+                    ourselves for tho she did not love him yet kindness &amp; obligation made her
+                    feel a wish to avoid calculating the time or thinking of except in general terms
+                    – I promised not to press her on the subject again. All this has made a great
+                    impression on me &amp; I know not how it is I cannot shake it off. She never did
+                    so before but talked [illegible] of so many – five or ten for instance – years
+                    as I did. She seemed fond of me as ever yet all the night when I was almost
+                    convulsed with smothering my sobs she took no notice nor was affected at all
+                    apparently. The <pb n="47"/><fw>[f. 47]</fw> next morning her eyes filled at
+                    parting. I know not how it is but she as it were deceived me once &amp; I feel
+                    that it is miserable to doubt. My <persName ref="pe2178">aunt</persName>
+                    observed that she did not seem so fond of me as I was of her. I wish I did not
+                    think quite so much of all this but alas I cannot help – surely I shall be
+                    better by &amp; by. I feel miserably low. I remember too what she said of Mr
+                    Powis that if her heart was not engaged as it is to me she might be in danger of
+                    very undesirable &amp; uncomfortable feelings of interest towards him. I might
+                    have written her a few lines but feel as if I had not resolution. Were I fit for
+                    another world how gladly would I go there.] <lb/>
+                </p>
+                <lb/>
+                <p> Just finished the above of today at 12 \({1\over 4}\) – then read <persName ref="pe2085">Bingley</persName> &amp; the Cambrian Directory &amp;
+                    Nicholson's Cambrian Guide – and afterwards wrote<note type="authorial">Aber 12
+                        p.o.</note> 1 \({1\over 2}\) pages small &amp; close, giving an account of
+                    our journey to <persName ref="pe2175">M–</persName> to be sent from <placeName ref="pl1565">Caernarvon</placeName> – It continued to rain all the day &amp;
+                    we <unclear>ordered</unclear> dinner at 6, a boiled neck of mutton &amp; caper
+                    sauce – nothing else – about 5 the rain began to abate &amp; it being quite fair
+                    by 6 we determined to go a stage, besides we found the room in which we sat so
+                    very damp, it gave my <persName ref="pe2178">aunt</persName> the rheumatism
+                    &amp; we had dinner in a little sitting room upstairs – on looking <hi rend="superscript">more</hi> about us the house did seem dirty &amp;
+                    uncomfortable &amp; in spite of the civility of the people we wanted to change
+                    our quarters – the <placeName ref="pl3145">White Lion</placeName> is the inn to
+                    go to – we were off at 7 \({24\over 60}\) and reached here (<placeName ref="pl1595">Aber</placeName>, Black Bull) in exactly 2 \({10\over 60}\)
+                    hours between 9 &amp; 10 miles – the first part of the road very hilly &amp;
+                    walking up <sic><placeName ref="pl1338">Penman-Mawr</placeName></sic> took some
+                    time – the first view of the sea <hi rend="superscript">we lost sight of course
+                        immediately</hi> after passing a fine defile <hi rend="superscript">is most
+                        striking fine</hi> – the road cut out of the one side <hi rend="superscript">of the <unclear>hill</unclear></hi> with a low wall <hi rend="superscript">[illegible]</hi> deep precipice beneath and <hi rend="superscript">then on
+                        the other side</hi> (on the right) a tremendous mountain with an excavation
+                    in it perhaps a copper mine <hi rend="superscript">my <persName ref="pe2178">aunt</persName> got out &amp; walked to the bottom of the road</hi>
+                    soon afterwards we came to <placeName ref="pl1338">Penman Mawr</placeName> which
+                    is tremendously fine – the sea was smooth as glass – the sun setting over it
+                    most beautifully. It was indeed altogether a magnificent sight – such scenery I
+                    never saw before – the drive from <placeName ref="pl1049">Conway</placeName>
+                    here exceeds all we have met with hitherto – It was darkish before we got here –
+                    It seems a comfortable house, &amp; our beds look comfortable – sat up reading
+                    Nicholson's guide – did not come upstairs till 11 \({40\over 60}\) – then wrote
+                    the last 13 lines of today – Fine all the way we came not a drop of rain –
+                    passed the mail just before we came to the Penman Mawr turnpike – [code: a great
+                    deal of discharge tho I have hitherto used two syringe-fulls of water night
+                    &amp; morning] <lb/>
+                </p>
+                <lb/>
+                <p> Thursday 18 July <lb/> At 8 \({1\over 4}\) my <persName ref="pe2178">aunt</persName> &amp; I set off (a <hi rend="superscript">cunning</hi>
+                    little girl our guide – picked her up in the village) to see the cataract
+                        <placeName ref="pl3146">Rhiader Mawr</placeName> – the girl pronounced
+                    Rhiader as tho' pronounced adder – going &amp; returning took us 1 <hi rend="superscript">49/60</hi> hours. Rained all the time more or less, but
+                    gently &amp; not so as to wet one much – my <persName ref="pe2178">aunt</persName> thought the cataract not worth the trouble we had had –
+                    Breakfasted – the milk in the house all sour – desired the waiter to get some
+                    elsewhere – nobody kept any cows or even goats &amp; no milk to be had – sent
+                    for the mistress (<persName ref="pe2203">Mrs Lewis</persName>) she was very
+                    civil, said it was a shame to live in the country &amp; have no milk &amp; she
+                    sent somewhere, borrowed a pint, &amp; I had at last, coffee au lait as usual,
+                    &amp; a good breakfast. In paying the bill they gave me, in change 2 Irish
+                    tenpennys, but valued them only at 9d. I gave the waiter 1 of them and 2d, &amp;
+                    the chamber[maid] the other (i.e. 9d) not giving her anything for my bed,
+                    because the sheets were certainly not clean of which I took care to tell both
+                    her &amp; her mistress – as they told we could get nothing for the horses at the
+                    slate quarries we took 2 feeds of corn (16d) with us wrapt up in the plaid – the
+                    clouds looked very threatening – Left <placeName ref="pl1595">Aber</placeName>
+                    at 11 \({10\over 60}\), and <hi rend="superscript">in \({1\over 2}\)</hi> at 12
+                    \({40\over 60}\), on account of the heavy shower stopt [at] a <hi rend="superscript">neat</hi> looking small house by the wayside (<persName ref="pe2204">Mr Jones</persName>'s the <sic><placeName ref="pl3147">Tin y
+                            mins Inn</placeName></sic>, as the chambermaid spelt it, 7 miles from
+                        <placeName ref="pl0799">Bangor</placeName> &amp; 8 from <placeName ref="pl1528">Capel Curig</placeName> – Detained here 1 \({1\over 2}\) hours
+                    it rained almost all the while &amp; besides Percy had his near hind shoe
+                    fastened on – the Vale of <sic><placeName ref="pl1529">Nant
+                        Frayon</placeName></sic> begins about a mile from <placeName ref="pl3147">Tin y mins Inn</placeName> with the <placeName ref="pl1578">slate
+                        quarries</placeName> – Drove forwards about 3 \({1\over 2}\) miles to within
+                    4 or 5 miles of <placeName ref="pl1528">Capel Curig</placeName>, a good way
+                    beyond the end of <placeName ref="pl3148">Ogwen Pool</placeName> – the scenery,
+                    the tremendous mountains on each side all the way, particularly bordering the
+                    lake, sublime &amp; savagely grand – It was about 3 hours from our leaving
+                        <placeName ref="pl3147">Tin y mins</placeName> to our going into the slate
+                    quarry which we entered at 4 \({1\over 4}\) &amp; stood \({1\over 2}\) hour – it
+                    rained very heavily all the while &amp; afterwards <lb/>
+                    <pb n="48"/><fw>[f. 48]</fw> till we got back to <placeName ref="pl3149">Llandegai</placeName> (2 miles from here, <placeName ref="pl0799">Bangor</placeName>) where we turned to our left this morning to <placeName ref="pl1529">Nant Frayon</placeName> – we turned off to the slate quarries
+                    to the left as we returned from <placeName ref="pl3148">Ogwen Pool</placeName>
+                    at the last turnpike before <placeName ref="pl3149">Llandegai</placeName> –
+                    owing to some men standing by we took a round in going &amp; were 20 minutes
+                    from the high road to the quarries – we returned another way in 10 minutes – the
+                    quarries very well worth seeing – shewn us by an overlooker John Hughes. A
+                    better sort of workman allowed 14/- a week – 8 hundred &amp; 2 or 3 men employed
+                    in all the quarries (belonging <hi rend="superscript">now</hi> to <persName ref="pe2205">Mr Pennant</persName> who succeeded to the estates of the late
+                        <persName ref="pe0420">Lord Penryn</persName>, &amp; who, <persName ref="pe2200">Evan Jones</persName> the <placeName ref="pl2862">Snowdon</placeName> guide told <hi rend="superscript">us</hi> had 28, 000 a
+                    year clearing 18, 000 by the quarries – we saw the largest quarries 450 men
+                    employed in it – they were pulling down huge masses of slate with ropes – or
+                    rather the ropes were fastened to or about the rock for the men to climb up by,
+                    &amp; split or rend off the masses with large iron wedges – others were blasting
+                    the rock with gunpowder – this so lacerates the rock they only do it when other
+                    means fail – we went thro' a longish tunnel from one quarry to another 60 yards
+                    deep – slates different sizes – the largest £7 a thousand<note type="authorial">Perhaps the smallest size may be about 8 inches long by 6 inches
+                        broad</note>
+                    <hi rend="superscript">delivered</hi> at Port Penrhyn (close to <placeName ref="pl0799">Bangor</placeName>) the smallest 4/6 a thousand – good workmen
+                    can earn £2 a month – each one pays 4/- a month towards clearing away the waste
+                    made in getting &amp; dressing the slates – &amp; what more is required is paid
+                    by <persName ref="pe2205">Mr Pennant</persName> – the refuse is carted out along
+                    the side of the hill &amp; has a striking effect (like so many pit-hills as we
+                    call them) at a distance<note type="authorial">In returning just as we passed
+                        the bridge from the quarries &amp; got back to the turnpike close to it, a
+                        flash of vivid lightening came across us immediately followed by a loud peal
+                        of thunder, &amp; the rain which had begun just before we got to the
+                        quarries, continued till within a couple of miles of <placeName ref="pl0799">Bangor</placeName> vid. line 10 from the top of p. 49</note> – we
+                    particularly <hi rend="superscript">admired</hi> the small <hi rend="superscript">scattered</hi> town &amp; very neat-looking church of
+                        <placeName ref="pl1971">Llandegai</placeName>, &amp; should have liked to
+                    visit <placeName ref="pl1650">Penryn castle</placeName> at a short distance from
+                    it on the right (going from <placeName ref="pl1049">Conway</placeName>
+                    <hi rend="italic">to <placeName ref="pl0799">Bangor</placeName></hi>) had we had
+                    time &amp;c – The <placeName ref="pl1650">castle</placeName> is approached from
+                        <placeName ref="pl3149">Llandegai</placeName> by a fine gothic gateway under
+                    a handsome dog-toothed Saxon church-like arch – this, however, struck me as
+                    rather inconsistent with a regular castle gate – not quite finished – got out at
+                    the <placeName ref="pl3150">Castle Inn</placeName>, <placeName ref="pl0799">Bangor</placeName> (at the back of the <placeName ref="pl2025">cathedral</placeName>) at 6 – drove down to the <placeName ref="pl2026">bishop's palace</placeName> (I suppose it is) at first, &amp; thence
+                    directed to <placeName ref="pl3150">the castle</placeName> – It is the best inn
+                    in the place, but bad enough &amp; dirty enough – quite full – 2 very small hot
+                    uncomfortable looking rooms at the top of the house – and a sitting room on the
+                    left of the entrance on the ground floor next to the street &amp; even about
+                    this we had some difficulty, finding other company when we returned from the
+                        <placeName ref="pl2025">cathedral</placeName> &amp; obliged to civily turn
+                    them out, tho' here before us –a <hi rend="superscript">reverend</hi> Mr &amp;
+                    his daughter Miss Jones from <placeName ref="pl1246">Ruthin</placeName> – walked
+                    out before dinner – a very poor little town &amp; very paltry <placeName ref="pl2025">cathedral</placeName> – a great long sword upon a flat table in
+                    a niche bespoke the tomb of <sic>Owen Glendwr</sic><note type="editorial">A
+                        reference not to Owain Glyndŵr but to the tomb of Owain Gwynedd (c.
+                        1100-70), king of Gwynedd in the twelfth century. For a modern photograph of
+                        the tomb, see <ref type="http" target="https://upload.wikimedia.org/wikipedia/commons/6/66/Y_Gadeirlan_Bangor_Cathedral_Church%2C_Gwynedd_North_Wales_55.JPG">here</ref>.</note> – suspecting that we ought to have gone to the
+                        <placeName ref="pl3151">Penrhyn Arms</placeName> at Port Penrhyn close upon
+                        <placeName ref="pl0799">Bangor</placeName>, perhaps \({1\over 2}\) mile off
+                    – I walked to see &amp; be convinced – this is a dirty bustling coach-house –
+                        <hi rend="superscript">Perhaps</hi>
+                    <placeName ref="pl1563">Bangor Ferry</placeName> would have suited us much
+                    better, but Mr <persName ref="pe2206">W.H. Rawson</persName> said "avoid
+                        <placeName ref="pl1563">Bangor Ferry</placeName>" – we shall see it tomorrow
+                    – I wish I had not minded this – however, we mean to be off at 7 in the morning
+                    &amp; breakfast at the hotel at <placeName ref="pl1565">Caernarvon</placeName> –
+                    we had mullet to dinner (sat down at 7 \({1\over 2}\)) well dressed &amp; good –
+                    a large too-short-a-time-kept leg of mutton &amp; a goodish currant tart (pie) –
+                    settled the accounts &amp; wrote this journal of today after dinner – It seems
+                    to have been fair all the evening – Finished this at 10 \({1\over 2}\) &amp;
+                    then went upstairs to bed – </p>
+
+                <p>Friday 19 July<lb/>Rain all the night &amp; prevented our setting off this
+                    morning till 7 \({3\over 4}\) instead of 7 – Drove to <placeName ref="pl1563">Bangor Ferry</placeName> (the front towards our road like that of a common
+                    ale-house, but a longish neatly white washed front towards the <placeName ref="pl1564">Menai</placeName> that there may be tolerably good
+                    accommodation – <hi rend="superscript">but</hi> the house we hear here
+                    (Caernarvon Hotel or Marquess of Anglesea's Arms) is quite full – got out at the
+                    bridge over the straights<note type="editorial">Thomas Telford's Menai Bridge
+                        would not be completed and operational until 1826.</note> of which the 4
+                    small arches on the <placeName ref="pl1093">Anglesea</placeName> side &amp; the
+                    3 on this side are finished – I have just finished my letter to <persName ref="pe2175">M–</persName> (begun on Wednesday at <placeName ref="pl1049">Conway</placeName>, having written the latter the \({1\over 2}\) 3d page
+                    &amp; the ends small &amp; close) &amp; have said "the span left for the iron
+                    arch look tremendous &amp; the work when completed will deserve <lb/>
+                    <pb n="49"/><fw>[f. 49]</fw> a high place among the wonders of our land – In
+                    point of strength it is Egyptian – in point of lightness &amp; proportion
+                    Grecian – I am delighted with it &amp; think it so far the germ of the finest
+                    thing I ever saw – <sic>"..."</sic> After a rainy day on Wednesday the evening
+                    was fine: it was high water, &amp; so fine a drive as the 9 miles from
+                        <placeName ref="pl1049">Conwy</placeName> to <placeName ref="pl1595">Aber</placeName> (6 miles from <placeName ref="pl0799">Bangor</placeName>,
+                    &amp; where we slept) cannot surely be surpassed throughout the kingdom or
+                    perhaps the world – The winding down the chasm before <placeName ref="pl1338">Penman Mawr</placeName>; the 1<hi rend="superscript">st</hi> view of the
+                    sea bounded by <placeName ref="pl1093">Anglesea</placeName> &amp; <placeName ref="pl1959">Puffin Island</placeName>; the sun setting most gloriously; the
+                    road cut out of the rock about 50 yards<note type="authorial">should be 50 feet
+                        or about 20 yards</note> from the foot of <placeName ref="pl1338">Penman
+                        Mawr</placeName>, the waves or rather water smooth as glass just murmuring
+                    below, formed altogether so fine, so sublimely beautiful a scene as I shall not
+                    hastily forget – the shades of evening ushered us into <placeName ref="pl1595">Aber</placeName>, where we slept &amp; breakfasted the next morning
+                    comfortably, after walking about 3 miles <hi rend="superscript">there and
+                        back</hi> to see the Rhiader vawr, a somewhat noted cataract – we left
+                        <placeName ref="pl1595">Aber</placeName> a little after 11 (rain prevented
+                    our setting off sooner) turned along the <placeName ref="pl1528">Capel
+                        Curig</placeName> road at <placeName ref="pl3149">Llandegai</placeName>,
+                    &amp; made a diversion of nearly 2 miles to see the whole of the celebrated vale
+                    of <placeName ref="pl1529">Nant Frayon</placeName> &amp; the <placeName ref="pl1578">Penrhyn slate quarries</placeName> – our expectations more than
+                    equalled in both respects,<note type="editorial">The Lister's Halifax neighbour
+                        William Henry Rawson advised them to see the slate quarries. His letter,
+                        received 4 July 1822, is retained in the Shibden Hall papers at
+                        WYC:1525/6/5/2.</note> &amp; got to <placeName ref="pl0799">Bangor</placeName> about 6, in time to see surely the most paltry city
+                    &amp; <placeName ref="pl2025">cathedral</placeName> in his majesty's dominions –
+                    yet the situation of <placeName ref="pl0799">Bangor</placeName> is beautiful
+                    &amp; had the inn (<placeName ref="pl3120">The Castle</placeName> – the best)
+                    been better we might have enjoyed ourselves more." – Beautiful drive from
+                        <placeName ref="pl0799">Bangor</placeName> here – got here in 2 \({1\over
+                    4}\) hours at 10 \({1\over 4}\) – It is a large handsome looking <placeName ref="pl3112">house</placeName>, built by the present <persName ref="pe2196">Marquess</persName> – we have a sitting-room, about 11 yards by 6, lighted
+                    by 3 large sashes – I should think it about 14ft high or perhaps more – have had
+                    a good breakfast &amp; are very comfortable more especially after such inns as
+                    the <placeName ref="pl3124">Harp</placeName> at <placeName ref="pl1049">Conway</placeName> &amp; far worse <hi rend="superscript">as to sleeping
+                        rooms</hi> the <placeName ref="pl3120">Castle</placeName> at <placeName ref="pl0799">Bangor</placeName> – there was not even a chair in my room last
+                    night – in fact, the place was too small to hold me – it was very close, &amp;
+                    the whole house had a smell of dirtyness &amp; meat kept too long – <persName ref="pe2198">George</persName> too was very uncomfortable – yet I slept well
+                    not withstanding – 'Tis now 3 \({1\over 4}\) – the sun has been getting out for
+                    the last \({1\over 4}\) hour, &amp; it is fair &amp; fine – It began to rain
+                    while I was on <hi rend="superscript">one of</hi> the walls of the bridge over
+                    the <placeName ref="pl1564">Menai</placeName> (I got out to go upon it &amp;
+                    view this stupendous work) &amp; rained <hi rend="superscript">all</hi> the rest
+                    of our way home – sometimes very heavily, &amp; did not begin to clear at all
+                    till about 1 – Between the tops of the arches there are strong walls built all
+                    down the middle of the bridge <hi rend="superscript">longitudinally</hi> &amp;
+                    the other walls meet there at right angles the spaces between &amp; arches
+                    across the bridge – The post leaves here at 5, but the letters must be in the
+                    office at 4 – sent my letter to <persName ref="pe2175">M–</persName> at 3
+                    \({3\over 4}\) – my <persName ref="pe2178">aunt</persName> &amp; I walked out at
+                    4 – went to the <placeName ref="pl1566">castle</placeName>, walked all round it
+                    &amp; then had the <hi rend="superscript">daughter of the</hi> woman whose
+                    province it is to shew it – went up to the top of the <placeName ref="pl2387">Eagle-Tower</placeName> – fine view – Nicholson's guide says the interior
+                    was divided into 2 parts, an outer &amp; inner part – vid. p. 284<note type="editorial">See Nicholson, p. 286: ‘The area within is irregularly
+                        oblong, formerly divided into 2 parts, forming an outer and inner
+                        court.'</note> the woman said it was divided into 3 courts, &amp; I thought
+                    I saw traces of this triple division – we were 50 minutes there – perfectly
+                    delighted with this castle. Much larger than <placeName ref="pl1530">Conway
+                        Castle</placeName> &amp; not such a perfect skeleton – A fine gallery
+                    (Nicholson says 70 yards long) quite entire – the dungeon is very much filled
+                    up, but seemed small altogether as far as I could judge from the outside – for
+                    tho on the brink of the interior it was too dark to see anything of it without a
+                    candle – the <placeName ref="pl1566">castle</placeName> is very irregular, but
+                    very imposing, &amp; surely one of the most perfect specimens of castle
+                    architecture now remaining – I think <persName ref="pe2205">Mr
+                        Pennant</persName> would have done well to have taken the arch of the great
+                    entrance as a model for the arch of his <hi rend="superscript">new</hi> gateway
+                    at <placeName ref="pl1650">Penrhyn Castle</placeName> – He would thus have
+                    avoided the seeming confusion of <hi rend="superscript">the</hi> ecclesiastical
+                    &amp; castle style – we returned home immediately – it had begun to rain again
+                    &amp; we just got in before it came on heavily &amp; continued with little
+                    intermission more or less the rest of the evening – Dinner at 6 \({1\over 4}\) –
+                    salmon &amp; a roasted leg of mutton, 7 or 8lbs &amp; very good – it was, the
+                    waiter said, the common size – He mentioned <persName ref="pe2207">Mr
+                        Roberts</persName>, the harper, who won the silver medal (a small silver
+                    harp) at the Eisteddfod in 1821 at <placeName ref="pl0792">Wrexham</placeName><note type="editorial">The Wrexham Eisteddfod at which
+                        Roberts won the silver harp was held in 1820 rather than 1821.</note> – we
+                    asked what we should give him – the waiter said people seldom gave him less than
+                    \({1\over 2}\) crown, &amp; if he made a charge, he would charge \({1\over 2}\)
+                    crown an hour for he was not a common harper but a sort of teacher &amp; master
+                    bard among them. He came at 9 &amp; played \({15\over 60}\) hours in our room,
+                    for which we gave him 3/. He seemed satisfied – played us several Welsh airs,
+                        <persName ref="pe2208">Handel</persName>'s 2<hi rend="superscript">d</hi>
+                    concerto &amp;c. &amp; is certainly a fine performer with great execution &amp;
+                    taste – He had<note type="authorial">no unnecessary quavering with his hands but
+                        held them steadily parallel with the strings – he played us what he played
+                        first at Wrexham "Sweet Richard" with good &amp; very difficult variations –
+                        from us he went to the party in the next room that we still had the benefit
+                        of him. [‘Sweet Richard' was a well-known Welsh air in the period, which had
+                        been included in numerous musical collections (see, for example, Edward
+                        Jones's <hi rend="italic">Musical and Poetical Relicks</hi> (1784)). The air
+                        was closely associated with Roberts after his Eisteddfod win, and was
+                        published in London in 1821 under the title <hi rend="italic">Sweet Richard:
+                            performed at the Congress of Welsh Bards at Wrexham by Richard Roberts
+                            of Carnarvon, who gained the Silver Harp, with variations by John
+                            Parry</hi> (London: J. Power, 1821).]</note>
+                    <lb/>
+                </p>
+                <p>
+                    <pb n="50"/><fw>[f. 50]</fw>
+                    <lb/>
+                    <lb/>Saturday 20 July<note type="authorial">written at Beddgelert</note>
+                    <lb/> My <persName ref="pe2178">aunt</persName> called me at 6 \({10\over 60}\)
+                    – got up immediately – all quite ready for being off after breakfast – my
+                        <persName ref="pe2178">aunt</persName> &amp; I went out a few minutes before
+                    8 – walked to the top of the hill behind the hotel – The view is certainly very
+                    fine – high water – very hot &amp; close portending rain – returned to the
+                    house, turned down a narrow sort of grassy lane to the shore of the <placeName ref="pl1564">Menai</placeName>, thence along the fashionable walk of the
+                    town (a sort of rampart-walk, broad &amp; neatly gravelled) at the foot of the
+                    town-wall along the <placeName ref="pl1564">Menai</placeName> – round the
+                        <placeName ref="pl1566">castle</placeName> to <placeName ref="pl3127">Queen
+                        Eleanor's gate</placeName> – here <hi rend="superscript">(at 9 \({10\over
+                        60}\))</hi> my <persName ref="pe2178">aunt</persName> (being a little
+                    rheumatic) left me &amp; returned home – I pursued the stream of <hi rend="superscript">or rather road along</hi> the <placeName ref="pl3128">Seiont</placeName> in pursuit of traces of old <placeName ref="pl2023">Segontium</placeName> – passed a little square remain – came to a bridge of
+                    2 or 3 arches across the river (beautifully wooded for a considerable distance
+                    on the opposite bank) a neat white washed house or 2, a turnpike &amp; 2 roads
+                    on the other side, &amp; little cascade just on this side of the bridge &amp;
+                    very pretty view – turned up the hill on my left – an uneven surfaced <hi rend="superscript">stony</hi> grass-grown mound, probably the site of
+                    ancient buildings – crossed a field &amp; came into a road – passed close by a
+                    farm-house built adjoining the round tower remains of the old Roman
+                    fortification – the wall seemed the farm-yard boundary on one side, &amp; so
+                    covered with ivy on the other I could make nothing of it – In fact I was
+                    uncertain about it entirely (foolishly not having a guide with me) &amp; had no
+                    time to loiter strolled thro' the town to the market place – fine mutton 4d a lb
+                    veal 3 \({1\over 2}\) – saw no beef. Neat, small, covered market place thence to
+                    the Goat Inn – &amp; thence inquired my way to the bank – not open – a young man
+                    at the door civilly let me in &amp; gave me 10 sovereigns for a £10 Bank of
+                    England &amp; would charge nothing – the Welsh prefer <unclear>country</unclear>
+                    notes to Bank of England there are so many forgeries – went direct home by the
+                    walk along the <placeName ref="pl1564">Menai</placeName> &amp; sat down to
+                    breakfast immediately at 10 \({1\over 4}\) – Very good house – very civil people
+                    &amp; we may safely recommend our friends there – It would be a good place for
+                    head-quarters – like the town of <placeName ref="pl1565">Caernarvon</placeName>
+                    very much – Fine view of the <placeName ref="pl1566">castle</placeName> this
+                    morning a little from the town on the back of the <placeName ref="pl3128">Seiont</placeName> – most beautiful remain of castle architecture –
+                        <persName ref="pe2209">Mr Bettiss</persName> of the hotel saw us off, gave
+                    us his card, &amp; hoped we had been comfortable – off at 11 \({1\over 4}\) –
+                    perhaps \({1\over 2}\) mile on our road (the <placeName ref="pl1518">Beddgelert</placeName> road) we came to a cottage forty or fifty yards from
+                    a neat white washed church – at this cottage I got out &amp; turned into the
+                    field on our right to see the old Roman wall or fort described by <persName ref="pe2085">Bingley</persName> vol. 1 p. 170,<note type="editorial">See
+                        Bingley I: 170: ‘Not far from hence is the antient fort which belonged to
+                        it; this is also of an oblong figure, and contains about an acre of ground.
+                        The walls are at present about eleven feet high and six in thickness, and at
+                        each corner there has formerly been a tower.'</note> et seq. &amp; vid.
+                    Nicholson's guide p. 283<note type="editorial">‘Near the Seiont was a strong
+                        fort, intended to secure a landing-place at the time of high water. This was
+                        of an oblong shape included in an area of about one acre. Two sides of the
+                        walls are nearly entire.'</note> – I had seen the opposite extremity before
+                    breakfast – stopt \({1\over 4}\) hour – ran along the remain inside &amp; out to
+                    find a place free from ivy, or grass, or brushwood – it is almost wholly covered
+                    with one or other so as to resemble a bank fence – however, at the extremity of
+                    the field next the road there is a bare part which shews the Roman method of
+                    building &amp; farther in thro' a gap, I discovered 1 or 2 of the small
+                    perforations so much spoken of thro' the wall transversly – vid. King's
+                    muniments on the Roman manner of building<note type="editorial">A reference to
+                        Edward King's Munimenta Antiqua; or, Observations on Ancient Castles,
+                        published in four volumes between 1799 and 1806. King discusses Caernarfon
+                        in Volume III (1804).</note> – we reached here <placeName ref="pl1518">Beddgelert</placeName> the Jones' Arms<note type="editorial">Probably a
+                        reference to the hotel later known as the Royal Goat, built in 1802 by
+                        Thomas Jones; see <ref type="http" target="http://www.coflein.gov.uk/en/site/16816/details/royal-goat-hotelbeddgelert-hotel">here</ref>.</note>
+                    <hi rend="superscript">at 2 \({35\over 60}\)</hi> (Mr Jones of <placeName ref="pl1565">Caernarvon</placeName> owner of the new inn, a <hi rend="superscript">neat nice house</hi>, beautifully situated to the right,
+                    a little above the village, &amp; across the stream – planted all about &amp;
+                        <hi rend="superscript">thus</hi> embosomed in wood – remarkably pretty –
+                    very fine drive from <placeName ref="pl1565">Caernarvon</placeName> here –
+                        <placeName ref="pl2855">Bettws Garmon</placeName> only 2 or 3 poor cottages
+                    – noticed Nant mill very pretty little cascade – quite close to the road on our
+                    right &amp; too little fence to protect us from the stream – noticed also
+                    [blank] Williams' – white <hi rend="superscript">or yellow</hi> washed –
+                    plantations about the house (larch trees as there are here about the inn) &amp;
+                    very pretty – the pass or entrance to <placeName ref="pl1518">Beddgelert</placeName> very narrow rugged &amp; singularly fine – on
+                    entering it &amp; coming down the hill I could not help saying to my <persName ref="pe2178">aunt</persName> this is the prettiest sublime we have seen<note type="editorial">For a contemporary depiction of Beddgelert, including the
+                        river, cottages and steep-sided setting, see Mary Smirke, ‘Betgellert
+                        Bridge' (c. 1808), <ref type="http" target="https://commons.wikimedia.org/wiki/File:Betgellert_bridge,_Carnarvonshire.jpeg">here</ref>.</note> – the village is in as it were a small basin formed
+                    by high rough mountains – the rock darkened with heath or moss &amp; finely bare
+                    here &amp; there – the bottom of the basin beautifully verdant with here &amp;
+                    there trees about the few cottages, &amp; a stream tumbling over its rocky bed
+                    thro' the midst – it is [in] fact <hi rend="superscript">far</hi> the most
+                    picturesque village we have yet met with – some very heavy showers as we came
+                    along – the clouds tremendously black – the top of <placeName ref="pl2862">Snowdon</placeName> quite enveloped – got here in the beginning of a very
+                    heavy shower – Just 3 \({35\over 60}\) i.e. an hour since we got in – <lb/>
+                </p>
+                <p>
+                    <pb n="51"/><fw>[f. 51]</fw> looking a little at <persName ref="pe2085">Bingley</persName> &amp; Nicholson's Cambrian Guide<note type="authorial">written at Tan y Bwlch Inn 10</note> – at 4 took a little girl to carry the
+                    plaid &amp; umbrella &amp; set off to <placeName ref="pl3152">Dinas
+                        Emris</placeName>
+                    <hi rend="superscript">about 1 ½ mile on the <placeName ref="pl1528">Capel
+                            Curig</placeName> road in Cwm Cloch</hi> – we had gone little more than
+                    a mile, when the poor child began to cry, &amp; I sent her back again – walked
+                    forward 2 miles (i.e. about \({1\over 2}\) mile beyond <placeName ref="pl3152">Dinas Emris</placeName>) a little way along Lake Dinas – small house at the
+                    end of it &amp; some green fertile looking fields – a little plantation at the
+                    house – I longed to have gone further as far as <placeName ref="pl3136">Lake
+                        Gwinant</placeName> – the scenery as far as I did go, very fine – got back
+                    at 5 \({10\over 60}\) in the midst of a heavy shower – very hot with walking –
+                    Off from <placeName ref="pl1518">Beddgelert</placeName> for <placeName ref="pl1571">Tan-y-Bwlch</placeName> at 5 \({35\over 60}\) – the scenery for
+                    the first 3 miles terrifically fine – <placeName ref="pl1525">Pont-Aber-Glasyn</placeName> bridge tremendous – the road for a good way
+                    down to it narrow &amp; no fence or merely a <hi rend="superscript">single
+                        row</hi> of great stones to guard the precipice – there is no great cataract
+                    – but the unguardedness of the road, the [deletion] torrent tumbling over rocks
+                    below &amp; the perpendicular rock to the height of 2 or 3 hundred feet on the
+                    other side form a most impressive scene – there is a turnpike just beyond the
+                    bridge thro' which we went up a tremendously steep hill, from which a fine view
+                    down an opening upon the <placeName ref="pl1524">Traethmawr</placeName> sands.
+                    Indeed the whole stage (they called it 10 miles at <placeName ref="pl1518">Beddgelert</placeName>) is tremendously hilly – the scenery is
+                    indescribably fine – the first <hi rend="superscript">about</hi> 3 miles &amp;
+                    the last about 2 cannot surely be exceeded – but the whole far surpassed
+                    anything we had seen – <placeName ref="pl1338">Penman Mawr</placeName> is a
+                    different sort of thing <hi rend="superscript">should be excepted</hi> &amp;
+                    should not be compared with it – Very fine peeps at <placeName ref="pl2862">Wyddfa</placeName> at intervals, &amp; the <placeName ref="pl3154">Glyder
+                        mawr</placeName> – never saw <placeName ref="pl2862">Wyddfa</placeName> to
+                    such advantage – In short, no one travelling in Wales should miss the drive from
+                        <placeName ref="pl1518">Beddgelert</placeName> to <placeName ref="pl1571">Tan-y-Bwlch</placeName> – the road in many places not at all fenced off
+                    from the precipice on one side – my <persName ref="pe2178">aunt</persName> sick
+                    with fright more than <hi rend="superscript">once</hi> – several heavy showers
+                    as we came along, just in our faces, particularly for 50 or 100 yards just after
+                    leaving <placeName ref="pl1518">Beddgelert</placeName> &amp; for the last
+                    \({1\over 2}\) mile – the inn most beautifully situated at the foot of an almost
+                    perpendicular steep wooded from top to bottom – tremendous descending the road
+                    down it – a most comfortable inn – sat down to dinner at 9 \({1\over 2}\) (got
+                    here in 2 \({20\over 60}\) hours at 5 minutes before 8) fryed salmon, a <hi rend="superscript">very</hi> small fish cut in slices – a roast loin of
+                    mutton &amp; apple tart &amp; cream – the best potatoes I have tasted in Wales –
+                    the mutton most excellent, the best we have had – we have enjoyed our dinner
+                    exceedingly &amp; both had a nap since – my <persName ref="pe2178">aunt</persName> is just gone to bed – instead of wine, a bottle of very
+                    fair cider – they get it from <placeName ref="pl1302">Bristol</placeName> – Did
+                    not begin this page till 10 50/60 &amp; it is now 11 \({1\over 2}\) – Very <hi rend="superscript">heavy</hi> showers repeatedly during the day – but tho'
+                    we had our coats &amp;c. dried at <placeName ref="pl1518">Beddgelert</placeName>
+                    &amp; here we escaped getting much wet – 12 miles from <placeName ref="pl1565">Caernarvon</placeName> to B_ 10 from B_ here – the roads roughish &amp;
+                    very hilly <hi rend="superscript">very</hi> particularly this last stage, yet
+                    Percy came in not at all tired – He is a capital gig-horse – Went upstairs to
+                    bed at 11 \({40\over 60}\) – sat up reading Nicholson's Cambrian Guide article
+                    Harlech &amp;c.<note type="editorial">See Nicholson, pp. 573-81.</note> &amp;
+                    looked over our accounts – [code: a great deal of discharge yesterday &amp;
+                    today &amp; ever since I left home]<lb/>
+                </p>
+                <lb/>
+                <p>Sunday 21 July<lb/>We had found as much as \({1\over 2}\) hour difference in the
+                    clocks in a single stage – these a quarter later than those at <placeName ref="pl1565">Caernarvon</placeName> which latter I go by – Very rainy night
+                    &amp; morning – enough to wet one thro' in 2 or 3 minutes – Tis very doubtful
+                    whether we can strike out at all today – the weather is so bad &amp; seems so
+                    likely to continue so, and besides we are so limited for time, I think we must
+                    give up <placeName ref="pl1520">Harlech</placeName> &amp; <placeName ref="pl1519">Barmouth</placeName>, <placeName ref="pl1517">Dolgelli</placeName> &amp; <placeName ref="pl1866">Cader Idris</placeName>,
+                    nay! Had it been fine perhaps we might have got to <placeName ref="pl1240">Aberystwyth</placeName> &amp; the <placeName ref="pl3155">Devil's
+                        Bridge</placeName> &amp; <placeName ref="pl3156">Hafod</placeName> – and we
+                    must return by <placeName ref="pl1669">Bala</placeName> from here – came
+                    downstairs at 9 \({1\over 2}\) quite ready for being off if the weather were
+                    better – 12 50/60 after much watching the weather it seemed to clear a little
+                    near 1pm, &amp; we determined to go to <placeName ref="pl1517">Dolgelli</placeName>
+                    <hi rend="superscript">(18 miles)</hi> by the high road (<placeName ref="pl1565">Caernarvon</placeName> road) vid. Cary p. 243<note type="editorial">Possibly a reference to Cary, pp. 169-71 (rather than p. 243), which lists
+                        the Dolgellau-Beddgelert route.</note> – off from <placeName ref="pl1571">Tan y Bwlch</placeName> at 1 \({40\over 60}\) &amp; got to <sic><placeName ref="pl3153">Trawsfynidd</placeName></sic>
+                    <hi rend="superscript">in</hi> 1 32/60 hours – <hi rend="superscript">at 3
+                        12/60</hi> – Trowsfinith pronounced) – a miserable village – perhaps a
+                    tolerable town for North Wales – 6 miles from <placeName ref="pl1571">Tan y
+                        Bwlch</placeName> – <hi rend="superscript">passed</hi> the Highgate Inn, a
+                    small pot-house, &amp; drove a little farther to the Cross Foxes Inn<note type="editorial">‘Wednesday 21 August 1822, the arms of William – Sir Watkin
+                        Williams Wynne of Wynnstay' [marginal authorial note]. Lister is referring
+                        to an inn some four miles outside Dolgellau, set on the junction where the
+                        main roads heading north-south and east-west meet.</note> a good <hi rend="superscript">deal</hi> better in appearance than the other this still
+                    a very common sort of ale-house the road <hi rend="superscript">here</hi> for
+                    the 1<hi rend="superscript">st</hi> \({1\over 2}\) way bad &amp; hilly <lb/>
+                </p>
+                <p>
+                    <pb n="52"/><fw>[f. 52]</fw>the latter pretty tolerable – a tremendous hill just
+                    out of <placeName ref="pl1522">Maentwrog</placeName> where we passed the neat
+                        <hi rend="superscript">looking</hi> little <placeName ref="pl3157">church</placeName> close on our right – In looking down the water saw
+                        <placeName ref="pl1570">Tan y Bwlch</placeName> (<persName ref="pe0939">Mr
+                        Oakley</persName>'s) embosomed in wood on the right of the declivity as we
+                    went down to <placeName ref="pl1571">Tan y Bwlch</placeName> last night – &amp;
+                    on the same side of the vale about 3 miles from <placeName ref="pl1571">Tan y
+                        Bwlch</placeName> on the margins of the lake the village of <placeName ref="pl1523">Ffestiniog</placeName> whence the vale is commonly named by
+                    tourists – the clock here is 30 minutes <hi rend="superscript">later than</hi>
+                    from that at <placeName ref="pl1571">Tan y Bwlch</placeName> &amp; \({1\over
+                    2}\) hour later than <placeName ref="pl1565">Caernarvon</placeName> – the clocks
+                    at <placeName ref="pl1576">Cernioge</placeName> &amp; <placeName ref="pl1528">Capel Curig</placeName> varied about \({1\over 2}\) hour – a little rain as
+                    we set off but rest of the way fair – a shower just as we stopt here – soon lost
+                    sight of the Vale of Festiniog which is certainly very beautiful – well
+                    cultivated, well wooded, &amp; fertile – the road after leaving it bounded by
+                    high rugged mountains more or less distant so distant as scarcely to form what
+                    one would call a vale – the high &amp; bleak intervening ground <hi rend="superscript">[illegible] strewed</hi> with large rude masses of stone
+                    – passed thro' a little wood of moss-grown oaks up a hill near here –
+                        "<placeName ref="pl3153">Trawsfynidd</placeName> a large village" vid.
+                    Nicholson's Cambrian Guide p. 795<note type="editorial">‘<hi rend="superscript">Trawsfynydd</hi>, a large village situated in an open barren country,
+                        where there is a public-house, but Welsh only is spoken.'</note> "a mean
+                    village" vid. p. 1272.<note type="editorial">‘After passing the mean village of
+                        Trawsfynydd, mr. Skrine proceeded to view the famous cascade of
+                        Dolymleynllyn'.</note>
+                    <placeName ref="pl1517">Dolgelle</placeName> 9 \({5\over 60}\) – arrived here at
+                    8 \({5\over 60}\) i.e. twelve miles in 3 \({20\over 60}\) hours having left
+                        <placeName ref="pl3153">Trawsfynidd</placeName> at 4 \({3\over 4}\) – the
+                    first 4 miles of the road very bad made with stones broken into such large
+                    pieces, or paved as it were with them so roughly, we were obliged to walk all
+                    the way &amp; still were shocked &amp; jolted – the country too bleak &amp;
+                    dreary &amp; uninteresting, the mountains receding too far – yet a few little
+                    cottages or poorish little farm houses – almost ricked off the road, when, at
+                    the end of the first 4 miles the mountains began to approach each other, the
+                        <sic>Mawdach</sic><note type="editorial">River which feeds into the Mawddach
+                        Estuary.</note> rushed along its rocky bed on our right, &amp; the scenery
+                    became <hi rend="superscript">wooded &amp;</hi> very fine – by &amp; by crossed
+                    the river &amp; <hi rend="superscript">then</hi> had it all along on our left –
+                    several little streams ruched into the river – one forming a beautiful cascade
+                    close on our right &amp; then rushed thro' a bridge under the road – 2 or 3
+                    gentlemen's seats – the wood, the water, the stupendous mountain ranges one each
+                    side forming a landscape surely not to be surpassed! – the town of
+                        <sic>Dolgelle</sic> finely situated &amp; opened upon us beautifully. Indeed
+                    the whole of the last eight miles of this road baffles description – we have
+                    seen nothing to compare with it – the coming down upon <placeName ref="pl1518">Beddgelert</placeName> is very fine, as also thro' <placeName ref="pe0939">Mr Oakley</placeName>'s woods down to <placeName ref="pl1571">Tan y
+                        Bwlch</placeName>, but I give the preference to the last 8 miles of today
+                    &amp; think no one should visit <placeName ref="pl1221">N.W.</placeName> without
+                    travelling this road – the approach to &amp; view of <placeName ref="pl1338">Penman Mawr</placeName> (which perhaps struck me the most <hi rend="superscript">at the time</hi>; the tremendous grandeur of the 1<hi rend="superscript">st</hi> 3 miles from <placeName ref="pl1518">Beddgelert</placeName> to <placeName ref="pl1571">Tan y Bwlch</placeName>
+                    including Pont Aberglaslyn &amp; the peep down upon <placeName ref="pl1524">Traithmawr</placeName> Sands – and the savage sublimity of the scenery
+                    about <placeName ref="pl3148">Ogwen Pool</placeName> in <placeName ref="pl1529">Nant Frayon</placeName> have together with the last 8 miles of today,
+                    impressed me as the best worth seeing things we have met with – <hi rend="superscript">dinner at 6</hi> My <persName ref="pe2178">aunt</persName>'s bowels not quite well (the cider yesterday might disagree
+                    with her) &amp; she had tea immediately on our arrival – I had part of a loin of
+                    mutton roasted – very good &amp; tender, a piece of salmon boiled &amp; an apple
+                    pie or tart with a bottle of cider, of which I did not quite drink a tumbler
+                    glass – wrote the last 14 lines after dinner – had done them at 10 50/60 having
+                        1<hi rend="superscript">st</hi> settled with <persName ref="pe2198">George</persName>. Very sleepy &amp; went upstairs at 11 [code: my
+                        <persName ref="pe2178">aunt</persName> &amp; I for the first time have a
+                    double bedded room but I have managed to get a dressing room up in the garret –
+                    great deal of discharge] </p>
+                <p> Monday 22 July <lb/> Capital lodgings rooms, good bed &amp; slept well –
+                    Breakfast at 10 – the worst breakfast I have had because the butter strong &amp;
+                    not good &amp; the coffee bad or perhaps the boiled milk a little inclined to be
+                    sourish – Rained all the night sometimes very heavily &amp; rainy morning that
+                    at once we gave up all thought of going to <placeName ref="pl1519">Barmouth</placeName> or doing anything but make the best of our way home –
+                    my <persName ref="pe2178">aunt</persName>'s bowels better this morning but she
+                    looks ill – 'Tis now 12 – have been reading Nicholson's guide ever since
+                    breakfast – (<placeName ref="pl3158">Drws y Nant Inn</placeName>, ale-house by
+                    the road side, W. Jones 8 miles from <placeName ref="pl1517">Dolgelle</placeName>) stopt here to bait the horses at 2 \({20\over 60}\)
+                    having left <placeName ref="pl1517">Dolgelle</placeName> at 12 \({3\over 4}\) –
+                    Beautiful drive as far as here, chiefly thro' wood, the <placeName ref="pl3108">Wnion</placeName><note type="editorial">‘Pronounced as if spelt anglice
+                        Winnion' [marginal authorial note].</note> river accompanying us from
+                        <placeName ref="pl1517">Dolgelle</placeName> &amp; foaming on our right – it
+                    forms several pretty cascades particularly 1 under a bridge perhaps a mile or 2
+                    from here – Just before leaving <placeName ref="pl1517">Dolgelle</placeName>,
+                    for 20 minutes walked round the town – certainly a poor place according to
+                    English ideas – the cottages miserable, tho' apparently of the better sort for
+                        <placeName ref="pl1221"><hi rend="superscript">North</hi> Wales</placeName>
+                    – mud floors – the smell of the peat fires is strong &amp; disagreeable to those
+                    not accustomed <lb/>
+                    <pb n="53"/><fw>[f. 53]</fw>to it – &amp; the large masses of the dark mountain
+                    stone used for building, the unevenness of them in all but the better kind of
+                    houses filled up with lesser fragments give the buildings an unusually dark rude
+                    appearance which, with broken windows, completes the shabby look of the cottages
+                    in <placeName ref="pl1221">North Wales</placeName> – But the fine blue roofing
+                    slate very commonly used is remarkably neat, &amp; seems oddly contrasted with
+                    the rest – there is a sort of square (market place) at <placeName ref="pl1517">Dolgelle</placeName> – on one side the <placeName ref="pl3159">Angel
+                        Inn</placeName> with a penthouse or covered way in front, facing a row of
+                    poor-looking cottages with a covered way also in front – at another side the
+                    "Caravansery" or Red Lion Inn,<note type="editorial">Unidentified.</note> &amp;
+                    opposite to it the <placeName ref="pl3160">Ship Inn</placeName> apparently a new
+                    erection &amp; next best inn to the <placeName ref="pl1886">Golden
+                        Lion</placeName> close to the church to which you turn to the right on
+                    entering the town from <placeName ref="pl1571">Tan y Bwlch</placeName> – this
+                    inn consists of 2 capital erections (for a Welsh town, where the inns seem
+                    generally the best houses) on each side of the street fronting each other – the
+                    one to our left as we arrived has the sign – here everything is cooked &amp;
+                    carried across the street to the other house in which we were the former being
+                    full – but our part had a covered door-way supported on 2 slender pillars &amp;
+                    I think cut the best appearance – the people very civil – woman waiter – steady
+                    elderly woman who had lived there many years – nice steady elderly chambermaid –
+                    stopt a minute at a small stationers shop in the square at <placeName ref="pl1517">Dolgelle</placeName> – a <unclear>cat</unclear> doctoring book
+                    in Welsh &amp; English, <hi rend="superscript">description of</hi>
+                    <placeName ref="pl1517">Dolgelle</placeName> &amp; <placeName ref="pl1866">Cader
+                        Idris</placeName> 2/- – English testament – map of <placeName ref="pl1221">North Wales</placeName> in a case – 2 or 3 Welsh pamphlets in the window –
+                    as we entered the town, near the bridge on the left a handsomish new erection
+                    nearly finished for a town or county hall – In the walls of this as of the
+                        <placeName ref="pl1886">Golden Lion</placeName> &amp; <placeName ref="pl3160">Ship Inn</placeName>, the large masses of stone cut regularly
+                    &amp; look well enough, tho' dark &amp; heavy – the clouds came over the
+                    mountains &amp; we feared a continuance of the rain – we had had only a drop or
+                    2 for a moment once or twice, &amp; seem to have left it behind us – yet the
+                    clouds have quite hid the highest summits of the mountains, yet we have had no
+                    good view of <placeName ref="pl1866">Cadir Idris</placeName> – (<placeName ref="pl1669">Bala</placeName> – <placeName ref="pl3161">White Lion
+                        Inn</placeName> – Ellis 8 \({1\over 4}\) p.m.) Left <placeName ref="pl3109">Drws y Nant</placeName> at 3 \({3\over 4}\) &amp; got here at 5 50/60 – all
+                    the guide books mention the <placeName ref="pl3162">Bull</placeName> as the best
+                    inn; the people at <placeName ref="pl1517">Dolgelle</placeName> recommended us
+                    to the White Lion – Drove thro' the town to compare appearances &amp; stopt at
+                    the latter tho' my <persName ref="pe2178">aunt</persName> thought the <placeName ref="pl3162">Bull's Head</placeName> rather the better looking of the 2 –
+                    However, I think we are right – the landlady is a very nice woman – everything
+                    seems very clean &amp; comfortable &amp;, so far, I should certainly recommend
+                    the house – my <persName ref="pe2178">aunt</persName> had a little mutton broth
+                    with a boiled steak or 2 in it – I had a small loin of mutton (very good)
+                    roasted, good peas &amp; potatoes, &amp; a very good bilberry tart – no wine –
+                    only cold water – Walked a little into the town before dinner (sat down to table
+                    about 7) &amp; also afterwards – better town than <placeName ref="pl1517">Dolgelle</placeName> – we admired it very much as we entered – wide street
+                    7 or 8 young elm trees on our left – a neat town-hall opposite our inn <hi rend="superscript">(our inn on the left)</hi> – a neat church<note type="editorial">Probably a reference to the chapel that stood on the site
+                        now occupied by the parish church, Christ Church; see <ref type="http" target="http://www.coflein.gov.uk/en/site/43832/details/christ-church-bala-gwynedd">here</ref>.</note> a little farther on the same side as the town hall –
+                    the church very neatly pewed (peeped in at the window) &amp; apparently recently
+                    built – 3 or 4 little streets besides the main street &amp; I should think
+                        <placeName ref="pl1669">Bala</placeName> must rank high among the good towns
+                    in <placeName ref="pl1221">North Wales</placeName> – The drive from <placeName ref="pl3109">Drws y Nant</placeName> very uninteresting till we came in sight of
+                    the <placeName ref="pl2101">Bala lake</placeName> – which we kept close on our
+                    right (often no fence to guard the road from it) <hi rend="superscript">up</hi>
+                    to the very town at last within a fields' length – a beautiful sheet of water –
+                    full when we saw it, its surface curled like the waves of the sea &amp; at this
+                    end a little surf – quite as much as we saw at the foot on <placeName ref="pl1338">Penman Mawr</placeName> – the gentlemen's cottages very
+                    prettily situated on the East bank of the lake – very fair road all the way –
+                    great deal of hay to get in <placeName ref="pl1221">North Wales</placeName>
+                    &amp; a good deal to cut – the grass very thin &amp; short, not at all equal to
+                    one of our middling pastures – little corn to be seen anywhere &amp; that only,
+                    thin short oats or barley. I <hi rend="superscript">have</hi> somewhere seen a
+                    little rye, but do not remember any wheat in <placeName ref="pl1221">North
+                        Wales</placeName>. Very few cattle &amp; those only the small black breed
+                    &amp; occasionally a few brindled red – sheep up &amp; down the mountains, but
+                    not so small as I expected. Have only seem 1 <hi rend="superscript">goat a</hi>
+                    little tame thing at <placeName ref="pl1565">Caernarvon</placeName> – I had an
+                    idea of pretty grey Welsh ponys but have seen nothing of the sort – Should not
+                    have known the horses I have seen from English – the weather improved before we
+                    left <placeName ref="pl3109">Drws y Nant</placeName>, &amp; had a pretty fine afternoon. A few drops of rain sent us
+                    in about 8 \({1\over 2}\) but it seems [illegible] off again for the present –
+                    Settled with <persName ref="pe2198">George</persName> &amp; paid the bill,
+                    meaning to be off to <placeName ref="pl1303">Corwen</placeName> at 7 in the
+                    morning – went upstairs at 9 50/60 – [code: Sat up hunting for a frill &amp;
+                    adding up my accounts. Find one pound short] In taking out my purse at
+                        <placeName ref="pl1571">Tan y Bwlch</placeName>, I let fall some sovereigns
+                    &amp; surely did not pick them all up – I must have lost one<note type="editorial">‘Wednesday night 21 August 1822 On settling my accounts at
+                        home found I had not lost a sovereign – I had ommitted setting down the
+                        Cambrian guide bought at Cernioge' [marginal authorial note].</note> [code:
+                    great deal of discharge]</p>
+                <p>
+                    <pb n="54"/><fw>[f. 54]</fw> Tuesday 23 July<lb/> Good bed, very clean &amp;
+                    comfortable &amp; slept well – Rainy night &amp; rainy morning – yet no prospect
+                    of doing any good by waiting &amp; off from <placeName ref="pl1669">Bala</placeName> (the <placeName ref="pl3161">White Lion Inn</placeName>,
+                    John Ellis) at 7 \({25\over 60}\) – the upper road to <placeName ref="pl1303">Corwen</placeName> only ten miles, but had come the lower (14 miles) thro'
+                    the <placeName ref="pl3098">Vale of Edeirnion</placeName> on account of the scenery –
+                    Beautiful vale – the <placeName ref="pl1138">Dee</placeName> nearly close on our
+                    right most of the way – winds most beautifully, flowing gently between its low
+                    banks occasionally prettily wooded – what a contrast to the torrents <hi rend="superscript">which</hi> we have lately been accustomed to a beautiful
+                    vale – But it rained all the way to the last of the turnpikes about or near
+                    \({1\over 2}\) mile from <placeName ref="pl1303">Corwen</placeName> &amp; our
+                    view was sadly spoilt by the thickening of the weather &amp; the gig – top up –
+                    Did not know the town or the inn again – could scarce believe it the same place
+                    we stopt at on Sunday-week (p.44) Left <placeName ref="pl1669">Bala</placeName>
+                    at 7 \({25\over 60}\) &amp; got here in 2 \({20\over 60}\) hours at 9 \({3\over
+                    4}\) – Breakfast immediately – (<placeName ref="pl0793">Llangollen</placeName> –
+                        <placeName ref="pl3086">King's Head</placeName>, new hotel Mr Davis 2
+                    \({3\over 4}\) p.m.) Left <placeName ref="pl1303">Corwen</placeName> at 11
+                    \({35\over 60}\) &amp; got here in 1 \({1\over 2}\) hours (10 miles
+                    government-made road, most excellent in spite of having been almost deluged with
+                    rain) at 1 \({5\over 60}\) – the Vale of Corwen beautiful certainly, but as I
+                    have repeatedly told my <persName ref="pe2178">aunt</persName> would be the
+                    case, it now seemed tame after the scenery we have seen – yet the <placeName ref="pl3098">Vale of Edeirnion</placeName> pleased us, even in the rain,
+                    &amp; we prefer it to that of Corwen which saw more distinctly – as we had the
+                    top down all the way – a drop or 2 of rain just after setting off &amp; a shower
+                    for about the 3<hi rend="superscript">rd</hi> mile from <placeName ref="pl0793">Llangollen</placeName> – heavy rain just after we got in – <persName ref="pe2179">Mrs Davis</persName> received us at the door &amp; came into
+                    our rooms to answer our enquiries after <persName ref="pe0954">Lady Eleanor
+                        Butler</persName>. <persName ref="pe2179">Mrs Davis</persName> was called up
+                    at one last night, &amp; they thought her ladyship would have died – she was,
+                    however, rather better this morning – the physician does not seem to apprehend
+                    danger, but Mrs D- is alarmed &amp; spoke of it in tears. <persName ref="pe0957">Miss Ponsonby</persName>, too, is alarmed &amp; ill herself, on this
+                    account – pain in her side "She is a lady" said Mrs D– "of very strong ideas;
+                    but this would grieve her too" – Mrs D– has only known them 13 or 14 years
+                    during which time she has lived at this house but had always seen them "so
+                    attached, so amiable together" – no two people ever lived more happily – they
+                    like all the people about them, are beloved by all &amp; do a great deal of
+                    good. <persName ref="pe0954">Lady Eleanor</persName> has the remains of beauty.
+                        <persName ref="pe0957">Miss Ponsonby</persName> was a very fine woman.
+                        <persName ref="pe0954">Lady E.B.</persName> about 80. <persName ref="pe0957">Miss P–</persName> 10 or 12 years younger. The damp this bad account casts
+                    upon my spirits I cannot describe – I am interested about these 2 ladies very
+                    much – there is something in their story &amp; in all I have heard about them
+                    here that, added to other circumstances, makes a deep impression. Sat musing on
+                    the sopha, wotting what to do, inconsolate &amp; moody [code: Thinking of
+                        <persName ref="pe2175">M–</persName> Low about her. I cannot shake off the
+                    impression of what she said at <placeName ref="pl0002">Chester</placeName> about
+                    delicacy in calculating <persName ref="pe2177">C</persName>'s life, Mr Powis,
+                    etc. I know not how it is, I am shockingly low altogether.] <persName ref="pe2179">Mrs Davis</persName> being going to enquire after <persName ref="pe0954">Lady E.B.</persName> my <persName ref="pe2178">aunt</persName>
+                    &amp; I walked with her to wait for her giving an answer to our inquiries – the
+                    physician there – strolled about <hi rend="superscript">for</hi> 10 minutes,
+                    &amp; he not being gone &amp; it threatening to rain, returned &amp; only just
+                    got in before a tremendously heavy shower – then sat down &amp; wrote the above
+                    of today. I feel better for this writing – in fact, come what may, writing my
+                    journals – thus, as it were, throwing my mind on paper always does me good.
+                        <persName ref="pe2179">Mrs Davis</persName> just returned – brought <hi rend="superscript">a good account of her ladyship and</hi> a message of
+                    thanks for our enquiries from <persName ref="pe0957">Miss Ponsonby</persName>
+                    who will be glad to see me this evening to thank me in person – shall <hi rend="superscript">go</hi> about 6 \({1\over 2}\) or 7, just after dinner.
+                    [code: This is more than I expected. I wonder how I work my way &amp; what she
+                    will think of me. <persName ref="pe2179">Mrs Davis</persName> wishes me to give
+                    all the comfort, all I can, &amp; not to mention that I know of her having been
+                    called up last night] (9 p.m.) Dinner at 6 [code: Before dinner about two hours
+                    upstairs and washing, cutting my toenails, putting clean things &amp;c] At 7
+                    went to <placeName ref="pl1614">Plas Newydd</placeName> &amp; got back at 8 –
+                    just an hour away &amp; surely the walking there &amp; back did not take me more
+                    than 20 minutes. Shewn into the room next the library (the breakfast room)
+                    waited a minute or 2, &amp; then came <persName ref="pe0957">Miss P–</persName>
+                    a large woman <hi rend="superscript">so as to waddle in walking but</hi> tho'
+                    not taller than myself – in a blue <hi rend="superscript">shortish waisted
+                        cloth</hi> habit, the jacket unbuttoned shewing a plain plaited <hi rend="superscript">frilled</hi> habit shirt – a thick white cravat, rather
+                    loosely put on – hair powdered, parted I think down the middle in front, cut a
+                    moderate length all round &amp; hanging straight, tolerably thick – the remains
+                    of a very fine face – coarsish white cotton stockings – ladies slipper shoes cut
+                    low down, the foot hanging a little over – altogether a very odd figure – yet
+                    she had no sooner entered into conversation than I forgot all this &amp; my
+                    attention was wholly taken by her manners &amp; conversation – <lb/>
+                </p>
+                <p>
+                    <pb n="55"/><fw>[f. 55]</fw> The former, perfectly easy, peculiarly attentive
+                    &amp; well <hi rend="superscript">bred</hi> &amp; bespeaking a person accustomed
+                    to a great deal of good society – mild &amp; gentle, certainly not masculine,
+                    &amp; yet there was a je-ne-sais-quoi striking – her conversation shewing a
+                    personal acquaintance with most of the literary characters of the day &amp;
+                    their works – she seems sanguine about <persName ref="pe0954">Lady
+                        Eleanor</persName>'s recovery – poor soul! My heart ached to think how small
+                    the chance – she told me that her ladyship had undergone an operation 3 times –
+                    the sight of one eye restored! – couching by absorption – I said I believed it
+                    was neither a painful nor dangerous operation – she seemed to think <hi rend="superscript">it</hi> both, the one &amp; the other. Mentioned the
+                    beauty of the place – the books I had noticed in their rustic library – she said
+                        <persName ref="pe0954">Lady E–</persName> read French, Spanish &amp; Italian
+                    – had great knowledge of ancient manners &amp; customs, understood the obsolete
+                    manners &amp; phrases of Tasso<note type="editorial">A reference to the Italian
+                        poet Torquato Tasso (1544-95).</note> remarkably well – had written
+                    elucidatory notes on the first 2 (or 4, I think) books of Tasso, but had given
+                    away the only copy she ever had. Contrived to ask if they were Classical – "No!"
+                    (said she) "Thank God from Latin &amp; Greek I'm free" – Speaking of
+                    translations she mentioned La Cerda's<note type="editorial">The Spanish Jesuit
+                        scholar Juan Luis de la Cerda's (1558-1643) <hi rend="italic">Commentary on Virgil</hi> was
+                        published in 1647.</note> (I think it was) as the best according to some
+                    bishop friend of hers, of Virgil &amp; Cary's<note type="editorial">Henry
+                        Francis Cary (1772-1844), literary translator best known for his translation
+                        of Dante's <hi rend="italic">The Divine Comedy</hi> (1805-14).</note> as being most excellent of
+                    Tasso, literal &amp; excellent for a beginner &amp; which she should recommend
+                    to anyone wanting assistance. She somehow mentioned Lucretius,<note type="editorial">A reference to the first-century poet and philosopher Titus
+                        Lucretius Carus, whose only known work is <hi rend="italic">De Rerum
+                            Natura</hi>.</note> but it was "a bad book &amp; she was afraid of
+                    reading it" – I asked why – he was a deistical writer – I mentioned Dr John
+                    Mason Good's translation,<note type="editorial">English writer and physician
+                        (1764-1827), who published his verse translation of Lucretius's <hi rend="italic">De Rerum Natura as The Nature of Things: A Didactic
+                            Poem</hi> in 1805.</note> adding that I believed he <hi rend="superscript">Dr Good</hi> was not a high church man. "No! She knew he
+                    was heterodox". I observed that <hi rend="superscript">she might think</hi> all
+                    the classics objectionable. "Yes! They wanted pruning, but the Delphin
+                        Editions<note type="editorial">A reference to the Delphin Classics,
+                        published in London by Abraham John Valpy in the early nineteenth
+                        century.</note> were very good – as people got older, she said, they were
+                    more particular – she was almost afraid of reading Cain,<note type="editorial">Byron's verse drama, <hi rend="italic">Cain: A Mystery</hi>, a reworking of
+                        the biblical story of Cain and Abel, was published in 1821.</note> tho'
+                        <persName ref="pe2185">Lord B</persName> had been very good in sending them
+                    several of his works. I asked if she had read Don Juan<note type="editorial">Byron's unfinished epic satire <hi rend="italic">Don Juan</hi> was published between 1819 and 1824
+                        – cantos I-V of the poem had been published by the time of Lister's
+                        visit.</note> – she was ashamed to say she had read the 1st canto – she said
+                    I had named Mr Bankes – &amp; asked if it was Mr Bankes Cleava<note type="editorial">Possibly a reference to William John Bankes (1786-1855). A
+                        note preserved in the Bankes family archive in Dorset History Centre
+                        confirms that Bankes visited Plas Newydd in 1805.</note> – I thought not,
+                    did not know him, but he was the most particular friend of a friend of mine – it
+                    was Mr B– the great Grecian, said to be now the best in England since Mr
+                    Parson's death.<note type="editorial">Unidentified.</note> She did not think he
+                    had ever been there, did not know, did not remember him. She asked if I would
+                    walk out – shewed me the kitchen garden – walked round the shrubbery with me –
+                    she said she owned to their having been 42 years there. They landed first in
+                        <placeName ref="pl1245">South Wales</placeName>, but it did not answer the
+                    accounts they had heard of it – they then travelled in <placeName ref="pl1221">North Wales</placeName> &amp;, taken with the beauty of this place, took
+                    the cottage for 31 years – but it was a false lease &amp; they had had a great
+                    deal of trouble &amp; expense. It was only 4 years since they had bought the
+                    place. Dared say I had a much nicer place at home – mentioned its situation,
+                    great age, long time in the family, &amp;c. She wished to know where to find an
+                    account of it – said it had been their humble endeavour to make the place as old
+                    as they could. Spoke like a woman of the world about liking the place where I
+                    was born &amp;c – said I was not born there – my father was a younger brother
+                    but that I had the expectation of succeeding my <persName ref="pe2186">uncle</persName> – "Ah ,Yes," said she "you will soon be the master &amp;
+                    there will be an end of romance" "Never! Never!" said I. I envied their place
+                    &amp; the happiness they had had there – dared say, they had never quarrelled –
+                    "No!' they had never had a quarrel – little difference of opinion sometimes –
+                    life could not go on without it – but only about the planting of a tree – and
+                    when they differed in opinion, they took care to let no one see it." At parting
+                    she <hi rend="superscript">shook hands with me and</hi> gave me a rose; I said I
+                    should keep it for the sake of the place where it grew – <hi rend="superscript">she had before said she should be happy to introduce me some time to
+                            <persName ref="pe0954">Lady Eleanor</persName></hi> – I had given my
+                        <persName ref="pe2178">aunt</persName>'s compliments &amp; enquiries – said
+                    she would have called with me but feared to intrude &amp; was not quite well
+                    this evening – she (<persName ref="pe0957">Miss P–</persName>) gave me a sprig
+                    of geranium for my <persName ref="pe2178">aunt</persName> with her compliments
+                    &amp; thanks for her inquiries. <persName ref="pe0954">Lady E.</persName> was
+                    asleep while I was there – <persName ref="pe0957">Miss P–</persName> had been
+                    reading to her "Adam Blair"<note type="editorial">A reference to John Gibson
+                        Lockhart's 1822 novel <hi rend="italic">Adam Blair</hi>, which
+                        controversially depicted a clergyman's affair with a married woman.</note>
+                    the little book recommended to me by <persName ref="pe2175">M–</persName> at
+                        <placeName ref="pl0002">Chester</placeName>. I had told <persName ref="pe0957">Miss P–</persName> I had first seen an account of them in La
+                    Belle Assemblee a dozen years ago,<note type="editorial">A reference to Madame
+                        de Genlis's 1804 account of her visit to Butler and Ponsonby, published in
+                            <hi rend="italic">La Belle Assemblée; or, Bell's Court and Fashionable
+                            Magazine</hi> in 1808 (Vol. 5, 99-102). See Fiona Brideoake, <hi rend="italic">The Ladies of Llangollen: Desire, Indeterminacy, and the
+                            Legacies of Criticism</hi> (Bucknell University Press, 2017), p.
+                        281.</note> &amp; had longed to see the place ever since. She said some
+                    people had been very impertinent, particularly <persName ref="pe2187">Dr
+                        Mavor</persName>,<note type="editorial">A reference to William Fordyce
+                        Mavor's account of Mary Carryl at Plas Newydd in volume 5 of his 6-volume
+                            <hi rend="italic">The British Tourist's, or, Travellers's Pocket
+                            Companion</hi> (London, 1809): ‘The cottage in reality deserves its
+                        name. Only two rooms are shewn, – the dining-room and the library. Both are
+                        adorned with exquisite drawings of scenes in Wales, and round the
+                        chimney-pieces are some family miniatures, which were recognised by one of
+                        the party, without applying to the old house-keeper who attended us, and who
+                        is herself an original at full length' (p. 318).</note> who had in some way
+                    displeased (laughed at, or something) their old housekeeper to whose memory they
+                    had erected a monument in the church yard – &amp; it seems the ladies have a
+                    particular objection to <persName ref="pe2187">Dr M–</persName> but <persName ref="pe0957">Miss P–</persName> appears to have lost her teeth &amp;
+                    occasionally mumbles a little that as a stranger I did not always perhaps quite
+                    understand <hi rend="superscript">her</hi> It seems 2 of the Cromptons &amp;
+                    their brother (of Esholt)<note type="editorial">A reference to the Crompton
+                        banking family of Esholt Hall, just north of Bradford. The family comprised
+                        of nine siblings: the three mentioned here are Mary, Henrietta and William
+                        Rookes Crompton. Henrietta's sketchbook of their 1821 Welsh tour survives in
+                        North Yorkshire County Record Office. Lister socialised with the Cromptons
+                        in York; for her opinion on the family see <hi rend="italic">The Secret
+                            Diaries of Miss Lister</hi>, p. 269. For Henrietta Crompton see also
+                            <ref type="http" target="https://collections.britishart.yale.edu/vufind/Record/2036493/Description ">here</ref>.</note> were lately sketching the place. The ladies sent
+                    them chairs – went out to speak to them (for they were retiring, fearing they
+                    had offended the ladies) – formed an acquaintance &amp;, wanting to know
+                    something about the Derwentwater family<note type="editorial">Unidentified.</note> which the C–s could get to know – there has been a
+                    correspondence. <persName ref="pe0957">Miss P–</persName> said she had not
+                    answered their last letter but meant to do it – <persName ref="pe0954">Lady
+                        E.B.</persName> &amp; <persName ref="pe0957">Miss P–</persName> seem great
+                    pedigree people. antiquarians, topographers &amp;c. I came away much pleased
+                    with <persName ref="pe0957">Miss P–</persName> &amp; sincerely hoping <persName ref="pe0954">Lady E–</persName> will recover to enjoy a few years more in
+                    this world. I know not how it is, I felt low after coming away – a thousand
+                    moody reflections occurred, but again, writing has done me good – went <hi rend="superscript">to</hi> &amp; returned from <placeName ref="pl1614">Plas
+                        Newydd</placeName> in a gleam – showery afternoon &amp; evening – I mean to
+                    dry &amp; keep the rose <persName ref="pe0957">Miss P–</persName> gave me – 'Tis
+                    now 10 \({1\over 4}\). Sat talking to my <persName ref="pe2178">aunt</persName>.
+                    Came downstairs at 11 \({10\over 60}\) [code: forty minutes
+                        <unclear>siding</unclear> my things in the imperial – used the syringe with
+                    cold water three times today great deal of discharge]</p>
+                <p>
+                    <pb n="56"/><fw>[f. 56]</fw>Wednesday 24 July<lb/> Came downstairs at 9
+                    \({20\over 60}\) – have just been to the harper to <unclear>tell</unclear> him
+                    some of the most melancholy Welsh airs he knows – Have seen <persName ref="pe2179">Mrs Davis</persName> – <persName ref="pe0954">Lady
+                        Eleanor</persName> has had a good night (<placeName ref="pl1246">Ruthin</placeName>, <hi rend="superscript">Cross-foxes or</hi> Wynnstay
+                    Arms, 4 \({1\over 4}\) p.m.) [deletions] the property of <persName ref="pe0941">Sir Watkin Williams Wynn</persName>, but the <placeName ref="pl3123">White
+                        Lion</placeName> is the best inn – as we do not stop except to bait the
+                    horses did not go to the <placeName ref="pl3123">White Lion</placeName> because
+                    they <hi rend="superscript">rather</hi> ill natured oppose the <placeName ref="pl3086">Kings Head</placeName> at <placeName ref="pl0793">Llangollen</placeName> – yet the waiter recommended us to go there – Left
+                        <placeName ref="pl0793">Llangollen</placeName> at 11 &amp; did not get here
+                    till 3 \({5\over 60}\) being 3 50/60 hours in coming 13 miles the old road is 12
+                    miles the new 14 to save some tremendous hills – at the 2d turnpike from
+                        <placeName ref="pl0793">Llangollen</placeName> there were only some little
+                    boys &amp; perhaps thro' <persName ref="pe2198">George</persName>'s manner of
+                    inquiring (we sent him back to inquire) they sent us the lower way by which we
+                    saved 1 mile before we got into the new road again, but were near an hour
+                    ascending a most tremendous hill, rendered 10 times worse by the road being
+                    furrowed by the rains in all directions – obliged to walk up &amp; got into the
+                    gig again to sit during 2 or 3 heavy showers – about 7 miles from <placeName ref="pl1246">Ruthin</placeName> came into the new road at the <hi rend="superscript">3d</hi> turnpike – the road deluged with rain – cut up to
+                    the nerve &amp; viler than any travelled road I ever saw – it rained heavily the
+                    greatest part of the time &amp; we were obliged to go foot's pace as cautiously
+                    as possible &amp; were still jolted exceedingly – For between 2 and 3 miles
+                    (perhaps) the road lay at the bottom of a deep ravine following the <hi rend="superscript">course of the</hi> paltry <placeName ref="pl3056">river
+                        Clwyd</placeName> (a mere brook quite unequalling the name of river) close
+                    on our left – a couple of miles from the town (<placeName ref="pl1246">Ruthin</placeName>) the road good but heavyish with the rain – It seems a
+                    nice neat town, but I have felt too unwell ever since getting up this morning to
+                    stir out – the acid apple tart I had yesterday disagreed with me. [code: A lax
+                    early this morning before I could get washed]. There is a woman, by the way
+                    squalling <hi rend="superscript">in the house in a very improper way</hi> &amp;
+                    I would not come here again – go to the <placeName ref="pl3123">White
+                        Lion</placeName> – Just before breakfast this morning sent <persName ref="pe2198">George</persName>
+                    <hi rend="superscript">with compliments to <persName ref="pe0957">Miss
+                            Ponsonby</persName></hi> to enquire after <persName ref="pe0954">Lady
+                        Eleanor</persName> – the former much obliged to us for sending – the latter
+                    has had a good night &amp; was better – went into <persName ref="pe2179">Mrs
+                        Davis</persName>'s room &amp; congratulated her &amp; begged her to write me
+                    a few lines in about 10 days, to say how <persName ref="pe0954">Lady
+                        Eleanor</persName> was – said I was going abroad &amp; should feel anxious
+                    to hear – begged her not to name this to <persName ref="pe0957">Miss
+                        P–</persName> gave my address &amp; have no doubt <persName ref="pe2179">Mrs
+                        Davis</persName> will write. Spoke, too, to the waiter about sending us
+                    Welsh mutton – \({1\over 2}\) a sheep will travel better than a less portion on
+                    account of the meat being exposed to the air – the surface of the chine-bone
+                    protecting the meat – it will be 5d a lb &amp; 1 \({1\over 2}\) d a lb carriage
+                    exclusive of one yard of cloth wrapper that will cost a shilling – it will
+                    arrive at <placeName ref="pl0481">Halifax</placeName> in 3 days – stopt a minute
+                    in passing but did not get out to see <placeName ref="pl0785">Vale Crucis
+                        Abbey</placeName> – 1 \({1\over 2}\) miles from <placeName ref="pl0793">Llangollen</placeName>
+                    <hi rend="superscript">a field distant from the road</hi> on our right – part of
+                    the remains covered in &amp; turned into <hi rend="superscript">part of</hi> a
+                    farmstead – the views pretty now &amp; then but almost lost upon us thro' the
+                    extreme badness of the road &amp; weather – the <placeName ref="pl1443">Vale of
+                        Clwyd</placeName> opens upon us richly. At breakfast in <placeName ref="pl0793">Llangollen</placeName> the waiter again brought us the
+                    list-of-company-book – wrote in it the following "Wednesday 24 July 1822. Mrs
+                    &amp; Miss Lister have spent 2 days here &amp; will take every opportunity of
+                    recommending the <placeName ref="pl3086">King's Head</placeName> (<placeName ref="pl0793">Llangollen</placeName>) the conduct of which great credit to
+                        <persName ref="pe2179">Mrs Davis</persName>" - Left <placeName ref="pl1246">Ruthin</placeName> at 5 &amp; got here (<placeName ref="pl3122">The Bull
+                        Inn</placeName>, <placeName ref="pl1477">Denbigh</placeName>) at 6
+                    \({20\over 60}\), that is exactly at the rate of 6 miles an hour, the distance
+                    being 8 miles – Now &amp; then a little sun shiny, good road &amp; fine weather
+                    all the way till a few drops of rain just as we entered the town – pleasant
+                    drive – singular looking town – especially as we drove up the long, steep, wide,
+                    pretty-good street to the <placeName ref="pl3122">Bull Inn</placeName> just
+                    behind the town-house – Market day &amp; the streets pretty full tho' a small
+                    market because it was the fair last week – the house looked full &amp; busy –
+                    besides market people there was a rent-day held here, that of <persName ref="pe2192">Miss Middleton</persName> of <placeName ref="pl1256">Chirk</placeName> – the waiter at <placeName ref="pl0793">Llangollen</placeName> recommended us to the <placeName ref="pl3114">Crown
+                        Inn</placeName>, but the look of it determined me to see the <placeName ref="pl3122">Bull</placeName>, &amp; the latter having much the better
+                    appearance of the 2, here we are – an old house – narrow oak staircases that
+                    have a dirty look, but very civil, attentive people &amp; we are certainly come
+                    to the right house – Ordered dinner in an hour &amp; sat down at 7 \({1\over
+                    2}\). My <persName ref="pe2178">aunt</persName>'s bowels being still far from
+                    well, &amp; myself very bilious, we had minced veal (white) &amp; a light batter
+                    pudding with a lump of preserved apricot on the top - all very good &amp;, quite
+                    contrary to expectation I had some enjoyment of my dinner. During the hour
+                    before dinner we walked round the <placeName ref="pl1880">castle</placeName>
+                    &amp; the bowling green, remarkably pretty &amp; worth seeing, particularly for
+                    the fine bridge there along this fertile, wooded, &amp; therefore beautiful
+                        <placeName ref="pl1443">Vale of Clwyd</placeName> – but the scene is merely
+                    beautiful &amp; tame to us now with a foaming river &amp; mountain grandeur –
+                    the hills are <pb n="57"/><fw>[f. 57]</fw> rounded into curves of beauty without
+                    one trace of the sublime – no water – the want is striking – we have a
+                    comfortable sitting-room upstairs [code: A double-bedded room adjoining &amp; I
+                    have my wash-stand. Dress &amp; undress here in the sitting room]. Got a little
+                    out of our way in leaving <placeName ref="pl1246">Ruthin</placeName> &amp;
+                    passed the <placeName ref="pl3123">White Lion Inn</placeName> – a very nice,
+                    largish-looking house – certainly the place we ought to have gone – <persName ref="pe2198">George</persName> tells me the other was not respectable – the
+                    man <hi rend="superscript">landlord</hi> was a horse-dealer &amp; the squalling
+                    came from his daughter whom some man was laying hold of. Both my <persName ref="pe2178">aunt</persName> &amp; I felt too unwell to stir out again after
+                    dinner. 'Tis now 10p.m. when I have just finished writing the latter half of
+                    today – [code: At ten, discovered a neighbouring double-bedded room at liberty.
+                    Had all moved there &amp; glad to get a place to myself.] Went to my room at 11
+                    \({1\over 4}\) [code: great deal of discharge but not quite as much as two days
+                    ago this last morning &amp; night or two. I have used three syringes of water
+                    instead of two]<lb/></p>
+                <lb/>
+                <p> Tuesday 25 July<lb/> Went to a glove shop on the same side as the inn a little
+                    higher up – <placeName ref="pl1477">Denbigh</placeName> being celebrated for
+                    gloves – the shop shut up (only one shop of note) &amp; the gloves in the window
+                    damaged &amp; very inferior make &amp; appearance – Mrs Salisbury<note type="editorial">Unidentified but possibly the landlady of the Listers'
+                        inn.</note> sent to the glovers' house – he was in his hay field <lb/> &amp;
+                    had taken the key of his shop &amp; his wife who came to us was sorry we could
+                    not wait – Off immediately at 10 \({3\over 4}\) – an hour in getting <hi rend="superscript">the 4 miles</hi> to <placeName ref="pl1371">St
+                        Asaph</placeName> – <hi rend="superscript">walked the horse up</hi> 2 or 3
+                    steepish hills which made us so long – Stopt 20 minutes at the cathedral gate
+                    while we saw the <placeName ref="pl1561">cathedral</placeName> itself – They are
+                    underdrawing in very good <hi rend="superscript">gothic</hi> style the roof of
+                    the nave – Messrs Barrett (I think the woman said) &amp; Parry of <placeName ref="pl0740">Shrewsbury</placeName><note type="editorial">Unidentified.</note> – the cathedral very small but very neat and
+                    altogether a pretty <hi rend="superscript">little</hi> ecclesiastical bijou –
+                    the see worth<note type="editorial">The district under the jurisdiction of a
+                        bishop or archbishop; a diocese (<hi rend="italic">OED</hi>).</note> £7000 a
+                    year the woman said she knew – one steep street, the White Lion (I think) the
+                    only good inn, at the top of it – Left <placeName ref="pl1371">St
+                        Asaph</placeName> at 12 \({5\over 60}\) and stopt at the White Horse
+                    (Richard Mansell, <placeName ref="pl1251">Holywell</placeName>) at 2 \({25\over
+                    60}\), just 2 \({20\over 60}\) hours coming there ten miles – a few steepish
+                    hills, &amp; walking slowly up them made us get on slowly – Fine view of the
+                    Irish Channel estuary of the <placeName ref="pl1138">Dee</placeName> about 2
+                    miles from here – stopt at the turnpike (one mile distant from the town) close
+                    to some mines on our left whence the men gave us some specimens of cubic lead,
+                    calamine, &amp; black jack – From the inn my <persName ref="pe2178">aunt</persName> &amp; I walked down to <placeName ref="pl1979">St
+                        Winifred's well</placeName>, close to the church yard – a woman there at the
+                    well – gave each of us a glass of water &amp; a printed sheet of paper account
+                    of the spring<note type="editorial">For an illustration of the broadsheet that
+                        may have been seen by Lister at St Winifrede's, see <ref target="http://curioustravellers.ac.uk/en/a-fleeting-glimpse-of-c19th-ephemeral-texts/" type="http">here</ref>.</note> for which I gave her 6d &amp; she
+                    certainly was not satisfied. Thence my <persName ref="pe2178">aunt</persName>
+                    and I walked forwards to the village of Greenfield – in returning my <persName ref="pe2178">aunt</persName> left me a little below <placeName ref="pl1979">St Winifred's well</placeName>, &amp; I turned up a lane on the right to
+                    what is called the <placeName ref="pl3121">Holywell level</placeName> – it looks
+                    like a common culvert &amp; arch about a yard from the surface of the water.
+                    There is a small cottage over it, some people live there to prevent children
+                    doing mischief – the culvert or level opens into a small basin where were laid
+                    up 3 of the vessels perhaps 1 yard wide &amp; ten long. The level extends 1
+                    \({1\over 2}\) miles, the woman at the cottage said there is a communication
+                    with it at the mines near the turnpike about one mile from <placeName ref="pl1251">Holywell</placeName>. <persName ref="pe2193">Mr
+                        Harrison</persName> chief manager of the mines &amp; level – the woman gave
+                    me another specimen or 2. Indeed I had first picked them up there &amp; had got
+                    a very good one of black jack from a heap of stones to mend the road with as my
+                    aunt &amp; I walked to Greenfield – Left <placeName ref="pl1251">Holywell</placeName> at 4 \({25\over 60}\) – pretty enough for 3 or 4 miles
+                    from <placeName ref="pl1251">Holywell</placeName> so long as we had the estuary
+                    of the <placeName ref="pl1138">Dee</placeName> full in view – At the mines<note type="editorial">A reference to the Holywell Level lead mine, opened in
+                        1773.</note> near 3 miles from <placeName ref="pl1251">Holywell</placeName>
+                    on the right of the road at a small village asked a man if he could give me a
+                    specimen of the white ore of lead – he knew nothing of it; but when I asked him
+                    for a piece of chat he stooped &amp; picked up a piece from a heap of stones
+                    laid by the roadside to mend it with – <placeName ref="pl0703">Northop</placeName> &amp; <placeName ref="pl1534">Hawarden</placeName>
+                    niceish little towns with good churches – at the latter town a handsome gothic
+                    gateway to Sir Richard Glynn's place<note type="editorial">A reference to the
+                        Glynne family of Hawarden, and probably to Sir Stephen Richard Glynne
+                        (1807-94), 9th baronet, owner of Hawarden Castle, an eighteenth-century
+                        gothic mansion named after the castle in its grounds. See <ref type="http" target="http://www.coflein.gov.uk/en/site/35877/details/hawarden-castle-hawarden">here</ref>.</note> in whose grounds is <hi rend="superscript">the ruin
+                        of</hi>
+                    <placeName ref="pl0788">Hawarden Castle</placeName>. Stopt here at <placeName ref="pl3125">Willoughby's</placeName>, the Royal hotel <placeName ref="pl0002">Chester</placeName>, at 7 \({1\over 2}\), having got here in 3
+                    \({5\over 60}\) hours from <placeName ref="pl1251">Holywell</placeName> – very
+                    good road – walked Percy up 3 or 4 hills – were shewn into the same sitting room
+                    we had a fortnight ago – asked to have the same lodgings rooms &amp; have got
+                    them [code: My <persName ref="pe2178">aunt</persName> went upstairs. I sat
+                    musing on <persName ref="pe2175">M–</persName> thinking I wasted my life in vain
+                    expectation, hoping for a time which she is too delicate to like to calculate.
+                    Somehow I cannot get over this.] Sat down to dinner at 8 ½ – giblet soup –
+                    excellent veal cutlets, potatoes, peas, currant tart &amp; a bottle of port
+                    wine. My <persName ref="pe2178">aunt</persName> better &amp; I felt as usual
+                    again today &amp; have enjoyed my dinner. I have just settled with <persName ref="pe2198">George</persName> &amp; written the last 20 lines of today
+                    &amp; it is now 10 \({40\over 60}\) […]<lb/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

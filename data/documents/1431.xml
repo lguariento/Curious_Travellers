@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1431">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Jones to Thomas Pennant, 21 October 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>15422C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc/>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0322">John Jones</persName>
+                    <placeName ref="pl1553">Bodleian Library</placeName>
+                    <date when="1777-10-21">21 October 1777</date>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1478"/>
+                    <ref type="prev" target="ct1429"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Sir</salute>
+                <dateline><placeName ref="pl1553">Bodleian Library</placeName> Oct 21 1777</dateline></opener>
+                
+                <p>I did not receive your Favour of the 3<hi rend="superscript">d</hi> Instant 'till Sat: Evening last having been Absent from <placeName ref="pl1347">Oxford</placeName> 
+                    about a Fortnight, <del><gap reason="authorial" unit="letters" quantity="2"/></del>which I am the more sorry for as you are desirous of an immediate Answer. I have 
+                    therefore taken the first Opportunity to let you know that I have consulted <bibl type="authorial"><title ref="bi0711">Dodsworth</title></bibl> 
+                    N<hi rend="superscript">o</hi>. 4173, and have sent you <del><gap reason="authorial" unit="letters" quantity="1"/></del>herewith inclosed such Extracts
+                    out of it as I thought any way serviceable to your Purpose.<note type="editorial">No enclosure survives with the manuscript.</note> <bibl type="authorial"><title ref="bi0711">Dodsworth's Collection</title></bibl> 
+                is a very valuable one. It consists of 164 Volumes, of which 49 are of his own handwriting. They are chiefly Copies of Original Deeds charters Pedigrees &amp;c 
+                especially relating to Abbies &amp;c. and as they were collected before the rage of civil War had destroyed the Originals, they are very extensive, 
+                taking in almost all the Counties in England, but as M<hi rend="superscript">r</hi> <persName ref="pe2139">Dodsworth</persName> was a native of <placeName ref="pl0770">yorkshire</placeName> 
+                there are more particulars relating to that County than to any other. I have sent the Passages in 
+                    <persName ref="pe2140">S<hi rend="superscript">r</hi> H. <del>s</del>Spelman</persName> <del>that</del> where mention is made <persName ref="pe2141">de monte alto</persName>. I am Sorry that 
+                    I cannot send you a list of the <placeName ref="pl1216">Denbighshire</placeName> Families this Post, <persName ref="pe2126">M<hi rend="superscript">r</hi> Price</persName> 
+                    not being in Town but is expected every Day. I have made all the Search that the Shortness of the Time would allow about the Arms of <persName ref="pe2142">Ithel Fach</persName> but 
+                to no Purpose.</p>
+               
+                <p>In <bibl type="authorial"><title ref="bi0711">Dodsworth</title></bibl> vol 20 page 44 are the Arms of sundry Gentlemen in <placeName ref="pl1221">Northwales</placeName>. The 
+                    Collection is entitled 
+                    The Auntient Gentry of North <sic>Walls</sic>. Among them I find one <persName ref="pe2142">Ithel vachan</persName> of whom there is this Account. 
+                    <persName ref="pe2142">Ithel Vachan</persName> of hym descended men of <placeName ref="pl0703">Northoppe</placeName>, 
+                    in <placeName ref="pl0702">F<add place="above">l</add>yntshire</placeName> and others  B &amp; Lion passant Arg." – I have examined all the 
+                    Coats therein delineated &amp; 
+                    described but cannot find one that bears the least Resemblance to your Draught.
+                    
+                </p>
+                <p>I am very much obliged to you for the Sketch of the <rs type="art" ref="ar0459">Silver Harp</rs> and am glad to find that <add place="above">you</add> 
+                    intend engraving it.
+                    </p>
+                <p>The vol. of <persName ref="pe2139">Dodsworth</persName> that you refer to treats chiefly of <placeName ref="pl1362">Cheshire</placeName>, in 
+                    particular of the <placeName ref="pl3047">Abbey of S<hi rend="superscript">t</hi> Werburg</placeName> at 
+                    <placeName ref="pl0002">Chester</placeName>. Of the Foundation of it. Confirmation of its Liberties. 
+                    by <persName ref="pe2143">William Rufus</persName> &amp;c &amp;c.<note type="editorial">Pennant writes of a convent of Benedictine nuns
+                        at the monastery of St John in Chester being possibly the remains of one which had belonged to St Werburgh, 
+                        referencing his information to the work of Dugdale, 'Monasticon, i. 507'. See <hi rend="italic">A tour in Wales 1770 [1773]</hi> 
+                        (2nd edn., 1784), pp. 193–4.</note></p>
+                <p>I have nothing to communicate to you relative to the Eisteddfa,<note type="editorial">'Eisteddfod'. See further <ref target="1385.xml">1385</ref> and 
+                    <ref target="1428.xml">1428</ref>, nn. 2, 10.</note> none of the MSS that I know of give any account of it except what you have already received. If 
+                    in the mean Time any thing relating to it falls in my Way, you may depend upon receiving it by the first Opportunity. I am</p>
+                <closer><salute>Sir<lb/>
+                    your most obedient humble Servant
+                </salute>
+                    <signed><persName ref="pe0322">Jno Jones</persName></signed></closer>
+                
+            </div>
+            
+            
+        </body>
+    </text>
+</TEI>

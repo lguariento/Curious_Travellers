@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1136">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 96</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1791-06-09"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I hope this will find you &amp; yours safely landed &amp; in full enjoyment of y<hi rend="superscript">r</hi>
+                    delicious <placeName ref="pl1020">isle</placeName>. As to myself the excessive heat of the weather has so enervated me 
+                    that I am far from well.</p>
+                <p>You will be pleased to add to the Bill 2. 11. 6. for <persName ref="pe0404">my Secretary</persName>'s work. It will be sufficient: especially as I 
+                    give him his time. He has merit so deserves favor: sober, attentive, modest. As to Birds you may have as many as you please; 
+                    done on thin paper so you may paste them on y<hi rend="superscript">r</hi> margins. If you have any persons in y<hi rend="superscript">r</hi> 
+                    <placeName ref="pl1020">isle</placeName> who know a hawk from a Heronshaw, or in the vulgar from a hand-saw.<note type="editorial">Cf. William Shakespeare, <hi rend="italic">Hamlet</hi>, Act II, scene ii, line 352.</note> you may send me a list particularly of the Cliff birds 
+                    &amp; they may decorate the margins of <bibl type="authorial"><title ref="bi0269">Vectis</title></bibl>. 
+                    <persName ref="pe0416">My friend</persName> near <placeName ref="pl0806">Worcester</placeName> has <rs type="art" ref="ar0306">Lusty Packington</rs>
+                    drawn: but at the imposing price of 2.2.0. I must take it: <persName ref="pe0014">Moses</persName> will copy it as well for much less: 
+                    but will you grudge to share the imposition. It is arrived here <sic>yet</sic>. I expect y<hi rend="superscript">r</hi> parcel on Saturday. I will take care to answer 
+                    <persName ref="pe0237">my Sister</persName>.</p>
+                <p>As to <persName ref="pe0014">Moses</persName> his time shall be divided this year between you &amp; me: I must allow now 
+                    &amp; then a friendly interloper but that will be seldom. I see before new four folio M.S.S. bound in vellum &amp; 
+                    finely decorated on the outsides by <persName ref="pe0014">moses</persName>: &amp; three others in half binding <del>&amp;</del>
+                    and <bibl type="authorial"><title ref="bi0475">a northern english Tour</title></bibl><note type="editorial">This probably refers to 'A Journey taken in 1773, through some of the internal parts of Cheshire, Lancashire, Yorkshire, Westmoreland, and Cumberland, as far as Alston Moor', as described in Pennant's summary of the volumes of his 'Outlines of the Globe' in <hi rend="italic">HPWaH</hi>, at p. 322. This is numbered as the final volume, no. XXII, in the 'Outlines'. For an extra-illustrated manuscript version of 'From Alston Moor to Harrowgate', the opening of which reads 'I now resume the tour which I had left unfinished at Alston Moor p. 234 of vol. XXII of the Outlines of the Globe', see NLW 12708E.</note>
+                    also in vellum so you will think I have not passed three years in Idleness for that is the space they took up.</p>
+                <p>When you are at a loss for a franker Pray inclose to <persName ref="pe0015">Sir Roger Mostyn</persName> Bart at 
+                    <placeName ref="pl0695">Mostyn Flintshire</placeName>: &amp; use y<hi rend="superscript">r</hi> seal of arms that I may distinguish 
+                    y<hi rend="superscript">r</hi> letters.</p>
+                <p>my Bankers are <persName ref="pe0329">Gosling &amp;<hi rend="superscript">co</hi></persName> <placeName ref="pl1012">Fleetstreet</placeName>:
+                    Do not forget to charge the pencils &amp;c &amp;c.</p>
+                <closer>
+                    <salute>Adieu
+                    <lb/>Dear Sir
+                        <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T. Pennant</persName>.</signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> June 9<hi rend="superscript">th</hi> 1791.</dateline>
+                </closer>
+                <postscript>
+                    <p>I hope you will soon send me word that our Fleet is sent into quiet quarters. Pray what authentic news from <placeName ref="pl0925">France</placeName>?</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0223">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on booksellers' arrangements for John
+                    Lightfoot's <hi rend="italic">Flora Scotica</hi></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>181-182</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1777-05-20"/>
+                    <placeName ref="pl0692">Harrogate</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0224"/>
+                    <ref type="prev" target="ct0222"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>Dear Sir</opener>
+
+                <p><persName ref="pe0139">M<hi rend="superscript">r</hi> Lightfoot’s</persName>
+                    <bibl type="authorial"><title ref="bi0231">Flora scotica</title></bibl> is so near
+                    publication, that I would advise any bookseller you chuse to favor to apply to
+                    <persName ref="pe0026">M<hi rend="superscript">r</hi> White</persName> for any
+                    number of copies He chuses for I imagine it will be a popular Book. <persName ref="pe0026">M<hi rend="superscript">r</hi> White</persName> has the sale of it so
+                    the contract must be made with him. I continue here about 3 weeks; &amp; shall
+                    be glad to hear from you.</p>
+                <closer>I am <lb/><salute>D<hi rend="superscript">r</hi> Sir <lb/>Y<hi rend="superscript">r</hi> most obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                <dateline><placeName ref="pl0692">Harrowgate</placeName>
+                    <lb/><placeName ref="pl0770">Yorkshire</placeName>
+                    <lb/>May 20<hi rend="superscript">th</hi> 1777.</dateline></closer>
+                <postscript>
+                    <p>Pray put the inclosed into the Post.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> George Paton</addrLine>
+                        <addrLine>Custom house</addrLine>
+                        <addrLine>Edinburgh.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

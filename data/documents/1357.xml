@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1357">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Philip Yorke to Thomas Pennant, 17 November 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>Warwickshire County Record Office</repository>
+                        <idno>CR2017 /TP23/4</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc><p><hi rend="italic">Condition</hi>: slight damage to the manuscript</p></physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0243">Philip Yorke</persName>
+                    <date when="1777-11-17"/>
+                    <placeName ref="pl1244">Erthig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref=""/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1358"/>
+                    <ref type="prev" target="ct1356"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>
+                    <salute>Dear Sir;</salute><dateline><placeName ref="pl1244">Erthig</placeName>, 
+                        Nov<hi rend="superscript">r</hi>: 17<hi rend="superscript">th</hi>. 1777–</dateline></opener>
+                
+                <p>I received with great pleasure your Commands by our friend <persName ref="pe0691">Owen Wynne</persName>;<note type="editorial">Owen 
+                    Wynne has not been identified.</note>  I divided the Contents between two Covers, for I found that the large single <sic>Pacquet</sic>, 
+                    which brought them enclosed to me, weighed considerably above two Ounces. <persName ref="pe0692">M<hi rend="superscript">r</hi>. Newcome</persName> 
+                    dined with me last Thursday, and he encourages me to dislodge that <hi rend="underline">ancient</hi> <hi rend="underline">Briton</hi> from his 
+                    snug Situation under the Wall of his Church:<note type="editorial">This may refer to <placeName ref="pl1257">Gresford Church</placeName>, 
+                        which featured a statue sometimes described as representing Henry VII. Cf. also a note by Trevor Parkins in the 1883
+                    edition of Pennant's <hi rend="italic">A tour in Wales</hi>, which mentions the discovery of a tombstone upon the demolition of wall at the old mansion of Pantiocyn near Gresford. On the stone, there was 'a shield with a lion rampant on it, and the inscription, 
+                        <hi rend="italic">Hic jacet Griffri</hi>'. Parkins noted that the stone had subsequently been taken to Gresford Church, whence he believed it had come originally.<hi rend="italic">Tours in Wales by Thomas Pennant, Esq</hi> ed. by John Rhys (3 vols., Caernarvon: H. Humphreys, 1883), I, p. 388.</note> My Mason (who is a <gap quantity="1"/>careful Person, and like his 
+                    Master, having a due veneration for Antiquities) will go over with me for that purpose, and we will serve <persName ref="pe0693">Wilkinson</persName> 
+                    the Herald with notice, if he should be at <sic>liesure</sic> to attend us in the Course of the next week. By the marginal note in 
+                    <persName ref="pe0333">M<hi rend="superscript">r</hi>. Lloyd</persName>'s <bibl type="authorial"><title ref="bi0592"/>Powell</bibl>, 
+                    this Monument should be given to <persName ref="pe0700">Madoc ap Llewellin ap Griffri</persName>, who was buried (according to our Antiquary) 
+                    in the <placeName ref="pl1257">Church of Gresford</placeName>, circiter Annum 1330, the 4<hi rend="superscript">th</hi>. of <persName ref="pe0695">Edw<gap quantity="2"/>ard 
+                        the 3<hi rend="superscript">d</hi></persName>. If the Inscription be <sic>decypherable</sic>, and shall square with <persName ref="pe0333">M<hi rend="superscript">r</hi>. Lloyds</persName> 
+                    Intelligence, there seems no difficulty in pointing out the Person –<note type="editorial">Yorke mistakenly identifies Madog 
+                        ap Llywelyn ap Griffri, who died in 1331, with Madog ap Gruffudd Fychan (Madog Grupul; c.1275–1304/6). See further n. 5, below.</note> 
+                    He was the Son of <persName ref="pe0647">Gruffith y Barwyn Gwyn (or the White Baron) Lord of Glyn dyfy<gap quantity="1"/>rdwy</persName>, 
+                    and succeeded his Father, and died possessed of that L<gap quantity="1"/>ordship; He is called by the Welsh Heralds and Historians: 
+                    <persName ref="pe0694">Madoc Grupul</persName>, and was the Great-Great Grandfather of <persName ref="pe0495">owen Glyndyfyrdwy</persName>, 
+                    who inherited that Estate in Succession from him. This <persName ref="pe0647">Baron Gwyn</persName> (the Father of 
+                    <persName ref="pe0694">Grupul</persName>) was the third of the four unfortunate Sons of <persName ref="pe0643">Griffith Lord of Dinas-Bran</persName>, 
+                    Temp: <persName ref="pe0649">Hen: 3d</persName>. The two Elder (<persName ref="pe0645">Madoc</persName>, &amp; <persName ref="pe0646">Llewellin</persName>,) 
+                    inherited f<hi rend="superscript">m</hi>. their <persName ref="pe0643">Father</persName> in Gavel, the two 
+                    Bromfeilds,<note type="editorial">Yorke refers to <placeName ref="pl1213">Maelor Gymraeg</placeName> and 
+                        <placeName ref="pl1218">Maelor Saesneg</placeName>, both also known by the name 'Bromfield'.</note> and the Lordships of <placeName ref="pl1211">Yale</placeName>, 
+                    and <placeName ref="pl1259">Nanthewdwy</placeName>; They were wards. (as you well know) to <persName ref="pe0651">Earl Warren</persName> &amp; 
+                    <persName ref="pe0697">Roger Mortimer</persName>; by whom, they were dispossess'd, and dispatched privately:<note type="editorial">Yorke here apparently 
+                        draws on Davies, <hi rend="italic">A display of herauldry</hi>, pp. 19–20. The story of the two sons being 'dispatched privately', is recounted in 
+                        <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), I, p. 210, where Pennant also wrongly identifies them as the elder sons of Gruffudd ap 
+                        Madog (Gruffudd of Bromfield). Modern scholarship records the death of Gruffudd and Llywelyn, the young sons of Madog ap Gruffudd, grandsons to 
+                        Gruffudd ap Madog, noting the tradition that they were drowned in the river Dee at Holt on the orders of John de Warenne and Roger Mortimer and 
+                        on the instructions of Edward I. <hi rend="italic">ODNB</hi> s.n. Madog ap Gruffudd.</note>  When, the 
+                    <persName ref="pe0648">4<hi rend="superscript">th</hi>. Son</persName> of <persName ref="pe0643">Gruffith Lord of Dinas</persName>, had the Moiety 
+                    of <gap quantity="1"/><placeName ref="pl1281">Cynllaeth</placeName>; He was intended for the Church, but died young, and his Patrimony 
+                    Devolved to his Brother <persName ref="pe0647">Griffith</persName>, and thro' him, was continued <gap quantity="several"/> 
+                    <persName ref="pe0495">Glyn dyfrydwy</persName>, the legal Representative of the <persName ref="pe0701">House of Powys Fadoc</persName> 
+                    (before it was dismembered,) and the lineal descendant of <persName ref="pe0630">Merfyn</persName> the third Son of 
+                    <persName ref="pe0626">Rodericus Magnus</persName>, Princeps tertius Walliæ.<note type="editorial">'the third prince of Wales'.</note> 
+                </p>
+                <p>It seems particular that <persName ref="pe0694">Madoc Grupul</persName>, should bear the Addition :ap <sic>LLewellin</sic>, 
+                    <sic>seing</sic> that neither his <persName ref="pe0647">Father</persName>
+                    or <persName ref="pe0643">Grandfather</persName>, had that appellation;  His Uncle had :<persName ref="pe0702">ap Griffri</persName> 
+                    is very Intelligible; his <persName ref="pe0698">Mother</persName>
+                    being the Daughter of <persName ref="pe0699">Cadwgan ap Griffri</persName> – It does not appear, that any of the Princes of the 
+                    <persName ref="pe0701">House of Powys Fadoc</persName>, or of its Gavelled Divisions, had sepulchure at <placeName ref="pl1257">Gresford</placeName>.</p>
+                <closer><salute>
+                    I am Dear Sir,<lb/>
+                    Your affect: Friend<lb/>
+                    &amp; Faithful Serv<hi rend="superscript">t</hi>.
+                    <lb/>
+                    
+                    </salute>
+                    <signed><persName ref="pe0243">Ph: Yorke</persName> –</signed>
+                    </closer></div>
+            
+            
+        </body>
+    </text>
+</TEI>

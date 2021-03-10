@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1367">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Lloyd, Hafodunos and Wigfair, 30 March 1771</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>NLW</repository>
+                        <idno>12421D</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc><additions><lb/><hi rend="italic">Endorsement</hi>: <persName ref="pe0232">Pennant</persName></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1771-03-30">30 March 1771</date>
+                    <placeName ref="pl0002">Chester</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0803">John Lloyd</persName>
+                    <placeName ref="pl1344">Garden Court, Temple</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1368"/>
+                    <ref type="prev" target="ct1366"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>
+                    <salute>Dear Sir</salute></opener>
+                
+                <p>Your kind Letter came safe: I have little more to say than to beg the favor of you to make enquiry for my lodgings at my 
+                    sisters<note type="editorial">Pennant refers to his twin sisters, <persName ref="pe0237">Catherine</persName> and 
+                        <persName ref="pe0807">Sarah</persName> Pennant.</note> if I should not be able to call on you the 9<hi rend="superscript">th</hi> 
+                    of next month in the morning. Let me beg the favor of you to call on <persName ref="pe0026">white</persName> the Bookseller &amp; 
+                    <sic>teise</sic> him to advertise my <bibl type="authorial"><title ref="bi0045">Synopsis of Quadrupeds</title></bibl> as I have so often 
+                    desired; &amp; to make him tell you has he done it. I set out on wednesday but shall be some days on the road by reason of calling at two places. 
+                    I am Dear Sir</p>
+                
+              
+                <closer><salute>Most truely y<hi rend="superscript">rs</hi>
+                </salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed></closer>
+                <postscript><p><persName ref="pe2110">B. Williams</persName> &amp; I have <sic>shoke</sic> hands &amp; are good friends again.</p></postscript>
+                
+                
+         
+                
+            </div>
+            <div><p><stamp type="postmark">1 AP</stamp>
+                <stamp type="handstamp"><placeName ref="pl0002">CHESTER</placeName></stamp></p>
+            </div>
+            
+            <div>      
+                <p><address><addrLine>To<lb/><persName ref="pe0803">John Lloyd esq<hi rend="superscript">r</hi>.</persName> N<hi rend="superscript">o</hi>. 1.<lb/> 
+                    <placeName ref="pl1344">Garden Court in the Temple</placeName> <lb/> <placeName ref="pl0699">London</placeName>.
+                    </addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1422">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to William Owen [Pughe], 4 October 1794</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>13222C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>pp. 395–8</locus></ab>
+                    </msContents>
+                    <physDesc/>
+                    <additional><p>A rectangular section (containing Pennant's signature) has been cut out, with an effect on the reverse page where the address was written.</p></additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                    <date when="1794-10-04"/>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe2111">William Owen [Pughe]</persName>
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1424"/>
+                    <ref type="prev" target="ct1420"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Dear Sir</salute>
+                <dateline><placeName ref="pl0001">Downing</placeName> oct<hi rend="superscript">r</hi> 4<hi rend="superscript">th</hi> 1794.</dateline></opener>
+                
+                <p>I must beg of you to send the 6 copies of the 2<hi rend="superscript">d</hi> vol. of your 
+                    <bibl type="authorial"><title ref="bi0705">dictionary</title></bibl> to <persName ref="pe0328">M<hi rend="superscript">r</hi> Faulder</persName>’s 
+                    who will pay for them. Pray repeat it as often as a volume comes out. </p>
+                
+                <p>In my calamitous journey to <placeName ref="pl0699">town</placeName> I had not leisure to see you which I regret. let me trouble you 
+                    with two requests. You knew <sic>M<hi rend="superscript">r</hi></sic> <persName ref="pe0333">M<hi rend="superscript">r</hi> Lloyd</persName> 
+                    of <placeName ref="pl1201">Caerwis</placeName>. I undertook to serve his <persName ref="pe0741">widow</persName> &amp; 
+                    <persName ref="pe1741">ten children</persName> in all I could, &amp; have been successful in raising a subscription of near 200£. 
+                    The <persName ref="pe2124">2<hi rend="superscript">d</hi> daughter</persName> is too old to be put out apprentice: she is above 22 years 
+                    old but has been so well educated as to be very capable of being a teacher in any of the great boarding schools. She is sensible well 
+                    disposed &amp; has been educated at <placeName ref="pl2424">chester school</placeName>. I shall be extremely obliged to you for enquiring at any of the great schools, &amp; 
+                    you will do a truely charitable deed.</p>
+                
+                <p>I am most desirous of getting into our <placeName ref="pl3041">welsh school</placeName> <placeName ref="pl3042">Grays inn lane</placeName> 
+                    the child of which a note is inclosed.<note type="editorial">The enclosure is not preserved with the letter. Minutes of the Welsh School show that 
+                        children were admitted through election by ballot, following recommendation by petition. Meetings around this date do not record any recommendations 
+                        made by Pennant, but note that no recommenders are named in the minutes for 2 February 1795, which may signal an omission in the records for that date. 
+                        NLW, Welsh School, Minute book 1778–1796, 5 November 1794, 5 January, 2 February, 9 March 1795.</note> I do not know any one of the school, nor do I 
+                    know the rules. I gave the charity 100£ for which I never received the lest complim<hi rend="superscript">t</hi> or civility. A <persName ref="pe2125">M<hi rend="superscript">r</hi> 
+                    Rich<hi rend="superscript">d</hi> Jones</persName> once said he w<hi rend="superscript">d</hi> send me a governors staff. but my grateful countrymen thought me unworthy 
+                    of it. <sic>I</sic></p>
+                
+                <closer><salute>y<hi rend="superscript">r</hi> faithful Serv<hi rend="superscript">t</hi> 
+                </salute>
+                    <signed><persName ref="pe0232">Th. Pennant</persName></signed><note type="editorial">The signature is inserted in another hand, the original 
+                    having been cut out by a collector.</note></closer>
+                <postscript><p>Pray inclose to <persName ref="pe0015">Sir Roger Mostyn</persName> M. P<lb/> <placeName ref="pl0695">Mostyn</placeName><lb/> <placeName ref="pl0702">Flintshire</placeName></p></postscript>
+            </div>
+            
+            <div>
+                <p><address><addrLine><persName ref="pe2111">Mr William <gap reason="page torn" unit="letters" quantity="2"/>en</persName><lb/>
+                </addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

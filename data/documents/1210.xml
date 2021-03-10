@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1210">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>64</locus></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                    <additional><p><hi rend="italic">Condition</hi>: small tears at seal</p></additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1797-12-04"/>
+                    <placeName ref="pl0759">Stratton street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0759">Stratton street</placeName>. December 4. 1797 <lb/>P.S. I am afraid there is no truth, in what I have
+                    <lb/>said concerning <persName ref="pe0500">M<hi rend="superscript">r</hi> Pitts</persName>, altering his intended tax. –</dateline>
+                    <lb/>P.S. I am afraid there is no truth, in what I have
+                    <lb/>said concerning <persName ref="pe0500">M<hi rend="superscript">r</hi> Pitts</persName>, altering his intended tax. –
+                </opener>
+                <p>I did not well know where to direct an answer to your last, which is dated <hi rend="underline"><placeName ref="pl0001">Downing</placeName></hi>
+                    October 19<hi rend="superscript">th</hi>, altho the body of the letter seems to indicate you were then at <placeName ref="pl0796">Bath</placeName>.
+                    By this time however, I have little doubt of your being return’d to your own domestic comforts, and I trust in better health, and with every feeling of satisfaction, respecting the important business that carried you to 
+                    <placeName ref="pl1347">oxford</placeName>. a <hi rend="underline"><persName ref="pe0421">Son of yours</persName></hi>, 
+                    is not likely to be led astray, or corrupted, by bad examples, and he has <persName ref="pe0065">David</persName>'s exemplary conduct to look up to, and to the success that follows his prudent, and well govern’d passions, and the pains he has always taken to improve his mind.</p>
+                <p>
+                    I am and just now, wonderfully well, and walk’d from hence a day or two ago, to the <placeName ref="pl2616">South Sea House</placeName>,
+                    and back again, without fatigue. The bank, I found very exact relative to <persName ref="pe0500">M<hi rend="superscript">r</hi> Pitts</persName>
+                    <hi rend="underline">wise</hi> restrictions; I could <add place="above">not</add> get one Guinea in a payment of £400, but there is a large quantity of gold, in circulation, and the bankers in general, pay cash whenever desir’d to do so.</p>
+                <p>
+                    If the French Directory<note type="editorial">France was governed by the Directory between 1 November 1795 and 9 November 1799. Jones, <hi rend="italic">Longman Companion to the French Revolution</hi>, p. 82.</note>
+                    had been in the pay of the English Ministry, it could not have serv’d the latter more effectually than by the last malevolent declaration. it speaks too plainly, their savage intentions towards 
+                    <placeName ref="pl0777">this Country</placeName>, and every man seems to understand it as he should do: It has been an electrical stroke, to people of all parties, and tis now the fashion to wish an Invasion may be attempted, that the whole world may bear witness how invulnerable 
+                    <placeName ref="pl0775">England</placeName> can be, when united for the defense of their glorious Constitution. There are letters in 
+                    <placeName ref="pl0699">town</placeName> from <placeName ref="pl1023">Paris</placeName>, stating that some violent explosion is likely to take place <add place="above">there</add>
+                    very shortly; in the mean time it is said our Ministers receive frequent information from smugling Boats, that an embarkation is now making at 
+                    <placeName ref="pl2617">Dunkirk</placeName>, with an intent to endeavor to land a large body of men, some where near <placeName ref="pl2618">Dungeness</placeName><del>,</del><add place="below">(where we are most open to invasion)<del>,</del></add>
+                    as a prelude to some greater attempt, and with the hopes of being join’d by the malecontents of this country, in which I believe they reckon without their host. it is certain that of late a larger force than ordinary, both of Army and navy, has been collected on the 
+                    <placeName ref="pl2619">Kentish Coast</placeName>, probably with the expectation of this threaten’d landing.<note type="editorial">This news reflects fears, prevalent in Britain between 1797 and 1815, of a French invasion. One contemporary paper reported that 'Twenty-five thousand French troops have marched from the neighbourhood of Ehrenbreitstein for Dunkirk and the coasts of Belgium' (<hi rend="italic">Hull Advertiser and Exchange Gazette</hi>, 2 December 1797); another that 'Ten or twelve thousand men, from the left wing of the army of Flanders, are to form a camp near Dunkirk', the 'English' in response 'station[ing] a number of frigates, cutters, and other shipping, opposite to the coast of Maritime Flanders' (<hi rend="italic">Gloucester Journal</hi>, 4 December 1797). More generally on the British response to the invasion threat in this period see Mark Philp (ed.), <hi rend="italic">Resisting Napoleon: The British Response to the Threat of Invasion, 1797–1815</hi> (Aldershot, Hants: Ashgate, 2006).</note>
+                    it is said that <persName ref="pe1788">Bounaparté</persName> means to go to <placeName ref="pl1023">Paris</placeName>, by the advice and desire of his friend 
+                    <persName ref="pe0366">Barras</persName>, but if he is fool enough to venture thither, most likely it will be, like our <persName ref="pe1812">Monk</persName>,
+                    to restore Royalty, <sic>espeacially</sic> if he can depend upon his Army, as it is suppos’d he can.<note type="editorial">On Napoléon's arrival in Paris, see <ref target="1215.xml">1215</ref> n. 9.</note> I saw a letter from <placeName ref="pl2346">Venice</placeName>,
+                    speaking of him as apparently leaning to Aristocracy. He lives in a Splendor, that leaves all Sovereigns far behind him; while at <placeName ref="pl2346">Venice</placeName>,
+                    he had four tables most luxuriously spread, every day, and twenty covers for Breakfasts.</p>
+                <p>
+                    it is now said, but <hi rend="underline">I know not how truly</hi>, that <persName ref="pe0500">M<hi rend="superscript">r</hi>. Pitt</persName>,
+                    by advice of some of his own best friends, gives up the raising the seven millions upon the vast <add place="above">intended</add>
+                    increase upon the already loaded assess’d taxes, and that he means that Government should take into its own hands, the business of underwriting, and insuring all Vessels, homeward, or outward bound, which it is imagin’d at five per Cent upon the Exports, and imports, will produce a much larger sum than would 
+                    <del>arr</del> arise from the tripling, or quad<del><gap unit="letters" quantity="1" reason="illegible"/></del>rupling the present assess’d taxes, and would be a much more popular plan.<note type="editorial">William Pitt's speech of 24 November 1797 acknowledged the need for greater taxes and envisaged a single general tax known as the triple assessment, which would triple the rates of existing assessed taxes but incur no additional administrative expenditure, because no new form of assessment was required. This rejected heavy increases in taxes and duties overall and ruled out a general property tax and income tax, but introduced exemptions and graduated scales, designed to place the burden on the wealthy, so was effectually a graduated income tax. The bill was attacked in the Commons and revised before an act was passed on 12 January 1798. All this was in aid of meeting an expected public deficit of £21 million–£22 million without too much reliance on borrowing. Pitt’s original plan would have yielded around £7 million net; after revisions it yielded £4.5 million; but a clause was added to enable the most wealthy to make added voluntary contributions at the scale of one fifth of their income, and this yielded more than £2 million. <hi rend="italic">ODNB</hi> s.n. William Pitt (1759–1806).</note>
+                    it is astonishing what payments some of the Great ones, must have been subject to had it taken place; <persName ref="pe1406">Lord <del>Londale</del><add place="above">Lonsdale</add></persName>
+                    in particular, has 150 Servants, liable to the tax, and Horses and Carriages without number, and tis said his quantum upon his present establishment, would have been very near 3000£. – the 
+                    <persName ref="pe1813">Duke of Bedford</persName>, is reported to have offer’d to pay down 10,000<hi rend="superscript">£</hi>,
+                    upon condition of not being call’d upon again for a War tax, during the present war. I am sorry not to have any news to tell you, but I am not much in the way of hearing it, and less in the way of getting my letter frank’d, but perhaps some member 
+                    ma<supplied>y</supplied> drop in before 5 o’clock.</p>
+                <p>
+                    not having my books in the <placeName ref="pl1020">Isle of Wight</placeName>, it was not in my power, <supplied>on</supplied> my return to
+                    <placeName ref="pl0699">London</placeName>, to give you the answer, which you kindly desir’d me to send, in regard to the deficiencies, which 
+                    <persName ref="pe0014">M<hi rend="superscript">r</hi> Griffith</persName>'s inaccuracy, has occasion'd in my copy of the 
+                    <bibl type="authorial"><title ref="bi0023">artic Zoology</title></bibl>. He never return’d the <hi rend="underline">title page to VOL.  I, which hath in the middle of it, 
+                        the <rs type="art" ref="ar0354">head of the Elk</rs>,</hi>
+                    and which was to have been illuminated by colouring it. nor have I got back the directions for placing the plates of vol: I. – nor the title Page to VOL. II.  having in it, 
+                    <rs type="art" ref="ar0355"><hi rend="underline">the Pied Duck</hi></rs>, nor the directions for placing the plates of VOL. II.<note type="editorial">The directions for placing the plates for both volumes of the <hi rend="italic">Arctic zoology</hi> are found immediately preceding the 'Introduction of the Arctic World' in <hi rend="italic">Arctic zoology</hi> (2 vols., 1784-5), I, unpaginated. In <hi rend="italic">Arctic zoology</hi> (2 vols., 2nd edn., 1792), I, the directions occupy a single page, unpaginated, at the beginning of the volume, entitled 'Directions for placing the plates'; with the same pattern followed for vol. II.</note>
+                    He likewise has omitted sending back the title page to the <bibl type="editorial"><title ref="bi0690"><hi rend="underline">Introduction</hi> to the Arctic Zoology</title></bibl>,<note type="editorial">It is not clear what was intended as the title page to this section of <hi rend="italic">Arctic zoolog</hi>y. It is likely that the work itself was the first volume of the second edition, entitled <hi rend="italic">Introduction to the Arctic zoology</hi>.</note>
+                    and the advertisement of five leaves, that follows it,<note type="editorial">This unpaginated, six-page 'Advertisement', dated 1 February 1785, is placed at the beginning of the copy of <hi rend="italic">Arctic zoology</hi> (1784), I, on ECCO, preceding the 'Introduction of the Arctic World'. The second edition of <hi rend="italic">Arctic zoology</hi> contains a three-page 'Advertisement', dated 10 February 1792, at <hi rend="italic">Arctic zoology</hi> (2 vols., 2nd edn., 1792), II, pp. 319–21.</note>
+                    and also the dedication to the Royal Academies of Sciences &amp;<hi rend="superscript">c</hi>.<note type="editorial">This dedication does not appear in the copy of <hi rend="italic">Arctic zoology</hi> (1784), I, or the equivalent volume of the second edition (1792) on ECCO.</note>
+                    – in short my copy, illuminated at the expence of more than twenty Guineas, is completely cut up, and I do not believe you have it in your power to assist me, except by desiring 
+                    <persName ref="pe0014">Gryfith</persName> to examine his papers, and to return them, when found. I ought not by <hi rend="underline">any means</hi>
+                    to trouble you in matters of this sort, but solamen miseris,<note type="editorial">'It is a comfort to the unfortunate'. The Latin phrase in full, 'Solamen miseris socios habuisse doloris', translates as 'It is a comfort to the unfortunate to have had companions in woe'.</note>
+                    has its comforts certainly, and I am an object worthy of it; for alas! <persName ref="pe0324">Ingleby</persName> has been equally careless, respecting my Copy of 
+                    <bibl type="authorial"><title ref="bi0034">Holywell and Whitford</title></bibl>, which is return’d me sadly mutilated, by a deficiency of the following pages vid<hi rend="superscript">t</hi>.
+                    from page 173 inclusive, to page 184 inclusive.<note type="editorial">See <ref target="1211.xml">1211</ref> for Pennant's explanation of this irregularity.</note> upon my word of honor, I sent down both your copy, and my own, (after having them hot press’d<del>,</del>)
+                    in the same box, having first collated both copies, <hi rend="underline">myself</hi>. <persName ref="pe0324">Ingleby</persName> wrote me word he had receiv’d one of them, so there can be no doubt of 
+                    <hi rend="underline">that</hi>. not long afterwards he wrote me word that he had sent me a box, containing my <bibl type="authorial"><title ref="bi0034">Holywell and Whitford Parishes</title></bibl>,
+                    to which he had done, what I had directed, but upon opening the box, I did not find half of it there, and upon my writing to him again, he sent me, with a foolish excuse, what he call’d the remainder, which did not arrive till just as I left 
+                    <placeName ref="pl0699">London</placeName>, and the box has been under my lock and key ever since, and open’d for examination only yesterday, when I collated it myself, and found 
+                    <del>the</del> the deficiences above mention’d, and it is quite impossible there should be any mistake on my side, nor will any body who knows my exactness suspect it. I would not wish that you should have the trouble of speaking to
+                    <persName ref="pe0324">Ingleby</persName>; I will write to him myself, and I dare say he will find the missing pages, and send them to me as soon as he can. 
+                    <persName ref="pe0331">My daughter</persName> has many thanks to give you for your constant, and kind, recollection of her. She is in a very indifferent state of health.</p>                
+                <closer>
+                    <salute>I am my dear Sir, yours very truly</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">D. DE. 4 97.</stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant</persName> Esq<hi rend="superscript">r</hi> | <placeName ref="pl0001">Downing</placeName> | <placeName ref="pl0702"><hi rend="underline">Flintshire</hi></placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

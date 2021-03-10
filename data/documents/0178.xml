@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0178">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on plans for his map and
+                    extra-illustration</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>112</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-01-12"/>
+                    <placeName ref="pl0699">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0179"/>
+                    <ref type="prev" target="ct0177"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Y<hi rend="superscript">r</hi> Letter of the 7<hi rend="superscript">th</hi>
+                    <choice>
+                        <abbr>ins<hi rend="superscript">t</hi></abbr>
+                        <expan>instant</expan>
+                    </choice> is come to hand. thanks for the coins. &amp; the engraving. I rejoice
+                    that the Lad has recovered his sight.</p>
+                <p>I am much obliged to you for the advice about the map; &amp; will not fail
+                    profiting by it. I shall defer the engraving it till I am favored with further
+                    hint on the subject &amp; shall only cause an outline to be made for the intent
+                    you so friendly mention.</p>
+                <p>I have bought <bibl type="authorial"><title ref="bi0145">Brice’s map</title></bibl>:
+                    therefore do not trouble y<hi rend="superscript">r</hi>self ab<hi rend="superscript">t</hi> it.</p>
+                <p>I am now busied in preparing a first volume of engraving for my supernumerary
+                    drawings of y<hi rend="superscript">r</hi> principal places; heads of most
+                    illustrious people of the Scotch nation. It will be arranged according to my
+                        <bibl type="authorial"><title ref="bi0044">Tour &amp; voyage</title></bibl>
+                    &amp; be attended with short descriptions. it may be styled my picturesque
+                    journal. any good drawings of views of Castles &amp;c will be most acceptable.
+                    each vol. will contain 50 views.<note type="editorial">Pennant may be referring
+                        here to the creation of his personal extra-illustrated copies of his tours,
+                        a selection of which are currently held by the National Library of Wales:
+                        see for example NLW W6 1/6/1.</note></p>
+                <p>I have ordered the books from <persName ref="pe0026">M<hi rend="superscript">r</hi>
+                    White</persName> &amp; sent the Letter to <persName ref="pe0104">M<hi rend="superscript">r</hi> Gough</persName>. Pray accept the Books.
+                    <persName ref="pe0165">Marmaduke Tunstall esq<hi rend="superscript">r</hi></persName> of <placeName ref="pl1652">Mansfield street</placeName>
+                    <placeName ref="pl0699">London</placeName> a great collector of birds is very desirous
+                    of two Soland geese, old ones &amp; dead. to be sent without any preparation,
+                    except being kept clean by being packed in a basket with straw. They may be sent
+                    from <placeName ref="pl0070">Dunbar</placeName> by sea or by y<hi rend="superscript">r</hi> coach. If you can execute this commission, He will cheerfully pay
+                    any charges. be so good if you succeed to advise him of it by post &amp; of the
+                    charges.</p>
+                <closer><salute>I am Dear Sir <lb/>Y<hi rend="superscript">r</hi> most obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+
+                <dateline><placeName ref="pl0699">London</placeName> Jan. 12<hi rend="superscript">th</hi>
+                    1775</dateline></closer>
+
+                <postscript>
+                    <p>I set out toomorrow</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>Mr Paton</addrLine>
+                        <addrLine>Custom house</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+                <p> Free <lb/><unclear reason="illegible"><persName ref="pe1000">WDavid</persName></unclear></p>
+                <p><stamp type="frank">FREE</stamp></p>
+                <p><stamp type="handstamp"><gap reason="illegible" unit="letters" quantity="2"/>
+                        <lb/>IA</stamp></p>
+            </div>
+        </body>
+    </text>
+</TEI>

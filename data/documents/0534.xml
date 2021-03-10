@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0534">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>George Paton to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP326</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>4</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0228">George Paton</persName>
+                    <date when="1776-03-25"/>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0699">London</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0207"/>
+                    <ref type="prev" target="ct0534"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I have this day met with <persName ref="pe0567">one of the Keepers of the
+                        Register Office my Acquaintance</persName> (<persName ref="pe0568">the
+                        other</persName> as formerly mentioned being either lazy or not so knowing
+                    about the Records &amp;<hi rend="superscript">c.</hi>) who has been unwell some
+                    time; he shewed me the <bibl type="authorial"><title ref="bi0192">Register of
+                            the Privy Council Anno 1563</title></bibl> wherein the <hi rend="underline">Gregors</hi> are stiled <hi rend="underline">Rebels</hi>,
+                    he informs me that there are a number of similar Orders of the same nature
+                    against them, when the Argyle Family, who appear to have been their great
+                    Enemies having always been present &amp; most frequently the principal
+                    antagonists of the Macgregor Clan: whether these Animosities have proceeded from
+                    rivalship, Family private feuds it is now very difficult to account for there
+                    being such a mixture of traditional stories handed down that the truth is
+                        <sic>realy</sic> or rarely to be come at especialy so far distant from the
+                    present Times.</p>
+                <p>The <hi rend="underline">Magazine</hi> referr'd to by the Vindicator of the
+                    Macgregors inserted in the <bibl type="authorial"><title ref="bi0572">London
+                            Chronicle</title></bibl> is the <bibl type="authorial"><title ref="bi0102">Weekly Magazine by Ruddiman</title></bibl>, who makes an
+                        <hi rend="underline">Extract</hi> of that passage in <bibl type="authorial"><title ref="bi0004">your Tour</title></bibl> beginning with the
+                        <sic>Discription</sic> of <placeName ref="pl0223"><hi rend="underline">Lochlomond</hi></placeName> &amp;<hi rend="superscript">c.</hi>
+                    concluding with the enumaration of the aged people mentioned in <bibl type="authorial"><title ref="bi0004">your last Edition in 4<hi rend="superscript">to.</hi></title></bibl><note type="editorial">See
+                        Pennant's letter to Paton on 3<hi rend="superscript">rd</hi> February 1776.
+                        The extract referred to by Paton is that from Pennant's <bibl type="editorial"><title ref="bi0004"><hi rend="italic">Tour in Scotland
+                                    1769</hi></title> (Warrington: 1774), <biblScope unit="page">pp.243-46</biblScope></bibl>, which was published under the title:
+                            <bibl type="editorial"><title ref="bi0102">'Description of LOCH-LOMOND.
+                                From Pennant's Tour.'</title></bibl> in <bibl><title ref="bi0102"><hi rend="italic">The weekly magazine, or, Edinburgh
+                                    amusement</hi></title>, <biblScope unit="volume">vol.
+                                30</biblScope>, (Sep 28, 1775): <biblScope unit="page">7-8</biblScope></bibl>. The passage in question came under attack
+                                    in a <bibl type="editorial"><title ref="bi0572">letter</title></bibl> printed in
+                        the <bibl type="editorial"><title ref="bi0280"><hi rend="italic">London
+                                    Chronicle</hi></title></bibl> for 25<hi rend="superscript">th </hi>January 1776, for its
+                        account of an alleged massacre of the Colqhuhouns by the MacGregors in the
+                        early-seventeenth century.</note> without giving any Introduction,
+                    conclusion or reflection on either side. ––––– I should think it is scarcely
+                    worth your notice to be further concerned about this private Family Quarrel, for
+                    it's probable by too minutely dipping into this personal difference some
+                    Families may be brought in that <add place="above">would</add> not be so very
+                    agreable at this day to them, but if what has already been sent does not so
+                    fully satisfy you I shall endeavour to get as particular Extracts as can be had
+                    from the <bibl type="authorial"><title ref="bi0192">Register</title></bibl>, As the Acts of Council are many since the period mentioned
+                    above &amp; all in the similar stile with the intended design of rooting out the
+                    Clan Gregor or MacGregor.</p>
+                <p>I wait your further orders <sic>which shall endeavour</sic> with pleasure to
+                    execute being</p>
+                <closer><salute>Dear Sir <lb/>Dear Sir your most obed<hi rend="superscript">t.</hi>
+                            Serv<hi rend="superscript">t.</hi></salute>
+                    <signed><persName ref="pe0228">GPaton</persName></signed>
+                <dateline><placeName ref="pl0696">Custom house Edinburgh</placeName>
+                    <lb/>25 March 1776.</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>Thomas Pennant Esq<hi rend="superscript">r.</hi></addrLine>
+                        <addrLine>London</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

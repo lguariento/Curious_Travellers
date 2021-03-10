@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1369">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Lloyd, Hafodunos and Wigfair, 16 April 1773</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>NLW</repository>
+                        <idno>12421D</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                        <p><hi rend="italic">Condition</hi>: small parts of paper torn away at seal</p>
+                        <additions><hi rend="italic"><lb/>Endorsement (in John Lloyd's hand)</hi>: <persName ref="pe0232">M<hi rend="superscript">r</hi>. Pennant</persName>'s Letter<lb/>
+                            Receiv<hi rend="superscript">d</hi>. April the 19<hi rend="superscript">th</hi>.<lb/>
+                            remember – In ans<hi rend="superscript">r</hi>. to it to tell him what 
+                            <persName ref="pe0140">D<hi rend="superscript">r</hi>. Linnæus</persName> says of his 
+                            <bibl type="authorial"><title ref="bi0001">Scotch Tour</title></bibl><note type="editorial">In a letter to Linnaeus at Uppsala, 
+                                dated 14 October 1772, Pennant mentions that he 'shall send you every book I have published[;] among others my Iter scoticum 
+                                in which is much natural history'. The Linnean Society, L474, <ref type="http" target="https://tinyurl.com/y4ah7mjm">here</ref> [accessed 3 September 2019].</note> <persName ref="pe0803">JLl.</persName>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1773-04-16">16 April 1773</date>
+                    <placeName ref="pl1348">Gothurst</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0803">John Lloyd</persName>
+                    <placeName ref="pl1344">Garden Court, Temple</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1370"/>
+                    <ref type="prev" target="ct1368"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>My dear Pupil</salute></opener>
+                
+                <p>with hard travelling I am got 30 miles from the place I parted with you &amp; co enjoying one perpetual feast, glutted by <unclear>m</unclear>eat; 
+                    my stomach happily returning in the morning. Salute <persName ref="pe0808">Haistwell</persName>, salute <persName ref="pe0104">Gough</persName>. 
+                    Tell them I am now solacing myself at full <del><gap reason="illegible" unit="letters" quantity="several"/></del>ease with the 
+                    <sic>comtemplation</sic> of the busts of the lovely <persName ref="pe0815">venetia</persName> wife of <persName ref="pe0816">Sir Kenelm Digby</persName> 
+                    of fantastic memory, at <placeName ref="pl1348">Gothurst</placeName> the delicious antient uninjured seat of the <persName ref="pe0817">wrights</persName>. 
+                    I sit amidst <persName ref="pe0818">Digbies</persName> of old times stealing glances <add place="above">(at them)</add> at intervals from my paper 
+                    &amp; wishing the company of my friends.</p>
+                
+                <p>in y<hi rend="superscript">r</hi> <placeName ref="pl1236">museum</placeName> searches, enquire the monumental history of <placeName ref="pl1349">Luton Church</placeName> 
+                    <placeName ref="pl1350">Bedfordshire</placeName>.<note type="editorial">For another reference to this, see Pennant's letter of 27 April 1773 
+                        to Lloyd, <ref target="1370.xml">1370</ref>.</note> Try if you can find what religious lies at full length under a high open arch, arms encircled 
+                    with the garter above, &amp; a crest I think a the<gap reason="illegible" unit="letters" quantity="several"/> arrows, but certainly a sheaf of 
+                    something <add place="above"><sic>be</sic> accounts <gap reason="illegible" unit="letters" quantity="several"/></add></p>
+              
+                <p>My love to my Sisters.<note type="editorial">Pennant refers to his twin sisters, 
+                    <persName ref="pe0237">Catherine</persName> and <persName ref="pe0807">Sarah</persName>.</note> 
+                    rememberances to <placeName ref="pl0734">Bruton street</placeName>. adieu</p>
+                <closer><salute>Y<hi rend="superscript">rs</hi> most faithfully
+                </salute>
+                    <signed><persName ref="pe0232">T.P.</persName></signed>
+                    <dateline><placeName ref="pl1348">Gothurst</placeName> april 16<hi rend="superscript">th</hi> 1773.</dateline></closer>
+                
+                
+            </div>
+            
+            <div>
+                <p>
+                    <stamp type="postmark"><gap reason="illegible" unit="letters" quantity="several"/></stamp>
+                    <stamp type="handstamp"><placeName ref="pl1351">NORTHAMPTON</placeName></stamp>
+                </p>
+                <p><address><addrLine><persName ref="pe0803">John Lloyd esq<hi rend="superscript">r</hi></persName><lb/> 
+                    N<hi rend="superscript">o</hi> 3 <placeName ref="pl1344">Garden Court<lb/> in the 
+                        Temple</placeName><lb/><placeName ref="pl0699">London</placeName>
+                    </addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

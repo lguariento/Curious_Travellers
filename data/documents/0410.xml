@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0410">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Donald MacQueen to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP297</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>5</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0069">Donald MacQueen</persName>
+                    <date when="1773-06-23"/>
+                    <placeName ref="pl0742">Kilmuir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0411"/>
+                    <ref type="prev" target="ct0409"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I am really Ashamed to Write you at this distance of Time After receiving your
+                    last friendly Letter. The confusion, disorder, Law-suits And Emigration in Which
+                    My Countrey men are Involved have Arrested our Whole attention at Least have so
+                    Shattered And disconcerted Every Serious peice of Study that tho I shoud have
+                    had Leasure I had difficulty Enough in Mustering together My thoughts, which
+                    were dissipated on different disagreeable Scenes. Our Emigrants from this
+                        Isle<del rend="overstrike">s</del> and some parts in the Neighbourhood
+                    Exceed six hundred And have Last week Employed one of their Number to fraught a
+                    couple of Vessels to Waft them over to <placeName ref="pl2657">N.
+                        Carolina</placeName> a considerable deduction of Rents Which <persName ref="pe0447">Sir Alexander Macdonald</persName> was pleased to make in
+                    favour of the Small Tennants hath stoped Several who meant to go and had he
+                    taken this step Earlier and begun with the Farmers of the first Class
+                    particularly with those of his own Tribe who thorow an Indulgence for Time
+                    Immemorial had more vigour and Spirit Left them, Matters at this time woud have
+                    worn a different face Upon his Estate but he surely hath begun where he ought to
+                    have Ended And I do not know but the same may have been the Case among other
+                    Proprietors, which if I do not fail much in Point of Sagacity will put a new set
+                    of Adventurers in Motion Next year, for some, of the people we call Gentlemen
+                    are so much offended at the <add place="above">preposterous</add> preference
+                    given to Small Tennants, who in a Countrey void of Trade and Manufacture cannot
+                    stand Long, for they acquired their Litle stock in the Service, Only, of their
+                    More Opulent Neighbours, who as Standing Alone upon an Extensive grazing woud
+                    have raised more Catle, the staple of this Countrey, than a Cluster of Small
+                    people with throng families, Unassisted with the foggage And favour of an
+                    Obliging Neighbour — but Surely these litle men are more Passive to Every kind
+                    of order and whoever Means, Factor, Drover &amp;c to take Any advantage of them
+                    will find them Much more Manageable than Others who had some sparks of ambition
+                    And Independance in their Constitution. If I take it right <pb/>The Highland
+                    Estates shoud have been in a certain proportion parcelled out Among Great and
+                    Small Farmers. It is the former gave rise to the Later by being Employed in
+                    their Service and by the Countenance they Afterwards gave them — it was they
+                    Also keeped Up the Breed of black Catle, who will soon degenerate in the hands
+                    of the Later, thorow and Intire inability of grazing them properly, being
+                    Obliged to till the best Part of the Soil for the Subsistence of their Numerous
+                    families And thorow want of good Bulls which they will not be disposed to
+                    purchase from Others. This in a Litle time will affect the payment of Rents, the
+                    Education of Children And the Rise of Any of our people abroad who know their
+                    Meeting with good Success Supported And Assisted Many of their Friends and
+                    Relations at home." Something of this too much.</p>
+                <p>Our people do not keep regular Registers of their Parishioners. By the best
+                    Information I coud pick up <placeName ref="pl0715">the Isle of Sky</placeName>
+                    with the Adjacent Small Isles <placeName ref="pl0718">Rum</placeName>,
+                        <placeName ref="pl2707">Egg</placeName>, <placeName ref="pl0653">Canna</placeName> &amp; <placeName ref="pl2708">Isle of Mūck</placeName>
+                    contains at present about 12800 Souls <unclear reason="illegible">tho</unclear>
+                    <persName ref="pe1947">Captain Salt</persName>
+                    <add place="above">Late</add> of <persName ref="pe1948">Skeltons</persName>
+                    Regiment told me about a Couple of years after the Last Rebellion that they came
+                    Up to fifteen thousand for he caused the Numbers to be taken in the different
+                    Parishes when he was Stationed here. I take the decrease to be owing to a Course
+                    of bad years And to their fears from the Late Augmentation of Rents which
+                    affected their Minds rather than their pūrses and put them Upon Looking after a
+                    more benign Climate — It is to the same Course our Clergy Impute the decrease in
+                    Marriages &amp; Christenings, as it is owing to the same cause that by the Loss
+                    &amp; Sale of black Catle they at Least come one fourth Short of their Numbers
+                    in the year 1769. Some years ago it was computed that five or six thousand Cows
+                    were annually driven to Market from <placeName ref="pl0715">Sky</placeName> but
+                    among these were some Catle from <placeName ref="pl0955">Uist</placeName> And
+                    the Sale of the Stock of our Adventurers to <placeName ref="pl0697">America</placeName>, keeps still Up to Something Like that Number but the
+                    dealers in Catle Suppose that in a Litle time the Numbers will become fewer And
+                    Worse.</p>
+                <p>I am informed by the Principal dealer in Kelp among Us that the Annual produce in
+                    that Article doth not in <placeName ref="pl0715">Sky</placeName> Much Exceed 215
+                    tuns. In <placeName ref="pl0853">North Uist</placeName>
+                    <persName ref="pe0447"><unclear reason="illegible">Sir</unclear> Alex<hi rend="superscript">r</hi> Macdonald</persName> Part of <placeName ref="pl2473">the Long Island</placeName> they Annually Manufacture about 700
+                    tuns And As much on Clan Ranalds part of it &amp; <placeName ref="pl2444">Barra</placeName>. I know nothing of <placeName ref="pl0712">Lewis</placeName> And <placeName ref="pl0954">Harris</placeName>. I have
+                    Also got a Note out of the Factor's books of the Multūre <pb/>Paid by the Milns
+                    in <placeName ref="pl0715">Sky</placeName> to the Several Land Lords and Judging
+                    by this Standard, by the Portions Allowed the Millars themselves And takeing for
+                    grantd beside, according to the Judgement of a Sagacious Farmer that a hundred
+                    Bolls are annually grinded without Paying Any Multure at all to the poor and
+                    others; I conclude that the Annual produce of the Island may be something about
+                    8986 bolls two ferlets one peck. There is no Certain Rule to go by in computeing
+                    What of our Corns are Laid out Upon our Cows And horses, if I was to form a
+                    conjecture I woud not Exceed four hundred bolls one year with another. potatoes
+                    are Lately so carefully Cultivated in his Island that they Serve the common
+                    people at Least a quarter of a Year in Stead of bread — the Exhalations from the
+                        <placeName ref="pl1084">Western Ocean</placeName> which break down in
+                    Showers &amp; Storms from the Summits of our hills, <placeName ref="pl0841">Cullin</placeName> in Particular in the Month of September or beginnig of
+                    October is Surely the Cause of our frequent Scarcity And to the Poverty of the
+                    People the Shortness of their Leases And the Uncertainty in Which they hovered
+                    About three or four Years back.</p>
+                <p>A friend promised to send me Some sort of draught of the Anait but I have not yet
+                    received it, if it be worth the sending you will have it but if I mistake not
+                    you <add place="above">may</add> Make it out from the description I sent you
+                    which was Exact And Particular.</p>
+                <closer><salute>I wish you health &amp; happyness And Am with much Esteem <lb/>Dr
+                        Sir <lb/>Your very Obedient And Very humble Sert</salute>
+                    <signed><persName ref="pe0069">Don: Macqueen</persName></signed>
+                <dateline><placeName ref="pl0742">Kilmuir</placeName> in <placeName ref="pl0715">Sky</placeName>
+                    <lb/>June 23<hi rend="superscript">d</hi>
+                    <lb/><hi rend="underline">1773.</hi></dateline></closer>
+                <postscript>
+                    <p>I Shoud perhaps have observed above that the Westerly <add place="above">wind</add> blows more frequently here than the Other Winds taken
+                        together. I heard an Old Farmer account for it in this way: that the Skies
+                        are Supported by four Pillars And that <persName ref="pe1949">Hercules</persName>
+                        to Shew his Strength put<add place="above">ing</add> his Shoulders to the
+                        Western one, removed it a Litle out of its place And there by the Skies
+                        which he took for Something Like the roof of a house, inclining that way
+                            <del rend="overstrike">was</del> the reason <add place="above">was
+                            Obvious</add> Why So Many drops &amp; blasts came from that <unclear reason="illegible">act</unclear>. — </p>
+                    <p>Kelp-making</p>
+                    <p>The Kelp Manufacturers raise What they call a Kiln near the Shore. It is 12
+                        feet Long 4 wide And 3 feet high in the wall which is of Stone, faced on the
+                        out Side with turf that Neither wind or rain May get into it. When the
+                        Sea-Ware which they cut with Sharing hooks <lb/>turn over <pb/>Is dryed
+                        before the Sun they burn it within this Inclosure And Spread the Ware
+                        regularly in this fiery furnace with a two pronged fork. When it is
+                        Sufficiently burnt into Ashes they work it backwards And forwards with an
+                        Iron Like a Garden how And then Only it runs into a Liquid Substance Like
+                        Melted glass Which When it cools becomes very hard. Thus they continue their
+                        Operation by puting in one Layer After Another Untill the Kiln is filled up
+                        And hen they cover it Close with turf that the Air or rain may have no
+                        access to it thro Any Crevice for the One or the Other would Soon Moulder it
+                        Away. Adieu.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><handShift/>M<hi rend="superscript">r</hi> Macqueen.</p>
+                <p>M<hi rend="superscript">r</hi> Macqueen <lb/>Numbers. <lb/>migrations. Kelp</p>
+                <p><handShift/><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>Thomas Pennant Esqr.</addrLine>
+                        <addrLine>of Downing, Flintshire</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

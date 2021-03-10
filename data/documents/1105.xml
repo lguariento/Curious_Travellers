@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1105">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rochard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>22</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Endorsement on the top of the first page, in Thomas Pennant’s hand</hi>: <hi rend="underline">answ<hi rend="superscript">d</hi></hi></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1790-07-18"/>
+                    <placeName ref="pl1013">North Court</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl1013">North Court, Isle of Wight</placeName> July 18. 1790.</dateline></opener>
+                <p>Well do you chide me for not writing to you, by sending me some choice engravings of others, but not a line – or 
+                    <hi rend="underline">letter press</hi> from yourself. I kiss the rod, and humble myself to the dust before you, 
+                    laying in my claim to your forgiveness because I had nothing to write about, and no frank to convey that nothing 
+                    to you, if I had written. I left <placeName ref="pl0699">London</placeName> very unwell, and indeed was so almost
+                    the winter through, but good air, and regular exercise on horseback, have recover’d my faculties. We see nobody 
+                    here but those we wish to associate with, but the fleet at <placeName ref="pl1637">Spithead</placeName> has
+                    brought such a busy hum of men to <placeName ref="pl1357">Portsmouth</placeName>, and to <placeName ref="pl1020">this Island</placeName>,
+                    that of late our company here has been somewhat too constant, and too numerous for me, and my infirmities. Quiet 
+                    is my business, and being past the pleasures of youth, I should try to place myself above its troubles. <persName ref="pe0992">Admiral Barington</persName>
+                    is our particular friend, and of course we visited the fleet before it sail’d for <placeName ref="pl0928">Torbay</placeName>;
+                    I understand from good authority, it was very ill in readiness, with respect to Men; only 18 of the Line sail’d from 
+                    <placeName ref="pl1357">Portsmouth</placeName>. the Royal George, and three other large ships were to Join the fleet at 
+                    <placeName ref="pl0928">Torbay</placeName>, from whence I had a letter yesterday, stating the numbers altogether, at only 20 
+                    of the line even now, and many without their proper compliments of men. on the other hand, the vessels arriving from 
+                    <placeName ref="pl1470">Cadiz</placeName>, and <placeName ref="pl1010">Gibraltar</placeName>, report the <placeName ref="pl1202">Spaniards</placeName>
+                    to have five, or six and thirty ready for Sea.<note type="editorial">Orders for HMS <hi rend="italic">Royal George</hi> and HMS London to join the fleet at Torbay are recorded in the <hi rend="italic">Oxford Journal</hi>, 17 July 1790. Quoting information dated London, 15 July, the paper also reports that 'twenty-nine Sail of the Line and some Frigates' were ready to sail at Cádiz.</note> I know not how many Dutch Ships have join'd
+                    our Fleet.<note type="editorial">The Times reported on 1 July 1790 that 'The report that the Dutch Fleet had joined Admiral Barrington off St. Helens is premature' but that 'five Dutch Men of War, two frigates, two armed ships and a cutter' sighted 'off the back of the Goodwin Sands' was the 'fleet which is to join Admiral Barrington, and it is supposed it will meet him at Torbay. The rest of the Dutch fleet are supposed to be sailed to the Baltic'.</note>
+                    of our own, which you must have heard of, but cannot believe, for however well inclin’d the crown’d heads of <placeName ref="pl1176">Europe</placeName>
+                    may be, to a counter Revolution in <placeName ref="pl0925">france</placeName>, this is neither the method, nor the moment to attempt it. 
+                    What do you think of the fête at <placeName ref="pl1023">Paris</placeName>? the petit concert of 3000 people dining altogether in the
+                    <placeName ref="pl1642">Plaine de Sablons</placeName>, must be quite Roman, but when we are told of the probability of half a million 
+                    of men, and women being expected to be in arms the same day, one trembles for the possible consequences.<note type="editorial">Louis XVI conducted reviews of the National Guard in May and July 1790 on both the Champ de Mars and the Plaine de Sablons. The former took place on 14 July, as part of the first 'Fête de la Fédération', celebrating the anniversary of the fall of the Bastille. David Andress (ed.), <hi rend="italic">The Oxford Handbook of the French Revolution</hi> (Oxford, 2015), p. 318; Jones, <hi rend="italic">Longman Companion to the French Revolution</hi>, p. 14.</note> <persName ref="pe0484">Charles Fox</persName>,
+                    <persName ref="pe0993">Jack Payne</persName>, and <persName ref="pe0994">M<hi rend="superscript">r</hi> Fitzpatrick</persName>, and others are gone 
+                    thither, and no doubt it will be, hail fellow, well met! tag, rag, and bob tail, all hudled together; the <persName ref="pe0995">Duc de Nivernois</persName>,
+                    is now M<hi rend="superscript">r</hi>. La Porte, another great man is 
+                    M<hi rend="superscript">r</hi> Chasse Poux, and another M<hi rend="superscript">r</hi>. Piere Vilain.<note type="editorial">Satirical nicknames for French politicians, real of imaginary. Mr La Porte ('the door'), Mr Chasse Poux ('lice hunter') and Mr Piere Vilain ('Villain Pierre').</note>
+                    How is all this to end? Will it give Liberty, and freedom to the World, or will Tyranny, and arbitrary Power recoil with redoubled oppressions? If your 
+                    <bibl type="authorial"><title ref="bi0266">french tour</title></bibl> carried you to the Walls of <placeName ref="pl1023">Paris</placeName>,
+                    futurity would, I am sure, owe you much for the account you would give us of July 14. 1790. can’t you give it us, en abregé,<note type="editorial">'abbreviated'.</note> in a postcript to the main history? – I have got with me, all the materials 
+                    to compleat my Copy of your admirable <bibl type="authorial"><title ref="bi0039">history of London</title></bibl>, but I don’t see any 
+                    likelihood of advancing in the business here, unless the <add place="above">Idea of</add> War is at an end, for almost every day brings 
+                    us fresh Visitors, and all last week we were 26 in family, without chance customers for ale, and cold victuals.</p>
+                <p>My daughters<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note> have made <placeName ref="pl1013">this old place</placeName>
+                    very comfortable indeed, but at the ill judg’d expence of (I suppose) a thousand pounds, because our term in it, is
+                    not likely to be more than five Years at farthest, unless we buy it, which we talk of doing at any reasonable price, 
+                    ’tho we have not gone the way to make it so. I certainly shall rejoice to have the <hi rend="underline">augmented</hi>
+                    Copy of your <bibl type="authorial"><title ref="bi0041">litterary life</title></bibl>, at the low estimation of 15 
+                    Shillings, but how can I, in decency accept the <bibl type="authorial"><title ref="bi0041">first Edition</title></bibl>
+                    as a perquisite? – I shall adorn it with heads, and views. –</p>
+                <p>I implore you to let <persName ref="pe0404">your secretary</persName> copy for my use the 
+                    <bibl type="authorial"><title ref="bi0268">journey of 1787, from the temple <add place="above">stairs</add> to Dover</title></bibl>,
+                    which I will <del>be</del> thankfully, &amp; readily be accountable to him for. I did not forget, (nor will forget) to enquire of 
+                    <persName ref="pe0293">Burrell</persName> respecting the alienation of <persName ref="pl1640">Goodwood</persName>.
+                    He was in <placeName ref="pl0922">Sussex</placeName>, when I receiv’d your letter, and was not return’d before I left town. 
+                    My daughters<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note> are <hi rend="underline">both</hi> well, &amp; 
+                    thankful for being in the remembrance of you, and yours, to whom we return our best good wishes.</p>
+                <closer>
+                    <salute>I am, my Dear Sir, always yours.</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

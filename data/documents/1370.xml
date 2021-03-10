@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1370">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Lloyd, Hafodunos and Wigfair, 27 April 1773</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>NLW</repository>
+                        <idno>12421D</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc><additions>
+                        <p>
+                            <table>
+                                <row>
+                                    <cell><list>
+                                        <item><hi rend="underline"><placeName ref="pl1350">Bedfordshire</placeName></hi></item>
+                                        <item><placeName ref="pl1349">Luton</placeName></item>
+                                        <item><placeName ref="pl1393">Wrest</placeName></item>
+                                        <item><placeName ref="pl1394">Flitton. Ch.</placeName></item>
+                                        <item><placeName ref="pl1395">maulden Ch.</placeName></item>
+                                        <item><placeName ref="pl1396">Houghton Hall</placeName></item>
+                                        <item><placeName ref="pl1397">Ampt Hill Park</placeName> - - - -  </item>
+                                        <item><placeName ref="pl1398">Wooburne
+                                            Abbey</placeName> 
+                                        </item>
+                                        <item> </item>
+                                        <item><hi rend="underline"><placeName ref="pl1399">Bucks.</placeName></hi></item>
+                                        <item><placeName ref="pl1348">Gothurst</placeName>.</item>
+                                        <item> </item>
+                                        <item><placeName ref="pl1400">Northampton
+                                            shire</placeName>.
+                                        </item>
+                                        <item><placeName ref="pl1401">Horton ch.</placeName></item>
+                                        <item> </item>
+                                        <item><del><gap reason="illegible" unit="letters" quantity="several"/></del></item>
+                                        <item><placeName ref="pl1351">Northampton
+                                            Town</placeName> 
+                                        </item>
+                                        <item> </item>
+                                        <item>near <placeName ref="pl1351">North<hi rend="superscript">n</hi>.</placeName></item>
+                                        <item>d<hi rend="superscript">o</hi>.</item>
+                                        <item><sic><placeName ref="pl1406">Easton mauduit ch:</placeName></sic> 
+                                             - - - -
+                                        </item>
+                                        <item><placeName ref="pl1407">Fawsly
+                                            House</placeName>
+                                        </item>
+                                        <item><placeName ref="pl1408">Church</placeName></item>
+                                        <item> </item>
+                                        <item><placeName ref="pl1409"><hi rend="underline">Warwicksh</hi>:</placeName></item>
+                                        <item><placeName ref="pl1356">Coventry</placeName></item>
+                                        <item> </item>
+                                        <item> </item>
+                                        <item> </item>
+                                        <item> </item>
+                                        <item><placeName ref="pl1450">Combe abbey</placeName></item>
+                                        <item><placeName ref="pl1451">Binley
+                                            Ch.</placeName> near <placeName ref="pl1450">d<hi rend="superscript">o</hi>.</placeName> 
+                                        </item>
+                                        <item> </item>
+                                        <item><placeName ref="pl1459">Arbury</placeName></item>
+                                        <item><placeName ref="pl1452">Nuneaton</placeName></item>
+                                        <item> </item>
+                                        <item><placeName ref="pl1461">Mancetter</placeName></item>
+                                        <item><placeName ref="pl1462">Mireval
+                                            House</placeName> 
+                                        </item>
+                                        <item><placeName ref="pl1462">Abbey</placeName> - - -</item>
+                                        <item><placeName ref="pl1460">Atherston</placeName>.</item>
+                                        <item><placeName ref="pl1453">Tamworth</placeName>.</item>
+                                        <item> </item>
+                                        <item><placeName ref="pl1367"><hi rend="underline">Staffordshire</hi></placeName></item>
+                                        <item><placeName ref="pl1017">Lichfield</placeName></item>
+                                        <item><placeName ref="pl1368">Beaudesert</placeName></item>
+                                        <item><placeName ref="pl1454">Blithefield</placeName>.</item>
+                                        <item><placeName ref="pl1455">Wolsely Park</placeName></item>
+                                        <item><placeName ref="pl1363">Shugborough</placeName></item>
+                                        <item>near <placeName ref="pl1363">it</placeName><sic>..</sic></item>
+                                        <item><placeName ref="pl1364">Tixal</placeName></item>
+                                        <item><placeName ref="pl1365">Ingestrey</placeName></item>
+                                        <item><placeName ref="pl1366">Stafford</placeName></item>
+                                        <item><placeName ref="pl1465">Trentham</placeName></item>
+                                        <item><placeName ref="pl1463">newcastle</placeName>, near.</item>
+                                        <item> </item>
+                                        <item> </item>
+                                        <item><placeName ref="pl1362"><hi rend="underline">Cheshire</hi></placeName></item>
+                                        <item><placeName ref="pl1506">crew Hall</placeName></item>
+                                        <item><placeName ref="pl1360">acton Ch.</placeName>
+                                            near <placeName ref="pl1361">Nantwich</placeName>. Two fine tombs.<note type="editorial">The two fine 
+                                                tombs referred to here are to Sir William Manwaring (d. 1399) and Sir Thomas Wilbraham (d. 1660) and 
+                                                his wife Elizabeth, described in <hi rend="italic">The journey from Chester to London</hi>, pp. 21–3.</note>
+                                        </item>
+                                        
+                                    </list></cell>
+                                    <cell>
+                                        <list>
+                                            <item> </item>
+                                            <item>The Font, &amp; antient Tombs.</item>
+                                            <item>Portraits good &amp; curious.</item>
+                                            <item>old &amp; modern monum<hi rend="superscript">ts</hi> of the Earls &amp;c of Kent</item>
+                                            <item>strange one of a <persName ref="pe0842">css of Elgin</persName> in her shroud</item>
+                                            <item>Two <sic>beautifull</sic> fronts.</item>
+                                            <item>Pretty situation.</item>
+                                            <item>Fine Portraits</item>
+                                            <item> </item>
+                                            <item> </item>
+                                            <item>Fine old house &amp; situation.</item>
+                                            <item> </item>
+                                            <item><del>Horton</del></item>
+                                            <item>Fine tomb of <persName ref="pe0843">w<hi rend="superscript">m</hi> Lord Parre</persName></item>
+                                            <item><placeName ref="pl1402">Queens cross on the road side</placeName>.</item>
+                                            <item> </item>
+                                            <item><placeName ref="pl1403">S<hi rend="superscript">t</hi> Peters ch.</placeName> old &amp; curious</item>
+                                            <item><placeName ref="pl1404">S<hi rend="superscript">t</hi> Sepulchres</placeName> d<hi rend="superscript">o</hi></item>
+                                            <item><placeName ref="pl1405">Castle Ashby</placeName>. fine old house</item>
+                                            <item> </item>
+                                            <item>fine antient tombs</item>
+                                            <item>Fine gothic Hall. (near <placeName ref="pl1503">Daventry</placeName>)</item>
+                                            <item>antient tombs.</item>
+                                            <item> </item>
+                                            <item> </item>
+                                            <item><placeName ref="pl1456">S<hi rend="superscript">t</hi> Michael's Church</placeName> steeple.</item>
+                                            <item>Painted Glass in the <placeName ref="pl1457">Town Hall</placeName></item>
+                                            <item>the Ladies spoon. <placeName ref="pl1457">ibid</placeName>.</item>
+                                            <item><placeName ref="pl1458">Grey Friers steeple</placeName>,</item>
+                                            <item><placeName ref="pl1458">D<hi rend="superscript">o</hi> Gate</placeName>.</item>
+                                            <item>an almost complete Cloister</item>
+                                            <item>very elegant.</item>
+                                            <item> </item>
+                                            <item>a fine seat of <persName ref="pe0883">Sir R. Newdigate</persName>. but I did not see it.</item>
+                                            <item>ruins near it of a nunnery.</item>
+                                            <item>Roman station</item>
+                                            <item>Fine view</item>
+                                            <item>Ruins. very fine Tomb; &amp; painted Glass in the Ch.</item>
+                                            <item>octagon steeple.</item>
+                                            <item>Castle &amp; Church.</item>
+                                            <item> </item>
+                                            <item> </item>
+                                            <item>Cathedral</item>
+                                            <item>Fine situation. Hall, Gallery.</item>
+                                            <item>Hall, Pictures; &amp; tombs in the Ch.</item>
+                                            <item>Fine.</item>
+                                            <item>Its elegant buildings, fine statues, improvements</item>
+                                            <item>the fine junction of two canals.</item>
+                                            <item>Its fine Gateway.</item>
+                                            <item>a good old house.</item>
+                                            <item>in the great Church 2 curious tombs.<note type="editorial">Pennant appears here to be referring to the church of St. Mary, which included the tombs of Sir Edward Aston (d. 1567) and his wife Joan. <hi rend="italic">The journey from Chester to London</hi> (1782), p. 73. </note> </item>
+                                            <item>a Fine piece of water: &amp; woods.</item>
+                                            <item><placeName ref="pl1464">Etruria</placeName>, <persName ref="pe0884">M<hi rend="superscript">r</hi> Wedgewoods</persName> Pottery</item>
+                                            <item><placeName ref="pl1504">Hare castle</placeName>. the <placeName ref="pl1505">canal</placeName> now working beneath.</item>
+                                            <item> </item>
+                                            <item> </item>
+                                            <item>a fine old house between <placeName ref="pl1507">Lunton</placeName> &amp; <placeName ref="pl1361">Nantwich</placeName>.</item>
+                                            
+                                            
+                                            
+                                        </list>
+                                    </cell>
+                                </row>
+                            </table>
+                        </p>
+                    </additions>
+                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1773-04-27">27 April 1773</date>
+                    <placeName ref="pl0002">Chester</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0803">John Lloyd</persName>
+                    <placeName ref="pl1344">Garden Court, Temple</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1371"/>
+                    <ref type="prev" target="ct1369"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Dear Sir</salute></opener>
+                
+                <p>I seize the first opportunity of sending you &amp; my fellow travellers a sketch of my journey please to communicate it to them 
+                    with my best compliments. if you take the same route down, please to add y<hi rend="superscript">r</hi> remarks &amp; sketch 
+                    the arms, especially those above &amp; below the Religious in <placeName ref="pl1349">Luton Church</placeName>.<note type="editorial">
+                        This refers to the tomb at Luton church described by Pennant as being in the form of an altar, with 'various arms' on top, and the 
+                        'effigies of William Wenlock, in the habit of a shaven priest', lying on it. The arms, 'a small shield of a chevron, between three 
+                        croslet gules' enclosing a Latin imprecation addressed to the virgin Mary and Jesus ('Salve Regina Mater miserecordie | Jesu 
+                        fili Dei miser[er]e mei'; Hail Queen, Mother of mercy, Jesus, Son of God, have mercy on me), placed 'on a label from his mouth'. 
+                        <hi rend="italic">The journey from Chester to London</hi> (1782), pp. 397–8.
+                    </note> In respect to the tomb at <placeName ref="pl1360">acton</placeName> it is of a 
+                    <persName ref="pe0813">Sir W<hi rend="superscript">m</hi> de Manwaring</persName>, the date defaced, but you may recover it by consulting 
+                    <bibl type="authorial"><title ref="bi0616">Holme's collections ab<hi rend="superscript">t</hi>. cheshire</title></bibl> in the <placeName ref="pl1236">museum</placeName>. 
+                    Let me beg you w<hi rend="superscript">d</hi> search for what is said ab<hi rend="superscript">t</hi> <placeName ref="pl1349">Luton Ch.</placeName> 
+                    also. should you or my friends be able to give me any anecdotes relating to any of the places I now inform you of, I shall be happy to receive 
+                    them. you will oblige me by sending one of <persName ref="pe0373">Buck</persName>'s lists &amp; inclose it in a frank: when <persName ref="pe0015">Sir Roger</persName> 
+                    arrives I shall take care to get some for you; but I hope you will not be long before you give us y<hi rend="superscript">r</hi> company. 
+                    <persName ref="pe0234">Bel</persName> <persName ref="pe0065">Davy</persName> &amp; <persName ref="pe0812">M<hi rend="superscript">rs</hi> Falconer</persName> 
+                    present best complim<hi rend="superscript">ts</hi>. the two first very thankfull for y<hi rend="superscript">r</hi> kind remembrance. I am Dear Sir</p>
+                
+              
+                <closer><salute>Most affect<hi rend="superscript">ly</hi> y<hi rend="superscript">rs</hi>
+                </salute>
+                    <signed><persName ref="pe0232">Tho Pennant</persName></signed>
+                    <dateline><placeName ref="pl0002">Chester</placeName> april 27<hi rend="superscript">th</hi> 1773</dateline></closer>
+                
+                <postscript><p>I go to <placeName ref="pl0001">Downing</placeName> this week.
+                 
+                </p>
+                    <p>   
+                        Turn over.
+                        </p>
+                    <p>Be so good as to desire <persName ref="pe0104">M<hi rend="superscript">r</hi> Gough</persName> to leave 
+                        my m<gap reason="illegible" unit="letters" quantity="1"/>y drawings at 
+                        <persName ref="pe0026">M<hi rend="superscript">r</hi> Whites</persName>, for they 
+                        must be soon engraven. I mean those that are with the Antiquaries.<note type="editorial">A reference to 
+                            the Society of Antiquaries of London and its members.</note></p></postscript>
+            </div>
+            
+            <div>
+                <p>
+                    <stamp type="postmark">30 AP</stamp>
+                    <stamp type="handstamp"><placeName ref="pl0002">CHESTER</placeName></stamp>
+                </p>
+                <p><address><addrLine>To<lb/><persName ref="pe0803">John Lloyd Esq<hi rend="superscript">r</hi></persName><lb/> 
+                    N<hi rend="superscript">o</hi> 3. <placeName ref="pl1344">Garden Court<lb/> in the 
+                        Temple</placeName><lb/> <placeName ref="pl0699">London</placeName>
+                    </addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

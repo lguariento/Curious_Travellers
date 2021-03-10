@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1364">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Philip Yorke to Thomas Pennant, n.d.</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>Warwickshire County Record Office</repository>
+                        <idno>CR 2017/TP576</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0243">Philip Yorke</persName>
+                    <date/>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1365"/>
+                    <ref type="prev" target="ct1363"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>
+                    <salute>Dear Sir,</salute></opener>
+                
+                <p>As you say nothing of <sic>seing</sic> us on your return, so I fear we are not to expect that pleasure; I therefore acknowledge 
+                    the receipt of the books sent me, which with your letter, I had yesterday: I can help you to the 
+                    <bibl type="authorial"><title ref="bi0595">Oswestry work</title></bibl> mentioned; It is an ordinary performance, but it says, 
+                    that the six daughters of <persName ref="pe0705">Robert Davies</persName> of <placeName ref="pl1324">Gwasane</placeName>, by <del>Catherine</del> <add place="above"><persName ref="pe0706">Anne</persName></add>
+                    <add place="below">all wrong</add><sic>,,</sic><note type="editorial">The insert below the line is in another hand.</note> his wife daughter to <persName ref="pe0707">Sir Peter Mytton</persName> of 
+                    <placeName ref="pl1262">Llanerch</placeName>, were thus disposed of: <persName ref="pe0708">Anne</persName> to <persName ref="pe0709">John Thelwal</persName> of <placeName ref="pl1263">Plascoch</placeName>, 
+                    <persName ref="pe0710">Elizabeth</persName> first to <persName ref="pe0711">John Hope</persName> of <placeName ref="pl1264">Do<add place="above">d</add>leton</placeName> 
+                    (I suppose, meaning <placeName ref="pl1265">Hope</placeName>) secondly, to <persName ref="pe0712">John Eyton</persName> of 
+                    <placeName ref="pl1048">Leeswood</placeName>; <persName ref="pe0713">Helen</persName>, to <persName ref="pe0714">George Wynne</persName> of <placeName ref="pl1266"><sic>Rhydyclision</sic></placeName>, 
+                    and <placeName ref="pl1981">Leeswood</placeName>, <persName ref="pe0715">Jane</persName>, to <persName ref="pe0716">Thomas Edwards</persName> of <placeName ref="pl1267">Rhual</placeName>, 
+                    <persName ref="pe0717">Mary</persName>, to <persName ref="pe0718">Thomas Humphreys</persName> of <placeName ref="pl1268">Bodlewiddan</placeName>, 
+                    <persName ref="pe0719">Margaret</persName>, to <persName ref="pe0720">John Holland</persName> of <placeName ref="pl3016">Tarden</placeName>: 
+                    The book takes no notice of <persName ref="pe0721">Katharine</persName> the third, married to <persName ref="pe0722">Piers Pennant</persName>. 
+                    You are very good to wish to see us again at <placeName ref="pl0001">Downing</placeName>, and I will aim to do so, for a night at lest, from 
+                    <placeName ref="pl1203">Abergele</placeName>, in the next month: You anticipate too favourably of my nonsense; If it eventually gets me some 
+                    authentic information, it is all that can be expected from it; with such the Tribes had been no bad subject, &amp; I have often wished, you had 
+                    thought of it: What I have done, is rather the Memoir than the History of <placeName ref="pl1215">Powys</placeName>. its Princes, and Lords, 
+                    from <persName ref="pe0618">Bleddyn ap Cynvyn</persName>, to 
+                    the <persName ref="pe0723">present Earl</persName>:<note type="editorial">Yorke refers to his work on <bibl type="authorial"><title ref="bi0596">The Tracts of Powys</title></bibl>, 
+                        probably either shortly prior to or soon after its publication in 1795. Note that he refers to it as a 'slight Memoir of the Princes and Lords of 
+                        Powys, only' in his dedicatory letter to Pennant at the front of the volume, <ref target="1363.xml">1363</ref>.</note> at present I can proceed 
+                    no farther with the descendants of the <persName ref="pe0618">first</persName>; his generation will not open their stores of Information.</p>
+                <p>With our best wishes and kind remembrances I remain Dear Sir,</p>
+                  
+                <closer><salute>Your affectionate Servant</salute>
+                    <signed><persName ref="pe0243">Ph: Yorke</persName></signed></closer>
+                
+               
+                
+            </div>
+           
+        </body>
+    </text>
+</TEI>

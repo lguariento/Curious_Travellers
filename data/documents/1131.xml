@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1131">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 94</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                    <date when="1791-04-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> April 16<hi rend="superscript">th</hi> 1791</dateline></opener>
+                <p>Inclosed are instantly fulfilled the last of y<hi rend="superscript">r</hi> wishes.<note type="editorial">The enclosure is not preserved with the letter in the manuscript, but Bull's receipt of a parcel is acknowledged in <ref target="1132.xml">1132</ref>.</note>
+                    The rest shall be completed as soon as possible. I have packed up the <rs type="art" ref="ar0278">print of M<hi rend="superscript">r</hi>. Stillingfleet</rs>,
+                    a few of <del>the</del> Y<hi rend="superscript">r</hi> prints which I return, &amp; <rs type="art" ref="ar0279">53 heads</rs>
+                    <persName ref="pe0065">my son</persName> brought me from <placeName ref="pl1023">Paris</placeName> in 1789. Please to 
+                    keep what you like and return the others. Inclosed is a slate of our account: not sent by way of dun<note type="editorial">A 'dun' is 'An act of dunning or importuning, esp. for debt; a demand for payment'. <hi rend="italic">OED</hi>.</note>
+                    but that we may know how we stand. it must swell much more before it will be worth receiving. I think the first article is right: if you doubt, pray strike it out.</p>
+                <p>I must now without ceremony express my wants. a <rs type="art" ref="ar0280">Duke of Wharton</rs>. <rs type="art" ref="ar0281">small heads of favorite E. of Essex</rs>:
+                    &amp; <rs type="art" ref="ar0282">Sir W. Raleigh</rs>. <rs type="art" ref="ar0283">a small martin van Tromp</rs>.</p>
+                <p><rs type="art" ref="ar0284">Heemskirk</rs>.</p>
+                <p><del><gap unit="letters" quantity="1" reason="illegible"/></del> As you run into every odd shop: I shall be vastly happy if you c<hi rend="superscript">d</hi>
+                    fall on vol <gap unit="words" quantity="1" reason="illegible"/> of <bibl type="authorial"><title ref="bi0148">Churchills collection of voyages</title></bibl>,
+                    or vol. <gap unit="words" quantity="1" reason="illegible"/> odd volumes.<note>Pennant leaves an empty gap for volume numbers in this sentence.</note> The <del><gap unit="letters" quantity="2" reason="illegible"/></del>one
+                    is much wanted for <bibl type="authorial"><title ref="bi0642">Guinea</title></bibl>:<note type="editorial">Guinea, in north eastern Africa, belongs to the area covered in vol. XI of 'Outlines of the Globe'.</note> the other for <bibl type="authorial"><title ref="bi0404">India</title></bibl>.
+                    These I mention not as a beggar: but to be put to account: you know my little deserts, so leave it to you to stop y<hi rend="superscript">r</hi>
+                    bounty when you please.</p>
+                <p>I shall send the parcel possibly by the <placeName ref="pl1021">Salop</placeName> coach on monday night for I pass through 
+                    <placeName ref="pl0740">that proud town</placeName> that day: I forgot to say that I put up the <rs type="art" ref="ar0285">two curious <sic>drawing</sic> of the old London markets</rs>.</p>
+                <p>In <del><gap unit="letters" quantity="5" reason="illegible"/> d<gap unit="letters" quantity="1" reason="illegible"/></del>
+                    this days paper I see <bibl type="authorial"><title ref="bi0201">a new system of Natural history</title></bibl> publishing by <persName ref="pe0043">Cadel</persName> vol 1<hi rend="superscript">st</hi>. 
+                    Pray get from <persName ref="pe0328">Faulder</persName> for me. if neatly done the prints will be of use to both of us: but I will give 
+                    my<hi rend="superscript"><del><gap unit="letters" quantity="1" reason="illegible"/></del></hi> opinion of it when it arrives.</p>
+                <p>If you get any of my desiderata, pray put them between <hi rend="underline">my</hi> boards which you will receive by the coach 
+                    &amp; send them before May 5<hi rend="superscript">th</hi> to <persName ref="pe0237">M<hi rend="superscript">rs</hi> Pennant</persName>
+                    <placeName ref="pl0798">N<hi rend="superscript">o</hi> 41 Upper Grosv street</placeName>.</p>
+                <p>I lament that I cannot see y<hi rend="superscript">r</hi> fair daughters<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note> &amp; yourself this summer: especially as possibly <persName ref="pe0332">M<hi rend="superscript">r</hi> Storer</persName>
+                    w<hi rend="superscript">d</hi> have made one of the party. I am equally grieved that of all things an aberration from the common roads of 
+                    <placeName ref="pl0777">Great Britain</placeName>, is the most impossible to <persName ref="pe0238">Madam Pennant</persName> &amp; self</p>
+                <p>As to the news respecting <persName ref="pe0393">his royal Highness</persName> he is past the age of corrigibility. he a <persName ref="pe0985">Henry V<hi rend="superscript">th</hi></persName>.!!!
+                    see my <bibl type="authorial"><title ref="bi0271">London new Edition</title></bibl> p. 40. 41<note type="editorial"><hi rend="italic">Some Account of London</hi> (1791), pp. 40–1, relates how Henry, Prince of Wales, later Henry V, was committed to the King's Bench prison for insulting a judge on the bench, a punishment to which he submitted peacefully.</note></p>
+                <p>As to my <persName ref="pe0380">Lord de Cholmondely</persName>: we nice rustics will allow him every fine quality of the Jack-ass &amp; nothing more.</p>
+                <p>and as to mi <persName ref="pe0372">Lord de Cardigan</persName>: The usual pains &amp; penalt<del>y</del>ies of unequal matches will probably add ornaments to his coronet.</p>
+                <p>I am almost sorry that the Idea of the war lessens. I wish that <persName ref="pe0894">dreadful woman of the north</persName>
+                    so cripple<del><gap unit="letters" quantity="1" reason="illegible"/></del>d, that she may never stir again, even on <del><gap unit="letters" quantity="6" reason="illegible"/></del>
+                    crutches. – stained with a <persName ref="pe1462">husbands</persName> blood!!!</p>
+                <p>Reeking with a three days slaughter of thirty thousand <add place="above">gallant</add> <placeName ref="pl1473">Turks</placeName> at 
+                    <placeName ref="pl2272">Ismael</placeName><note type="editorial">This refers to a Russian attack on Izmail in south-western Ukraine, led by the Russian general Suwarrow. According to correspondence printed in the British press, the besieged garrison succumbed on 22 December 1790 with the loss of twenty-four thousand Turkish men and the imprisonment of ten thousand. See <hi rend="italic">Hereford Journal</hi>, 2 February 1791; <hi rend="italic">Derby Mercury</hi>, 24 February 1791.</note>
+                    fighting pro aris et focis<note type="editorial">'for our altars and our hearths'.</note> against an unjust invasion!!!</p>
+                <p>surrounding <placeName ref="pl1176">Europe</placeName> with usurped dominions!!!<note type="editorial">During the reign of Catherine the Great, Russia's borders were extended southwards and westwards, with the addition of territories such as the Crimea, Belarus and Lithuania, and sections of Poland. This brought her borders well into central Europe. 'Catherine the Great (1729–1796), <ref type="http" target="http://www.bbc.co.uk/history/historic_figures/catherine_the_great.shtml">here</ref> [accessed 2 October 2018].</note>
+                    acquir<del><gap unit="letters" quantity="1" reason="illegible"/></del>ing a territory replete with forests of oaks, the magazine of resistless 
+                    <del><gap unit="letters" quantity="8" reason="illegible"/></del> navies, Which, with her infernal ambition, will make all 
+                    <placeName ref="pl1176">Europe</placeName> bend beneath her yoke!!!<note type="editorial">On British dependence on the Baltic region for wood for armament, see <ref target="1022.xml">1022</ref>, n. 4.</note></p>
+                <p><placeName ref="pl0775">England</placeName> in pity to the world, in pity to itself, must break her power. <add place="above">may</add>
+                    the armed neutrality ever remain alta mente repostum: <note type="editorial">'stored deep in the mind'. See Virgil, Aeneid, Book I, line 26.</note>
+                    &amp; may the cry of the house echo from every part, DELENDA sit CATHERINA!!! <note type="editorial">'May Catherine be extirpated!!!'</note></p>
+                <closer>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

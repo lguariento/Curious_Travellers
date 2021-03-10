@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0205">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on recent and future publications and George
+                    Low's illness</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>151-152</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1776-02-23"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0206"/>
+                    <ref type="prev" target="ct0204"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+
+                <p>I thank you for y<hi rend="superscript">r</hi> last favor: &amp; shall hope the
+                    answer to my questions about the Macgregors is on its way. I leave home soon.
+                    you need not answer this soon. but after the 25<hi rend="superscript">th</hi>
+                    <add place="above">of next month</add> inclose to <persName ref="pe0015">Sir
+                        Roger M</persName> in <placeName ref="pl0734">Bruton street</placeName>
+                    <placeName ref="pl0699">London</placeName>, for I shall be in town quickly
+                    after. I fear you give up poor <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName>: his <bibl type="authorial"><title ref="bi0058">M.S.S.</title></bibl> shall have the same attention paid to them as
+                    ever. I trust that the drawings will be sent.</p>
+                <p>I am vastly pleased with <bibl type="authorial"><title ref="bi0159">Lord Hails
+                            work</title></bibl>. he did me the honor to present one. I know nothing
+                    of the <gap reason="illegible" unit="words" quantity="1"/> magazine. I think I
+                    have seen <persName ref="pe0020">M<hi rend="superscript">r</hi>
+                        Oliphants</persName> views which are excellent. What I may hereafter
+                        <sic>published</sic> will not be injured by any other work. I have been
+                    lucky enough to get a <rs ref="ar0364">plan</rs> of <placeName ref="pl1659">Dornadilla’s Tower</placeName>.<note type="editorial">The author of the
+                        plan mentioned here was Pennant's correspondent, <persName ref="pe0246">Alexander Pope</persName>, minister of Reay in Caithness. See Pope's
+                        appendix to <bibl type="editorial"><title ref="bi0004">A tour in Scotland
+                                1769</title></bibl> (3rd edn., 1774), pp.336-66 and WCRO
+                        CR2017/TP339 15.</note> I shall thank you for anything you can get without
+                    much trouble.</p>
+                <closer><salute>I am <lb/>Dear Sir <lb/>y<hi rend="superscript">r</hi> affect.
+                        humble Servt</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed></closer>
+
+                <dateline><placeName ref="pl0001">Downing</placeName> Feb. 23<hi rend="superscript">d.</hi> 1776.</dateline>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To M<hi rend="superscript">r</hi> Paton,</addrLine>
+                        <addrLine>at the Custom house</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

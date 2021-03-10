@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1389">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Lloyd, Caerwys, 9 June, no year</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>4857D</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    
+                    <date>9 June</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0333">John Lloyd</persName>
+                    <placeName ref=""><placeName ref="pl1201">Caerwys</placeName></placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1390"/>
+                    <ref type="prev" target="ct1388"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline/><salute>Dear Sir</salute></opener>
+                
+                <p>M<hi rend="superscript">r</hi> Mostyn performed to a miracle &amp; does His tutors vast 
+                    honor.<note type="editorial">In view of the reference to 
+                        'tutors', this probably refers to 
+                        a young member of the Mostyn family, possibly <persName ref="pe0414">Thomas Mostyn</persName>, born in 1776.</note> at request of 
+                    M<hi rend="superscript">r</hi> Falconer &amp; me he permits you to give us y<hi rend="superscript">r</hi> company too 
+                    morrow.<note type="editorial">This may refer to <persName ref="pe1119">Thomas Falconer</persName> rather than to Pennant's brother-in-law
+                        (from his first marriage), <persName ref="pe0390">Revd James Falconer</persName>.</note> I have provided 
+                    Keffel<note type="editorial">'Horse'.</note>
+                    so send boots, &amp; Baggage &amp;c by Bearer &amp; follow yrself. with all speed. I have just had a most irritating Letter
+                    about <placeName ref="pl1338">Penmaen mawr</placeName> so we must 
+                    defend ourselves<note type="editorial">Cf. E. R. Owen's letter of 4 September 1782 to Pennant,
+                        which corrects 'some misinformation respecting Penmaen-mawr',
+                        in NLW 2594E, Caernarvonshire folder.</note> 
+                </p> 
+                <closer><salute>y<hi rend="superscript">rs</hi> &amp;c</salute>
+                    <signed><persName ref="pe0232">T. Pennant</persName></signed>
+                    <dateline>June 9<hi rend="superscript">th</hi></dateline></closer>
+            </div>
+            <div><p><address><addrLine>To<lb/>The <persName ref="pe0333">Rev<hi rend="superscript">d</hi> M<hi rend="superscript">r</hi> Lloyd</persName><lb/>
+                <placeName ref="pl1201">Caerwis</placeName>.</addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1110">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>23</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Endorsement in Thomas Pennant’s hand</hi>: <hi rend="underline">answ<hi rend="superscript">d</hi></hi></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1790-08-25"/>
+                    <placeName ref="pl1013">North Court</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir.</salute> <dateline><placeName ref="pl1013">North Court House, Isle of Wight</placeName>
+                <lb/>August 25. 1790</dateline></opener>
+                <p>I send you a few very hasty lines, because you desir’d a return of the enclos’d,<note type="editorial">The enclosure is no longer present with the manuscript letter.</note>
+                    and because I just now happen to have a franker in the house. – I thank you much for the private engravings, and at the same moment 
+                    <add place="above">that</add> I feel myself oblig’d to you for the deep secret (which shall be buried in my breast, till you call it to resurrection) of the 
+                    <bibl type="authorial"><title ref="bi0271">new Edition of London</title></bibl>, I am almost ready to wish you every thing but 
+                    <hi rend="underline">ill</hi>, for stopping me in my carrier of finishing <bibl type="authorial"><title ref="bi0039">that work</title></bibl>.
+                    I am an old man, and am fully satisfied with your <persName ref="pe0998">old secretary</persName>; at 68 one has no loose years to throw away upon expectation; 
+                    Expedition is better by half to me, than even perfection to be waited for. I wish you would have the goodness to direct 
+                    <persName ref="pe0111">m<hi rend="superscript">r</hi>M<hi rend="superscript">r</hi>: Hugh's</persName> to send a porter, with your 
+                    <bibl type="authorial"><title ref="bi0041">litterary life</title></bibl>, <hi rend="underline">safely pack’d</hi>, and directed to me at 
+                    <persName ref="pe0346">M<hi rend="superscript">rs</hi> Luthers</persName>, <placeName ref="pl1649">Lower Grosvenor Street</placeName>
+                    where it will be taken care of, till my return, which may not be the case, if I direct it to be sent to <placeName ref="pl0759">my own house</placeName>,
+                    because it is under a full repair, and no place lock’d up.</p>
+                <p>––– I have been used very ill by <persName ref="pe0428">Smith</persName> the Engraver, with respect to the <rs type="art" ref="ar0041">little head of Pitt</rs>,
+                    - the story is not worth troubling you with, tending only to prove, what you know already, that Artists, (in general I mean,) are all 
+                    interested wretches, without a grain of liberality in their disposition. The Fleet lately at <placeName ref="pl1637">Spithead</placeName>
+                    has made this <placeName ref="pl1020">Island</placeName> very gay,, rather too much, for me, or for my pocket, for every acquaintance 
+                    calls himself ones friend, when he is upon his travels, and has no better house to go to eat his toast and butter at, than 
+                    yours. since the beginning of July, I have seldom had less than ten at table every day in the parlor, and so it seems likely to 
+                    continue; when they write me word of their intentions to come to view the fleet, and, <hi rend="underline">par bricole</hi><note type="editorial">'tinkering; messing around; toying'.</note> only, to visit me, in vain I answer
+                    <lb/>– atria longa patent, sed nec cænantibus usquam
+                    <lb/>nec somno locus est<note type="editorial">'halls stretch at length, but there is nowhere a place to dine or to sleep'. Bull quotes from Martial, Epigram L, 'In Habentem Amœnas Ædes' ('On having a charming dwelling').</note> 
+                    ––– – they come for all that, and as far as my homely way of living will satisfie them, they are heartily welcome, but I put myself out of my way for no man. I think with you, that
+                    <placeName ref="pl0925">France</placeName> is sinking below contempt and infamy, but how <placeName ref="pl0777">this Country</placeName>
+                    has risen since its unpromissing situation a very few years back, and how good Fortune has seconded the good Intentions of our good 
+                    <persName ref="pe0500">Minister</persName>?</p>
+                <closer>
+                    <salute>You and yours have the best <hi rend="underline">good</hi> wishes, of me and mine and I am always, Dear Sir,
+                        <lb/>Yours with much truth</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                    <dateline><placeName ref=""/></dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

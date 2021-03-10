@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0419">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Donald MacNicol to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP297</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>14</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe1604">Donald MacNicol</persName>
+                    <date when="1774-05-16"/>
+                    <placeName ref="pl0688">Lismore</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="ct0418"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <dateline><placeName ref="pl0688">Lismore</placeName> May 16<hi rend="superscript">th.</hi> 1774</dateline>
+                <opener><salute>Sir,</salute></opener>
+                <p>Your much esteem'd Favour of the 14<hi rend="superscript">th.</hi> of April I
+                    received in Course of Post. — As to your first Query, the number of Souls in
+                        <placeName ref="pl0688">Lismore</placeName> alone is about 1500; but
+                        <placeName ref="pl0688">Lismore</placeName> is but a Part of my Parish which
+                    in whole exceeds 42 computed Miles in Length from the one Extremity to the other
+                    with the Country of <placeName ref="pl2433">Glenco</placeName> included which is
+                    a part of my Parish, besides 9 computed Miles upon the Continent of <placeName ref="pl2730">Kingerloch</placeName>. — Our Inhabitants are surely upon the
+                    Decrease; they are so particularly upon the main Land because many of the Farms
+                    are now occupied with Sheep &amp; more of them will soon be laid out in that way
+                    — As to your 2<hi rend="superscript">nd.</hi> Query, we export no Corn or Grain
+                    of any Kind; not even from this Island except a considerable Quantity of Bear,
+                    which (as I hinted in my last to you) is distill'd into Spirits &amp; several
+                    Hundred Bolls of that Commodity are yearly sold in the neighbouring Countries of
+                        <placeName ref="pl2731">Lorn</placeName>, <placeName ref="pl0729">mull</placeName>, <placeName ref="pl2193">Appin</placeName>, <placeName ref="pl2243">Lochaber</placeName> &amp; <placeName ref="pl2216">Ardgour</placeName> — There is an immense Quantity of Meal yearly imported
+                    into most parts of <placeName ref="pl0818">Argyleshire</placeName>; even in the
+                    Island they buy a great Quantity as most of the meal of the Island goes to pay
+                    the Landlords — It has been computed that some years above <del rend="overstrike">above</del> thirty Thousand Bolls of Meal have been
+                    imported to <placeName ref="pl0818">Argyleshire</placeName> from <placeName ref="pl0889">Ireland</placeName> &amp; the north of <placeName ref="pl0705">Scotland</placeName> —</p>
+                <p>As to your third Query, its not very easy ascertaining the Number of black Cattle
+                    annually sold off, as they are disposed off sometimes in year olds, sometimes in
+                    two years olds, &amp; that not in parcels or Numbers, but one or two at a Time —
+                    Perhaps there may be about a Hundred sold yearly from the Island; its difficult
+                    to ascertain their Prices as they are of very different Qualities. Their
+                    year-olds sell from fifteen to thirty Shillings each; Their two year-olds from
+                    thirty to forty Shillings; their three year-olds from 40/ to three pounds &amp;
+                    so on. — I am greatly obliged to you for the prints which seem to be extreamly
+                    well <sic>execute</sic>. —</p>
+                <p>There is a Society of Highland Clergymen, that have lately come to a Resolution
+                    to write a Grammar &amp; Dictionary of the Galic Language; the Work is to be
+                    immediately set about. —</p>
+                <closer><salute>I am, with much Esteem,<lb/>Sir, <lb/>Your much obliged humble
+                            <lb/>Serv<hi rend="superscript">t.</hi></salute>
+                    <signed><persName ref="pe1604">Donald M<hi rend="superscript">c</hi>Nicol</persName></signed></closer>
+            </div>
+            <div>
+                <p><handShift/>Answ<hi rend="superscript">d</hi> May 31. 1774.</p>
+                <p><hi rend="superscript">O</hi>/o— 4</p>
+                <p><address>
+                        <addrLine>Thomas Pennant Esq<hi rend="superscript">r.</hi></addrLine>
+                        <addrLine>To the Care of <persName ref="pe0018">M<hi rend="superscript">r</hi> Jackson</persName> Secretary</addrLine>
+                        <addrLine>to the Post Office</addrLine>
+                    <addrLine><placeName ref="pl0076">Edinburgh —</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

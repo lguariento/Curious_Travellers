@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0236">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, with instructions for George Low and on the
+                    reception of Lightfoot's<hi rend="italic">Flora Scotica</hi></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>203</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1778-02-22"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0237"/>
+                    <ref type="prev" target="ct0235"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+
+                <p>In april I shall give <persName ref="pe0104">M<hi rend="superscript">r</hi>
+                    Gough</persName> the perusal of <persName ref="pe0156">M<hi rend="superscript">r</hi> Low’s</persName>
+                    <bibl type="authorial"><title ref="bi0058">M.S.S.</title></bibl> Please to
+                    direct me to whom I should deliver them in <placeName ref="pl0699">London</placeName>.
+                    I really think he should relate in the course of his voyage any remarkables
+                    respecting the animals or plants; &amp; give in at the end a systematic
+                    catalogue much as I have done in the <bibl type="authorial"><title ref="bi0231">Flora Scotica</title></bibl>: the same with the plants referring not to
+                    <persName ref="pe0294">Hudson</persName> but to <persName ref="pe0139">M<hi rend="superscript">r</hi>
+                    Lightfoot</persName> as a far better &amp; a far abler man. Prints of Birds &amp; rare
+                    plants may be dispersed in fit places in the voyage &amp; a few of the most
+                    picturesque scenes. let him take care not to make it too voluminous for
+                        <sic>Bookseller will frightened</sic> with the expence.</p>
+                <p><sic>The arts hurt poor <persName ref="pe0139">Lightfoot</persName> have been
+                        shameful</sic>: all that is said in the review respecting the copying his
+                    prints from <bibl type="authorial"><title ref="bi0257">Haller</title></bibl> or
+                    <bibl type="authorial"><title ref="bi0738">Oeder</title></bibl> is totally
+                        false.<note type="editorial">Lightfoot's <hi rend="italic">Flora
+                            Scotica</hi> was less than favourably received in <bibl type="editorial"><title ref="bi0298"><hi rend="italic">The Critical review, or,
+                                    Annals of literature</hi></title>, 44 (April 1777),
+                            285-287</bibl>. Among other criticisms, the reviewer identifies several
+                        drawings in <hi rend="italic">Flora Scotica</hi> as copes from <bibl type="editorial">Oeder’s <title ref="bi0738"><hi rend="italic">Flora
+                                    Danica</hi></title> (1761-1771)</bibl> and <bibl type="editorial">Albrecht von Haller's <title ref="bi0257"><hi rend="italic">Enumeratio methodica stirpium Helvetiae
+                                    indigenarum</hi></title> (1742)</bibl>. As the chief sponsor of
+                            <hi rend="italic">Flora Scotica</hi>, Pennant's resentment was no doubt
+                        increased by an adjacent and much warmer review of <bibl type="editorial"><title ref="bi0362"><hi rend="italic">Flora Londinensis</hi> (1777) by
+                                William Curtis</title></bibl> (287-292). The reviewer also
+                        recommends the ‘comprehensive view of English vegetables’ given in <persName ref="pe0294">William Hudson’s</persName>
+                        <bibl type="editorial"><title ref="bi0363"><hi rend="italic">Flora
+                                    Anglica</hi></title></bibl>, which would be republished in
+                        enlarged form the following year.</note></p>
+                <p><bibl type="authorial"><title ref="bi0259">The Edda</title></bibl> is translated in
+                    <bibl type="authorial"><title ref="bi0254">Mallet northern
+                        antiquities</title></bibl>.</p>
+                <closer><salute>I am Dear Sir <lb/>y<hi rend="superscript">r</hi> affect. humble
+                            Serv<hi rend="superscript">t</hi></salute>
+                    <persName ref="pe0232">Tho. Pennant</persName>
+
+                <dateline><placeName ref="pl0001">Downing</placeName> Febr. 22<hi rend="superscript">d</hi> 1778.</dateline></closer>
+
+                <postscript>
+                    <p>Be so good as to pay postage with the inclosed for <persName ref="pe0015">Sir R.
+                            M.</persName> is not at home.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

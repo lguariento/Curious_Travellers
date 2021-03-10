@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1214">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 142</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">On reverse of address sheet, in Richard Bull's hand</hi>:</p>
+                            <p><del>If <persName ref="pe0415">Sir W<hi rend="superscript">m</hi>. Musgrave</persName> can read 
+                                <persName ref="pe0232">M<hi rend="superscript">r</hi> Pennant</persName>'s scrawly noting, <persName ref="pe0313">M<hi rend="superscript">r</hi> Bull</persName> will be much oblig'd by his informing him whether</del></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1798-01-10"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>May this find you better than I am at present. A few days ago I was visited with a sullen fit of the gout attended by a great swelling in one leg. I should have been better pleased had it shewen 
+                    a degree of angry symptoms which generally are productive of better health. As I do not admire my mill post I apply for its reduction to my favorite Foxglove which already shews its good effects.</p>
+                <p>
+                    I hope you received the most essential part of the letter press &amp; instructions about farther completion as to the drawings I am sorry I made. Be so good as to give me the explanation of a print given me many years ago by our old friend the 
+                    <persName ref="pe0369">Dutchess of Portland</persName> It is of a strange figure of an old man ½ length in in oval. on his head a vast flapped woman’s hat, &amp; a long flowing perriwig curling in ringlets. His hands clasped. above is his cypher</p>
+                <p style="center"><unclear>TBC</unclear><note type="editorial">These letters are in a different script.</note> 
+                    <lb/>above &amp; below are some fanatical verses. the last of the lowest <del><gap unit="letters" quantity="2" reason="illegible"/></del> is
+                    <lb/>King of <placeName ref="pl2054">Jerusalem</placeName>.<note type="editorial">Further on this print, the subject of which is identified 
+                        as <rs type="art" ref="ar0449">Thomas Baskerville</rs>, see <ref target="1215.xml">1215</ref>.</note></p>
+                <p>
+                    It is a coarse engraver &amp; no artists name. I almost think that her Grace said his name was <hi rend="underline"><persName ref="pe1843">Kenrick</persName></hi>.
+                    but of that I am uncertain. Your history of this gentleman will much oblig<del><gap unit="letters" quantity="1" reason="illegible"/><add place="above">d</add></del>e</p>
+                <closer>
+                    <salute>Dear Sir
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName>
+                    <lb/>Jan<hi rend="superscript">y</hi> 10<hi rend="superscript">th</hi> 1798.</dateline>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">A JA 12 9<gap unit="letters" quantity="1" reason="illegible"/></stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull Esq<hi rend="superscript">r</hi></persName> | <placeName ref="pl0759">Stratton street</placeName> <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

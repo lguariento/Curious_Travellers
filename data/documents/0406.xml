@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0406">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Mackenzie</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>NLS</repository>
+                        <idno>Delvine Papers, MS.1423</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>12</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-03-12"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0203">John Mackenzie</persName>
+                    <placeName ref="pl0287">Delvine</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="ct0405"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> March 12<hi rend="superscript">th</hi> 1775.</dateline>
+                    <salute>Dear Sir</salute></opener>
+                <p>I return you my most hearty thanks for your late favor &amp; for the kind
+                    earnestness you show in assisting my enquiries. I presume that the Salmon get up
+                    the <placeName ref="pl0109">fall of the Tumel</placeName> above <placeName ref="pl0113">Faskally</placeName> tho’ you do not say it. my question arose
+                    from a dispute about the height those fish could surmount.</p>
+                <p>The writ is very curious. a most dangerous weapon in vindictive hands. &amp; a
+                    sad proof of weak government that was obliged to use those delegated powers.</p>
+                <p>Perhaps I may be able to thank you at <placeName ref="pl0287">Delvin</placeName>
+                    in 1776 for those favors. There is some talk of such a design.<note type="editorial">Pennant seems here to be alluding to plans for a third tour
+                        of Scotland, which never materialised.</note> but distant plans are
+                    uncertain.</p>
+                <closer><salute>I am with <lb/>True regard <lb/>Dear Sir y<hi rend="superscript">r</hi> obliged &amp; obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>.</closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>John Mackenzie esq<hi rend="superscript">r</hi>:</addrLine>
+                        <addrLine>of Delvin.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1163">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 112</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1793-01-28"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Jan<hi rend="superscript">y</hi>. 28<hi rend="superscript">th</hi> -93</dateline></opener>
+                <p>I am rather astonished that I should never think of a great paper copy of <bibl type="authorial"><title ref="bi0272">my new London</title></bibl>
+                    till you rubbed up my memory. Be so good as to trouble yourself with executing the inclosed commission: &amp;
+                    by way of brokerage accept one copy, &amp; keep the other till we meet. It is my intention to keep <bibl type="authorial"><title ref="bi0271">my second Edition</title></bibl>.
+                    multitudes of heads &amp; views are already pasted in the margins. Those are immoveable: but I shall <del><gap unit="letters" quantity="1" reason="illegible"/></del>
+                    translate the greater heads, &amp; prints into the <bibl type="authorial"><title ref="bi0272">newest edition</title></bibl>:
+                    Two leaves in the middle of each <del>volume</del><add place="above">Edition</add> must be cancell’d to divide the book which will 
+                    be otherwise too large by itself. This may be done when we meet. otherwise I will cut out &amp; send you the leaves. I shall be in 
+                    <placeName ref="pl0699">town</placeName> about march the 20<hi rend="superscript">th</hi>. my object to put my 
+                    <persName ref="pe0421">youngest boy</persName> to <placeName ref="pl2031">Hackney</placeName>: but what I shall do in my evenings <sic>I know</sic>:
+                    every friend I have is gone who w<hi rend="superscript">d</hi> give me a social evening.</p>
+                <p>
+                    I am much affected with the accounts you give of the french loyalists. their case is deplorable.<note type="editorial">This is a reference to the French Royalist émigrés and their plight, to which Bull gives some attention in his letter of 25 January 1793 (<ref target="1162.xml">1162</ref>).</note>
+                    The relations really shake my nerves: as to the poor <persName ref="pe0824">King</persName>, his end was heroic, &amp;
+                    he died a martyr to savage fury: &amp; as innocent as you or I. As to <persName ref="pe0418">Egalité</persName> he will very soon want a place to lay his head. 
+                    I wonder at y<hi rend="superscript">r</hi> dislike to our new ally <persName ref="pe0894">Kath: of Russia</persName>: 
+                    for to deal with monsters, what can you select more proper than a monster. But the cause really disturbs my quiet. I resume the quil 
+                    very unintentionally, merely to drive away the horrible thoughts of murders &amp; every kind of social distress.</p>
+                <p>
+                    I am very sorry for any particular uneasiness you may have felt: but sincerely hope for its speedy removal.</p>
+                <closer>
+                    <salute>our best compliments &amp; wishes attend miss Bulls<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note> &amp;
+                        yourself I remain with true regard, Dear Sir,
+                        <lb/>Y<hi rend="superscript">r</hi> very affect. friend</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>As to the handwriting &amp;c it is of no import. one speaking <del><gap unit="letters" quantity="several" reason="illegible"/></del>
+                        trumpet can make as much noise as a hundred voices.<note type="editorial">A reference to Bull's comment on seeing the words ‘no war with France’ inscribed on doors and walls in London. See <ref target="1162.xml">1162</ref>.</note></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

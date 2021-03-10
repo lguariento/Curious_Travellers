@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1133">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 95</locus></ab>
+                    </msContents>
+                    <physDesc><p>Condition: slight tear in paper</p></physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1791-04-25"/>
+                    <placeName ref="pl1290">Bevere</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street Piccadilly</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline><placeName ref="pl1290">Bevere</placeName> April 25<hi rend="superscript">th</hi> 1791</dateline></opener>
+                <p>I am glad that the last parcel proved so satisfactory. those strange drawings were taken from a small M.S. composed by
+                    <persName ref="pe0986">Hugh Alley</persName> citizen &amp; plaisterer in 1598 in which he inveighs against engrossers 
+                    &amp; regraters but without one single argument.</p>
+                <p>I am sorry to hear so poor an acc<hi rend="superscript">t</hi> of <persName ref="pe0043">Cadels</persName> <bibl type="authorial"><title ref="bi0201">natural history</title></bibl>:
+                    but I can readily return. as a curiosity I w<hi rend="superscript">d</hi> have you buy <bibl type="authorial"><title ref="bi0077">Bewicks Hist. of Quadrupeds oc<hi rend="superscript">tvo</hi></title></bibl> printed at <placeName ref="pl0057">newcastle on Tyne</placeName>:
+                    for the sake of the wooden plates, an art he has successfully attempted to revive.</p>
+                <p>I left <persName ref="pe0014">moses</persName> the <bibl type="authorial"><title ref="bi0022">arctic zoology</title></bibl> &amp;
+                    <persName ref="pe0404">my Secretary</persName> about <bibl type="authorial"><title ref="bi0268">the journey from London to Dover</title></bibl>:
+                    The last shall be sent to <placeName ref="pl0759">stratton street</placeName> before you quit <placeName ref="pl0699">town</placeName>:
+                    for there will be but few drawings for its margins.</p>
+                <p>I luckily got from <placeName ref="pl1347">oxford</placeName> even in the three days I have been here the <bibl type="authorial"><title ref="bi0194"><hi rend="underline">second</hi> vol. of Churchil’s voyages</title></bibl>.
+                    I want now only the IV<hi rend="superscript">th</hi> (I think): but it is easily known by being that which contains 
+                    <bibl type="authorial"><title ref="bi0196">Barbot’s description of <hi rend="underline">Guinea</hi></title></bibl> with many plates.
+                    I wish to leave <persName ref="pe0014">Griffith</persName>'s acc<hi rend="superscript">t</hi> till it has swelled to a greater amount.</p>
+                <p>I got here a copy of <rs type="art" ref="ar0306">Lusty Packington</rs> see Baronetage article <hi rend="underline">Packington</hi>:
+                    &amp; <bibl type="authorial"><title ref="bi0268">London to Dover</title></bibl>, article <hi rend="underline">Greenwich Bridge</hi>.<note type="editorial">Writing about Greenwich Bridge in <hi rend="italic">From London to Dover</hi> (1801), pp. 12–13, Pennant remarks that he is reminded of a 'wager laid, in the reign of Queen Elizabeth, by Sir John Packington, commonly called Lusty Packington, that he would swim from the bridge at Westminster, i.e. Whitehall Stairs, to that at Greenwich, for the sum of three thousand pounds’, but that Elizabeth would not permit Packington to ‘the run the hazard of the trial’.</note>
+                    w<hi rend="superscript">d</hi> you have a copy?</p>
+                <p>I had the impudence of sending to you a few more wants last week inclosed to <persName ref="pe0422">G. Rainsford</persName>. 
+                    two little <rs type="art" ref="ar0307">C. of Arragons</rs> will be welcome. you know my wants: if you chance to send any duplicate – I can soon return them. By the by, 
+                    <rs type="art" ref="ar0308">Don Quixots defeat before Barcelona</rs>?</p>
+                <p>The Rock is <placeName ref="pl2330">Dalar Goch near Disert</placeName>. The <placeName ref="pl2331">castle near it is that of Disert</placeName>.
+                    It is remarkable for producing quantities of lead ore, enriching the land lord: but attended by reason of expences <add place="above">with</add>
+                    vast loss to the adventurers.</p>
+                <p><persName ref="pe0014">Griffith</persName>'s drawings of birds equal to <persName ref="pe0364">Albin</persName>'s! Pray do not <sic>depretiate</sic> 
+                    <persName ref="pe0014">Moses</persName> with the odious Comparison.</p>
+                <p>The females of my house <hi rend="underline">bodder</hi> me with the History of the future <persName ref="pe0370">La<gap unit="letters" quantity="1" reason="illegible"/>y Cholmondely</persName>
+                    night caps, bridal linnen &amp;c &amp;c That make me almost as sick as <persName ref="pe0380">her Lords</persName> ostentatious 
+                    display of his prodigious <hi rend="underline">talents</hi> once so frequent with him.</p>
+                <p>I hope wars are going to cease upon earth. at lest the papers flatter us with the hopes. <persName ref="pe0416">D<hi rend="superscript">r</hi> Nash</persName>
+                    joins in best complim<hi rend="superscript">ts</hi>.</p>
+                <closer>
+                    <salute>Adieu
+                    <lb/>D<hi rend="superscript">r</hi> Sir
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T.P.</persName></signed>
+                </closer>
+                <postscript>
+                    <p>I make this week a strange <sic>diagonel</sic> of two counties to get to my next visits in <placeName ref="pl1362">cheshire</placeName>.
+                        y<hi rend="superscript">r</hi> next may be to <placeName ref="pl0001">Downing</placeName>.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark">AP 25 91</stamp></p>
+                <p><stamp type="handstamp"><placeName ref="pl0806">WORCESTER</placeName></stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> esq<hi rend="superscript">r</hi> | <placeName ref="pl0759">Stratton street Piccadilly</placeName> | <placeName ref="pl0699">London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

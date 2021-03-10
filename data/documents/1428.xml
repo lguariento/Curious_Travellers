@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1428">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Jones to Thomas Pennant, 2 May 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR 2017 /TP169</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>item 5</locus></ab>
+                    </msContents>
+                    <physDesc><additions><p><hi rend="italic">Endorsement (in Thomas Pennant's hand)</hi>: 
+                        <persName ref="pe0322">M<hi rend="superscript">r</hi> Jones</persName></p>
+                        </additions></physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0322">John Jones</persName>
+                    
+                    <date when="1777-05-02">2 May 1777</date>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl3040">George Street</placeName>
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1430"/>
+                    <ref type="prev" target="ct1427"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Sir</salute>
+                <dateline>May 2 1777</dateline></opener>
+                
+                <p>I send you herewith inclosed a Copy of <persName ref="pe2132">Master</persName>'s
+                        <bibl type="authorial"><title ref="bi0710">Iter Boreale</title></bibl> which
+                    I received of <persName ref="pe2126">M<hi rend="superscript">r</hi>
+                        Price</persName> this Morning. As to the Drawings I am authorised by him to
+                    inform you that "there has been a Wedding lately in <persName ref="pe2129">M<hi rend="superscript">r</hi> Rivington</persName>'s Family – This has
+                    prevented a proper Search being made for the Drawings which were formerly sent
+                    to his Care to be delivered <del>to</del>for you to <persName ref="pe0026">M<hi rend="superscript">r</hi> White</persName>. <sic>Assoon</sic> as this
+                    Affair is a little more settled <persName ref="pe2126">M<hi rend="superscript">r</hi> Price</persName> is in Hopes of finding out what is become <gap reason="authorial" unit="letters" quantity="1"/>f
+                    the Parcel, and you will then hear from him."–<note type="editorial">For an
+                        earlier reference to these drawings, see <ref target="1427.xml">1427</ref>.</note></p>
+               
+                
+                <p>I should be extremely happy to give you any Information in my Power respecting the 
+                    Eisted<del>f</del>dfa at <placeName ref="pl1201">Caerwys</placeName>,<note type="editorial">Jones refers to one of the eisteddfodau held at 
+                    Caerwys during the sixteenth century. See also <ref target="1385.xml">1385</ref>, esp. n. 7; and on the word 'eisteddfa', n. 12 below.</note> but I have not
+                    at present any thing in particular drawn out relating to it, and as it is n<gap reason="authorial" unit="letters" quantity="2"/>ow Term Time I cannot consistently 
+                    with my Duty spare Time sufficient for such a Purpose. All that I can say at present is that 
+                    the usual Places for conferring Degrees in Musick in the Time of the Welch Princes were at 
+                    *<placeName ref="pl3044">Aberfraw</placeName><note type="authorial">*J. D Rhese's <bibl type="authorial"><title ref="bi0610">Gramm.</title></bibl> 
+                        <sic>pag</sic> 2<del>6</del>95</note> in <placeName ref="pl1093">Anglesey</placeName> and at <placeName ref="pl1214">Mathravael</placeName> 
+                    in <placeName ref="pl1224">Powis</placeName>, and that they were 
+                    to be conferred every three Years. <persName ref="pe0357">Queen Elizabeth</persName>'s Commission for that Purpose is Directed to <hi rend="underline">be executed at 
+                    <placeName ref="pl1201">Caerwys</placeName>*</hi><note type="authorial">*see the Commission at La<gap reason="illegible" unit="letters" quantity="1"/>ge in 
+                        Appendix to D<hi rend="superscript">r</hi> Brown's 
+                        <bibl type="authorial"><title ref="bi0708">Dissertation upon Poetry &amp;c</title></bibl></note><note type="editorial">For Elizabeth I's Commission 
+                        see <ref target="1426.xml">1426</ref>, n. 1.</note> "her highness's Counsel <del><gap reason="illegible" unit="letters" quantity="1"/></del>of 
+                    late travailing in some Part of the Principality having had perfect understanding by credible Report, that the Accustomed Place for the Execution of 
+                    the like Commission had been heretofore in the Town of <placeName ref="pl1201">Caerwys</placeName> in the <placeName ref="pl0702">County of Flint</placeName>. <unclear>&amp;c</unclear>" But 
+                    I am inclined to think that this was not the Case before the Time of <persName ref="pe1341">Edward the first</persName>. It is also said in the Commission 
+                    that "<persName ref="pe2133">W<hi rend="superscript">m</hi> Mostyn Esq<hi rend="superscript">r</hi></persName>, &amp; his Ancestors have had the gift &amp;
+                    bestowing of the Silver Harp appertain<add place="above">in</add>g to the chief of that Family"<note type="editorial">These words from Elizabeth I's commission 
+                    for the holding of an eisteddfod at Caerwys in 1567/8 are quoted in Pennant, <hi rend="italic">A tour in Wales 1770 [1773]</hi> (2nd edn., 1784), I, p. 465. On the silver harp, 
+                        'from time immemorial ... in the gift of [the] ancestors [of Roger Mostyn, fifth baronet], to bestow on the <hi rend="italic">chief of the faculty</hi>', see ibid., pp. 463–4.</note> But 
+                    Leland in his <bibl type="authorial"><title ref="bi0699">Itinerary</title></bibl> vol 5 <sic>pag</sic> 56 says that the right of 
+                    bestowing the Badge of the silver harp belonged to one "<persName ref="pe2134">Hoele</persName> a gentliman of 
+                    <placeName ref="pl0702">Fflyntshire</placeName> dwelling at <placeName ref="pl3045">Penryn</placeName> &amp;c."<note type="editorial">See Pennant's reference 
+                        to this material from '<hi rend="italic">Leland Itin.</hi> v. 56', later published as <hi rend="italic">The itinerary of John Leland the Antiquary</hi> (Oxford, 1710–12), in <hi rend="italic">A tour in Wales 1770 [1773]</hi> 
+                    (2nd edn., 1784), I, p. 90.</note> Whether these seemingly different Families are one and the same I must leave you to determine, as I have no particular 
+                    account of the <del><gap reason="authorial" unit="letters" quantity="1"/></del>Mostyn Family among my Papers.<note type="editorial">Pennant concluded that 
+                        there was a link between Leland's 'Hoele' and the Mostyns. See reference in n. 7
+                    above.</note> I find that vocal as well as instrumental Performers were intitled to Degrees, provided they performed the statutable Excercise 
+                    assigned to the several Degrees. Performers upon the Harp <del><gap reason="illegible" unit="letters" quantity="1"/></del> or Crwth<note type="editorial">'crowd'.</note> 
+                    only were admitted, to these Honours, the inferior Performers as they are called, those who <hi rend="underline">played upon the Different Kinds of Flutes or pipes 
+                    Tabors, or <del><gap reason="illegible" unit="letters" quantity="1"/></del>the three stringed crwth<note type="editorial">'crowd'.</note> or as it is 
+                    otherwise called the Fiddle</hi> were allowed no honours, nor even to sit down while they played <sic>butt</sic> to play standing. The vocal Performers, 
+                    graduates were of two sorts: of the first sort were the Bards, who were further subdivided into three classes: of the second were the singers answering 
+                    to our modern vocal Performers. All these were required to do <sic>statuteable</sic> Exercises, as well as the Instrumental Performers for their several Degrees. None 
+                    of the Performers of either Side could attain these Honours under twelve Years at least, I mean of Bards <del>of</del>or of primary Musicians. And 
+                    in order to ma<del>y</del>ke them pay <del><gap reason="illegible" unit="letters" quantity="1"/></del>all possible Attention to their Studies no man was allowed 
+                    to be of two Professions i.e. to study Poetry professedly, and to play upon the Harp or Crwth,<note type="editorial">'crowd'</note> nor suffered to be 
+                    of any Trade or Profession whatsoever. but what he first assumed. The Laws may be seen at large in J David Rhese's <bibl type="authorial"><title ref="bi0610">Grammar</title></bibl> pag. 295.
+                </p>
+                <p>Time will not permit me to be more particular at present, I will therefore only add that I have nothing further to communicate to you Respecting <placeName ref="pl1201">Caerwys</placeName>, 
+                or the Eisteddfa<note type="editorial">'Congress of bards, 'eisteddfod' (in early sense)'. See <hi rend="italic">GPC</hi> s.v. eisteddfa.</note> there. But if any thing occurs that may 
+                    <add place="above">be</add> acceptable to you, you may depend upon an immediate Communication 
+                    of it. I am with <persName ref="pe2126">M<hi rend="superscript">r</hi> Price</persName>'s Compliments</p>
+                <closer><salute>Sir<lb/>
+                    your most obedient humble Servant
+                </salute>
+                    <signed><persName ref="pe0322">Jno Jones</persName></signed></closer>
+                
+            </div>
+            <div>
+                <p><address><addrLine><persName ref="pe0232">Thomas Pennant Esq<hi rend="superscript">r</hi></persName><lb/>
+                at <persName ref="pe2131">M<hi rend="superscript">r</hi> Gray</persName>'s <placeName ref="pl3040">George Street</placeName><lb/>
+                <placeName ref="pl1862">Hanover Square</placeName><lb/>
+                <placeName ref="pl0699">London</placeName></addrLine></address></p></div>
+            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1022">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 24</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1782-09-20"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> <choice><abbr>Sept<hi rend="superscript">r</hi></abbr><expan>September</expan></choice> 20<hi rend="superscript">th</hi>. 1782.</dateline><salute>Dear Sir</salute></opener>
+                <p>It gives <persName ref="pe0014">Moses Griffith</persName> much concern to hear that he does not bestow equal pains on all his works which he declares he is not conscious of. 
+                    He indeed made the large drawings larger than I could have wished, but has charged them only 9<hi rend="superscript">s</hi>
+                    each, whereas his usual price is 12<hi rend="superscript">s</hi>.
+                    He likewise charges you at the rate he first began, as being an original c<supplied>us</supplied>tomer. Should you dislike any drawing he will 
+                    <sic>chearfully</sic> take it back. your other orders will be most punctually obeyed. &amp; you may depend on having 
+                    <bibl type="authorial"><title ref="bi0012">vol. 1</title></bibl> by new years day.
+                    I fear the <bibl type="authorial"><title ref="bi0032">journey to London</title></bibl> must crave <choice><abbr>y<hi rend="superscript">r</hi></abbr><expan>your</expan></choice>
+                    patience till midsummer. If you are intimate with the <placeName ref="pl1009">Heralds office</placeName> could not you get for our common use the 
+                    <rs type="art" ref="ar0046">arms &amp; crest of <persName ref="pe0206">Lord Wenlock</persName></rs>.<note type="editorial">This probably refers to Sir John Wenlock, first Baron Wenlock (d.1471), to whose death Pennant refers in <hi rend="italic">The journey from Chester to London</hi> (1782), pp. 396–7. <hi rend="italic">ODNB</hi>.</note>
+                    If not we may together in march visit the <choice><abbr>s<hi rend="superscript">d</hi></abbr><expan>said</expan></choice> office.</p>
+                <p>I am struck with horror at the loss of the royal George &amp; more so to find she really was so rotten as not fit to be trusted out of Port.<note type="editorial">HMS <hi rend="italic">Royal George</hi> sank in the harbour at Spithead on 28 August 1782 with the loss of more than 800 lives. See <ref type="http" target="https://blog.britishnewspaperarchive.co.uk/2013/08/28/the-sinking-of-hms-royal-george-spithead-29-august-1782/">here</ref>.</note>
+                    Does not the inattention of the admiralty merit rebuke.<del><gap unit="letters" quantity="1" reason="illegible"/></del>The last <del><gap unit="letters" quantity="6" reason="illegible"/></del>post's paper fills me with dire apprehension about <placeName ref="pl1010">Gibraltar</placeName>.<note type="editorial">The French and Spanish launched an attack on Gibraltar on 13 September 1782, using floating batteries alongside other vessels and troops. Red hot shot was fired by the British at the batteries with some success, however.</note>
+                    the loss must occasion much murmur: for our Fleet has lain two months idle. neither that fortress relieved, nor our important stores relased 
+                    <choice><abbr>fr<hi rend="superscript">m</hi></abbr><expan>from</expan></choice> the <placeName ref="pl1011">baltic</placeName>.<note type="editorial">On Britain's dependence on the Baltic region for naval stores during the 1780s, see James Davey, <hi rend="italic">The Transformation of British Naval Strategy: Seapower and Supply in Northern Europe, 1808–1812</hi> (Woodbridge, Suffolk: The Boydell Press, 2012), pp. 20–3, 26.</note>
+                    But to <del>my</del>conclude my horrors, I tremble more at the profligacy of the common people; &amp; the cruel robberies which destroy all 
+                    <sic>safty</sic> about <placeName ref="pl0699">the capital</placeName>. if scarcity ensues (for here is a relapse of bad weather) &amp; no means used to prevent it by opening of our ports, I cannot see what will prevent a general rising. Heaven avert all these evils.</p>
+                <p>We all join in best <choice><abbr>complim<hi rend="superscript">ts</hi></abbr><expan>compliments</expan></choice> to <choice><abbr>y<hi rend="superscript">r</hi></abbr><expan>your</expan></choice> house. I beg mine to 
+                    <persName ref="pe0332">M<hi rend="superscript">r</hi> Storer</persName> &amp; many thanks for the franks.</p>
+                <closer><salute>I am
+                    <lb/>Dear Sir
+                    <lb/><choice><abbr>Y<hi rend="superscript">r</hi></abbr><expan>Your</expan></choice> very faithful humble <choice><abbr>Serv<hi rend="superscript">t</hi></abbr><expan>Servant</expan></choice></salute>
+                    <signed><persName ref="pe0232"><choice><abbr>Tho.</abbr><expan>Thomas</expan></choice> Pennant</persName></signed>
+                    </closer>
+                </div>
+        </body>
+    </text>
+</TEI>

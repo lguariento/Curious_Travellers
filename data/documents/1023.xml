@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1023">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 25</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1782-10-04"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0758">Stratton Street Piccadilly</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I should not have wrote so soon but for my flutter on <choice><abbr>acc<hi rend="superscript">t</hi></abbr><expan>account</expan></choice>
+                    of the american news. you perhaps will <sic>so</sic> good as to fling some light on it. I attribute it to th<gap unit="letters" quantity="1" reason="illegible"/><supplied>e</supplied>
+                    precipitate motions of <persName ref="pe0472">G. Conway</persName>; &amp; the natural effect of an ill digested plan more calculated to overthrow the ministry than anything else. surely we are a sold people: 
+                    but everything must a rise that is evil if our american army perhaps pleased with the country join with the loyalists
+                    &amp; <hi rend="underline">make a peace</hi> of their own.</p>
+                <p>The only use of <placeName ref="pl1010">Gibraltar</placeName> is to get better terms.<note type="editorial">The siege of Gibraltar was lifted in February 1783 and the set of treatises to end the American Revolutionary War, known as the Peace of Paris, 3 September 1783, left Gibraltar with the British.</note>
+                    if I was in the house I would risque the madness of the people by moving the giving of it up. I worship the loyal <persName ref="pe0473">Elliot</persName>
+                <lb/>Faithful found
+                    <lb/>among the faithless.<note type="editorial">Words describing the seraph Abdiel ('faithful found, / Among the faithless') in John Milton, <hi rend="italic">Paradise Lost</hi>, Book 5, lines 896–7.</note></p>
+                <p>Your rebuke to <persName ref="pe0014">Moses</persName> is not amiss. He shall for the future only do things I mention in print. 
+                    Pray send me <persName ref="pe0329">Mess<hi rend="superscript">rs</hi> Goslings</persName> note to the amount of the Bill, 
+                    &amp; I will pay <persName ref="pe0014">moses</persName></p>
+                <closer><salute>I am Dear Sir
+                    <lb/>most faithfully <choice><abbr>y<hi rend="superscript">rs</hi></abbr><expan>yours</expan></choice></salute>
+                    <signed><persName ref="pe0232"><choice><abbr>Tho.</abbr><expan>Thomas</expan></choice> Pennant</persName></signed>
+                    <dateline> <placeName ref="pl0001">Downing</placeName> <choice><abbr>oct<hi rend="superscript">r</hi></abbr><expan>october</expan></choice> 4<hi rend="superscript">th</hi> 1782.</dateline></closer>
+                
+            </div>
+            <div>
+                <p><address>
+                    <addrLine><persName ref="pe0313"><choice><abbr>Rich'<hi rend="superscript">d</hi></abbr><expan>Richard</expan></choice> Bull <choice><abbr>Esq<hi rend="superscript">r</hi></abbr><expan>Esquire</expan></choice></persName> | <placeName ref="pl0759">Stratton Street</placeName> | <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName><handShift/><note type="editorial">The address is not in Pennant's hand.</note></addrLine>
+                </address></p>
+                <p><stamp type="postmark">7 0C</stamp>
+                <stamp type="handstamp"><placeName ref="pl0703">NORTHOP; NORTHOP</placeName></stamp>
+                <stamp type="frank">FREE;<note type="editorial">Stamped in ink.</note> per <persName ref="pe0015">R <sic>Mosun</sic></persName></stamp><note type="editorial">Handwritten.</note></p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

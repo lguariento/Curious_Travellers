@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1203">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 136</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1797-08-12"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl1013">North Court</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>The answer to my last has been impatiently expected by poor <persName ref="pe0324">Ingleby</persName>. 
+                    He has by my impertinence done a few drawings for you: but he wishes now to stop till he knows, it is quite agreable to you. I am sorry to trouble on the subject. Indeed it is a little trouble to myself; for my spirits are far from good. all things go on well with me but the loss of 
+                    <persName ref="pe0015">Sir Roger M</persName> still hangs heavy. The <placeName ref="pl0695">house</placeName> is altered. The house
+                    is as the Spectator says. inhabited by Ruricola, but Ruricola transformed.<note type="editorial">Pennant refers to a tale related in the <hi rend="italic">Spectator</hi>, no. 192, 10 October 1711, of the unworthy son of the commendable Ruricola, who 'perpetuates his father in the same manner as the appearance of his ghost would: it is indeed Ruricola, but it is Ruricola grown frightful’. <hi rend="italic">The Spectator; with Notes and a General Index. From the London Stereotype Edition</hi> (2 vols., Philadelphia: J. J. Woodward, 1832), I, pp. 283–4.</note>
+                    Every good thing attend <persName ref="pe0331">miss Bull</persName> and yourself. I hope y<hi rend="superscript">r</hi> fears about here are over.</p>
+                <p>
+                    <persName ref="pe0324">Ingleby</persName> will send the letter press to <placeName ref="pl0759">Stratton street</placeName> by to morrows 
+                    <del>p</del>Coach he had done no drawings for your <bibl type="authorial"><title ref="bi0689">Whiteford</title></bibl>. Please to name any you please for the 
+                    <bibl type="authorial"><title ref="bi0032">journey to London</title></bibl>, or leave them to me. What is to doing at <placeName ref="pl2583">Lisle</placeName>
+                    we daily look out for the blessing of peace;<note type="editorial">Peace talks between Great Britain and France were held in the summer of 1797. As early as August difficulties were arising because of the French Government’s insistence on the return of its own captured colonies and those of its allies, Spain and the Batavian Republic. By the end of September the talks were in a state of deadlock, and they were abandoned in October. S. Maccoby (ed.), ‘1797–9’, in <hi rend="italic">English Radicalism 1786–1832</hi> (London: Routledge, 2002; reprint of a book first published by George Allen &amp; Unwin Ltd, 1955), p. 118.</note>
+                    but now suspect the french dare not make one. Pray let me hear speedily of y<hi rend="superscript">rs</hi> &amp; <del><gap unit="letters" quantity="2" reason="illegible"/></del> <persName ref="pe0331">good daughter</persName>'s health</p>
+                <closer>
+                    <salute>Adieu
+                    <lb/>Dear Sir,
+                        <lb/>y<hi rend="superscript">rs</hi> most affectly</salute>
+                    <signed><persName ref="pe0232">T. Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Aug. 12<hi rend="superscript">th</hi> 1797</dateline>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">C AU 14 97</stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi> | <placeName ref="pl1013">Northcot hall</placeName> | <placeName ref="pl1020">Isle of Wight</placeName>.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

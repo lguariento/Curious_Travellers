@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1059">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 11</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date>26 April [1787]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I bespeak you long before for an audience of leave-taking by saying I wish it may be at or a little before 2, 
+                    o’clock on Sunday. an answer will oblige</p>
+                <closer>
+                    <salute>Y<hi rend="superscript">rs</hi> truely</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline>April 26<hi rend="superscript">th</hi> 81.<note type="editorial">The year '[17]81' is added in Richard Bull's hand, but the context suggests a 1787 date. Pennant's interest in Elizabeth's speech to her subjects (see n. 2, below) concurs with our knowledge of his journey down the Thames with his son David in the spring of 1787.</note><placeName ref=""/></dateline>
+                </closer>
+                <postscript>
+                    <p>Pray in what Book may be found <persName ref="pe0357">Q. Eliz</persName> speech to her subjects
+                        for running fr<hi rend="superscript">m</hi> the coasts in 1588, with a <hi rend="underline">By G.</hi>
+                        in it.?<note type="editorial">A reference to the speech delivered by Elizabeth at Tilbury, opposite Gravesend, in 1588, quoted by Pennant in <hi rend="italic">From London to Dover</hi> (1801), p. 61: 'She alludes to the cowardly desertion of the country at the appearance of the Armada, by several of the gentry who lived on the coasts. "I understand," says she, "that numbers of the Gentry have quitted their seats on the sight of the enemy: Should they ever again betray the like want of courage, by G-d I will make them know what it is to be fearful on so urgent on occasion!!!".</note></p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> | <placeName ref="pl0759">Stratton street.</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

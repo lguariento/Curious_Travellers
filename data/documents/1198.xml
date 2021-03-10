@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1198">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 133</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1797-03-01"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> <del>Feb 2</del>March. 1. 1797.</dateline></opener>
+                <p>I believe you may clear me from ever being guilty of neglect of your favors. I received yours of the 6<hi rend="superscript">th</hi>
+                    in due time. on the <del><gap unit="letters" quantity="1" reason="illegible"/></del> tenth I lost my worthy <persName ref="pe0237">Sister</persName>,
+                    whose whole life had been a continued series of bounty &amp; liberality to me &amp; mine. Her death affected us all great. we owed her the warmest gratitude; which her kindness to her 
+                    in the last act of life must make us remember her with respect mixed with sorrow. Her bequest to <persName ref="pe0065">my son</persName>
+                    was great. To <persName ref="pe0234">my daughter</persName> considerable &amp; to the rest of us very satisfactory. I drop the subject</p>
+                <p>
+                    Your account of poor <persName ref="pe0379">chiswel</persName> was a great shock to me &amp; very unexpected. I had a letter from him dated Jany 23<hi rend="superscript">d</hi>
+                    written in his usual manner about prints &amp;c. How dreadful is it for a man blessed with such immensity <del>to give</del> of fortune - to
+                    give himself to the sordid passion, to such a degree as to bring on himself, so dreadful an end. <del>Th</del></p>
+                <p>
+                    <persName ref="pe0014">Moses</persName> has for some time given himself up to paiting miniatures so he has neglected both y<hi rend="superscript">r</hi>
+                    work, &amp; mine. I have taken it from him &amp; put it into that of <persName ref="pe0324">Ingleby</persName> a protegé of our late unhappy friend who entirely supported him with his work. Poor 
+                    <persName ref="pe0379">Chiswel</persName> had about twenty pounds worth in hand: about which he has received by order of <persName ref="pe1790">M<hi rend="superscript">rs</hi> Chiswel</persName>
+                    a very comfortable letter assuring him of payment as soon as it was finished. After which he will be on the wide world. <del>I</del>We may now be sure of having the work speedily finished.</p>
+                <p>
+                    I lament the account you give of <persName ref="pe0434">Lord orford</persName>: but compassion on his sufferings must make us consider <sic>as</sic> death a relief.</p>
+                <p>
+                    I am now engaged to different works indeed. the printing my great work the <bibl type="authorial"><title ref="bi0263">view of Hindoostan</title></bibl>;
+                    &amp; arming my neighbors who are most entirely loyal.<note type="editorial">On 9 March 1797 Pennant chaired a meeting to set up an armed corps to be stationed in Holywell, Flintshire, named ‘The Loyal Holywell Volunteers’ and made up of an unit of two companies, each of sixty men. This was largely in response to the Fishguard landing (see next note). Evans, ‘The Flintshire Loyalist Association’, 62.</note>
+                    How I excult that the first great blow has been struck by the welsh.<note type="editorial">A reference to the Fishguard landing of 22 February 1797.</note>
+                    As to my literary labor<note type="editorial">It is not clear to which publication Pennant refers here. He does not seem to have published anything during 1797, but he may have hoped to see his volume on Hindoostan appear that year, and the 'storm' to which he refers may have been a conflict of interest between two printers, White and Hughs. The former is mentioned here as being in charge of 'some of the plates', but it was the latter who eventually published the work in 1798.</note>
+                    I am its true caught in a storm but I must go on with it. it will appear the latter end of may. <persName ref="pe2024">mess<hi rend="superscript">rs</hi> White</persName>
+                    will shew you some of the plates. May heaven bless you &amp; <persName ref="pe0331">miss Bull</persName> &amp; restore you if possible to y<hi rend="superscript">r</hi>
+                    former tranquillity let me hear from you &amp; let me know how you are. I am surrounded with my whole stock. <persName ref="pe0065 pe0421">sons</persName> &amp; <persName ref="pe1779">grandson</persName>.
+                    <persName ref="pe0065">my eldest</persName> has too much spirit not to be engaged in training his countrymen. my <persName ref="pe0421">younger</persName> between 16 &amp; 17 has taken in an uncommon degree to his studies &amp; 
+                    useful life. he has recovered his health: &amp; is intended for <placeName ref="pl1347">oxford</placeName> in oct<hi rend="superscript">r</hi>.</p>
+                <closer>
+                    <salute>Adieu D<hi rend="superscript">r</hi> Sir
+                    <lb/>ever &amp; affect<hi rend="superscript">ly</hi> y<hi rend="superscript">r</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>Pray give me some acc<hi rend="superscript">t</hi> of <persName ref="pe0398">Hastings</persName> clandestine dealings with poor <persName ref="pe0379">Chiswel</persName> &amp;
+                        to what amount was the concealment?<note type="editorial">Chiswell invested in East India stock on behalf of Warren Hastings’s second wife, Anna Maria Apollonia Chapuset (known as Marian; 1747–1837). <hi rend="italic">ODNB</hi>; P. J. Marshall, ‘The private fortune of Marian Hastings’, <hi rend="italic">Bulletin of the Institute of Historical Research</hi>, 37 (1964), 245–53.</note></p>
+                    <p>
+                        The strange business of my nephew <persName ref="pe0414">m<hi rend="superscript">r</hi> T. Mostyn</persName> comes before the house on the 9<hi rend="superscript">th</hi>.
+                        never was so audacious an offence against law, so I do not pity him.</p>
+                </postscript>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">A MR 3 97</stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp></p>
+                <p>
+                    <address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi> | <placeName ref="pl0759">Stratton street</placeName> | <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName>.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

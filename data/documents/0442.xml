@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0442">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>George Paton to Thomas Pennant, 14 March 1778</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP4</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>24</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0228">George Paton</persName>
+                    <date when="1778-03-14"/>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0239"/>
+                    <ref type="prev" target="ct0441"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p><persName ref="pe0022">Doctor Ramsay</persName> continues <unclear reason="damage">better desires</unclear> his best Compliments &amp; sent me
+                    back M<hi rend="superscript">r.</hi>
+                    <gap reason="damage" unit="words" quantity="1"/><unclear reason="damage">draught
+                        of</unclear> the picked <hi rend="underline">Dog fish</hi><note type="editorial">The Picked Dogfish is listed in Pennant's <bibl type="editorial"><title ref="bi0020"><hi rend="italic">British
+                                    Zoology</hi></title>, 4 vols.(Warrington: 1776-1777), <biblScope unit="volume">iii</biblScope>, <biblScope unit="page">p.100</biblScope></bibl>, but is not accompanied by a plate.</note>
+                    herewith transmitted, <gap reason="damage" unit="words" quantity="1"/> to
+                    yourself if truely taken as <persName ref="pe0156">M<hi rend="superscript">r.</hi> Low</persName> assures me it is <gap reason="damage" unit="letters" atLeast="2" atMost="4"/>uld you not be satisfied with this
+                    Sketch please a<gap reason="damage" unit="letters" atLeast="4" atMost="5"/>t me
+                    &amp; I will endeavour to secure one from our fishermen here so soon as can be
+                    had as these are but rare on this Coast at The present Season of the Year.</p>
+                <p>This day a worthy friend of Mine the <persName ref="pe1260">Rev<hi rend="superscript">d</hi> M<hi rend="superscript">r.</hi>
+                        Bryce</persName> who laid down the <bibl type="authorial"><title ref="bi0145">Map of the North Coast of Scotland</title></bibl>
+                    <choice>
+                        <abbr>vis<hi rend="superscript">t.</hi></abbr>
+                        <expan>visits</expan>
+                    </choice>
+                    <placeName ref="pl0825">Caithness</placeName>
+                    <unclear reason="illegible">&amp;<hi rend="superscript">c</hi></unclear> writes
+                    me that <persName ref="pe0246">M<hi rend="superscript">r.</hi> Pope</persName>
+                        Min<hi rend="superscript">r.</hi> of <placeName ref="pl1771">Reay</placeName> his intimate friend has been sadly distrest with the Gout
+                    this last winter &amp; rendered him unfit for writing thro it's fixing in his
+                    right Arm &amp; hand: having a Son whom he is most desirous to be admitted his
+                    assistant &amp; Successor as Clergyman of the said Parish, he requests the good
+                    offices of his well wishers in this affair; it is a Crown presentation, &amp;
+                    possibly might be the more easily obtained as it is in a retired corner of the
+                    Country: if it is suitable to your easiest convenience to advise in this matter
+                    with your benevolent favour it would afford great satisfaction to the worthy old
+                    Gentleman altho' my Influence is mean yet shall do my best to promote the
+                    desired effect &amp; shall apply to every one within the circle of my knowledge,
+                    who promise to be of Service.</p>
+                <p><gap reason="damage" unit="words" atLeast="2" atMost="4"/> parcel I wrote last
+                        <add place="above">of</add>
+                    <del rend="overstrike">off</del> is shipt &amp; will <gap reason="illegible" unit="words" atLeast="4" atMost="5"/>d be conveyed to <placeName ref="pl0699">London</placeName>, this is to be <unclear reason="damage">leaved</unclear>
+                    <gap reason="damage" unit="letters" atLeast="4" atMost="5"/>
+                    <unclear reason="damage"><persName ref="pe0043">M<hi rend="superscript">r.</hi>
+                            Cadel's</persName></unclear> Bookseller in <placeName ref="pl0699">London</placeName> &amp; if you have occasion <gap reason="damage" unit="words" atLeast="2" atMost="4"/> in the <placeName ref="pl2002">Temple</placeName> before you reach <placeName ref="pl0699">London</placeName> to <gap reason="damage" unit="words" quantity="1"/> call
+                        <gap reason="damage" unit="words" atLeast="1" atMost="2"/> or lay it
+                    carefully aside till your approach <gap reason="damage" unit="words" quantity="1"/> in case <persName ref="pe0043">M<hi rend="superscript">r</hi>
+                        Cadel</persName> should omit forwarding it to <persName ref="pe1262">M<hi rend="superscript">r</hi> Burks</persName> place of <gap reason="damage" unit="words" quantity="1"/>: forgive my attention on this subject, as
+                        <persName ref="pe0022">D<hi rend="superscript">r</hi> Ramsay</persName>
+                    informed me of a manoeuvre about the Roads in <placeName ref="pl0705">Scotland</placeName>, <gap reason="damage" unit="words" quantity="2"/>
+                    desirous to know if it is come to hand yet.</p>
+                <closer><salute>I am <lb/>D<hi rend="superscript">r</hi> Sir <lb/>Your most obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t.</hi></salute><signed><persName ref="pe0228">GPaton</persName></signed>
+                    <dateline><placeName ref="pl0696">Custom house</placeName>
+                        <placeName ref="pl0076">Edinburgh</placeName>
+                        <lb/>14 March 1778.</dateline></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0192">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, responding to criticism in magazines</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>131-132</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-07-11"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0193"/>
+                    <ref type="prev" target="ct0191"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p><bibl type="authorial"><title ref="bi0160">Sir James Dalrymples
+                            collections</title></bibl> will be most welcome. I shall be happy to
+                    make you amends.</p>
+                <p>The criticks in the magazines of May &amp; June pervert or mistake my meaning
+                    strangely, confounding <persName ref="pe0261">Muir or More the Queen</persName>
+                    with <persName ref="pe1013">More</persName> the mistress of <persName ref="pe1008">Robert II</persName>.<note type="editorial">See letters by 'Vindex' and 'S.W.' in <bibl type="editorial"><title ref="bi0420"><hi rend="italic">The Gentleman's
+                                    Magazine</hi></title>, <biblScope unit="volume">vol.
+                                45</biblScope>, May 1775, <biblScope unit="page">pp.226-227</biblScope>, and June 1775, <biblScope unit="page">pp.264-275</biblScope>.</bibl> The disputed passage concerns the
+                        Stuart's ancestral claim to Bute and Arran, <bibl type="editorial">Pennant,
+                                <title ref="bi0008"><hi rend="italic">Tour in Scotland and Voyage to
+                                    the Hebrides 1772</hi></title> (Chester: 1774) <biblScope unit="page">p.187</biblScope></bibl>.</note> The only error I am
+                    guilty of is giving her the name of Elizabeth whereas the name of the concubine
+                    has escaped us. Pray does <bibl type="authorial"><title ref="bi0174">Tarbat</title></bibl>, or <bibl type="authorial"><title ref="bi0125">Hay</title></bibl> or anybody else give the Christian name of that
+                    Lady. In any new edition I can alter no farther than to change that of Elizabeth
+                    into ……. <persName ref="pe1013">More or Moram</persName>. <bibl type="authorial"><title ref="bi0173">Buchanans
+                            clans</title></bibl> will be most acceptable. I set out on my ramble on
+                    Friday.</p>
+                <closer><salute> I am Dear Sir with the truest regard <lb/>y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                <dateline><placeName ref="pl0001">Downing</placeName> July 11<hi rend="superscript">th.</hi> 1775.</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>at the Custom house</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

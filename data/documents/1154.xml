@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1154">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>42</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1792-05-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute>
+                    <dateline>May 26. 1792.</dateline></opener>
+                <p>I could not answer your letter sooner, repecting the <rs type="art" ref="ar0336">Patna Drawings</rs>, because
+                    <persName ref="pe1695">Mons<hi rend="superscript">r</hi>. Allen, Le Chevalier de Malt</persName>, who buys en Prince,<note type="editorial">'like a prince'.</note> had desir'd to purchase them of me at a price much beyond my 
+                    <hi rend="underline">hopes</hi>, and I promiss'd to treat with him, provided he determin’d by a certain day. That day expir’d yesterday, and 
+                    He has not been here, so all negotiation shall cease on my part, and I now am at liberty to offer two of them to 
+                    you as a gift, not as a purchaser; – you must not think of that on any account. I will seal them up, and send them to 
+                    <persName ref="pe0015">Sir Roger Moystin</persName>'s this day, and if he is out of <placeName ref="pl0699">town</placeName>,
+                    I will then send them to <persName ref="pe0237">your sisters</persName>. <sic>Farthur</sic> this deponent says not, being in the middle of packing off for 
+                    <placeName ref="pl1608">Brighthelmston</placeName>, 
+                </p>
+                <closer>
+                    <salute>but alway yours sincerely</salute>
+                    <signed><persName ref="pe0313">R. B.</persName> -</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

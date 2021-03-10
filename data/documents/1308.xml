@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1308">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hugh Davies to Thomas Pennant, 29 July 1773</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>2594E, Caernarvonshire folder [but marked in pencil on top of first page as '2594E Anglesea']</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                        
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Endorsement in Thomas Pennant's hand</hi>: <placeName ref="pl1486">
+                            Beaumaris</placeName> inscriptions</p></additions>
+                    </physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent"><persName ref="pe0903">Hugh Davies</persName>
+                    <date when="1773-07-29">29 July 1773</date>
+                    <placeName ref="pl1595">Beaumaris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001"/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1309"/>
+                    <ref type="prev" target="ct1307"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>
+                    <salute>Esteemed Sir,</salute></opener>
+                
+                <p><persName ref="pe0323">Master Panton</persName> was at <persName ref="pl1486">Beaumares</persName> the morning I receiv’d the 
+                    favour of your letter, to whom I deliver’d the inclosed. –<note type="editorial">A reference to Paul Panton, junior, who would 
+                        have been around fifteen years old at this time.</note> <gap reason="authorial" unit="letters" quantity="several"/> I send the 
+                    Inscriptions on each side <del>the</del>of the Alter at <placeName ref="pl1486">Beaumares</placeName>, and that which you desired at 
+                    <placeName ref="pl1487">Penmon</placeName>.<note type="editorial">The inscription at Penmon does not appear to have been reproduced 
+                    by Pennant in <hi rend="italic">A tour in Wales</hi>. The Beaumaris inscriptions may be those on a stone on the south side of the altar of the church, which are given 
+                    in <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), II, p. 247.</note> – The Fish, I mention’d that I intended a visit to, was 
+                    a trick put upon me by a waggish acquaintance, who deem’d it the most effectual method of enticing me so far from home to partake of a 
+                    drinking match. –</p>
+                
+                <p>Another Specimen of the Gadus,<note type="editorial">A type of cod (<hi rend="italic">Gadus morrhua</hi>), found in the North Atlantic 
+                    and connected seas. <hi rend="italic">OED</hi>. Pennant mentions several fish whose Latin names include the word 'Gadus' in his <hi rend="italic">British 
+                zoology</hi>. The 'Poor' is the only one illustrated by Moses Griffith. See <hi rend="italic">British zoology</hi> (2nd edn., 1768–70), III, Plate IX, facing p. 150.</note> which I sent, was brought me lately, which I thought it unnecessary to preserve, 
+                    as <persName ref="pe0014">M: Griffiths</persName> Drawing <sic>is a good</sic>, it was smaller than the former. 
+                </p>
+                
+                <p>The Haddock, a fish so little known on this Coast for many years past, as to be term’d by the common people y 
+                    <hi rend="underline">Pyscod</hi> <hi rend="underline">dieithr</hi> (the Strange fishes) has visited the northern part of this 
+                    <hi rend="underline">Island</hi>, <hi rend="underline">this</hi> and the last Summer, in such great abundance as considerably to reduce the market-rates 
+                    for some weeks, the poorer people cure quantities of them.</p>
+                
+                <p>I wish you all pleasure &amp; Satisfaction on your intended Tour,<note type="editorial">Davies refers to Pennant's forthcoming 
+                tour of north Wales, the basis for much of his published <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778).</note> and am, Dear Sir,</p>
+                
+                
+                <closer><salute>your most obliged &amp;<lb/> Humble Servant
+                    
+            </salute>
+                    <signed><persName ref="pe0903">Hugh Davies</persName>.</signed>
+                   
+                    <dateline><placeName ref="pl1486">Beaumares</placeName> July the 29th. – 73.
+                        
+                    </dateline></closer>
+                <postscript><p>P.S.<lb/>
+                    A Catalogue of the Birds &amp; Plants of <placeName ref="pl1488">Priestholm Isle</placeName> <unclear>is</unclear> on your return. –
+                </p></postscript>
+            </div>
+            
+        </body>
+    </text>
+</TEI>

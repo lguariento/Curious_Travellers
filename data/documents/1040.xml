@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1040">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 42</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1784-07-04"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0758">Stratton Street Piccadilly, London</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> July 4<hi rend="superscript">th</hi> 1784,</dateline></opener>
+                <p><persName ref="pe0015">My franking neighbor</persName> being still absent, I must annex my order for a 
+                    <bibl type="authorial"><title ref="bi0703">L.P. copy of the welsh Tour</title></bibl> for <persName ref="pe0332">M<hi rend="superscript">r</hi> 
+                        Storer</persName>. Please to make my Complim<hi rend="superscript">ts</hi>
+                    to him &amp; let him know I think it cannot be better bestowed. To morrow I hope to deliver 
+                    <bibl type="authorial"><title ref="bi0012">y<hi rend="superscript">r</hi> treasure</title></bibl>
+                    (myself to the coach at <placeName ref="pl0002">Chester</placeName> &amp; dare say you will receive it safe. 
+                    <persName ref="pe0014">Moses</persName> has put his bill in it. I am selfishly sorry at y<hi rend="superscript">r</hi>
+                    thoughts of travel; but as I mean to make something out of the misfortune, Pray send me y<hi rend="superscript">r</hi> route: will 
+                    <placeName ref="pl1023">Paris</placeName> or <placeName ref="pl0791">Switzerland</placeName>
+                    lie in y<hi rend="superscript">r</hi> way? I must urge the <placeName ref="pl1092">sem plon</placeName>
+                    for brevity as you do: viz <persName ref="pe0331 pe0336">Company</persName>.<note type="editorial">Pennant refers to Bull's daughters, <persName ref="pe0331">Elizabeth</persName> and <persName ref="pe0336">Catherine</persName>, who were to accompany him on this journey. See <ref target="1039.xml">1039</ref>.</note></p>
+                <closer>
+                    <salute>So adieu
+                        <lb/>most sincerely y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>I hope you received the list of Persons mentioned in my tours.<note type="editorial">The list has not been preserved with this letter.</note>
+                        &amp; request the return when copied</p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark">7 IY</stamp><stamp type="handstamp"><placeName ref="pl0703">NORTHOP</placeName></stamp>
+                    <address>
+                    <addrLine><persName ref="pe0313">Richard Bull Esq<hi rend="superscript">r</hi></persName> | <placeName ref="pl0758">Stratton Street Piccadilly | London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

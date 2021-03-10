@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1143">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 99</locus></ab>
+                    </msContents>
+                    <physDesc><additions><p><hi rend="italic">in Richard Bull's hand</hi>:<lb/> I find in your <bibl type="authorial"><title ref="bi0041">litterary life</title></bibl> 2 pretty <del>Eng</del> Etchings
+                        <lb/><rs type="art" ref="ar0175">1<hi rend="superscript">st</hi> St. Margarets’ near Lincoln Cathedral.</rs>
+                        <lb/><rs type="art" ref="ar0176">Map laton church near Ashbourne Derby shire.</rs>
+                        <lb/>Q. are they private Engraving’s, and by whom? if not, where do I want them for?</p></additions></physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date>2[...] December 1791</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline>Dec<hi rend="superscript">r</hi> 2<gap unit="letters" quantity="1" reason="illegible"/> 1791.</dateline></opener>
+                <p>I am very sorry to have my suspicions confirmed: for such is your punctuality that I was certain that illness interrupted our correspondence. Let me beg
+                    <del>to</del> You &amp; miss Bulls<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>
+                    to accept my best wishes that you may enjoy many returns of the season un-embitterd with sickness or the tender anxious duties which such circumstances call forth. I esteem your early thoughts of me on Symptoms of returning health a very particular mark of
+                    y<hi rend="superscript">r</hi> friendship. I accept the prints of shipping with many thanks &amp; request they may be sent to 
+                    <persName ref="pe0143">M<hi rend="superscript">r</hi> Mazel</persName> <placeName ref="pl1987">No. 7 Bridges street Convent Garden</placeName>
+                    who has a parcel ready for me.</p>
+                <p>I have sent my <bibl type="authorial"><title ref="bi0268">journey from London to Dover</title></bibl> to be bound in vellum by a treasure of a
+                    <persName ref="pe1520">binder at Denbigh</persName> who falls little short <unclear>on</unclear> any of y<hi rend="superscript">r</hi>
+                    celebrated binders: &amp; yet never was further than <placeName ref="pl0002">chester</placeName>. so extensively have the arts spread. 
+                    <bibl type="authorial"><title ref="bi0268">Y<hi rend="superscript">r</hi> Copy</title></bibl> is almost ready &amp;
+                    shall be sent the moment it is completed. <persName ref="pe0014">Moses</persName> can do no more to it than furnish a frontespiece. I suppose you would have him ornament the margin of the 
+                    zoological part of the arctic Zoology<note type="editorial">It is not entirely clear on which version of <hi rend="italic">Arctic zoology</hi> Bull was working. In view of previous references to the printing of the zoological part in <ref target="1118.xml">1118</ref> and <ref target="1124.xml">1124</ref>, it may be fair to assume that the earliest printed examples of the <bibl type="authorial"><title ref="bi0023"/>second edition</bibl> of 1792 is meant.</note> with birds &amp; 
+                    beasts which he can do well. let sickness or age attack us we must beguile both with innocent amusements.</p>
+                <p>I return with thanks the Balloon. If I read right or if the printing on the back refers to it: the balls were made of copper: such a 
+                    <add place="above">metallic</add> system was thought of by <persName ref="pe1538">Baldwyn of Chester the Balloonist of that city</persName>.
+                    but his Balls were to made of the matter with which mock-silver plate is made. Pray look into <bibl type="authorial"><title ref="bi0420">Gentle mans mag. vol. LIV. 245. 329.</title></bibl><note type="editorial">See letter from 'Adurfl' in <hi rend="italic">Gentleman's Magazine</hi>, LIV, part i (1784), 245–6, where it is contested that 'The principle at least on which it [the Air Balloon] is constructed, appears to have been known above two thousand years ago'; and a letter from 'An Old Westminster' in ibid., 329, sending 'a remarkable passage out of Aulus Gellius . . . which seems to make it probable, that the principle of modern air-balloons was in some degree at least known to the ancients'.</note>
+                    By which you will see that the art of Ballooning I mean its principles were known 2000 years ago. I shall be happy to hear of y<hi rend="superscript">r</hi>
+                    perfect recovery: but not I entreat you exert yourself on that or on any other motive on my account.</p>
+                <closer>
+                    <salute>I am with truest regard
+                    <lb/>Dear Sir
+                    <lb/>affec<hi rend="superscript">tly</hi> y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>Be so good as to make my best Complim<hi rend="superscript">ts</hi> to <persName ref="pe0422">Gen. Rainsford</persName>.
+                        I suppose <persName ref="pe0332">Storer</persName> is still at <placeName ref="pl0796">Bath</placeName>.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

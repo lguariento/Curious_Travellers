@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0195">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, asking him to proofread material on
+                    Edinburgh</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>136</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-09-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0196"/>
+                    <ref type="prev" target="ct0194"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Inclosed are the sheets respecting <placeName ref="pl0076">Edinburgh</placeName>.
+                    Let me entreat you carefully to look them over, see what is omitted or may be
+                    corrected. &amp; then return them let me entreat you to shew them to no one on
+                    any account which will much oblige</p>
+                <closer><salute>y<hi rend="superscript">r</hi> obed<hi rend="superscript">t</hi>
+                            Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                <dateline>Sept<hi rend="superscript">r</hi> 17<hi rend="superscript">th</hi>
+                    1775.</dateline></closer>
+
+                <postscript>
+                    <p>are not the colliers &amp;c set free by a late act? Pray give me a little
+                            acc<hi rend="superscript">t</hi> of the marriage contracts. are they as
+                            <bibl type="authorial"><title ref="bi0057">Jonston</title></bibl>
+                        says?</p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="handstamp"><placeName ref="pl0703">NORTHOP</placeName></stamp></p>
+                <p><hi rend="superscript">Free</hi><persName ref="pe0015">RMost<gap reason="illegible" unit="letters" quantity="2"/></persName></p>
+                <p><stamp type="postmark">20<lb/>SE</stamp></p>
+            </div>
+        </body>
+    </text>
+</TEI>

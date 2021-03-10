@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1358">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Philip Yorke to Thomas Pennant, 30 November 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>Warwickshire County Record Office</repository>
+                        <idno>CR 2017/TP401/1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0243">Philip Yorke</persName>
+                    <date when="1777-11-30"/>
+                    <placeName ref="pl1244">Erthig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref=""/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1359"/>
+                    <ref type="prev" target="ct1357"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl1244">Erthig</placeName>, Nov<hi rend="superscript">r</hi>. 30<hi rend="superscript">th</hi> 1777 –</dateline>
+                    <salute>Dear Sir.</salute></opener>
+                
+                <p>I have searched diligently for the small book you mentioned, in hopes of Returning you the <hi rend="underline">desiderata</hi>, 
+                    but without effect; Notwithstanding I trust, they will be found Elsewhere, in some station, on your late Matrimonial 
+                    visitation.<note type="editorial">Pennant had married <persName ref="pe0238">Ann (née Mostyn)</persName> in January 1777.</note> I would 
+                    certainly have been ready with the Succession of <placeName ref="pl1213">Bromfeild</placeName>, but your Allowance of further time, shall 
+                    but Encourage my Accuracy, and not my Indolence.</p>
+                <p>I have not yet dislodged our 
+                    Incognito;<note type="editorial">Yorke refers to the 'ancient Briton' lodged in the wall of Gresford church. See <ref target="1357.xml">ct1357</ref>.</note> therefore 
+                    to fill a dull Page, instead of ancient learning, I think, you must take up with modern Rhime, and of the worst Age: Lest 
+                    <persName ref="pe0326">S<hi rend="superscript">r</hi>. Watt:</persName> should detect the Author of Aldiberonti's 
+                    <hi rend="underline">non Extempore</hi> Epilogue,<note type="editorial">Yorke invokes the figure of Aldiberontiphoscophornio, 
+                        a courtier in <hi rend="italic">Chrononhotonthologos: the most tragical tragedy that ever was tragedized by any company of tragedians</hi>, 
+                        a short spoof play of 1734 by Henry Carey. Reissued in print in 1777, it was also performed that year at Sir Watkin Williams Wynn's private 
+                        theatre at Wynnstay, in the presence of David Garrick. <hi rend="italic">Eddowes's Journal, and General Advertiser for Shropshire, 
+                            and the Principality of Wales</hi>, 6 September 1865.</note> I thought it might be well to be prepared <add place="above">in time</add> 
+                    with an Antidote, which an occasion of <add place="above">(my)</add> lately <del><gap unit="letters" quantity="several" reason="illegible"/></del>
+                    presenting the <persName ref="pe0326">Baronet</persName> <add place="above">with</add> <del>an</del>a. <hi rend="underline">Gilded</hi> Pineapple, 
+                    <sic>affaded</sic> me.</p>
+                <p>How little good can Gold produce,<lb/>
+                    Unless my Friend, it shines <del>to</del>in Use;<lb/>
+                    A moral this of common spelling,<lb/>
+                    Which in your hospitable dwelling<lb/>
+                    Is well Illustrated, from whence,<lb/>
+                    Largely proceeds <sic>it's</sic> Influence:<lb/>
+                    This <hi rend="underline">Fruit</hi> begilded oer with Foil,<lb/>
+                    Is ill adapted to that Soil;<lb/>
+                    This gaudy <sic>Peice</sic> of non-Existence,<lb/>
+                    Ill mixeth with magnificence;<lb/>
+                    Magnificence of better Kind,<lb/>
+                    (The Creature of a proper mind,)<lb/>
+                    Where, nought is outward, <del><gap unit="letters" quantity="several"/></del>nought pretence,<lb/>
+                    Where, Use is blended with Expence;<lb/>
+                    Where from the same pure Sources bred,<lb/>
+                    The Rich are pleas'd, the Poor are fed,<lb/>
+                    The <hi rend="underline">Public</hi> Character sustainēd,<lb/>
+                    And <hi rend="underline">British</hi> Bounty well maintainēd –<lb/>
+                </p>
+                
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>

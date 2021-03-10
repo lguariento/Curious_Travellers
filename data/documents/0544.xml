@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0542">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>George Paton to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP326</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>12</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0228">George Paton</persName>
+                    <date when="1774-01-20"/>
+                    <placeName ref="pl0696">Custom House Edinburgh</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0150"/>
+                    <ref type="prev" target="ct0149"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="en">Gaelic</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Three days ago I received yours of 11<hi rend="superscript">th.</hi> Current,
+                    &amp; have been in daylie Expectation of hearing from the West <placeName ref="pl0711">Highlands</placeName> with the Erse name for the Bagpipe but
+                    this storm must retard a speedy Return.</p>
+                <p><persName ref="pe0575">A particular Friend</persName> from <placeName ref="pl0821"><unclear reason="illegible">Athole's</unclear></placeName> who
+                    understands that Language as spoken in the Dialect of that County informs me the
+                    Word <hi rend="underline">Piohb</hi>, pronounces nearly pee<hi rend="underline">b</hi> is always <add place="above">used</add> to express that Instrument
+                    of Musick with them, <hi rend="underline">Balg</hi> signifies <hi rend="underline">Bag</hi>. It is to be observed that there is no <hi rend="underline">term</hi> of Distinction known in <placeName ref="pl0711">the Highlands</placeName> for Bagpipe, Big Bagpipe or Irishpipes: these two
+                    later are peculiar to the <placeName ref="pl1139">Low Country</placeName> &amp;
+                    are used with Bellows instead of <hi rend="underline">Mouth-blow pipe</hi>,
+                    practised by the genuine Highland pipers: so that the large pipe may have the
+                    word <hi rend="underline">mohr</hi> or big added and for this smaller kind the
+                    word <hi rend="underline">beg</hi>, <add place="above">small or little</add>
+                    conjoin'd. — But of this more fully when I obtain the Answer from the West.
+                    ––––– I am told that there was about 10 or 12 years ago a <bibl type="authorial"><title ref="bi0584">Collection of Erse Poems</title></bibl> printed
+                    amongst which there is a Poem on the <hi rend="underline">Bagpipe</hi>
+                    containing (I presume a Discription as also) the Uses this Instrument was
+                    applied to: pray let me know if you have not a Copy of these Poems, I will
+                    endeavour to make Search for a Copy to send you in Course of the Post after
+                    Receipt of your Answer to this.</p>
+                <p>In the Course of Conversation with <sic>severals</sic> who understand the Erse, I
+                    have been told the Highlanders have these three Distinctions for the Inhabitants
+                    of <placeName ref="pl0777">Britain</placeName> 1. they call themselves <hi rend="underline">Gael.</hi> 2. the low Country people <hi rend="underline">Gald</hi> or as pronounced <hi rend="underline">Galt.</hi> 3. The English
+                        <hi rend="underline">Sasonich</hi>, which is plainly according to <bibl type="authorial"><title ref="bi0406">Cambden</title></bibl>
+                    <hi rend="underline">Saxons.</hi> ––––– The Etymology of Gald is more difficult.
+                    2. Whether this be a corruption of <hi rend="underline">Gothic</hi>? but to me
+                    who does not understand the Erse appears harsh.</p>
+                <p>I beg leave to inform you that ever since I had <unclear reason="illegible">the</unclear> pleasure of seeing you in this Country; it has been <unclear reason="illegible">my</unclear> earnest desire to trace out <persName ref="pe0161">M<hi rend="superscript">r.</hi> Maitland's</persName> (Author
+                    of <unclear reason="illegible">the</unclear>
+                    <bibl type="authorial"><title ref="bi0182">History of Scotland 2 Vol.
+                            fol.</title></bibl> &amp; <bibl type="authorial"><title ref="bi0299">of
+                            Edinburgh</title></bibl>) <bibl type="authorial"><title ref="bi0240">Manuscript Papers</title></bibl> which at last I have got Account of,
+                    nay am promised the Use of them, a Gentleman whom I engaged in the Search &amp;
+                    has at last found them, writes me there are amongst them <bibl type="authorial"><title ref="bi0246">Collections relating to the Western
+                        Islands</title></bibl>; but as they are too bulky to be transmitted in
+                    parcels by Post; I have requested the Favour of their being sent me by the first
+                    ship coming to <placeName ref="pl0077">Leith</placeName> from the North where
+                    they are deposited at present: this I look for in a month or so hence. — I know
+                    not <del rend="overstrike">in</del> what State they are in, neither can it be
+                    ascertain'd whether he has inserted all these into his printed Books, which I
+                    have by me &amp; will as accurately as I can compare together: but in the mean
+                    time if you think of reaping any benefit therefrom, be so good as give me your
+                    fullest Instructions, which shall be religiously attended to as far as lies in
+                    my power.</p>
+                <p>I hope the two Etchings will be come to hand by this Time, have seen by the same
+                    hand an etched View of <placeName ref="pl0967"><hi rend="underline">Roslin
+                            Castle</hi></placeName>, but the plate was destroyed, however if I can
+                    by any means procure a loan of this, will put it in a Friends hand to copy it
+                    for You: for it's a Doubt if any more remain but this single Copy: am told the
+                    same Gentleman has many more Sketches of &amp; about <placeName ref="pl0967"><hi rend="underline">Roslin</hi></placeName>, of which shall make Inquiry
+                    about and in due time inform you: as I perceive at present <placeName ref="pl0708">the Islands</placeName> attract your Attention: connected with
+                    these I've this day got <bibl type="authorial"><title ref="bi0229">the M.S.S
+                            History of the Family of Maclean</title></bibl>, which is near 90 pages
+                    folio very closly written, so wait your Call for Extracts.</p>
+                <p>In hopes of hearing from you at Convenience</p>
+                <closer><salute>I am <lb/>Dear Sir <lb/>Your most obed<hi rend="superscript">t.</hi>
+                            Serv<hi rend="superscript">t.</hi></salute>
+                    <signed><persName ref="pe0228">GPaton</persName></signed>
+                <dateline><placeName ref="pl0696">Custom house Edinburgh</placeName>
+                    <lb/>20 January 1774.</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>Thomas Pennant Esq<hi rend="superscript">r.</hi></addrLine>
+                        <addrLine>Downing</addrLine>
+                    </address></p>
+                <p><handShift/>Bagpipe <lb/>Maitland <lb/><hi rend="underline">M<hi rend="superscript">r</hi> Paton</hi>
+                    <lb/>Jan.20<hi rend="superscript">th</hi> 1774.</p>
+                <p><unclear reason="illegible">answered.</unclear></p>
+            </div>
+        </body>
+    </text>
+</TEI>

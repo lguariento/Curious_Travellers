@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1380">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Lloyd, Caerwys, to Thomas Pennant, 6 September 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>Warwickshire County Record Office</repository>
+                        <idno>CR 2017/TP286</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                        <p><hi rend="italic">Condition</hi>: edges of paper worn away</p></physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0333">John Lloyd</persName>
+                    <date when="1777-09-06"/>
+                    <placeName ref="pl1201">Caerwys</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="p;0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1381"/>
+                    <ref type="prev" target="ct1379"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>                <opener><dateline/><salute>
+                    Sir</salute></opener>
+                
+                <p>I send you the following [<unclear>...</unclear>] from <persName ref="pe0745">Mr Eyton</persName>’s 
+                    <bibl type="authorial"><title ref="bi0605">Book</title></bibl>, If you consult 
+                    the <bibl type="authorial"><title ref="bi0606">Stanley pedigree</title></bibl>, 
+                    you may probably ascertain the Time &amp;c. – “<persName ref="pe0746">Richard Mutton</persName>
+                    of <placeName ref="pl1305">Ruthlan</placeName> Gent married <persName ref="pe0747">Ellen</persName>
+                    daughter to <persName ref="pe0751">John, aer hĕn, Conwey</persName> of 
+                    <placeName ref="pl1306">Potryddan</placeName> Esqr &amp;c.<note type="editorial">Pennant gives this information 
+                        in the context of his discussion of the burial site at the parish church of Henllan, Denbighshire,
+                        of Sir Peter Mutton, whom he describes as 'descended from Richard Mutton, of Rhuddlan, and Elen, 
+                        daughter to John (Aer Hên) Conway, of Bodrhyddan. <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), II, p. 45.</note> 
+                    –  The mother of the 
+                    s<hi rend="superscript">d</hi> 
+                    <persName ref="pe0747">Elen Conwey</persName>, was <persName ref="pe0748">Jonet</persName> dau: to 
+                    <persName ref="pe0749">Edmond Stanley</persName> of <placeName ref="pl1311">Llўs</placeName> in 
+                    <placeName ref="pl0703">northop</placeName> Esq<hi rend="superscript">r</hi>, 2<hi rend="superscript">d</hi> 
+                    son to 
+                    <persName ref="pe0750">S<hi rend="superscript">r</hi> William Stanley</persName> of 
+                    <placeName ref="pl1307">Hooton</placeName> K<hi rend="superscript">t</hi>, which 
+                    <persName ref="pe0748">Jone[<unclear>?t</unclear>]</persName> <unclear>...</unclear>
+                    the Relict of <persName ref="pe0752">Bryan Saxton</persName> of <placeName ref="pl0703">Northop</placeName>,
+                    <unclear>...</unclear> <persName ref="pe0753">Howel Gwynedd</persName>’s lands, that was beheaded by 
+                    [<unclear>?the</unclear>] Inhabitants of the <placeName ref="pl1289">Town of Fflint</placeName> upon
+                    <placeName ref="pl1310">Moel-y-[<unclear>...</unclear>]</placeName> in 
+                    <persName ref="pe0495">Owen Glyndwr</persName>’s time, &amp; his lands forfeited &amp; given to 
+                    <persName ref="pe0752">Saxton</persName> aforesaid.” By Transcribing the above, I find there is no Occasion 
+                    to consult Chronology, for it appears that <persName ref="pe0748">Jonet</persName> was Relict to the very 
+                    person, who had <persName ref="pe0753">Howel</persName>’s lands. – I Likewise send you the 3 Beads that
+                    were found about six years ago near <placeName ref="pl1308">Caunant mawr</placeName>, above 
+                    <placeName ref="pl1309">Castell dôl <unclear>Ba</unclear>darn</placeName>, there <unclear>are</unclear> six in all 
+                    of them. –<note type="editorial">See <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), II, p. 160, for Pennant's
+                        description of '<hi rend="italic">Caunant Mawr</hi>' ('a noble cataract, precipitating over 
+                        two vast rocks into two most horrible chasms'), during an ascent of Snowdon. He notes the finding 
+                        of 'several beads; 
+                        some of glass, and one of jet' near the waterfall. 'Castell Dolbadern' is noted in 
+                        ibid., p. 157.</note>  The other two stones were found in a field near <placeName ref="pl1201">this Town</placeName> 
+                    about 2 or 3 years ago, one of them at least
+                    seems applicable to the same purpose. – I am, with my best Respects to 
+                    <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName> &amp;c</p>
+                    <closer><salute>Your very Humble Sert &amp;c<lb/></salute>
+                    <signed><persName ref="pe0333">John Lloyd</persName></signed>
+                    <dateline><placeName ref="pl1201">Caerwys</placeName>
+                        <unclear>S</unclear>ept 6. 1777</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant Esq<hi rend="superscript">r</hi></persName></addrLine>
+                    <addrLine><placeName ref="pl0001">Downing</placeName></addrLine>
+                </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

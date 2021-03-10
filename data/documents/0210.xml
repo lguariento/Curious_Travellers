@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0210">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton: on publication plans and Paton's assistance
+                    with the map of Scotland; enclosing a list of people to receive copies of
+                    books</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>160-161</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1776-05-24"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0209"/>
+                    <ref type="prev" target="ct0211"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="enclosed">
+                <table>
+                    <row>
+                        <cell>
+                            <list>
+                                <item>✓<persName ref="pe0583">E. of Kinnoull</persName>.</item>
+                                <item>✓ <persName ref="pe0091">of Leven</persName>.</item>
+                                <item>✓<persName ref="pe0158">Rev<hi rend="superscript">d</hi> M<hi rend="superscript">r</hi> Macintyre</persName>.</item>
+                                <item>✓<persName ref="pe0203">M<hi rend="superscript">r</hi>
+                                        Mackenzie</persName> of <placeName ref="pl0287">Delvin</placeName></item>
+                                <item>✓<persName ref="pe0022">D<hi rend="superscript">r</hi>
+                                        Ramsay</persName>.</item>
+                                <item>✓<persName ref="pe0020">M<hi rend="superscript">r</hi>
+                                        Oliphant</persName></item>
+                                <item>✓<persName ref="pe0018">M<hi rend="superscript">r</hi>
+                                        Jackson</persName>.</item>
+                            </list>
+                        </cell>
+                        <cell>
+                            <list>
+                                <item>✓<persName ref="pe0168">M<hi rend="superscript">r</hi>
+                                        Marshal</persName> of <placeName ref="pl0094">Perth</placeName>.</item>
+                                <item>✓<persName ref="pe0207">M<hi rend="superscript">r</hi>
+                                        Oswald</persName> of <placeName ref="pl0363">Kirkaldie</placeName></item>
+                                <item><persName ref="pe1117">M<hi rend="superscript">r</hi> Provost
+                                        Christie</persName>
+                                    <placeName ref="pl0323">Montrose</placeName>.</item>
+                                <item><persName ref="pe0246">M<hi rend="superscript">r</hi>
+                                        Pope</persName> of <placeName ref="pl1771">Reay</placeName></item>
+                                <item>✓<persName ref="pe0228">M<hi rend="superscript">r</hi>
+                                        Paton</persName></item>
+                                <item><persName ref="pe0181">M<hi rend="superscript">r</hi>
+                                        Barclay</persName> of <placeName ref="pl0330">urie</placeName></item>
+                                <item>✓some small parcels of prints.</item>
+                            </list>
+                        </cell>
+                    </row>
+                </table>
+               <note type="editorial">The ticks next to the above names were presumably added by
+                    George Paton to record who had received their books.</note>
+            </div>
+            <div type="letter">
+                <opener><salute>Dear Sir</salute></opener>
+
+                <p>Excuse the trouble of taking under y<hi rend="superscript">r</hi> charge the
+                    above books which will be sent for. accept also a copy for y<hi rend="superscript">r</hi> self. only if opportunity offers forward that to
+                        <persName ref="pe0246">M<hi rend="superscript">r</hi> Pope</persName>. Pray
+                    put the inclosed into the Post. I am much obliged to you for y<hi rend="superscript">r</hi> attention to <bibl type="authorial"><title ref="bi0209">the map</title></bibl> &amp; very happy to hear there is
+                    such zeal about scotch topography I believe I owe you some trifle before the
+                    subscription to the maps. Please to inform me. I am very happy in a letter from
+                        <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName>. I hear
+                    he is much restored; but I gave him a strict caution about hazarding his health
+                    again by too strict an application.</p>
+                <p>I am at this instant uncertain whether <persName ref="pe0026">White</persName>
+                    can publish my <bibl type="authorial"><title ref="bi0020">Br.
+                        Zool.</title></bibl> this season by reason of the shameful delay of the
+                        <persName ref="pe1118">Warrington Printer</persName>. The moment it comes
+                    out you shall have a set.</p>
+                <closer><salute>I am, Dear Sir, y<hi rend="superscript">r</hi> affect. humble
+                            Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed>
+
+                <dateline><placeName ref="pl0001">Downing</placeName> May 24<hi rend="superscript">th.</hi> 1776.</dateline></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

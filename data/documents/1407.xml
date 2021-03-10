@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1407">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to [?William Morris], 2 November 1754</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>21558E</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1754-11-02">2 November 1754</date>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0031">[?William Morris]</persName>
+                    <placeName ref=""/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1403"/>
+                    <ref type="prev" target="ct1402"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                
+                <p>I have taken the earliest opportunity of forwarding a trifling acknowledgement of the favors you have done me, and hope you will 
+                    <sic>recieve</sic> it safe.    
+                </p>
+                <p>By Yesterdays Post I was dunned for my long promise of sea weeds to her <persName ref="pe0148">grace of Chandos</persName>: 
+                    you will be the means of saving my credit for ever, by returning me the Box (I have sent) full of such plants as your Rocks 
+                    afford.<note type="editorial">The tentative suggestion that this unaddressed letter was intended for William Morris is made on the evidence
+                    provided in this sentence, set alongside a letter of 11 November 1754 from William to his brother Richard. William mentions the receipt of a
+                    letter and a box containing twenty six parcels of curiositis ('fossil shells, plant, animals, mines, minerals, etc') from Pennant on his return from an absence from home
+                    and the request that he should quickly fill the box with the 'wonders of Anglesey' ('r[h]yfeddodau Môn'). See 
+                    <hi rend="italic">ML</hi>, I, p. 318.</note> Be so kind as to direct it to me to the care of <persName ref="pe0149">M<hi rend="superscript">r</hi> Sidebotham</persName> 
+                    at the <placeName ref="pl3323">antelope</placeName> <placeName ref="pl1251">Holywell</placeName>, and that as soon as possible which 
+                    will much oblige
+                </p>
+                <closer><salute>Dear Sir
+                    <lb/>Yours most truly</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant
+                    </persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Nov<hi rend="superscript">r</hi> 2<hi rend="superscript">d</hi> 1754
+                    </dateline></closer>
+                <postscript><p/></postscript>
+            </div>
+            <div>
+            </div>
+        </body>
+    </text>
+</TEI>

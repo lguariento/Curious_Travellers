@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1306">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Treadway Russell Nash to Thomas Pennant, 3 November 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>15423C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent"><persName ref="pe0416">Treadway Russell Nash</persName>
+                    <date when="1777-11-03">3 November 1777</date>
+                    <placeName ref="pl1290">Bevere</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">[Thomas Pennant]</persName>
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1307"/>
+                    <ref type="prev" target="ct1305"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                
+                <p>I beg pardon for thus long delaying my answer to your obliging letter, but I did it in hopes of getting better Information: 
+                    Indeed several Days have been fixed for my attending to the Spot a Gentleman in that Neighbourhood who is very conversant in 
+                    these Enquiries, but bad Weather, or one untoward Accident or other have always prevented us, and as the rainy Season is now 
+                    set in I dispair of being able to go this Winter, &amp; therefore must content myself with giving you the best Information I 
+                    can from the report of others. ––––– The facts then are thus, &amp; you must draw your own Inferences.</p>
+                
+                <p><placeName ref="pl1288">Wobury Hill</placeName> is about 9 miles N.W. of <placeName ref="pl0806">Worcester</placeName> &amp; 
+                    <del>is in Extent</del> contains 26.<hi rend="superscript">A</hi> 2.<hi rend="superscript">R</hi> 27<hi rend="superscript">P</hi> within 
+                    the Trench: if the Ditch be measured (for it is a single one) it will be two Acres more.<note type="editorial">
+                        See Treadway Russell Nash, <hi rend="italic">Collections for the history of Worcestershire</hi> 
+                        (2 vols., London: John Nichols, 1781–2), II, p. 465. Pennant reproduces some of this detail (the 27 acres contained 
+                        within the camp and the fact that it had 'a single foss' only) in <hi rend="italic">A tour in Wales 1770 [1773]</hi> 
+                        (1778), I, p. 351.
+                    </note> It is distant from <placeName ref="pl1282">Wasal Camp</placeName> in the Parish of 
+                    <placeName ref="pl1285">Kederminster</placeName> about 8 miles &amp; from <placeName ref="pl1283">Kinvar <add place="above">edge</add></placeName> 
+                    (Ken-vawr in British a great bank) about 11 miles the latter <placeName ref="pl1283">Camp</placeName> is mentioned in 
+                    <bibl type="authorial"><title ref="bi0602">Plots Staffordshire</title></bibl> p. 413, &amp; contains about 12 Acres, is situated at 
+                    equal distances from the small Station or Camp at <placeName ref="pl1282">Wassall hill</placeName>, &amp; from an other small 
+                    Camp on <placeName ref="pl1297">Witchberry Hill</placeName> to the East: Probably these two small Camps were out posts to the larger 
+                    Camp at <placeName ref="pl1283">Kinvar</placeName>: Signals given at any one of them would be visible at them all: they lye in the Road 
+                    from <placeName ref="pl0740">Shrewsbury</placeName> to <placeName ref="pl0806">Worcester</placeName>.</p>
+                
+                <p>You will consider whether the Distance be not too great for <persName ref="pe0667">Henrys</persName> Army to be supposed to 
+                    occupy these Camps, – if they did occupy <add place="above">them</add>, part of the Army must be supposed to have crossed the 
+                    <placeName ref="pl1226">Severn</placeName>, &amp; to have taken possession of <placeName ref="pl1298">Abberley hills</placeName>,
+                    &amp; the other hills adjoining, which directly face <placeName ref="pl1288">Wobery Hill</placeName>, where 
+                    <persName ref="pe0495">Glendwr</persName>'s camp was: these hills I intended to have searched for Camps, tho the face of them is very 
+                    much altered by a great quantity of Limestone which has constantly been dug away both for the roads &amp; for Lime.</p>
+                
+                <p>I wish you could have obliged me by riding over them with me, when perhaps your
+                    sagacious Eye might have discovered more than I can describe, but I live in
+                    hopes of that pleasure an other Year.<note type="editorial">Nash mentions that
+                        he had 'the pleasure of viewing the ground', apparently of the camp at
+                        Woodbury Hill, with Pennant, in <hi rend="italic">Collections for the
+                            history of Worcestershire</hi>, II, p. 465. Pennant, in his description
+                        of Woodbury hill in the 1778 edition of <hi rend="italic">A tour in Wales
+                            1770 [1773]</hi>, p. 351, writes that 'I never had an opportunity of
+                        examining the nature of the ground, and how far it suits the description
+                        given by Monstrelet' and refers his readers to the forthcoming work of Nash.
+                        By the second edition, however, he was able to note that 'I surveyed the
+                        spot in company with my friend DOCTOR NASH, and found it answered precisely
+                        to the account given by Monstrelet'. <hi rend="italic">A tour in Wales</hi>
+                        (2nd edn., 1784), I, p. 376.</note> Pray how do you dispose of yourself this
+                        Winter[<del>:</del>]? I wish you would make <placeName ref="pl1284">Worcestershire</placeName> your road to <placeName ref="pl0699">London</placeName>, <persName ref="pe0729">M<hi rend="superscript">rs</hi>
+                        Nash</persName> would be very happy to pay her respects to <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName> at
+                        <placeName ref="pl1290">Bevere</placeName>.</p>
+                
+                <p>Pray tell me with truth that your <persName ref="pe0065">Son</persName> is perfectly 
+                    well<note type="editorial">For Nash's anxiety regarding David Pennant, see <ref target="1305.xml">1305</ref>.</note> &amp; believe me to be, 
+                    Dear S<hi rend="superscript">r</hi>, Your most obedient &amp;</p>
+                
+                <closer><salute>obliged humble Servant </salute>
+                    <signed><persName ref="pe0416">T. Nash</persName></signed>
+                   
+                    <dateline><placeName ref="pl1290">Bevere</placeName><lb/>
+                        Nov<hi rend="superscript">r</hi>. 3. 1777.</dateline></closer>
+                <postscript><p>If Miss Pennant<note type="editorial">This probably refers to Pennant's daughter, 
+                    <persName ref="pe0234">Arabella</persName>, who would have been of a similar age to Treadway Russell Nash's daughter, Margaret, rather than to one of 
+                    Pennant's unmarried twin sisters.</note> is with you, [<del>...</del>]my <persName ref="pe0729">wife</persName> 
+                    &amp; <persName ref="pe0730">Daughter</persName> desire their Compliments</p></postscript>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>

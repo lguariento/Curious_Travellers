@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1174">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>51</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <p>Condition: slight tear to paper on third page of MS, caused by ripping of the seal.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1794-01-05"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName> Jan<hi rend="superscript">y</hi>. 5. 1794</dateline></opener>
+                <p>On my return to <placeName ref="pl0699">town</placeName>, not many days ago, I found your <hi rend="underline">Epistola objurgatoria</hi>
+                    <note type="editorial">'objurgatory letter'. See <ref target="1173.xml">1173</ref>.</note> <add place="above">of November 8<hi rend="superscript">th</hi></add>
+                    which being directed to me in <placeName ref="pl0699">London</placeName>, <persName ref="pe0319">my servant</persName> there had laid by 
+                    so very carefully, that she forgot to send it at all.</p>
+                <p>
+                    I very sincerely congratulate you, upon the nuptials of your amiable <persName ref="pe0065">Son</persName>, and desire to wish him, and his Relations, 
+                    all the happiness they may want, and a continuance of all the happiness they are in possession of already.</p>
+                <p>
+                    It was not in my power to obey your commands <hi rend="underline">personally</hi>, respecting the monuments in <placeName ref="pl2536">Godshill Church</placeName>;
+                    at the time you desir’d me to visit them, I was unwell, and not able to ride, and the roads were then unsafe for a carriage. 
+                    I was not however unmindful of your wishes, but desired a younger, and a wiser man than myself, to go thither immediately in order to review the tombs, and to
+                    report to you the condition he found them in. This little commission, I dare believe <persName ref="pe0383">M<hi rend="superscript">r</hi>. Clarke</persName>
+                    has fulfill’d with accuracy, as He is kind enough, to be diligently usefull to me, upon every occasion that concerns my pleasures, or my profits. I hope you 
+                    likewise receiv'd from him the <rs type="art" ref="ar0340">two drawings of the Princess Elizabeth’s Coffin</rs>, and the vault in which it stands, which, as 
+                    soon as discover’d, I beg’d him to employ a young man at <placeName ref="pl1479">Newport</placeName> to make Sketches of, on my account, and to send one of each to you.</p>
+                <p>
+                    <persName ref="pe0014">M<hi rend="superscript">r</hi>: M. Griffith</persName> has the letter press of that part of my <sic>large<hi rend="superscript">ts</hi>:</sic>
+                    paper Copy of the <bibl type="editorial"><title ref="bi0023">Arctic Zoology</title></bibl>, which relates to the Quadrupeds, 
+                    which He was to illustrate on my account, when he could be spared from the business, you wrote me word, He was then engag’d in for you. 
+                    And He has also, the title page, and the list of birds belonging to the <bibl type="editorial"><title ref="bi0023">same volume</title></bibl>.
+                    as I know not where to direct to him, may I take the liberty, without risk of giving offence, to request you to enquire of him whether he has been able to do any thing for me in this 
+                    re<supplied>spect</supplied><note type="editorial">The paper is torn at this point.</note> and if He has, that he would send the sheets to me here, by some safe conveyance, 
+                    together with the account for the same, and he may depend upon receiving the amount thereof, by the next post, after I know what I am in his debt.</p>
+                <closer>
+                    <salute>I am, as I have ever been, Dear Sir, always ready to acknowledge myself, your grateful, and very oblig’d &amp;<hi rend="superscript">a</hi></salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">O. JA. 6 94; Single<note type="editorial">The word 'Single' is written by hand.</note></stamp>
+                </p>
+                <p>
+                   <address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant</persName> Esq<hi rend="superscript">r</hi> | <placeName ref="pl0001">Downing</placeName> | <placeName ref="pl0702">Flintshire</placeName> | <placeName ref="pl1221">N. Wales</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

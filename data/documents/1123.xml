@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1123">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>29</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1791-02-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline>21 Feb<hi rend="superscript">y</hi>. 1791</dateline></opener>
+                <p>I send you <persName ref="pe0412">M<hi rend="superscript">r</hi>. Minchins</persName> account of the <placeName ref="pl1582">Forest of Bere</placeName>,
+                    which you saw from <placeName ref="pl1703">Port-down</placeName>, and I will pledge myself that it is a true one. You must have seen 
+                    <placeName ref="pl1705">Southwick</placeName> at the same time, of which I know not where to find any account proper for your insertion, 
+                    but I will endeavour to get information. As soon as I get the <rs type="art" ref="ar0168">Drawing of Lord Fanhope</rs>
+                    from Carter,<note type="editorial">For the identity of Carter, see <ref target="1122.xml">1122</ref>, n. 1.</note> I will send it to <persName ref="pe0143">Mazel</persName>, with what prints I can pick up of your list. I should be 
+                    glad to have any Drawings for the <bibl type="authorial"><title ref="bi0269">Dover M.S</title></bibl> that <persName ref="pe0014">Moses</persName>
+                    can furnish me with, particularly of Birds, beast’s, fishes, and other parts of natural history, and I wish to 
+                    know your opinion whether I had not better return the M.S. itself; that the drawings may be done there on, instead of having them on detach’d pieces of 
+                    paper. at any time when you want to write to me, enclose your letter, to <persName ref="pe0422">Lieu<hi rend="superscript">t</hi>: General Rainsford</persName>,
+                    <placeName ref="pl1988">Soho Square</placeName>, and he will send it to me regularly, and with exactness. You’ll thank me for what 
+                    <del>is not worth</del> is not worth a thought, but ’tis <del><gap unit="letters" quantity="5" reason="illegible"/></del> I,
+                    who am the oblig’d person, and I am sure I think so.</p>
+                <closer>
+                    <salute>I am Dear Sir, as always
+                        <lb/>Sincerely yours.</salute>
+                    <signed><persName ref="pe0313">R.B.</persName> -</signed>
+                </closer>
+                <postscript>
+                    <p>P.S. if you have time, turn to page 24. of the <bibl type="authorial"><title ref="bi0269">Dover M.S.</title></bibl>
+                        &amp; you will see the mistake, (which is mine and not yours) respecting the <persName ref="pe1241">Earl of <placeName ref="pl1351">Northampton</placeName></persName>,
+                        was a natural one. – After speaking of the <del>latter</del> <persName ref="pe1242">Earl of <placeName ref="pl1385">Arundel</placeName></persName> 
+                        the virtuoso Lord, you proceed and say “<hi rend="underline">He</hi> had the honor of founding two others at clun &amp;<hi rend="superscript">c</hi>.
+                        and <hi rend="underline">He</hi> seem’d to rest his character on a few good works &amp;<hi rend="superscript">c</hi>. &amp;<hi rend="superscript">c</hi>. - -<note type="editorial">See <hi rend="italic">From London to Dover</hi> (1801), p. 21, where the ambiguity to which Bull draws attention here has been corrected. ('Northampton had the honour of founding to others, at Clun in Shropshire, and at Castle-rising in Norfolk. He seemed to rest entirely on a few good works...'.)</note>
+                        to an unattentive reader the <hi rend="underline">He</hi> seems to refer to the latter, and not the former, whose name perhaps requires to be repeated after the break in the sentence. 
+                        their characters indeed were not <sic>simalar</sic>, but that may not be known to the generality of readers. –</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

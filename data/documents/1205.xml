@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1205">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 137</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1797-09-02"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl1013">North Court</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Septr 2d 1797.</dateline></opener>
+                <p>I take too much pleasure in serving my valued friend ever to check his requests by chiding: especially as I have at different periods so many clames 
+                    for indulgence. <persName ref="pe0324">Ingleby</persName> is set to work in the manner you direct. his first drawing shall be that of the 
+                    <rs type="art" ref="ar0346">hall at Mostyn</rs>, which is one of the very few that savors of high antiquity. <persName ref="pe0324">Ingleby</persName>
+                    did one for me some time ago &amp; that very much to my satisfaction. I can sympathize in sorrow with <persName ref="pe0331">miss Bull</persName>
+                    &amp; you: deep wounds are long in cure; &amp; slight matters often set them a smarting again. In our dresing room are two miniatures by 
+                    <persName ref="pe1798">miss Folkstone</persName>. <rs type="art" ref="ar0347">one of Tom</rs>; the other of his <rs type="art" ref="ar0348">dear departed Sister</rs>.
+                    In my passage I often steel a look; &amp; think with envy of her blessed situation. To heighten the Idea, I think of <rs type="art" ref="ar0349">Peter’s charming picture</rs>:
+                    you know the print &amp; cannot but think of it with rapture. In respect to <persName ref="pe0421">Tom</persName> he maintains a course of innocency I trust incorruptible by the new scene he is entering on, a college life. 
+                    The <persName ref="pe1800">Dean of Christchurch</persName> accepts him as a member next month. <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName>
+                    &amp; I deliver him to the <persName ref="pe1800">Dean</persName> on the 13<hi rend="superscript">th</hi>. <add place="above">oct<hi rend="superscript">r</hi>.</add>
+                    after a stay at <placeName ref="pl1347">oxford</placeName> of a few days, it is probable that we shall cross the country to 
+                    <placeName ref="pl0796">Bath</placeName>. my stomach requires the waters not from beastly excess but from a twelve<del><gap unit="letters" quantity="1" reason="illegible"/></del>months grief, or vexation from causes laudably excited.</p>
+                <p>
+                    We met with this post a cruel disappointment in respect to the report of peace, from the wicked fabrication for fraudulent ends. That it may be realized is the sincere wish of every good man. Besides the common calamities of War, the prospect of so bad a season as we have may excite civil commotions as, if good ones were at the command of a minister.</p>
+                <p>I divert my mind with our old employ, the ornamenting my labors. at present <bibl type="authorial"><title ref="bi0034">Whitford &amp; Holywell</title></bibl> are in hand. I have also another design to give the semilitude of my deceased friend 
+                    <persName ref="pe0015">Sir R. M.</persName> from a capital miniature by <persName ref="pe0014">moses</persName>, but as yet I cannot catch 
+                    <persName ref="pe1802">schiavonetti</persName>, to do it justice. above the head shall be a memento to the <persName ref="pe0414">heir</persName>, TANQUAM in SPECULUM.<note type="editorial">'as if in a mirror'. Pennant quotes from Terrence, ‘inspicere tamquam in speculum in vitas omnium jubeo, atque ex aliis sumere exemplum sibi’ ('the lives of other men should be regarded as a mirror from which we may take an example and rule of conduct for ourselves). See further FRO, Pennant's extra-illustrated copy of <hi rend="italic">HPWaH</hi>, p. 54 (facing), for the print of Roger Mostyn, drawn by Moses Griffith and engraved by Schiavonetti, 1798.</note></p>
+                <closer>
+                    <salute>every good wish attend you &amp; yours. Adieu Dear Sir,
+                    <lb/>Y<hi rend="superscript">rs</hi> most sincerely</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName>.</signed>
+                    <dateline><placeName ref=""/></dateline>
+                </closer>
+                <postscript>
+                    <p/>
+                </postscript>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark">C SE 4 97</stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi>. | <placeName ref="pl1013">Northcourt</placeName> | <placeName ref="pl1020">Isle of Wight</placeName></addrLine>
+                </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

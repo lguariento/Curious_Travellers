@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0370">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, 26 September 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>209-210</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>A year of 1777 for this letter has been inferred from its content and
+                            relationship to the rest of the correspondence.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1777-09-26"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0229"/>
+                    <ref type="prev" target="ct0228"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+
+                <p>your favors of aug<hi rend="superscript">st</hi> the 30<hi rend="superscript">th</hi> &amp; sep<hi rend="superscript">r</hi> 5<hi rend="superscript">th</hi> are before. the cargo I dare say will come safely but I fear I
+                    shall not soon have leisure to inspect it on acc<hi rend="superscript">t</hi> of
+                    my <bibl type="authorial"><title ref="bi0012">welsh Tour</title></bibl>.
+                    Inclosed is an order for <bibl type="authorial"><title ref="bi0231">Flora
+                            Scotica</title></bibl>. I scarce give any away as I must not hurt
+                    <persName ref="pe0139">M<hi rend="superscript">r</hi> Lightfoot</persName>.
+                    <persName ref="pe0226">M<hi rend="superscript">r</hi> Panton</persName> has just
+                    called on me &amp; desires to be remembered to you.</p>
+                <closer><salute>I am Dear Sir <lb/>y<hi rend="superscript">r</hi> affect. humble
+                            serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+
+                <dateline>Sept<hi rend="superscript">r</hi> 26<hi rend="superscript">th</hi></dateline></closer>
+
+                <postscript>
+                    <p>The book you mention will be welcome.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom house</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

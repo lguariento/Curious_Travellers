@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1067">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 60</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Along top of second page in Richard Bull's hand</hi>:</p>
+                            <p>pay <persName ref="pe0014">Griffith</persName></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1787-11-05"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline><placeName ref="pl0001">Downing</placeName> Nov 5<hi rend="superscript">th</hi> 87.</dateline><note type="editorial">The year is added in Richard Bull's hand.</note></opener>
+                <p>I have been long in thanking you for your favor from <placeName ref="pl1413">Fareham</placeName>. <note type="editorial">There is no letter addressed from Fareham in Bull’s correspondence with Pennant during 1787.</note>
+                    But be assured I have not been idle in matters that you are interested in. my <bibl type="authorial"><title ref="bi0039">of London</title></bibl>
+                    will find you full employ: How it will exercise y<hi rend="superscript">r</hi> collecting faculties. make much of it for those will be my last words 
+                    to the public. Look to <persName ref="pe0065">David</persName> for my postuma. <del><gap unit="letters" quantity="2" reason="illegible"/></del>He 
+                    sailed under y<hi rend="superscript">r</hi> <placeName ref="pl1020">isle</placeName> in the finest morning and after experiencing co<del><gap unit="letters" quantity="3" reason="illegible"/></del>lors
+                    &amp; tempests &amp; lying by a whole night off the <placeName ref="pl0925">french coast</placeName> landed safe at 
+                    <placeName ref="pl1414">Havre</placeName>. in <hi rend="underline">his way</hi> to <placeName ref="pl1023">Paris</placeName>
+                    he visited <placeName ref="pl1415">Rouen</placeName>, <placeName ref="pl1416">Caen</placeName>, <placeName ref="pl1417">Bayeux</placeName>,
+                    <placeName ref="pl1418">Cherbourg</placeName>, <placeName ref="pl1419">M<hi rend="superscript">t</hi> S<hi rend="superscript">t</hi> Michel</placeName>,
+                    <placeName ref="pl1420">S<hi rend="superscript">t</hi> Maloes</placeName>, <placeName ref="pl1421">Rennes</placeName>
+                    <placeName ref="pl1422">La Flêche</placeName> &amp;c. is now departed for the <placeName ref="pl0925">south of France</placeName>,
+                    &amp; towards march will cross the <placeName ref="pl1423">Pyrenees</placeName>. He progs well for his father: &amp; 
+                    has got for me among other good things <placeName ref="bi0620">Les delices de la gr. Bretagne</placeName>.</p>
+                <p><persName ref="pe0014">Moses</persName> presents his duty: will soon send to you <rs type="art" ref="ar0291">Catherine y Berain</rs>
+                    &amp; the views done by <persName ref="pe0324">Ingleby</persName>.<note type="editorial">For Pennant's offer of Moses Griffith's services to copy drawings by Ingleby of Welsh scenes, commissioned by Chiswell, see <ref target="1065.xml">1065</ref>.</note></p>
+                <p>I thank you for taking a copy of my <bibl type="authorial"><title ref="bi0025">arctic zoology</title></bibl>. it will be a fine one &amp; only reserved for the favored.<note type="editorial">See <ref target="1065.xml">1065</ref>.</note></p>
+                <p>My best Compliments attend miss Bulls.<note type="editorial"><persName ref="pe0331">Elizabeth</persName> and <persName ref="pe0336">Catherine</persName> Bull.</note> I wish them well thro their Winter immersion.
+                    Write soon. &amp; give me all the news you can scrape.</p>
+                <closer>
+                    <salute>Adieu
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                    
+                </closer>
+                <postscript>
+                    <p>My best wishes attend <persName ref="pe0332">M<hi rend="superscript">r</hi> Storer</persName>. I wish
+                        <persName ref="pe0293">M<hi rend="superscript">r</hi> Burel</persName> health: but all out of humour with him.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine/>
+                        <addrLine/>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

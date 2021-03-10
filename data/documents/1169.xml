@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1169">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 119</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1793-08-25"/>
+                    <placeName ref="pl1203">Abergelli</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>  
+                    <placeName ref="pl1013">Northcourt</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>excuse this quick succession of letters. I find I have mislaid yr acc<hi rend="superscript">t</hi> of the
+                    lighthouses of the <placeName ref="pl1020">isle of wight</placeName>. Be so good <del>by</del>(as soon as
+                    possible to send me the copy of what you said. Let me also ask if there is any inscription on the 
+                    <persName ref="pe1727">Pr. Elizabeth</persName> in <placeName ref="pl2817">Newport church</placeName>: or any notice in the register: how came 
+                    she into the <placeName ref="pl1020">island</placeName> &amp; where did she reside.<note type="editorial">For Bull's response to these questions, see <ref target="1171.xml">1171</ref>.</note></p>
+                <p>
+                    These only are wanted to complete <bibl type="authorial"><title ref="bi0269">my tour of the delicious spot</title></bibl>.</p>
+                <closer>
+                    <salute>with best wishes 
+                    <lb/>Adieu</salute>
+                    <lb/>Yrs most truely
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                    <dateline><placeName ref="pl1203">Abergelli</placeName> Aug. 25<hi rend="superscript">th</hi>. | 93<note type="editorial">In Richard Bull's hand.</note> but Q.<note type="editorial">In pencil.</note></dateline>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark"><gap unit="letters" quantity="3" reason="illegible"/>E <gap unit="letters" quantity="1" reason="illegible"/> AU 28 93</stamp>
+                    <stamp type="handstamp"><placeName ref="pl1203">ABERGELE</placeName></stamp>
+                    <stamp type="frank"><placeName ref="pl1203">Abergele</placeName> Aug: twenty fifth 
+                        1793 <hi rend="underline"><gap unit="letters" quantity="1" reason="illegible"/> Yorke</hi><note type="editorial">It unlikely that Bull's frank was provided by 
+                            <persName ref="pe0243">Philip Yorke</persName> of Erddig, who had ceased being an MP in 1792. His son, <persName ref="pe0690">Simon</persName>, represented Grantham from 7 January 1793, and may have been known to Bull.</note></stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi> | <placeName ref="pl1013">North Court</placeName> | <placeName ref="pl1020">Isle of Wight</placeName><note type="editorial">The address is written in the franker's hand.</note></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

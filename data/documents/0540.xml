@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0540">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>George Paton to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP326</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>8</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0228">George Paton</persName>
+                    <date when="1779-10-13"/>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="ct0539"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>The unfortunate Lady was only daughter to <persName ref="pe2014">the ninth Earl
+                        of Caithness</persName>, her name <persName ref="pe2015">Lady Dorothea
+                        Sinclair</persName>,in the first period of life most promising but now by
+                    barbarous treatment of <persName ref="pe0090">the dirty Lord</persName> rendered
+                    a pity-able object , being under constant apprehension of resuffering similar
+                    insults, she once bore from his hands or artifice; neglected tho' alimented by
+                    her base husband she is unhappy &amp; may be often pinched with the extravagant
+                    profusion of a thoughtful mother, that pryes upon her.</p>
+                <p><persName ref="pe2013">M<hi rend="superscript">r.</hi> John Clerk</persName> is a
+                    fifth Son of <persName ref="pe0454">Sir John Clark Baro<hi rend="superscript">t.</hi> of Penycuik</persName> one of the Late Barons of Exchequer,
+                    &amp; Brother to <persName ref="pe2016">Sir James</persName> now of that Stile,
+                    he is alive with a numerous family by <persName ref="pe2017">a Sister</persName>
+                    of <persName ref="pe2018">John Adams</persName> the eminent adelphi schemer at
+                        <placeName ref="pl0699">London</placeName>, his house in the vicinity of
+                        <placeName ref="pl2399">Lasswade</placeName>, named <placeName ref="pl2802"><hi rend="underline">Eldin</hi></placeName>, i.e. a vulgar word used in
+                    this Country for Fire or the materials kindled or <hi rend="underline">Coal</hi>
+                    <del unit="letters" atLeast="4" atMost="6"/>
+                    <add place="above">he</add> having purchased the underground property, employs
+                    many diggers for that vendable commodity.</p>
+                <p>If you remember in our morning Jaunt passing <add place="above">South</add> to
+                        <placeName ref="pl0385"><hi rend="underline">Hawthorden</hi></placeName> we
+                    past thro' a small Kirk village which lyes low bordering on the <placeName ref="pl2803">North Esk</placeName> river, went <del>over</del>
+                    <add place="above">along</add> the bridge, ascended a steep curvated road,
+                    having gain'd this our Course was directly turn'd to the west up the river, we
+                    reached <placeName ref="pl0385">Hawthorden</placeName> two <add place="above">miles</add> or somewhat more <del rend="overstrike">miles</del> of English
+                    measure west of this Village, it is a Scots mile directly west of <placeName ref="pl0080">Dalkeith</placeName> on the same river which runs by its North
+                    side as the <placeName ref="pl2804">South Esk</placeName> does <add place="above">on</add> the South Side of this country Town &amp; both Rivers
+                    join in <persName ref="pe2019">his Grace of Buccleughs</persName> Parks or
+                    Inclosures East of the Palace. <placeName ref="pl2399">Lasswade</placeName> is a
+                    thoro'fare village for all passengers to <placeName ref="pl0398">Gala</placeName>, <placeName ref="pl0405">Melrose</placeName> &amp;<hi rend="superscript">c.</hi> five miles South of this: turn up <bibl type="authorial"><title ref="bi0186"><hi rend="underline">Taylor &amp;
+                                Skinners Book of roads</hi></title></bibl> South of <placeName ref="pl0076">Edinburgh</placeName> &amp; you must easily find it out a deep
+                    valey between two risings — In this description I've been minutely tedious, as
+                    we went out from this by the <placeName ref="pl2399">Lasswade</placeName> road
+                    &amp; returned here again by the <placeName ref="pl0967">Roslin</placeName>
+                    road, for the Chaise was ordered to go back by <placeName ref="pl2399">Lasswade</placeName> &amp; come up for us at <placeName ref="pl0967">Roslin</placeName> &amp; stopt on the way to examine <placeName ref="pl2805">the <hi rend="underline">Oily well</hi> at S<hi rend="superscript">t.</hi> Kathrine's</placeName>.</p>
+                <p>I take the Liberty of informing you that <persName ref="pe2016">Sir James
+                        Clerk</persName>, his Brother <persName ref="pe0017">Geo. Clerk Maxwell
+                            Esq<hi rend="superscript">r.</hi></persName> one of our Comissioners of
+                    the Customs, <persName ref="pe2013">John of Eldin &amp;<hi rend="superscript">c.</hi></persName> and even all the daughters of the Family are very
+                    remarkable for fine Geniuses in painting, sketching, music &amp;<hi rend="superscript">c.</hi> &amp;<hi rend="superscript">c.</hi> it gives me
+                    great satisfaction that you relish the Etchings, many hundreds of sketches of
+                    Views in England, Scotland &amp;<hi rend="superscript">c.</hi> he has by him
+                    &amp; amuses himself at leisure hours in etching; will endeavour to get what
+                    else he may publish to compleat your Collection for which reason he desired me
+                    to stitch up the Book in the form sent you &amp; he pasted them on the paper
+                    himself ––––– I know many of the Family who are now no more, every on had a
+                    Taste peculiarly uncommon in the liberal Arts &amp; mechanicks, <persName ref="pe2013">M<hi rend="superscript">r.</hi> John's</persName> children
+                    promise to inherit these dispositions; <persName ref="pe2016">the
+                        Knight</persName> has no Children but a Patron to every Young Artist, have
+                    free access to copy from his fine Collection <add place="above">at <placeName ref="pl0726">Pennycuik</placeName></add>, many good Originals.</p>
+                <p>Upon receipt of your Letter I wrote <persName ref="pe0190">M<hi rend="superscript">r.</hi> Donaldson</persName> to come Call at
+                        <persName ref="pe0108">M<hi rend="superscript">r.</hi> Hixon</persName> for
+                    a Set of <hi rend="underline"><persName ref="pe0058">M<hi rend="superscript">r.</hi> Cordiners</persName> Prints</hi>, received no answer from
+                    him, but learn some Parcels for me <del rend="overstrike"><unclear reason="illegible">are</unclear></del> were put on board a Ship that
+                    ought to have been here last Convoy, but thro' the avidity of the Master to get
+                    a full Cargo evaded that opportunity, amongst these I hope the prints make one
+                    parcel, all are packt up in <persName ref="pe0190">M<hi rend="superscript">r</hi> Donaldson's</persName> Bale for his Shop here; these may
+                    approach us shortly hence. I am happy that the M.S is advancing apace to you,
+                    persuade myself the publication will be acceptable to the public, whenever you
+                    can get it superintended.</p>
+                <p>The late drubbing <persName ref="pe1589">P. Jones</persName> got on <placeName ref="pl2806">the Northumbrian Coast</placeName> &amp;<hi rend="superscript">c.</hi> as reports go (which to the discredit of the times are shamefully
+                    double) all fears of such uncourtly visits from such barbarous fellows as him,
+                    are now much vanished, yet the Money gatherers to dread the alarm, as our Shore
+                    will not every where admit so comfortable a Security as you do in: for my own
+                    part having nothing but the inclination &amp; ability to labour for a sustaining
+                    pittance. I do the best to keep up my spirits as long as health permits, &amp;
+                    expect no insult from the Pyrate, hoping such rough usage will not visit us in
+                    my days. ––––– A more <sic>shoaking</sic> Scene happened t'other day amongst our
+                    new raised Highland Regiment called <hi rend="underline">West Fencibles</hi>, of
+                        <placeName ref="pl0818">Argyleshire</placeName> &amp;<hi rend="superscript">c.</hi> men which has brought an indelable slur on our Country in general
+                        viz.<hi rend="superscript">t.</hi> for sedition &amp; rebellion against
+                    military discipline &amp;<hi rend="superscript">c.</hi> that must for the future
+                    put a perpetual &amp; just refusal to the request of a <hi rend="underline">Scots Militia</hi>: this is the third insurrection in this place, within so
+                    short a period: however real or imaginary the soldiers complaints may have been,
+                    I am not able to determine (for our tales handed about are so vague no faith can
+                    be given to them) yet must confess that these unhappy dissentions have taken
+                    rise from the insidious arts &amp; practises of our low wretched principled
+                    commonality upon these unhappy men, with numbers of these evil designing people
+                    our place does abound &amp; I wish for the good of the Nation in general no
+                    Highland Regiment should ever be quarter'd here again: nay from what I saw &amp;
+                    suffered myself in 1745 I shall ever be delicate in <add place="above">the</add>
+                    allowing Arms &amp; military stores to be too wantonly bestowed on these my wild
+                    Countrymen to be used here; they will be under better subjection in foreign
+                    parts than at home. It's said this commotion took rise from too high a price
+                    demanded for some <add place="above">part</add> of their dress as Bonnet,
+                    leather pouch or pocket with the hair &amp;<hi rend="superscript">c.</hi> or
+                    some such <sic>triffles</sic>. — Such small matters blow the flame of
+                    Insurrection too rapidly violent. — but hope it's now at an end after four of
+                    the mutineers got discipline in presence of a number of the Corpse.</p>
+                <p>I have scarce lookt into the new <bibl type="authorial"><title ref="bi0294">History of Edinburgh</title></bibl>, <persName ref="pe2020"><hi rend="underline">Arnot</hi></persName> the Author, tho' am acquainted
+                    with him, yet admired <add place="above">him</add> not, his principles do not
+                    tally with mine, he is satyrical; profuse, of the reprobate &amp;<hi rend="superscript">c.</hi> cast; some praise &amp; others condemn the work;
+                    it does not please generaly as he is bitter or sever where he wants an attack,
+                    the price is unreasonably dear 25 Shillings for a moderate 4<hi rend="superscript">to.</hi> no plates but an indifferent view of the <hi rend="underline">Register Office</hi> &amp; a poor plan of the Town, either
+                    the self same one done by <persName ref="pe2021">Armstrong</persName> the
+                    wretched impostor of a Surveyor, or it's copied from him: if you desire a Copy I
+                    beg acceptance of a copy, which shall send to you by the way of <placeName ref="pl0699">London</placeName> recommended to any one's care you please: I
+                    shall some time hence purchase one for myself when the price lowers, he reads
+                    more pleasantly than the harsh <hi rend="underline">stonern</hi>
+                    <persName ref="pe0161">Maitland</persName>, but the later is to be respected for
+                    many of his <add place="above">old</add> collections which <add place="above">are</add> mostly faithfull, these are (am told) mostly overlookt by
+                        <persName ref="pe2020">Arnot</persName></p>
+                <p><persName ref="pe0039">M<hi rend="superscript">r. Bruce the Abbissinian
+                            Traveller</hi></persName> seems of late to be in a torpid state, some of
+                    his admirers say he is shut up in composition, others shrewdly tell <del unit="letters" quantity="3"/>
+                    <add place="above">he is</add> an Imposture: I never had access to see any of
+                    his drawing, which some admire &amp; others attest he cannot draw; I am at a
+                    loss to inform you of his motions, but probably in a month or so I may meet with
+                    one of his confidents, from which <add place="above">quarter</add> shall gain
+                    some hints &amp; will write you. ––––– Should you not have <bibl type="authorial"><title ref="bi0186"><hi rend="underline">Taylor &amp;
+                                Skinner's Scot's Roads</hi></title></bibl> by you I shall send you a
+                    Copy, but think <persName ref="pe0022">D<hi rend="superscript">r.</hi>
+                        Ramsay</persName> purposed this several years ago.</p>
+                <closer><salute>I am <lb/> D. Sir <lb/>Your most obed<hi rend="superscript">t</hi>
+                            Serv<hi rend="superscript">t.</hi></salute>
+                    <signed><persName ref="pe0228">GPaton</persName></signed>
+                    <dateline><placeName ref="pl0696">Custom h<hi rend="superscript">o.</hi>
+                            Edinburgh</placeName>
+                        <lb/>13 Oct<hi rend="superscript">r.</hi> 1779.</dateline></closer>
+                <postscript>
+                    <p>P.S. A catalogue of <persName ref="pe0022">D<hi rend="superscript">r.</hi>
+                            Ramsay's</persName> Books will make part of a greater Collection for
+                        Sale, the prices annexed (which will not be of the moderate line) to each
+                        Book: this is preparing at present. it shall be sent in course when it goes
+                        to press.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

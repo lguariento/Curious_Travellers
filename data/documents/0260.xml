@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0260">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 8 August 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>14-15</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-08-08"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0261"/>
+                    <ref type="prev" target="ct0259"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> Aug. 8<hi rend="superscript">th.</hi> 1779</dateline>
+                    <salute>Dear Sir</salute></opener>
+
+                <p>I received y<hi rend="superscript">r</hi> kind letter of July 12<hi rend="superscript">th</hi> with the satisfactory account. of the Duffs. The
+                        <persName ref="pe0090">present Lord</persName> seems to act quite worthy of
+                    his descent: I will send you more proofs of the last prints by some private hand
+                    properly packed: &amp; hope by lodging them with a friend in <placeName ref="pl0265">Warrington</placeName> to get them conveyed by some of the
+                    medical gentlemen on their way to y<hi rend="superscript">r</hi> university. I
+                    expect my son who comes down next week will bring y<hi rend="superscript">r</hi>
+                    present of etchings from <persName ref="pe0104">M<hi rend="superscript">r</hi>
+                        Gough</persName>.</p>
+                <p>Be so good as to order <persName ref="pe0190">M<hi rend="superscript">r</hi>
+                        Donaldson</persName> to call on <persName ref="pe0108">M<hi rend="superscript">r</hi> Hixon</persName> in y<hi rend="superscript">r</hi> name for a set of prints of <persName ref="pe0058">M<hi rend="superscript">r</hi> Cordiners</persName>
+                    <rs ref="ar0236">prints</rs>: which will be the readier way of getting them. all
+                    perhaps will not be done, but enough to certify their design. <persName ref="pe0108">M<hi rend="superscript">r</hi> Hixon</persName> is my Copper
+                    plate printer &amp; lives in <placeName ref="pl2402">Cecil street</placeName> in
+                        <placeName ref="pl1615">the strand</placeName>.</p>
+                <p>I have now just bought two works (long on the anvil) to conclusion. viz.
+                        <placeName ref="bi0032">the journey to London</placeName>. being a
+                    descriptive historical Tour from hence to the capital, noting all that is
+                    remarkable on the road, which may serve to beguile its tediousness to
+                    travellers. the other <sic>is is</sic> a history &amp; natural <add place="above">&amp; commercial</add> history of the Quadrupeds of N. america
+                    &amp; the arctic regions with an introductory history of the countries.<note type="editorial">Likely a version of Pennant's <bibl type="editorial"><title ref="bi0022"><hi rend="italic">Arctic zoology</hi> (2 vols.,
+                                1784–5)</title></bibl></note> but these both will lie by till better
+                    days; which I fear are not soon to be expected.</p>
+                <closer><salute>I am Dear Sir <lb/>with true regard yours</salute>
+                    <signed><persName ref="pe0232">Th. Pennant.</persName></signed></closer>
+                <postscript>
+                    <p>Pray where is <placeName ref="pl2403">Braco</placeName>?</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

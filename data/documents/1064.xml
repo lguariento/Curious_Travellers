@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1064">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>6</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1787-08-14"/>
+                    <placeName ref="pl1013">Northcourt, Isle of Wight</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I have receivd the pleasure of your letters, one dated June 16. the other July 29.<note type="editorial">See <ref target="1061.xml">1061</ref> and <ref target="1063.xml">1063</ref>.</note> inclosing Drawings from
+                    <persName ref="pe0014">M<hi rend="superscript">r</hi> Griffith</persName> corresponding with the account remitted therewith, 
+                    and which I much wish to know where to pay, that He and I, may continue good friends. I hold myself highly oblig’d to you 
+                    for Sparing me so much of his time, and shall set it down on the Debtor side of my book, amongst the many marks of attention 
+                    you have honor’d me with, and which I mean to pay whenever I am able, in the mean time think of me often, and esteem me as 
+                    much as you can. <persName ref="pe0837">Our only M. P.</persName> arriv'd in the <placeName ref="pl1020">Island</placeName>
+                    two days ago, and I have procur’d a frank as soon as possible, without which, and without having any particular business to 
+                    write about, I should have thought myself unpardonable in troubling you.</p>
+                <p>In my last to <persName ref="pe0293">Burrell</persName>, I gave him a wrap on the knuckles, respecting his unusual silence 
+                    to your requests, and I did it the more willingly, hoping to find it a mistake, because I have ever experienc’d his punctuality 
+                    upon all occasions.<note type="editorial">For Pennant's complaints about Burrell, see <ref target="1063.xml">1063</ref>.</note> poor fellow! I hardly think he could read my jobations, which must have reach’d his hands, just at the time 
+                    when the heaviest of all misfortunes fell upon him, whilst sleeping by the side of <persName ref="pe0838">his wife</persName>,
+                    who was in hourly expectation of being brought to bed, and who has since been deliver’d, and is wonderfully well. If you have 
+                    not already heard it, I must be the unwilling newsman to you, and inform you, that he has been attack’d with a very severe 
+                    paraletic stroke, and has quite lost the use of one side, from his face downwards, and his friends apprehend a second stroke, 
+                    perhaps at no great distance, will be the consummation devoutly to be wish’d, at least so I should think. I have known him 
+                    almost as long as memory can look back, and the earliest circumstances I can recollect, are kindnesses received from him, no 
+                    wonder therefore, this mellancholy event affects me extremely.</p>
+                <p>I have been frequently to <placeName ref="pl1392">Appuldurcombe</placeName>, and dont ] find many pictures worth your recording, the chief are
+                    <lb/><rs type="art" ref="ar1050"><persName ref="pe0629">Henry VIII</persName></rs>. said to be a true picture of <persName ref="pe0401">Holbein</persName>
+                    <lb/><rs type="art" ref="ar1049"><persName ref="pe0829">Edward VI</persName></rs>. a child, formerly in the <placeName ref="pl0699">royal collection</placeName>, by <persName ref="pe0401"><choice><abbr>D<hi rend="superscript">o</hi></abbr><expan>Ditto</expan></choice></persName><note type="editorial">Hans Holbein, the younger.</note>. 
+                    <rs type="art" ref="ar1051"><persName ref="pe0830">Frances Howard Countess of Somerset</persName></rs>. the picture from which <persName ref="pe0840">Simon Pass</persName>,
+                engrav'd the Print.
+                    <lb/><rs type="art" ref="ar1052"><persName ref="pe0831">Robert Earl of Essex</persName></rs>. 1572. by no means handsome.
+                    <lb/><rs type="art" ref="ar1054"><persName ref="pe0835">Isabella Clara Eugenia</persName></rs>, in a vast ruff. Engraved.
+                    <lb/><rs type="art" ref="ar1053"><persName ref="pe0832">Lady Worsley</persName></rs>, wife to <persName ref="pe1421">Sir Rich<hi rend="superscript">d</hi>: daughter of <persName ref="pe0833">Sir Henry Neville</persName></persName>. - a good 
+                    picture by <persName ref="pe0834">Cornelius Jansen</persName>.
+                    <lb/><rs type="art" ref="ar1055">2 very Capital Landscapes</rs>, by <persName ref="pe0836">Zucharelli</persName>. ---
+                    <lb/>I ask'd <persName ref="pe0093">Emondson</persName>'s <persName ref="pe0841">Son</persName> for the <rs type="art" ref="ar1056">Print of the House of Yvory</rs>,
+                    at the corners of which are the <rs type="art" ref="ar1057">little Prints of Enmore</rs>; He has none struck off, nor does he know
+                    where the plate is, but has promiss’d me one when it comes to hand. What you call the <bibl type="authorial"><title ref="bi0618">actual Survey of the Sussex Coast</title></bibl>,
+                    I apprehend to be <persName ref="pe0844">Avery</persName>'s <bibl type="authorial"><title ref="bi0618">Plan <del>of</del> and Chart of the Sea Coasts from the head land of
+                        S<hi rend="superscript">t</hi>. Albans to Beachy head in Suss<del><gap unit="letters" quantity="2" reason="illegible"/></del>ex</title></bibl>, 
+                    with the Soundings, and distances.<note type="editorial">This 'Plan and Chart' has not been identified.</note> This map <persName ref="pe0293">Burrell</persName> could never get, and I never saw more than one, which is at a tradesman’s in this
+                    <placeName ref="pl1020">Island</placeName>, and I have been long trying to coax him out of it for <persName ref="pe0293">Burrell</persName>,
+                    who I doubt will <hi rend="underline">now</hi> have little occasion for it, so if I succeed it will be for you.</p>
+                <p><persName ref="pe0014">Moses</persName> sent me a shell with the Drawings, but being little of a naturalist, I don’t know how to name it, or where to place it.<note type="editorial">Pennant names this shell and its intended location in <hi rend="italic">The journey from Chester to London</hi> (1782) in <ref target="1065.xml">1065</ref>.</note></p>
+                <p>I desire my compliments to your pleasant young friend, as well as near Relation 
+                    <persName ref="pe0065">M<hi rend="superscript">r</hi>. Pennant</persName>, and my Daughters<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>
+                    beg their remembrances to you both.</p>
+                <closer>
+                    <salute>I am Dear Sir
+                    <lb/>Yours very Sincerely</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

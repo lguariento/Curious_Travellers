@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0242">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on George Low's manuscript and reflections on
+                    the public mood</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>212-213</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1778-05-26"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0238"/>
+                    <ref type="prev" target="ct0241"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+
+
+                <p>Last night I returned home &amp; take this first opportunity of thanking you for
+                    your favor of April 28<hi rend="superscript">th</hi>. I received <persName ref="pe0192">M<hi rend="superscript">r</hi> Elliots</persName> kind present;
+                    &amp; must hope the <bibl type="authorial"><title ref="bi0012">welsh
+                            tours</title></bibl> have reached you by this time to hear of it by the
+                    next letter. <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                        Low</persName> may take his time for till affairs settle, the public
+                    attention is too much distracted to think of amusement: but then this is the
+                    period for individuals to compose &amp; study. Let me also advise <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> to put his <bibl type="authorial"><title ref="bi0058">voyages</title></bibl> into as small
+                    compass of words as possible: for the english love conciseness. I shall rejoice
+                    To receive <bibl type="authorial"><title ref="bi0262">M<hi rend="superscript">r</hi> Callendars work</title></bibl> &amp; to hear some good news
+                    of <persName ref="pe0022">D<hi rend="superscript">r</hi> Ramsay</persName>.</p>
+                <closer><salute>I rest D<hi rend="superscript">r</hi> Sir <lb/>y<hi rend="superscript">r</hi> very faithful humble Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Th. Pennant</persName></signed>
+                <dateline><placeName ref="pl0001">Downing</placeName> May 26<hi rend="superscript">th</hi> 1778.</dateline></closer>
+
+
+                <postscript>
+                    <p>I break open this to tell you that to my great amazement I find <persName ref="pe0156">M<hi rend="superscript">r</hi> Lows</persName>
+                        <bibl type="authorial"><title ref="bi0058">journal</title></bibl> amongst my
+                        Books which came in a box from <placeName ref="pl0699">London</placeName>. I
+                        had sent it to <persName ref="pe0104">M<hi rend="superscript">r</hi>
+                            Gough</persName> at y<hi rend="superscript">r</hi> request, who to avoid
+                        the trouble of forwarding it to you, I suppose sent it to <persName ref="pe0026">White</persName> &amp; so it has come back. This is the
+                        last time I will trust matters of this consequence to <persName ref="pe0104">M<hi rend="superscript">r</hi> Gough</persName>. how shall I get it
+                        to you. I hope the <bibl type="authorial"><title ref="bi0422">Nat. hist.
+                                part</title></bibl> which I sent to <persName ref="pe0043">M<hi rend="superscript">r</hi> Cadel</persName> is safe.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> George Paton</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

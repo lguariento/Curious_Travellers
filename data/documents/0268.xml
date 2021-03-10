@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0268">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 18 December 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>29-30</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-05-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0270"/>
+                    <ref type="prev" target="ct0269"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline>Dec<hi rend="superscript">r</hi> 18<hi rend="superscript">th</hi>
+                        1779</dateline>
+                    <salute>Dear Sir</salute></opener>
+                <p>Excuse me for Troubling you soon; but it is to beg that in case opportunity
+                    offers by a private hand that you would send 4 of my <bibl type="authorial"><title ref="bi0028">Genera of birds</title></bibl> directed to me at
+                        <persName ref="pe0146">M<hi rend="superscript">r</hi> Longman’s</persName>
+                    bookseller <placeName ref="pl2405">pater noster row</placeName>. the case is I
+                    wish to have a few to send to foreign friends. The rest may go at leisure.</p>
+                <p>If you have <persName ref="pe0246">M<hi rend="superscript">r</hi>
+                        Pope’s</persName> M.S. pray return it to him with my thanks. I lent it to
+                        <persName ref="pe0058">M<hi rend="superscript">r</hi> Cordiner</persName>
+                    who has made some extracts from it with proper acknowledgements but it cost him
+                    a deal of Labor.<note type="editorial">See Pennant's letter to Paton on <ref target="0247.xml">18 October 1778</ref> and notes.</note></p>
+                <closer><salute>I am with best <lb/>wishes, Dear Sir <lb/>y<hi rend="superscript">r</hi> faithful humble Servt.</salute>
+                    <signed><persName ref="pe0232">Tho. Pennnant.</persName></signed></closer>
+
+                <postscript>
+                    <p> I do not care how many of the <bibl type="authorial"><title ref="bi0028">Genera</title></bibl> are sent hereafter by private hands by 2 or 3
+                        in a parcel.</p>
+                    <p>This moment y<hi rend="superscript">r</hi> favour is come I shall desire
+                            <persName ref="pe0146">M<hi rend="superscript">r</hi> Longman</persName>
+                        or somebody to call for the parcel at <persName ref="pe0043">M<hi rend="superscript">r</hi> Cadels</persName>. the M.S. from <persName ref="pe0082">D<hi rend="superscript">r</hi> R<gap reason="illegible" unit="letters" quantity="1"/></persName> will be most welcome.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

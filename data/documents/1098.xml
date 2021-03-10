@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1098">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 82</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1790-02-22"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>No one speaks purer welsh than <persName ref="pe0014">Moses</persName> but I do not always understand his English. but he certainly expressed the utmost dislike of his 
+                    <rs type="art" ref="ar0041">drawing of M<hi rend="superscript">r</hi> Pitt</rs>, &amp; as I thought had not charged it. I hope to see you soon after the 10<hi rend="superscript">th</hi>.
+                    thank you for intelligence; &amp; again for not risquing the purchase of the expensive <bibl type="authorial"><title ref="bi0062">maps</title></bibl>.
+                    I can see them when I come to <placeName ref="pl0699">town</placeName>.</p>
+                <p>Pray recollect whether there is a print of the famous <rs type="art" ref="ar0161">Gaston de <del><gap unit="letters" quantity="1" reason="illegible"/></del>Foix</rs>
+                    who died in 1391. or of the <rs type="art" ref="ar0162">Great Rolando slain in the field of <placeName ref="pl1639">Roncevaux</placeName></rs>,
+                    &amp; celebrated by <persName ref="pe0989">Ariosto</persName>. These are two Heros I greatly want. all other wants I reserve the mention of till I come to 
+                    <placeName ref="pl0759">Stratton street</placeName> except one that you would be so good as to prepare <persName ref="pe0293">Sir W. Burel</persName>
+                    to give me a sight of his <rs type="art" ref="ar0163"><placeName ref="pl0922">Sussex</placeName> drawings</rs>. As I have abjured authorship he may safely do it. a hundred things crowd on me to be done before I leave home, so I must hasten to subscribe myself</p>
+                <closer>
+                    <salute>Dear Sir
+                        <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T. Pennant</persName>.</signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Febr. 22<hi rend="superscript">d</hi>. 1790.<note type="editorial">The year is added in Richard Bull's hand.</note></dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

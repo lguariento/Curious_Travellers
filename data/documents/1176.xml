@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1176">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>52</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date>?late March, early April 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl2538">Lothian's Hotel</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir. -</salute> <dateline>Saturday morning.
+                    <lb/><del>March</del>April May? 1794<note type="editorial">The month and year are given in pencil. A date prior to Sarah Pennant's death at Brighton on 16 April 1794 is likely.</note></dateline></opener>
+                <p>I return your Book, with very many, and very sincere thanks. Whatever you talk, or write about, always affords me amusement, and instruction in the superlative degree.</p>
+                <p>
+                    I know I have some prints which I can spare, belonging to <bibl type="authorial"><title ref="bi0269">your history</title></bibl>,
+                    tho’ I know not, just now, where to lay my hand upon them; I shall find them when I least expect it.</p>
+                <p>
+                    I have put into <bibl type="authorial"><title ref="bi0269">your book</title></bibl> a little <rs type="art" ref="ar0341">print of Southwick House</rs>,
+                    and two or three relative to the <placeName ref="pl1020">Isle of Wight</placeName>, and when I find any more, I will remember to put them by. I wish you and yours every thing you expect from your 
+                    <placeName ref="pl1608">Brighthelmstone</placeName> Expedition.</p>
+                <p>
+                    When I have the good fortune to be again rectus in Curiâ,<note type="editorial">'right in court'.</note> respecting your good opinion, perhaps you will have the goodness to let your 
+                    <persName ref="pe0404">amanuensis</persName> transcribe that part of <bibl type="authorial"><title ref="bi0269">your work</title></bibl>, which treats of <placeName ref="pl1020">our little Island</placeName>,
+                    upon paper of the size and goodness of your own, and I will most gladly pay him, any thing he pleases for the same.</p>
+                <closer>
+                    <salute>I am Dear Sir. 
+                        <lb/>Always yours</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant</persName> Esq<hi rend="superscript">r</hi> | <placeName ref="pl2538">Lothian's Hotel</placeName>. -</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

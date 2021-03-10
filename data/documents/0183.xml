@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0183">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on unsent books and information on
+                    hospitals</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>119-120</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-03-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0532"/>
+                    <ref type="prev" target="ct0182"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+
+                <p>y<hi rend="superscript">r</hi> favors &amp; several inclosures are before me. I
+                    want no minutiae or secret history of y<hi rend="superscript">r</hi> hospitals.
+                    The public only expect general accounts. I see in the list of the Books I sent
+                    to be distributed, another omission of <persName ref="pe0026">M<hi rend="superscript">r</hi> Whites</persName> for besides forgetting to send a <bibl type="authorial"><title ref="bi0008">first vol.</title></bibl> to <persName ref="pe0103">M<hi rend="superscript">r</hi> Golborne</persName>, another was omitted
+                    to <persName ref="pe0018">M<hi rend="superscript">r</hi> Jackson</persName>, which you will
+                    please to tell him of. Is the <placeName ref="pl1041">new episcopal chapel</placeName>
+                    finished? Pray forward the inclosed as soon as possible. I mourn for a very
+                    worthy <persName ref="pe0812">mother in Law</persName>.</p>
+                <closer><salute>I am D<hi rend="superscript">r</hi> Sir <lb/>Y<hi rend="superscript">r</hi> most obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute><signed><persName ref="pe0232">Tho.
+                            Pennant</persName></signed>.
+                <dateline>March 24<hi rend="superscript">th</hi> 1775</dateline></closer>
+
+                <postscript>
+                    <p>I have made full use of <bibl type="authorial"><title ref="bi0158">Keith’s
+                                Bishops</title></bibl> ab<hi rend="superscript">t</hi> the abbies in
+                        <placeName ref="pl0316">Dundee</placeName>.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0250">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton: on Robert Ramsay's death; terms for selling
+                    prints; the identity of his defender in the press and instructions to insert the
+                    piece in other papers</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>228-229</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1778-12-27"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="ct0249"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r</hi> 27<hi rend="superscript">th.</hi> 1778</dateline>
+                <salute>Dear Sir</salute></opener>
+                <p>I truely lament the loss of our worthy friend; which is more grievous as it was
+                    rather unexpected after the receit of his note. He has at all times been true to
+                    me: which increases my regret.<note type="editorial"><persName ref="pe0022">Doctor Robert Ramsay</persName>, first Chair of Natural History at
+                        Edinburgh University died in 1778.</note></p>
+                <p>Never trouble y<hi rend="superscript">r</hi>self more about the <bibl type="authorial"><title ref="bi0012">Welsh tour</title></bibl>. The
+                    miscarriage cannot be helped.<note type="editorial">Previous letters mention a
+                        missing copy of <hi rend="italic">A Tour in Wales</hi> which was intended
+                        for Pennant's correspondent <persName ref="pe0133">James Lautie of
+                            Fordyce</persName>: see Pennant's letters to Paton on November 6 and
+                        December 4 1778.</note> I shall order 50 of <rs ref="ar0008">my prints</rs>
+                    on the terms <persName ref="pe0192">M<hi rend="superscript">r</hi>
+                        Elliot</persName> proposes. Price 7.6. of which <persName ref="pe0014">M.
+                        Griffith</persName> will allow 2 ..6 commission which I think handsome. I
+                    shall have further dealings with <persName ref="pe0192">M<hi rend="superscript">r</hi> Elliot</persName> &amp; put things immediately into his hands on
+                    the next occasion that I publish on my own account.</p>
+                <p>I discovered by chance the friend who so kindly defends me against y<hi rend="superscript">r</hi> wild clans. I am sure it is a <persName ref="pe0095">M<hi rend="superscript">r</hi> Francis Douglas</persName> near
+                        <placeName ref="pl0605">Paisley</placeName>.<note type="editorial">See
+                        Pennant's previous letter to Paton on December 4 1778.</note> It is the more
+                    generous as I said as harsh yet as true things against the <unclear reason="illegible">patent</unclear> earls of his name.<note type="editorial">In his <bibl type="editorial"><title ref="bi0008"><hi rend="italic">Tour in
+                                    Scotland and Voyage to the Hebrides 1772</hi></title> (Chester:
+                            1774), <biblScope unit="page">p.131</biblScope></bibl>, Pennant calls
+                        the family of Douglas 'a race of turbulent heroes, celebrated throughout <hi rend="italic">Europe</hi> for deeds of arms; the glory, yet the scourge
+                        of their country; the terror of their princes; the pride of the Northern
+                        annals of chivalry.'</note></p>
+                <p>I wish you would put that defence into one or more of y<hi rend="superscript">r</hi> papers; &amp; send me one when published. You will find it in the
+                        <bibl type="authorial"><title ref="bi0280">London Chronicle</title></bibl>
+                    of November 7<hi rend="superscript">th</hi>.</p>
+                <p>I have for you a noble impression of <rs ref="ar0008">my print</rs> which I will
+                    send as soon as possible. I do not give a single one away, else I must give all
+                    or disoblige numbers: which in fact is the cause I give the plate to my
+                        <persName ref="pe0014">Servant</persName>.</p>
+                <closer><salute>with best wishes of the season <lb/>I am Dear Sir <lb/>Y<hi rend="superscript">r</hi> very faithful humble Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Th. Pennant</persName>.</signed></closer>
+
+                <postscript>
+                    <p>I long to hear whether you &amp; <persName ref="pe0157">M<hi rend="superscript">r</hi> Macgovan</persName> think the celt
+                            gilt.<note type="editorial">See Pennant's letters to Paton on October 9,
+                            November 6 and December 4 1778.</note> my best compliments to him.</p>
+                    <p>Pray what was <persName ref="pe0022">Dr Ramsays</persName> distemper. how old
+                        was he. who did he marry did he leave a child.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom house</addrLine>
+                    </address></p>
+
+                <p>13/5</p>
+            </div>
+        </body>
+    </text>
+</TEI>

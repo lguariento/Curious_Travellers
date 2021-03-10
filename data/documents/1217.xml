@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1217">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 143</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1798-03-12"/>
+                    <placeName ref="pl2818">Rose hill</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl2627">Rose hill</placeName> near <placeName ref="pl0792">Wrexham</placeName>
+                    <lb/><placeName ref="pl1216">Denbighshire</placeName> March 12<hi rend="superscript">th</hi>
+                    <lb/> 1798.</dateline></opener>
+                <p>I am alarmed at y<hi rend="superscript">r</hi> <sic>silence at</sic> you mentioned your annual confinement and that <persName ref="pe0331">miss Bull</persName>
+                    was not so well as you could wish. I had also a fine <rs type="art" ref="ar0356">drawing in Bentan</rs> designed for you returned. It was copied by the able 
+                    <persName ref="pe1865">Pococke</persName> &amp; I thought w<hi rend="superscript">d</hi> be acceptable. In lieu, I sent this week for y<hi rend="superscript">r</hi>
+                    acceptance one of the few impressions of the famous <rs type="art" ref="ar0451">march of <del><gap unit="letters" quantity="1" reason="illegible"/></del> Gen<hi rend="superscript">l</hi>: Goddard</rs>
+                    – cross the peninsula of <placeName ref="pl1024">India</placeName> struck off fr<hi rend="superscript">m</hi> my <bibl type="authorial"><title ref="bi0263">Hindoostan</title></bibl>.
+                    I wish this anticipation may please you. I offer no rich friends copies <add place="above">of the entire work</add><note type="editorial">Pennant probably refers here to the <bibl type="authorial"><title ref="bi0263">printed sections</title></bibl> of his 'Outlines of the Globe'.</note> in these evil days</p>
+                <p>
+                    we are in <placeName ref="pl0731">wales</placeName> &amp; every where else as far as I hear well content with the taxes: not only so, but Parochial subscr: are almost universally set on foot. That of 
+                    <placeName ref="pl2628">Malpas</placeName> in <placeName ref="pl1362">Cheshire</placeName> was singular. 800<hi rend="superscript">£</hi> was raised in sums from 150<hi rend="superscript">£</hi>
+                    each to <hi rend="underline">one</hi> penny ½ &amp; one penny. The commonest laborers subscribed with alacrity.<note type="editorial">For a report of a meeting 
+                        held at the Vestry, Malpas, on 20 February 1798, to raise subscriptions 'to support our country at this very arduous crisis', 
+                        see <hi rend="italic">Chester Courant</hi>, 27 February 1798. The report is followed by a lengthy list of subscribers, named alongside their 
+                        contributions, with individuals contributing sums between one penny and £150 each.</note> <persName ref="pe0065">my son</persName>'s company had its subscription.<note type="editorial">On David Pennant's involvement in the militia, see <ref target="1208.xml">1208</ref> n. 3.</note> it consists of 100 privates of which a third at lest gave guineas &amp; ½ guineas. of the remainder none less than 5<hi rend="superscript">s</hi>. apiece. This is all comfortable.</p>
+                <p>
+                    we all rejoice at the detection of the conspirators: &amp; expect every <unclear>post</unclear> will bring us fresh detection.<note type="editorial">The conspirators mentioned here, known as the 'Margate traitors', were lead by James O'Coigly (1761–98), an United Irishman, who entered England in the summer of 1797, and attempted to put together a pan-British revolutionary conspiracy. He returned in February 1798, but was arrested with four others at Margate, Kent, on the way to France, and executed as a traitor on 7 June 1798. Chris Evans, <hi rend="italic">Revolution Debate: Britain in the 1790s</hi> (London: I. B. Tauris, 2006), p. 154.</note>
+                    I stay here about a 12 days. if writing is not irksome, let me hope to hear fr<hi rend="superscript">m</hi> you here. As to <rs type="art" ref="ar0451">Goddards march</rs> please to send for it when you will to 
+                    M<hi rend="superscript">rs</hi> Mostyn's <placeName ref="pl1649">N<hi rend="superscript">o</hi>. 72. Lower 
+                        Grosvenour street</placeName>.<note type="editorial">This member of the Mostyn family has not been identified.</note></p>
+                <closer>
+                    <salute>Best wishes attend <persName ref="pe0331">miss Bull</persName> &amp; yourself fr<hi rend="superscript">m</hi> <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName> <persName ref="pe0065">my son</persName> &amp;
+                    <lb/>Dear Sir,
+                        <lb/>Y<hi rend="superscript">r</hi> ever affect. friend</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark"><gap unit="letters" quantity="1" reason="illegible"/> <gap unit="letters" quantity="1" reason="illegible"/>R 14 98</stamp>
+                    <stamp type="handstamp"><placeName ref="pl0792">WREXHAM</placeName></stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull Esq<hi rend="superscript">r</hi></persName> | <placeName ref="pl0759">Stratton street</placeName> <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

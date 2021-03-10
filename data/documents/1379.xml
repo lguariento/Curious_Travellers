@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1379">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Lloyd, Caerwys, to Thomas Pennant, 13 June 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Hawarden</settlement>
+                        <repository>Flintshire County Record Office</repository>
+                        <idno>D/DM/120/3</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">on top of first page in unidentified hand</hi>: P. 58</p>
+                            <p><hi rend="italic">Condition</hi>: bottom of first page cut very close to final line of text</p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0333">John Lloyd</persName>
+                    <date when="1777-06-13"/>
+                    <placeName ref="pl1201">Caerwys</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref=""/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1380"/>
+                    <ref type="prev" target="ct1378"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline/><salute>Dr
+                        Sir</salute></opener>
+                
+                <p>I am very glad to find that you are so happily situated at 
+                    <placeName ref="pl0692">Harrowgate</placeName><note type="editorial">For Pennant's visit to Harrowgate in May 1777
+                        see <ref target="1305.xml">1305</ref> (Treadway Russell Nash to Thomas Pennant, 25 July 1777).</note> with your Family, 
+                    [<del>...</del>]friends &amp;c and hope that may be an Inducement for you to stay there a 
+                    little longer; 
+                    I heard some Rumour that you intend coming home towards the latter end of next week, which I 
+                    is not true; The reason of this extraordinary wish is that I am rather Backward in my Task; 
+                    I am rather Idle &amp; indolent by nature, and what little time for activity these qualities 
+                    would 
+                    afford me, was thrown away upon Farming schemes, besides what employment fell to my Lot by the 
+                    absence of two or three of my neighbouring Clergy men. – However I made a shift to pay a visit 
+                    to <placeName ref="pl1303">Corwen</placeName> &amp; its Vicinity last week, but met with nothing 
+                    material relative to <persName ref="pe0495">Owen Glyn 
+                        dwr</persName>; - <persName ref="pe0737"><sic>Mr Vaghan</sic> Pughe</persName> was not 
+                    at home, where he seldom is. – The Curate 
+                    of <placeName ref="pl1303"/> was like wise absent, and I was Informed that his church 
+                    the sunday before, 
+                    was unserved in the morning, owing to a love visit he had made the preceding week to a lovely 
+                    maid, viz, <persName ref="pe0738">miss Small</persName> of <placeName ref="pl1251">Holywell</placeName><unclear>.</unclear>
+                    whether it was the cruelty of the Fair maid,
+                    or the Influence of the pleasant Draughts administered by the <placeName ref="pl0702">Flintshire</placeName> 
+                    corps, were the
+                    occasion of it, must be left to time to discover. I visited 
+                    <placeName ref="pl1304">Owen Glyndwr’s Prison</placeName>, part 
+                    of it is intire &amp; consists of very strong heart of Oak wooden Building, &amp; carries the signs
+                    of being coæval with <persName ref="pe0495">Owen</persName>; from what is remaining the whole may be
+                    restored by the Pencil of <persName ref="pe0014">Moses</persName>. and I think a drawing of it would
+                    not be improper to follow his life. – I think besides that there is a paragraph or two that ought to
+                    be alter’d, from a cursory view I made of 
+                    <bibl type="authorial"><title ref="bi0604">“vita Ricardi 2di</title></bibl> at 
+                    <placeName ref="pl0695">Mostyn</placeName>.<note type="editorial">Pennant acknowledges 
+                        'Vita Ricardi II. 178' as a source for his account of the capture of Lord Grey by Owain Glyndŵr 
+                        in 1402, and 'Vita Ricardi, 178' as his source for ascribing the barbaric treatment of the bodies
+                        of English soldiers following Glyndwr's victory at Bryn Glas in the same year to a single follower 
+                        rather than to a mob of Welshwomen as stated by Holinshed. See <hi rend="italic">A tour in Wales 1770 [1773]</hi>
+                        (1778), I, pp. 322, 328–9; and Johnston, 'Shaping a heroic life: Thomas Pennant on Owen Glyndwr', 
+                        in Mary-Ann Constantine and Nigel Leask (eds.), <hi rend="italic">Enlightenment travel 
+                            and British identities</hi>, pp. 105–121, esp. 171, n. 58.</note>
+                    – Next week I intend to dedicate to your Library at <placeName ref="pl0001">Downing</placeName> 
+                    &amp;c, provided I am not interrupted by Election Business, which I had no reason to expect, till I
+                    found <persName ref="pe0739">S<hi rend="superscript">r</hi> Walden Hanmer</persName>’s 
+                    <persName ref="pe0740">son</persName> in the heart of our City,  this morning, Busily canvassing for
+                    Votes;  He did not get one here, and by the Dismal appearance of his visage, I guess he met with a 
+                    Similar success at <placeName ref="pl1305">Rhuddlan</placeName> from whence he came here. – I wrote
+                    Immediately to <sic>aquaint</sic> <persName ref="pe0015">S<hi rend="superscript">r</hi> Roger Mostyn</persName>
+                    with his appearance, &amp; sent off a messenger upon the same occasion to 
+                    M<hi rend="superscript">r</hi> Williams at <placeName ref="pl1021">Salop</placeName>, 
+                    and I have Just now receiv,<hi rend="superscript">d</hi> a note from 
+                    <persName ref="pe0015">S<hi rend="superscript">r</hi> Roger</persName> acquainting <add>me</add>
+                    that <persName ref="pe0740">M<hi rend="superscript">r</hi> Hanmer</persName> was with him yesterday
+                    upon the same fruitless Errand. – I hope these Discouraging Circumstances will make him drop his
+                    pretensions, and Leave the honest Burghers live in quiet. Contested <add>Elections</add> are not to 
+                    be coveted, unless their very object be, to get Rid of some Capital Rogue. – I won’t trouble you with
+                    any account of the good family at <placeName ref="pl0695">Mostyn</placeName> as I know my 
+                    <persName ref="pe0741">Lady</persName> wrote to 
+                    <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName> by last post, &amp; 
+                    I dare say some of you will <sic>here</sic> from thence by this. – I have all along entertain’d
+                    hopes that <persName ref="pe0742">M<hi rend="superscript">rs</hi> Wynne</persName><note type="editorial">Roger Mostyn's 
+                        mother in law was Catherine (née Vaughan),
+                        wife of Hugh Wynn of Bodysgallen. It is possible that she may be the Mrs Wynne 
+                        mentioned here.</note> will get the 
+                    better of her Disorder, but our hopes are often vainly guided by our wishes, and that I should 
+                    wish her to live is no strange matter, since I have always found her a Solid Sincere Friend, you 
+                    are Philosopher <add>enough</add> to know, that the world does not produce a great many 
+                    such. – Pray my Best Respects to <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName>,
+                    <persName ref="pe0743">M<hi rend="superscript">r</hi></persName> &amp; 
+                    <persName ref="pe0744">Miss Francis Mostyn</persName>, 
+                    <persName ref="pe0065">M<del>x</del><hi rend="superscript">r</hi></persName> &amp; 
+                    <persName ref="pe0234">Miss Pennant</persName>, &amp; believe me to be</p> 
+                <closer><salute>your most obedient Humble Servt<lb/></salute>
+                    <signed><persName ref="pe0333">John Lloyd</persName></signed>
+                    <dateline><placeName ref="pl1201">caerwys</placeName> June: 13:1777</dateline></closer>
+            </div>
+            
+        </body>
+    </text>
+</TEI>

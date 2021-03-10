@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0263">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 5 October 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>20-21</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-10-05"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0264"/>
+                    <ref type="prev" target="ct0262"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Thanks to you for both y<hi rend="superscript">r</hi> favors. we will trouble
+                    ourselves no more about the dirty peer <persName ref="pe0090">Ld F.</persName> only I
+                    must ask you who was his unfortunate wife for I mislaid a former Letter of
+                    yrs.</p>
+                <p>The more I see the more I admire<persName ref="pe2013"> M<hi rend="superscript">r</hi>
+                    Clerks</persName> etchings. Pray is he living. where is <placeName ref="pl2399">Lassuade</placeName>? for that is out of my knowledge.</p>
+                <p>I hope <persName ref="pe0058">M<hi rend="superscript">r</hi> Cordiners</persName>
+                    prints have reached you. There are but three wanting to complete the set. &amp;
+                    they will be very beautiful. I expect his M.S. daily after which it shall go to
+                    press, bad as the times are.</p>
+                <p>I hope y<hi rend="superscript">r</hi> terrors are over abt <persName ref="pe1589">Paul
+                        Jones</persName>. our luck is very hard to be insulted by such a Pyrate. our
+                    sands &amp; shallow seas protect us here.</p>
+                <closer><salute>I am Dear Sir <lb/>most faithfully y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Oct<hi rend="superscript">r.</hi> 5<hi rend="superscript">th</hi> 1779.</dateline></closer>
+
+                <postscript>
+                    <p>Is the new <bibl type="authorial"><title ref="bi0294">history of
+                            Edinburgh</title></bibl> in good repute? has it prints?</p>
+                    <p>Do you hear whether <persName ref="pe0039">M<hi rend="superscript">r</hi>
+                            Bruce</persName> will publish?</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

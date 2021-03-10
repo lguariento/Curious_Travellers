@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0267">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 3 December 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>27-28</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-12-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0269"/>
+                    <ref type="prev" target="ct0265"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>Dr Sir</opener>
+                <p>I beg <persName ref="pe0274">M<hi rend="superscript">r</hi> Smellie</persName> to
+                    add my name to his subscribers if you will send me two more proposals I will
+                    circulate them. He ought to insert my synonyms of each species &amp; the new
+                    animals of my synopsis &amp; in particular to engrave my <rs ref="ar0331">spotted Hyæna</rs>.</p>
+                <p><persName ref="pe0274">M<hi rend="superscript">r</hi> Sm.</persName> will oblige
+                    me much by a set of the plates q<hi rend="superscript">to</hi> size of my <bibl type="authorial"><title ref="bi0020">q<hi rend="superscript">to</hi> Br.
+                            Zoology</title></bibl> &amp; I will chearfully pay expence of paper
+                    &amp; working. Please to send the <bibl type="authorial"><title ref="bi0028">Genera of birds</title></bibl> if you can get a cheap conveyance to me
+                    at <persName ref="pe0146">M<hi rend="superscript">r</hi> Longman’s</persName>
+                    bookseller in <placeName ref="pl2405">Pater noster Row</placeName>.</p>
+                <p>I will inclose to you a few proofs of <persName ref="pe0058">M<hi rend="superscript">r</hi> Cordiners</persName>
+                    <rs ref="ar0236">prints</rs> which will do without giving ourselves farther
+                    trouble. His work goes very soon to the press.</p>
+                <closer><salute>I am, Dear Sir, <lb/>y<hi rend="superscript">r</hi> faithful humble
+                            Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline>Dec<hi rend="superscript">r</hi> 3.<hi rend="superscript">d</hi>
+                        1779.</dateline></closer>
+
+                <postscript>
+                    <p>What have you done with <persName ref="pe0246">M<hi rend="superscript">r</hi>
+                            Popes</persName> M.S. of <bibl type="authorial"><title ref="bi0087">Torfæus</title></bibl> which <persName ref="pe0058">M<hi rend="superscript">r</hi> Cordiner</persName> sent you long
+                            ago.<note type="editorial">See Pennant's letter to Paton on <ref target="0247.xml">18 October 1778</ref> and notes.</note></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

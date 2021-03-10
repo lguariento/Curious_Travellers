@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1407">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>William Morris to Thomas Pennant, 14 January 1756</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>Warwickshire County Record Office</repository>
+                        <idno>CR2017 /TP 309</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0031">William Morris</persName>
+                    <date when="1756-01-14">14 January 1756</date>
+                    <placeName ref="pl1018">Holyhead</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref=""/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1404"/>
+                    <ref type="prev" target="ct1407"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="enclosed">
+                <p>
+                    <table>
+                        <row>
+                            <cell><list><item>In blow. 14 Jan. 56.</item>
+                                <item>The Double white peach leav<hi rend="superscript"/>d Campanula</item>
+                                <item>Perenial Corn bottle</item>
+                                <item>Stœchas</item>
+                                <item>Paunsies</item>
+                                <item>The Lesser anual Stock gilliflower</item>
+                                <item>The <sic>Brumbton</sic> Stock D<hi rend="superscript">o</hi></item>
+                                <item>Carnations. Sorts.</item>
+                                <item>Doub: Pheas<hi rend="superscript">t's</hi>: Eye Pink</item>
+                                <item>Anual Hawkweed</item>
+                                <item>Chrysanthemum</item>
+                                <item>Nigella romana</item>
+                                <item>Ascyrum mag: flore</item>
+                                <item>D<hi rend="superscript">o</hi>. Com˜on.</item>
+                                <item>Alchymilla</item>
+                                <item>Doub. yell<hi rend="superscript">o</hi>. Holyhock</item>
+                                <item>Polyanthus Various Sorts</item>
+                                <item>Doub: Daisies, Sorts.</item>
+                                <item>D<hi rend="superscript">o</hi>. – Marygolds</item>
+                                <item>Bloody Wall flower</item>
+                                <item>Sweet Scabious</item>
+                                <item>French Honysuckle</item>
+                                <item>English red D<hi rend="superscript">o</hi>.</item>
+                                <item>Doub: Flowerd Corn Poppy</item>
+                                <item>Globe ranunculus</item>
+                                <item>Purple mountain Avens</item>
+                                <item>Scorsonera</item>
+                                <item>Scorsonera</item>
+                                <item>Rose Campion</item>
+                                <item>Scorpion Sen˜a</item>
+                                <item>Maritime Coronilla</item>
+                                <item>Scarlet, white, &amp; Hautboy <sic>Strawberis</sic>, the latter in fruit</item>
+                                <item>Damask rose.</item>
+                            </list></cell>
+                            <cell><list><item>In Flower buds</item>
+                                <item>Musk or Sweet Scented Pea</item>
+                                <item>Lavatera.</item>
+                                <item>Convolvulus minor</item>
+                                <item>Passion tree</item>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                                <item/>
+                            </list></cell>
+                        </row>
+                    </table>
+                </p>
+            </div>
+            <div>
+                <opener><salute>Good Sir,</salute><dateline>Holyh<hi rend="superscript">d</hi>, 14<hi rend="superscript">th</hi>, 
+                    Jan˜<hi rend="superscript">y</hi>, 1756.</dateline></opener>
+                
+                <p>It was this Day I received the Almanack inclos’d herewith<note type="editorial">This may well have been an almanac published in Dublin,
+                accessible by sea from William Morris's home in Holyhead.</note> which is at your Service, the Continual Westerly Winds &amp; Storms we 
+                    have had for a Month past, hath Stop<hi rend="superscript">d</hi>. all Com˜unication between us &amp; <placeName ref="pl1673">Dublin</placeName>,<note type="editorial">For
+                    William Morris's comments on atrocious weather and the difficulties of communication with Dublin at the close of 1755, see his letter to Richard Morris,
+                    31 December 1755, in <hi rend="italic">ML</hi>, I, p. 397.</note> 
+                    &amp; I don’t remember the Day when, I have been below high Water mark. the 
+                    So<gap reason="illegible" unit="letters" quantity="1"/>ker<note type="editorial">The reading is unclear but may possibly be related to the
+                    noun 'sucker', a young mamal, listed as having the figurative senses of 'simpleton' or 'one who draws profit or extorts subsistence from
+                    some sources' in the <hi rend="italic">OED</hi>. It may in this case relate to an acquaintance of William Morris's, 
+                        <persName ref="pe0061">Siôn Owen</persName>, who helped him
+                        gather fossils and other objects of curiosity.</note> sent me word that he had been at <placeName ref="pl3324">Llanddwyn point</placeName>, 
+                    but found nothing worth notice, <sic>phaps</sic> the Spring may prove more <sic>favvourable</sic> for Discoveries, I have found in the Wall of 
+                    our Castrum<note type="editorial">William Morris may here be referring to an area within the cemetery of 
+                        <placeName ref="pl3077">St Cybi's Church</placeName> at Holyhead, where square enclosure was left incomplete to enable ships could gain shelter
+                        from the sea. For Pennant's description of this location, see <hi rend="italic">A tour in Wales</hi> (2nd edn., 1784), II, p. 277.</note> 
+                    a Small Compressd Trochus<note type="editorial">A genus of gastropod molluscs. See <hi rend="italic">OED</hi>.</note> of abot. 3/10 of an Inch 
+                    diameter, w<hi rend="superscript">ch</hi>, I take to be its full growth, as none of a larger Size are to be seen here. will send 
+                    y<hi rend="superscript">e</hi>: some Specimens anon. in hopes it may turn out to be one of those wanting <sic>phaps</sic> Tit. 9. And I think have 
+                    met with Tit. 7 which I shall likewise send you. The French Conchyl<hi rend="superscript">y</hi>.<note type="editorial">This may be a reference to 
+                        the work of Antoine-Joseph Dézallier d'Argenville. His <hi rend="italic">L'histoire naturelle éclaircie dans deux de ses parties principales, 
+                            la lithologie et la conchyliologie, dont l'une traite des pierres et l'autre des coquillages</hi> was published in Paris in 1742, but a further
+                        work on conchylology, <hi rend="italic">L'histoire naturelle, éclaircie dans une de ses parties principales, la conchyliologie, que traite des 
+                            coquillages de mer, de <sic>riviere</sic> et de terre</hi> may not have appeared until 1757, also published at Paris.</note> is now ready 
+                    to be returnd, when a Safe conveyance offers: though he inveighs against 
+                    <bibl type="authorial"><title ref="bi0630">Lister</title></bibl>Lister &amp;c I think his method is far from being unexceptionable, 
+                    as to Shells. however it’s a most Superbe performance, and I am greatly obliged to you for a Sight of it.
+                </p>
+                <p>Notwithstanding the Storms we have had all winter, the Vegetable tribe (I mean plants &amp; Shrubs) have Suffer’d less from Cold 
+                    than ever I remember, you have on the other Side a list of Such Plants which are now in blow &amp;c in my 
+                    Little Garden<note type="editorial">Corroborating the evidence of this letter, William Morris refers at the beginning of February 1756
+                        in a letter to his brother Richard to having 'y mis diweddaf oddeutu deugain math o lysiau a gwydd yn eu blodau ...'
+                        ('in the past month around forty types of plants and shrubs in flower'). See William Morris 
+                        to Richard Morris, 4 February 1756, in <hi rend="italic">ML</hi>, I, p. 402. Lists of plants in his gardens are also found in William Morris to
+                        Richard Morris, 26 October 1740, in ibid., pp. 38–40; and <hi rend="italic">idem</hi> to <hi rend="italic">idem</hi>, 26 July 1758, in 
+                        ibid., II, p. 81. Further on William's activity as a gardener,
+                        see Dafydd Wyn Wiliam, <hi rend="italic">Cofiant William Morris (1705–63)</hi> (Llangefni: Yr Awdur, 1995), pp. 133, 136.)</note> – I wish 
+                    you a Succession of Happy years &amp; am
+                </p>
+                <closer><salute>Sir
+                    <lb/>your most obliged &amp; most obed<hi rend="superscript">t</hi>.
+                    <lb/>humble Serv<hi rend="superscript">t</hi>.
+                </salute>
+                    <signed><persName ref="pe0031">W<hi rend="superscript">m</hi>. Morris
+                    </persName></signed>
+                   </closer>
+                <postscript><p>P. S.<lb/> 
+                    Messrs. <persName ref="pe0232">Pennant</persName> and <persName ref="pe0408">Lysons</persName> promisd me some Flowering Shrubs. 
+                    but how to come at them I know not. <persName ref="pe0408">M<hi rend="superscript">r</hi> Lysons</persName> wanted somewhat out 
+                    of my garden Qu. what?
+                </p>
+                    <p>It may be that the following Phænomenon was not observed in your Parts. Thus says my Diary. Jan˜<hi rend="superscript">y</hi> 
+                        1<hi rend="superscript">s</hi>t. abo<hi rend="superscript">t</hi>. 11<hi rend="superscript">ho</hi>½ A.M. I observed a white rainbow 
+                        very entire and Distinct, without its being in the least tinged with any of the usual Colours viz<hi rend="superscript">t</hi>. Red 
+                        Orange, yellow, &amp;c but consisting only of Different shades of white there was not a Cloud to be seen &amp; the Horizon Clear. 
+                        It came in the Evening to be very Foggy &amp; a heavy rain fell at night –  Pray your remark hereon.</p></postscript>
+            </div>
+            <div>
+            </div>
+        </body>
+    </text>
+</TEI>

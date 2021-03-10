@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1418">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown correspondent to Thomas Pennant, n. d.</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>13222C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>pp. 369–70</locus></ab>
+                        <p>Subscribers to W. Owens Welsh + English Dictiona<gap reason="page torn" unit="letters" quantity="2"/> </p>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic"><lb/>on address sheet</hi>:<lb/>
+                            14. 19 0<lb/>
+                           <hi rend="underline"> 13  12 6</hi><lb/>
+                                                        6
+                        </p>
+                        </additions></physDesc>
+                    
+                    
+                    <additional><p><hi rend="italic">Condition</hi>: two letters in the title are over the edge of the page</p></additional></msDesc>
+                    
+                
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1419"/>
+                    <ref type="prev" target="ct1417"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                
+                <p>Right reverend <persName ref="pe0365">Lewis Lord Bishop of St. Asaph</persName><lb/>
+                    <persName ref="pe2114">Rob<hi rend="superscript">t</hi>. Wynne</persName> of Plâsnewydd Esq<hi rend="superscript">r</hi>. M. P.<lb/>
+                    <persName ref="pe2115">Richard Wilding</persName> of Llanrhaiadr-Hall Esq<hi rend="superscript">r</hi>.<lb/>
+                    <persName ref="pe2116">John Griffith</persName> of Garn Esq<hi rend="superscript">r</hi>.<lb/>
+                    <del><gap reason="illegible" unit="letters" quantity="several"/></del><persName ref="pe2162">Rev<hi rend="superscript">d</hi>. Hugh Williams</persName> rector of Llanelidan<lb/>
+                    <persName ref="pe0822">Thomas Clough</persName> rector of Halkin<lb/>
+                    <persName ref="pe2117">Robert Roberts</persName> vicar of Llanrhaiadr near Denbigh<lb/>
+                    <persName ref="pe2118">Edward Chambres Jones</persName> rector of Llansannan<lb/>
+                    <persName ref="pe2119">William Stodart</persName> vicar of Abergele<lb/>
+                    <persName ref="pe2120">Peter Williams</persName> vicar choral of St. Asaph<lb/>
+                    <persName ref="pe2121">Peter Whitley</persName> vicar choral of St. Asaph<lb/>
+                    <persName ref="pe2122">Jones</persName> vicar of Northop<lb/>
+                    Edward Lloyd of Cefn Esq<hi rend="superscript">r</hi>.<lb/>
+                    <persName ref="pe2161">Robert Wynne senior</persName> of Garthewin Esq<hi rend="superscript">r</hi>.<lb/>
+                    <persName ref="pe1364">John Williams</persName> of Bodlewiddan Esq<hi rend="superscript">r</hi>.<lb/>
+                </p>
+              
+                
+            </div>
+            
+            <div>
+                <p><stamp type="postmark">[<hi rend="italic">written by hand</hi>:] <hi rend="underline">single</hi>.</stamp>
+                    <stamp type="handstamp"><placeName ref="pl1371">ST ASAPH</placeName></stamp></p>
+                <p><address><addrLine><persName ref="pe0232">Thomas Pennant Esq<hi rend="superscript">r</hi>.</persName><lb/> <placeName ref="pl0001">Downing</placeName> 
+                    </addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

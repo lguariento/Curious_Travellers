@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0253">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 2 February 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>4</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-02-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0254"/>
+                    <ref type="prev" target="ct0252"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dr Sir</salute></opener>
+                <p>I thank you for y<hi rend="superscript">r</hi> Letter. in a hurry now I can add
+                    no more than to beg you w<hi rend="superscript">d</hi> forward the inclosed to
+                        <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName>. I hope
+                    that he &amp; you will like it.</p>
+                <closer><salute>adieu <lb/>y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">TP.</persName></signed>
+                    <dateline>Feb<hi rend="superscript">r.</hi> 9<hi rend="superscript">th</hi>
+                        1779.</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>Mr Paton, Custom House</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

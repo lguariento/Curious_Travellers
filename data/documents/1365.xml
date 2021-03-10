@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1365">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Lloyd, Hafodunos and Wigfair, 9 December 1770</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>NLW</repository>
+                        <idno>12421D</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1770-12-09">9 December 1770</date>
+                    <placeName ref="0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0803">John Lloyd</persName>
+                    <placeName ref="pl1343">Sychton</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1366"/>
+                    <ref type="prev" target="ct1364"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener>
+                    <salute>Dear Sir</salute><dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r</hi> 9<hi rend="superscript">th</hi>. 1770.</dateline></opener>
+                
+                <p>I must own I was much chagrined at not receiving your summons to wait on you at <placeName ref="pl0703">Northop</placeName>; but am 
+                    extremely glad to find you have not left me off. many thanks for the Fibula which <persName ref="pe0800">M<hi rend="superscript">rs</hi> Roberts</persName> 
+                    gave me most punctually.<note type="editorial">A brass brooch (accession no. 1925.351) is among the items from Pennant's collection housed at the Museum of Archaeology 
+                        and Anthropology, Cambridge. On the items in this collection, many of which were provenanced to Shetland, see C. Stephen Briggs, 'Thomas Pennant: 
+                        Some Working Practices of an Archaeological Travel Writer in Late Eighteenth-Century Britain', in Constantine and Leask (eds.), 
+                        <hi rend="italic">Enlightenment Travel and British Identities</hi>, pp. 59–61.</note> As to the Ring it is at present in my possession; being upon 
+                    sale, but as I do not intend to purchase it would recommend the owner to send it to <placeName ref="pl0699">London</placeName>. When we meet which I 
+                    trust will be there should it not prove convenient to you to give me a visit here, we shall discuss your discoveries. I truely rejoice that you are 
+                    to be placed in a situation so much to y<hi rend="superscript">r</hi> mind.<note type="editorial">This may refer to John Lloyd's admission to the Middle Temple 
+                        on 12 November 1770. See H. A. C. Sturgess, <hi rend="italic">Register of Admissions to the Honourable Society of the Middle Temple from the Fifteenth Century to 
+                        the year 1944</hi> (London: Butterworth &amp; Co., 1949), vol. I, p. 371.</note> I beg to hear from you when fixed &amp; to be favored with your 
+                    address. I was sometime near <placeName ref="pl0792">Wrexham</placeName> &amp; heard much of your tender &amp; polite behaviour to 
+                    <persName ref="pe0802">M<hi rend="superscript">rs</hi> Lloyd</persName> y<hi rend="superscript">r</hi> Aunt; for which I beg leave to join in 
+                    <add place="above">the</add> thanks due from her Relations I write to you at <placeName ref="pl1343">Sychton</placeName> as the likeliest place to 
+                    catch. if there my complim<hi rend="superscript">ts</hi> to <persName ref="pe0801">M<hi rend="superscript">r</hi> Conway</persName>, or any friends 
+                    <del><gap unit="letters" quantity="several" reason="illegible"/></del>this happens to find you with.</p>
+                <p>I remain Dear Sir</p>
+                  
+                <closer><salute>Yours very affect<hi rend="superscript">ly</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed></closer>
+                <postscript><p><persName ref="pe0770">Jack Foulkes</persName> is at my Elbow &amp; sends complim<hi rend="superscript">ts</hi>.</p></postscript>
+                
+         
+                
+            </div>
+            <div><p><stamp type="handstamp"><placeName ref="pl0703">NORTHOP</placeName></stamp></p></div>
+            <div>      
+                <p><address><addrLine>To<lb/><persName ref="pe0803">John Lloyd esq<hi rend="superscript">r</hi>.</persName><lb/> 
+                    at the <persName ref="pe0801">Rev<hi rend="superscript">d</hi> M<hi rend="superscript">r</hi> Conway</persName>'s<lb/>
+                    at <placeName ref="pl1343">Sychton</placeName><lb/> near <placeName ref="pl0703">Northop</placeName>.</addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

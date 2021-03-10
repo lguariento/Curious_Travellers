@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1068">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 61</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1787-12-31"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r</hi> 31. 1787.</dateline></opener>
+                <p>That many happy returns of this season may attend miss Bulls<note type="editorial"><persName ref="pe0331">Elizabeth</persName> and <persName ref="pe0336">Catherine Bull</persName>.</note>
+                &amp; y<del><gap unit="letters" quantity="2" reason="illegible"/>g</del>ourself is the sincere wish of y<hi rend="superscript">r</hi>
+                    forgotten friend. I inclose the drawings you desired: &amp; now shall become master of <persName ref="pe0014">moses</persName>
+                    again. his first labors will be to illuminate the copy of the <bibl type="authorial"><title ref="bi0025">Introduction to the arctic Zoology</title></bibl>
+                    of which several sheets are printed. The objects will not be very numerous chiefly headlands. If you wish a set 
+                    <del><gap unit="letters" quantity="2" reason="illegible"/></del> it shall be done at the same time with my own. But let me 
+                    recommend to you to get a good impression of the Prints of the <bibl type="authorial"><title ref="bi0621">pyrated edition of <persName ref="pe0045">Cook</persName>'s voy by <persName ref="pe0857">Fielding</persName></title></bibl>.
+                    They are beautifully done &amp; will fit exactly the lower margin.</p>
+                <p>Excepted my <bibl type="authorial"><title ref="bi0039">London</title></bibl>, all my future writing will be for private amusement. I grow old 
+                    &amp; cannot support the plague of publication: But my drawings &amp; every good office I can do will ever be at y<hi rend="superscript">r</hi>
+                    command. Pray let me know if <persName ref="pe0431">Thane</persName> has done anything new. It will be acceptable as I do not visit 
+                    <placeName ref="pl0699">Town</placeName> till november.</p>
+                <p>In respect to <persName ref="pe0014">Moses</persName> I have payed him. Be so good as to discharge the debt to 
+                    <persName ref="pe0329">Mess<hi rend="superscript">rs</hi> Gosling</persName> &amp; favor me with their receit.</p>
+                <closer>
+                    <salute>I am with true regard
+                    <lb/>Dear Sir
+                    <lb/>most faithfully y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

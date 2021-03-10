@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1182">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>54</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1795-01-05"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+                <language ident="fr">French</language>
+                <language ident="it">Italian</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName>. January 5. 1795</dateline></opener>
+                <p>Your first letter met me in <placeName ref="pl0699">London</placeName> the day we arriv’d there for the winter, very soon after which, 
+                    the tedious and troublesome complaint I am subject to in this Season, found me out, since which I have been unable to walk, or sit, or 
+                    even to think at my ease. but for this hindrance I should have thank’d you, as well as I could, for your friendly attentions to me, upon 
+                    all occasions, and for having me in your remembrance, even in your melancholy weaknesses, as you call ’em. sorry I am, that they seem to 
+                    have taken such fast hold upon your spirits, and I must be ungrateful indeed, did I not in some degree sympathize with a person my heart 
+                    feels so much for, and owes so much to. There is a dismal back ground certainly, in all our political prospects, but (Teucro Duce,)<note type="editorial">Part of a line from the Ode 'Ad Munatium Plancum' by Horace. 'Teucro duce nil desperandum': 'Never despair with Teucer as leader'.</note>
+                    I hope all will end well. I only lament that some of his friends<note type="editorial">Bull refers to William Pitt as leader (the Horatian Teucer of Great Britain in 1795). He faced pressure to begin peace negotiations from William Wilberforce and Charles Grey in December 1794 and January 1795 respectively. <hi rend="italic">ODNB</hi> s.n. William Pitt (1759–1806).</note> are averse to continuing a war, without the power of making even an insecure Peace, (and if it 
+                    <hi rend="underline">could</hi> be attain’d,) at a war Establishment, and at the certainty of inviting hither, thousands and tens of thousands of blood 
+                    th<del><gap unit="letters" quantity="1" reason="illegible"/></del>irsty Jacobins to spread their vile opinions amongst us. let <persName ref="pe0484">Charles Fox</persName>
+                    subtilige as much as he pleases, He will only gain over to his Party a few well meaning persons, who think the care of peace, like the care of their souls, is the one thing needful, – and who living can think otherwise, was it comeatable 
+                    <add place="above">just now</add> without greater attendant ills? I wonder some member did not quote <del>a sentence</del> <add place="above">two lines</add>
+                    of Livy, which I remember ever since I follow’d, but never overtook, the civil Law. “Justum Bellum, quibus necassarium, et pia Arma, quibus necassarium, nisi in Armis relinquiutur, Spes.<note type="editorial">'War is just to those for whom it is necessary, and to take up arms is a sacred duty with those who have no other hope left'. The Latin reads: 'justum bellum quibus necessarium, et pia arma quibus nulla nisi in armis relinquitur spes'.</note></p>
+                <p>
+                    I shall be very happy, I am always very happy, to peruse any new production of your Pen, and hope and trust you won’t forget your voluntary promise upon this occasion.. 
+                    <persName ref="pe0434">Lord Orford</persName> was very well at <placeName ref="pl1501">Strawberry Hill</placeName>, as I heard from his servant, a few days ago.</p>
+                <p>
+                    <persName ref="pe0332">Storer</persName> I see often, and we often talk about you; I don’t think him one bit happier for this great acquisition of Fortune; full of Plans for building, and <sic>plasting</sic>,
+                    which he is unable,, and afraid to execute, because too expensive, and perhaps not quite au fait to business of that sort; He seems 
+                    litterally afflicted with that tormenting disorder called – le malheur des Richesses.<note type="editorial">'the affliction of wealth'.</note> If I was only ten years younger, and had one ear to hear <hi rend="underline">you</hi>,
+                    and one Eye to see the <placeName ref="pl2542">library at Mostyn</placeName>, you should hear of me <del><gap unit="letters" quantity="2" reason="illegible"/></del> there, and at 
+                    <placeName ref="pl0001">Downing</placeName> in the course of next summer, in the mean time, I will answer your questions as well as I can. – </p>
+                <p>
+                    The whole length pictures call’d the <rs type="art" ref="ar0320">Hampton court beauties</rs>, were painted by <persName ref="pe1072">Sir Godfrey Kneller</persName>
+                    in the reign of <persName ref="pe1344">William</persName>, at the desire of <persName ref="pe1443">Queen mary</persName>, 
+                    and designd for a present to the King, when he return'd from one of his Campaigns abroad. By the bye her idea of making the beauties of her court, sit for their pictures, gave much offence, and when she ask’d 
+                    <persName ref="pe1747">Lady Dorchester</persName>'s opinion about it, her answer was “,If the King was to desire the wits of his court to sit for their pictures, would not all the rest think he was calling them fools? The number is 12, all of which are engrav’d in mezz<add place="above">o</add>,
+                    and their names as follow – the <rs type="art" ref="ar0376">Queen</rs> herself
+                    <lb/><rs type="art" ref="ar0368">D<hi rend="superscript">s</hi> of Grafton</rs>
+                    <lb/><rs type="art" ref="ar0381">of Manchester</rs>
+                    <lb/><rs type="art" ref="ar0377">of Marlbro^</rs> 
+                    <lb/><rs type="art" ref="ar0369">of S<hi rend="superscript">t</hi>. Albans</rs>
+                    <lb/><rs type="art" ref="ar0374">Countess of Dorset</rs>
+                    <lb/><rs type="art" ref="ar0375">of Peterborough</rs>
+                    <lb/><rs type="art" ref="ar0373">of Essex</rs>
+                    <lb/><rs type="art" ref="ar0370">of Renelagh</rs>
+                    <lb/><rs type="art" ref="ar0380">of Clarendon</rs> - with <add place="above">the</add> <rs type="art" ref="ar0371">Lady Midleton</rs> and <rs type="art" ref="ar0372">M<hi rend="superscript">rs</hi> Scroop</rs>.
+                    <lb/>The Pictures dont bear the smallest resemblance to the out line you sent me,<note type="editorial">See <ref target="1181.xml">1181</ref>, where Pennant mentions a sketch that he has sent Bull.</note>
+                    I mean with regard to dress, for I don’t suppose your drawing means to be a likeness. I have seen many pictures of <persName ref="pe1073">Sir Peter Lely</persName>
+                    exactly with the same hat, hair, and necklace, particularly one, if I mistake not, of the <rs type="art" ref="ar0378">D<hi rend="superscript">s</hi>. of Cleveland</rs>,
+                    and another of a <rs type="art" ref="ar0379">M<hi rend="superscript">rs</hi> Coke</rs>.</p>
+                <p>
+                    We have all of us enjoy'd our healths perfectly well throughout the last fine summer, which we are now paying for, by weather that would make a Laplander shiver; – but I need not tell you how severe the cold is, for I dare say you have it at your fingers ends. I have had 25 men at work for these 13 months past in the 
+                    <placeName ref="pl1020">Isle of Wight</placeName>, and the place is certainly alter’d for the better, but not so much as it ought to be for the expence, except as to the interior, which is made very comfortable indeed, and 
+                    <persName ref="pe0331">my daughter</persName> without doors, has planted 6000 trees, all of which were well and flourishing, but this frost, this killing frost, will nip their buds.<note type="editorial">Bull refers to the expensive renovation work carried out at his Isle of Wight home, Northcourt, which he purchased in 1795. The work in the grounds of the house would have been undertaken by Elizabeth, his elder daughter, who had an interest in landscape gardening. Evans, 'Richard Bull and Thomas Pennant, 271; Pinkerton, 'Richard Bull of Ongar, Essex', 55; W. P. Courtney, 'Richard Bull', <hi rend="italic">Notes &amp; Queries</hi>, 11th Series, 7 (March 1913), 170–1, esp. 171. </note>
+                    We join in all manner of good wishes to you and all your family, tutti quanti,<note type="editorial">'everyone'.</note></p>
+                <closer>
+                    <salute>and I am, as always,
+                        <lb/>Dear Sir, sincerely yours. </salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+                <postscript>
+                    <p>I have this minute heard that there was an action, Sunday sen’night, (on the wrong side of the <placeName ref="pl2819">Waal</placeName> I suppose) betwixt the Dutch and the French, and that the loss on each side, was pretty nearly equall about 500 men, but the Dutch kept their 
+                        position.<note>'Authentic accounts, it is said, have been received in town of the French having crossed the Waal, and possessed themselves of Fort St. Andre and the Bommel-waart. The Dutch troops which occupied the latter place, it is supposed, 
+                            withdrew from it.' <hi rend="italic">Hereford Journal</hi>, 7 January 1795.</note> 30,000 of the Austrians have actually join’d the Brittish Army. – the voyage of our 
+                        <persName ref="pe0956">Princess elect</persName> is postpon’d for the present. –<note type="editorial">Caroline of Brunswick was the Princess of Wales Elect, pending her marriage to George, Prince of Wales, which took place on 25 January 1795. A report in the <hi rend="italic">Norfolk Chronicle</hi> mentions a rumour that 'in consequence of the progress which the French have made in Holland, it had been judged prudent to alter the route of the Princess of Wales, and that instead of coming by way of Amsterdam, as was at first determined, Stadt was fixed on as the place of embarkation'. See <hi rend="italic">Norfolk Chronicle</hi>, 10 January 1795.</note></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

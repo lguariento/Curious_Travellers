@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1426">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Jones to Thomas Pennant, 6 March 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR 2017 /TP169</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>item 3</locus></ab>
+                    </msContents>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0322">John Jones</persName>
+                    <placeName ref="pl1347">Oxford</placeName>
+                    <date when="1777-03-06">6 March 1777</date>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1427"/>
+                    <ref type="prev" target="ct1425"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Sir</salute>
+                <dateline><placeName ref="pl1347">Oxford</placeName> March 6 1777</dateline></opener>
+                
+                <p>I received the Books on Tuesday Morning very safe, and your Letter in the Evening, for which I beg you will accept my most sincere Thanks.
+                The Book that accompanied the MS, is highly acceptable to me, as there are in it some particulars relating to the most obscure Musick in 
+                the whole M.S., namely "the 24 Accompanyments of vocal Song".<note type="editorial">As in the case of the earlier letter of 7 November 1776,
+                    <ref target="1425.xml">1425</ref>, the manuscript under discussion here may perhaps be identified as the 
+                    <bibl type="authorial"><title ref="bi0707">Robert ap Huw manuscript</title></bibl>. 
+                    John Jones's reference to the pitch range of the manuscript
+                    in question later in this paragraph may be compared with his discussion of this issue in relation to the ap Huw manuscript in a letter of 17 November
+                    1770 to Richard Morris, although the range detected is not identical in both cases. See Hugh Owen (ed.), <hi rend="italic">Additional letters of the Morrises of Anglesey (1735–1786)</hi>, 2 vols. (London: The
+                    Honourable Society of Cymmrodorion, 1949), II, pp. 775–7. On the identity of the book mentioned, note that several items relating to the history of bards and musicians are mentioned in further correspondence between John Jones
+                    and Pennant. See, for example, <ref target="1425.xml">1425</ref> and <ref target="1427.xml">1427</ref>.</note> I flatter myself that I shall be able to make out the whole of it in Time, 
+                having already conquered what appear to me to be the greatest Difficulties. I find to my great Surprise that some of the Strains in the MS 
+                run uncommonly high. One in particular goes frequently up to the highest F upon the modern Harpsichords, and sometimes to G. above it; but I have not 
+                found any Bass lower than CC below Gamut. –</p>
+                
+                <p>The Commission issued for a Congress to be held at <placeName ref="pl1201">Cairus</placeName> (<placeName ref="pl1201">Caerwys</placeName>) is 
+                    printed at large in the Appendix to D<hi rend="superscript">r</hi> Brown's <bibl type="authorial"><title ref="bi0708">Dissertation 
+                        on Musick &amp;c</title></bibl>,<note type="editorial">See John Brown, <hi rend="italic">A dissertation on the rise, union, and power, the progressions, 
+                            separations and corruptions of poetry and music</hi> (London, 1763), pp. 243–6. Pennant reproduces the Commission in <hi rend="italic">A tour in Wales 1770 [1773]</hi> 
+                            (2nd edn., 1784), I, pp. 464–7. For a digital image of the document, held at Mostyn Hall, Flintshire, see 
+                            <ref type="http" target="https://www.mostynestates.co.uk/the-caerwys-eisteddfodau-of-1523-and-15678/">here</ref> [accessed 13 September 2019].</note> 
+                    but I never could find the Names of the Persons 
+                    on whom Degrees were conferred, before, either in Print or M.S, which 
+                determined me to take the Liberty to send them to you.<note type="editorial">This suggests that a list of the graduates of the 1567/8 Caerwys eisteddfod 
+                    may have been sent as an enclosure with this letter. Pennant included their names in <hi rend="italic">A tour in Wales 1770 [1773]</hi> 
+                    (2nd edn., 1784), I, pp. 467–70.</note> I am with the greatest Respect</p>
+                
+                <closer><salute>Sir<lb/>
+                    your much obliged humble Servant
+                </salute>
+                    <signed><persName ref="pe0322">Jno Jones</persName></signed></closer>
+                
+            </div>
+            
+            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1425">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Jones to Thomas Pennant, 7 November 1776</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR 2017 /TP169</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>item 2</locus></ab>
+                    </msContents>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0322">John Jones</persName>
+                    <placeName ref="pl1347">Oxford</placeName>
+                    <date when="1776-11-07">7 November 1776</date>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1426"/>
+                    <ref type="prev" target="ct1423"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Sir</salute>
+                <dateline><placeName ref="pl1347">Oxford</placeName> Nov<hi rend="superscript">r</hi>: 7 1776</dateline></opener>
+                <p>On my Return here last Tuesday I received your Favor, for which I have taken the first Opportunity to return you my sincere thanks 
+                    as well as for the Trouble which you have so obligingly taken respecting the M.S. I delivered your Compliments to 
+                    <persName ref="pe2126">M<hi rend="superscript">r</hi> Price</persName> and also communicated to him the Particulars of 
+                    <persName ref="pe0216">M<hi rend="superscript">r</hi> Morris</persName>'s Letter. <persName ref="pe2126">M<hi rend="superscript">r</hi> Price</persName> 
+                    is extremely sorry to find that the M.S. is not yet returned, and the more concerned for the Delay as he was the Cause of <sic>it's</sic> being first 
+                    parted with. He purposes to write immediately to <persName ref="pe0326">S<hi rend="superscript">r</hi> Watkin Williams</persName> on the Subject to reques<gap reason="page torn" unit="letters" quantity="1                         "/> it may be return'd immediately.<note type="editorial">The identity of the manuscript in question is uncertain. The reference to Richard Morris may suggest that it was 
+                            the <bibl type="authorial"><title ref="bi0707">Robert ap Huw manuscript</title></bibl>, since Morris had possession of this compilation of Welsh music in tablature 
+                            form at this time and is known to have lent it to others in an attempt to find a satisfactory interpretation of its contents. Watkin Williams Wynn's harpist,
+                            John Parry, had already seen the manuscript in 1771, as had John Jones the previous year. Note, however, that Jones gives the impression of having 
+                        newly acquired the manuscript (or acquired it anew) in letter <ref target="1427.xml">1427</ref>, dated 23 April 1777. See further Stephen P. Rees
+                        and Sally Harper, 'Aspects of the Palaeography and History of the Robert ap Huw Manuscript', in <hi rend="italic">eadem</hi> (ed.), 
+                            <hi rend="italic">Welsh Music History 3: Robert ap Huw Studies</hi> (Cardiff: University of Wales Press, 1999), pp. 54–65.</note></p>
+                
+                <p>I have lately perused that <add place="above">part</add> of the Appendix to <bibl type="authorial"><title ref="bi0706">Dr Davies's Grammar</title></bibl> 
+                    which treats of Welch Music. I find therein the Names of 104 Pieces of Music, and of the Keys they are to be played in. I do not 
+                    find any Account of the three first Pieces in <bibl type="authorial"><title ref="bi0707">M<hi rend="superscript">r</hi>. Morris's Book</title></bibl>, 
+                    but there are several by <persName ref="pe2127">David Athro</persName> the Author of the first Piece.<note type="editorial">Dafydd Athro 
+                        is named as the author of the 'Gosteg' which opens the Robert ap Huw manuscript (B.M. Add. 14905).</note> It appears by this <bibl type="authorial"><title ref="bi0707">Book</title></bibl> 
+                    that the Britains divided their Musicians into eight Classes. – The four first are called graduate Classes all the Members of them being 
+                    Graduates. In the first Class were the Bards who<del><gap reason="authorial" unit="letters" quantity="2"/></del> were further subdivided into three Classes. 
+                    – In the 2<hi rend="superscript">d</hi> Class<del>es</del> were those who were professed Players upon the Harp. In the third Class those that were 
+                    profes<gap reason="authorial" unit="letters" quantity="1"/>sed Players on the <sic>Crooth</sic>.<note type="editorial">'crowd'.</note> The Vocal 
+                    performers made up the fourth Class. These were required to understand Welch perfectly, and to write it correctly; the four and twenty Measures of 
+                    vocal Song, the Different metres used in Poetry. They were also required to be Masters of tuning the Harp or Crwth<note type="editorial">'crowd'.</note> 
+                    and to be able to play all the Accompanyments of "vocal song". On the Marriage of any of the royal Family they were to wait on the Bride at Dinner. 
+                    The four other Classes were called the inferior Classes.<note type="editorial">The information on the required accomplishments of the class described by
+                        Jones as 'the Vocal performers' is echoed by Pennant in his discussion of the 'datceiniad'. See <hi rend="italic">A tour in Wales 1770 [1773]</hi> (2nd edn., 1784), pp. 475–6.</note><lb/>
+                    Of the first Class were those who played upon the different Sorts of Pipes as Bagpipe &amp;c. I am not clear what the second Class consisted 
+                    <add place="above">of</add>, but I am inclined to think they were the vocal Performers of these Classes who sung to the Pipe, &amp;c.<lb/>
+                    the third Class consisted of those <add place="above">who</add> played upon the Tabor.<lb/>
+                    The fourth class contained the Fiddlers i:e: those that played upon the three stringed <sic>Crooth</sic>. –<note type="editorial">'crowd'.</note></p>
+                
+                <p>I have taken the Liberty to send you the above Account of the British Musicians, presuming that upon this Occasion it would not prove unacceptable 
+                    and am with <persName ref="pe2126">M<hi rend="superscript">r</hi> Price</persName>'s Compliments with the profoundest Respect</p>
+                <closer><salute>Sir<lb/>
+                    your much obliged humble Servant
+                </salute>
+                    <signed><persName ref="pe0322">Jno Jones</persName></signed></closer>
+                
+            </div>
+            
+            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1139">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>36/2</locus></ab>
+                    </msContents>                    
+                    <physDesc>
+                        <additions><p><hi rend="italic">Endorsement in Thomas Pennant's hand at the top of the page</hi>: <hi rend="underline">Answer'd</hi></p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1791-09-20"/>
+                    <placeName ref="pl1013">North Court</placeName><placeName ref="pl1020">Isle of Wight</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener><salute>Dear Sir,</salute><dateline><placeName ref="pl1013">North Court House</placeName>, <placeName ref="pl1020">Isle of Wight</placeName>. 
+                    <lb/>Sept<hi rend="superscript">r</hi>: 20. 1791.</dateline></opener>
+                <p>You will observe by the inside of this frank, that it was my intention to have thank’d you a week ago, for your amusing letter, but some interruptions not worth troubling you about, prevented me. I have distributed your letter to the 
+                    <persName ref="pe1527">Printer of the Liverpool advertiser</persName>, in the manner you desir’d, and heartily wish your benevolence to the poor, who suffer from 
+                    <persName ref="pe0419">M<hi rend="superscript">r</hi>. Palmers</persName> innovations of mail coaches, would extend a little further, and find some method to mitigate the cruelties which the poor generous animals that draw them, groan under. what detriment would arise to the Commerce of these kingdoms, if all the inhabitants 
+                    <del>were</del><add place="above">could be</add> equally restrain’d from horse killing, as well as horse stealing? Our Sea is at last completely unfurnish’d, and let the expense of the equipment be what it may, I will not grudge my mite towards it, because I verily believe the continuation of Peace would have 
+                    b<del><gap unit="letters" quantity="1" reason="illegible"/></del>een attainable by no other means. it is rumour’d that <persName ref="pe0500">M<hi rend="superscript">r</hi> Pitt</persName>
+                    proposes to avail himself of the great influx of money pour'd into this country from <placeName ref="pl0925">France</placeName>,
+                    to lower the four per Cents to three and a half, or else to pay them off at par.<note type="editorial">This reference to the prospect of tax cuts anticipates Pitt's budget of 17 February 1792, which celebrated the prosperous condition of the British economy by simultaneously reducing taxes and debt. William Hague, <hi rend="italic">William Pitt the younger</hi> (1st edn., 2004; London: Harper Perennial, 2005), pp. 305–6.</note>
+                    It is said that <persName ref="pe1528">Lord Cornwallis</persName>, who seems to have conducted himself perfectly well, is to be made a Duke. 
+                    <placeName ref="pl1474">Russia</placeName> appears to have made peace with the <placeName ref="pl2339">Porte</placeName>, upon her own terms,<note type="editorial">A copy of the peace treaty between Russia and the Ottoman Porte (Turkey) was published in the <hi rend="italic">Kentish Gazette</hi>, 6 September 1791.</note> and ’tho 
+                    <placeName ref="pl0771">Austria</placeName> consents to a Strict Statu quo,<note type="editorial">'Status quo' is extrapolated from 'in statu quo'. <hi rend="italic">OED</hi>.</note>
+                    ’tis said there are secret articles, which give her greater advantages, than the world expected; my political correspondent, who is au fait to the business, 
+                    does not believe the last, but says there is a curious circumstance respecting that same strict Statuquo, as <placeName ref="pl0771">Austria</placeName>
+                    affects to understand it, which, when understood, will make people stare. —––</p>
+                <p>It looks as if the new constitution in <placeName ref="pl0925">france</placeName> would be establish'd, and peace with it.<note type="editorial">The 1791 Constitution, dated 3 September and ratified by Louis XVI on 13 September 1791. Jones, <hi rend="italic">Longman Companion to the French Revolution</hi>, pp. 66–9.</note>
+                    they could not have a worse constitution than they had, except what they <add place="above">have</add> had since their wild revolution. I hate Democracy, as much as I hate Despotism, and Tyranny, 
+                    but in such times as these, there is small danger of the latter’s increasing. The <persName ref="pe1529">french Ambassador</persName>, the world says, was kill'd by
+                    <persName ref="pe0432">D<hi rend="superscript">r</hi>. Turton</persName>'s want of Judgement. - I am glad to hear <persName ref="pe0014">Moses</persName> continues his labors for my amusement, and shall look forward to February, and 
+                    <hi rend="underline">you</hi>, with impatience. I am not enough liberal minded to rejoice at <bibl type="authorial"><title ref="bi0203">Boydels publication of the seats in Wales</title></bibl>;
+                    it certainly lowers the value of my fine Pennant-Volumes, in which I used to <unclear>bury</unclear> myself in supposing I had buildings, and views, not comeatable by many Collectors. I have not much opinion of the Historical part of 
+                    <bibl type="authorial"><title ref="bi0114">M<hi rend="superscript">r</hi> Lyson's publication</title></bibl>, for reasons too long to explain at this distance, but if justice is done by the Engraver, to the drawings 
+                    <persName ref="pe1534">his brother</persName> has made for the book, they will be very well receiv'd by the public. The letter press of 
+                    <bibl type="authorial"><title ref="bi0205">Boydel’s loudly-puff’d Shakespear</title></bibl>, is admirable, but some of the Prints are below contempt. I think the same of 
+                    <bibl type="authorial"><title ref="bi0411">Macklin’s Bibles</title></bibl>, animadverting as I do, upon the enormous expence they will cost the purchasers, There is now in the course of publication at 
+                    <placeName ref="pl1023">Paris</placeName>, in monthly Numbers, a Q<hi rend="superscript">o</hi>. &amp; 8v<hi rend="superscript">o</hi>. 
+                    bible<note type="editorial">This may refer to <hi rend="italic">La Sainte Bible: contenant l'Ancien et le Nouveau Testament</hi>, translated by M. Le Maistre de Saci. It included 300 illustrations and was published in 13 volumes between 1789 and 1812, with vols. 2 and 3 appearing during 1791. COPAC.</note>
+                    which will hurt the sale of <bibl type="authorial"><title ref="bi0411">Maclins</title></bibl>, tho as much below it, in intrinsic worth, as in price; remember to ask me to show it you in February. – had I any thing better to write about, you may suppose my letter would not have 
+                    <add place="above">been</add> composed of such rigmarole as this. – A Gentleman of the name of <persName ref="pe1531">Pink</persName>
+                    has been here this morning, employed by the <persName ref="pe0407">Master of the ordnance</persName> to take a general Survey of <placeName ref="pl1020">the Island</placeName>,
+                    upon a scale of three Inches to a mile, merely for the use of the office, not design’d for publication. the Lodging Houses at <placeName ref="pl1372">Cowes</placeName>
+                    start up like mushrooms, and hardly more durable, but they Lett from three, to seven guineas a week. In a year or two you may expect to hear of Circus’s, and Crescents. I am told more than eleven hundred Strangers, have visited the 
+                    <placeName ref="pl1020">Isle of Wight</placeName> since the beginning of May. Provisions are as dear as in <placeName ref="pl0699">London</placeName>
+                    and <placeName ref="pl0941">Richmond</placeName>, and horse provender at a much higher price. Our <persName ref="pe1532">New Governor</persName>
+                    is very much respected here, and has a very respectable character; He is restoring the Castle Walls at <placeName ref="pl1358">Carisbrooke</placeName>,
+                    and means to embattle them in the manner they were originally built in, and he has plans to erect a room of very large dimensions there, to receive visitors upon his public days. He is also erecting an elegant 
+                    <add place="above">Dwelling</add> House in a beautiful situation, overlooking the back water, near <placeName ref="pl2340">Wooton bridge</placeName>.
+                    <persName ref="pe0436">Sir Richard Worsley</persName> has lock’d up himself and <placeName ref="pl1392">his house, and his park</placeName>,
+                    from the site of all mankind, and has begun an expensive <placeName ref="pl2404">Cottage</placeName>, with Baths, &amp; Boat houses, and what not, on the edge of the Cliff, near 
+                    <placeName ref="pl2341">S<hi rend="superscript">t</hi>. Lawrence's</placeName>, and calls himself, the Timon of the <placeName ref="pl1020">Island</placeName>.<note type="editorial">The misanthropic Athenian citizen who inspired the play <hi rend="italic">Timon of Athens</hi> by William Shakespeare, possibly composed in collaboration with Thomas Middelton.</note>
+                    I would not wish to be quite so much sequester’d from the world, but in truth we have been the whole summer, friended, and pleasur’d, to death, and, pour 
+                    <add place="above">comble</add> de malheur,<note type="editorial">'to make things worse'.</note> <persName ref="pe0336">my youngest daughter</persName>
+                    is very unwell indeed; she, and <persName ref="pe0331">her sister</persName>, join with me, in all manner of good wishes to you, and your house,</p>
+                <closer>
+                    <salute>and I am, believe me, much yours.</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+                <postscript>
+                    <p>For want of something better to do, we amuse ourselves <add place="above">here</add> with making nonsense verses, upon every simple occasion. You have had a surfeit of mine already, but I venture to add to the dose, because they serve to fill the blank of my paper, and will cost you nothing. – </p>
+                    <p><persName ref="pe0422">Rainsford</persName> thanks you for having him in your remembrance, but <persName ref="pe0332">Storer</persName>
+                        is gone to <placeName ref="pl1023">Paris</placeName> - the former has been here half the Summer. –</p>
+                </postscript>
+            </div>
+            <div type="enclosed"><p>To <persName ref="pe0382">Lady Clarges</persName>, occasion'd by two Robin red breasts, being found, several times, perch’d upon her bolster, at <placeName ref="pl1013">Northcourt</placeName>. -</p>
+                <ab style="not_indent">Half dead with fear, the Robin's flew</ab><lb/>
+                <ab style="indent">For refuge, to your Bed;</ab><lb/>
+                <ab style="not_indent">Their feathers lost their brightest hue,</ab><lb/>
+                <ab style="indent">Their breasts no longer red;</ab><lb/>
+                <ab style="not_indent">Pursu’d by some voracious Kite,</ab><lb/>
+                <ab style="indent">The little victims knew,</ab><lb/>
+                <ab style="not_indent">To pray were vain, – they could not fight, –</ab> <lb/>
+                <ab style="indent">Their only hope was You.</ab><lb/>
+                <ab style="not_indent">They knew your generous wish to save,</ab><lb/>
+                <ab style="indent">They saw your pitying Eye;</ab><lb/>
+                <ab style="not_indent">With you secure, the Hawk they brave, </ab><lb/>
+                <ab style="indent">And men, and Guns, defie.</ab><lb/>
+                <ab style="not_indent">Fed by your hand, they saucy grow,</ab><lb/>
+                <ab style="indent">And play their little pranks,</ab><lb/>
+                <ab style="not_indent">And as they pick the crumbs you throw,</ab><lb/>
+                <ab style="indent">They chirp their warmest thanks.</ab><lb/>
+                <ab style="not_indent">They hear you sing, – they see you smile,</ab><lb/>
+                <ab style="indent">They cannot fly away. –</ab><lb/>
+                <ab style="not_indent">’Tis thus you Birds, and Men beguile,</ab><lb/>
+                <ab style="indent">’Tis Magic makes them stay. –</ab>
+            </div>
+            <div>
+                <p><date>Sep<hi rend="superscript">r</hi>: 15. 1791.</date></p>
+            </div>
+        </body>
+    </text>
+</TEI>

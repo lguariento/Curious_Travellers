@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0173">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on current events and Anderson's work on
+                    sheep</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>105-106</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>The content of this letter indicates that it has been bound out of order
+                            due to the '9' in the dateline's '1794' resembling a '7'.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1794-12-18"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Thanks for y<hi rend="superscript">r</hi>
+                    <unclear reason="illegible">four</unclear> kind letters &amp; for <bibl type="authorial"><title ref="bi0639">the confession of
+                    Watt’s</title></bibl>. it is certainly undeniable proof of the design of a
+                    rising. I trust the ugly business in <placeName ref="pl0229">Glasgow</placeName>
+                    will soon be at an end.</p>
+                <p>My best thanks to <persName ref="pe0198">M<hi rend="superscript">r</hi>
+                        Ker</persName>. for his kind intentions. To y<hi rend="superscript">r</hi>self for what you can say more about <persName ref="pe0184">M<hi rend="superscript">r</hi> Bell</persName>.</p>
+                <p>If franks are to be abolished we must write on a single sheet.</p>
+                <p>I beg my compliments to <persName ref="pe0001">Doctor Anderson</persName> I never
+                    got his <bibl type="authorial"><title ref="bi0137">work on foreign
+                        sheep</title></bibl> which he promised to send to <persName ref="pe0026">Mess<hi rend="superscript">rs</hi> White</persName>. I sent their for
+                        <persName ref="pe0001">the doctor</persName> the odd sheets.</p>
+                <closer><salute>Adieu D<hi rend="superscript">r</hi> Sir <lb/>y<hi rend="superscript">rs</hi> most truly</salute>
+                    <signed><persName ref="pe0232">TP</persName></signed>.
+                <dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r</hi>
+                        18<hi rend="superscript">th</hi> 1794.</dateline></closer>
+
+                <postscript>
+                    <p>If by return of post. you will send me the event of the <placeName ref="pl0229">Glasgow</placeName> affair you will ease my mind you may
+                        inclose till parlement meets.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

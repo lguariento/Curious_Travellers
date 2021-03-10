@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0024">
+   <teiHeader type="w">
+      <fileDesc>
+         <titleStmt>
+            <title>Diary of the Welch Tour begun from Erthig
+               <date>1766</date></title>
+            <respStmt>
+               <name>Edited with an introduction by Elizabeth Edwards</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Hawarden</settlement>
+                  <repository>Flintshire Record Office</repository>
+                  <idno>D/E/1209</idno>
+               </msIdentifier>
+               <msContents>
+                  <ab><locus/></ab>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <!-- delete as appropriate -->
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb/>
+
+            <p style="center">Diary of the Welch Tour begun from <placeName ref="pl1244">Erthig</placeName>, August the 13<hi rend="superscript">th</hi> 1766 – ended at
+                  <placeName ref="pl1244">Erthig</placeName> Sep:<hi rend="superscript">tr</hi> the
+                  5:<hi rend="superscript">th</hi> 1766 –</p>
+
+            <p>August 13 </p>
+            <p>A <sic>Desert</sic> Ride from <placeName ref="pl1244">Erthig</placeName> to
+                  <placeName ref="pl1246">Ruthin</placeName> – <placeName ref="pl1246">Ruthin</placeName> situated in the <placeName ref="pl1443">Vale of
+                     <sic>Cluid</sic></placeName>; a most fertile Vale, twenty miles in length,
+               three in breadth, fortified on three sides by Mountains, on the North side it sinks
+               into a large plain bounded by the Irish Sea – on one of the Hills near <placeName ref="pl1246">Ruthin</placeName>, plain vestiges of a British Camp.<note type="editorial">The Clwydian Range near Ruthin is notable for a string of Iron
+                  Age hillforts. Yorke may be referring particularly to Moel Arthur, one of the best
+                  preserved examples; see <ref type="http" target="http://coflein.gov.uk/en/site/306899/details/moel-arthur-hillfort">here</ref></note>NB: Danced at the Assize Ball,<note type="editorial">Ball
+                  timed to coincide with the assize court (regional court held
+               periodically).</note></p>
+            <p>14:<hi rend="superscript">th</hi></p>
+            <p>Remained at <placeName ref="pl1246">Ruthin</placeName>, and took a second Hop with
+               Miss N: W:<note type="editorial">Unidentified.</note></p>
+            <p>Friday 15:<hi rend="superscript">th</hi></p>
+            <p>Went in the afternoon by <placeName ref="pl2080">Buchumbedd</placeName> (S<hi rend="superscript">r</hi>
+               <persName ref="pe1339">Walter Bagot</persName>’s) to <placeName ref="pl1477">Denbigh</placeName> – The <placeName ref="pl1880">Castle</placeName> was built on
+               a very strong, and extensive plan by <persName ref="pe1340">Lacy Earl of
+                  Lincoln</persName> in <persName ref="pe1341">Edward the first</persName>’s time,
+               by whom the Lordship of <placeName ref="pl1477">Denbigh</placeName>, and other large
+               possessions in <placeName ref="pl0731">Wales</placeName> was granted to the Lacies –
+               It devolved again to the Crown, and was given with the tithe of <placeName ref="pl1477">Denbigh</placeName> to <persName ref="0477">Dudley</persName>
+               afterwards Earl of <sic>Liecester</sic>, prime Favourite to <persName ref="pe0357">Queen Elizabeth</persName> his Benefactress –<pb/>
+            </p>
+            <p>A Handsome Cathedral was begun to be erected by <add place="above">this</add>
+               <persName ref="0477">Robert Earl of <sic>Liecester</sic></persName> within the Castle
+               walls; His death interrupted the Completion of the plan<note type="editorial">A
+                  reference to St David’s or Leicester’s Church, a ruined sixteenth-century church
+                  in Denbigh that was never completed; see <ref type="http" target="http://coflein.gov.uk/en/site/93307/details/st-davids-or-leicesters-church-denbigh">here</ref></note> – He had finished the side Walls only and the great East
+               Window, which still remain pretty entire – By the power of this Minister the See of
+                  <placeName ref="pl1371">St Asaph</placeName> was to have been removed to
+                  <placeName ref="pl1477">Denbigh</placeName> – Some letters still remain written by
+                  <persName ref="pe1342">D<hi rend="superscript">r</hi> Price</persName> a strong
+               Partizan of <persName ref="pe0477">Dudley</persName>’s and one of his chief Agents in
+               <placeName ref="pl0731">Wales</placeName> – <persName ref="1342">Price</persName> having been guilty of many exactions
+               &amp; numberless Oppressions, and fearing a just Retaliation in one <add place="above">of his</add> letters thus addresses <persName ref="0477">Dudley</persName> – In thee O Lord have I put my trust, let me never be
+               confounded – <persName ref="pe1344">William the third</persName> granted the Lordship
+               of <placeName ref="pl1477">Denbigh</placeName> together with other considerable
+               powers to <persName ref="pe1345">W: Earl of Portland</persName> – this exorbitant
+               Grant on a petition of the House of Commons he revoked, and otherwise rewarded his
+               Favourite – The Chief Opposition<note type="authorial">Vide Life of Baron
+                  Price.</note><note type="editorial">In 1695-6, the Denbighshire-born MP and lawyer
+                  Robert Price (1655-1733) successfully opposed the king’s award of the lordships of
+                  Denbigh, Bromfield and Yale to the Earl of Portland. Price’s speeches during the
+                  affair were published in 1702 as <hi rend="italic">Gloria Cambriae; or the Speech
+                     of a Bold Briton in Parliament against a Dutch Prince of Wales</hi>. The text
+                  Yorke refers to here was published as <hi rend="italic">The Life of the Late
+                     Honourable Robert Price, Esq</hi> in 1734.</note> and most spirited was given
+               to this Grant by <persName ref="pe1350">M<hi rend="superscript">r</hi>
+                  Price</persName> a Denbighshire Gentleman, afterwards one of the Barons of the
+               Exchequer – </p>
+            <pb/>
+            <p>The <placeName ref="pl2082">Town Hall</placeName> at <placeName ref="pl1477">Denbigh</placeName> is well worthy looking in.</p>
+            <p>From <placeName ref="pl1477">Denbigh</placeName> we proceeded in the evening by
+                     <sic><placeName ref="pl1560">Bucheigrigg</placeName></sic>
+               <persName ref="pe1378">S<hi rend="superscript">r</hi> Thomas Salusbury</persName>’s
+               (leaving <placeName ref="pl1262">Llanerch</placeName>
+               <persName ref="pe1403">M<hi rend="superscript">r</hi> Davies</persName>’s on the
+               left) to Mr Williams of <sic><placeName ref="pl1268">Boddlewiddan</placeName></sic>,
+               as one of the most Hospitable Stations for a wearied Traveller to rest at in <placeName ref="pl0731">Wales</placeName>; I
+               shall never fail to recommend any of my friends to so comfortable a place – </p>
+            <p>Saturday 16:<hi rend="superscript">th</hi></p>
+            <p>Surveyed the Ruins of <placeName ref="pl1978">Rhuddlan Castle</placeName> (within two
+               miles of <placeName ref="pl1268">Boddlewiddan</placeName>) originally built by
+                  <persName ref="pe1365">Henry the 2:<hi rend="superscript">nd</hi></persName> but
+               improved by <persName ref="pe1341">Edward the 1:<hi rend="superscript">st</hi></persName> who held here a Parliament to settle the Government of the
+               subdued Country of <placeName ref="pl0731">Wales</placeName><note type="editorial">A reference to the Statute of
+                  Rhuddlan, issued by Edward I in 1284, which was intended to settle the government
+                  of Wales after the deaths of the Welsh princes Llywelyn and Dafydd ap Gruffydd in
+                  1282-3. The Statute, which declared that Wales had been annexed to England,
+                  introduced English law to native Welsh law.</note> – the Name signifies, the Red
+               Place, pointing to the Situation of <placeName ref="pl1305">Rhuddlan</placeName>,
+               which stands on a red Bank above the River Cluid, here navigable for
+                  <sic>vessells</sic> of large Burden – One of the most pleasing of our Old Welch
+               Tunes is called Morva Rhuddlan<note type="editorial">The tune ‘Morfa Rhuddlan’ has
+                  been used in harp music, as a dance, and set to words on numerous occasions. See
+                  Phyllis Kinney, <hi rend="italic">Traditional Welsh Music</hi> (Cardiff:
+                  University of Wales Press, 2011), p. 48. For a representation of the tune, see
+                     <ref type="http" target="http://www.folktunefinder.com/tunes/176827">here</ref></note> (id est) Rhuddlan Marsh; alluding to a very memorable
+                  <sic>battel</sic> fought here in early Times; it is said to have been composed as
+               an Elegy and lamentation over the Slain; indeed the Musick very much echoes this
+               sense-------</p>
+            <pb/>
+            <p>Went to <placeName ref="pl1561">S<hi rend="superscript">t</hi> Asaph
+                  Cathedral</placeName>, small but kept in neat repair, and originally well built –
+               The <persName ref="pe2038">Bishop</persName> hath the most numerous Patronage of any
+               of his Brethren – After dinner at <placeName ref="pl1268">Bottlewiddan</placeName>
+               proceeded by [three words illegible] Ferry to <placeName ref="pl1049">Conway</placeName> where we lay this night.</p>
+            <p>Monday 18:<hi rend="superscript">th</hi></p>
+            <p>Viewed with pleasure and amazement the noble ruins of <placeName ref="pl1530">Conway
+                  castle</placeName>, built (with many other strong Fortresses) by <persName ref="pe1341">Edward the first</persName>, to awe his new conquered Subjects – The
+               Town of <placeName ref="pl1049">Conway</placeName> [illegible – cancelled word] hath
+               sprung up within the outward walls of the <placeName ref="pl1530">Castle</placeName>,
+               originally those that inclosed the Castle Yard, tho ignorantly supposed to have been
+               built as a security to the Town; some Seats immediately on the opposite shore of the
+               River – <placeName ref="pl1973">Marl</placeName>
+               <persName ref="pe1366">M<hi rend="superscript">r</hi> Prendergast</persName>’s,
+                     <sic><placeName ref="pl1974">Bodsgallan</placeName></sic>
+               <persName ref="pe1698">Miss Wynne</persName>’s, now <persName ref="pe1698">Lady
+                  Mostyn</persName>, and <sic><placeName ref="pl2089">Gloddath</placeName></sic>,
+                  <persName ref="pe0015">S<hi rend="superscript">r</hi> Roger Mostyn</persName>’s –
+               Dined this day at the <placeName ref="pl2090">Eagles</placeName> at <placeName ref="pl1533">Llanrwst</placeName>, a House of a mean Appearance, but of very good
+               Accomodations [sic] – <placeName ref="pl1533">Llanrwst</placeName> is remarkable for
+               a <placeName ref="pl1531">bridge</placeName> the Work of <persName ref="pe1159">Inigo
+                  Jones</persName>, the center Arch remaining in the </p>
+            <pb/>
+            <p><sic>in the</sic> State he left it, is worthy of his extensive Genius; the two
+               smaller Arches having been in the eye of the Country since repaired, their original
+               Beauty is much impaired – The Original name of this very extraordinary Genius was
+               Unner ap Jones; he was born near <placeName ref="pl1533">Llanrwst</placeName>, and
+               was early encouraged in the study of Architecture by <persName ref="pe1369">S<hi rend="superscript">r</hi> Richard Wynne</persName> of <sic><placeName ref="pl1532">Gwider</placeName></sic> near <placeName ref="pl1533">Llanrwst</placeName> Bart, Treasurer to Henrietta Maria Queen of Charles the
+               first – By the munificence of this Gentleman, Jones was supported in his travels, and
+               afterwards recommended to the notice of Charles the 1:<hi rend="subscript">st</hi>.
+               In Italy he drop’d his British appellation of Unner ap Jones, and received the name
+               of Inigo – Two small Chapels were built by him for <persName ref="pe1369">S<hi rend="superscript">r</hi> Richard Wynne</persName>, one at Gwider,<note type="editorial">Possibly a reference to the private chapel at Gwydir Uchaf,
+                  though this was not built until later in the seventeenth century; see <ref type="http" target="http://coflein.gov.uk/en/site/43667/details/chapel-of-holy-trinitygwydir-chapelcapel-gwydir-uchaf-llanrychwyn-llanrwst">here</ref></note> the other at <placeName ref="pl1533">Llanrwst</placeName>
+               before he left <placeName ref="pl0731">Wales</placeName> – you would distinguish neither as the Work of <persName ref="pe1159">Inigo Jones</persName>; In the Chapel at <placeName ref="pl1533">Llanrwst</placeName>, <persName ref="pe1369">S<hi rend="superscript">r</hi>
+                  Richard Wynne</persName> put up a Marble with the </p>
+            <pb/>
+            <p>following Inscription:<note type="editorial">For a photograph of this monument,
+                     see<ref type="http" target="http://www.oldukphotos.com/churchphotos/images/Wales/Caernarfonshire,%20Llanrwst,%20Gwydir%20Chapel%20-%20the%20royal%20lineage%20of%20the%20Wynn%20Family.jpg">here</ref></note> I could easily anticipate the Comment every Englishman (I
+               should have said Saxon) will make thereon – Take the following however as a true and
+               authentick Copy – </p>
+            <p>This Chapel was erected Anno Domini 1633 By <persName ref="pe1369">S<hi rend="superscript">r</hi> Richard Wynne</persName> Bart: of <placeName ref="pl1532">Gwidr</placeName> in the County of <placeName ref="pl1565">Carnarvon</placeName>, Treasurer to the High and Mighty Princess <persName ref="pe0601">Henrietta Maria</persName> Queen of England, daughter to <persName ref="pe2039">Henry the 4:<hi rend="superscript">th</hi></persName> King of France
+               and wife to our Sovereign <persName ref="pe2040">King Charles</persName> – Where
+               lieth his Father Sir <persName ref="pe0321">John Wynne</persName> of <placeName ref="pl1532">Gwidr</placeName> in the County of <placeName ref="pl1565">Carnarvon</placeName> Knight and Baronet, Son and Heir to <persName ref="pe2041">Maurice Wynne</persName>, Son and Heir to <persName ref="pe2042">John
+                  Wynne</persName>, Son and Heir to <persName ref="pe2043">Meredith</persName>,
+               which three lieth buried in the <placeName ref="pl2859">Church of
+                  Dolwyddelan</placeName>, with Tombs over them. This <persName ref="pe2043">Meredith</persName> was Son and Heir to Evan,<note type="editorial">For an
+                  overview of the Wynn family, including some of the members of the family listed in
+                  the following section of this tour, see <ref type="http" target="https://biography.wales/article/s-WYNN-GWY-1300">here</ref></note> son
+               and Heir to Robert, son and Heir to Meredith, son and Heir to Howell, son and Heir to
+               David, son and Heir to Griffith, son and Heir to Caradock, son and Heir to Thomas,
+               son and Heir to <persName ref="pe2045">Roderick Lord of Anglesey</persName>, son to
+                  <persName ref="pe0641"><sic>Owen Gwinedd</sic></persName> [sic] Prince of Wales,
+                  <add place="above">(David)</add> who married <persName ref="pe2046"><hi rend="underline">Emma</hi> Plantagenet</persName> Sister to <persName ref="pe1365">King Henry</persName> the second – There succeeded this <hi rend="underline"><persName ref="pe2044">David</persName></hi> three Princes; His
+               nephew</p>
+            <pb/>
+            <p>NB: The Inheritance of <placeName ref="pl1532">Gwidr</placeName>, now valued at 5000L
+               per Annum or more, passed by a Daughter to the Marquis of Lindsey, and is now held by
+               their immediate Descendant – the present <persName ref="pe2050">Duke of
+                  Ancaster</persName></p>
+            <note type="editorial">This authorial note in the manuscript will be found on the facing
+               page to the following text.</note>
+            <pb/>
+            <p><persName ref="pe2047">Leolinus Magnus</persName>, who married <persName ref="pe2048">Jane</persName> Daughter to <persName ref="pe2049">King John</persName>; David
+               his Son, Nephew to <persName ref="pe2051">King Henry</persName> the third; and
+               <persName ref="pe2022">Leoline</persName> the last Prince of <placeName ref="pl0731">Wales</placeName> of that House
+               and Line, who lived in <persName ref="pe1341">King Edward</persName> the first’s
+               time. S<hi rend="superscript">r</hi>
+               <persName ref="pe0321">John Wynne</persName> married <persName ref="pe2053">Sydney</persName> (who lieth buried here, the daughter of S<hi rend="superscript">r</hi>
+               <persName ref="pe2052">William Gerard</persName> Knight Lord Chancellor of Ireland)
+               by whom he had Issue S<hi rend="superscript">r</hi>
+               <persName ref="pe2054">John Wynne</persName>, who died at <placeName ref="pl2860">Lucca</placeName> in <placeName ref="pl1164">Italy</placeName>, Sir <persName ref="pe1369">Richard Wynne</persName> now living, Thomas Wynne who lieth here,
+               Owen Wynne<note> For further members of the Wynn family, mentioned in this passage,
+                  see <ref type="http" target="https://biography.wales/article/s-WYNN-GWY-1300">here</ref></note> now living, Robert Wynne who lieth here, Roger Wynne who
+               lieth here, William Wynne now living, Maurice Wynne who lieth here, Ellis Wynne who
+               lieth buried at <placeName ref="pl2861">Whitford</placeName> in the County of Flint,
+               Henry Wynne now living, Roger Wynne who lieth here, and two Daughters – <persName ref="pe3056">Mary</persName> now living married to S<hi rend="superscript">r</hi>
+               <persName ref="pe2055">Roger Mostyn</persName> in the County of Flint Knight, and
+                  <persName ref="pe2058">Elizabeth</persName> now living, married to S<hi rend="superscript">r</hi>
+               <persName ref="pe2057">John Bodvil</persName> in the County of <placeName ref="pl1565">Caernarvon</placeName> Knight.</p>
+            <pb/>
+            <p>Tuesday 19:<hi rend="superscript">th</hi></p>
+            <p>Sailed down the <placeName ref="pl2384">River Conway</placeName> from Trevern (within
+               a mile of <placeName ref="pl1533">Llanrwst</placeName>) and made it twelve miles to
+                  <placeName ref="pl1049">Conway</placeName> – This <placeName ref="pl2384">River</placeName> flows through a deep and narrow Vale, shut in on each side by
+               very high and craggy Rocks, in some few places however softening into Wildness, with
+               Birch and other Shrubs crawling up their sides – When I looked up to these Rocks from
+               the <placeName ref="pl2384">River</placeName> (which washes their Base) <persName ref="pe0494">Shakespeare</persName>’s description of Dover Cliff immediately
+               occurred – </p>
+            <p>There is a Cliff whose high and bending Head</p>
+            <p>Looks fearfully on the confined deep.<note type="editorial">A reference to
+                  Shakespeare’s King Lear, Act 4, Scene 1, where Gloucester contemplates committing
+                  suicide at Dover (‘There is a cliff, whose high and bending head looks fearfully
+                  in the confined deep: Bring me to the very brim of it, and I’ll repair the misery
+                  thou dost bear’).</note></p>
+            <p>Returned at night to our good Host Mr Ellis<note type="editorial">Unidentified.</note> of <sic><placeName ref="pl2096">Keffdu</placeName></sic> – I
+               should have remarked that the <placeName ref="pl2384">River Conway</placeName>
+               becomes navigable within 14 miles of its rise; it is <del>indeed</del> a tide River,
+               of considerable width and depth.</p>
+            <p>Wednesday 20:<hi rend="superscript">th</hi></p>
+            <p>Visited the Cataracts <sic><placeName ref="pl2851">Rhaidr y Wanol</placeName></sic>,
+               and <placeName ref="pl2852">Rhaidr yr Pandy</placeName> Penmachno, both within six
+               miles of <placeName ref="pl1533">Llanrwst</placeName> – They are both so very
+               extraordinary, that I fear</p>
+            <pb/>
+            <p><del>as</del>
+               <add rend="above">lest</add> my Description, the nearer it approaches the Truth may
+               be thought the further to wander from it – <placeName ref="pl2851">Rhaidr yr
+                  Wanol</placeName> is a long continued <add rend="above">River and</add> Cataract,
+               tearing through an excavated Rock, formed into its Channel; in many places the
+               Channel breaks very abruptly, and creates numerous and delightful Falls; – On all
+               sides, this River is enclosed by high Rocks covered with low Shrubs that make a
+               beautiful <sic>accompanyment</sic> of Wood to the several Cascades – </p>
+            <p><placeName ref="pl2852">Rhaidr yr Pendy</placeName> Penmachno is a Curiosity no less
+               extraordinary, tho much differing from the other – Here amidst an Amphitheatre of
+               stupendous Rocks, the Rivers Machno and <placeName ref="pl2384">Conway</placeName>
+               join their Streams: The Course of the Machno, I followed up for some way, climbing
+               and scrambling from one vast stone to another, that obstruct the very narrow</p>
+            <pb/>
+            <p>Channel of the River, which from the vicinity of the Impending Rocks on each side can
+               never be widened – The Stones I am speaking of, are hollowed and worn into a vast
+               variety of whimsical Cavities, others again diminish’d to Porridge pots, some by the
+               continual eating of the Water formed into a sort of Arches, and supported by Rude
+               Pillars; under these the clearest, and most living Water I e’er beheld trickles – To
+               compleat this most Romantick Scene (upon the summits and brows of the Rocks that I
+               have observed rise perpendicularly from the River) grow some large Trees; these take
+               up and arch the space from Rock to Rock, and with a considerable shade overhang and
+               darken the Channel below – </p>
+            <p>Returned this night and lay at <placeName ref="pl1049">Conway</placeName>
+               --------</p>
+            <pb/>
+            <p>Thursday 21:<hi rend="superscript">st</hi></p>
+            <p>Travelled on over the sands to <placeName ref="pl0799">Bangor</placeName>, made there
+               an inconsiderable stay – The <placeName ref="pl2025">Cathedral</placeName>
+               indifferent, but the See valuable. Reached <placeName ref="pl1565">Carnarvon</placeName> by dinner and danced that night at the Assembly.</p>
+            <p>Friday 22:<hi rend="superscript">nd</hi></p>
+            <p>Remained at <placeName ref="pl1565">Carnarvon</placeName>, dined with Counsellor
+                  Williams<note type="editorial">Unidentified.</note> (a Hospitable Soul) and
+                  repe<add place="above">ate</add>d a second dose at the Ball, the first I had been
+               at within ten days, having <add place="above">besides</add> thro’ necessity escaped
+               one at <placeName ref="pl1246">Ruthin</placeName> – </p>
+            <p>23:</p>
+            <p>Walked over the striking Ruins of <placeName ref="pl1565">Carnarvon</placeName>, the
+                  <placeName ref="pl1566">Castle</placeName>, and Walls, originally those as at
+                  <placeName ref="pl1049">Conway</placeName> inclosing the Castle Yard – the
+               distinction between the Castles of <placeName ref="pl1530">Conway</placeName> and
+                  <placeName ref="pl1566">Carnarvon</placeName> seems to be – that the latter being
+               intended as the immediate residence of the Prince of <placeName ref="pl0731">Wales</placeName> (where were fixed his
+               different Courts of Judicature and Revenue, as also his Mint) was built more <add place="above">for</add> habitation and bears more the Air of a Palace – <placeName ref="pl1530">Conway</placeName> on the </p>
+            <pb/>
+            <p>contrary is more of a Fortress and in that respect exceeds <placeName ref="pl1566">Carnarvon</placeName> in natural and artificial strength</p>
+            <p>Sunday 24:<hi rend="superscript">d</hi></p>
+            <p>Sailed down the <placeName ref="pl1564">Menai</placeName> to <placeName ref="pl1486">Beaumaris</placeName>; about 14 miles – dined at <sic><placeName ref="pl1965">Plasnewidd</placeName></sic>
+               <persName ref="pe1371">S<hi rend="superscript">r</hi> R: Bayley</persName>’s (a fine
+               situation on the rising Banks of the <placeName ref="pl1564">Menai</placeName>
+               fringed with Wood) passed <placeName ref="pl2853">Baldon Ferry</placeName> in most
+               wretched Weather, and reached <placeName ref="pl1565">Carnarvon</placeName>
+               benighted, and dreadfully soaked</p>
+            <p>Monday 25:<hi rend="superscript">th</hi></p>
+            <p>Passed <placeName ref="pl2097">Tan yr Voila Ferry</placeName> and took a delicious
+               Ride (the <placeName ref="pl1093">Angelsea</placeName> side of the River) to
+                  <placeName ref="pl1965">Plasnewidd</placeName>, along a beautiful
+                  <sic>Terras</sic>, commanding a noble view of the Mouth of the <placeName ref="pl1564">Menai</placeName>, the Walls, and Castles of <placeName ref="pl1565">Carnarvon</placeName> (the Town happily appearing to be lost, and <add place="above">the</add> outward Walls appearing as in their original state and
+               [?meaning]) the dead Flat of <placeName ref="pl1093">Angelsea</placeName> on one side
+               contrasted by the View of the Carnarvonshire Hills (particularly <placeName ref="pl2862">Snowdon</placeName>) on the other ------</p>
+            <pb/>
+            <p>Tuesday 26:<hi rend="superscript">th</hi> of August – </p>
+            <p>Passed <sic><placeName ref="pl2098"><sic>Porthithway</sic></placeName></sic> Ferry,
+               and ride through Welch Roads, and a bad Country to <placeName ref="pl1486">Beaumaris</placeName> – <placeName ref="pl1486">Beaumaris</placeName> situated on
+               a Flat very near the Sea, is flanked with double Walls battlemented, and with Towers.
+               The Town is small but well built: Within the <placeName ref="pl1968">Castle</placeName> is a Chapel with vau˄lted Arches, which remains very entire;
+               there are several small recesses with windows towards the Chapel which we concluded
+               were private Confessional Closets – There appears to have been a noble Room of State
+               up one Story – the whole is a fine Ruin – <placeName ref="pl1964">Baron
+                  Hill</placeName> (<persName ref="pe1232">Lord Bulkeley</persName>’s Seat) lies a
+               mile from hence – the House is a vast pile, without Convenience, without beauty of
+               uniformity; the Situation is noble, commanding the mouth of the <placeName ref="pl1564">Menai</placeName>, and a fine Back Ground of the Carnarvonshire
+               Mountains and Rocks – the view is said to be very similar to that of <placeName ref="pl2854">my Lord Edgcumbe</placeName>’s in <placeName ref="pl0766">Cornwall</placeName>.</p>
+            <pb/>
+            <p>Tuesday 26:<hi rend="superscript">th</hi> In the morning</p>
+            <p>Remained at <placeName ref="pl1565">Carnarvon</placeName>, walked to view the old
+               Walls, which are said to be the Ruins of <placeName ref="pl2023">Segontium</placeName> a Roman Station – the River still retains the name of
+               Seiont, and about a quarter of a mile from hence near its mouth washes the sides of
+                  <placeName ref="pl1565">Carnarvon</placeName>; to build which Edward the 1:<hi rend="superscript">st</hi> is said to have employed the then considerable Ruins
+               and Materials of the Old Town of <placeName ref="pl2023">Segontium</placeName>.</p>
+            <p>Wednesday 27:<hi rend="superscript">th</hi></p>
+            <p>Took a Guide from <placeName ref="pl1565">Carnarvon</placeName> to <placeName ref="pl1518">Beddgelert</placeName> in our way thither passed by <sic><placeName ref="2855">Bettus Garmon</placeName></sic>, no ways remarkable, then by
+                  <placeName ref="pl2856">Pont-Cerrig yr Rud</placeName> (a beautiful Cascade) to
+                     <sic><placeName ref="pl1526">Lynn Quellin</placeName></sic>, an extensive and
+               transparent Lake. The Banks of this Lake slope gently off, not unlike the Flintshire
+               downs; this softness soon vanishes; in the back Ground close upon them press some
+               high Hills, and craggy Rocks, down whose rugged sides roared innumerable Cataracts,
+               supplying the Lake below – These Falls are indeed temporary; the Weather being very
+               rainy (which we did not regret) the falls were in high perfection.</p>
+            <pb/>
+            <p>[facing page – ie facing page beginning ‘Near one of the Rocks’]</p>
+            <pb/>
+            <p>NB – </p>
+            <p>Our design was to have ascended <placeName ref="pl2862">Snowdon</placeName>, but the
+               Weather would not permit – the Easiest ascent (and best Road from <placeName ref="pl1565">Carnarvon</placeName> to <placeName ref="pl2862">Snowdon</placeName>)
+               is by the Lakes of <sic><placeName ref="pl1527">Llanberris</placeName></sic> [sic] – </p>
+            <pb/><note type="editorial">This authorial note in the manuscript will be found on the facing
+               page to the following text.</note>
+            <p>Near one of the Rocks (I before mentioned) called <sic><placeName ref="pl2857">Castel
+                     Cidum</placeName></sic> is a very extraordinary Echo – To paint truly the ride
+               between <placeName ref="pl1526">Lynn Quellin</placeName> and <sic><placeName ref="pl1518">Beddgelart</placeName></sic>, you may well use two lines of
+                  <persName ref="pe2059">Churchill</persName> –</p>
+            <p>Far as the Eye could stretch no tree was seen</p>
+            <p>Earth clad in russet scorn’d the lively Green<note type="editorial">A quotation from
+                  Charles Churchill, <hi rend="italic">The Prophecy of Famine. A Scots Pastoral</hi>
+                  (London: G. Kearsley,1763), p. 15.</note></p>
+            <p><placeName ref="pl1518">Beddgellart</placeName> we were told was formerly the site of
+               a Monastery tho no traces are now to be seen; the <placeName ref="pl1518">Beddgellart</placeName> Monks (contrary to the general use of their Fraternity)
+               were very abstemious in the choice of this their Situation; it hath neither richness
+               of Soil, nor indeed any one of the comforts of Life to recommend it: We roosted this
+               night at <placeName ref="pl1518">Beddgellart</placeName> –</p>
+            <p>Thursday 28:<hi rend="superscript">th</hi></p>
+            <p>Rose very early having indeed little temptation to lye in bed, and set out with a
+               Guide for <placeName ref="pl1571">Tan y Bwlch</placeName> – a mile and half from
+                  <placeName ref="pl1518">Beddgellart</placeName> we passed <placeName ref="pl1525">Pont Aber Glaslin</placeName> – This is a Curiosity by no means to be omitted in
+               the tour of <placeName ref="pl0731">Wales</placeName> – It is a natural rocky semicircular Dam making a very full and
+               noble Fall;</p>
+            <pb/>
+            <p>Just below the Cascade stands a <placeName ref="pl1525">bridge</placeName> of one
+               handsome Arch – The Spring Tides of the Sea terminate at this place, and bring up
+               Salmon which leap up the Dam, and go up the River to spawn. During our short stay on
+               the <placeName ref="pl1525">Bridge</placeName> we saw two or three Salmon leap – the
+               River is called Nanwynan; Its Channel by <placeName ref="pl1525">Pont Aber
+                  Glaslin</placeName> is filled with immense stones, which seem to be fragments of,
+               and to be broken off the perpendicular rocks which rise from the River on either
+               side. We proceeded on through a most wild and desolate Country, totally uncovered
+               with soil or Herbage in many parts, but absolutely paved with Rocks – I cannot omit
+               an observation made by one of the Servants (a Country Lout) on the inhospitable
+               Prospect before us. Sure Sir, quoth the Bumpkin, this Country must be very old. Why
+               so Jack. I think Sir, tis quite worn to the Bones – After having pursued thus our
+               Journey for ten miles, we suddenly broke on <persName ref="pe1374">Mr
+                  Griffith</persName>’s of <placeName ref="pl1570">Tan yr Bwlch</placeName> – The
+               Strong Contrast this Spot bears to the Country we had been before too long accustomed
+               to, surprized us most</p>
+            <pb/>
+            <p>agreeably; It is a mountain (rising in the form of a Pyramid) to a very considerable
+               Height, and is covered with good Timber; Craggy Rocks, bosomed high in tufted Trees
+               overtop these Woods – the House which stands in the Centre of these Woods, commands a
+               view of the Vale of Dyffryn Bwlch Coed, through which the River Rhydd Agored winds
+               itself most beautifully, till it is at last lost between two Rocks under a Wood, and
+               the Arch of a Bridge:<note type="editorial">For a series of images illustrating Plas
+                  Tan y Bwlch in its surroundings, see <ref type="http" target="https://coflein.gov.uk/en/site/28687/details/plas-tan-y-bwlch-bwlch-coed-dyffryn-snowdonia-national-park-study-centre">here</ref></note> It is much to be lamented that Nature hath been so blindly
+               bountiful to a set of Animals equally void of Gratitude and understanding to assist
+               her, or take any advantage of her Favours – A Moderate degree of Taste and very
+               little labour render <placeName ref="pl1571">Tan yr Bwlch</placeName> one of the most
+               delicious spots my Eyes ever behold, or my Imagination can paint; But Alas! the Woods
+               are impervious, and all those beautiful Points, from whence you might reasonably
+               expect the most charming Views are shut up in utter darkness and Oblivion
+               -----------</p>
+            <pb/>
+            <p>Friday 29:<hi rend="superscript">th</hi></p>
+            <p>We designed going to <placeName ref="pl1520">Harlech</placeName> and <sic><placeName ref="pl1594">Crickaith</placeName></sic> to see the Castles at those places,
+               but were deterred by the Weather; We made a short excursion to Lynn yr Rhaiddy,<note type="editorial">Unidentified.</note> a Cataract well worth seeing; it empties
+               itself into a Pool of a very considerable depth; the Country people assert that it
+               hath no bottom – This Day turned out very rainy, and we were driven back to our
+                  bed<note type="authorial">A very comfortable one – – </note> Station (<placeName ref="pl1571">Tan yr Bwlch</placeName>) <sic>were</sic> we were locked up the
+               remainder of this day.</p>
+            <pb/>
+            <p>Saturday 30:<hi rend="superscript">th</hi></p>
+            <p>The Weather at length permitting us to creep our of our Holes, we proceeded to
+                  <placeName ref="pl1523">Festiniog</placeName>, a mean Village, with one very
+               tolerable publick House – Near this place are three Cataracts – viz: <sic>Kynant
+                  Velin</sic>, <sic>Kynant Cwm</sic>, and <sic>Pistil Du</sic><note type="editorial">Probably a reference to Rhaeadr Du, falls on the Afon Gamlan in Snowdonia.</note>
+               – The first within half a mile of <placeName ref="pl1523">Festiniog</placeName> we
+               saw, more the Cascade than the Cataract; Kynant Cwm was represented to us as one of
+               the finest in <placeName ref="pl0731">Wales</placeName>, and the last was said to be worth seeing – Our Ride from
+                  <placeName ref="pl1523">Festiniog</placeName> was desert like till we came within
+               four </p>
+            <pb/>
+            <p>Miles of <placeName ref="pl1517">Dolgelly</placeName>, the Country altering very
+               agreeably, being composed of Deep dark Dells, Rushing Rivers, and cultivated Brows –
+               Under this description the beautiful part of <placeName ref="pl0731">Wales</placeName> (as I think) falls – <placeName ref="pl1517">Dolgelly</placeName> is situated in a pleasant narrow Vale, by the
+               side of a good River with a handsome bridge over it; it is closely encompassed on all
+               sides by gently rising Hills covered with Wood – In the back Ground to the South
+               rises the second Mountain of <placeName ref="pl1221">North Wales</placeName> called <placeName ref="pl1866">Cader-Idris</placeName> viz. Arthur’s Chair.</p>
+            <p>Sunday 31:<hi rend="superscript">st</hi></p>
+            <p>Rose at four in the morning and mounted to the very Pinnacle of <placeName ref="pl1866">Cader Idris</placeName> which sharp point is called the Cader or
+               Chair – It is a mighty Hill, and commands in fine Weather (which may only be expected
+               in the Months of May and June) a most extensive View; we could see little in
+               perfection, thick Clouds encompassing us on all sides – It employed us six hours in
+               going and returning from this Hill. From <placeName ref="pl1517">Dolgelly</placeName>
+               continued our Journey by Pont Newidd<note type="editorial">Unidentified.</note></p>
+            <pb/>
+            <p>a Bridge of one Arch (very well worthy Observation) to Pont Drws Nant (a comfortable
+               [?Cottage]) from thence taking the Right Hand side of Lake <sic><placeName ref="pl2101">Lyntegid</placeName></sic> [sic], proceeded on to <placeName ref="pl1669">Bala</placeName> – This lake is a most noble <sic>peice</sic> of
+               Water, three miles in length, and in some parts one in breadth, remarkable clear as
+               signified (Wallice) by its name – The Rivers Avon yr Pandy and <placeName ref="pl1138">Dee</placeName> besides many inconsiderable Springs and Rivulets from
+               the neighbouring Hills, supply this charming Lake – Where the Lake ends, is the first
+               bridge on the <placeName ref="pl1138">Dee</placeName>, which River becomes early
+               considerable from the Assistance of so noble a Reservoir. I must somewhere observe
+               and I may as well do it here that the Bridges in <placeName ref="pl1221">North
+                  Wales</placeName> are universally well if not finely built – The Piers and
+               Buttresses of every Arch are often fixed on the Rock which in many places very
+               [?apropos] rises above the bed of the River – I could mention several immediately
+               under this description -----------</p>
+            <p><placeName ref="pl1669">Bala</placeName> famous for Woollen Stockings – </p>
+            <pb/>
+            <p>Monday Sept<hi rend="superscript">r</hi>. 1:<hi rend="superscript">st</hi></p>
+            <p>Proceeded on by <placeName ref="pl2858">Llandrillo</placeName> to <placeName ref="pl1303">Corwen</placeName>, one of the sweetest Rides in <placeName ref="pl0731">Wales</placeName>; It would be
+               supererogation in me to enter into a minute detail of the Charms of this Ride; The
+               following Letter (written as I have very good Reason to believe by one of our Party)
+               under the description of the View from <sic>Keven Ucha</sic>, particularly points out
+               the similar Beauties of the Country between <placeName ref="pl1669">Bala</placeName> and <placeName ref="pl1303">Corwen</placeName> by <placeName ref="pl2858">Llandrillo</placeName>. <placeName ref="pl1303">Corwen</placeName> Romantickly situated under a Rock which almost
+               overhangs and threatens a part of the Town: In our Road from <placeName ref="pl1303">Corwen</placeName> to <placeName ref="pl0793">Llangollen</placeName> along the
+               steep Banks of the <placeName ref="pl1138">Dee</placeName> passed <sic><placeName ref="pl1258">Glendowrdy</placeName></sic>, the Estate and Seat of that Old
+               Conjurer and Arch Rebel <persName ref="pe0495">Owen Glendower</persName> (as
+                  <persName ref="pe0494">Shakespeare</persName> calls him) properly Owen of
+                  <placeName ref="pl1258">Glendowrdy</placeName> -----</p>
+            <p>Reached <placeName ref="pl1244">Erthig</placeName> this night having spent on the
+               tour of <placeName ref="pl0731">Wales</placeName> four Weeks within two days
+               ------</p>
+            <pb/>
+            <p>S.<hi rend="superscript">r</hi></p>
+            <p><sic><placeName ref="pl0793">Langollen</placeName></sic> is a small Town, about four
+               miles from <sic><placeName ref="pl1256">Chirck Castle</placeName></sic> in <placeName ref="pl1216">Denbighshire</placeName> (the noble and delightful Seat of <persName ref="pe0704">Richard Myddelton</persName> Esq<hi rend="superscript">r</hi>.) and
+               about twelve miles from <placeName ref="pl1260">Oswestry</placeName>; it is situated
+               in a little Vale, upon the River <placeName ref="pl1138">Dee</placeName>, over which
+               there is a very elegant strong stone <placeName ref="pl1954">Bridge</placeName> of
+               four or five large Arches, whose foundation is not to be shaken, each buttress and
+               Pier being built upon the same Rock, which extends itself from one side of the River
+               to the others. The Rapidity and great winding Progress of the Water occasions a foam
+               and noise extremely <sic>awfull</sic> and pleasing; almost every ten yards exhibits
+               the finest Cascade in nature the whole River being composed of them. Many Hills in
+               various directions, of most amazing and different Heights almost encompass the Town –
+               There is to be had plenty of good provision, particularly Mutton, for which
+               <placeName ref="pl0793">Llangollen</placeName> is ever in <placeName ref="pl0731">Wales</placeName> famous – I
+               mentioned this that if any </p>
+            <pb/>
+            <p>person has an Inclination to visit this Paradisical Spot, I can promise him most
+               pleasing entertainment, and good Food. But Sir! I have not yet done with the beauties
+               of this Place; I treat you in the order in which I was treated myself; for I was an
+               Itinerant and the Visitor of a day only. About a mile off are the ruins of a Castle,
+               called by the Inhabitants of the Country <placeName ref="pl0794">Castel Dinas
+                  Bran</placeName>, which some tell us signified in English the Castle of Crow City;
+               Bran being Welch for a Crow, and therefore it is often called Crow Castle; but I have
+               reason to believe from some accounts which I have received that it was built by one
+               Prince Brennus<note type="editorial">Yorke is following the claim made in the twelfth
+                  century by Geoffrey of Monmouth in <hi rend="italic">Historia Regum
+                     Britanniae</hi> (‘The History of the Kings of Britain’) that the conqueror of
+                  Rome was a Briton named Brennius (or Brennus). See John T. Koch (ed.), <hi rend="italic">Celtic Culture: A Historical Encyclopedia</hi>, Volume 1 (Santa
+                  Barbara and Oxford: ABC Clio, 2006), p. 246. The association of Dinas Bran with
+                  the figure of Brennus is made repeatedly in Welsh travelogues in this period,
+                  though Thomas Pennant explicitly rejected it (see <hi rend="italic">A Tour in
+                     Wales</hi>, vol. 1, p. 280).</note> who lived here many Years, and then
+               withdrew and died at Rome. The Castle is situated upon the top of a most singularly
+               strange and amazing Hill, of a Conical Figure, whose Base cannot be above one hundred
+               Yards in diameter, and yet I </p>
+            <pb/>
+            <p>think its perpendicular <add place="above">Height</add> from the plain is not less
+               than three hundred Yards; on the top of this romantick place, are the ruins of the
+                  <placeName ref="pl0794">Castle</placeName>; it is extremely difficult to ascend
+               the Hill; particular care must be taken in fixing your feet, otherwise you slip many
+               yards down without before you stop. The Tradition of the Country is that there are
+               great treasures within the <placeName ref="pl0794">Castle</placeName>, concealed in
+               an Iron Cradle, a considerable depth in the ruins, but that it is most dangerous to
+               attempt to get at them, as the Devil resides there and has the care of the Cradle.
+               This is most seriously believed by the Country People, and till this last summer no
+               person has had the boldness to search for those riches, nor would any one have
+               ventured then without the Assistance of a noted Conjurer in that neighbourhood, whose
+               skill in raising the Wind, finding lost goods, and other tricks and fears in
+               necromancy, are firmly credited by the Weak illiterate people for many miles round;
+               this conjurer undertook to keep the old Guardian of the Iron Cradle in</p>
+            <pb/>
+            <p>subjection, and then he, and some Welch Miners came to an agreement with M<hi rend="superscript">r</hi>
+               <persName ref="pe0704">Myddelton</persName>, the proprietor of the <placeName ref="pl0794">Castle</placeName>, for leave to search there for treasure, and a
+               formal lease was eventually drawn up and engrossed. The Men had been at Work for some
+               time this summer, and had discovered an entrance into a Vault; but as the agreement
+               was not executed by M<hi rend="superscript">r</hi>
+               <persName ref="pe0704">Myddelton</persName> the miners were persuaded not to proceed.
+               The Conjurer is an honest Carpenter with whom I have had a few days ago some
+               Conversation upon this subject; it seems that he, and his Companions, have no kind of
+               doubt but that there is money concealed in this Iron Cradle: but they are sometimes
+               fearful lest it should prove of an inferior quality to Gold or silver; and that if
+               the Cradle should contain wooden or leathern Money only, the Guardian would serve
+               them a devilish trick. I have been at the top of this very amazing Place, which is
+               most wonderful and astonishing, and saw where the poor Fellows had been at labour,
+               [?brutales]!</p>
+            <pb/>
+            <p>I could not see the Iron Cradle or terrifick protector of it. It is said, that Prince
+               Brennus left papers behind him in Italy, which are now in some Repository at Rome,
+               and were a few years ago discovered by some Gentlemen there, which gave an account of
+               this <placeName ref="pl0794">Castle</placeName>, and the treasure which is concealed
+               within it. Certain it is, that two Italian Gentlemen<note type="editorial">Unidentified.</note> came over to England, and applied to M<hi rend="superscript">r</hi>
+               <persName ref="pe0704">Myddelton</persName>’s father for permission to search the
+               Ruins; and it is said, they could not agree about it. By the appearance of the ruins,
+               the <placeName ref="pl0794">Castle</placeName> was a large building and covered the
+               whole top of the Hill, and seems to have been built with the Stones dug from the Rock
+               there. About a mile from this <placeName ref="pl0794">Castle</placeName>, and the
+               same distance from <placeName ref="pl0793">Llangollen</placeName>, are very curious
+               and pleasing Ruins of the <sic><placeName ref="pl0785">Abbey of
+                  Crusis</placeName></sic>; several Arches and Towers are yet standing, and a Farm
+               House and Barn are formed out of some of the Apartments. The Situation of this
+                  <placeName ref="pl0785">Abbey</placeName> is perhaps the finest in the World for </p>
+            <pb/>
+            <p>a melancholy and monkishly religious Retirement; hills, hanging Woods, a winding
+               rushing <placeName ref="pl1138">River</placeName>, and a few fine Meadows surround
+               it. In my ride from <placeName ref="pl0793">Llangollen</placeName> towards <placeName ref="pl1256">Chirk Castle</placeName>, on the top of a large Hill, called
+               Keven-Ucha, I saw one of the finest ravishing prospects possible to be conceived by
+               man; I think no poetic description can exceed it; I really cannot describe it with
+               any justness; on one hand are the fine high pointed Hills around <placeName ref="pl0793">Llangollen</placeName> with <placeName ref="pl0794">Crow
+                  Castle</placeName> on the top of one of them; on the other hand, you have a most
+               extensive View for above fifty miles, of a great part of <placeName ref="pl1216">Denbighshire</placeName>, <placeName ref="pl0702">Flintshire</placeName>,
+                  <placeName ref="pl1362">Cheshire</placeName>, <placeName ref="pl1021">Shropshire</placeName>, and <placeName ref="pl1367">Staffordshire</placeName>. At
+               the foot of the Hill on which I stood, is an amazing and most enchanting sight of the
+               rolling meandering <placeName ref="pl1138">Dee</placeName>; above which, on the
+               opposite side, are fine hanging Woods, interspersed with rich pastures and corn
+                  <sic>Feilds</sic>; at the bottom, upon the margin of the River, are beautiful
+               Meadows with neat Cottages, and behind the Hill</p>
+            <pb/>
+            <p>is a continual Range of Mountains, some of which are heathy, while others have a fine
+               Verdure. It is really worth any person’s while to travel two hundred miles for the
+               sake of this prospect only. This with the other Views and appearances about
+                  <placeName ref="pl0793">Llangollen</placeName> have given me greater pleasure than
+               ever I received from the finest Garden, parks, or buildings in England. <placeName ref="pl0793">Llangollen</placeName> and the circumjacent places only two miles
+               round, are I think the greatest Curiosities, the most romantick, the most pleasing,
+               the most astonishing and delightful upon the face of the Earth. I never read of any
+               Views so luxuriant and Ravishing.</p>
+            <p> I am, Sir!</p>
+            <p> Yours etc:</p>
+            <p> Dico tibi – </p>
+            <pb/>
+            <p>From a green</p>
+            <p>turf <sic><placeName ref="pl1207">Offa’s dike</placeName></sic>
+            </p>
+            <p>Sept:<hi rend="superscript">r</hi> 5:<hi rend="superscript">th</hi> 1766 </p>
+         </div>
+      </body>
+   </text>
+</TEI>

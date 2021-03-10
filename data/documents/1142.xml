@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1142">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 98</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1791-12-15"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r</hi> 15<hi rend="superscript">th</hi> 1791</dateline></opener>
+                <p>May this find you &amp; yours, safe at y<hi rend="superscript">r</hi> fire sides in the <placeName ref="pl0699">capital</placeName>.
+                    I have just escaped with mine from some visits in the <placeName ref="pl1443">vale of Clwyde</placeName>; &amp; had a narrow escape of being locked up. 
+                    a lock up abroad is a terrible thing. at home a most comfortable one, for it effectually locks out all impertinancies. I thank you for your letter: 
+                    in answer I say pray send to me immediately y<hi rend="superscript">r</hi> set of prints of <bibl type="authorial"><title ref="bi0022">arctic zoology</title></bibl>
+                    &amp; they shall be well done. under the nose a new print of myself is engraven:<note type="editorial"> The engraving mentioned may be the <rs type="art" ref="ar0332">work of W. Ridley</rs>.</note> of a small size adapted to 
+                    <hi rend="underline">our</hi> quarto. I have a few proofs shall I paste one on large paper &amp; let <persName ref="pe0014">moses</persName>
+                    ornament it with foliage &amp;c &amp;c.</p>
+                <p>I see that <persName ref="pe0500">m<hi rend="superscript">r</hi> Pitt</persName> &amp; the post office are about something. I wish they may take away the cause of complaint 
+                    &amp; save me the trouble of pursuing the affair which I will certainly do, otherwise.</p>
+                <p>Be so good as to get into company with some litterary Nabob &amp; ask the title of a book of <persName ref="pe1537">anquetil de Perron</persName>'s
+                    of his recent travels in <placeName ref="pl1024">India</placeName>. it is in his journey from <placeName ref="pl2342">Goa</placeName> to
+                    to <placeName ref="pl2343">Poonah</placeName><note type="editorial">Anquetil-Duperron made the journey from Goa to Poonah and Arengabad in March 1758, not as recently as Pennant's query might suggest. See Robert Orme, <hi rend="italic">Historical Fragments of the Mogul Empire, of the Morattoes, and of the English Concerns in Indostan; From the Year M.D.C.LIX</hi>. (London: F. Wingrave, MDCCCV [1805]), p. 197.</note>. It is <hi rend="underline">not</hi> in his acc<hi rend="superscript">t</hi> of the
+                    <bibl type="authorial"><title ref="bi0417">Ganges 2 vol. q<hi rend="superscript">to</hi> Paris 1786</title></bibl>. all the 
+                    world is growing mad after <placeName ref="pl1024">India</placeName>. I have just finishd my XI<hi rend="superscript">th</hi> &amp;
+                    XII<hi rend="superscript">th</hi> folio volumes of the <bibl type="authorial"><title ref="bi0404">outlines of the Globe</title></bibl>
+                    which two contain a <hi rend="underline">brief</hi> acc<hi rend="superscript">t</hi> of <placeName ref="pl2344">Indostan</placeName>.<note type="editorial">The volumes on Indostan in 'Outlines of the Globe' were later numbered XIV and XV.</note>
+                    I am now going on the <bibl type="authorial"><title ref="bi0462">India extra Gangen &amp; the isles</title></bibl>. 
+                        I touch not on party for I cannot tell who to believe: but in general the beginning of my creed is Rogues all, Rogues all!</p>
+                <closer>
+                    <salute>adieu
+                        <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>Pray bid <persName ref="pe0328">Faulder</persName> to deliver to you to be sent down with the prints
+                        <lb/><bibl type="authorial"><title ref="bi0425">Woodvilles medical botany</title></bibl>. N<hi rend="superscript">o</hi> XVI &amp; N<hi rend="superscript">o</hi> XXIII et seq.
+                        <lb/><bibl type="authorial"><title ref="bi0426">Dalrymple’s indian Reportory</title></bibl>. I took the liberty of ordering another small parcel to you.</p>
+                    <p>my best wishes attend <persName ref="pe0332">Storer</persName> &amp; <persName ref="pe0422">gen. Rainsford</persName>.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark">DE 17 91</stamp></p>
+                <p><stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> esq<hi rend="superscript">r</hi> | <placeName ref="pl0759">Stratton street</placeName> | <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

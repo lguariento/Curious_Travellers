@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1384">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to [John Lloyd, Caerwys], 6 January 1778</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>4878E</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+        
+                            <p><hi rend="italic">Endorsement in John Lloyd's hand</hi>:
+                            </p>
+                        <p><placeName ref="pl0001">Downing</placeName>, 6: Janry 78 –––––</p>
+                        <p><hi rend="italic">On reverse, in John Lloyd's hand</hi>:</p>
+                        <p><persName ref="pe0232">Tho: Pennant Esq<hi rend="superscript">r</hi>.</persName> thanks for Correcting the Welsh in his 
+                            Tours which is near finished.<note type="editorial">Lloyd refers to the completion of the letterpress for the first volume of 
+                                Pennant's Welsh travels, prior to its publication as <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778).</note></p>
+                        <p>print in <bibl type="authorial"><title ref="bi0609">westm<hi rend="superscript">r</hi>. Journal</title></bibl>
+                            Dec<hi rend="superscript">r</hi> 77 <rs type="art" ref="ar0131">Pennant</rs> &amp; <rs type="art" ref="ar0132">Fingal’s Cave</rs> 
+                            under it. x Brit. Naturalist.<note type="editorial">
+                                <hi rend="italic">The Westminster Magazine; For December, 1777</hi>, preceding 631, includes 
+                                'A beautiful Engraving, by Walker, of Thomas Pennant, Esq.' and beneath it another engraving entitled 
+                                'An Elegant View of Fingal's Cave', together with 'Anecdotes of Thomas Pennant, Esq. The British Naturalist' 
+                                on 623–4.</note>   
+                            </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1778-01-06"/>
+                    <placeName ref="pl1201">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0333">[John Lloyd]</persName>
+                    <placeName ref=""/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1385"/>
+                    <ref type="prev" target="ct1383"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline/><salute>Dear Sir</salute></opener>
+                
+                <p>I give you many thanks for yr kind labor in correcting the welsh of my 
+                    <bibl type="authorial"><title ref="bi0012"/>Tour</bibl>; &amp;
+                    hope you approve the tenor of my ramble. I think you will find <persName ref="pe0495">Glyndwr</persName>’s life tolerably 
+                    worked up.<note type="editorial">Pennant's account of the life of Owain Glyndwr appears in 
+                        <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), I, pp. 302–69. For a discussion see Dafydd Johnston, 
+                        'Shaping a heroic life: Thomas Pennant on Owen Glyndwr', in Constantine and Leask (eds.), 
+                        <hi rend="italic">Enlightenment Travel and British Identities</hi>,
+                        pp. 105–22.
+                    </note>  I am sure it cost me labor sufficient. I am just at the end of my journey which I fancy you will rejoice at. 
+                    The best wishes of the season attend you: I am
+                </p> 
+                <closer><salute>Dear Sir<lb/>Y<hi rend="superscript">r</hi> most obed<hi rend="superscript">t</hi> 
+                    humble Serv<hi rend="superscript">t</hi>.<lb/></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName>, 6: Janry 78 –––––</dateline></closer>
+            </div>
+            <div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1166">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>46</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">In pencil on p. 2, in Thomas Pennant's hand</hi>:</p>
+                            <p><persName ref="pe1717">M<hi rend="superscript">r</hi> Peachey</persName> N<hi rend="superscript">r</hi> 61</p>
+                            <p><hi rend="italic">In pencil on p. 3, in Thomas Pennant's hand</hi>:</p>
+                            <p><rs type="art" ref="ar0338">Views indice in <unclear>Heimins</unclear>'s Horace</rs>
+                                <lb/><rs type="art" ref="ar0339">charlotte de Tremouille</rs> from <persName ref="pe1743">Harden</persName></p>
+                            <p><hi rend="italic">In ink</hi>:</p>
+                            <p><persName ref="pe1718">Hall</persName> bird stuffer opposite to a methodist chapel near the artillery ground. city road. beyond a great brewery.</p>
+                            <p>New Holland Cassowary. egg of a very deep green superficially punctured. twice the size of a goose-egg &amp; of the same shape</p>
+                            <p>Eleven inches ¾ in circumference. &amp; the long way. 14 inches in circumference.</p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1793-05-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0753">No. 45 upper Brook Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir.</salute><dateline>Thursday May 2. 1793</dateline></opener>
+                <p>I return your Volumes of the <bibl type="authorial"><title ref="bi0023">Arctic Zoology</title></bibl> with my best
+                    thanks, of which I have taken all possible care, and I am sure you will not find a leaf or a print, or a drawing misplaced. 
+                    I have look’d them over and over, and the comparitive numbers <add place="above">of</add> my Birds are so small, as to be not worth 
+                    <del>noticing</del> mentioning. Quadrupeds I have none of.  I should be glad if you can spare me an hour any day after monday, 
+                    as I want much to shew you <del>my</del> the deficiencies in my copy of the <bibl type="authorial"><title ref="bi0023">Book in question</title></bibl>,
+                    which ha<del>s</del>ve never been return’d from <persName ref="pe0014">Moses</persName>, and the Book is quite imperfect without them. 
+                    I hope to hear <persName ref="pe0235">your little Girl</persName> finds some amendment in her vision.</p>
+                <closer>
+                    <salute>I am Dear Sir. 
+                    <lb/>Yours always</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant</persName> Esq<hi rend="superscript">re</hi>: | <placeName ref="pl0753">N<hi rend="superscript">o</hi>. <hi rend="underline">45 upper Brook Street</hi></placeName>.</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

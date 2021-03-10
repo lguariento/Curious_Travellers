@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0232">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on George Low's manuscript and Robert
+                    Ramsay's ill health</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>196-197</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1777-12-26"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0233"/>
+                    <ref type="prev" target="ct0231"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r</hi> 26<hi rend="superscript">th</hi> 1777</dateline>
+                <salute> Dear Sir</salute></opener>
+                <p>accept the best wishes of the season with my thanks for y<hi rend="superscript">r</hi> last favour. I quite approve of <persName ref="pe0156">M<hi rend="superscript">r</hi> Low’s</persName> reasonable delay of visiting
+                    the rest of <placeName ref="pl0701">the orknies</placeName>. He had best reserve
+                    it for the good season &amp; good company. in less than a fortnight I shall
+                    begin to read his <bibl type="authorial"><title ref="bi0058">M.S.S.</title></bibl> let me beg you would on no account communicate his
+                        <rs ref="ar0204">drawings</rs> which would be a most cruel anticipation. I
+                    beg to know if <persName ref="pe0159">M<hi rend="superscript">r</hi>
+                        Mackenzie</persName> published charts of the <placeName ref="pl0700">Shetlands</placeName> if he has <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> should take the benefit of
+                    them. I inclose those of <placeName ref="pl0701">the orknies</placeName> taken
+                    from <bibl type="authorial"><title ref="bi0209">my map</title></bibl> borrowed
+                    from <bibl type="authorial"><title ref="bi0098">Mackenzie</title></bibl> for
+                        <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> to
+                        see.<note type="editorial">Pennant is describing those sections of his own
+                            <bibl type="editorial"><title ref="bi0209"><hi rend="italic">Map of
+                                    Scotland</hi></title></bibl> that had been traced from Murdoch
+                        MacKenzie's charts of the <bibl type="editorial"><title ref="bi0098"><hi rend="italic">Orkney Islands</hi></title></bibl> (1750): see
+                        Pennant's letter to Paton on 27 August 1776.</note> I am heartily sorry that
+                    <persName ref="pe0022">D<hi rend="superscript">r</hi> Ramsay</persName> has that
+                    torturing disorder the rheumatism: but sincerely wish his speedy recovery. I
+                    wonder what is become of <persName ref="pe0104">M<hi rend="superscript">r</hi>
+                        Gough</persName> who has been long silent.</p>
+                <closer><salute>I am Dear Sir <lb/>Y<hi rend="superscript">r</hi> affect. humble
+                            Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed></closer>
+                <postscript>
+                    <p>my munificent friend <persName ref="pe0056">M<hi rend="superscript">r</hi>
+                        Constable</persName> of <placeName ref="pl0031">Burton Constable</placeName>
+                        <placeName ref="pl0770">yorkshire</placeName> has given 6 guineas to be laid in
+                            <gap reason="illegible" unit="words" quantity="1"/> or print for
+                        <persName ref="pe0156">M<hi rend="superscript">r</hi> Low’s</persName>
+                        <bibl type="authorial"><title ref="bi0058">voyage</title></bibl>.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

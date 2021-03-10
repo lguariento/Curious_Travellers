@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0256">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 16 April 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>7-8</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-04-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0257"/>
+                    <ref type="prev" target="ct0254"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline>April 16<hi rend="superscript">th</hi> 1779.</dateline>
+                    <salute>Dear Sir</salute></opener>
+                <p>I am sorry for <persName ref="pe0018">M<hi rend="superscript">r</hi>
+                        Jackson’s</persName> misfortunes. for the future, will get franks. Luckily I
+                    had one for you. I pity &amp; despise impotent malice; but w<hi rend="superscript">d</hi> advise &amp; even entreat my friends never to
+                    deign to answer. it only provokes fresh rancour, &amp; does no good. therefore
+                    my friend suppress all reply. surely no true Scotsman <sic>ought to be abuse
+                        me.</sic></p>
+                <p>I never received y<hi rend="superscript">r</hi> acc<hi rend="superscript">t</hi>
+                    of <persName ref="pe0090">Lord F.</persName> Let me beg to have the duplicate of
+                    it, which I request as it is only for private curiosity.</p>
+                <p>If <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> sends the
+                    Skua &amp;c let it be directed to <persName ref="pe0033">M<hi rend="superscript">rs</hi> Blackburn</persName> at <persName ref="pe0034">M<hi rend="superscript">r</hi> John Blackburn’s</persName> merch<hi rend="superscript">t</hi>
+                    <persName ref="pl0723">Liverpool</persName> or at <persName ref="pe0026">M<hi rend="superscript">r</hi> White’s</persName> Bookseller: <placeName ref="pl1012">Fleetstreet</placeName>
+                    <placeName ref="pl0699">London</placeName> but in the last case let not my name
+                    be mentioned.</p>
+                <p>Pray get from <persName ref="pe0192">M<hi rend="superscript">r</hi>
+                        Elliot</persName> a note that He has such &amp; such things of mine in his
+                    possession to be accounted for as the conditions of others in the trade at
+                    Christmas. if <persName ref="pe0058">M<hi rend="superscript">r</hi>
+                        Cordiner</persName> consent I would offer him the refusal of his
+                    Letters.</p>
+                <p>The poem was only for y<hi rend="superscript">r</hi> acceptance. Thanks for y<hi rend="superscript">r</hi> offer of <placeName ref="pl0077">Leith</placeName>. which I had not.</p>
+                <closer><salute>I am D<hi rend="superscript">r</hi> Sir <lb/>y<hi rend="superscript">r</hi> affec<hi rend="superscript">t.</hi> H. Servt</salute>
+                    <signed><persName ref="pe0232">T.Pennant.</persName></signed></closer>
+
+                <postscript>
+                    <p>I inclose another <rs ref="ar0204">engraving</rs> for <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName>, so have (with the
+                        two birds) expended about 1.4.<hi rend="superscript">6</hi> more than the
+                        six guineas <persName ref="pe0056">M<hi rend="superscript">r</hi>
+                            Constable</persName> gave me for him. Pray transmit this engraving</p>
+                    <p>Thanks for y<hi rend="superscript">r</hi> Letter &amp; the vindication by
+                            <persName ref="pe0095">F.D.</persName><note type="editorial">See
+                            Pennant's letters to Paton on <ref target="0249.xml">4</ref> and <ref target="0250.xml">27</ref> December 1778.</note></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

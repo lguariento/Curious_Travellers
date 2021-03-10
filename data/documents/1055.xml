@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1055">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/TP189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>3</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1786-07-05"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline>July 5. 1786. <placeName ref="pl0759">Stratton Street</placeName>.</dateline></opener>
+                <p>Your letter follow’d me to <placeName ref="pl0699">London</placeName>, and found me and my Daughters<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial">
+                    <xi:include href="Bulls.xml"/>
+                </note>
+                    once more in our  own house, from whence I am writing this little bit of an answer in the midst of hurry confusion and Lawyers, 
+                    but in another week we hope to return to peace and quietness in our beloved <placeName ref="pl1020">Island</placeName>.</p>
+                <p>I have receiv’d and am much oblig’d to you for the Sheets of letter press which I had from your printer, and have follow'd
+                    your directions in presenting to <persName ref="pe0332">Storer</persName> and <persName ref="pe0293">Burrell</persName>
+                    their respective allotments, which they will make their own proper acknowledgement for.<note type="editorial">Further on this arrangement involving Sir William Burrell and Anthony Morris Storer alongside Pennant and Bull see <ref target="1054.xml">1054</ref>.</note> I will call upon <persName ref="pe0389">Faden</persName>,
+                    and can only say I shall be glad to enter into partnership with you, upon this, or upon any other Occasion.<note type="editorial">See Pennant's suggestion for the setting up of a partnership to finance the publication of Faden's maps in <ref target="1054.xml">1054</ref>.</note>
+                    I see little, and hear less of public affairs, but I am inform’d the Parliament will be called together before Christmas. 
+                    the old <persName ref="pe0442">Duke of Northumberland</persName> died very wealthy, and has left the <placeName ref="pl1374">Borough of Beeralston</placeName>,
+                    and almost £300,000 to his <persName ref="pe0811">youngest Son</persName>. What an Estate must that be, which can alienate such an immense sum, and the 
+                    <persName ref="pe1309">present possessor</persName> hardly feeling it</p>
+                <p>I believe I can answer your <placeName ref="pl1020">Isle of Wight</placeName> Questions with very tollerable exactness, but I will be more exact, if you wish it.<note type="editorial">See <ref target="1054.xml">1054</ref>.</note></p>
+                <p>No Salt is made in the <placeName ref="pl1020">Isle of Wight</placeName>, except from salt water; N.B. I cannot yet inform you of the annual exportation, but I am promis’d the Quantity from the Custom House books. – </p>
+                <p><placeName ref="pl1358">Carisbrook Castle</placeName> cannot be seen from the Sea at the Back of the <placeName ref="pl1020">Island</placeName>,
+                    upon account of a very high ridge of Hills which run the whole length of the <placeName ref="pl1020">Island</placeName>
+                    from East to west, and the Castle is to the North of these high lands, and under them – </p>
+                <p>At the back of the <placeName ref="pl1020">Isle of Wight</placeName>, the tide flows only 9 feet and a half, and at the <placeName ref="pl2118">needles</placeName> only 8 feet.</p>
+                <p>At <placeName ref="pl1357">Portsmouth</placeName> bewixt the point, and the <placeName ref="pl2273">Block House Point</placeName>, which make the mouth of the Harbour, the tide flows at Spring tide 19 feet, making 7 fathom 
+                    &amp; a half water in the channell. My family are very well, except <persName ref="pe0336">my little Girl</persName> who
+                    is too delicate to bear the Bustles of this overgrown struting <placeName ref="pl0699">town</placeName>. I hope you and yours are in perfect good health.</p>
+                <closer>
+                    <salute>I am Dear Sir, with great regard, 
+                        <lb/>Yours always, and I think always in haste,</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>. Bull</persName></signed>
+                </closer>
+            </div>           
+        </body>
+    </text>
+</TEI>

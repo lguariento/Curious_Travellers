@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0185">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, thanking him for materials and requesting
+                    items from Robert Ramsay</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>122</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-05-05"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0186"/>
+                    <ref type="prev" target="ct0184"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>The Plan &amp;c came safely.<note type="editorial">In his previous letter,
+                        Pennant requested a small plan of the Forth and Clyde canal, then under
+                        construction. Available plans included <bibl type="editorial">John Smeaton's
+                            <title ref="bi0641"><hi rend="italic">A General Map of the Country betwixt
+                                    the Forth &amp; Clyde extracted from a map of Sterling Shire
+                                    &amp;c by William Edgar 1745, shewing the Course of the intended
+                                    canals. Engraved by Andrew Bell</hi></title>,
+                        1764</bibl>.</note> I imagine myself amply supplied with materials for
+                    <placeName ref="pl0371">Dumferline</placeName> many thanks for all favors past
+                    &amp; promised. Before the box is packed up pray ask <persName ref="pe0022">Doctor
+                        Ramsay</persName> for certain shells &amp;c. I do not care two pence ab<hi rend="superscript">t</hi> any cardinals Bastard.<note type="editorial">Probably a reference to <persName ref="pe0063">Cardinal David
+                            Beaton</persName>: see Paton's letter to Pennant on 4<hi rend="superscript">th</hi> April 1775.</note> I rejoice to hear of the
+                    new works especially <bibl type="authorial"><title ref="bi0159">Lord
+                            Hails</title></bibl>. Be so good as to forward the inclosed. <persName ref="pe0158">M<hi rend="superscript">r</hi> Macintyre</persName> will be at
+                        y<hi rend="superscript">r</hi> Gen. assembly.</p>
+                <closer><salute>y<hi rend="superscript">r</hi> most obedt</salute>
+                    <signed><persName ref="pe0232">T.P.</persName></signed>
+                <dateline><placeName ref="pl0001">Downing</placeName>. May 5<hi rend="superscript">th</hi> 1775.</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom House</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

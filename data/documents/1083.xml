@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1083">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 5</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">On address section, in Richard Bull's hand</hi>:</p>
+                            <p>8      12.
+                            <lb/>1.      8.
+                                <lb/><bibl type="authorial"><title ref="bi0068">the Tragedy</title></bibl> ill copied -<note type="editorial">This refers to a manuscript copy of Horace Walpole, <hi rend="italic">The mysterious mother. A tragedy</hi> (Strawberry Hill [Twickenham], 1768). See <ref target="1085.xml">1085</ref>.</note></p>
+                            <p><persName ref="pe0014">Griffyth</persName> to send me any drawing of my <gap unit="letters" quantity="1" reason="illegible"/><hi rend="superscript">t</hi> and mem. to send him the Catalogue of those I have already got</p>
+                            <p>a l’anglois<note type="editorial">This may be translated as 'to the Englishman' or 'in the English manner', or alternatively be seen as a reference to Benjamin Langlois (1727–1802), MP for St. Germans, Cornwall, 1768–80. <hi rend="italic">Hist P</hi>.</note></p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1789-04-23"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street Piccadilly</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> April 23<hi rend="superscript">d</hi> 1789</dateline></opener>
+                <p>Various occupations engaged me for some time after my return: otherwise I should not have failed to make enquiry after you 
+                    &amp; yours. I trust this will find you all better than when I left you. you must never give way to dejection but let us enjoy ourselves as long as we can by every innocent amusement. I drive off the evil spirit by writing 
+                    &amp; now my pen works with the vigour of thirty. I fling down that I use for the siege of <placeName ref="pl1498">Boulogne</placeName> &amp; the history of its smugl<del><gap unit="letters" quantity="3" reason="illegible"/></del>ers
+                    &amp;c &amp;c<note type="editorial">The first siege of Boulogne took place in 1544, during the third invasion of France by Henry VIII. A second siege followed during the Italian War of 1542–6. 
+                        Pennant's interest in these events relates to work on <bibl type="authorial"><title ref="bi0266">'Outlines of the Globe': VI and VII</title></bibl>.</note> to catch up that dedicated to my friend <persName ref="pe0313">Bull</persName>; &amp; 
+                    it now tells you to write a speedy account of y<hi rend="superscript">r</hi> health and that of miss Bulls.<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>
+                    If their rheumatisms plague them, away to <placeName ref="pl0008">Buxton</placeName> which may bring them so far on their road to 
+                    <placeName ref="pl0731">Wales</placeName>, &amp; give us a chance of seeing you. Pray do not forget the state of the 
+                    new river: among other particulars, I wish to know how many houses it has for tenants; &amp; what parts of the town it supplies.<note type="editorial">For Pennant's interest in the 'new river' and, in later letters, in the New River Company, see <hi rend="italic">Of London</hi> (1790), pp. 196–8.</note>
+                    But other news not relative to my labors will be very acceptable.</p>
+                <p>I am just on the point of going to Thanksgive:<note type="editorial">23 April 1789 was a day of thanksgiving for the return to health of George III.</note>
+                    &amp; then treat my numerous miners &amp; colliers with Beef &amp; ale; illuminations &amp; transparencies: so that the rogues will think Loyalty a good thing &amp; 
+                    roar out ‘<hi rend="underline">Cot pless Kink Shorge</hi>' till they cease to articulate. The truth is I alway 
+                    give annual treats, only on this occasion add a little more. I must own I fear the event of this day; &amp; 
+                    tremble for the effect it may have on the head of majesty. If it stands the huzzas of his good subjects, I think we may ensure it the rest of his days. </p>
+                <closer>
+                    <salute>Adieu
+                        <lb/>Y<hi rend="superscript">rs</hi>most truely</salute>
+                    <signed><persName ref="pe0232">Th. Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>If you see <persName ref="pe0332">M<hi rend="superscript">r</hi> Storer</persName> or <persName ref="pe0293">Sir W Burel</persName>
+                        Be so good as to convey <gap quantity="2" unit="letters" reason="illegible"/> Complim<hi rend="superscript">ts</hi>.</p>
+                    <p><persName ref="pe0014">Moses</persName> thanks you a thousand times for y<hi rend="superscript">r</hi> generosity. he hopes to return the 
+                        2<hi rend="superscript">d</hi> work<note type="editorial">See <ref target="1079.xml">1079</ref> (12 July 1788), where Pennant 
+                            suggests that Bull return his copies of 'England and Schetland' for further embellishing by Griffith. One of these may be the second work to 
+                            which Pennant refers here.</note> by oct<hi rend="superscript">r</hi>. I trust to recover the money.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark">AP 25 89</stamp></p>
+                <p><stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> esq<hi rend="superscript">r</hi>. | <placeName ref="pl0759">Stratton street Piccadilly | London</placeName></addrLine>
+                        <addrLine/>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1386">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Lloyd, Caerwys, to Thomas Pennant, 21 August 1780</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>4878E</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">On address side, in John Lloyd's hand</hi>:</p>
+                            <p>+ <persName ref="pe0767">Cynddelw</persName> defend the Hill, <del>let the event</del><lb/>
+                                let the event of the day be what it will<lb/>
+                                when there is only one son left, it is bootless to be over fond of him
+                            </p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0333">John Lloyd</persName>
+                    <date when="1780-08-21"/>
+                    <placeName ref="pl1201">Caerwys</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1387"/>
+                    <ref type="prev" target="ct1385"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>                <opener><dateline><placeName ref="pl1201">Caerwys</placeName> August 21: 1780 –</dateline>
+                <salute>
+                    </salute></opener>
+                
+                <ab style="not_indent">“<persName ref="pe0767">Cyndhelw</persName> cadw ditheu y rhiw</ab><lb/>
+                <ab>Arr a dhĕl yma hedhiw</ab><lb/>
+                <ab>Cudeb am ŭn mab nyd gwiw +</ab><lb/>
+                    
+                    <p><persName ref="pe0768">Lhowarch Hĕn</persName> yn y maes yn 
+                <placeName ref="pl1328">R<add place="above">h</add>iwedog</placeName>, 
+                gwedi trigo ei holl Bheibion onyd <persName ref="pe0767">Cyndd<add place="above">h</add>elw</persName><lb/>
+                        Vid: <bibl type="authorial"><title ref="bi0610">J: D: Rhys’s Grammar</title></bibl>. p. 183<lb/>
+                <persName ref="pe0768">Lhowarch Hen</persName> in the field of Battle at <placeName ref="pl1328">Rhiwedog</placeName>,
+                when all his sons were perished except <persName ref="pe0767">cyndhelw</persName>.<note type="editorial">The stanza and accompanying note which 
+                            open this letter
+                            are given, as signalled, in John David Rhys's 
+                            <bibl type="authorial"><title ref="bi0610">Grammar</title></bibl>. The stanza is a corrupt form of an englyn from the ninth- 
+                            or tenth-century 'Canu Heledd'. See Ifor Williams (ed.), <hi rend="italic">Canu Llywarch Hen</hi> (Caerdydd: Gwasg Prifysgol Cymru, 1935), 
+                            pp. 35, 200. For Lloyd's translation, see under <hi rend="italic">Marginalia</hi>.</note></p>
+                <p>I don’t think that there is any mention of this Battle of <placeName ref="pl1328">Rhiwedog</placeName> <del>a</del>in any other 
+                    place, besides this poem of <persName ref="pe0768">Lhowarch Hen</persName>, who lived Circa ann: 590. Here it seems he lost this
+                    last son, <persName ref="pe0767">Cyndhelw</persName>. – <del>Lho</del><persName ref="pl1329">Pabell Lhowarch Hĕn</persName>,
+                    of the remains of which <persName ref="pe0232">M<hi rend="superscript">r</hi> Pennant</persName>
+                    has a drawing,<note type="editorial">This is not included in Pennant's extra-illustrated copies of <hi rend="italic">A tour in Wales</hi>
+                        at NLW, and has not been identified elsewhere, either.</note>  stood in a field a little this side <placeName ref="pl1331">Llanvawr Church</placeName>, Call’d now 
+                    <placeName ref="pl1330">Cae’r Babell or Tent field</placeName>, where probably he rested the night after the Battle, &amp; 
+                    finished his Elegy; At the Conclusion of which, he pathetically laments his being bereft of all his children. – 
+                    <placeName ref="pl1328">Rhiwedog aĺs Rhiwaedog</placeName>
+                    is undoubtedly denominated from this Battle.</p>
+                <p>From the word <hi rend="underline">Rhiw</hi>, the side or Brow of <add place="above">a</add> hill, &amp; 
+                    <hi rend="underline">gwaedog</hi> Bloody. – This Rhiw, <persName ref="pe0767">Cyndhelw</persName> is charged to defend &amp;c</p>
+                <p/>               <p>“<persName ref="pe0771">Meiric Vychan</persName>, ap <persName ref="pe0772">Ynyr Vychan</persName>”, the Heroe 
+                    effigiated in <placeName ref="pl1333">Dolgelleu church</placeName>,<note type="editorial">Pennant refers to Meurig Fychan and 
+                        his effigy at Dolgellau church in <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), II, p. 87. For a drawing of the
+                        monument, see Pennant's extra-illustrated copy of <hi rend="italic">A tour in Wales</hi> at NLW, 
+                        <ref type="http" target="http://hdl.handle.net/10107/4692660                         ">here</ref>, p. 96. 
+                    </note> was undoubtedly of the <persName ref="pe0773">House of Nanney</persName>,
+                     being the 4th in Descent from <persName ref="pe0632">prince Cadwgan</persName>, who resided there, &amp; whose posterity have Continued in
+                    possession of it to this day. – His ascent runs thus. “<persName ref="pe0771">Meiric Vychan</persName> ap 
+                    <persName ref="pe0772">Ynyr Vychan</persName>, ab <persName ref="pe0774">Ynyr</persName> ab <persName ref="pe0775">Meuric</persName> ab 
+                    <persName ref="pe0776">Mad:</persName> ab <persName ref="pe0632">Cadwgan</persName> ab 
+                    <persName ref="pe0618"><sic>Bledyn</sic> ab <sic>Kyvyn</sic> Tuysauc Powys</persName>” vid 
+                    <bibl type="authorial"><title ref="bi0691"/>Bodyscallan M:S:</bibl> wrote by 
+                    <persName ref="pe0779">S<hi rend="superscript">r</hi> John Powys</persName>  &amp;c</p> 
+                <p>I mentioned to you that this Heroe was an ancestor of mine, &amp; that I was not descended from 
+                    <persName ref="pe0777">Owen ap Cadwgan</persName>, My ascent to the latter runs thus. <persName ref="pe0333">John ab John</persName>,
+                    ab Richard, ab Edward, ab Humphrey, ab Edward, ab Davydh, ab Robert, ab Howel, ab Davydh, ab 
+                    <persName ref="pe0778">Meirig Llwyd</persName> o <placeName ref="pl1334">Nannau</placeName>, ab 
+                    <persName ref="pe0771">Meirig Vychan</persName> ab <persName ref="pe0772">Ynyr Vychan</persName>, ab 
+                    <persName ref="pe0774">Ynyr</persName>, ab <persName ref="pe0775">Meuric</persName>, ab <persName ref="pe0776">Madog</persName>,
+                    ab <persName ref="pe0632">Cadwgan</persName>, ab <persName ref="pe0618">Bleddyn ab Cynvyn</persName>. 
+                    &amp;c &amp;c<note type="editorial">See <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), II, p. 115, where Pennant records the descent 
+                        of Mr. Evan Llwyd and John Lloyd, 'who, being <sic>brother's</sic> children, are eighteenth in descent from 
+                        <hi rend="italic">Blyddyn ap Cynvyn</hi>', and delights in the fact that 'it is a genuine copy of the form of a 
+                        <hi rend="italic">British</hi> pedegree'.</note></p>
+                <p>By the above, which is very authentic, you see that my descent is from <persName ref="pe0778">Madog ab Cadwgan</persName> &amp; 
+                    not from <persName ref="pe0777">Owen</persName>, who I believe has no posterity at present; this I mention to prevent your 
+                    Committing a Mistake, as you have entered a note which may mislead you, Relative to 
+                    <persName ref="pe0777">Owen ab Cadwgan</persName> &amp;c <gap unit="letters" quantity="2" reason="illegible"/> I have 
+                        some Business that obliges me to go to <placeName ref="pl0002">Chester</placeName> on Thursday, if you have any commands, 
+                        let me know. My best Respects to all the Family.</p>
+                <closer><salute>your most obedient Servt &amp;c<lb/></salute>
+                    <signed><persName ref="pe0333">John Lloyd</persName></signed>
+                    <dateline/></closer>
+            </div>
+            <div>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant Esq<hi rend="superscript">r</hi></persName></addrLine>
+                    <addrLine><placeName ref="pl0001">Downing</placeName></addrLine>
+                </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0187">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, thanking him for inclosures</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>124</locus></ab>
+                    </msContents>
+                    <additional><p>This letter appears to have been bound out of order.</p></additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-04-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0188"/>
+                    <ref type="prev" target="ct0186"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline>April 28<hi rend="superscript">th</hi> 1775</dateline>
+
+                <salute>Dear Sir</salute></opener>
+
+                <p>I am much obliged to you for y<hi rend="superscript">r</hi> inclosed presents. I
+                    shall be happy to find <bibl type="authorial"><title ref="bi0080">Moyses</title></bibl> among them. any drawings that will cost you nothing,
+                    will be acceptable. Be so good as to deliver the inclosed.</p>
+                <closer><salute>I am D<hi rend="superscript">r</hi> Sir y<hi rend="superscript">r</hi> most obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed></closer>
+
+                <postscript>
+                    <p>my best compliments to <persName ref="pe0018">M<hi rend="superscript">r</hi>
+                            Jackson</persName> you may have y<hi rend="superscript">r</hi>
+                        <bibl type="authorial"><title ref="bi0008">voy. to the
+                            Hebrides</title></bibl> replaced or will you wait for the <bibl type="authorial"><title ref="bi0009">next Edition</title></bibl>?</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>at the Custom house</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

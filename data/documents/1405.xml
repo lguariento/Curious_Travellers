@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1405">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>William Morris to Thomas Pennant, 23 February 1758</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>21558E</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0031">William Morris</persName>
+                    <date when="1758-02-23">23 February 1758</date>
+                    <placeName ref="pl1018">Holyhead</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1406"/>
+                    <ref type="prev" target="ct1404"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl1018">Holyhead</placeName>, 23<hi rend="superscript">d</hi>, Feb<hi rend="superscript">y</hi>. 1758.</dateline>
+                    <salute>Good Sir,</salute></opener>
+                
+                <p>I should not have waited for a Reply to my November <hi rend="underline">Lre</hi>, if I had been sure where another could have found 
+                    you out. Nor could I have refrain'd much longer tho' in the Dark, if your kind favours of the 6<hi rend="superscript">th</hi>.
+                    Curr<hi rend="superscript">t</hi>. had not appear'd, for I began to be anxious abo<hi rend="superscript">t</hi>. your 
+                    health.<note type="editorial">William Morris's letters to his brother in early 1758 show his concern regarding a lack of communication
+                        from Pennant. See his letter to Richard Morris, dated 16 January 1758 ('A wyr yr un o honoch, f'eneidiau, ddim o hanes y Bennant?';
+                        'Does either of you, my friends, have any tidings of Pennant?'), in <hi rend="italic">ML</hi>, II, p. 61. Pennant's letter of 6 February 1758, mentioned here,
+                       is probably the one to which William refers on 13 February 1758, again writing to Richard, where he reports that 'the last post 
+                       brought me a letter from Pennant' ('Y post diweddaf a ddug i'm <sic>llythyr</sic> oddiwrth y Bennant'). Ibid.
+                    brother Lewis, dated </note> 
+                    <placeName ref="pl0796">Bath</placeName> is a suspicious place to be in all winter, and am sorry to find that it is unvirtuous too. Your
+                    new found Plan for a new Catalogue must be very useful as you are <hi rend="underline">a draughtsman</hi>, what would I not have given
+                    to be one the last Spring tide, being at the Sea Side at low water the Greatest Ebb I have seen, Several bodies presented 'emselves which
+                    I could neither delineate nor preserve.–
+                </p>
+                <p>What, drop all your foreign Fossil friends! Sure you'll not neglect the Good <placeName ref="pe0051">Bp of Bergen</placeName>, and eke 
+                    our Princely Brother of Cagliari.<note type="editorial">This is probably a reference to <persName ref="pe0059">Ignazio Paternò-Castello</persName>, 
+                    although it is surprising to see him referred to as a prince of Cagliari, which is in Sardegna rather than Paternò-Castello's 
+                    native Sicily.</note> It's well after such unwelcome news, that you Console me with the Hopes of being partaker of 3 Foreign Cargo's. May
+                    they safely Arrive say I. –<note type="editorial">William Morris's letter of 13 February 1758 to Richard does not give corroborating details of
+                    the letter he had received from Pennant, only to say that it was a very kind one ('caredigawl iawn yttyw'). See 
+                    <hi rend="italic">ML</hi>, II, p. 61; and note 1 above.</note>
+                </p>
+                <p>I am obliged to you for the return of <bibl type="authorial">
+                    <title ref="bi0055"/>Willoughby</bibl> whose company w<hi rend="superscript">th</hi>. the rest of his Brethren are extreamly entertaining 
+                    and instructive.<note type="editorial">On Pennant's practice of lending natural history books to William Morris, see Dafydd Wyn Wiliam, 
+                   <hi rend="italic"> Cofiant Wiliam Morris (1705–63)</hi> (Llangefni: Yr Awdur, 1995), p. 148.</note> Fortune hath been somewhat 
+                    favourable to Virtú this last Season in the marine way. Have had the Opportunity of seeing 
+                    Several Sun Fish, a White Shark A Scorpæena, a Tope, and the other Day a Large Dolphin was driven dead into this Harbour it was nigh
+                    8½ f<hi rend="superscript">t</hi>. long I have some kind of Icons of them by me which shall be most humbly Submitted to my Good Preceptor
+                    when I find he is in a Tranquil State at his incomparable Musæum.–<note type="editorial">William Morris refers to 
+                        Pennant's home, <placeName ref="pl0001">Downing</placeName>.</note>
+                </p>
+                <p>I have discover'd in this Neighbourhood the Green Amiantus fibris fragilibus Diaphanis <add place="above">of 
+                    <bibl type="authorial">
+                        <title ref="bi0418"/>Linnæus</bibl></add>,
+                N<hi rend="superscript">o</hi>. 3. w<hi rend="superscript">ch</hi>. he describes thus. Constat fibris Separabilibus, 
+                rigidis, valde fragilibus instar vitri, Subpellucidis, virescentibus –<note type="editorial">See Caroli Linnæi, Systema Naturæ, 5th edn.,
+                    (Lugduni Batavorum [Leiden]: Theodorum Haak, 1756), p. 162, no. 3.</note> I do not remember to have <add place="above">seen</add> 
+                    it <add place="above">at</add> <placeName ref="pl0001">Downing</placeName>, –<note type="editorial">William Morris refers to a journey 
+                    from his home in Holyhead as far as Downing, undertaken in July 1757. See <ref target="1404.xml">1404</ref>.</note> The Dolphin abovementčond
+                is the Delph<hi rend="superscript">s</hi>. Corpo. oblong. Subterati, rostro longo acuto of Linnæus, very uncom~on here.<note type="editorial">See
+                    Carl von Linné [Linnaeus], <bibl type="authorial">
+                        <title ref="bi0418"/>Systema Naturae</bibl>, 5th edn., p. 77, under Delphinus, no. 2: 'D. corpore oblongo subereti, rostro attenuato acuto'. References are made to 
+                    '<hi rend="italic">Art. gen.</hi> 76, <hi rend="italic">fyn</hi>. 105. <hi rend="italic">Syst. 
+              nat.</hi> 39. <hi rend="italic">n</hi>. 2'. Pennant refers to Linnaeus's 'Delphinus Delphis' in <hi rend="italic">British zoology</hi> (2nd edn., 1768–70), 
+                III, p. 48.</note> <sic>the the </sic>
+                    Conjurer<note type="editorial">The identity of the 'Conjurerer' is uncertain. He may possibly be identified with 
+                        <persName ref="pe0061">Siôn Owen</persName>, who collected specimens
+                        on behalf of William Morris, although it is implied here that the person in question benefitted from the work, through payment 
+                        or payment in kind 
+                        from Pennant.</note> (to whom I have deliverd your Dole) had found a piece of the Jaw bone of one near <placeName ref="pl1565">Carnarvon</placeName>, 
+                my Paper will contain no more Chat, I am w<hi rend="superscript">th</hi>. humble respects</p> 
+                <closer><salute>Good Sir Your most obliged humble Serv<hi rend="superscript">t</hi>
+                    </salute>
+                    <signed><persName ref="pe0232">W<hi rend="superscript">m</hi> Morris –
+                    </persName></signed>
+                    </closer>
+                <postscript><p>P. S.<lb/>
+                    <persName ref="pe0037">D<hi rend="superscript">r</hi>. Ellis</persName> Greets you. he dont take to Virtù.</p></postscript>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>

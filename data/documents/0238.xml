@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0238">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on a proposed work and the conveyance of
+                    George Low's manuscript</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>205</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>In the archival binding this letter appears out of order.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1778-06-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0243"/>
+                    <ref type="prev" target="ct0238"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+
+                <p>Thanks for the specimen of <persName ref="pe0187">M<hi rend="superscript">r</hi>
+                        Callendars</persName> useful design; which I heartily wish him success to
+                        complete.<note type="editorial">A reference to John Callander of
+                        Craigforth's <bibl type="editorial"><title ref="bi0262">prospectus for a <hi rend="italic">Bibliotheca Septentrionalis, or an Universal
+                                    Dictionary, containing everything relating to the Northern
+                                    nations</hi></title></bibl>, published in 1778. The project
+                        never came to fruition.</note> I have only one remark which is that I think,
+                    proper names as <persName ref="pe1257">Torfæus</persName>
+                    <persName ref="pe1258">egbert</persName>, <persName ref="pe0232">Pennant</persName> &amp;c should be in types different from the rest, as
+                    they serve to catch the eye much better. Is the work by subscription or how?</p>
+                <p>As my hands are always extremely full, I love to have all sort of needless
+                    trouble taken off; therefore wish <persName ref="pe0156">M<hi rend="superscript">r</hi> Low’s</persName>
+                    <bibl type="authorial"><title ref="bi0058">M.S.</title></bibl> had gone directly
+                    to him. But I will send it next week to <persName ref="pe0043">M<hi rend="superscript">r</hi> Cadel</persName>. My compliments to <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> as I have nothing
+                    new to write.</p>
+                <closer><salute>I am <lb/>Dear Sir <lb/>y<hi rend="superscript">r</hi> affect.
+                        humble Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">T. Pennant</persName>.</signed>
+                <dateline>June 16<hi rend="superscript">th</hi> 1778.</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> G. Paton</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

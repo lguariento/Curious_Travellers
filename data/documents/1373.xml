@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1373">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to John Lloyd, Hafodunos and Wigfair, 23 December 1793</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>NLW</repository>
+                        <idno>12421D</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><hi rend="italic"><lb/>Endorsement</hi>: <placeName ref="pl0001">Downing</placeName> Wed.day 1793
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1793-12-23">23 December 1793</date>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0803">John Lloyd</persName>
+                    <placeName ref="pl1369">Wigfair</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1374"/>
+                    <ref type="prev" target="ct1372"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                
+                <p>The family at <placeName ref="pl0001">Downing</placeName>, <persName ref="pe0814">Bride</persName> &amp; 
+                    <persName ref="pe0065">Bridegroom</persName> included, present their best compliments &amp; thanks to 
+                    <persName ref="pe0803">M<hi rend="superscript">r</hi> Lloyd</persName> for his friendly and handsome congratulations. 
+                    M<hi rend="superscript">r</hi> P.<note type="editorial">This could refer to either Thomas Pennant or to his son, David.</note> 
+                    returns particular thanks for the hunted hare.</p>
+                
+                
+                <closer><dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r</hi> 23<hi rend="superscript">d</hi>. 1793</dateline>
+                </closer>
+            </div>
+            
+            <div>
+                
+                <p><address><addrLine><placeName ref="pl1369">Wŷg-fair</placeName> ––––––
+                    </addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

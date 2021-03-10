@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0265">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 21 November 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>25-26</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-11-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0267"/>
+                    <ref type="prev" target="ct0266"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><date>Nov<hi rend="superscript">r</hi> 21. 1779</date>
+                    <salute>Dear Sir</salute></opener>
+                <p>I beg my compliments to <persName ref="pe2013">M<hi rend="superscript">r</hi>
+                        Clerk</persName> &amp; shall be most happy to receive sketches of <placeName ref="pl0205">Inverlochy C.</placeName> or any places in that vast
+                    mountainous tract, <placeName ref="pl2227">Glenco</placeName>, or <placeName ref="pl0101">Taymouth</placeName>, for I had no draftsman in 1769.<note type="editorial">Pennant's comment is significant, revealing that his artist
+                        and servant Moses Griffith did not accompany him on his 1769 tour of
+                        Scotland.</note> They are not to engrave but to bind with my copy of the
+                    Tours; which I wish to do in Febr. if I can get the sketches.<note type="editorial">Pennant's six-volume set of extra-illustrated copies of his
+                            <hi rend="italic">Tours in Scotland</hi> are now held in the National Library Wales.</note></p>
+                <p>I shall be very glad of five or six copies of the <bibl type="authorial"><title ref="bi0028">Genera of birds</title></bibl>, which I really have a right to.
+                    if <persName ref="pe0026">White</persName> will not reprint them, money may be got by
+                    doing it in q<hi rend="superscript">to</hi> with a few plates.</p>
+                <p>I now remember <persName ref="pe0192">M<hi rend="superscript">r</hi> Elliot</persName>
+                    very well I beg my compliments to him &amp; wish to know where he begins with
+                    <bibl type="authorial"><title ref="bi0343">de Buffon</title></bibl> &amp; whether
+                    he means to give plates: or whether he has begun to print. I hope he means to
+                    leave out the anatomy in anything I can do I shall be glad to assist him. <add place="above">I long for his plan.</add> There are 3 volumes of <unclear reason="illegible">Kalsa</unclear>: I know not how to get you the 3<hi rend="superscript">d</hi> but you had best ask <persName ref="pe0104">M<hi rend="superscript">r</hi> Gough</persName> to do it. you forget to see
+                    if <persName ref="pe0157">M<hi rend="superscript">r</hi> Macgovans</persName> celt is
+                    gilt or not.</p>
+                <closer><salute>I am D<hi rend="superscript">r</hi> Sir Y<hi rend="superscript">rs</hi> most faithfully</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed></closer>
+
+                <postscript>
+                    <p>Have you got <persName ref="pe0058">M<hi rend="superscript">r</hi>
+                            Cordiner’s</persName>
+                        <rs ref="ar0236">plates</rs>?</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

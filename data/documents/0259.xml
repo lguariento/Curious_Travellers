@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0259">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton 2 July 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) ii</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>13</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1779-07-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0260"/>
+                    <ref type="prev" target="ct0258"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline>July 2<hi rend="superscript">d.</hi> 1779.</dateline>
+                    <salute>Dear Sir</salute></opener>
+                <p>I fear from the appearance of the times there will be no sort of hurry of
+                    offering <persName ref="pe0156">M<hi rend="superscript">r</hi> Low’s</persName>
+                    book to sale: for I much apprehend that the public can for many years to come
+                    attend only to the mere necessaries of life. but still we may try what we can do
+                    for I hate despondency. I inclose three plates for <persName ref="pe0058">M<hi rend="superscript">r</hi> Cordiners</persName>
+                    <rs ref="ar0236">works</rs> done in this neighborhood. those in <placeName ref="pl0699">London</placeName> are not quite ready; so these had best not
+                    shewen till all are come. with the latter will be two for <rs ref="ar0204">M<hi rend="superscript">r</hi> Low’s</rs> which may also be shewen.</p>
+                <p>If any feud prevents <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                        Low</persName> from dedicating to <persName ref="pe0132">Sir L.D.</persName>
+                    or any great Scotch patron, I shall not decline the honor.</p>
+                <p><persName ref="pe0104">M<hi rend="superscript">r</hi> Gough</persName> will take
+                    good care of everything.</p>
+                <closer><salute>adieu most sincerely y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>Mr Paton Custom <gap reason="damage" unit="words" atLeast="1"/></addrLine>
+                    </address></p>
+                <p><stamp type="postmark">5/IY</stamp></p>
+                <p><hi rend="superscript">FREE</hi><persName ref="pe0015">RMostyn</persName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

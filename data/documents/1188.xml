@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1188">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>55</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1795-09-29"/>
+                    <placeName ref="pl1013">Northcourt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl1013">Northcourt</placeName>. <placeName ref="pl1020">I. W.</placeName> September 29. 1795</dateline></opener>
+                <p>With a Franker at my elbow, and with a mind possess’d of your kind Attentions to me, it would be strange indeed, if I did not thank you as well as I am able, for your last two letters, and their contents; – with the specimens of Engravings I am delighted, and I should have known the Extracts from some treatise on Husbandry, were of your Pen, had I found them in any part of the Globe. The 
+                    Book itself I hope and trust will appear soon.<note type="editorial">This may refer to the lengthy section on husbandry included as the closing section of the 'History of Whiteford Parish' 
+                        in <hi rend="italic">HPWaH</hi>, pp. 157–71.</note> We very much rejoice to hear you are happily restor’d from any bad Effects which we had apprehended from such a fall as yours. I must confess that 
+                    <persName ref="pe0026">White le Pere</persName>, never appear’d in my eyes as a liberal minded man, but <persName ref="pe2024">the young man</persName> has the best character with those that know him best, the surest sign of merit. circumstanc’d as you now are with him, I am not so wrong headed, as to expect a 
+                    <bibl type="authorial"><title ref="bi0657">copy of what relates to our Island</title></bibl>, but, unlike the Fox in the fable, I think the Grapes the sweeter, for being out of my reach. You seem to me a very happy old cock with all your chickens playing round you; long, very long, may you enjoy one another. Stet fortuna domus.<note type="editorial">'Let the fortune of the house stand'.</note> – I shall have a good account of <placeName ref="pl0001">your place</placeName> from <persName ref="pe0379">Chiswell</persName>, and if <hi rend="underline">He</hi> liked it, it must be desirable indeed. We breathe nothing here but War, every town fill’d with Soldiers, and all the Sea cover’d with transports, and Ships of War. 
+                    there is an encampment near <placeName ref="pl1073">Southampton</placeName> consisting of 20,000 troops, most of whom are destin’d to yellow fevers in the <placeName ref="pl0704">West Indies</placeName>, and expected to Sail in three days. the Commerce de Marseilles<note type="editorial">A French ship captured 
+                        at the Siege of Toulon and added to the Royal Navy on 29 August 1793. See <ref type="http" target="http://collections.rmg.co.uk/collections/objects/110188.html">here</ref> [accessed 8 January 2019]; and see the report in the <hi rend="italic">Hereford Journal</hi>, 14 October 1795: 'His Majesty's ships Commerce de Marseilles, with 1000 troops on board, besides 500 seamen, and a great quantity of war-like stores and baggage, is sailed with the Alcmene frigate, and several transports for the West Indies'.</note>
+                    is fitted out as a Storeship to attend this Expedition, and with only 400 men, a circumstance which makes the knowing ones unwilling to think such a vast vessel secure. The <persName ref="pe0465">King</persName>,
+                    the <persName ref="pe0393">Prince of Wales</persName>, and the <persName ref="pe0949">Duke of York</persName> have been to review their Army, and <persName ref="pe0425">Lord Spencer</persName> is now at <placeName ref="pl1357">Portsmouth</placeName>,
+                    attending the equipment of the Fleet. We have had, in common with all <placeName ref="pl0775">England</placeName> a most Plentiful harvest, notwithstanding which, grain of every sort, more especially horse provander keeps its last summers price in our <placeName ref="pl1020">Island</placeName>.
+                    Hay is at £7. 12. 0 a load. Straw at £2 .6. 0.. Oats £1: 17. 0 a Quarter, I speak of Prime sorts of each. My <persName ref="pe0336">youngest daughter</persName> is quite otherwise than well; her usual spasmodic complaints having return’d with encreased violence. Quant à moi,<note type="editorial">'As for me'.</note>
+                    I am patch’d up for the present, and may continue so, till the cold weather comes. for these last ten weeks we have hardly seen a cloud.</p>
+                <closer>
+                    <salute>Our best of wishes attend you all at <placeName ref="pl0001">Downing</placeName>, and
+                        <lb/>I am, Dear Sir, yours with sincerity, &amp; truth</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

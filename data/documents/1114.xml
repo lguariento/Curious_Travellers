@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1114">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 85</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1790-10-25"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Octb<hi rend="superscript">r</hi> 25<hi rend="superscript">th</hi> 1790</dateline></opener>
+                <p>Your acceptable favor of Sept<hi rend="superscript">r</hi> 
+                    28<hi rend="superscript">th</hi><note type="editorial">See <ref target="1112.xml">1112</ref>.</note> arrived safe. &amp; 
+                    like all y<hi rend="superscript">r</hi> others was most acceptable. When the <persName ref="pe0389">wicked map maker</persName>
+                    will give us the map of <placeName ref="pl1471">Hampshire</placeName> I shall proceed on my <bibl type="authorial"><title ref="bi0269">Tour</title></bibl>,
+                    &amp; complete I hope, my design of amusing you with the account of y<hi rend="superscript">r</hi> delicious <placeName ref="pl1020">isle</placeName>.
+                    while you are on the spot Be pleased To make an enquiry of y<hi rend="superscript">r</hi> admirals (as the fittest men) whether there are any small 
+                    &amp; faithful prints of ships from the first rate to the cutter: these will be wanted to embellish <bibl type="authorial"><title ref="bi0269">our M.S</title></bibl>: 
+                    on my account, <del><gap unit="letters" quantity="5" reason="illegible"/></del> pray pick up <add place="above">from y<hi rend="superscript">r</hi> naval friends</add>
+                    what you can respecting the unpublished discoveries on the <placeName ref="pl1657">W. coast of america</placeName>,
+                    especially those which lead into the confirmation of <persName ref="pe1031">de Fonte</persName>'s &amp; <persName ref="pe1032">de Fuça</persName>'s 
+                    sounds or inland seas. I saw last spring a map by one <persName ref="pe0047">Duncan</persName> who had actually penetrated deep into the last, 
+                    &amp; proved that we have all been rash in our <del><gap unit="letters" quantity="5" reason="illegible"/></del>censure of those 
+                    <persName ref="pe1031 pe1032">two spaniards</persName>. the map did not belong to the friend who shewed it me so I could not borrow it. I must 
+                    try to get a sight of it again, to correct a passage in my <bibl type="authorial"><title ref="bi0027">arctic zoology</title></bibl>:
+                    The <bibl type="authorial"><title ref="bi0271">new edition of the London</title></bibl> for a while prevents the progress of that work; above 100 pages of 
+                    <bibl type="authorial"><title ref="bi0271">London</title></bibl>, are printed &amp; the whole will appear at or about Christmas. The affair is no longer secret. As soon as the 
+                    <bibl type="authorial"><title ref="bi0027">arctic zoology</title></bibl>. is printed <persName ref="pe0014">Moses</persName>
+                    will work on our copies:<note type="editorial">Since the first edition 
+                        of <hi rend="italic">Arctic zoology</hi> had appeared in 1784–5, it is possible that Pennant refers here to the early stages of publishing 
+                        the <bibl type="authorial">second edition<title ref="bi0023"/></bibl>.</note> at present <persName ref="pe0332">M<hi rend="superscript">r</hi> Storer</persName> engrosses him for 
+                    <bibl type="authorial"><title ref="bi0032">the journey London</title></bibl>. I am very much obliged to <persName ref="pe0436">Sir Rich<hi rend="superscript">d</hi> Worsely</persName>
+                    for his liberality. &amp; request you to deliver my best thanks. I am glad to hear of the discovery 
+                    at <persName ref="pe0386">Sir G. Cornwal</persName>'s.*<note type="authorial">He alludes to the <rs type="art" ref="ar0168">picture of 
+                        Lord Fanhope</rs>, of which <persName ref="pe0397">Lord Malmesbury</persName>
+                        procur'd me a faithfull Copy. <persName ref="pe0313">R.B.</persName></note></p>
+                <p>I do not love reasoning Admirals: If they dislike the service <del><gap unit="letters" quantity="1" reason="illegible"/></del>Let
+                    them retire &amp; growl in private, &amp; not infect the whole <del>service</del>navy with discontents productive perhaps of another 
+                    27<hi rend="superscript">th</hi> of July.<note type="editorial">The Anglo-French naval crisis of 1778 produced an indecisive battle between French and British fleets off the island of Ushant on 27 July.</note>
+                    As to me I cannot make up my mind about this war:<note type="editorial">This may refer to the Third Anglo-Mysore War (1790–2), which involved the Kingdom of Mysore in southern India and the East India Company.</note>
+                    but let the cause be <del><gap unit="letters" quantity="2" reason="illegible"/>is</del>what it will, since we <del>must</del>are
+                    plunged into it, it is the duty of every good man to contribute all his might to get us well &amp; honorably out of the affair. The 
+                    25<hi rend="superscript">th</hi> of november<note type="editorial">The seventeenth Parliament of Great Britain, led by William Pitt the younger, was summoned on 12 June 1790 but its opening session was prorogued until 25 November that year. <hi rend="italic">Hist P</hi>.</note>
+                    will open the scene; &amp; think we may <add place="above">then</add> judge with impartiality on matters which are now enveloped in darkness.</p>
+                <closer>
+                    <salute>adieu
+                        <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant.</persName></signed>
+                </closer>
+                <postscript>
+                    <p>I inclose what a partial friend sent to me it is designed for a magazine. you may paste it in <bibl type="authorial"><title ref="bi0179">my opuscula</title></bibl></p>
+                    <p>I beg y<hi rend="superscript">r</hi> opinion of the <rs type="art" ref="ar0173">prints of Cranmer</rs>: whether that with or without the beard is 
+                        authentic.<note type="editorial">Richard Bull's answer follows in his hand immediately after the 
+                            question.</note>The <rs type="art" ref="ar0174">head ingraved by <persName ref="pe0433">Virtue</persName> from
+                            <persName ref="pe0401">Holbein</persName></rs>, or that 
+                        in <persName ref="pe1039">Thoroton</persName>'s <bibl type="authorial"><title ref="bi0736">notinghamshire</title></bibl>,<note type="editorial">See <rs type="art" ref="ar0305">Thomas Cranmer</rs>.</note> are reckon’d the most authentic, but there is one in the <bibl type="authorial"><title ref="bi0180">Herologia</title></bibl>
+                        which I dare say is authentic, because <del>they were all</del> the prints in general in that publication, are suppos’d to be taken from original pictures.
+                        <persName ref="pe0313">R.B.</persName> -/</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine/>
+                        <addrLine/>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

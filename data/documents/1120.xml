@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1120">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>27</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1791-02-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir,</salute></opener>
+                <p>If I answer any part of your two last letters herein, it must be en abregé,<note type="editorial">'in brief'.</note> for this goes merely to desire you would send me a list 
+                    of the particular prints, which you are just now in want of, many of which, I dare believe, I can furnish you with, myself. I have 
+                    <rs type="art" ref="ar0190">Andrea Doria</rs>, and some of the Spanish monarchs, but you don’t 
+                    specifie those you want, nor which of the <rs type="art" ref="ar0191">Sebastians of Portugal</rs> you have occasion 
+                    for.<note type="editorial">Pennant enquires about 'Sebastian King of Portugal' and  'any of the Philips of spain' in <ref target="1118.xml">1118</ref>. The 
+                        identity of the Portuguese Sebastian who interested him is clear from the evidence of <ref target="1121.xml">1121</ref>. For Spanish monarchs, 
+                        see <rs type="art" ref="ar0193">Philip of Spain</rs>.</note> If you 
+                    have taken a Catalogue of your present wants, send it me, and I warrant I will soon supply some of them, prints relative to 
+                    <placeName ref="pl0699">London</placeName> excepted, which you have render’d scarce, and I am afraid, without having first serv’d yourself.
+                    <persName ref="pe1533">M<hi rend="superscript">r</hi> Lysons</persName> is preparing for the press 
+                    a <bibl type="authorial"><title ref="bi0114">Discription of the Country twelve miles round 
+                        London</title></bibl>, which <persName ref="pe0434">M<hi rend="superscript">r</hi>: Walpole</persName> seems to have a good
+                    opinion of, and I imagine that particular distance is mark’d out to him, in order to take in <placeName ref="pl1501">Strawberry Hill</placeName>.
+                    I imagine the woody Country you saw from <placeName ref="pl1703">Port Down</placeName>, if you mean on the north, and north East, must be the 
+                    <placeName ref="pl1704">Forest of Waltham</placeName>, belonging to the Bishoprick of <placeName ref="pl1280">Winchester</placeName>, in which
+                    I believe there is little Ship timber. I was all over it last Summer, and observ’d <del>old</del> the old trees were stag headed, and past their Prime. 
+                    <persName ref="pe0412">M<hi rend="superscript">r</hi> Minchin</persName>, a friend of mine, living in the neighborhood, will give me a better information 
+                    than I now send you, and which I will ask him for the first time we meet. This the way to the <persName ref="pe1080">late member for the county</persName>, and owner of 
+                        <placeName ref="pl1705">Southwick House</placeName> <hi rend="underline">just under <placeName ref="pl1703">Port Down</placeName></hi>,
+                    has vast woods about him, and well timber’d, and I believe adjoining to the <placeName ref="pl1704">forest of Waltham</placeName>. I hope you view’d 
+                    <placeName ref="pl1705">Southwick house</placeName>, famous for many things, in the last century, which you are better inform’d of than I am – tis a vast 
+                    house, and so it needed to be for the entertainment of a whole Court. – I have sought in vain for a dutch
+                    <bibl type="authorial"><title ref="bi0118">Montfaucon</title></bibl>,
+                    but <persName ref="pe0327">Robson</persName>'s <persName ref="pe1081">foreman</persName> gives me hopes he can find a copy, tho’ possibly he will
+                    think no more about it – I shall continue to enquire for it. First Rates are built at <placeName ref="pl1357">Portsmouth</placeName>, 
+                    so I shall preserve my Ship prints for that place.<note>For this discussion of prints of ships, see <ref target="1119.xml">1119</ref>, n. 1.</note></p>
+                <p>I feel myself extremely in your debt for the M.S. last sent me,<note type="editorial">The manuscript mentioned here has not been identified. It appears to relate to natural history, in view of Bull's description of his intentions for its extra-illustration.</note> which I have read over with much 
+                    satisfaction, and shall ornament it as well as I am able. The Frontispiece by <persName ref="pe0014">Moses</persName>, is beautiful, and I only lament 
+                    he did <add place="above">not</add> insert, on my account, some of the plants, birds, fishes, and Fossils, in which he is particularly excellent, and 
+                    which are very pleasing, and interesting in a work of that sort. If I can’t get the M.S. clean <add place="above">which I am perswaded is easily done</add> 
+                    I will have it copied. the writing is as good as can be wish’d, and tho there are many little errors, I can easily correct them myself. one thing however 
+                    I must enquire from you. were there two <hi rend="underline">Virtuoso</hi> <rs type="art" ref="ar0137">Earls of Arundel</rs>, or does your M.S. allude to 
+                    <persName ref="pe1082">Earl Thomas Howard</persName> the husband of <persName ref="pe1083">Aletheia Talbot</persName>, if so, You 
+                    and <bibl type="authorial"><title ref="bi0323">Granger</title></bibl>
+                    differ in the time of his death, you give it, June 15.  1614. – <bibl type="authorial"><title ref="bi0323">Granger</title></bibl> says Sep<hi rend="superscript">r</hi>. 14. 1646.<note type="editorial">Granger, <hi rend="italic">A biographical history of England</hi>, II, p. 350, gives the date of the death of Thomas Howard, earl of Arundel, as 14 September 1646, as reported here by Bull. The location of Pennant's reference to Howard's death is uncertain and appears to have occurred in the manuscript discussed by Bull here.</note> I am glad to hear the 
+                    <bibl type="authorial"><title ref="bi0269">suite of the Dover journey</title></bibl> is doing for me. I am straighten’d for time, and must defer answering the remaining parts
+                    of your letter, till two or three posts hence, and in the mean time I will enquire about <placeName ref="pl1704">Waltham forest</placeName> <add place="above">&amp; the <persName ref="pe1084">Waltham blacks</persName></add>
+                    – but dont let me forget herein to thank you for your kind order upon <persName ref="pe0328">Faulder</persName>, who has got your note, and will supply me with the additional 
+                    pages. I have recover’d my health, but my hearing, and of course my Spirits are at a very low ebb indeed. – I see no body to tell me news, 
+                    my daughters<note type="editorial"><persName ref="pe0331">Elizabeth</persName> and <persName ref="pe0336">Catherine Bull</persName>.</note> brought home a report last night, that the <persName ref="pe0418">Duke of Orleans</persName>
+                    was kill’d at <placeName ref="pl1023">Paris</placeName>. I <hi rend="underline">doubt</hi> it is <hi rend="underline">not</hi> true. A Coalition of parties is talk’d of, 
+                    &amp; that <persName ref="pe0484">M<hi rend="superscript">r</hi> Fox</persName>, and the <persName ref="pe1085">Duke of Norfolk</persName> will act with 
+                    <persName ref="pe0500">M<hi rend="superscript">r</hi> Pitt</persName> e’er long.</p>
+                <closer>
+                    <salute>I am, in much haste, my Dear Sir
+                        <lb/>Always Yours</salute>
+                    <signed><persName ref="pe0313">R. B.</persName> - </signed>
+                    <dateline>11<hi rend="superscript">th</hi> Feb<hi rend="superscript">y</hi>: 1791. -</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

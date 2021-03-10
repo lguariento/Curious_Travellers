@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1117">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>26</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Endorsement on top of first page in Thomas Pennant's hand</hi>: <hi rend="underline">Answ<hi rend="superscript">d</hi></hi></p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1791-01-21"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName>, <del>Nov<hi rend="superscript">r</hi></del> Jan<hi rend="superscript">y</hi>: 21.1791</dateline></opener>
+                <p>My Rheumatic hand, I hope, will serve me to tell you, that I have sent the Set of Shipping<note type="editorial">See <ref target="1116.xml">1116</ref>, n. 2.</note> to <persName ref="pe0328">Faulder</persName>'s,
+                    who says he has a parcell to remit to you, with a Specimen of a very elegant work, now in course of publication, tending to illustrate
+                    your <bibl type="authorial"><title ref="bi0039">history of London</title></bibl>, and which, if my wretched Ears did not deceive me, I understood 
+                    the Editors mean to present you with a copy of, upon large paper.<note type="editorial">This may refer 
+                        to <bibl type="authorial"><title ref="bi0114">The environs of London</title></bibl>. It was edited 
+                        by <persName ref="pe1533">Daniel Lysons</persName>, while his brother 
+                        <persName ref="pe1534">Samuel</persName> contributed many of the illustrations, as both artist and etcher. The 
+                        first of four volumes appeared in 1792, but it is quite possible that this had initially been published in parts, as indicated 
+                        here.<hi rend="italic">ODNB</hi>.</note> one number only is yet publish’d and proposed to be continued at 5 shillings 
+                    each number, on small paper, which I shall prefer for my own use, because it is just the size of your London,<note type="editorial">Bull probably refers here to the 
+                        <bibl type="authorial"><title ref="bi0271">second edition</title></bibl> of Pennant's work on London, which Pennant had been advocating for the purposes of extra-illustration at the expense 
+                        of the <bibl type="authorial"><title ref="bi0039">first edition</title></bibl> for some time. See <ref target="1109.xml">1109</ref>, <ref target="1110.xml">1110</ref>, <ref target="1111.xml">1111</ref>, <ref target="1114.xml">1114</ref>.</note>
+                    and I shall bind them together. but perhaps I am talking to you, about what you know much better than I do, who am just risen from the dead, in a manner, 
+                    and am ignorant of every thing that has passed for the last six weeks. – the weather makes much against an invalid, and this is the second day I have been 
+                    sufficiently well to go out, even in my Carriage, else I should have procur’d the ships I promiss’d You, before now.</p>
+                <p>I shall be very glad of <persName ref="pe0014">Moses</persName>'s pencil, to proceed in ornamenting the margins of <del>my</del> the Zoological part of my 
+                    <bibl type="authorial"><title ref="bi0022">Arctic Zoology</title></bibl>, with Birds, beasts, fishes, &amp; all kind of animals, in which line I think he
+                    shines with particular elegance, and a peculiar manner of his own, and unrival’d by any body. If he has any views to add, he will insert them of course in
+                    their proper places. I will beg you to remember to inform me soon, whether I shall send <persName ref="pe0014">Moses</persName> my copy of the 
+                    <bibl type="authorial"><title ref="bi0022">Arctic Zoology</title></bibl> to proceed upon accordingly, and how send it, and how direct it to him, whether 
+                    at <placeName ref="pl0001">your house</placeName>, or his own. I am very sorry to find He can do nothing towards illuminating <hi rend="underline">my</hi>
+                    <bibl type="authorial"><title ref="bi0268"><add place="above">Journey from</add> London <add place="above">to Dover.</add></title></bibl> - - - I shall
+                    miss his pencil in every page. I have got your <bibl type="authorial"><title ref="bi0041">Litterary Life</title></bibl>, for which I am desirous of 
+                    thanking you as well as I am able, but I hope you will allow me to pay the <persName ref="pe0404">transcriber</persName>. Many a mawkish hour of sickness 
+                    has of late been alleviated by the <bibl type="authorial"><title ref="bi0012">welch tour</title></bibl>, and <bibl type="authorial"><title ref="bi0032">journey to London</title></bibl>,
+                    which at last are <hi rend="underline">ready</hi> for the binder, I had better have said <hi rend="underline">unready</hi> for there are many desiderata to 
+                    come, but I have turned the Volumes over so often, that they are daub’d sadly; and I wish to get them safely cover’d at any rate. Can you tell me, where I 
+                    can possibly procure <hi rend="underline">two title plates</hi> of your <bibl type="authorial"><title ref="bi0032">journey from Chester to London</title></bibl>,
+                    because I make three Volumes of that work. I should wish for them upon large paper, but can make a good shift with small.</p>
+                <p>You gave me, sometime last spring, two neat etchings, one the <rs type="art" ref="ar0175">Church of S<hi rend="superscript">t</hi>. Margarets near Lincoln Cathadral</rs>,
+                    the other <rs type="art" ref="ar0176">Mapleton Church near Ashbourn Derbyshire</rs>. pray remember in your next to say whether they are private etchings, 
+                    and if so, by whom, and I also wish to know whether they have reference to any work of yours.</p>
+                <p>pray have the goodness to ask <persName ref="pe0014">Moses</persName>, if he has any drawings of any kind, which refer to any part of your 
+                    <bibl type="authorial"><title ref="bi0012">tour in Wales</title></bibl>, or <bibl type="authorial"><title ref="bi0032">journey to Lond</title></bibl>,
+                    which are not <hi rend="underline">too large to paste onto the Margins of my Volumes, and which I have not already had</hi>, 
+                    and if he can find any, that I shall be very glad to have copies upon thin paper. He <del>knows</del> knows, most likely, what I have already had, if not I can send him a list, without much trouble. 
+                    <persName ref="pe0328">Faulder</persName> says, the <bibl type="authorial"><title ref="bi0271">2<hi rend="superscript">d</hi> Edition of London</title></bibl>
+                    goes off, as well as the <bibl type="authorial"><title ref="bi0039">first</title></bibl>. it is in every bodies hands, and extremely well spoken of. I write 
+                    with pain, and I am afraid illegibly.</p>
+                <closer>
+                    <salute>I am always yours, my worthy friend, and always
+                        <lb/>with truth – </salute>
+                    <signed><persName ref="pe0313">R. B. -</persName></signed>
+                </closer>
+                <postscript>
+                    <p>There is a talk to day, that the <persName ref="pe1048">Chancellor</persName> is to resign, with a large pension,
+                        and that <persName ref="pe1049">Baron Eyre</persName> is to be a peer, and Chancellor, but not to be speaker of the 
+                        House of Lords, which is to be given to <persName ref="pe1050">Lord Grenville</persName>.<note type="editorial">Grenville's likely appointment as Speaker of the Lords was, bewilderingly, reported in the <hi rend="italic">Chelmsford Chronicle</hi> on 3 December 1790, immediately beneath the report that Sir James Eyre was spoken of for the same title.</note>
+                        – I don’t give it you as truth. –</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

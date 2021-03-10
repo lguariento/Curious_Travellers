@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1305">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Treadway Russell Nash to Thomas Pennant, 25 July 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>15423C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc><additions><lb/><hi rend="italic">Condition</hi>: a small section alongside the left hand margin of the final page is damaged</additions>
+                    </physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent"><persName ref="pe0416">Treadway Russell Nash</persName>
+                    <date when="1777-07-25">25 July 1777</date>
+                    <placeName ref="pl1290">Bevere</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001"/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1306"/>
+                    <ref type="prev" target="ct1304"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl1290">Bevere</placeName> July 25. 1777.</dateline>
+                    <salute>Dear S<hi rend="superscript">r</hi></salute></opener>
+                
+                <p>Having been a ramble in <placeName ref="pl1291">Oxfordshire</placeName>, &amp; that neighbourhood, I was not favoured with your 
+                    letter so soon as I ought to have been, [<del>...</del>] which I hope you will accept as an Excuse for my delay: I wish you had 
+                    given me some further Account of Your Excursion, I trust it was not an 
+                    <bibl type="authorial"><title ref="bi0603">Iter Sabrinum</title></bibl> or I should have seen you, if 
+                    <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName> does not attend you in that Expedition further than 
+                    <placeName ref="pl0806">Worcester</placeName>, my <persName ref="pe0729">wife</persName> would be very happy to wait upon her at 
+                    <placeName ref="pl1290">Bevere</placeName> while you continue your Tour: If you have been <add place="above">at</add> 
+                    <placeName ref="pl0692">Harrowgate</placeName> on your <persName ref="pe0065">Sons</persName> Account, I hope it has perfectly 
+                    answered all your Wishes:<note type="editorial">A visit to Harrowgate, county Durham, in May 1777 was apparently prompted by ill-health 
+                        in Pennant's family. See Pennant's posthumously published <hi rend="italic">A Tour from Alston Moor to Harrowgate and Brimham Crags</hi> 
+                        (1804), p. 111; and for a further reference, <ref target="1379.xml">1379</ref>.</note> If you continue at <placeName ref="pl0001">Downing</placeName> &amp; the Weather is fine, we threaten 
+                    you with a Visit. </p>
+                
+                <p><bibl type="authorial">Worcestershire<title ref="bi0601"/></bibl> goes on fair &amp; softly, I have now employed 
+                    <persName ref="pe0732">Paine</persName> <persName ref="pe0026">M<hi rend="superscript">r</hi> White</persName>'s 
+                    <del>Painter</del> Partner to get the Plates rolled off, but I have not yet determined whether I shall print at 
+                    <placeName ref="pl0806">Worcester</placeName>, <placeName ref="pl1293">Birmingham</placeName> or 
+                    <placeName ref="pl0699">London</placeName>.</p>
+                
+                <p>As to your friend <persName ref="pe0495">Glendwr</persName> I cannot give you much certain Intelligence: Something of his 
+                    Pedegree I think I saw at <persName ref="pe0733">Miss Moningtons</persName>, &amp; believe you have seen it likewise, I took 
+                    some Minutes, but cannot now find them.<note type="editorial">According to a contemporary poet, Iolo Goch, Owain Glyndwr was 
+                        descended from Bleddyn ap Cynfyn, prince of Powys, on the paternal side, and from Rhys ap Tewdwr, prince of Deheubarth, on
+                        his mother's side. <hi rend="italic">ODNB</hi>. For Pennant's comments on Glyndwr's descent, see 
+                        <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), I, p. 302.</note> </p>
+                <p><placeName ref="pl0806">Worcester</placeName> seems to have been the entrance into <placeName ref="pl0731">Wales</placeName> 
+                    when <persName ref="pe0667">Henry</persName> determined in person to attack <persName ref="pe0495">Glendwr</persName>, he issued 
+                    orders for the forces to meet him there (1401.)<note type="editorial">Henry IV's army started from Worcester on a campaign into south Wales 
+                        in October 1401, reaching Strata Florida in Cardiganshire. See Brough, <hi rend="italic">The Rise and Fall of Owain Glyn Dŵr</hi>, pp. 45–6; 
+                        and Pennant, <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), I, pp. 320-1, where the expedition is dated to the beginning of June.</note> 
+                    In 1405 when he was beat by <persName ref="pe0495">Glendwr</persName> he 
+                    retired to <placeName ref="pl0806">Worcester</placeName>, from thence he issued Orders for the <sic>defense</sic> of the Welch 
+                    Castles.<note type="editorial">On Henry IV's retreat to Worcester following a 1405 expedition into Wales, 
+                        marred by poor weather, see <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), I, p. 347.</note></p>
+                <p>After the French had landed at <placeName ref="pl1294">Milford Haven</placeName>
+                    &amp; marched through <placeName ref="pl0731">Wales</placeName> they came to
+                        <placeName ref="pl0806">Worcester</placeName>,<note type="editorial">See
+                        further <ref target="1304.xml">1304</ref>.</note> upon the <persName ref="pe0667">Kings</persName>
+                    Approach (we read) that they posted themselves on a high hill about 3 leagues
+                    from the town which Tradition informs us is <placeName ref="pl1288">Wobury
+                        Hill</placeName> in the Parish of <placeName ref="pl1286">Great
+                        Whitley</placeName> about 9 miles off. where probably by the name was an old
+                    Entrenchment. The Camp is surrounded by a single Ditch including about 27 Acres
+                    of Ground: On the other side the <placeName ref="pl1226">River</placeName> are
+                    two more Camps one in <placeName ref="pl1295">Wasal Wood</placeName> in the
+                    Parish of <placeName ref="pl1285">Kiderminster</placeName> about 8 miles from
+                        <placeName ref="pl1288">Wobury</placeName> the other at <placeName ref="pl1283">Kin[<unclear>...</unclear>]r Edge</placeName> about 11 miles
+                    from <persName ref="pe0495">Glendwr</persName>'s Camp, they lye in the Road from
+                    the North.<note type="editorial">Further on these camps in the Worcester area, see <ref target="1306.xml">1306</ref>.</note> Q<hi rend="superscript">e</hi> Whether the <persName ref="pe0667">King</persName> could occupy these Camps?</p>
+                
+                <p><persName ref="pe0729">M<hi rend="superscript">rs</hi>. Nash</persName> &amp; my <persName ref="pe0730">Daughter</persName> beg you will make 
+                    their <sic>their</sic> Compl<hi rend="superscript">s</hi>. acceptable to <persName ref="pe0238">M<hi rend="superscript">rs</hi>. Pennant</persName> 
+                    &amp; believe me to be</p>
+                
+                <closer><salute>Your most obedient &amp;<lb/>
+                    obliged humble Servant 
+                </salute>
+                    <signed><persName ref="pe0416">T. Nash</persName></signed>
+                   
+                    <dateline/></closer>
+                <postscript><p>P.S<lb/>
+                    Is there any thing curious in M<hi rend="superscript">r</hi> Price's History of the Lords Marchers<note type="editorial">
+                        
+                        'M<hi rend="superscript">r</hi> Price' may be a reference to John Price (1734–1813), head librarian at the Bodleian 
+                        library in Oxford from 1768 until his death. See <hi rend="italic">DWB</hi>. If so, he is probably mistakenly identified 
+                        with <bibl type="authorial"><title ref="bi0698">A concise history of the
+                            Lords Marchers</title></bibl>, published within a larger work by Nicholas Owen in 1777.</note> Pray tell me the Extent of 
+                    the <placeName ref="pl1296">Marches</placeName>, &amp; how much of <placeName ref="pl1284">Worcestershire</placeName> was 
+                    included. At <placeName ref="pl1292">Bewdley</placeName> the <placeName ref="pl1226">Severn</placeName> was the Boundary
+                </p></postscript>
+                
+            </div>
+            <div>
+                <p>
+                    <stamp type="handstamp"><placeName ref="pl0806">WORCESTER</placeName></stamp>
+                </p>
+                <p>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

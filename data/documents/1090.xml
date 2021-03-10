@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1090">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 146</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date>[1789]<note>The dating is based on the reference in the body of the letter to the death of Thomas Hunt.</note></date>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref=""/>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> oct<hi rend="superscript">r</hi> 31. – 98. but Q<note type="editorial">The year '98' is added with a 'Q' denoting uncertainty in Richard Bull's hand.</note></dateline></opener>
+                <p>At <persName ref="pe0014">Moses</persName>'s desire I inclose his bill. he says it may appear large: but hopes 
+                    <del><gap unit="letters" quantity="2" reason="illegible"/></del>when You see his work, it will not appear extravagant. 
+                    I will pay him all or part as you direct.</p>
+                <p>I am <del><gap unit="letters" quantity="4" reason="illegible"/></del> but in poor <del><gap unit="letters" quantity="4" reason="illegible"/></del>
+                    spirits by the loss of my friends, since I wrote last. <persName ref="pe0284">Tom Hunt</persName> a true &amp; constant
+                    friend of forty years standing went off rather suddenly three weeks ago. yesterday I heard of the death of 
+                    M<hi rend="superscript">r</hi> H<del><gap unit="letters" quantity="1" reason="illegible"/></del><gap unit="letters" quantity="1" reason="illegible"/>son
+                    another respected friend.<note type="editorial">This friend, probably of the name of Hudson, has not been identified.</note> <placeName ref="pl0699">London</placeName> goes more &amp; more empty to me every time I visit it. 
+                    my own turn ought to be thought of!</p>
+                <p>In the neighborhood of <placeName ref="pl0761">Wynnstay</placeName> where I have lately been I heard of a sad reverse in that luxurious house the family reduced to two maid
+                    serv<hi rend="superscript">ts</hi> in the house: &amp; two laborers in the grounds &amp; gardens.<note type="editorial">On financial difficulties at Wynnstay in 1787, see <ref target="1088.xml">1088</ref>.</note>
+                    The very hops &amp; poultry sold: even to a single Pheasent &amp; single Guinea hen. M<hi rend="superscript">r</hi> H<gap unit="letters" quantity="1" reason="illegible"/>
+                    I dare say died very rich. he lived handsomely but with great prudence. his family will demand some of his wealth for he left I think twelve children. </p>
+                <closer>
+                    <salute>I conclude with my best wishes &amp; assurances of being
+                        <lb/>Dear Sir
+                        <lb/>Y<hi rend="superscript">r</hi>affect friend</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline><placeName ref=""/></dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

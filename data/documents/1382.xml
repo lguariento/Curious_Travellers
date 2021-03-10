@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1382">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Lloyd, Caerwys, to Thomas Pennant, 22 November 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>12716E</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 7</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0333">John Lloyd</persName>
+                    <date when="1777-11-22"/>
+                    <placeName ref="pl1201">Caerwys</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1383"/>
+                    <ref type="prev" target="ct1381"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl1201">Caerwys</placeName> Nov<hi rend="superscript">br</hi>. 22: 1777 –</dateline>
+                    <salute>D<hi rend="superscript">r</hi>
+                        Sir</salute></opener>
+                
+                <p>I believe now that my Suspicions were groundless in respect to the Lady that
+                    Built <placeName ref="pl1316">Overton Bridge</placeName>.<note type="editorial">'This bridge 
+                        consists of two neat arches, and was first built of stone by the munificence of 
+                        Gwenhwyvar, daughter of Jerwerth Ddu of Pengwern, near Llangollen; a maiden lady 
+                        who resided at Eyton with her sister Margaret, who was married to Madoc ap Evan Eyton*. 
+                        [footnote: *Eyton Pedigree].' <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), I, p. 226.</note> I find in my Extract
+                    of <bibl type="authorial"><title ref="bi0605">Mr Eyton’s Book</title></bibl>,
+                    that <persName ref="pe0754">Madoc ap Ievan <add place="above">Eyton</add></persName> &amp;c married <persName ref="pe0755">Margaret</persName> daughter of <persName ref="pe0756">Iorwerth
+                        Ddu</persName> of <placeName ref="pl1317">Pengwern</placeName> in <placeName ref="pl1259">Nanheudy</placeName> Esqr And that “<persName ref="pe0757">Gwenhwyvar</persName> her Sister living with her at <placeName ref="pl1320">Eyton</placeName> caused <placeName ref="pl1316">Overton
+                        Bridge</placeName> to be first built of stone at her own proper Costs” saith
+                    <persName ref="pe0758">Rob<hi rend="superscript">t</hi> Vaughan</persName> of
+                    <placeName ref="pl1318">Hengwrt</placeName>” &amp;c –<note type="editorial">It is not clear from which of Robert Vaughan’s works Lloyd quotes.</note> In another Extract I find. –
+                    “<persName ref="pe0633">Madoc ap Meredydd</persName> 
+                    Prince of 
+                    <placeName ref="pl1215"><add place="above">Powys</add> Vadoc</placeName> 
+                    &amp; Lord of
+                    <placeName ref="pl1319">Overton Madoc</placeName>, 
+                    from whom that Town hath the adjunct of Madoc ever Since”
+                    &amp;c – You find that <placeName ref="pl1215">Powys Vadoc</placeName> &amp; <placeName ref="pl1319">
+                        Overton Madoc</placeName>, owe that addition to their name to the same <persName ref="pe0633">Prince</persName>,
+                    you will find the <add place="above">same</add>
+                    account, I believe, in Leland.<note type="editorial">Pennant reports of the castle at 
+                        Overton that 'Tradition says, that it had been the residence of
+                        Madoc ap Meredydd prince of Powys and lord of Overton; from which the place received the addition of 
+                        Madoc'. <hi rend="italic">A tour in Wales 1770 [1773]</hi> (1778), I, p. 227. Madog ap Maredudd (d. 1160), 
+                        succeeded his father Bleddyn ap Cynfyn as king of Powys in 1132. 
+                        Leland's work was published by Thomas Hearne, as <bibl type="editorial"><title ref="bi0699"><hi rend="italic">The itinerary of John Leland the Antiquary</hi> 
+                        </title></bibl> (Oxford, 1710–12).</note> – I am with best Respects 
+                    to <persName ref="pe0238">Mrs Pennant</persName> &amp;<hi rend="superscript">c</hi></p> 
+                <closer><salute>your very Humble Sert &amp;c</salute>
+                    <signed><persName ref="pe0333">John Lloyd</persName></signed></closer>
+            </div>
+            <div>
+                <p><address>
+                    <addrLine><persName ref="pe0232">Thomas Pennant Esq<hi rend="superscript">r</hi></persName> | 
+                        <placeName ref="pl0001">Downing</placeName></addrLine>
+                    <addrLine>[<hi rend="italic">in a different ink</hi>:] car: paid</addrLine>
+
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

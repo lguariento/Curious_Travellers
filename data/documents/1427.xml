@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1427">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Jones to Thomas Pennant, 23 April 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR 2017 /TP169</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>item 4</locus></ab>
+                    </msContents>
+                    <physDesc><additions><p><hi rend="italic">Endorsement (in Thomas Pennant's hand)</hi>: 
+                        <persName ref="pe0322">M<hi rend="superscript">r</hi> Jones</persName> of <placeName ref="pl0762"><hi rend="underline">Jesus</hi></placeName></p>
+                        <p><hi rend="italic">(in John Jones's hand)</hi>: several lines of tablature from the <bibl type="authorial"><title ref="bi0707">Robert ap Huw manuscript</title></bibl></p></additions></physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0322">John Jones</persName>
+                    <placeName ref="pl1347">Oxford</placeName>
+                    <date when="1777-04-23">23 April 1777</date>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl3040">George Street</placeName>
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1428"/>
+                    <ref type="prev" target="ct1426"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Sir</salute>
+                <dateline><placeName ref="pl1347">Oxford</placeName> 23 April 1777</dateline></opener>
+                
+                <p>I was favoured with your Letter last night on my Return here. I am sorry that I did not happen to be in the way 
+                when it arrived to return you an immediate Answer.</p>
+                
+                <p>The Paper which <persName ref="pe0598">M<hi rend="superscript">r</hi> Barrington</persName> put into your Hands is an 
+                    Extract out of a MS of <persName ref="pe2126">M<hi rend="superscript">r</hi> J Price</persName> <placeName ref="pl1553">Bodley</placeName> 
+                    Librarian, and you have his hearty concurrence to make what use you please of it. I claim no Property in it, neither have 
+                    I any Intention of making any further Use of it, it is therefore entirely at your Service. <persName ref="pe0216">M<hi rend="superscript">r</hi> Morris</persName> 
+                    of the <placeName ref="pl3043">Navy Office</placeName> informs me that it was published last Century by <persName ref="pe2128">John Rhydderch</persName> in his 
+                    <bibl type="authorial"><title ref="bi0709">Welch Grammar</title></bibl>.<note type="editorial">Jones may be referring to the classification of the letters 
+                        ('Dosparthiad y Llythrennau') associated with the name of Edern (or Edeyrn) Dafod Aur, a copy of which was included in the Red Book of Hergest at the
+                        Bodleian Library. See Roderick, <hi rend="italic">Grammadeg Cymraeg</hi> (1728), pp. 39–46; and John Morris Jones, ‘Dosbarth Edern Dafod Aur’, <hi rend="italic">THSC</hi> (1923–4), 1–28. 
+                        The claim that Roderick's 
+                        <hi rend="italic">Grammar</hi> had been published 
+                    in the previous century is clearly erroneous.</note> I beg you will accept of my sincere thanks for the Assistance which you so obligingly offer me. I have 
+                    nothing simlar to your Plan in View and therefore I will at all Times give you any Information in my Power with the greatest Pleasure. My Leisure 
+                    Hours are chiefly employed about a <bibl type="authorial"><title ref="bi0707">MS of old British Musick</title></bibl> belonging to <persName ref="pe0216">M<hi rend="superscript">r</hi> Morris</persName> above mentioned which 
+                    <persName ref="pe0598">M<hi rend="superscript">r</hi> Barrington</persName> very obligingly has been at the Pains to procure me the use of, for sometime. As it is written in a manner 
+                    which seems to be peculiar to the Britains the Decyphering of it is attended with no small Difficulty. If any thing relative to that Subject falls 
+                    in your way, I shall take it as a particular Favour, if you will be so obliging as to communicate it to me.
+                </p>
+                <p>I have sent you a specimen of the Musick in the MS. on the opposite Page that in Case you meet with any thing similar to it, it may not escape your Notice. 
+                    <persName ref="pe2126">M<hi rend="superscript">r</hi> Price</persName> desires his best Respects to you. <persName ref="pe2130">M<hi rend="superscript">r</hi> Fletcher</persName>
+                    gives him great Hopes that the Drawings sent to <persName ref="pe2129">M<hi rend="superscript">r</hi> Rivington</persName> will be recovered. I wish you 
+                all possible Success in your Undertaking and am with great Esteem</p>
+                <closer><salute>Sir<lb/>
+                    your most obliged humble Servant
+                </salute>
+                    <signed><persName ref="pe0322">John Jones</persName></signed></closer>
+                
+            </div>
+            <div><p><stamp type="postmark">24 AP</stamp>
+            <stamp type="handstamp">OXFORD</stamp></p>
+                <p><address><addrLine><persName ref="pe0232">Thomas Pennant Esq<hi rend="superscript">r</hi></persName><lb/>
+                at <persName ref="pe2131">M<hi rend="superscript">r</hi> Gray</persName>'s <placeName ref="pl3040">George Street</placeName><lb/>
+                <placeName ref="pl1862">Hanover Square</placeName><lb/>
+                <placeName ref="pl0699">London</placeName></addrLine></address></p></div>
+            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0200">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, thanking him for a book and mentioning a
+                    visit from the Forsters</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>143-144</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-12-03"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0201"/>
+                    <ref type="prev" target="ct0199"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> Dec<hi rend="superscript">r.</hi> 3<hi rend="superscript">d.</hi> 1775.</dateline>
+                <salute>Dear Sir</salute></opener>
+
+                <p>many thanks for y<hi rend="superscript">r</hi> favors of the 3<hi rend="superscript">d</hi> past &amp;c &amp; for the excellent specimen of
+                    the <bibl type="authorial"><title ref="bi0186">road book</title></bibl>. Which
+                    will be of great utility. I trust that the writer has actually visited all the
+                    parts even the extreme. I beg a thousand pardons about saying that I had not
+                        <bibl type="authorial"><title ref="bi0080">Moyses</title></bibl> for I just
+                    find you had presented it to me before. but I will find means of returning one
+                    copy. I have now with me <persName ref="pe0078">Doctor Forster</persName> &amp;
+                        <persName ref="pe1014">his son</persName> who make some stay here. I am
+                    vastly happy with their remarks on their circumnavigation, which are most
+                    curious &amp; instructive. They will soon have their voyage ready for the press:
+                    It will appear in a year. it will be in folio in two volumes. One by <persName ref="pe0045">Capt<hi rend="superscript">n</hi> Cook</persName>. The last
+                    will be chiefly nautical. Theirs on natural Philosophy, manners, oeconomy &amp;c
+                    of the people they have seen.<note type="editorial">The Forsters produced two
+                        published works based on their voyages with Cook: their botanical , <bibl type="editorial"><title ref="bi0135"><hi rend="italic">Characteres
+                                    generum plantarum, quas in itinere ad insulas Maris
+                                    Australis</hi></title></bibl> and unauthorised account of <bibl type="editorial"><title ref="bi0153"><hi rend="italic">A voyage round
+                                    the world, in His Britannic Majesty's Sloop,
+                                Resolution</hi></title></bibl> were both published in 1777. Cook's
+                        own <bibl type="editorial"><title ref="bi0368"><hi rend="italic">A voyage
+                                    towards the South Pole, and round the world</hi></title></bibl>
+                        also appeared in 1777.</note> Pray excuse the inclosed. </p>
+                <closer><salute>I am Dear Sir <lb/>y<hi rend="superscript">rs</hi> most
+                        affectly</salute>
+                    <persName ref="pe0232">Tho. Pennant</persName></closer>
+
+
+                <postscript>
+                    <p>I hope <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName>
+                        is not ill. if his silence results from nuptial engagements, It is
+                        venial.</p>
+                    <p><bibl type="authorial"><title ref="bi0020">The Zoology</title></bibl> is in
+                            q<hi rend="superscript">to</hi> &amp; oct<hi rend="superscript">vo</hi>.</p>
+                    <p>The acc<hi rend="superscript">t</hi> of <placeName ref="pl1659">Dornadilla’s
+                            tower</placeName> is reprinted in <bibl type="authorial"><title ref="bi0008">my voyage</title></bibl>.<note type="editorial">See
+                            Pennant, <bibl type="editorial"><title ref="bi0008"><hi rend="italic">A
+                                        tour in Scotland, and voyage to the Hebrides</hi> (Chester:
+                                    1774), pp.393-394n</title></bibl>. The original account was
+                            printed anonymously as <bibl type="editorial"><title ref="bi0162">'Remains of a Druidic Work in the North of Scotland'</title>,
+                                in <title ref="bi0064"><hi rend="italic">The weekly magazine, or,
+                                        Edinburgh amusement</hi></title>, <biblScope unit="volume">vol. 20</biblScope>, June 17, 1773, <biblScope unit="page">pp.365-366</biblScope></bibl>. The author was Pennant's
+                            correspondent <persName ref="pe0246">Alexander Pope, minister of
+                                Reay</persName>.</note></p>
+                    <p>y<hi rend="superscript">r</hi> debt is so small that I shall not send you a
+                        draft till it is larger.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>at the Custom house</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

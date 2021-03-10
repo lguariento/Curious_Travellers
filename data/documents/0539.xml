@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0539">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>George Paton to Thomas Pennant</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/TP326</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>7/3</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>Half of letter missing.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0540"/>
+                    <ref type="prev" target="ct0537"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>The Genealogy of the present <persName ref="">E. of Fife's</persName> Family is
+                    claimed thus: Alexander Duff of Keithmore recorded in the Herald or Lyon Office
+                    An. 1676, had a second Son William Duff of Dipple, afterwards of Braco, earl of
+                    Fife's grandfather; upon the death of William Duff of Braco who had no Son, but
+                    a daughter married first to Patrick Duff of Premnay &amp; now Lady of Alexander
+                    Udny of Udny. This William Duff of Dipple as heir male &amp; of tailzie
+                    succeeded his Nephew William of Braco had one Son William who in 1735 the 28
+                    July was created an Irish Peer by the Title of Lord Braco of Kilbride as his
+                    Letters patent bear, afterwards Earl of Fife of the same Kingdom, who was
+                    succeeded by his second son <persName ref="">James present Earl of
+                        Fife</persName>. This is is the Line claimed by the E. Fife but there are
+                    some remarkable anecdotes relating to this Family, which have not been fully
+                    ascertained to me, yet, so must crave your Indulgence for a few Post till I
+                    procure more particulars especially about <hi rend="underline">William of
+                        Dipple</hi>, whom you allude to. <gap reason="page torn" unit="lines" quantity="several"/></p>
+                <p><handShift/><list>
+                        <item>1 Creely Duff</item>
+                        <item>2. alex. Duff</item>
+                        <item>3 W. Duff of Dipple 2<hi rend="superscript">d son to Al.</hi></item>
+                        <item>4. J<hi rend="superscript">s</hi> E. of Fife</item>
+                    </list></p>
+            </div>
+        </body>
+    </text>
+</TEI>

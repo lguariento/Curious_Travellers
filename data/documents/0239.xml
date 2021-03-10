@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0239">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on arrangements with booksellers and effect
+                    of recent events on publication prospects</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>207-208</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1778-03-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0240"/>
+                    <ref type="prev" target="ct0442"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I beg you would please to give my compliments to <persName ref="pe0192">M<hi rend="superscript">r</hi> Elliot Bookseller</persName> &amp; let him
+                    know I am very sorry that I made my arrangements before his application came, or
+                    I should have paid it due respect. He must as usual apply to the advertised
+                    Booksellers in Town.</p>
+                <p>I owe <persName ref="pe0156">M<hi rend="superscript">r</hi> Low</persName> a
+                    letter: will soon write to him my thoughts. The public calamities will I fear
+                    for a time prove a sad check to our publications.<note type="editorial">Probably
+                        a reference to the negative economic climate created by the American
+                        Revolutionary War (1775–1783) and its impact on publishing and
+                        bookselling.</note> but the studies will serve to beguile the miseries of
+                    the times, till better come. So let us pursue our innocent amusements. I beg my
+                    best wishes to <persName ref="pe0022">D<hi rend="superscript">r</hi>
+                        Ramsay</persName>. I will write to him from <placeName ref="pl0699">London</placeName>.</p>
+                <p>I also beg you to thank <persName ref="pe0192">M<hi rend="superscript">r</hi>
+                        Elliot</persName> for his kind presents: but wish to pay for them as I am
+                    unable to satisfy his wishes. Be so good as to discharge the debt &amp; let me
+                    know what it is. perhaps I may serve him in <persName ref="pe0156">M<hi rend="superscript">r</hi> Low’s</persName> publication.</p>
+                <closer><salute>I am <lb/>Dear Sir <lb/>sincerely y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">T. Pennant</persName></signed>
+
+                <dateline>March 20<hi rend="superscript">th</hi> 1778</dateline></closer>
+
+                <postscript>
+                    <p>y<hi rend="superscript">r</hi> next to <placeName ref="pl0699">London</placeName>.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>M<hi rend="superscript">r.</hi> Paton</addrLine>
+                        <addrLine>Custom house</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1080">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 71</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1788-08-23"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>Yesterday <persName ref="pe0238">M<hi rend="superscript">rs</hi> P.</persName> &amp; I returned fr<hi rend="superscript">m</hi>
+                    a jaunt to <placeName ref="pl0723">Leverpool</placeName>. myself with the influenza came back not the better. but by 
+                    dint of spirits I clambered over the slave ships; &amp; can say no more to that terrible business, than that ‘We have a 
+                    wolf by the ears.’<note type="editorial">Liverpool merchants were heavily involved in the slave trade in the second half of the eighteenth century, to the great material advantage of their town and its inhabitants.</note>
+                    I am so unwell at present that I shall refer you to my <bibl type="authorial"><title ref="bi0642">M. S. Africa</title></bibl>
+                    for my thoughts: they are strangely divided.</p>
+                <p><persName ref="pe0065">my Son</persName> tells me there are not to be had any heads of the eminent spaniards:
+                    Because they never had any till a <persName ref="pe0900">Palomino</persName> appeared in the beginning of this Century.
+                    nor <del>had they <gap unit="letters" quantity="2" reason="illegible"/></del> was there any others till the time of 
+                    <persName ref="pe0887">Charles III</persName>. <persName ref="pe0901">the present chief secretary of state</persName>
+                    is employing persons to copy the pictures of illustrious men in order to engrave them. But <persName ref="pe0065">He</persName>
+                    shall search at <placeName ref="pl1023">Paris</placeName>, where he may find y<hi rend="superscript">r</hi> desiderata by other engravers.</p>
+                <p>By some accident I have mislayed y<hi rend="superscript">r</hi> Letter. If I find it, &amp; find anything material to answer, I shall write again.</p>
+                <p>I beg my best complim<hi rend="superscript">ts</hi> to miss Bulls<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>
+                    &amp; request you not to forget <persName ref="pe0383">M<hi rend="superscript">r</hi> Clarke of <placeName ref="pl1479">Newport</placeName></persName>:
+                    whose civilities I cannot easy forget.</p>
+                <closer>
+                    <salute>I am
+                    <lb/>Dear Sir
+                    <lb/>most faithfully Y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Aug. 23<hi rend="superscript">d</hi>. - 88<note type="editorial">The year was possibly added by a different and later hand.</note></dateline>
+                </closer>
+                <postscript>
+                    <p>Please to give me notice of the time you make y<hi rend="superscript">r</hi> short visit to 
+                        <placeName ref="pl0699">London</placeName> for I must trouble you with a commission.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

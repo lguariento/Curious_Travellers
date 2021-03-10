@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1147">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>40</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">Endorsement on top of the letter, in Thomas Pennant’s hand</hi>: <hi rend="underline">Answd</hi></p>
+                            <p><hi rend="italic">Printed newspaper extract, glued in beneath address at top of page</hi>: <persName ref="pe0232">Mr. PENNANT</persName> - His seasonable admonition on the Burials at 
+                                <placeName ref="pl2494">St. Giles</placeName>, has already produced a reform in almost all the Parishes of <placeName ref="pl0776">Westminster</placeName><note type="editorial">See <ref target="1148.xml">1148</ref> for Pennant's reference to his having 'workd among the burial grounds'.</note>.
+                            </p>
+                        </additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1792-01-21"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName>. January 21. 1792</dateline></opener>
+                <p>Illness, and not Idleness has prevented my writing, to acknowledge the receit of your last. Alas! I have no 
+                    Glastonbury thorns<note type="editorial">A variety of hawthorn. See <hi rend="italic">OED</hi> s.v. Glastonbury.</note> in my nursery, for we never bloom in the winter. I have enclos’d 
+                    <rs type="art" ref="ar0311">S<hi rend="superscript">t</hi>. Cecilia</rs>, which seems to have little more merit than being horridly like, but the Print has had a very rapid sale, for all that.</p>
+                <p>
+                    You mention a <rs type="art" ref="ar0333">small Q<hi rend="superscript">o</hi> print of yourself</rs>, a new one, as I understand,
+                    and ask whether <persName ref="pe0014">Moses</persName> may ornament one for me, and paste it <hi rend="underline">neatly</hi>
+                    on large paper<add place="above">for the <bibl type="authorial"><title ref="bi0023">Arctic Zoology.</title></bibl></add> - to be
+                    sure he may, and I shall readily pay him for it, and thank him into the Bargain, as I shall You, for furnishing him with the means of doing it. I am just now set in, with your 
+                    <bibl type="authorial"><title ref="bi0268">Dover journey</title></bibl>, and <bibl type="authorial"><title ref="bi0041">litterary life</title></bibl>,
+                    both which will bear good adornings but I must request <persName ref="pe0014">Moses</persName> to furnish me with an ornamented Title page of some sort, for the 
+                    <bibl type="authorial"><title ref="bi0686">litterary life</title></bibl>, upon a <add place="above">1/2</add> sheet of Pretty stout paper of this size<note type="editorial">A diagram follows, representing the title page mentioned, with the measurements '15 Inches / <del><gap unit="letters" quantity="2" reason="illegible"/></del> 1¾.'</note></p>
+                <p>
+                    I have been loth to worry <hi rend="underline">him</hi>, or to torment you, but I am in dispair about <rs type="art" ref="ar0306">Lusty Packington</rs>,
+                    of whom you promiss’d to let me have a copy taken, for <placeName ref="pl1986">Greenwich</placeName>.<note type="editorial">Bull refers to the section on Greenwich in Pennant's <hi rend="italic">From London to Dover</hi> (1801), with John Packington mentioned on pp. 12–13.</note> now we are upon 
+                    <persName ref="pe0014">Moses</persName>'s subject, ask him if he can do me a small <rs type="art" ref="ar0334">drawing of the whiff Flounder</rs>,
+                    upon thin paper for the margin of <bibl type="authorial"><title ref="bi0015">my Book</title></bibl>,<note type="editorial">The whiff ('A name for various flat-fishes or flounders', <hi rend="italic">OED</hi>) is illustrated in Pennant, <hi rend="italic">A tour in Wales</hi> (2nd edn., 1784), plate III, following a description of the fish most plentiful in the estuary of the River Dee, on ibid., p. 20. This makes it likely that Bull is here writing of his extra-illustration of the Welsh tour.</note>
+                    the print being not sufficiently explanatory, or else mine is a bad impression. I thank you, con spirito,<note type="editorial">'with spirit'.</note>
+                    for all your kind intentions, respecting the <bibl type="authorial"><title ref="bi0023"><sic>Artic</sic> Zoology</title></bibl>. I won’t say to 
+                    <persName ref="pe0014">Moses</persName> upon this occasion, what <persName ref="pe0922">D<hi rend="superscript">r</hi>. Radcliffe</persName>
+                    did to <persName ref="pe1072">Sir Godfrey Kneller</persName>, about a door the latter <del><gap unit="letters" quantity="1" reason="illegible"/></del>
+                    wanted to be moved in the Garden of the former – tell <del>him</del><add place="above">your master</add> (says the D<hi rend="superscript">r</hi>. to the messenger)
+                    he may do any thing to the door, so he don’t paint it;<note type="editorial">This anecdote relating to the physician John Radcliffe (bap. 1650, d. 1714) and Sir Godfrey Keller (1646–1723), history and portrait painter, is related in Thomas Joseph Pettigrew, <hi rend="italic">Medical portrait gallery: biographical memoirs of the most celebrated physicians, surgeons, etc. etc. who have contributed to the advancement of medical science</hi> (4 vols., London: Fisher, Son, &amp; Co., n.d.), I, 'John Radcliffe, M.D.', p. 5.</note>
+                    on the contrary, I desire he may paint my book as much as he pleases. I congratulate you upon getting safe from abroad, 
+                    all your articles of virtú, and curiosity;<note type="editorial">On the return of a German and Italian collection shipped home by David Pennant from the continent, see <ref target="1145.xml">1145</ref>.</note> and very much I felicitate You upon the return of <persName ref="pe0065">your Son</persName>,
+                    safe and sound, I hope and trust, in health, principles, and pocket, and not too much, nor too little foreignized. the more he resembles 
+                    his worthy and respectable Parent, the better it will be for his friends, his Country, and himself.</p>
+                <p>
+                    If you want news you must enquire at the Faro tables, which are abused, and visited, by all the fashion of the town; 
+                    <persName ref="pe1676">Martindale</persName> finds it worth while to pay the Ladies, where they are weekly establish’d, forty Guineas a night, for the use of their Houses.
+                </p>
+                <closer>
+                    <salute>I am, Dear Sir, with my usual good wishes to You, and your family, 
+                        <lb/>Your very oblig'd hum: Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

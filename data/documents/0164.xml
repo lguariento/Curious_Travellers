@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0164">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on William Roy's maps and the price of
+                    plates</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>90-91</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1774-07-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0165"/>
+                    <ref type="prev" target="ct0163"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+
+                <p>Your favors of the 11<hi rend="superscript">th</hi> &amp; 18<hi rend="superscript">th</hi> ins<hi rend="superscript">t</hi>. are before.
+                    Many thanks for the seal &amp;c. you say nothing of the 10<hi rend="superscript">s</hi>
+                    <hi rend="superscript">d</hi>6. &amp; 5 – 3<hi rend="superscript">d</hi>. long
+                    since sent to you. I shall be glad to know by Christmas the number of persons
+                    who wish to have the plates of the 1<hi rend="superscript">st</hi> Ed. in octavo
+                    size none can be had afterwards.<note type="editorial">Apparently a reference to
+                        the separate purchase of plates from Pennant's <bibl type="editorial"><title ref="bi0008"><hi rend="italic">Tour in Scotland and Voyage to the
+                                    Hebrides 1772</hi> (Chester: 1774)</title></bibl>. Two of the
+                        available plates are mentioned later in the letter.</note> I have <bibl type="authorial"><title ref="bi0149">Adair</title></bibl>. I am glad you
+                    have <placeName ref="pl0147">the Forres pillar</placeName>. accounts of the
+                    building of <placeName ref="pl0110">Blair Castle</placeName> if any in y<hi rend="superscript">r</hi> library will be welcome. The Price of such of my
+                    plates as for example; <rs ref="ar0206"><placeName ref="pl0651">Iona</placeName></rs>, <rs ref="ar0207">view in <placeName ref="pl0719">arran</placeName></rs> &amp;c are 5 guineas. none of my engravers
+                    charged less for the views.</p>
+                <p><persName ref="pe0054">Col. Roy</persName> has behaved to me with great
+                    politeness &amp; has been very communicative. I believe it is not at present in
+                    his power to give any more of his maps away. I have seen it more than once &amp;
+                    very fine it is.<note type="editorial">Gwyn Walters suggests that the maps
+                        Pennant refers to here are engraved proofs of William Roy's <bibl type="editorial"><title ref="bi0140">'Mappa Britanniae
+                                Septentrionalis'</title></bibl>, later published in his <bibl type="editorial"><title ref="bi0202"><hi rend="italic">Military Antiquities of
+                                    the Romans in North Britain</hi></title> (1793), plate I.</bibl>
+                        However Walters also suggests that Pennant's second reference, apparently to
+                        a single map, might correspond to Roy's 'original protraction' for the much
+                        larger <bibl><title ref="bi0211">Military Survey of Scotland,
+                                1747-1755</title></bibl>. See Gwyn Walters, 'Thomas Pennant's Map of
+                        Scotland, 1777: Study in Sources, and an Introduction to George Paton's Role
+                        in the History of Scottish Cartography' in <hi rend="italic">Imago
+                            Mundi</hi>, vol. 28 (1976), 121-128, (p.123).</note></p>
+                <p>Next week I sail for <placeName ref="pl0707">the isle of Man</placeName>.<note type="editorial">In his <bibl type="editorial"><title ref="bi0041"><hi rend="italic">Literary Life</hi></title> (1793), <biblScope unit="page">p.22</biblScope>,</bibl> Pennant writes of his voyage to
+                        the Isle of Mann in 1774: <q>I kept a journal, and was favored with ample
+                            materials from the gentlemen of the island, most of which were
+                            unaccountably lost about a year after, and my design of giving an
+                            account of that island to the public was frustrated.</q></note></p>
+                <closer>I am Dear Sir y<hi rend="superscript">r</hi> faithful H. Serv<hi rend="superscript">t</hi> <signed><persName ref="pe0232">Tho. Pennant.</persName></signed>
+
+                <dateline>July 26<hi rend="superscript">th</hi>. 1774.</dateline></closer>
+
+                <postscript>
+                    <p>If <persName ref="pe0157">M<hi rend="superscript">r</hi> Macgovan</persName>
+                        will trust his Antiquity to <placeName ref="pl0699">London</placeName> next
+                        Christmas I will get it drawn.<note type="editorial">Likely a reference to
+                            an object described in Pennant's <bibl type="editorial"><title ref="bi0010"><hi rend="italic">Tour in Scotland 1772 Part
+                                        II</hi></title> (London: 1776), <biblScope unit="page">p.241</biblScope></bibl>: <q>Among others in the cabinet of Mr.
+                                <hi rend="italic">John Macgouan</hi>, discovered near this city, is
+                            an <rs ref="ar0065">elegant brass image of beautiful <hi rend="italic">Naiad</hi></rs>, with a little <hi rend="italic">Satyr</hi> in
+                                        one arm.</q> See also Pennant's letters to Paton on <ref target="ct0181">7 March</ref> and <ref target="ct0193">29 August
+                                            1775</ref>, and Paton's reply of <ref target="ct0532">4 April</ref>.</note></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

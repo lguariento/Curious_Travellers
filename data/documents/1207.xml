@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1207">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 138</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1797-10-05"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl1013">North Court</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> Oct<hi rend="superscript">r</hi> 5<hi rend="superscript">th</hi> 1797</dateline></opener>
+                <p>Excuse this aukward paper. I must have a description of the title page &amp; to <bibl type="authorial"><title ref="bi0023">what vol.</title></bibl>
+                    also the same respecting the list of birds; &amp; I doubt not I can accommodate.<note type="editorial">For Bull's response, see <ref target="1210.xml">1210</ref>.</note> <bibl type="authorial"><title ref="bi0023">my set</title></bibl> 
+                    is not bound, so my arrangement of that will assist me. The <rs type="art" ref="ar0350"><hi rend="underline">wheat ears</hi></rs> are already done &amp; I doubt not 
+                    <persName ref="pe0324">Ingleby</persName>'s alacrity on the arrival of the selection from the annexed. Please to direct to me speedily at the 
+                    <placeName ref="pl2606">Kings arms Holywell Oxford</placeName> where I shall be the 13<hi rend="superscript">th</hi> <add place="above">&amp; stay till the 16<hi rend="superscript">th</hi></add>
+                    to place my Dear <persName ref="pe0421">Tom</persName> at <placeName ref="pl1549">Christchurch</placeName>. Whether I may not be drawn to 
+                    <del><gap unit="letters" quantity="1" reason="illegible"/></del><placeName ref="pl0796">Bath</placeName> from thence I will not say I am not quite well &amp; shall be near the place. but you shall have advice of my motions from 
+                    <placeName ref="pl1347">oxford</placeName>. I trust that neither you nor <persName ref="pe0331">miss Bull</persName> require the visit to those waters of health. any other motive w<hi rend="superscript">d</hi>
+                    be pleasing. I congratulate <persName ref="pe0331">miss Bull</persName> &amp; you on having such a comforter as <persName ref="pe0382">Lady Clarges</persName>.</p>
+                <p>
+                    <rs type="art" ref="ar0346">The <hi rend="underline">inside</hi> of the old hall at Mostyn</rs> is now done. nothing shall be forgot. By long habitude I know y<hi rend="superscript">r</hi> taste</p>
+                <closer>
+                    <salute>D<hi rend="superscript">r</hi> Sir
+                    <lb/>Y<hi rend="superscript">rs</hi> &amp;. &amp;c</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>A List of Subjects particularly Noticd in the <bibl type="authorial"><title ref="bi0015">Welsh Tour</title></bibl><note type="editorial">The following 
+                        list of drawings has been drawn up by Pennant from the second edition of <hi rend="italic">A tour in Wales</hi>. Where examples of them have been 
+                        identified in Pennant's extra-illustrated volumes at NLW, the details are given in the hyperlinks.</note>
+                        <lb/><table>
+                            <row>
+                                <cell>
+                                    <list>
+                                        <item>Vol 1.</item>
+                                        <item>Page 10 Portrait of Sr. Roger Mostyn <add place="above">Kt.</add> &amp; Lady</item>
+                                        <item>11 the Busts collected in <placeName ref="pl1164">Italy</placeName> –––––</item>
+                                        <item>75. Halkin – Col. Hughes – not ment<hi rend="superscript">d</hi></item>
+                                        <item>87. <rs type="art" ref="ar0025">Eulo Castle</rs> – – – –</item>
+                                        <item>159. *<rs type="art" ref="ar0384">Bridge</rs>, <hi rend="underline">Old Gate</hi> &amp; <hi rend="underline">Octagonal tower</hi> <placeName ref="pl0002">Chester</placeName></item>
+                                        <item>162.* <rs type="art" ref="ar0385">Old Water gate</rs>, <placeName ref="pl0002">Chester</placeName> –</item>
+                                        <item>163. <rs type="art" ref="ar0448">North gate</rs> &amp; canal –––––\cut by/ the Romans</item>
+                                        <item>d<hi rend="superscript">o</hi> <rs type="art" ref="ar0386">Phoenix Tower</rs> <placeName ref="pl0002">Chester</placeName></item>
+                                        <item>164 Entrance into <rs type="art" ref="ar0421">Chester Castle</rs></item>
+                                        <item>165 <rs type="art" ref="ar0422">Inside of the Castle</rs></item>
+                                        
+                                        <item>D<hi rend="superscript">o</hi>  – *<rs type="art" ref="ar0392">Hugh Lupuss Hall, Inside 2 Views</rs> –</item>
+                                        <item>166* <rs type="art" ref="ar0393">outside View of H. <hi rend="underline">Lupus Hall</hi>, &amp; <hi rend="underline">Exchequor</hi></rs></item>
+                                        <item>210. Holt Bridge –––––</item>
+                                        <item>224. <rs type="art" ref="ar0398">Broughton</rs> – <rs type="art" ref="ar0398">Davies</rs> –</item>
+                                        <item>225 <rs type="art" ref="ar0395">Hanmer – the Ch<hi rend="superscript">h.</hi></rs> Village &amp; Lake -----</item>
+                                        <item>229. <rs type="art" ref="ar0396">Bettisfield</rs>, <rs type="art" ref="ar0399">Hanmers</rs> –––––</item>
+                                        <item>229. Emral Hall – – <rs type="art" ref="ar0397">Puleston</rs></item>
+                                        <item>231. <rs type="art" ref="ar0402">Bangor. Ch. Village &amp; Beautiful Bridge</rs></item>
+                                        <item>234. <rs type="art" ref="ar0400">Eyton</rs> – Eyton – –.</item>
+                                        <item>236. <rs type="art" ref="ar0401">Overton Church</rs> &amp; handsome yew trees –</item>
+                                        <item>240 – <rs type="art" ref="ar0403">Ottley Park</rs> – <rs type="art" ref="ar0404">Ottleys</rs> now Kynaston –</item>
+                                        <item>256. <rs type="art" ref="ar0405">Whittington Castle</rs> –––––</item>
+                                        <item>293. <rs type="art" ref="ar0382">Brinkinallt</rs> – Trevors now L<hi rend="superscript">d</hi> Dungann<add place="above">on</add></item>
+                                        <item>294. <rs type="art" ref="ar0383">Trevor House</rs> – Trevor Lloyd</item>
+                                        <item>295. <rs type="art" ref="ar0406">Llys Pengwern</rs> near Llangollen Trevor <add place="above">E. of Hereford</add></item>
+                                        <item>302. Mon<hi rend="superscript">t</hi>. of Lady Harriet Somerset, beautiful</item>
+                                        <item>306. <rs type="art" ref="ar0407">Theatre at Wynstay</rs>, most beautiful –</item>
+                                        <item>307. Portrait of S<hi rend="superscript">t</hi> Jn<hi rend="superscript">o</hi> Wynn who died at Lucca</item>
+                                        <item>309. <rs type="art" ref="ar0408">Erddig</rs> – <rs type="art" ref="ar0409">Yorke</rs> –</item>
+                                        <item>310 - Cadogan Hall – Jones – near Wrexham</item>
+                                        <item>312 - Magnificent Mon<hi rend="superscript">t.</hi> of M<hi rend="superscript">rs.</hi> Mary Middelton</item>
+                                        <item>317. <rs type="art" ref="ar0410">Acton</rs> – Yonge now S<hi rend="superscript">r.</hi> Foster Cunlife</item>
+                                        <item>319 - Beautiful Valley of Gresford –––––</item>
+                                        <item>321 - Singular <rs type="art" ref="ar0351">Portrait of S<hi rend="superscript">r.</hi> R<hi rend="superscript">d.</hi> Trevor at Trevalyn</rs> </item>
+                                        <item>d<hi rend="superscript">o</hi> Trevalyn – Trevors –––––</item>
+                                        <item>401. <rs type="art" ref="ar0411">Valley of Glisseg</rs> –––––</item>
+                                        <item>406. <rs type="art" ref="ar0412">Bodidris</rs> – Lloyds of Corsygedol</item>
+                                        <item>420 – <rs type="art" ref="ar0413">Mold Church</rs> –––––</item>
+                                        <item>427 – <rs type="art" ref="ar0024">Tower</rs> – <rs type="art" ref="ar0414">Wynne</rs> –––––</item>
+                                        <item>429 – Pentrehobin. Trevor Lloyd –––––</item>
+                                        <item>430 – <rs type="art" ref="ar0415">Plas Têg</rs> – <rs type="art" ref="ar0416">Trevors</rs> – now Lord Dacre</item>
+                                        <item>435 – Bryn-Yorkyn – <rs type="art" ref="ar0417">Yonge</rs> –––––</item>
+                                        <item>440 – <rs type="art" ref="ar0418">Kilken Church</rs> –––––</item>
+                                        <item>441 – <rs type="art" ref="ar0419">Penbedw</rs> – <rs type="art" ref="ar0420">Williams</rs></item>
+                                    </list>
+                                </cell>
+                                    
+                                
+                                <cell>
+                                    <list>
+                                        <item>Vol 2.</item>
+                                        <item>4 <rs type="art" ref="ar0387">Tailacre</rs> S<hi rend="superscript">r.</hi> Pyers Mostyn B<hi rend="superscript">t</hi></item>
+                                        <item>7. <rs type="art" ref="ar0388">Waterfall at Dysart</rs> -</item>
+                                        <item>d<hi rend="superscript">o</hi> <placeName ref="pl2331">Dysart Castle</placeName> from <placeName ref="pl2627">Siamber Wen</placeName> –</item>
+                                        <item>23. Pencraig – fine View –</item>
+                                        <item>24. <rs type="art" ref="ar0389">Bachegraig</rs> – Piozzi – Singular House 2 View</item>
+                                        <item>26. <rs type="art" ref="ar0302">S<hi rend="superscript">r.</hi> Rich<hi rend="superscript">d</hi> Clough</rs></item>
+                                        <item>d<hi rend="superscript">o</hi> – <rs type="art" ref="ar0390">Plâs Clough</rs> on Denbigh Green</item>
+                                        <item>28 – <rs type="art" ref="ar0391">S<hi rend="superscript">r.</hi> John Salusbury the strong</rs> <gap unit="letters" quantity="1" reason="illegible"/> Bodia<note type="editorial">Sir John Salusbury 'acquired, we are told, the popular surname of "Bodiau," or Thumbs, from the fact that nature had not only endowed him with a double portion of Samson's strength, but had likewise furnished him with an extra thumb on each hand, and two great toes on each foot'. John Williams, <hi rend="italic">Ancient and Modern Denbigh: A Descriptive History of the Castle, Borough, and Liberties</hi> (Denbigh: J. Williams, 1836), p. 3.</note></item>
+                                        <item>D<hi rend="superscript">o</hi> - S<hi rend="superscript">r.</hi> Henry D<hi rend="superscript">o</hi> - 1<hi rend="superscript">st.</hi> Bar<hi rend="superscript">t</hi> -----</item>
+                                        <item>29 – <rs type="art" ref="ar0291">Catherine of Bearain</rs> ----</item>
+      
+                                        <item>50. - S<hi rend="superscript">r.</hi> Peter Mutton Vi<hi rend="superscript">t.</hi></item>
+                                        <item>51 – – <rs type="art" ref="ar0423">Henllan Church</rs> –––––</item>
+                                        <item>52. <rs type="art" ref="ar0424">new Foxhall – 2 Views</rs> –</item>
+                                        <item>54 – 2 Water falls above Llansannan</item>
+                                        <item>69 – <rs type="art" ref="ar0425">Rûg</rs> – Salusbury –</item>
+                                        <item>73. Vale of Edeirnion – beautiful</item>
+                                        <item>106. * <rs type="art" ref="ar0426">Nanney</rs> – Vaughan S<hi rend="superscript">r.</hi> R<hi rend="superscript">t</hi> -----</item>
+                                        <item>113. <rs type="art" ref="ar0427">Barmouth</rs> –</item>
+                                        <item>119 – <rs type="art" ref="ar0428">Corsygedol</rs> – <del>Lloyd</del> – <rs type="art" ref="ar0429">Vaughan</rs></item>
+                                        <item>135 ––––– Glyn ––––– Owens</item>
+                                        <item>136 – View from Llantegwin –</item>
+                                        <item>137. Tan y bwlch – near Festiniog –––––</item>
+                                        <item>208 <rs type="art" ref="ar0430">Clynnog Church</rs> –</item>
+                                        <item>236. <rs type="art" ref="ar0431">Plas Newydd</rs>. L<hi rend="superscript">d.</hi> Uxbridge –</item>
+                                        <item>253. <rs type="art" ref="ar0432">Baron Hill</rs> <rs type="art" ref="ar0433">L<hi rend="superscript">d</hi> Bulkeley</rs> –</item>
+                                        <item>264. Llan Ellian Church ––––– 2 Views</item>
+                                        <item>284 - Penrhyn L<hi rend="superscript">d</hi> Penrhyn &amp; Chapel</item>
+                                        <item>302 - View from Aber –––––</item>
+                                        <item>d<hi rend="superscript">o</hi> – Cascade near D<hi rend="superscript">o</hi> -----</item>
+                                        <item>316 – Plas Mawr Conway –––––</item>
+                                        <item>323. <rs type="art" ref="ar0434">Marle</rs> – Lady Pendergrass –</item>
+                                        <item>D<hi rend="superscript">o</hi> - Bodscallen – Wynne 2 Views</item>
+                                        <item>d<hi rend="superscript">o</hi> - Portrait of D<hi rend="superscript">r.</hi> Ellis Price of Plas yollin</item>
+                                        <item>340 – Kinmael Old House 2 Views 340 – Kinmael Old House 2 Views</item>
+                                        <item>D<hi rend="superscript">o</hi> - D<hi rend="superscript">o</hi> - New house –</item>
+                                        <item>341 – <rs type="art" ref="ar0435">Vaenol</rs> – Price of Rhiwlas –––––</item>
+                                        <item>d<hi rend="superscript">o</hi> - <rs type="art" ref="ar0436">Boddlewythan</rs> - W<hi rend="superscript">ms</hi> -----</item>
+                                        <item>342 <rs type="art" ref="ar0437">Pengwern</rs> – <rs type="art" ref="ar0438">S<hi rend="superscript">r</hi> E<hi rend="superscript">d.</hi> Lloyd</rs></item>
+                                        <item>d<hi rend="superscript">o</hi> - S<hi rend="superscript">r</hi>. Peter Mutton &amp; Lady -</item>
+                                        <item>d<hi rend="superscript">o</hi>. Archbishop W<hi rend="superscript">ms</hi></item>
+                                        <item>352 Maefod Vale &amp; Church</item>
+                                        <item>356 <rs type="art" ref="ar0439">Castell Dolforwen</rs> –––––</item>
+                                        <item>359 – Abervechan S<hi rend="superscript">r.</hi> Jervoice Clifton</item>
+                                        <item>d<hi rend="superscript">o</hi>- Newtown Hall – Price S<hi rend="superscript">r.</hi> John -----</item>
+                                        <item>369 <rs type="art" ref="ar0440">Montgomery Castle</rs></item>
+                                        <item>374 Lodge in Limor Park 2<hi rend="superscript">d</hi> Powis -</item>
+                                        <item>385 Llandreinio Bridge –––––</item>
+                                        <item>386. Wattleburgh Castle –––––</item>
+                                        <item>387. <rs type="art" ref="ar0441">Alberbury Castle &amp; Abbey</rs> –––––</item>
+                                        <item><del><gap unit="letters" quantity="several" reason="illegible"/></del> 411 – <rs type="art" ref="ar0442">Battlefield Church</rs></item>
+                                        <item>415 <rs type="art" ref="ar0443">Condover</rs>. Smythe –––––</item>
+                                    </list>
+                                </cell>
+                            </row>
+                        </table></p>
+                    
+                        <table>
+                            <row>
+                                <cell>
+                                    <list>
+                                        <item>Vol 2. Continued ––––– ––––– –<note type="editorial">This material appears on the reverse of the longer list.</note></item>
+                                        <item>Page</item>
+                                        <item>417 – <rs type="art" ref="ar0185">Acton Burnel <add place="above">Castle</add></rs> 2, Views, S<hi rend="superscript">r.</hi> E<hi rend="superscript">d.</hi> Smythe</item>
+                                        <item>d<hi rend="superscript">o</hi> – <rs type="art" ref="ar0444">Acton Burnel House</rs> S<hi rend="superscript">r.</hi> E<hi rend="superscript">d.</hi> Smythe</item><lb/>
+                                        <item>_________________ </item>
+                                        <item>Vol. 1 <rs type="art" ref="ar0447">Chester, from Boughton</rs></item>
+                                    </list>
+                                </cell>
+                           
+                                <cell>
+                                    <list>
+                                        <item>401 <rs type="art" ref="ar0445">New Bridge Shrewsbury</rs> – </item>
+                                        <item>402 <rs type="art" ref="ar0446">Abbey</rs> at <placeName ref="pl0740">D<hi rend="superscript">o</hi></placeName> -----</item>
+                                    </list>
+                                </cell>
+                            </row>
+                        </table>
+                    <p>My respects attend <persName ref="pe0388">M<hi rend="superscript">r</hi> Erskine</persName>. his old friend 
+                        <hi rend="underline">our</hi> <persName ref="pe0426">Dean</persName> has for a year past raised the most complete flame in this 
+                        <gap unit="words" quantity="1" reason="authorial"/> county; <unclear>beging</unclear> every hope of the <unclear>bon<hi rend="superscript">s</hi>t feu</unclear></p>
+                </postscript>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark"><gap unit="letters" quantity="1" reason="illegible"/> OC 7 97</stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi>. | <placeName ref="pl1013">Northcourt</placeName> | <placeName ref="pl1020">Isle of Wight</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

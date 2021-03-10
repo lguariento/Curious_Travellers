@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1157">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>43</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions>
+                            <p><hi rend="italic">Endorsement at the bottom of the page, in Thomas Pennant's hand</hi>:</p>
+                        <p><hi rend="underline">Answ<hi rend="superscript">d</hi></hi></p></additions></physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1792-09-23"/>
+                    <placeName ref="pl1013">Northcourt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl1013">Northcourt</placeName>, <placeName ref="pl1020">Isle of Wight</placeName>. September 23. 1792</dateline></opener>
+                <p>Altho’ I do not plume myself upon being a good correspondent, or even a punctual one, I think it incumbent upon me, to give an answer of some sort, and immediately, to your 
+                    very kind, and as usual, very friendly letter. It reach’d my hands last night only, having been as great a rambler as myself, for I have been in 
+                    <placeName ref="pl0775">England</placeName> several times since my first Journey hither. – no wonder your letter could not find me 
+                    <add place="above">at</add> <placeName ref="pl1608">Brighthelmstone</placeName>, for we left the place a week before it's arrival, and that town is growing like 
+                    <add place="above">a little</add> <placeName ref="pl0796">Bath</placeName> for magnitude, so that such an unimportant Individual as myself, had a little chance of being remember’d.</p>
+                <p>
+                    We hope now to be stationary here, till the middle or end of November, having little other pleasure to look forward to in <placeName ref="pl0699">London</placeName>,
+                    than the hopes of finding a good deal of <persName ref="pe0014">Moses</persName>'s <bibl type="authorial"><title ref="bi0023">Arctic Zoology</title></bibl>
+                    there, upon our return, and perhaps some few Drawings relative to <bibl type="authorial"><title ref="bi0271">your London</title></bibl>. 
+                    As you seem so amazingly deep, in <placeName ref="pl2515">China</placeName>,<note type="editorial">For Pennant's engrossment in work on China for his 'Outlines of the Globe', see <ref target="1155.xml">1155</ref>.</note> I ought not to omit telling you, that 
+                    <persName ref="pe0437">M<hi rend="superscript">r</hi>. Penruddock Wyndham</persName>, an exotic Inhabitant of <placeName ref="pl1020">this Island</placeName>,
+                    like myself, and <hi rend="underline">now</hi> amongst my visitors at <placeName ref="pl1013">Northcourt</placeName>, has brought for our inspection, and amusements, two 
+                    <hi rend="underline">very large</hi> Plans, one of <bibl type="authorial"><title ref="bi0478">Canton</title></bibl>, the other of <bibl type="authorial"><title ref="bi0701">Peking</title></bibl>,
+                    laid down with extreme precision, and taking in the vast suburbs of both Cities, the latter of which is said to be thirty miles round, within the Walls. 
+                    They seem to me, to be drawings in Indian Ink, but in very high preservation, and every street <add place="above">and temple</add>
+                    seems to have its peculiar discription, for there <add place="above">are</add> abundant references upon the margin of each Plan, in chinese characters.</p>
+                <p>
+                    <persName ref="pe0437">M<hi rend="superscript">r</hi>: Wyndham</persName> told us, He became possess’d of them, by inheritance from the late 
+                    <persName ref="pe1697">Lord Melcombe</persName>, in whose family they had been (I think I dont lie) for near an hundred years back. 
+                    As you and your labors are never out of my mind upon these occasions, I could not help expressing a wish that <persName ref="pe0389">Faden</persName>
+                    might be allow’d to copy them for <bibl type="authorial"><title ref="bi0462">your book</title></bibl>, tho I doubt the expense would 
+                    <del><gap unit="letters" quantity="several" reason="illegible"/></del> amount to a world of money, if finish’d like the originals. 
+                    <persName ref="pe0437">Wyndham</persName> is a very sensible, liberal minded Man, &amp; I dare believe would not object to it, unless 
+                    <persName ref="pe0411">Lord <add place="above">+</add> Macartney</persName> takes them along with him to <placeName ref="pl2515">china</placeName>,
+                    for whose use they <del>are</del><add place="above">were</add> brought hither by <persName ref="pe0437">Wyndham</persName>,
+                    that <persName ref="pe0411">his</persName><add place="above">+</add> Interpreters might inspect them, before they sail’d from 
+                    <placeName ref="pl1637">Spithead</placeName>, where the Lion Man of War, and an India-Man have been at anchor some time, in readiness for a three years expedition to 
+                    <placeName ref="pl2515">china</placeName> - &amp; <placeName ref="pl1024">India</placeName>. <persName ref="pe0411">Lord Macartney</persName>
+                    takes his passage in the latter, with every convenience, and accommodation on board, that human invention could contrive. The Lion is painted in a very peculiar manner, red 
+                    &amp; brown, like a chinese Junk, and intended to look as unlike a man of war as possible, for fear of offending the natives.</p>
+                <p>
+                    You tell me, I can’t live out of a gay tempest;<note type="editorial">See <ref target="1155.xml">1155</ref>.</note> it is very much malgré moi,<note type="editorial">'in spite of myself'.</note>
+                    if I do so, and very unbecoming a deaf old man of 71, but the truth is, that half the world have taken it into their noddles to visit the 
+                    <placeName ref="pl1020">Isle of wight</placeName>, and who ever we know, or whoever we don’t know in their kindness, and in their Idleness, 
+                    call upon us for want of having something better to do, and I might almost as well keep the Bull’s head at once. during the last week we have had nineteen beds occupied, every night.</p>
+                <p>
+                    Do you imagine the present storms in <placeName ref="pl1176">Europe</placeName> can ever subside again? it is my opinion that another age of Barbarism is at hand, and that another Race, not of Goths, and 
+                    Vandals, but of Russians, will overwhelm all arts and Sciences, and that 500 years hence, they will begin to rise again: <placeName ref="pl0925">France</placeName>
+                    has reach’d the Summit of her Elegance, her Luxury, and irreligion, and will fall first,; <placeName ref="pl0775">England</placeName>,
+                    her rival in each will sink under her prodigious Vices next, and so on with the rest of <placeName ref="pl1176">Europe</placeName>. – We talk of the Savages in 
+                    <placeName ref="pl0710">America</placeName>, but their Hatchets, and Tomahawks, are Instruments of Mercy, compared to the Pikes in the hands of a french Barbarian: 
+                    many People are content to become Scholars to the Devil, but the Jacobins are fit to be his masters. —–</p>
+                <p>
+                    It is said, and believ’d here, that the <placeName ref="pl2516">Palace of winchester</placeName> is to be fitted up, so as to contain some thousands of the miserable Emigrants from 
+                    <placeName ref="pl0925">France</placeName>, but what is to become of the rest, who have no money, and won’t starve? <placeName ref="pl1357">Portsmouth</placeName>
+                    and <placeName ref="pl1073">Southampton</placeName>, I <hi rend="underline">know</hi>, swarm with them, and I believe it is the same all over the Sea Coasts. 
+                    <persName ref="pe0422">Rainsford</persName> writes me word that a rough Calculation was made, (by order of Council, a fortnight ago,) 
+                    of the numbers in, and about <placeName ref="pl0699">London</placeName>, and that they <hi rend="underline">then</hi>
+                    amounted to about 50,000. and are now supposed to be doubled.<note type="editorial">The numbers of refugees arriving from Revolutionary France accelerated during the final months of 1792, with daily arrivals of men, women and children throughout September and October. Kirsty Carpenter, <hi rend="italic">Refugees of the French Revolution: Émigrés in London, 1789–1802</hi> (Basingstoke: Macmillan, 1999), pp. 29–48.</note>
+                    Some of them are respectable persons, and bring wealth along with them, but many are such wretched objects, not of Charity but of fear, that 
+                    <placeName ref="pl1629">Newgate</placeName> would bar her doors against them.</p>
+                <p>I have been very well all the Summer, as it is called, but not felt, and my good Daughters,<note xmlns:xi="http://www.w3.org/2001/XInclude" type="editorial"><xi:include href="Bulls.xml"/></note>
+                    the comforts of my fast declining life, have been equally so. we all join in our best remembrances, and in all manner of 
+                    good wishes to you, and all the House of <placeName ref="pl0001">Downing</placeName>, and I hope you will think of me, as I am,</p>
+                <closer>
+                    <salute>Dear Sir, yours faithfully, and 
+                        <lb/>affectionately.</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0240">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, on his inability to assist with a proposed
+                    work</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>209</locus></ab>
+                    </msContents>
+                    <additional>
+                        <p>The opening salutation of this letter has been effaced by damage and
+                            repair of the sheet.</p>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1778-03-29"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0241"/>
+                    <ref type="prev" target="ct0239"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> March 29<hi rend="superscript">th</hi> 1778</dateline></opener>
+                <p>I thank you for y<hi rend="superscript">r</hi> favor &amp; am sorry to say my
+                    interest is too small to assist anybody. &amp; lament my incapacity to serve
+                        <persName ref="pe0246">M<hi rend="superscript">r</hi> Pope</persName>. As I
+                    hate to refuse so I trust no one will give me an opportunity again. I may ask a
+                    subscription to an ingenious man’s works; but not a place.<note type="editorial">In his letter of March 14 1778, Paton had requested Pennant's assistance on
+                        behalf of the Reverend Alexander Pope in securing his son's appointment as
+                        succesor to the ministry of his parish in Reay.</note> Be so good as to read
+                    &amp; forward the inclosed. I shall deliver likewise to <persName ref="pe0104">M<hi rend="superscript">r</hi> Gough</persName>, <persName ref="pe0156">M<hi rend="superscript">r</hi> Lows</persName>
+                    <bibl type="authorial"><title ref="bi0422">Fauna</title></bibl> &amp; <bibl type="authorial"><title ref="bi0423">Flora</title></bibl>; so clame them
+                    from him. I set out too morrow</p>
+                <closer>&amp; am <lb/>D<hi rend="superscript">r</hi> Sir <lb/>truely yrs
+                    <signed><persName ref="pe0232">T. Pennant</persName>.</signed></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>at the Custom house.</addrLine>
+                    </address></p>
+                <p>3/</p>
+            </div>
+        </body>
+    </text>
+</TEI>

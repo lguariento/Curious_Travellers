@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1432">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Jones to Thomas Pennant, 20 April 1782</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>15422C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc/>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0322">John Jones</persName>
+                    <placeName ref="pl1553">Bodleian Library</placeName>
+                    <date when="1782-04-20">20 April 1782</date>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1433"/>
+                    <ref type="prev" target="ct1478"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Dear Sir</salute>
+                <dateline><placeName ref="pl1553">Bodleyan Libr.</placeName> Apr. 20. 1782</dateline></opener>
+                
+                <p>I receiv'd your Note last night and agreeably to your Request I have sent you a
+                    few Extracts from Du fresne's 1<hi rend="superscript">st</hi>
+                    <bibl type="authorial"><title ref="bi0717">Dissertation sur l'histoire de S.
+                            Louis</title></bibl>. The Title of the Dissertation is. <bibl type="authorial"><title ref="bi0717"><sic>De</sic> Cottes D'Armes &amp; par
+                            occasion de l origine des Couleurs &amp; des Metaux dans les
+                            Armoiries</title></bibl>. pag 127. The Title of the Book is <bibl type="authorial"><title ref="bi0716">Histoire de S. Louys IX du nom, roy de
+                            France</title></bibl>. f<hi rend="superscript">o</hi> 1668. Du fresne
+                    seems to be of Opinion that <sic>Ermrae</sic> &amp; other <del><gap reason="authorial" unit="letters" quantity="several"/></del>
+                    <add place="above">rich</add> Furs. were first us'd by the French to adorn a
+                    Garment or mantle that was peculiar to the Gauls of which Martial makes mention
+                    lib. 1. Epigr. 97 &amp; which they calld sagum.<note type="editorial"><hi rend="italic">Histoire de S. Louys IX. du nom roy de France</hi> (Paris,
+                        1668), p. 127.</note> In process of Time this Garment increasd in Dimensions
+                    till it reachd down to the heels. He quotes a passage from Albert chanoine
+                    d'Aix-la chapelle Lib. 2 cha 16. where he describes the habit of <hi rend="underline">Godfrey of Bouillon &amp;</hi>
+                    <add place="above">of</add> other french Barons who came to present themselves
+                    before the Emperor Alexis Comnene,*<note type="authorial">*before the Crusade in
+                        1097</note> that they apppeard. "In splendore &amp; ornatu pretiosarum
+                    Vestium tam ex Ostro quam aurifragio &amp; in niveo Opere harmellino, &amp; ex
+                    Mardrino Grisioque &amp; vario, quibus principes Gallorum præcipuè utuntur.<note type="editorial">'in the splendour and ornateness of precious vestments as
+                        much out of purple as of gold and in snowy ermine work and from marten pelts
+                        ... grey [pelts] and various [others] which the leaders of the Gauls
+                        principally used'. See ibid., p. 128. Pennant uses a section from this
+                        quotation in <hi rend="italic">Arctic zoology</hi> (1784), I, p. 81, where
+                        he writes of the impression made upon the emperor Alexis Comnene by 'the
+                        richness of [the] dresses' of Godfrey of Boulogne and his followers when
+                        they appeared before him on their way to the Holy Land.</note> And also
+                    where mentioning a Defeat of the French, he says that the Infidels acquired a
+                    great Booty &amp; that they carried off "molles vestes, pelliceos varios,
+                    Grisios, harmellinos, Mardrinos, ostra in numerabilia auro texta, miri decoris
+                    operis &amp; coloris.<note type="editorial">'soft garments, various items made
+                        from pelts, grey, ermine, marten, innumerable purple items, woven with gold,
+                        of wonderful decorative and coloured work'. See <hi rend="italic">Histoire
+                            de S. Louys IX. du nom roy de France</hi>, p. 128.</note> Eguinard in
+                    his <bibl type="authorial"><title ref="bi0072">History of
+                        Charlemagne</title></bibl> says <sic>that that</sic> Monarch "vestitu patrio
+                    hoc est Francio utebatur, &amp; during Winter, ex pellibus lutrinis thorace
+                    confecto houmeros &amp; pectus tegebat.<note type="editorial">'this as the
+                        traditional vestment Francis would use, [and during Winter,] he would cover
+                        his shoulders and chest with a doublet made from otter skins. Ibid., p.
+                        129.</note> Du fresne concludes from this that the French se servoient de
+                    Fourrures dans leur vetem<del>a</del>ens commes les autres Peuples
+                        septentrionaux.<note type="editorial">'Used furs as garments like other
+                        northern races.' Ibid.</note> About 1190 he says the wearing of Ermine &amp;
+                    other rich furrs as well as of Scarlet &amp; such luxurious Articles of Dress
+                    were prohibited &amp; quotes Gul. Neubr. lib 3. C 22. Quod nullux vario, vel
+                    grisio, vel Sabellinis, vel escarletis utatur.<note type="editorial">'that
+                        no-one should use a variety [of pelts], neither grey, nor sable nor
+                        scarlet'. Ibid., p. 128.</note> He quotes also a Passage from Geoffroy
+                    Prieur de Vigeois's <bibl type="authorial"><title ref="bi0073">Chronicle</title></bibl> to shew that the Barons of old were contented with
+                    furs of <del><gap reason="authorial" unit="letters" quantity="1"/></del>far less
+                    value &amp; Esteem than Ermine. "Barones prisco tempore munifi<add place="above">ci</add> largitores vilibus utebantur Pannis, adea ut Eustorgius Episcopus,
+                    vicecomes Lemovicensis, &amp; vicecomes Combornensis arieti<del><gap reason="authorial" unit="letters" quantity="1"/></del>nis ac vulpinis
+                    Pellibus aliquoties uterentur, &amp; adds quas post illos, mediocres deferre
+                        erubescunt.<note type="editorial">'Barons of former times, benevolent
+                        patrons, would use common round shields, just as Eustorgius Viscount Bishop
+                        of Lemovicensis, and Viscount of Comborn would at different times have used
+                        the pelt of rams and foxes [and adds] to which after them not insignificant
+                        persons are ashamed to refer.' Ibid., p. 130.</note>
+                </p>
+                <p>Du Fresne does not pretend to give an Account of toutes les riches Fourrures dont <sic>le grand</sic> Seign<del><gap reason="authorial" unit="letters" quantity="1"/></del>neurs 
+                    se revetoient,<note type="editorial">'all the rich furs with which the noblemen dressed themselves'. Ibid.</note> but confines himself to Ermine &amp; 
+                vaire. He enters pretty minutely into both these Subjects. The Ermine he says was known to the Greeks &amp; Romans. &amp; quotes Plin. lib. 8 c. 37. 
+                Ælian lib. 6 c. 40. 41 de anim. lib 1 Cap. II. var hist.<note type="editorial">Jones's references are as given in the margin 
+                    of <hi rend="italic">Histoire de S. Louys IX. du nom roy de 
+                        France</hi>, p. 130.</note> The name 
+                he says is deriv'd from Armenia, the People of that Country according to Julius Pollux (lib. 7 c. 13) having a Garment tout particulier calld by the Greeks
+                μυωτος. Ἀρμενίων δε ὁ μυωτος, κ’ εκ μυῶν των πάρ’ ἀυτοις συνυφασμένος
+                    <note type="editorial">'made of mouse skin. The Armenian skins were woven by them out of these mice.'</note> The original name he says was 
+                    mures Pontici but that the French anciently calld them Peaux des Hermins, or d.'Hermins whence the name, &amp; 
+                adds that the spaniards call them Arminos.<note type="editorial">See ibid., pp. 131–2.</note></p>
+                
+                <p>I cannot find any Traces of the precise Time when this &amp; other fur<del><gap reason="authorial" unit="letters" quantity="1"/></del>s commenc'd
+                    Articles of luxurious Dress, as this in particular seems to have been known to
+                    the Ancients as such very early. Necessity no Doubt soon taught the northern
+                    Nations the use of them, &amp; their more southern neighbours, struck with the
+                    Elegance of the Ermine might soon adopt it <gap reason="page torn" unit="letters" quantity="1"/>s an article of their Dress.<note type="editorial">Pennant's discussion of the use of furs by the Greeks and
+                        Romans and its introduction 'by the northern conquerors' into Europe appears
+                        to draw on these observations. He observes 'I cannot find that the Greeks or
+                        old Romans ever made use of furs', but that sable skins were transmitted to
+                        Rome in the sixth century as a prelude to the use of furs as luxury items by
+                        medieval princes. See <hi rend="italic">Arctic zoology</hi> (1784), I, p.
+                        81.</note> Just. lib. 2. says that the <gap reason="damage" unit="letters" quantity="several"/>d them. Lanæ iis usus &amp; vestium ignotus &amp;
+                        quamqua<gap reason="damage" unit="letters" quantity="1"/>
+                    <supplied>frigor</supplied>ibus continuis urantur, pellibus tamen ferinis &amp;
+                        mur<supplied>inis</supplied> vestiuntur.<note type="editorial">The text is
+                        obscure here due to the seal. The second section of the quotation may be
+                        translated as 'yet they are dressed in wild animal [and mouse?] skins'. <hi rend="italic">Histoire de S. Louys IX. du nom roy de France</hi>, p.
+                        132.</note> Amm. Marcellinus l. 31. spealing of the Huns says Indumentis
+                    operiuntur linteis, vel ex pellibus siluestrium murium consrcinatis.<note type="editorial">'they devoted themselves to making garments from linen, or
+                        from the pelts of various forest mice'. Ibid., p. 132.</note> The
+                    Babylonians from their vicinity to Armenia might be the first who adopted the
+                    Ermine, &amp; Ælian in l. 17. C. 17 de Anim says that the Babylonian Furrs were
+                        <sic>Peau</sic> de rats as Dufresne expresses it.<note type="editorial">'rats' skins'. Ibid. The reference given is from the margin to this
+                        page.</note> The Modern Greeks according to him <del><gap reason="authorial" unit="letters" quantity="1"/></del>call it Ermine, Ποντίκ[ιν] sans
+                    ajouter l'espece de l Animal &amp; non seulement les Hermines, mais encore
+                    toutes sortes des rats indifferement.<note type="editorial">'from the area of
+                        Pontus (around the Black Sea)'; 'without adding which type of animal, and
+                        not only ermines but also all sorts of rats indifferently'. Ibid.</note>
+                </p>
+                <p>This is the substance of what I find in the <bibl type="authorial"><title ref="bi0717">Dissertation</title></bibl> concerning the subject of your Enquiry, &amp; I hope it will yield to you 
+                    some Satisfaction. I have bu<del><gap reason="authorial" unit="letters" quantity="1"/></del>t just Room to inclose 
+                    <persName ref="pe0065">M<hi rend="superscript">r</hi> Pennant</persName>'s duty to you and am</p>
+                <closer><salute>Dear Sir<lb/>
+                    your obligd humble Serv<hi rend="superscript">t</hi>
+                </salute>
+                    <signed><persName ref="pe0322">J. Jones</persName></signed></closer>
+                
+            </div>
+            <div>
+                <p><address><addrLine><persName ref="pe0232">Th Pennant Esq<hi rend="superscript">r</hi>.</persName></addrLine></address></p></div>
+            
+        </body>
+    </text>
+</TEI>

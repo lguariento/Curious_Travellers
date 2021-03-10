@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1084">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 76</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1789-05-06"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street Piccadilly</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0001">Downing</placeName> May 6<hi rend="superscript">th</hi> 1789.</dateline></opener>
+                <p>excuse my impertinence in pestering you with another letter.<note type="editorial">Bull's letter to Pennant, dated 13 May 1789 (<ref target="1085.xml">1085</ref>), suggests that he received two letters in succession from Pennant, and failed to answer the first before the arrival of the second. The earlier letter does not appear to have survived; the later is the one edited here (NLW 5500C, no. 76). The letter from Bull to which Pennant refers here has not survived either, making the information mentioned here incomplete.</note>
+                    You gave me a fine copy of the <rs type="art" ref="ar0009">Death's dance</rs> of <persName ref="pe0401">Hans Holbein</persName> 
+                    with the prints of <rs type="art" ref="ar1069">The Triumph of Poverty &amp; Riches</rs> at the end &amp; told me some story about them. 
+                    Pray inform me were they engraven from the originals which were once in the Hall of our <placeName ref="pl1499">Steel yard</placeName>
+                    (see <bibl type="authorial"><title ref="bi0558"><persName ref="pe0434">M<hi rend="superscript">r</hi> Walpole</persName> I</title></bibl>)
+                    or were they from the drawings by <persName ref="pe0438">Zucchero</persName>: But I think the originals after being long lost, were recovered: if so, in whose possession. Pray favor me with a speedy answer 
+                    &amp; let me know you are well.</p>
+                <closer>
+                    <salute>Adieu
+                        <lb/>Y<hi rend="superscript">rs</hi>most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>As you must know many royal academ<del>c</del>icians. Be so good as to ask whether they are not 
+                        incorporated<note type="editorial">The Society of Artists of Great Britain, was founded in 1760 and granted a Royal Charter in 1765, which lead to its re-naming as the ‘Incorporated Society of Artists of Great Britain’.</note>
+                        &amp; whether they were not originally of the Painter stainers Company.<note type="editorial">The Worshipful Company of Painter-Stainers existed from 1268, and was incorporated under a Royal Charter in 1581.</note></p>
+                </postscript>
+            </div>
+            <div>
+                <p><stamp type="postmark">MA 8 89; M<gap unit="letters" quantity="3" reason="illegible"/></stamp>
+                    <stamp type="handstamp"><placeName ref="pl1251">HOLYWELL</placeName></stamp></p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> esq<hi rend="superscript">r</hi>. | <placeName ref="pl0759">Stratton street Piccadilly | London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

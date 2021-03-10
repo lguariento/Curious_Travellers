@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1480">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Jones to Thomas Pennant, 21 September 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR 2017 /TP243</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>item 3</locus></ab>
+                    </msContents>
+                    <physDesc><additions>
+                        </additions></physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0322">John Jones</persName>
+                    <placeName ref="pl1347">Oxford</placeName>
+                    <date when="1779-09-21">21 September 1779</date>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1432"/>
+                    <ref type="prev" target="ct1478"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><opener><salute>Dear Sir</salute></opener>
+                
+                <p>On Friday last I returned here from <placeName ref="pl3322">Beechwood</placeName> where I received the most friendly and the 
+                    most obliging Reception. I took an Opportunity to examine all the M.S.S. more leisurely than before, but found nothing to your
+                    present Purpose; what now remains, relates almost all together to 
+                    <placeName ref="pl1245">Southwales</placeName>.<note type="editorial">Pennant's interest in south Wales appears to have waned following
+                    his abandonment of a journey there during summer 1776. See his correspondence with John Price, dated 8 September 1776 
+                    (<ref target="1488.xml">1488</ref>); and cf. also his 
+                    avowal that he is uninterested
+                    in the south in a letter to Richard Bull during 1784 (<ref target="1037.xml">1037</ref>).</note> There is one Volume 
+                    in f<hi rend="superscript">o</hi>. almost full of Drawings, of Monuments, Antiquities, Inscriptions &amp;<unclear>a</unclear>. in that Part of the
+                    Principality. In some of <persName ref="pe0044">Lhwyd</persName>'s Pocket Books I found <sic>ā</sic> Account of his Travels in Ireland
+                    and Scotland, written almost entirely in Welsh, but I had not sufficient Leisure to compare them to satisfy myself that they are a 
+                    complete Journal.<note type="editorial">Pennant thanks Sir John Sebright for 'his liberal communication of several of the late Mr. EDWARD
+                    LLWYD's Manuscripts' in the 'Advertisement' to <hi rend="italic">A tour in Wales 1770 [1773]</hi> (2nd edn., 1784), II, p. ii, and evidence 
+                        of his consultation of them is noted in footnotes throughout both volumes of the tour.</note> I had been given to understand that Lhwyd's MS.S. were at <placeName ref="pl3322">Beechwood</placeName>, but I found
+                    several of his Handwriting in <persName ref="pe0138">L<hi rend="superscript">d</hi> Macclesfield</persName>'s 
+                    <bibl type="authorial"><title ref="bi0078">Collection</title></bibl>, 
+                    besides several Volumes which I presume must have been 
+                    his Property.<note type="editorial">Edward Lhuyd's hand in the Macclesfield collection (now NLW, Llanstephan 1–154) is limited to 
+                    five manuscripts (Llanstephan 4, 84, 137, 145 and 185). Of these, two are compilations of Lhuyd's, a Cornish vocabulary 
+                    dated <hi rend="italic">c</hi>. 1700 (Llanstephan 84), 
+                    and a pocket field notebook of 1698 (Llanstephan 185). Daniel Huws, <hi rend="italic">A Repertory of Welsh Manuscripts and Scribes</hi>
+                    (Aberystwyth: Centre for Advanced Welsh and Celtic Studies, forthcoming).</note>
+               </p>
+                
+                <p>I rode one Morning to <placeName ref="pl2876">Berkhamsted</placeName> and called at 
+                    <persName ref="pe0145">D<hi rend="superscript">r</hi> Jeffreys</persName>'s but had not the good Fortune to find him at Home, 
+                    however I had the Pleasure to hear that all the Family were well. I enclose herewith a Frank which I procured at 
+                    <placeName ref="pl3322">Beechwood</placeName> agreeably to the Request mentioned in your Favour which I received on my Arrival there.
+                    I propose going to <persName ref="pe0138">L<hi rend="superscript">d</hi> Macclesfield</persName>'s to morrow, and to examine
+                    his Lordships's M.S.S. once more. If any thing occurs worth your Attention you may depend upon receiving it with all possible
+                    Expedition. I am
+                </p>
+                
+                <closer><salute>Dear Sir<lb/>
+                    your obliged humble Servant
+                </salute>
+                    <signed><persName ref="pe0322">Jno Jones</persName></signed>
+                    <dateline><placeName ref="pl1347">Oxford</placeName> Sept: 21 1779</dateline>
+                </closer>
+                
+            </div>
+            <div>
+                <p><address><addrLine><persName ref="pe0232">T. Pennant Esq<hi rend="superscript">r</hi></persName></addrLine></address></p></div>
+            
+        </body>
+    </text>
+</TEI>

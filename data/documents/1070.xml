@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1070">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>12</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1788-02-11"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName>. February 11. 1788</dateline></opener>
+                <p>I hope you receiv’d the Box from <persName ref="pe0111">Hugh</persName>'s safe, and in good condition. 
+                    I lost no time in sending <add place="above">it</add> by my own servant to the inn, who saw it book’d, and 
+                    you should have had it sooner, could I have got the <bibl type="authorial"><title ref="bi0025">Introduction</title></bibl>
+                press'd.</p>
+                <p>You had the goodness to say in your last, that your <persName ref="pe0065">Son</persName> would take the trouble to execute 
+                    any little commissions of mine in <placeName ref="pl1202">Spain</placeName>. I want little myself, but talking upon this 
+                    subject last night, with <persName ref="pe0860">Lord Exeter</persName>, he ask’d me whether 
+                    he might take the liberty to beg <persName ref="pe0065">M<hi rend="superscript">r</hi>: Pennant</persName> to purchase,
+                    &amp; bring home, any Engravings, of the Spanish Palaces, except the <sic><placeName ref="pl1428">Escerial</placeName></sic>,
+                    and also any prints he may find, engrav’d from any pictures in the Collections of the Kings of Spain,. <persName ref="pe0860">His Lordship</persName>
+                    is making up <bibl type="authorial"><title ref="bi0624"><persName ref="pe0861">Swinburne</persName>'s travels</title></bibl>,
+                    in a more magnificent way than the work deserves, but, chacun a son gout.<note type="editorial">'each to his own'.</note>
+                    - You are the best judge, whether or not, to give your <persName ref="pe0065">son</persName> a trouble of this sort.</p>
+                <p>If he should find the following prints for me, <hi rend="underline">not bigger than large Quarto size</hi>, I should be very 
+                    thankful, if he will buy ’em on my account.
+                    <lb/><rs type="art" ref="ar0146"><persName ref="pe0862">Don Alphonso de la Curva, Marquis of Bedmar</persName> (last century</rs>
+                    <lb/><rs type="art" ref="ar1059"><persName ref="pe0863">Marquis De Croy</persName>, Viceroy in new spain 1772</rs>
+                    <lb/><rs type="art" ref="ar1060"><persName ref="pe0864">Don Rodorigo <add place="above">Caldérone</add> Count of Olivares</persName>.</rs> (last century)
+                    <lb/><rs type="art" ref="ar0194"><persName ref="pe0865">Marquis of Denia Duke of Lerma</persName></rs>. (the favorite.)
+                    <lb/><rs type="art" ref="ar0148"><persName ref="pe0866">John de Velasco, Duke of Fria's</persName>. (last century.<note type="editorial">The title of Duke of Frías was held successively by several members of the de Velasco family during the seventeenth century. Bull appears to be referring to Juan Fernández de Velasco, fifth Duke (portraits of whom are not readily available), but may rather have intended to obtain prints of his successors Bernardino Fernández, Íñigo Melchor or José Fernández.</note></rs>
+                    <lb/><rs type="art" ref="ar0149"><persName ref="pe0867">Don Joseph Galves <add place="above">now</add> director of Indian affairs in <placeName ref="pl1202">spain</placeName></persName>, 1778.</rs>
+                    <lb/><rs type="art" ref="ar0150"><persName ref="pe0868">Don Pedro Giron, Duke of Ossuna</persName> (livd in last century.)</rs>
+                    <lb/><rs type="art" ref="ar0151"><persName ref="pe0869">Marquis of <placeName ref="pl1436">Rosni</placeName> (before he became Duke de Sully.)</persName></rs>
+                    <lb/><rs type="art" ref="ar0152">Monastry of S<hi rend="superscript">t</hi>. Juste</rs>.
+                    <lb/><rs type="art" ref="ar0153"><persName ref="pe0870">Don Bernardo Sandoval, Archbishop of Toledo</persName></rs>. (<persName ref="pe0865">Duke of Lerma</persName>'s brother<note type="editorial">Bernardo de Sandoval y Rojas appears to have been the uncle, not the brother, of Francisco Gómez de Sandoval, first Duke of Lerma.</note>
+                    <lb/><rs type="art" ref="ar0147"><persName ref="pe0871">Duke of Feria</persName>, who came to <placeName ref="pl0775">England</placeName>, with <persName ref="pe0872">Philip the second</persName></rs>,
+                    <lb/>This print. I particularly want, and more than one of ’em.
+                    <lb/><rs type="art" ref="ar0154"><persName ref="pe0873">Duke of Gandia</persName> (of the last century</rs>.
+                    <lb/><rs type="art" ref="ar0155"><persName ref="pe0874">Conde de Lemos</persName>, last century</rs>.
+                    <lb/><rs type="art" ref="ar1061"><persName ref="pe0875">Cardinal Ximenes</persName>. from any authenticated picture</rs>. -</p>
+                <p>If I had time, I know of nothing new to write about. Elopements are the topicks of the present conversation –. the beautiful 
+                    daughter of my old friend <persName ref="pe0384">Sir Henry Clinton</persName>, has gone
+                    off, with a <persName ref="pe0877">beggar, but he is a Captain, and a Beau</persName>. She was a <hi rend="underline">pattern</hi>
+                    Girl, and all such run away, I never knew it other wise. but the most extraordinary is <persName ref="pe0878">Lady Anna Maria Bowes</persName>,
+                    who went across a street upon a plank, from one garret to the other, to meet her paramour,
+                    whom She never exchang’d a word with, except from the opposite window. had she made a faux pas in her passage, the fall would have been 60 feet.</p>
+                <closer>
+                    <salute>I wish you, and yours health and happiness, and sober children.
+                        <lb/>I am, Dear Sir, yours faithfully</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                    <dateline><placeName ref=""/></dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

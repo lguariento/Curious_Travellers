@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1045">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 48</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Above address</hi>:<note type="editorial">Both notes in Richard Bull's hand, the second in pencil.</note></p>
+                            <p>Thanks for little prints
+                                <lb/>1784 but Q</p>
+                        </additions></physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date>26 July [1785]<note type="editorial">For the dating of this letter, see n. 3.</note></date>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline> <placeName ref="pl0001">Downing</placeName>, July 26<hi rend="superscript">th</hi> /86<note type="editorial">The year, '86', is added in Richard Bull's hand.</note></dateline><salute>Dear Sir</salute></opener>
+                <p><persName ref="pe0014">Moses</persName> &amp; I have <del><gap unit="letters" quantity="2" reason="illegible"/></del> layed
+                    our heads together about y<hi rend="superscript">r</hi> <bibl type="authorial"><title ref="bi0032">Journey to London</title></bibl>
+                    &amp; do determine that it is impossible for him to finish all the drawings in the time promised. I send the inclosed list<note type="editorial">This has not been preserved with the letter.</note> of some done by a <persName ref="pe0430">M<hi rend="superscript">r</hi> Stringer of <placeName ref="pl1017">Lichfield</placeName></persName>
+                    a very ingenious &amp; reasonable man. I wish it may be agreable to you (if you chuse a set) to have them done by him &amp; if you permit, &amp; inform me by a line addressed to me at the
+                    <persName ref="pe0390">Rev<hi rend="superscript">d</hi> Doctor Falconer</persName>'s in <placeName ref="pl1017">Lichfield</placeName>,
+                    I will give the necessary orders. I shall be there the 20<hi rend="superscript">th</hi> of next month in an excursion I make to bring
+                    <persName ref="pe0065">my son</persName> as far as <placeName ref="pl0543">warwick</placeName> in his way to his winter quarters.<note type="editorial">On David Pennant's departure in August 1785 for Yverdon, where he was to spend winter learning French, see <ref target="1044.xml">1044</ref>. The August date corresponds with the '20th of next month' (i.e. August), mentioned here.</note>
+                    <persName ref="pe0014">Moses</persName> is to accompany me on this little Tour, that he may take different views of that elegant castle which may prove illustrations to a third part of a 
+                    <bibl type="authorial"><title ref="bi0032">journey to London</title></bibl>.<note type="editorial">It is unclear what Pennant means by a 'third part of a journey to London'. He may have had a plan for extending his own and Bull's extra-illustrated versions of <hi rend="italic">The journey from Chester to London</hi> to three volumes.</note>
+                    He is working hard for you at present: but despairs of doing those I mention, He recommends for them the original painter.</p>
+                <closer>
+                    <salute>I am
+                    <lb/>Dear Sir
+                    <lb/>Y<hi rend="superscript">rs</hi> most faithfully</salute>
+                    <signed><persName ref="pe0232">T Pennant.</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

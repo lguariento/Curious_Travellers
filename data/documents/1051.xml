@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1051">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 52</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        
+                        <additions><note type="editorial">At the bottom of the page in Richard Bull's hand.</note>
+                            <p>leave for <placeName ref="pl1335">Dunstable priory</placeName>. <gap unit="letters" quantity="4" reason="illegible"/> amateur's<note type="editorial">See Bull's comment on having recommended Moses Griffith's rejected extra-illustrated first volume of A tour in Wales to several 'Amateurs', in <ref target="1052.xml">1052</ref>.</note></p>
+                            
+                        </additions>
+                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1786-02-13"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+                <p>I was in hopes of hearing that you was confirmed in <placeName ref="pl0759">y<hi rend="superscript">r</hi> town residence</placeName>
+                    before this especially as I am now fixed on a short visit to <placeName ref="pl0699">the capital</placeName> next month.
+                    your company will be no small comfort during my stay. <persName ref="pe0014">Moses</persName> begs
+                    y<hi rend="superscript">r</hi> acceptance of the inclosed for p. 56<hi rend="superscript">X</hi>
+                    of the <bibl type="authorial"><title ref="bi0012">welsh Tour</title></bibl>. He is much vexed about the dirt on some of the pages; but hopes not to forfeit y<hi rend="superscript">r</hi>
+                    favor. I must inform you of a very disagreable disappointment he has experienced from a welsh squire of very considerable fortune<note type="editorial">The man in question has not been identified.</note>
+                    who bespoke <del><gap unit="letters" quantity="7" reason="illegible"/></del> a <bibl type="authorial"><title ref="bi0012">first volume of the welsh tour on large paper</title></bibl>
+                    illuminated on the margins as your is with numbers of other drawings &amp; prints. 
+                    This is a heavy loss to him. you will lay me under an obligation if you would recommend it to a purchaser. The poor man is much 
+                    hurt by the dirty treatment he met with, as he had entered into a small business on the strength of the expectation. I annex in 
+                    the P. S. the number of drawings, which will be charged as yours were.</p>
+                <closer>
+                    <salute>I am
+                    <lb/>Dear Sir
+                    <lb/>with truest regard
+                    <lb/>Y<hi rend="superscript">rs</hi> most faithfully</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                    <dateline><placeName ref="pl0001">Downing</placeName> Febr. 13 1786. Q.<hi rend="superscript">th</hi>.<note type="editorial">The year 1786 is added by Richard Bull in pencil with a 'Q.' denoting uncertainty.</note></dateline>
+                </closer>
+                <postscript>
+                    <p>
+                        <hi rend="superscript">X</hi> <rs type="art" ref="ar0253">virgula divinatoria</rs>.<note type="editorial">'Divining rod'. Pennant writes that Agricola ‘places no kind of faith in it, assuring us, that the skilful miner should follow the natural signs of the mineral veins, and despise the use of these enchanted sticks’. Pennant, <hi rend="italic">A tour in Wales MDCCLXX</hi> (1778), p. 54.</note>
+                        <lb/>147 coats of arms
+                        <lb/>103 views &amp;c on the margin &amp; some large drawings the size of the leaf.
+                        </p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

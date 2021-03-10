@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1194">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 129</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1796-06-03"/>
+                    <placeName ref="pl1017">Lichfield</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl1017">Lichfield</placeName> June 3<hi rend="superscript">d</hi>. 1796.</dateline></opener>
+                <p>I left <placeName ref="pl0001">Downing</placeName> on Saturday last, but neither hotpressed <bibl type="authorial"><title ref="bi0034">Whiteford</title></bibl>
+                    or letter had then arrived. my fears make me augur something amiss: but I trust that nothing materially amiss has befel 
+                    <persName ref="pe0331">miss Bull</persName> or yourself. I am in a train of visit. shall stay two nights at a friend’s near 
+                    <placeName ref="pl2576">Leatherhead</placeName>,<note type="editorial">  Pennant's friend near the town of Leatherhead, Surrey, has not been identified.</note>
+                    and conclude at the primary object of our journey, a near relation of <persName ref="pe0238">M<hi rend="superscript">rs</hi> Pennant</persName> 
+                    at <placeName ref="pl2575">East malling</placeName> – on the 13<hi rend="superscript">th</hi>. I shall make a short visit to <persName ref="pe0237">my Sister</persName>
+                    in <placeName ref="pl0798">upper Grosvenour street</placeName>. a line sent there on the evening of that day will give me pleasure if it brings news of your welfare. 
+                    I hope to contrive to find an hour to pass with you. my stay will not exceed four days &amp; those will be in full employ. every good wish attend <persName ref="pe0331">miss Bull</persName> &amp; yourself.</p>
+                <closer>
+                    <salute>Adieu
+                    <lb/>Dear Sir
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <stamp type="postmark"><placeName ref="pl1017">LICHFIELD</placeName>; A<gap unit="letters" quantity="1" reason="illegible"/>U 4 <gap unit="letters" quantity="1" reason="illegible"/>6</stamp>
+                </p>
+                <p><address>
+                    <addrLine><persName ref="pe0313">Richard Bull</persName> Esq<hi rend="superscript">r</hi> | <placeName ref="pl0759">Stratton Street</placeName> | <placeName ref="pl2035">Piccadilly</placeName> | <placeName ref="pl0699">London</placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

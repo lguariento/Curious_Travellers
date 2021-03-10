@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1172">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>WCRO</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>49</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1793-10-01"/>
+                    <placeName ref="pl1013">North Court</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl1013">North Court</placeName>, <placeName ref="pl1020">Isle of Wight</placeName> Oct<hi rend="superscript">r</hi> 1. 1793</dateline></opener>
+                <p>When I look at the date of your last letters, I am perfectly ashamed of myself; in truth I have every day intended writing, but various kind of occupations, to which from being unaccustom’d, I am unequal, have regularly prevented me. I doubt this place which I was so anxious to make my own, now become so, will lead me into Expenses, that will in the end, put me to some inconveniences, and make me think, of what I never did in my life, 
+                    the reduction of my menus plaisirs,<note type="editorial">'small pleasures'.</note> and my print collecting vagaries. I have above twenty workmen to look after, and to keep in order, and the Fleet and army bring us so many unexpected, and 
+                    <hi rend="underline">unintimate</hi> visitors, that I am sometimes under difficulties to feed, and lodge them, and being in the midst of pulling down, and building up, I have no loose days to throw away upon <add place="above">these</add>
+                    lounging travellers, who expect one at their elbows from morning until night. We rejoice at the circumstances of <persName ref="pe0065">M<hi rend="superscript">r</hi>. Pennants</persName><note type="editorial">A reference to the approaching marriage of David Pennant and Louisa Peyton.</note> being about to settle in a manner so much to all your Satisfactions, and I hope it will not be a great way from
+                    <placeName ref="pl0001">Downing</placeName>. – Stet fortuna Domus,<note type="editorial">'Let the fortune of the house stand'.</note> &amp;<hi rend="superscript">c</hi>. -----</p>
+                <p>I have been at <placeName ref="pl2536">Godshill church</placeName>, but my Ciceroni <persName ref="pe0383">M<hi rend="superscript">r</hi>. Clarke</persName> having long been out of the 
+                    <placeName ref="pl1020">Island</placeName>, I can give you no present information respecting such monuments in that church, as are undescribed in <bibl type="authorial"><title ref="bi0290">Worsley</title></bibl>,
+                    nor have I that Book here to refer to, and, st<hi rend="underline">range to tell</hi>, I can’t hear of one copy at <placeName ref="pl1479">Newport</placeName>, or else where, that I might examine</p>
+                <p>
+                    as soon as <persName ref="pe0383">M<hi rend="superscript">r</hi>. Clarke</persName> returns, should the weather allow a septagenarian to ride so far, I will request him to go with me there; the roads are now too bad for a carriage.</p>
+                <p>
+                    <persName ref="pe1732">M<hi rend="superscript">rs</hi> Wise the Bookseller</persName> at <placeName ref="pl1479">Newport</placeName>, has a little box of <add place="above">M.S</add> Collections for this 
+                    <placeName ref="pl1020">Island</placeName>, which were her <persName ref="pe1733">Grandfathers</persName>. She won’t sell them, nor indeed do I know that they contain any matters 
+                    <del>already</del> more than already made public, except arms blazon’d, &amp; some bad views of Houses, and Churches. If she will lend them to me, I will bring them to <placeName ref="pl0699">London</placeName>,
+                    for your next winters perusal there. – I find there (amongst very many other Memoranda, which may, or may not be, in <bibl type="authorial"><title ref="bi0290">Worsley's publication</title></bibl><del>,</del>) a note, that on Sep<hi rend="superscript">r</hi>.
+                    8. 1650, died the <persName ref="pe1727">princess Elizabeth</persName> aged 19, a Lady of incomparable abilities, and admirable Virtues; being sent Prisoner to 
+                    <placeName ref="pl1358">Carisbrook Castle</placeName>, and from the Gentle tution (<hi rend="underline">tuition</hi> I suppose) of the <persName ref="pe1734">Earl of N<hi rend="superscript"><gap unit="letters" quantity="1" reason="illegible"/></hi>.</persName>
+                    being placed under the Custody of one <persName ref="pe1735">Mildmay</persName>, She wasted away, and expir’d with Extremity of melancholy, and Greif. - amongst
+                    the same collections, are pedigrees of the <persName ref="pe1736">Worsleys</persName>, <persName ref="pe1737">Oglanders</persName>, <persName ref="pe1738">Leighs</persName> &amp;c.
+                    and some bad drawings of tombs. – – I believe <persName ref="pe0436">Sir Richards</persName> library afforded very many of the materials for <bibl type="authorial"><title ref="bi0290">his Book</title></bibl>,
+                    and that <persName ref="pe1739">D<hi rend="superscript">r</hi> Wharton</persName>, or some well-inform'd friend <del>hash’d them up</del>
+                    lick’d them into form – but of this I am speaking without book –––––<note type="editorial">Worsley's preface to <hi rend="italic">The history of the Isle of Wight</hi> (London, 1781), unpaginated, 
+                        notes that the work is a continuation of the researches of his grandfather and father, Sir James and Sir Thomas Worsley, and acknowledges the assistance given him in preparing 
+                        their work for publication by unnamed gentlemen of the island. The Dr Wharton mentioned may be <persName ref="pe1739">Thomas Wharton</persName>.</note> I will learn the truth from <persName ref="pe0383">M<hi rend="superscript">r</hi> Clarke</persName>, 
+                    when I see him again. <persName ref="pe0436">Sir Richard</persName> has a good common understanding, but I hardly believe him au fait to compose such a book himself.</p>
+                <p>I did not say any thing relative to desiring the favor of a copy of <bibl type="authorial"><title ref="bi0269">this part of your travels</title></bibl>,
+                    because I hoped it might be printed some time hence, but should there be no such intention, I shall undoubtedly wish for a copy; have the goodness however first of all 
+                    to inform me how much I must pay for the same, because I must for some time to come consider prudence as well as pleasure, in my little pursuits; and upon that ground, I hope I shall not offend you, if for the
+                    <hi rend="underline">present</hi>, I desire you to accept only one Guinea, instead of two, for the reengraving the portrait of your <persName ref="pe0333">departed friend</persName>. 
+                    I have lost £700 by my obstinate perseverance in not selling out over the funds last Mid<hi rend="superscript">r</hi> to pay for <placeName ref="pl1013">this Estate</placeName>,
+                    but I own I thought the war could <hi rend="underline">not</hi> continue so long as I now think it is likely to do. <persName ref="pe0332">Storer</persName>
+                    is now the Rich Man of our acquaintance; I understand his father has left him an income of £3000 a year, &amp; I knew he had near £1100 per ann<hi rend="superscript">m</hi>
+                    of his own. <persName ref="pe0422">Rainsford</persName>, who had been here a long while, was sent for at a minutes warning <add place="above">from hence</add>
+                    to go as fast as he can to <placeName ref="pl1010">Gibraltar</placeName> to take the deputy Governorship there, in the room of <persName ref="pe1740">Ohara</persName>,
+                    who is gone to command <del>at <placeName ref="pl2537">Toulon</placeName></del> at <placeName ref="pl2537">Toulon</placeName>,
+                    carrying with him a considerable reinforcement of men.</p>
+                <p>
+                    <persName ref="pe0336">My Daughter</persName> continues growing better, and our proposed journey to <placeName ref="pl0796">Bath</placeName> is put off, but her constitution is so delicate, and tender, that we tremble least a winters relapse should be fatal. Congratulate 
+                    <persName ref="pe0065">M<hi rend="superscript">r</hi> D: Pennant</persName> in all our names, &amp; congratulate your selves likewise</p>
+                <closer>
+                    <salute>I am Dear Sir, always yours.</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

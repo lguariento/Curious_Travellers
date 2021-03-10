@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1140">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 97</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1791-10-24"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline><placeName ref="pl0001">Downing</placeName> Oct<hi rend="superscript">r</hi> 24<hi rend="superscript">th</hi> 1791.</dateline></opener>
+                <p>Our mail coach affair is in a good train.<note type="editorial">See <ref target="1138.xml">1138</ref> and <ref target="1139.xml">1139</ref>.</note>
+                    I have only one point to insist on; the injustice of its exemption from Tolls. The rich districts may bear it: but the poorer cannot. It is impossible that the 
+                    house of commons can refuse attention; else they may <add place="above">with</add> justice be branded as swindlers: to give a security: &amp; then dexterously to contrive to lessen it.</p>
+                <p>Let some other Drawcansir<note type="editorial">Drawcansir is the name of a character in George Villiers's burlesque <hi rend="italic">The Rehersal</hi> (1672), who in the last scene is made to enter a battle and to kill all the combatants on both sides. The word is 'Used allusively and attrib. to designate a blustering, bragging person'. <hi rend="italic">OED</hi>.</note>
+                    take up the affair of barbarity to men &amp; to horses. what multitudes of our own species have perishd or been maimed since the invention of mail coaches. our old 
+                    Jehus<note type="editorial">See 2 Kings ix. 20: ‘the driving is like the driving of Jehu the son of Nimshi, for he driveth furiously’. <hi rend="italic">OED</hi> defines 'Jehu' as 'A fast or furious driver'; 'A driver, a coachman', with examples dating 1682–1876.</note>
+                    may have killed their thousands, but the mails may, like king David, boast of their ten thousands.<note type="editorial">1 Samuel 18:7 ‘The women sang as they played, and said, “Saul has slain his thousands, And David his ten thousands”’.</note></p>
+                <p>Their guards too from their liveries seem to clame more than royal <sic>priveleges</sic>: their sport (on our roads) is to shoot at every thing they see. at the human race they shoot powder for the fun of frightening poor people. By this fun a 
+                    <persName ref="pe1535">m<hi rend="superscript">r</hi><del>m<hi rend="superscript">r</hi></del> John Bulkley</persName>
+                    a clergyman was flung out of his whisky, &amp; lost his life in consequence.<note type="editorial">See the account in <hi rend="italic">A letter ... on mail-coaches</hi> (1792), p. 16, where Pennant reports how, in an incident in Anglesey, a mail-coach guard ‘discharged his pistol wantonly in the face of a chaise horse, drawing his master, the Rev. John Bulkely, who was flung out, and died either on the spot or soon after.’</note>
+                    a poor woman was about the same time flung from her horse &amp; broke her leg. many more instances may be adduced. last spring a poor Gatekeeper was shot dead near 
+                    <placeName ref="pl1049">Conwy</placeName>; &amp; no inquisition made. &amp; within this <add place="above">month</add> <hi rend="underline"><persName ref="pe0393">The Prince of Wales</persName></hi>*<note type="authorial">*a Guard from his beauty &amp; fine person so calld.</note>
+                    threatening to blow out a Gate keepers brains &amp; shooting his dog was apprehended by order of <hi rend="underline">my</hi> worship &amp; brought before me to the quarter 
+                    where I gave a long lecture on mail coaches and scouting the idea of their being sanctuaries, have laid it down that they might be stopt in various cases as 
+                    <del>readi</del>safely as a <del><gap unit="letters" quantity="6" reason="illegible"/></del> higlers cart. This was strange Doctrine! but it was high time to inculcate it. 
+                    <persName ref="pe0419">m<hi rend="superscript">r</hi> Palmer</persName> bounced: threatend to take away our mail – I knew he did not dare to do it from a trail of road that now boasts of commerce inferior to very few in 
+                    <placeName ref="pl0775">england</placeName>. <placeName ref="pl1251">Holywell</placeName> with the old trade of <placeName ref="pl0702">Flintshire</placeName>
+                    lead. has now more than a million stock. But his wor<del><gap unit="letters" quantity="2" reason="illegible"/></del>ship has bodderd
+                    you sufficiently. I have <del><gap unit="letters" quantity="several" reason="illegible"/></del>been thirty six years an active Justice – wish to retire: but I fear I shall make a gap: till 
+                    <persName ref="pe0065">my son</persName> <del>fills</del><add place="above"><del>it</del></add> whom I made <add place="above">to</add>
+                    take out his dedimus at the age of 22 <add place="above">supplies my place</add> life without use is nothing worth. all the effusions of my pen are amusing vanities!</p>
+                <p>I <del><gap unit="letters" quantity="2" reason="illegible"/></del>was neither art or part in <persName ref="pe0371">Boydel</persName>'s
+                    inclosed:<note type="editorial">The enclosure is not preserved with the manuscript letter.</note> but c<hi rend="superscript">d</hi> not refuse him a little [of]
+                    scribble as a neighbor or country man. [to] as [thro']
+                    the acc<hi rend="superscript">t</hi> of it. The <bibl type="authorial"><title ref="bi0411">Bible</title></bibl> [found]
+                    you [this]<note type="editorial">The words set in brackets in this section (of, to, thro', for, found, this) are inserted in pencil between the ink used by Pennant. Their presence distorts what is otherwise sound prose.</note> mention is too big in size &amp; price. I suppose you know <persName ref="pe1536">Fittlers</persName>
+                    little but elegant undertaking of a <bibl type="editorial"><title ref="bi0414">small Bible</title></bibl>. That is a species of reading, 67 should think of &amp;
+                    I do, It’s contents are the <del><gap unit="letters" quantity="several" reason="illegible"/></del> simplest. yet the finest that we can apply to for the rule of life.</p>
+                <p>I expect <persName ref="pe0065">my David</persName> on wednesday. he landed about ten days ago: but staid with his good <persName ref="pe0237">aunt</persName>
+                    &amp; to refit, the intervening days. I am very sorry to hear of <persName ref="pe0336">miss C. Bulls</persName> 
+                    illness. health &amp; happiness attend them &amp; yourself: <del><gap unit="words" quantity="9" reason="illegible"/></del></p>
+                <closer>
+                    <salute>Adieu
+                    <lb/>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                    <dateline><placeName ref=""/></dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

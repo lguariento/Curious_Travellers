@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1116">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Bull to Thomas Pennant</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>County Record Office</repository>
+                        <idno>CR2017/ TP 189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>25</locus></ab>
+                    </msContents>
+                    <physDesc>
+                        <additions><p><hi rend="italic">Endorsement on top of first page in Thomas Pennant's hand</hi>: <hi rend="underline">answ<hi rend="superscript">d</hi></hi></p></additions>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0313">Richard Bull</persName>
+                    <date when="1791-01-03"/>
+                    <placeName ref="pl0759">Stratton Street</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute> <dateline><placeName ref="pl0759">Stratton Street</placeName> Jan<hi rend="superscript">y</hi>. 3. 1791.</dateline></opener>
+                <p>These, I trust, are not my last words, but they are the first I have been able to write since December 12<hi rend="superscript">th</hi>.
+                    on which day I left <placeName ref="pl1013">Northcourt</placeName>, very ill indeed. We came over in a violent gale of wind, and I grew 
+                    worse, and worse, all the journey, and as soon as I came to <placeName ref="pl0699">London</placeName>, sent for 
+                    <persName ref="pe0432">D<hi rend="superscript">r</hi>. Turton</persName>, who found me in a putrid fever, and till within these few days 
+                    I have never left by bed, except to have it made. He says there have never been any Symptoms of danger, and I am beginning to 
+                    gain strength, but it has left me very low, and has taken away almost all the little hearing I had. I have said a great deal 
+                    more than there was occasion for, because I wish’d to excuse myself as well as I can for not answering your letter, which I was 
+                    allow’d to see only a few days ago. a few things in your last letter, and in that <del><gap unit="letters" quantity="1" reason="illegible"/></del>
+                    last <del><gap unit="letters" quantity="7" reason="illegible"/></del> which came since my return,<note type="editorial">Bull refers to letters 
+                        <ref target="1114.xml">1114</ref> and <ref target="1115.xml">1115</ref>.</note> require some sort of answer, and
+                    then I must finish because I have a painfull Rheumatism in my wrist, which I am with much difficulty, and my head is very weak, and rambling.</p>
+                <p>The best authenticated heads of <rs type="art" ref="ar0173">Cranmer</rs>, are that in the <bibl type="authorial"><title ref="bi0180">Heroologia</title></bibl>
+                    and that <rs type="art" ref="ar0174">Engraved by <persName ref="pe0433">Virtue</persName> from <persName ref="pe0401">Holbein</persName></rs>.
+                    <persName ref="pe0316">Granger</persName> always prefer’d the first.<note type="editorial">Bull perhaps intended to refer here to the portrait of Cranmer in Thoroton, <hi rend="italic">The antiquities of Nottinghamshire</hi>, recommended by Granger in <hi rend="italic">A biographical history of England</hi>, vol. 1, p. 95.</note> - with
+                    respect to the Ships – I with pleasure inform you, that a sett <del>are</del> have been publish’d, (I think in 1788) done neatly in mezzotinto, upon a small 
+                    Quarto paper, from a cutter to a first rate, with their heads, and ornaments upon detach’d plates. they consist of 
+                    eight prints,<note type="editorial">Bull responds to a query in <ref target="1114.xml">1114</ref>. For a comparable set of ten prints held at the British 
+                        Museum, entitled 'Des Ports d'Angleterre' (The ports of England) (1788), by Antonio Suntach after Thomas Milton, 
+                        see <ref type="http" target="http://www.britishmuseum.org/research/collection_online/search.aspx?searchText=ports%20d%27angleterre">here</ref> [accessed 29 September 2018].</note>
+                    which I will get for you if providence designs me the powers of acting again, for myself, or my friends</p>
+                <p>I enclose, the old Balloon –<note type="editorial">For this print, see <ref target="1115.xml">1115</ref>, n. 1.</note> it was long, very long ago that I tore it out of a book, which I gave to <persName ref="pe0316">Granger</persName>,
+                    without taking any account of it, not imagining I should ever have occasion to make any enquiries about the matter, – ’twas 
+                    <del><gap unit="letters" quantity="1" reason="illegible"/></del> before the Ballooning rage began that I bought the book. 
+                    pray send me the print back again, or bring it when you, come to town, because I am frequently ask’d for it. –</p>
+                <p>my 
+                    daughters<note type="editorial"><persName ref="pe0331">Elizabeth</persName> and <persName ref="pe0336">Catherine Bull</persName>.</note> are both well. – they were born to be nurses, and for nothing
+                    <del>highter</del> higher, but their abilities were never call’d into action before. I sincerely hope you, and yours continue 
+                    in good health. If you can read this, ’tis all I expect from it.</p>
+                <closer>
+                    <salute>Adieu my
+                        <lb/>Dear Sir, believe me, sincerely your</salute>
+                    <signed><persName ref="pe0313">Rich<hi rend="superscript">d</hi>: Bull</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

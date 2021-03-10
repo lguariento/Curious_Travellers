@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1310">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hugh Davies to Thomas Pennant, 4 September 1779</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>2594E, Caernarvonshire folder</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc><additions><p><hi rend="italic">Endorsement in Thomas Pennant's hand</hi>: Arms of <persName ref="pe0945">Ednyfed fychan</persName></p></additions></physDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent"><persName ref="pe0903">Hugh Davies</persName>
+                    <date when="1779-09-04">4 September 1779</date>
+                    <placeName ref="pl1486">Beaumaris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001"/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1311"/>
+                    <ref type="prev" target="ct1309"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+             
+                <p>Looking into an old book of arms lately, I found the colors of the arms which you observed on <placeName ref="pl1489">Penmynydd house</placeName> 
+                    – Gules, Chevron argent between three saxons heads coup’d proper: with these words, <persName ref="pe0945"><hi rend="underline">Edneved</hi> <hi rend="underline"> Vaughan</hi></persName>; 
+                    of him doe descend men of <placeName ref="pl1489">Penmynydd</placeName> in <placeName ref="pl1093">Anglesey</placeName>, and Others. –</p>
+                
+                <p>Gules, chevron argent between three helmets. <persName ref="pe0946">Tudur the son of Grono</persName>, of him doe descend 
+                    <persName ref="pe0947">Owain Tudur</persName> who married <persName ref="pe0948">Queene Katherin</persName> of whom descended the late 
+                    <del>q</del>Queene.<note type="editorial">This probably refers to <persName ref="pe0357">Elizabeth I</persName>.</note> </p>
+                
+                <p>I also <del>I</del>Saw there – <del><gap reason="authorial" unit="letters" quantity="1"/></del>Azure, A Lion passant – guardant 
+                    Or, armed gules, with these words; - <persName ref="pe0950"><hi rend="underline">Madoc</hi> <hi rend="underline"> Gloddaith</hi></persName>, 
+                    of him doe descend by marriage of his heirs female the <persName ref="pe0845"><hi rend="underline">Mostins</hi></persName> of 
+                    <placeName ref="pl0702">Flintshire</placeName>.<lb/>
+                    and<lb/>
+                    Argent, three Fesses waved azure, on the middle of them three birds? argent –<lb/>
+                    <persName ref="pe0951"><hi rend="underline">Yswittan</hi> <hi rend="underline"> Wyddel</hi></persName>, of him doe descend divers gentlemen in 
+                    <placeName ref="pl1221">north-wales</placeName>. –––– the last arms I fancy to have seen on some part of <placeName ref="pl0001">your house</placeName> –
+                </p>
+                
+                <p>I beg my Respects to <persName ref="pe0238">M<hi rend="superscript">rs</hi>.</persName> &amp; <persName ref="pe0234">Miss Pennant</persName></p>
+                
+                
+                <closer><salute>and am, Dear Sir, your most humble Serv<hi rend="superscript">t</hi>.
+            </salute>
+                    <signed><persName ref="pe0903">Hugh Davies</persName> –</signed>
+                   
+                    <dateline><placeName ref="pl1486">Beaumares</placeName>, Sept<hi rend="superscript">r</hi>. 4<hi rend="superscript">th</hi>. 1779. –––– </dateline></closer>
+                
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>

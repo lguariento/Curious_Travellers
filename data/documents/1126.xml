@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1126">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to Richard Bull</title>
+            <respStmt>                     <name>Transcribed by Ffion Mair Jones; edited by Ffion Mair Jones; encoded by Vivien Williams. (2019)</name>                 </respStmt></titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Aberystwyth</settlement>
+                        <repository>National Library of Wales</repository>
+                        <idno>5500C</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>no. 91</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1791-02-26"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0313">Richard Bull</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage> <!-- delete as appropriate -->
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute><dateline><placeName ref="pl0001">Downing</placeName> Febr. 26<hi rend="superscript">th</hi> - 91</dateline></opener>
+                <p>You &amp; I are certainly related: for y<hi rend="superscript">r</hi> expedition can only be equalled by my own.</p>
+                <p>In <bibl type="authorial"><title ref="bi0358">Magna Britan<del><gap unit="letters" quantity="1" reason="illegible"/></del>nia vol. II</title></bibl> p. 863
+                    is an ample acc<hi rend="superscript">t</hi> of <placeName ref="pl1705">Southwick</placeName> which I discover<hi rend="superscript">d</hi>
+                    this morning.<note type="editorial">The account of Southwick is at p. 863 of Thomas Cox, <hi rend="italic">Magna Britannia</hi>, II, as Pennant notes here.</note> <persName ref="pe0375">Cambden</persName> &amp; <persName ref="pe0104">Gough</persName> are silent about this remarkable place. I have a most charming 
+                    <rs type="art" ref="ar0028">head of Charles I</rs> by <persName ref="pe0595">Vandyck</persName>. purchas<hi rend="superscript">d</hi>
+                    about 50 years ago from the very house in question: It was presented by that worthy <add place="above"><placeName ref="pl1357">Portsmouth</placeName></add> Commissary
+                    <persName ref="pe1254"> Pusey Brook</persName>, &amp; given by him to a neighbor of ours, who again presented it to <persName ref="pe0341"><del><gap unit="letters" quantity="1" reason="illegible"/></del>my father</persName>.
+                    I hope much may be collected concerning that house: but no haste is required.</p>
+                <p>I am much obliged to <persName ref="pe0412">M<hi rend="superscript">r</hi> H. M.</persName> for his intelligence.</p>
+                <p>I will send you the <rs type="art" ref="ar0229">Birds</rs> in due time</p>
+                <p><persName ref="pe0014">Moses</persName> will rejoice to obey y<hi rend="superscript">r</hi> commands.</p>
+                <p>The <persName ref="pe0009">Edinburgh Barber</persName> is inexhaustible</p>
+                <closer>
+                    <salute>Y<hi rend="superscript">rs</hi> most truely</salute>
+                    <signed><persName ref="pe0232">T Pennant</persName></signed>
+                </closer>
+                <postscript>
+                    <p>so good as to give me the name of <persName ref="pe0378"><hi rend="underline">Marseilles Good Bishop</hi></persName>.
+                        when he died where buried &amp; has he a tomb. If you cannot <persName ref="pe1255">m<hi rend="superscript">r</hi> Seward</persName>
+                        perhaps can: to whom I make free to inclose a line.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

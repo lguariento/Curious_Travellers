@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0199">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, enquiring after Low and relaying publication
+                    plans</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>141-142</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-11-07"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0200"/>
+                    <ref type="prev" target="ct0198"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><salute>Dear Sir</salute></opener>
+
+                <p>I am much obliged to you for three favors all of much use. Please to make a
+                    little bill for the money you have laid out &amp; I will send you a draft. I
+                    wonder we hear nothing of <persName ref="pe0156">M<hi rend="superscript">r</hi>
+                        Low</persName>. I hope he is not ill. do not trouble you about <bibl type="authorial"><title ref="bi0159">Lord Hails book</title></bibl>. I can
+                    get it here readier from <placeName ref="pl0699">London</placeName>. I thank you
+                    for the hint about repetition which shall be fully attended to. The two first
+                    volumes of the <bibl type="authorial"><title ref="bi0020">new edition of Br.
+                            Zool</title></bibl> are almost printed. I presume it will appear in
+                    spring. the q<hi rend="superscript">to</hi> will be very handsome.</p>
+                <closer><salute>I am Dear Sir <lb/>very affect<hi rend="superscript">ly</hi> y<hi rend="superscript">rs</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName></signed>.
+
+                <dateline><placeName ref="pl0001">Downing</placeName> Nov<hi rend="superscript">r.</hi> 7<hi rend="superscript">th.</hi> 1775.</dateline></closer>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>Custom House</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

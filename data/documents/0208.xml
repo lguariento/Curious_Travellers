@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0208">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, requesting information on a poem; plans to
+                    send prints and books</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>157-158</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1776-04-08"/>
+                    <placeName ref="pl0699">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0209"/>
+                    <ref type="prev" target="ct0207"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline>London. April 8<hi rend="superscript">th</hi> 1776</dateline>
+
+                <salute>Dear Sir</salute></opener>
+                <p>I quite agree with you about neglecting the attack from the Macgregor.<note type="editorial">See Pennant's letter to Paton on 3<hi rend="superscript">rd</hi> February 1776 and notes.</note>
+                    <persName ref="pe0156">M<hi rend="superscript">r</hi> Low’s</persName>
+                    <bibl type="authorial"><title ref="bi0058">M.S.</title></bibl> will be welcome
+                    at any time but it need not be hurried as I shall be much out this summer.</p>
+                <p>Pray do you know anything of a Poem by <persName ref="pe0542">James I.</persName>
+                    called <bibl type="authorial"><title ref="bi0208">la
+                        Beltain</title></bibl>.<note type="editorial">Probably a reference to the
+                        popular ballad 'Peblis to the Play', in which Beltane celebrations are
+                        mentioned. The attribution to James I of Scotland is disputed.</note> I am
+                    told it exists. I see it mentioned in <bibl type="authorial"><title ref="bi0191">Major</title></bibl>. The Prints shall be sent with my books as soon as
+                    the last appear. I must take the liberty of troubling you with the distribution.
+                    I am in much haste. But command my services here till May. 1<hi rend="superscript">st.</hi> when I leave town.</p>
+                <closer><salute>I am D<hi rend="superscript">r</hi> Sir <lb/>y<hi rend="superscript">r</hi> very humble Serv<hi rend="superscript">t</hi></salute>
+                    <lb/><signed><persName ref="pe0232">Tho. Pennant</persName></signed></closer>
+
+                <postscript>
+                    <p>Pray say nothing of my request of not communicating what I think I have a
+                        right to. or people will be angry at me.</p>
+                    <p>My escape from the fall of <placeName ref="pl1770">Buckingham
+                            Church</placeName> is very true.<note type="editorial">In his <bibl type="editorial"><title ref="bi0041"><hi rend="italic">Literary
+                                        Life</hi></title></bibl> Pennant writes: 'At <hi rend="italic">Buckingham</hi> I narrowly escaped a death suited to
+                            an antiquary; I visited the old church at 8 o'clock in the morning of
+                                <hi rend="italic">March</hi> the 26th. It fell before 6 in the
+                            afternoon, and I escaped being buried in its ruins.' (London: 1793),
+                            p.24.</note></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

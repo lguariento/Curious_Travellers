@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct0201">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thomas Pennant to George Paton, requesting books and documents</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository>
+                        <idno>ADV. MSS. 29.5.5 (2 vols.) i</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus>145-146</locus></ab>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <date when="1775-12-24"/>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0228">George Paton</persName>
+                    <placeName ref="pl0696">Custom House, Edinburgh</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct0202"/>
+                    <ref type="prev" target="ct0200"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl0001">Downing</placeName> Decr 24<hi rend="superscript">th</hi> 1775.</dateline>
+                <salute>Dear Sir</salute></opener>
+
+                <p>I am very negligent in respect to my Letters but that inclosed to you is for
+                        <persName ref="pe0022">Doctor Ramsay</persName>. any account about the
+                        <unclear reason="illegible">Saury</unclear> will now be too late. You need
+                    not trouble y<hi rend="superscript">r</hi>self ab<hi rend="superscript">t</hi>
+                    <persName ref="pe0180">M<hi rend="superscript">r</hi> Balfours</persName>
+                    catalogue. only should he have <bibl type="authorial"><title ref="bi0181">Wilkins Leges saxonicæ</title></bibl> I should be glad of it. or <bibl type="authorial"><title ref="bi0141">Ballendines translation of
+                            Boethius</title></bibl>: or the <bibl type="authorial"><title ref="bi0189">english black letter Froissart</title></bibl>. I think the
+                        acc<hi rend="superscript">t</hi> of <placeName ref="pl1659">Dornadilla’s
+                        Tower</placeName> was in the <bibl type="authorial"><title ref="bi0512">St
+                            James’s Chronicle</title></bibl>.<note type="editorial">Pennant appears
+                        to be mistaken here: see his previous letter to George Paton on December
+                            3<hi rend="superscript">rd</hi> 1775.</note> I received <bibl type="authorial"><title ref="bi0081">Shaw</title></bibl>, &amp; <bibl type="authorial"><title ref="bi0193">Renfrewshire</title></bibl> safe: &amp; am indebted to
+                    you for them. As to <bibl type="authorial"><title ref="bi0064">magazines</title></bibl> I wish
+                    for them only annually: for I lose them. <persName ref="pe0105">M<hi rend="superscript">r</hi> Grose</persName> now goes on with spirit after
+                    a long interruption by reason of other business. I heartily wish you many happy
+                    returns of this season</p>
+                <closer><salute>&amp; am <lb/>Dear Sir <lb/>y<hi rend="superscript">r</hi> most
+                            obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi></salute>
+                    <signed><persName ref="pe0232">Tho. Pennant</persName>.</signed></closer>
+
+                <postscript>
+                    <p>Be so good as to put the inclosed in the post.</p>
+                </postscript>
+            </div>
+            <div>
+                <p><address>
+                        <addrLine>To</addrLine>
+                        <addrLine>M<hi rend="superscript">r</hi> Paton</addrLine>
+                        <addrLine>at the Custom house</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CT.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ct1360">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Philip Yorke to Thomas Pennant, 22 October 1786</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Warwick</settlement>
+                        <repository>Warwickshire County Record Office</repository>
+                        <idno>CR 2017/TP401/4</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <ab><locus/></ab>
+                    </msContents>
+                    <physDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="pe0243">Philip Yorke</persName>
+                    <date when="1786-10-22"/>
+                    <placeName ref="pl1244">Erthig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="pe0232">Thomas Pennant</persName>
+                    <placeName ref="pl0001">Downing</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="ct1361"/>
+                    <ref type="prev" target="ct1359"/>
+                </correspContext>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <opener><dateline><placeName ref="pl1244">Erthig</placeName>, Oct<hi rend="superscript">r</hi>. 22<hi rend="superscript">d</hi> 1786</dateline>
+                    <salute>My dear Friend,</salute></opener>
+                
+                <p>As reciprocally, you never deserve a letter, so I throw a Squib only at you.</p>
+                  
+                <closer><salute>Y<hi rend="superscript">rs</hi>. Affectly</salute>
+                    <signed><persName ref="pe0243">Ph: Yorke</persName></signed></closer>
+                <postscript><p>(Turn over)<lb/>
+                </p>
+                    <p>Clerici,* et Laici, x Comitatus <placeName ref="pl1216">Denbighiensis</placeName><lb/>
+                        <persName ref="pe0465">Regem</persName>, unanimiter, gratulantes –<note type="editorial">'The clergy and laity of the county of Denbigh | Unanimously congratulate the king'.</note>  Octob: 1786
+                    </p>
+                    <p>Since Counties, and Boroughs, and every Rape,<lb/>
+                        Together Rejoice in their <persName ref="pe0465">Sovereigns</persName> Escape;<note type="editorial">This refers to the stabbing of George III as 
+                            he came out of his carriage at St James's Palace on the evening of 2 August 1786 by a woman named Margaret Nicholson.</note><lb/> 
+                            <hi rend="underline">We</hi> a <hi rend="underline">like</hi>, on <hi rend="underline">each</hi> <hi rend="underline">part</hi>, acknowledge the Blessing:<lb/>
+                            And altho the King's <hi rend="underline">Wounds</hi>, were not <hi rend="underline">very</hi> pressing,<lb/>
+                            The Last x sent a <hi rend="underline">Cordial</hi>, the <hi rend="underline">First</hi> * gave a <hi rend="underline">Dressing</hi>. 
+                    </p></postscript>
+               
+                
+            </div>
+            <div><p><address><persName ref="pe0232">T: Pennant Esq<hi rend="superscript">r</hi></persName><lb/>
+                <placeName ref="pl0001">Downing –</placeName><lb/>
+                <placeName ref="pl0702">Flintshire</placeName></address></p></div>
+               
+            <div><p><stamp type="handstamp"><placeName ref="pl0792">WREXHAM</placeName></stamp>
+                <stamp type="frank"><placeName ref="pl0792">Wrexham</placeName> Oct<hi rend="superscript">r</hi> twenty two 86; <persName ref="pe0326">Watkin Williams Wynn</persName></stamp></p></div>
+            
+            
+        </body>
+    </text>
+</TEI>
