@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    <head data-template="templates:surround" data-template-with="templates/head.html" data-template-at="head"/>
+    
+    <body>
+        
+        <nav data-template="templates:surround" data-template-with="templates/nav.html" data-template-at="navigation"/>
+        <br/>
+        <div class="container">
+    <h3>
+        <span id="hitcount"/> containing 
+            "<span id="searchexpr"/>"
+        
+    </h3>
+    <hr/>
+    <table>
+        <thead>
+            <tr>
+                <th>Keyword in context</th>
+                <th>Document ID</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            <tr data-template="app:ft_search"/>
+        </tbody>
+    </table>
+        </div>
+    <footer data-template="templates:surround" data-template-with="templates/footer.html" data-template-at="footer"/>
+        
+    <script type="text/javascript" src="../static/js/count.js"/>
+        <script>
+             const urlParams = new URLSearchParams(window.location.search);
+             const searchexpr = urlParams.get('searchexpr');
+             console.log(searchexpr)
+             document.getElementById("searchexpr").innerHTML=searchexpr;
+        </script>
+    </body>
+</html>

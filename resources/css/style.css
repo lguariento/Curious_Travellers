@@ -1,0 +1,309 @@
+/*Application styles could go here */
+
+.row:before, .row:after {display: none !important;}
+
+/* .dropdown-item, .navbar-text {
+    
+    font-weight: bold;
+} */
+
+.navbar {
+    background-color: transparent !important;
+    /*opacity: 0.8;*/
+    border-bottom: 1px solid;
+    width: 100%;
+    flex-shrink: 0 !important;
+}
+
+.selectLetter {
+    font-size: larger;
+}
+
+.selectTour {
+    font-size: larger;
+}
+
+/* Style the tab */
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+/* Icon when the collapsible content is shown */
+
+span.caretAdd {vertical-align:sub;}
+span.add {vertical-align:super;}
+span.damage{background-color:#CCCCFF; font-size:.75em; font-style:italic;}
+
+span.unclear{text-decoration: underline wavy red;}
+.underline{text-decoration: underline;}
+
+.opener{
+    
+    margin-left: 2em;
+    
+}
+
+.dateline{
+    
+    text-align: right;
+    
+}
+
+.closer{
+    
+    margin-left: 2em;
+    
+}
+
+.quote {
+    margin-left: 4em;
+}
+
+.nav-item {
+padding-right: 20px;}
+
+#tours {
+    visibility: hidden;
+    background: white;
+    opacity: 0.8;
+}
+
+#letters {
+    visibility: hidden;
+    background: white;
+    opacity: 0.8;
+}
+
+.btnIntro:after {
+
+content: "[x]";
+/*float: right;*/
+margin-left: 5px;
+font-size: smaller;
+}
+/* Icon when the collapsible content is hidden */
+.btnIntro.collapsed:after {
+content: "[+]";
+font-size: smaller;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20em;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: cadetblue;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+
+#theIntro {
+    
+    visibility: hidden;
+    
+}
+
+.quote {
+  margin-left: 3em;   
+}
+
+p {
+    
+    text-align: justify;
+}
+
+
+.ctimage {
+
+    margin: 2em;
+    max-width: 40% !important;
+}
+
+.ctimagecenter {
+    text-align: center;
+max-width: 50%;
+margin-left: auto;
+margin-right: auto;
+}
+
+.ctimage figcaption {
+    
+    font-size: smaller;
+    margin-top: 2px;
+    text-align: justify;
+    
+}
+
+.ctimagecenter figcaption {
+    
+    font-size: smaller;
+    margin-top: 2px;
+    text-align: justify;
+    
+}
+
+.ctGoTo {
+    text-align: center !important;
+}
+
+.highlight {
+    background-color: sandybrown;
+}
+
+body, html {
+    background-color: #f4edd8;
+    height: 100%;
+}
+
+#bodyLT {
+
+    margin:0;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    max-width: 100%;
+    margin:auto;
+    z-index: -10000;
+    
+}
+
+input[id*='listInput'] {
+    /*background-image: url('../img/searchicon.png');*/ /* Add a search icon to input */
+    background-position: 10px 12px; /* Position the search icon */
+    background-repeat: no-repeat; /* Do not repeat the icon image */
+    width: 100%; /* Full-width */
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+}
+
+ul[id*="listUL"] {
+    /* Remove default list styling */
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul[id*="listUL"] li a {
+    border: 1px solid #ddd; /* Add a border to all links */
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #f6f6f6; /* Grey background color */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove default text underline */
+    font-size: 18px; /* Increase the font-size */
+    color: black; /* Add a black text color */
+    display: block; /* Make it into a block element to fill the whole list */
+}
+
+ul[id*="listUL"] li a:hover:not(.header) {
+    background-color: #eee; /* Add a hover effect to all links, except for headers */
+}
+
+.bg {
+    
+    height:100vh;
+    min-width:100%;
+    position:absolute;
+    margin:auto;
+    opacity: 0.5;
+    z-index: -10000;
+   
+}
+
+.bgLT {
+    
+    height:100vh;
+    min-width:100%;
+    position: fixed;
+    margin:auto;
+    opacity: 0.2;
+    z-index: -10000;
+   
+}
+
+.backg {
+    /* The image used */
+    background-image: url("banner.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  flex: 1 0 auto;
+  margin-bottom: 2em;
+  margin-top: 2em;
+}
+.footer {
+   border-top: 1px solid;
+   flex-shrink: 0 !important;
+   padding-top: 10px;
+   padding-bottom: 5px;
+   left:0px;
+   bottom:0px !important;
+   width:100%;
+   background-color: #a5b7c8;
+   opacity: 0.8;
+}
+
+
+.footer img {
+    padding-bottom: 0.5em;
+}
+
+.footer img:hover {
+    opacity: 1 !important;
+}

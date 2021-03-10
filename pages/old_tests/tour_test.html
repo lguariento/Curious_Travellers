@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    <head data-template="templates:surround" data-template-with="templates/head.html" data-template-at="head"/>
+    <body>
+        
+        <nav data-template="templates:surround" data-template-with="templates/nav.html" data-template-at="navigation"/>
+        <br/>
+        
+        <div class="container">
+            <h1>This si a test for my amazing modal</h1>
+            
+            <!-- Button trigger modal -->
+            <a href="#" data-toggle="modal" data-target="#exampleModalCenter">
+                Launch demo modal
+            </a>
+            
+            <!-- Modal -->
+            <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalCenterTitle">Modal title</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">X</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            ...
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a href="#" id="open">Dialog</a>
+        <div id="somediv"/>
+
+        
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">X</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div id="details"/>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer data-template="templates:surround" data-template-with="templates/footer.html" data-template-at="footer"/>
+        
+
+        <script src="../static/js/jquery-ui.min.js"/>
+<!--        <script>
+            $("#open").click(function () {
+            $("#somediv").load("pershits.html?searchkey=pe0232").dialog({modal:true}); 
+            });
+        </script>-->
+        <script>
+            $(document).ready(function(){
+            $("#open").click(function(){
+            
+            $("#myModal").modal();
+            $("#details").load("pershits.html?searchkey=pe0232")
+    });
+});
+        </script>
+    </body>
+    
+</html>

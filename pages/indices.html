@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+<head data-template="templates:surround" data-template-with="templates/head.html" data-template-at="head"/>
+    
+<body>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+    <nav data-template="templates:surround" data-template-with="templates/nav.html" data-template-at="navigation"/>
+    
+    <div class="container">
+        <h1>Indices</h1>
+        <br/>
+        <div class="tab">
+            <button class="tablinks" id="Persons_tab" onclick="openCity(event, 'Persons')">Persons <br/>
+                    <span class="badge badge-primary"/>
+                </button>
+            <button class="tablinks" onclick="openCity(event, 'Places')">Places <br/>
+                    <span class="badge badge-primary"/>
+                </button>
+            <button class="tablinks" onclick="openCity(event, 'Books')">Books <br/>
+                    <span class="badge badge-primary"/>
+                </button>
+            <button class="tablinks" onclick="openCity(event, 'Artworks')">Artworks <br/>
+                    <span class="badge badge-primary"/>
+                </button>
+        </div>
+        
+        <div id="Persons" class="tabcontent">
+            <h3>Persons</h3>
+            <input type="text" id="listInputPersons" onkeyup="myFunctionPersons()" placeholder="Search for names.."/>
+            <div class="mn-accordion" id="accordionPe">
+                <div data-template="app:listPers"/>
+            </div>
+            <script type="application/javascript" src="../static/js/searchListPersons.js"/>
+        </div>
+        
+        <div id="Places" class="tabcontent">
+            <h3>Places</h3>
+            <input type="text" id="listInputPlaces" onkeyup="myFunctionPlaces()" placeholder="Search for places.."/>
+            
+            <div class="mn-accordion" id="accordionPl">
+            <div data-template="app:listPlaces"/>
+            </div>
+            <script type="application/javascript" src="../static/js/searchListPlaces.js"/>
+        </div>
+        
+        <div id="Books" class="tabcontent">
+            <h3>Books</h3>
+            <input type="text" id="listInputBooks" onkeyup="myFunctionBooks()" placeholder="Search for books.."/>
+            
+            <div class="mn-accordion" id="accordionBo">
+            <div data-template="app:listBooks"/>
+            </div>
+            <script type="application/javascript" src="../static/js/searchListBooks.js"/>
+        </div>
+        
+        <div id="Artworks" class="tabcontent">
+            <h3>Artworks</h3>
+            <input type="text" id="listInputArtworks" onkeyup="myFunctionArtworks()" placeholder="Search for artworks.."/>
+            
+            <div class="mn-accordion" id="accordionAr">
+            <div data-template="app:listArtworks"/>
+            </div>
+            <script type="application/javascript" src="../static/js/searchListArtworks.js"/>
+        </div>
+        
+        
+        
+        <!--<ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item">
+                <a class="nav-link active" id="persons-tab" data-toggle="tab" href="#persons" role="tab" aria-controls="persons" aria-selected="true">Persons</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="places-tab" data-toggle="tab" href="#places" role="tab" aria-controls="places" aria-selected="false">Places</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="books-tab" data-toggle="tab" href="#books" role="tab" aria-controls="books" aria-selected="false">Books</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="artworks-tab" data-toggle="tab" href="#artworks" role="tab" aria-controls="artworks" aria-selected="false">Artworks</a>
+            </li>
+        </ul>-->
+        
+        <!--<div class="mn-accordion" id="persons">
+            
+            <!-\-Accordion item-\->
+            <div class="accordion-item">
+                <div class="accordion-heading">
+                    <h3>Section 1</h3>
+                    <div class="icon">
+                        <i class="arrow right"></i>
+                    </div>
+                </div>
+                <div class="accordion-content">
+                    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                </div>
+            </div>
+            <!-\-Accordion item-\->
+            
+        </div>
+        
+        <div class="mn-accordion" id="places">
+            
+            <!-\-Accordion item-\->
+            <div class="accordion-item">
+                <div class="accordion-heading">
+                    <h3>Section 1</h3>
+                    <div class="icon">
+                        <i class="arrow right"></i>
+                    </div>
+                </div>
+                <div class="accordion-content">
+                    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                </div>
+            </div>
+            <!-\-Accordion item-\->
+            
+        </div>
+        
+        <div class="mn-accordion" id="books">
+            
+            <!-\-Accordion item-\->
+            <div class="accordion-item">
+                <div class="accordion-heading">
+                    <h3>Section 1</h3>
+                    <div class="icon">
+                        <i class="arrow right"></i>
+                    </div>
+                </div>
+                <div class="accordion-content">
+                    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                </div>
+            </div>
+            <!-\-Accordion item-\->
+            
+        </div>
+        
+        <div class="mn-accordion" id="artworks">
+            
+            <!-\-Accordion item-\->
+            <div class="accordion-item">
+                <div class="accordion-heading">
+                    <h3>Section 1</h3>
+                    <div class="icon">
+                        <i class="arrow right"></i>
+                    </div>
+                </div>
+                <div class="accordion-content">
+                    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                </div>
+            </div>
+            <!-\-Accordion item-\->
+            
+        </div>-->
+        
+        
+        
+    
+    <!--<div class="tab-content" id="indices">
+        <div class="tab-pane fade show active" id="persons" role="tabpanel" aria-labelledby="persons-tab">
+            <input type="text" id="listInputPersons" onkeyup="myFunctionPersons()" placeholder="Search for names.."/>
+            <div class="listULPersons" id="listULPersons">
+                <div data-template="app:listPers"/>
+                
+<!-\-            <ul id="accordion">
+                <li data-template="app:listPers"/>
+            </ul>-\->
+            <script type="application/javascript" src="../static/js/searchListPersons.js"/>
+            
+        </div>
+        </div>
+        <div class="tab-pane fade" id="places" role="tabpanel" aria-labelledby="places-tab">
+            <input type="text" id="listInputPlaces" onkeyup="myFunctionPlaces()" placeholder="Search for places.."/>
+            <div class="listULPlaces" id="listULPlaces">
+                <div data-template="app:listPlaces"/>
+                
+                <!-\- <ul id="accordion">
+                <li data-template="app:listPlaces"/>
+            </ul>-\->
+            <script type="application/javascript" src="../static/js/searchListPlaces.js"/>
+        </div>
+        </div>
+        <div class="tab-pane fade" id="books" role="tabpanel" aria-labelledby="books-tab">
+            <input type="text" id="listInputBooks" onkeyup="myFunctionBooks()" placeholder="Search for books.."/>
+            
+            <div class="listULBooks" id="listULBooks">
+                <div data-template="app:listBooks"/>
+            
+            
+<!-\-            <ul id="accordion">
+                <li data-template="app:listBooks"/>
+            </ul>-\->
+            <script type="application/javascript" src="../static/js/searchListBooks.js"/>
+            </div>
+        </div>
+        <div class="tab-pane fade" id="artworks" role="tabpanel" aria-labelledby="artworks-tab">
+            <input type="text" id="listInputArtworks" onkeyup="myFunctionArtworks()" placeholder="Search for artworks.."/>
+            <div class="listULArtworks" id="listULArtworks">
+                <div data-template="app:listArtworks"/>
+            
+            <!-\-<ul id="accordion">
+                <li data-template="app:listArtworks"/>
+            </ul>-\->
+            <script type="application/javascript" src="../static/js/searchListArtworks.js"/>
+        </div></div>
+    </div>-->
+        <!-- Modal box; this is filled by .xslt and javascript code -->
+        <div class="modal fade" id="modalDetails" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5>Details</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">X</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div id="details"/>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <footer data-template="templates:surround" data-template-with="templates/footer.html" data-template-at="footer"/>
+    <script type="text/javascript" src="../static/js/openModal.js"/>
+    <script type="text/javascript" src="../static/js/mn-accordion.min.js"/>
+    <script type="text/javascript">
+        var myAccordion = new Accordion(document.getElementById("accordionPe"), {
+
+	    // options here
+
+	});
+	var myAccordion = new Accordion(document.getElementById("accordionPl"), {
+
+	    // options here
+
+	});
+	var myAccordion = new Accordion(document.getElementById("accordionBo"), {
+
+	    // options here
+
+	});
+	var myAccordion = new Accordion(document.getElementById("accordionAr"), {
+
+	    // options here
+
+	});
+    </script>
+    <script>
+
+            $("[id^=person]").click(function(){
+            
+            <!-- fetch the @ref from the data-ref parameter passed by the .xslt processor -->
+            peref = $(this).attr('data-ref')
+            console.log('ref=' + peref)
+            $("#details-" + peref).load("persdetails.html?searchkey=" + peref)
+
+    });
+            $("[id^=place]").click(function(){
+            
+            <!-- fetch the @ref from the data-ref parameter passed by the .xslt processor -->
+            plref = $(this).attr('data-ref')
+            console.log('ref=' + plref)
+            $("#details-" + plref).load("placedetails.html?searchkey=" + plref)
+
+    });
+            $("[id^=book]").click(function(){
+            
+            <!-- fetch the @ref from the data-ref parameter passed by the .xslt processor -->
+            boref = $(this).attr('data-ref')
+            console.log('ref=' + boref)
+            $("#details-" + boref).load("bookdetails.html?searchkey=" + boref)
+
+    });
+            $("[id^=artwork]").click(function(){
+            
+            <!-- fetch the @ref from the data-ref parameter passed by the .xslt processor -->
+            arref = $(this).attr('data-ref')
+            console.log('ref=' + arref)
+            $("#details-" + arref).load("artworkdetails.html?searchkey=" + arref)
+
+    });
+    
+
+        </script>
+
+    
+    <script>
+        
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i &lt; tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i &lt; tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+    var items = document.getElementsByClassName("accordion-item")
+    for (i = 0; i &lt; items.length; i++) {
+        items[i].classList.remove("state-open");
+        }
+    
+}
+</script>
+
+    
+    <!--<script>
+                $('#listULPersons').on('shown.bs.collapse', function () {
+                ref = $(this).find().attr('data-ref');
+                console.log(ref)})
+            </script>-->
+    
+</body>
+    
+</html>

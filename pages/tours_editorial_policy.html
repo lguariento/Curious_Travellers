@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <head data-template="templates:include" data-template-path="templates/head.html" data-template-at="head"> </head>
+
+    <body id="body">
+        <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+        <nav data-template="templates:surround" data-template-with="templates/nav.html" data-template-at="navigation"/>
+        <br/>
+        <br/>
+        <div class="container">
+            <h2>CURIOUS TRAVELLERS: THOMAS PENNANT AND THE WELSH AND SCOTTISH TOUR, 1760-1820</h2>
+            <b>Tours of Wales and Scotland, 1760-1820: Methodology</b>
+            <br/>
+            <br/>
+            <h3>Introduction</h3>
+            <p>Thomas Pennant’s Welsh and Scottish tours were a major catalyst for the hundreds of
+                tours that followed in their wake over the next half century. While some of these
+                texts were published in the period, and became important works in their own right,
+                many more remain in manuscript in libraries and record offices the length and
+                breadth of Britain. The Curious Travellers project aims to chart the influence of
+                Pennant on subsequent travellers to Wales and Scotland by creating a searchable
+                online collection of these unpublished tours. Our edition of manuscripts texts from
+                the period will enable us to explain in much more detail the role of home tourism in
+                the construction of national histories and identities, both at a ‘four nations’
+                level, and in wider contexts. In considering how the selected tours represent
+                contemporary and historical Britain, the project will also examine travellers’
+                engagement with vernacular Celtic cultures, including language, poetry and song, and
+                ask how far their perceptions were influenced by contemporary ideas from science,
+                landscape aesthetics and topography.</p>
+            <p>The following editorial guidelines were produced by Dr Alex Deans and Dr Elizabeth
+                Edwards (Research Associates), with input from Dr Mary-Ann Constantine (PI), Dr
+                Nigel Leask (Co-I) and Dr Luca Guariento (Web Developer).</p>
+
+            <h3>Edition Contents</h3>
+            <p>The <a href="editions.curioustravellers.ac.uk">Curious Travellers website</a>
+                presents transcriptions of some twenty-five (and counting) previously unpublished
+                tours, with a range of search facilities and supporting introductory and editorial
+                material. Manuscript home tours can be found in research libraries and record
+                offices all over Britain, and the final selection draws on material held in
+                geographically-scattered institutions (e.g., the British Library, the University of
+                Manchester John Rylands Library, a range of local record offices). Substantial
+                collections of Welsh and Scottish tours exist particularly in the National Library
+                of Wales and National Library of Scotland, and items from these repositories form
+                the backbone of our edition. Budget constraints did not allow for fully reproducing
+                original images of the manuscripts online, though our introductions are illustrated
+                with contemporary images where possible. Each document has its own individual record
+                in the project database, containing metadata (information such as its author, date
+                of composition, source repository). XML tagging records particular areas of
+                interest, such as people and place names, books, manuscripts and art works
+                mentioned. Our policy on this is explained in more detail later in this
+                document.</p>
+            <h3>Basis of Textual Policy</h3>
+
+            <p>While recognizing the importance of reflecting the state of the copy-texts, we also
+                aim to produce an edition in which fidelity to the sources is reconciled with
+                clarity for modern readers, including the general public, students and specialist
+                scholars. Our textual/editorial policy reflects that of ‘The Letters of Thomas
+                Pennant’ in order to standardise the presentation of texts across the project as a
+                whole as far as possible. It is therefore based, with some adaptation and
+                variations, on that devised by Dr David Shuttleton for the AHRC funded project
+                ‘Consultation Letters of Dr William Cullen (1710-1790) at the Royal College of
+                Physicians of Edinburgh’. There are fewer examples of modern editions of unpublished
+                travel writing, but we have also consulted Marie E. McAllister’s edition of Ann
+                Flaxman’s manuscript continental tour, <a href="https://www.rc.umd.edu/editions/flaxman/index.html" target="_blank">
+                    <i>An
+                        Uninteresting Detail of a Journey to Rome (1787-9)</i>
+                </a>, published by
+                    <i>Romantic Circles Electronic Editions</i>, and Alastair J. Durie’s edited
+                selection of unpublished Scottish tours, <i>Travels in Scotland 1788-1881 A
+                    Selection From Contemporary Tourist Journals</i> (Boydell Press, 2012).</p>
+
+            <p>The XML schema used for our transcriptions is derived from current <a href="http://www.tei-c.org/Guidelines/P5/" target="_blank">Textual Encoding
+                    Initiative (TEI) guidelines</a>. Our general policy is to reproduce all of the
+                original text of the tour, including the original paragraphing, punctuation, period
+                spellings, misspellings, grammatical solecisms, neologisms, authorial punctuation,
+                contractions, abbreviations, superscripts, underlinings, italics, deletions,
+                numberings, symbols, marginalia, etc. Wherever practicable, this extends to any
+                later additions in the form of headings, marginal notes etc. Original spelling and
+                grammar is silently retained, however TEI &lt;sic&gt;&lt;/sic&gt; tags are used
+                where apparent authorial slips or solecisms could be mistaken for transcription or
+                editorial errors, e.g. in the case of needlessly repeated words.</p>
+
+            <p>We do not always reproduce the precise visual appearance of the original manuscripts
+                in terms of layout. If any text continues down the side of a page, for example, we
+                have treated it as part of a continuous paragraph. While we preserve existing
+                paragraph breaks and do not impose paragraphing on a document that lacks it, our
+                paragraphs themselves are standardised in being separated by line breaks and lacking
+                indentation. We do not retain original line breaks, but, following McAllister, have
+                indicated page breaks in the original manuscript by means of superscripts in the
+                right-hand margin. In the case of poems or songs, the lineation of the manuscript
+                has been retained. Where necessary editorial notes have been inserted in the form of
+                clickable links, in order to distinguish them from authorial notes, which appear at
+                the end of the text.</p>
+
+            <p>Our more detailed policy on particular matters of transcription follows below:</p>
+
+            <ul>
+                <li>Upper and Lower Cases: For headings, sub-sections and words appearing
+                    mid-sentence, we reproduce the original use of lower-case and capitals whenever
+                    decidable. Eighteenth-century writers often use enlarged letters at the start of
+                    sentences that are not actually capitals (in particular an enlarged lower-case
+                    version of ‘a’ is often employed). For the transcriptions, we render these as
+                    full-capitals (i.e. wherever the start of a new sentence is clearly indicated in
+                    the text by the use of a full-stop or a dash, then we start the first word with
+                    a capital letter). Alternatively, in a number of hands the lower-case letters
+                    ‘c’ and ‘s’ in particular tend to appear more enlarged, but unless found at the
+                    start of a sentence, these are treated as lower-case. </li>
+                <li>Disguised Names: Where a name is indicated by a number of dashes (e.g. ‘Mr.
+                    F-------’), the exact number of dashes is transcribed. </li>
+                <li>Dashes: Dashes are standardised as either short ( - ), medium (–) or long (
+                    ––––– ) and transcribed, according to normal usage, with a single space both
+                    before and after the dash. Where obvious, we distinguish between straight and
+                    ‘italicised/curly’ dashes. </li>
+                <li>Brackets: Where obvious, we preserve any original distinction between square and
+                    curved brackets, as well as the use of forward-slashes to serve as brackets. </li>
+                <li>Full stops in abbreviations: These are standardised to some degree, to put the
+                    full stop (if one exists) at the end of the abbreviated word even if it falls
+                    within a superscript – i.e. ‘W<sup>m.</sup>’ rather than ‘W<sup>m</sup>.’ or ‘W.<sup>m</sup>’ for ‘William’,
+                    regardless of the precise placement of the full stop on the page. </li>
+                <li>Long s (ſ): These are standardised as lower-case ‘s’, except where they have
+                    been used as a form of specialist notation. </li>
+                <li>Title pages, prefaces and appendices: In cases where title pages appear within a
+                    manuscript (e.g. as a mock-up of a published title page), the original lineation
+                    and pagination has been preserved. Other prefatory material and any appendices
+                    have been transcribed according to the editorial principles outlined above.
+                </li>
+            </ul>
+
+            <h3>Expansions and contractions</h3>
+
+            <p>As David Fairer observes in his edition of Warton, ‘obsolete abbreviations are by far
+                the largest obstacle to the readability of a text’. The naturalised transcriptions
+                therefore expand or normalise all abbreviations not in standard use today: for
+                example, ‘y<sup>e</sup>’ and ‘y<sup>t</sup>’ (where the ‘y’ is strictly speaking a thorn) are expanded to
+                ‘the’ and ‘that’. Abbreviations that are self-explanatory, clear from the context in
+                which they appear, or occur very frequently – e.g. ‘y<sup>r</sup>’ for ‘your’ – are
+                retained.</p>
+            <p>Some different rules apply for specific issues:</p>
+
+            <ul>
+                <li>Abbreviated signatures: These are relatively common, especially for first names
+                    (i.e. ‘W<sup>m.</sup>’ and ‘J<sup>no.</sup>’ for ‘William’ and ‘John’). We do not expand these; the
+                    person record for each person mentioned is linked to the document’s database
+                    record, including the full version of their name. </li>
+                <li>Contracted surnames: These – e.g. ‘Lady E.’, ‘Mr F----’ – are not expanded.
+                    Usages of this kind indicate informality and occasionally generate ambiguity
+                    (between Mr. Fielding and Mr. Faulkner, say), and for both these reasons they
+                    are preserved. Where the person can be identified, they have been tagged using
+                    an XML ID attribute and can be clicked by the user to reveal biographical
+                    information. </li>
+                <li>Contracted book titles: These – e.g ‘Br. Zool’ for <i>British Zoology</i> – have been
+                    retained but tagged using an XML ID attribute that corresponds to the relevant
+                    bibliographical record in the database. </li>
+                <li>Common abbreviations: We do not expand any contraction which is still in common
+                    and familiar use today (such as ‘Dr’ for ‘Doctor’, for example).</li>
+            </ul>
+
+            <h3>XML content markup</h3>
+
+            <p>In addition to encoding each document’s structure (e.g. paragraph breaks – although
+                not line breaks, in contrast with the Letters) a TEI P5 XML schema adapted to the
+                aims of the project has been used to mark up content features of each tour:
+                place-names (both contemporary and modern forms), people (referring to our
+                biographical data base), published works and their authors, and art works. These
+                elements are tagged using the &lt;placeName&gt;, &lt;persName&gt;, &lt;bibl&gt;, and
+                &lt;art&gt; tags respectively. The significant benefit of using XML in this way is
+                that we can apply the same numeric ID attribute to these elements regardless of how
+                a particular feature is spelled or expressed, especially useful given the
+                non-standardized nature of eighteenth-century toponyms, especially in Welsh or
+                Gaelic.</p>
+
+            <p>Structural and orthographical elements are treated as follows:</p>
+
+            <ul>
+                <li>Tour header: Each document has a TEI header which includes a unique numerical
+                    ID, an indicative title, the name of the original author, the date of
+                    composition, the shelf-mark of the manuscript source, any additional notes on
+                    the source, and the editor of the tour. </li>
+                <li>Textual divisions: Corresponding TEI tags are applied to the tour body and
+                    individual paragraphs, including internal divisions of time and/or place (e.g.
+                    where the tour may have been written sequentially in diary format). </li>
+                <li>Abbreviations and expansions: Where abbreviations in the original tour present
+                    an obstacle to readablility, a normalised version is provided through the use of
+                    XML encoding (e.g. &lt;choice&gt;&lt;abbr&gt;abbreviated
+                    term&lt;/abbr&gt;&lt;expan&gt;expanded term&lt;/expan&gt;&lt;/choice&gt;). </li>
+                <li>Highlighted text and characters: Superscript, subscript, underlines and
+                    italicised text are preserved in the transcription through the use of the
+                    corresponding ‘&lt;hi rend=&lt;/hi&gt;’ XML encoding. </li>
+                <li>Marginalia and annotations: Authorial footnotes and endnotes are retained but
+                    standardised so that any authorial notes appear below the tour body, with the
+                    point or span of attachment indicated through the ‘target’ attribute, and the
+                    location of the note in the source text through the ‘place’ attribute. Where
+                    possible, the symbol used to mark the note in the manuscript has been reproduced
+                    or approximated, e.g. x. Marginal notes are placed at the end of the paragraph
+                    to which they refer. Where the author of a note or annotation differs from that
+                    of the tour this is indicated through the TEI &lt;resp&gt; (responsibility)
+                    element and the author identified if possible. The &lt;handshift&gt; element is
+                    used to indicate the beginning of text written in a new hand, whether in a note
+                    or elsewhere in the document. Both marginal notes and authorial footnotes and
+                    endnotes are rendered distinctly from editorial footnotes, the former attached
+                    to the text by Roman numerals, the latter by Arabic numerals and appearing at
+                    the very end of the documents. </li>
+                <li>Substitutions and additions: Authorial additions (where distinct from notes) and
+                    substitutions of words and characters into a line or sequence are tagged in XML
+                    and the position of the inserted text is given, e.g. above, below, margin. </li>
+                <li>Deletions and illegible or unclear text: These are marked using XML elements.
+                    Where legible, both strikethroughs and the words beneath them are reproduced; if
+                    the deleted text is illegible but the number of deleted characters or words can
+                    be determined, this quantity is provided. Gaps where text is illegible or
+                    destroyed are indicated in the mark-up, with the number of missing characters or
+                    words given where available. Text which has been transcribed but which is
+                    unclear in the original document is also tagged accordingly. Reasons are given
+                    for unclear or missing text, e.g. damaged or torn manuscripts. </li>
+            </ul>
+
+            <h3>Document information in the database record</h3>
+
+            <p>The record for each document, each person, and each place, contains information in
+                specific fields.</p>
+
+            <ul>
+                <li>ID: This is the unique numerical identifier, assigned by the database. </li>
+                <li>Date: Where the date of the tour is not clear from explicit dating on the
+                    document itself, or where that dating is unclear due to damage or authorial
+                    error, there are three levels of certainty: date inferred, date uncertain and
+                    date approximate. Our policy is to use ‘inferred’ only if we can be certain, due
+                    to internal or surrounding evidence, of a document’s date of writing, but there
+                    is no explicit dating on the document itself. </li>
+                <li>Languages: Languages used in the tour, e.g. English, Welsh, Latin </li>
+                <li>Notes on the tour: Free-text notes on the tour – e.g. if the manifestation is
+                    unusual in some way. </li>
+                <li>Repository: Name of the institution in which the original document is held – e.g
+                    National Library of Wales. </li>
+                <li>Shelfmark: Shelfmark assigned to the original document by its repository. </li>
+                <li>People: Each person included in the archive has their own database record, with
+                    particular types of information recorded about them, namely an ID, surname,
+                    forename, role name or title, any variants by which they are mentioned in the
+                    tours, and any additional free-form explanatory notes. </li>
+                <li>Places: All places mentioned within the tour have their own database record,
+                    with particular types of information recorded about them, namely an ID, a
+                    standardized place name, any variant place names within the texts, GPS
+                    coordinates, and any additional free-form explanatory notes. </li>
+                <li>Publications: Publications mentioned within the tours and bibliographical
+                    information are assigned the following information: <ul>
+                        <li>ID – This is the unique numerical identifier, assigned by the
+                            database.</li>
+                        <li>Title – The full title of the work.</li>
+                        <li>Author – The named author or authors of the work.</li>
+                        <li>Year of publication – Self-explanatory.</li>
+                        <li>Place of Publication – Self-explanatory.</li>
+                        <li>Publisher – Self-explanatory.</li>
+                        <li>Edition – The specific edition of the work referred to in the tour, if
+                            this is given.</li>
+                        <li>Language – The language in which the work is printed, e.g. English,
+                            French.</li>
+                        <li>Type – The type of publication, e.g. book, pamphlet, periodical.</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h3>Bibliography</h3>
+
+            <h4>Scholarly editions in book-form</h4>
+            <ul>
+                <li>Battestin, Martin C., and Clive T. Probyn, eds., <i>The Correspondence of Henry
+                        and Sarah Fielding</i> (Oxford: Clarendon Press, 1993).</li>
+                <li>Durie, Alastair J., ed., <i>Travels in Scotland 1788-1881: A Selection From
+                        Contemporary Tourist Journals</i> (Boydell Press, 2012).</li>
+                <li>Kahrl, George M., and David M. Little, eds., <i>The Letters of David
+                    Garrick</i>. 3 vols. (London: Oxford University Press, 1963).</li>
+                <li>Pettit, Henry, ed., <i>The Correspondence of Edward Young</i> (Oxford: Clarendon
+                    Press, 1971).</li>
+                <li>Redford, Bruce, ed., <i>The Letters of Samuel Johnson</i>. 5 vols. (Princeton:
+                    Princeton University Press, 1991-93).</li>
+            </ul>
+            <h4>Scholarly editions (electronic)</h4>
+            <ul>
+                <li>
+                    <a href="http://www.cullenproject.ac.uk/" target="_blank">
+                        <i>The Consultation
+                            Letters of Dr William Cullen (1710–1790) at the Royal College of
+                            Physicians of Edinburgh</i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.rc.umd.edu/editions" target="_blank">
+                        <i>Romantic Circles
+                            Electronic Editions</i>
+                    </a>
+                </li>
+            </ul>
+
+            <h4>Miscellaneous reference</h4>
+
+            <ul>
+                <li>
+                    <a href="http://www.tei-c.org/Guidelines/P5/" target="_blank">Textual Encoding
+                        Initiative <i>P5 Guidelines</i>
+                    </a>
+                </li>
+                <li>Alcock, R. C., and F. C. Holland, <i>The Postmarks of Great Britain and Ireland,
+                        Being a Survey of British Postmarks from 1660 to 1940 (Cheltenham: R. C.
+                        Alcock, 1940)</i>, and later supplements; see also their <i>British
+                        Postmarks: A Short History and Guide</i>, 2<sup>nd</sup> edn. (1968).</li>
+                <li>Fitch, Henry, <i>The Perfect Calendar for Every Year of the Christian Era</i>
+                    (New York: Funk and Wagnells, 1928). An on-line search on ‘perpetual calendar’
+                    brings up several useful sites for calculating days of the week in any given
+                    month and year; see also <a href="http://genfair.com/dates.htm" target="_blank">here</a>.</li>
+                <li>Hunter, Joseph, ed. J. C. Clay, <i>Familiae minorum gentium</i>. 4 vols. The
+                    Harleian Society. Vols. 37-40 (London: Harleian Society, 1894-96).</li>
+                <li>Hyde, Ralph, ed., <i>The A to Z of Georgian London</i> (London: London
+                    Topographical Society, 1982). This work reprints, with index, John Rocque’s map
+                    of 1747.</li>
+                <li>Salmon, Vivian, “Orthography and Punctuation”, in <i>The Cambridge History of
+                        the English Language, Volume III: 1476-1776</i>, ed. Roger Lass (Cambridge:
+                    Cambridge University Press, 1999), pp. 13-55.</li>
+                <li>Zurcher, Andrew, et al., “<a href="http://www.english.cam.ac.uk/ceres/ehoc" target="_blank">English Handwriting 1500-1700: An Online Course,</a>”. This
+                    is a Renaissance resource, but some of the later examples are relevant and
+                    helpful.</li>
+            </ul>
+        </div>
+        <br/>
+        <br/>
+        <footer data-template="templates:include" data-template-path="templates/footer.html" data-template-at="footer"/>
+    </body>
+
+</html>

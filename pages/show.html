@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <head data-template="templates:include" data-template-path="templates/head.html" data-template-at="head"/>
+
+    <body>
+        <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+        <nav data-template="templates:include" data-template-path="templates/nav.html" data-template-at="navigation"/>
+        <br/>
+        <div class="container">
+
+            <!-- This is the button loading the tour intro. It is handled by introtours.js, and loads and external .html named after the .xml id,
+            which is grabbed via the parameter in the address bar
+            <div id="theIntro">
+                <h5>
+                    <a data-toggle="collapse" href="#introTourCollapse" role="button" aria-expanded="false" aria-controls="introTourCollapse" class="collapsed btnIntro">Show the introduction to this tour</a>
+                </h5>
+                <hr/>
+                <div class="collapse" id="introTourCollapse">
+                    <div class="card card-body" id="introTour"> </div>
+                </div>
+            </div>
+            End of intro tours button and loaded section -->
+
+            
+            <div data-template="app:XMLtoHTML"/>
+
+            <!-- Modal box; this is filled by .xslt and javascript code -->
+            <div class="modal fade" id="modalDetails" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-lg" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5>Details</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                            
+                                
+                        </div>
+                        <div class="modal-body">
+                            <div id="details"/>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Modal box; this is filled by .xslt and javascript code -->
+            <div class="modal fade" id="modalDetails2" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-lg" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5>Details</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                            
+                                
+                        </div>
+                        <div class="modal-body">
+                            <div id="details2"/>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Modal box; this is filled by .xslt and javascript code -->
+            <div class="modal fade" id="modalDetails3" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-lg" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5>Details</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                            
+                            
+                        </div>
+                        <div class="modal-body">
+                            <div id="details3"/>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <footer data-template="templates:include" data-template-path="templates/footer.html" data-template-at="footer"/>
+        <script type="text/javascript" src="../static/js/highlight.js"/>
+        <script type="text/javascript" src="../static/js/introtour.js"/>
+        <script type="text/javascript" src="../static/js/openModal.js"/>
+        
+        <script type="text/javascript" src="../static/js/countmodals.js"/>
+    </body>
+
+</html>
