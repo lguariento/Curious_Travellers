@@ -20,7 +20,7 @@ declare function local:hrefToDoc($node as node()) {
 declare variable $index := doc("/db/apps/ct_editions/data/indices/pedb.xml");
 
 
-<!-- Document 132 has two receipients! -->
+(: Document 132 has two receipients! :)
 
 
     (:if((substring(request:get-parameter('selected', ()), 2, 1)) = "2") then( :)
