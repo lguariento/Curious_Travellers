@@ -1,9 +1,9 @@
 {
     "servers": {
         "localhost": {
-            "server": "http://localhost:8080/exist",
+            "server": "http://130.209.97.222:8080",
             "user": "admin",
-            "password": ""
+            "password": "a8^CXi7JlFtFB"
         }
     },
     "sync": {
