@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
     schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ardb">
     <teiHeader>
         <fileDesc>
@@ -152,7 +152,7 @@
                         <date/>
                         <addName>oval drawing ... of the habitable part of valle crucis abby</addName>
                         <note>
-                            <note>                                        <note>This drawing may be identified with an oval view of Valle Crucis Abbey in Pennant's extra-illustrated copy of 
+                            <note>                                        <note>This drawing may be identified with an oval view of Valle Crucis Abbey in Pennant's extra-illustrated copy of
                         <hi rend="italic">A tour in Wales</hi> (2nd edn., 1784), <ref type="http" target="http://hdl.handle.net/10107/4692237">here
                         </ref>, p. 398/3.</note>
                                     </note>
@@ -275,7 +275,7 @@
                         <date/>
                         <addName/>
                         <note>
-                            <note>                                        <note>See watercolour painting of 'Wrexham Town &amp; Church', in Pennant's extra-illustrated 
+                            <note>                                        <note>See watercolour painting of 'Wrexham Town &amp; Church', in Pennant's extra-illustrated
                                                 <hi rend="italic">
                                         <ref type="http" target="http://hdl.handle.net/10107/4692237">A tour in Wales</ref>
                                     </hi>
@@ -292,7 +292,7 @@
                         <date/>
                         <addName/>
                         <note>
-                            <note>                                        <note>See watercolour 'Llangollen Bridge and Town' in Pennant's extra-illustrated 
+                            <note>                                        <note>See watercolour 'Llangollen Bridge and Town' in Pennant's extra-illustrated
                                 <hi rend="italic">
                                                 <ref type="http" target="http://hdl.handle.net/10107/4692237">A tour in Wales
                                 </ref>
@@ -310,11 +310,11 @@
                         <date/>
                         <addName/>
                         <note>
-                            <note>Moses Griffith's watercolour painting of Castell Dinas Brân appears in Pennant's extra-illustrated 
+                            <note>Moses Griffith's watercolour painting of Castell Dinas Brân appears in Pennant's extra-illustrated
                                 <hi rend="italic">
                                     <ref target="http://hdl.handle.net/10107/4692237" type="http">A tour in Wales
                                 </ref>
-                                </hi> (2nd edn., 1784), p. 296/4. For John Ingleby's watercolour 'Llangollen, Castle Dinas Bran', 
+                                </hi> (2nd edn., 1784), p. 296/4. For John Ingleby's watercolour 'Llangollen, Castle Dinas Bran',
                                 dated 1793, see <ref type="http" target="http://delwedd.llgc.org.uk/delweddau/ing/ing00037.jpg">here</ref>.</note>
                         </note>
                     </rs>
@@ -330,7 +330,7 @@
                             <note>Two watercolour drawings of
                                     Tower are included in Pennant's extra-illustrated <hi rend="italic">
                                     <ref target="http://hdl.handle.net/10107/4692237" type="http">A tour in Wales</ref>
-                                </hi> (2nd edn., 1784), 
+                                </hi> (2nd edn., 1784),
                                     pp. 422/2 and 427.
                         </note>
                         </note>
@@ -362,7 +362,7 @@
                         <addName/>
                         <note>
                             <note>                                        <note>Small drawings of the arms of prominent north Wales families are
-                                    prevalent throughout Pennant's eight-volume extra-illustrated 
+                                    prevalent throughout Pennant's eight-volume extra-illustrated
         <hi rend="italic">A tour in Wales</hi>. Both Moses Griffith and John Ingleby worked on these. See <ref target="1009.xml">1009</ref> and <ref target="1012.xml">1012</ref>; and for Ingleby, employed by Pennant as well as others
      for small commissions including the copying of coats of arms, see <ref target="https://www.library.wales/discover/digital-gallery/pictures/ingleby-watercolours/" type="http">here</ref>.
                                 </note>
@@ -998,7 +998,7 @@
                         <date>c.1614-1616</date>
                         <addName/>
                         <note>
-                            <note>Daniel in the Lions’ Den (c. 1614/16), now held at the National Gallery of Art, Washington. See https://www.nga.gov/content/ngaweb/Collection/art-object-page.50298.html. 
+                            <note>Daniel in the Lions’ Den (c. 1614/16), now held at the National Gallery of Art, Washington. See https://www.nga.gov/content/ngaweb/Collection/art-object-page.50298.html.
 Frequently mentioned by visitors to Hamilton House.</note>
                         </note>
                     </rs>
@@ -2175,7 +2175,7 @@ Frequently mentioned by visitors to Hamilton House.</note>
                         <note>
                             <note>Line engraving of an
                             un-bearded Thomas Cranmer, Archbishop of Canterbury. See <ref type="http" target=" https://www.npg.org.uk/collections/search/portrait/mw125578/Thomas-Cranmer">here</ref>
-                           
+
                             [accessed 19 September 2018].</note>
                         </note>
                     </rs>
@@ -4062,7 +4062,7 @@ The van Kronenburgh portrait is at <ref type="http" target="https://museum.wales
                         <geogName type="current"/>
                         <date/>
                         <addName/>
-                        <note>Monument of the Wynne Family representing – Sir John Wynne in Armour Lying down his Lady by him and their Children Kneeling round it. 
+                        <note>Monument of the Wynne Family representing – Sir John Wynne in Armour Lying down his Lady by him and their Children Kneeling round it.
 Possibly a reference to the Gruffydd memorial at Llanbeblig Church, which dates to the late sixteenth century; see http://coflein.gov.uk/en/archive/6387978/details/504 and http://coflein.gov.uk/en/archive/6387979/details/504 </note>
                     </rs>
                     <rs xml:id="ar0328">
